@@ -9,7 +9,7 @@ We believe in absolute transparency and long-term accountability. Every time a d
 3.  **Verification is public**: Anyone can audit our draws using the data stored here.
 
 ## How It Works
-Our RNG system is "Provably Fair". It relies on **Drand**, a distributed randomness beacon that generates unpredictable, publicly verifiable random numbers.
+Our RNG system is "Provably Fair". It relies on **Drand**, a distributed randomness beacon. Drand does not supply the final random numbers directly; instead, it provides an unpredictable, publicly verifiable random string which we use as the core seed to generate the results.
 
 For each draw, we combine:
 1.  **Server Seed**: The randomness from a specific Drand round.
