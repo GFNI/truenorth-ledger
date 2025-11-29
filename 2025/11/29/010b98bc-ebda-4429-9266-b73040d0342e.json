@@ -1,0 +1,21 @@
+{
+    "round_id": "010b98bc-ebda-4429-9266-b73040d0342e",
+    "draw_title": "Test Draw £1,000",
+    "competition_url": "https://example.com/comp/123",
+    "operator": {
+        "name": "GFNI RNG",
+        "website": "https://gfni-rng.test",
+        "company_number": null
+    },
+    "server_seed_hash": "test-server-seed-hash",
+    "client_seed": "test-client-seed",
+    "static_salt": "test-static-salt",
+    "tickets_sold": 100,
+    "max_tickets": 200,
+    "combined_hash": "test-combined-hash",
+    "result": "42",
+    "external_round_id": "TEST-REFINED-1764432928",
+    "processing_status": "completed",
+    "revealed_at": "2025-11-29T16:15:28.000000Z",
+    "created_at": null
+}
