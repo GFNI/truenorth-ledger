@@ -36,14 +36,25 @@ Each JSON file contains all the public parameters needed to verify the result.
 ### Example JSON
 ```json
 {
-  "round_id": "550e8400-e29b-41d4-a716-446655440000",
-  "external_round_id": "1234567",
-  "server_seed": "8d9...",
-  "client_seed": "1732837...",
-  "tickets_sold": 150,
-  "max_tickets": 200,
-  "result": "42",
-  "revealed_at": "2025-11-29T12:00:00.000000Z"
+    "round_id": "b564cfe5-97bc-4014-b630-4138ca914088",
+    "draw_title": "£3,000",
+    "competition_url": "https://truenorth.rafflex.io/competition/3000gbp-cash",
+    "operator": {
+        "name": "TrueNorth",
+        "website": "https://truenorth.rafflex.io",
+        "company_number": 10101010
+    },
+    "server_seed_hash": "a0652cb91fee10a77f8a4b31ba3a5b084c460531bd34114782a265eb6006e5e93a39cb5e1fc1eee21451e864d8908d88",
+    "client_seed": "1764428274572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4392,
+    "max_tickets": 5000,
+    "combined_hash": "db4268498d15a9971e39a65001c29ad3632dfd030d6e061b3659a975203824a3",
+    "result": "4628",
+    "external_round_id": "23874972",
+    "processing_status": "completed",
+    "created_at": "2025-11-29T14:57:54.000000Z",
+    "revealed_at": "2025-11-29T14:58:05.000000Z"
 }
 ```
 
