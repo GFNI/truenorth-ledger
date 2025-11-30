@@ -1,5 +1,5 @@
-# TrueNorth Ledger
 ![Tests](https://img.shields.io/badge/tests-passing-green) ![Coverage](https://img.shields.io/badge/coverage-100%25-green)
+# TrueNorth Ledger
 This repository serves as the **public ledger** for all random number generation (RNG) events conducted by TrueNorth.
 ## System Verification
 The integrity of this ledger is backed by a comprehensive test suite ensuring the RNG process, cryptographic hashing, and GitHub integration work exactly as specified.
