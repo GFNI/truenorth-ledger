@@ -1,0 +1,22 @@
+{
+    "round_id": "8b75f0c3-d9f1-4df9-a62b-5982a93c68c4",
+    "draw_title": "£100 Cash",
+    "competition_url": "https://rng.getfoundni.co.uk/",
+    "operator": {
+        "name": "BreezyWP",
+        "website": "https://breezywp.com/",
+        "company_number": "10101010"
+    },
+    "drand_server_seed": "48aab82a9c5e4cd56e62aebb76a4af1b21f196ac8ecb84aab8770384b6b5fae0",
+    "drand_seed_hash": "8ba0b6539b9b22d889bb1c5b01692d9e861e62340cb4ec0953a6eef38bf9800703f98a76e14bb688bd565e6f8fa9a5b4",
+    "client_seed": "1764584033504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16,
+    "max_tickets": 100,
+    "combined_hash": "15ae33a18e925808cd571551e889d255714ee958efd199dc13458b0f62a227d8",
+    "result": "78",
+    "external_round_id": "23926892",
+    "processing_status": "completed",
+    "created_at": "2025-12-01T10:13:53.000000Z",
+    "revealed_at": "2025-12-01T10:14:09.000000Z"
+}
