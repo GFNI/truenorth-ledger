@@ -1,0 +1,22 @@
+{
+    "round_id": "e3ca4e1e-16db-4ada-97d9-5071a92503de",
+    "draw_title": "aslikudhsalkjdh (Child Draw)",
+    "competition_url": "https://drand.cloudflare.com/public/latest",
+    "operator": {
+        "name": "No Man Pls No",
+        "website": "https://releases.moe/",
+        "company_number": "+5511996763838"
+    },
+    "drand_server_seed": "9cb93f1fc65bd3e188625fe4170bdb15166bf17cc8e841621d52a42f112af844",
+    "drand_seed_hash": "b6659186d90446c189c941637136eb1adc8664db7422bbfeabdef4823094f29c108b1907ed65f069c1470ecc2a5748d9",
+    "client_seed": "1769564151973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 80,
+    "combined_hash": "4685d6fe93d2e914e1797b57d588b0e1e01297f16700cab9c84f1c22b1e277d3",
+    "result": "7",
+    "external_round_id": "25586932",
+    "processing_status": "completed",
+    "created_at": "2026-01-28T01:35:52.000000Z",
+    "revealed_at": "2026-01-28T01:36:00.000000Z"
+}
