@@ -1,0 +1,22 @@
+{
+    "round_id": "25a62e79-60a9-449e-8119-0332d0099c3b",
+    "draw_title": "test1",
+    "competition_url": "https://releases.moe/",
+    "operator": {
+        "name": "No Man Pls No",
+        "website": "https://releases.moe/",
+        "company_number": "+5511996763838"
+    },
+    "drand_server_seed": "a262c5882b87427009e584aed1eabe143f1bc7f4184ab86ed75bb83cd274dd66",
+    "drand_seed_hash": "b3fdf791134f1b277ed744c5bfbbb3bf4e5a962fe9a75cc97b200f7b01a80749f6ae32f55de50898c073dafa24cb3c64",
+    "client_seed": "1769563840232",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6,
+    "max_tickets": 60,
+    "combined_hash": "7ce0576cfac53f24b462024339e8ced5b420331462afb1f95e0712855c0dd1de",
+    "result": "49",
+    "external_round_id": "25586828",
+    "processing_status": "completed",
+    "created_at": "2026-01-28T01:30:40.000000Z",
+    "revealed_at": "2026-01-28T01:30:51.000000Z"
+}
