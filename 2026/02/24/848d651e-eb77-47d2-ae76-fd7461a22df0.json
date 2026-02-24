@@ -1,0 +1,22 @@
+{
+    "round_id": "848d651e-eb77-47d2-ae76-fd7461a22df0",
+    "draw_title": "test",
+    "competition_url": "https://phatstax.co.uk/admin/products/the-rat-scratch-4780",
+    "operator": {
+        "name": "Northumberland Jackpots Ltd",
+        "website": "https://phatstax.co.uk/",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "9843820db936abd0daf1d95b89a694e24f62117e831677e6446f5fb93dcd1102",
+    "drand_seed_hash": "88c6c52b5162f11342ab80926868285a0b35ccc0bb43d78b8cbc4acd944f008f2adc25993607d95133ccd0542a7488eb",
+    "client_seed": "1771947772116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 999999,
+    "combined_hash": "6eede8c19c7c15047ad646d471b7d387ad1393d2c8d805367d8c8cf2e1bfc574",
+    "result": "271076",
+    "external_round_id": "26381472",
+    "processing_status": "completed",
+    "created_at": "2026-02-24T15:42:52.000000Z",
+    "revealed_at": "2026-02-24T15:43:02.000000Z"
+}
