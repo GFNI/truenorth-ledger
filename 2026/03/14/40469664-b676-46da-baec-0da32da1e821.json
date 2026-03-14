@@ -1,0 +1,22 @@
+{
+    "round_id": "40469664-b676-46da-baec-0da32da1e821",
+    "draw_title": "Weekly Wake Up A Winner (Child Draw)",
+    "competition_url": "https://gridchance.co.uk/competition/weekly-wake-up-a-winner-2",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk/",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "5b6002ca1c1775f9b1e677b6f39d1b79fbf42077c15d9fc9894bf215417a6a5e",
+    "drand_seed_hash": "a711caf96970526a19b9355e9cb912f79573e66407d7f4d680c91ced4cbf92b6425ca918b83037d4c7074ed48505964e",
+    "client_seed": "1773519676931",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 50,
+    "combined_hash": "cd563371c625b1033d52ab5e70d9693ac12a8fe2242c86dd9cd3935b55cc6add",
+    "result": "16",
+    "external_round_id": "26905440",
+    "processing_status": "completed",
+    "created_at": "2026-03-14T20:21:17.000000Z",
+    "revealed_at": "2026-03-14T20:21:24.000000Z"
+}
