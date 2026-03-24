@@ -1,0 +1,22 @@
+{
+    "round_id": "2ce92664-f253-484d-a2b2-716cbd42fdeb",
+    "draw_title": "test (Child Draw)",
+    "competition_url": "https://dark.demo.rafflex.io/competition/hot-pepper-wins",
+    "operator": {
+        "name": "Northumberland Jackpots Ltd",
+        "website": "https://phatstax.co.uk/",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "39a889a51606d20a92b858e327bc451f4ab8e7a1f11461166f9479239beab20d",
+    "drand_seed_hash": "835a4e9b00d564f824e2b621377d528f869b2df158c5119ec3d5b8a9e8fac91a6cc8b946efbdd03d4c3aeb634b9a391e",
+    "client_seed": "1774392643471",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "b5fee0eebbb85a657cdec3955261d3a08a3bb82ba890f34d98a7dfbd40ea883a",
+    "result": "78",
+    "external_round_id": "27196428",
+    "processing_status": "completed",
+    "created_at": "2026-03-24T22:50:43.000000Z",
+    "revealed_at": "2026-03-24T22:50:48.000000Z"
+}
