@@ -1,0 +1,22 @@
+{
+    "round_id": "97a036ce-2ca0-4a61-936c-52d80ef8dcda",
+    "draw_title": "Index0 Test",
+    "competition_url": "https://example.com/idx0",
+    "operator": {
+        "name": "Ross Ltd",
+        "website": "http://www.scott.net/sapiente-debitis-ab-nostrum",
+        "company_number": "23804593"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775759023478",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "d316a24927b8cee97ebd8b31a7984bf22de8505b089b9b90255cb9e8b77389d2",
+    "result": "44",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T18:23:43.000000Z",
+    "revealed_at": "2026-04-09T18:23:43.000000Z"
+}
