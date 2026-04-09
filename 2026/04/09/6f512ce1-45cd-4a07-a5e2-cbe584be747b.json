@@ -1,0 +1,22 @@
+{
+    "round_id": "6f512ce1-45cd-4a07-a5e2-cbe584be747b",
+    "draw_title": "Range Test",
+    "competition_url": "https://example.com/range",
+    "operator": {
+        "name": "Bailey Ltd",
+        "website": "http://www.owen.net/dolorem-minima-aspernatur-aspernatur-est-adipisci",
+        "company_number": "97856091"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757297180",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "2e12e4f9238cedcc23dd564afe2cbcf501da56b7314e56ee463ce62759b9cce2",
+    "result": "47",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:54:57.000000Z",
+    "revealed_at": "2026-04-09T17:54:57.000000Z"
+}
