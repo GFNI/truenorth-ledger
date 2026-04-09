@@ -1,0 +1,22 @@
+{
+    "round_id": "5ad296b7-1938-413f-8073-6ee98b393772",
+    "draw_title": "Deterministic Test",
+    "competition_url": "https://example.com/determ",
+    "operator": {
+        "name": "Holmes Ltd",
+        "website": "https://matthews.com/est-temporibus-voluptas-aut-sed.html",
+        "company_number": "40290282"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757302311",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "dabf482531583252bfc5200865ad8d63611e8c9471f862099ccec186e58cf7cc",
+    "result": "99",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:55:02.000000Z",
+    "revealed_at": "2026-04-09T17:55:02.000000Z"
+}
