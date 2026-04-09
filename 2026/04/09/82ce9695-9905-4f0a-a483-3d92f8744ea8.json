@@ -1,0 +1,22 @@
+{
+    "round_id": "82ce9695-9905-4f0a-a483-3d92f8744ea8",
+    "draw_title": "Auth Test",
+    "competition_url": "https://example.com/auth",
+    "operator": {
+        "name": "Cook Ltd",
+        "website": "https://www.owen.com/facere-deserunt-rerum-sunt-possimus-reprehenderit-sint-at-dolor",
+        "company_number": "97842194"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757277016",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "0f9929eee678b4e0965e90342f73914dfd35fdffaa1dea274f497db9cdd4c318",
+    "result": "68",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:54:37.000000Z",
+    "revealed_at": "2026-04-09T17:54:37.000000Z"
+}
