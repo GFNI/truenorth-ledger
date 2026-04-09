@@ -1,0 +1,22 @@
+{
+    "round_id": "77706045-d9c4-408b-8873-e5c4f755a8bc",
+    "draw_title": "Idempotent Test",
+    "competition_url": "https://example.com/idem",
+    "operator": {
+        "name": "Harris Ltd",
+        "website": "http://www.lloyd.com/pariatur-provident-iste-illo-recusandae-in-necessitatibus-repellat.html",
+        "company_number": "18851383"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775759017970",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "10d193f963559dff326bfa06d13f4e009f17a2b13444d21c3c96d557b3a73b90",
+    "result": "97",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T18:23:37.000000Z",
+    "revealed_at": "2026-04-09T18:23:37.000000Z"
+}
