@@ -1,0 +1,22 @@
+{
+    "round_id": "afb7fd1c-449f-4645-99a1-12a1670c2ddd",
+    "draw_title": "Lookup Test",
+    "competition_url": "https://example.com/lookup",
+    "operator": {
+        "name": "Walker Ltd",
+        "website": "http://www.hunt.co.uk/",
+        "company_number": "39384209"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757305626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 100,
+    "combined_hash": "4725b3ce940ec68f753182e0ba19a523d594327f16f0725e9108b719ff7977ba",
+    "result": "84",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:55:05.000000Z",
+    "revealed_at": "2026-04-09T17:55:05.000000Z"
+}
