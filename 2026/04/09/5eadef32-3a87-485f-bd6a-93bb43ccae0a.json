@@ -1,0 +1,22 @@
+{
+    "round_id": "5eadef32-3a87-485f-bd6a-93bb43ccae0a",
+    "draw_title": "Index0 Test",
+    "competition_url": "https://example.com/idx0",
+    "operator": {
+        "name": "Bennett Ltd",
+        "website": "http://khan.net/non-omnis-et-nesciunt-in.html",
+        "company_number": "33993376"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757304046",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "2231be3d79c0cbffff1667681e60eb339fe7bcb997079ac2cb189741853c7a3a",
+    "result": "95",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:55:04.000000Z",
+    "revealed_at": "2026-04-09T17:55:04.000000Z"
+}
