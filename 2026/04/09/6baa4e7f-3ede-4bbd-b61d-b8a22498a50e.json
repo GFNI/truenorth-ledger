@@ -1,0 +1,22 @@
+{
+    "round_id": "6baa4e7f-3ede-4bbd-b61d-b8a22498a50e",
+    "draw_title": "Extend Test",
+    "competition_url": "https://example.com/extend",
+    "operator": {
+        "name": "Wilkinson Ltd",
+        "website": "http://russell.co.uk/cupiditate-voluptatem-ducimus-est",
+        "company_number": "76626961"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775759018685",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 900,
+    "max_tickets": 1000,
+    "combined_hash": "1876cedb615bd420cfe4b70824604d92fed8e241a1e69cc2da9d168cef43b780",
+    "result": "953",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T18:23:38.000000Z",
+    "revealed_at": "2026-04-09T18:23:38.000000Z"
+}
