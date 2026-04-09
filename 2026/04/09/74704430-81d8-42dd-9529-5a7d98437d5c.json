@@ -1,0 +1,22 @@
+{
+    "round_id": "74704430-81d8-42dd-9529-5a7d98437d5c",
+    "draw_title": "Idempotent Test",
+    "competition_url": "https://example.com/idem",
+    "operator": {
+        "name": "Ross Ltd",
+        "website": "https://brown.info/doloremque-necessitatibus-et-harum-mollitia-in-sapiente.html",
+        "company_number": "73574745"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1775757270974",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "a2ee95de23c45c3c858c58a951a4ad550f1a56c4d55ab84247075c57eb603066",
+    "result": "7",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-09T17:54:30.000000Z",
+    "revealed_at": "2026-04-09T17:54:30.000000Z"
+}
