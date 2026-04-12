@@ -1,0 +1,22 @@
+{
+    "round_id": "66fe5936-42de-4703-a1a8-c05dca25ca2e",
+    "draw_title": "£10,000 CASH",
+    "competition_url": "https://kingofcomps.co.uk/competition/10-grand-10-grands",
+    "operator": {
+        "name": "kofcomps ltd",
+        "website": "https://kingofcomps.co.uk",
+        "company_number": "13807791"
+    },
+    "drand_server_seed": "57fec2568a5233228e12e2630ace02e44dd0a2b8b2778d654ddbe3ee5bf7c804",
+    "drand_seed_hash": "afce8dab33654119d34e3972db0eb3ecc29155248479871442c3d72201fa8e6fefc88beefceba61195adc85925c4eb08",
+    "client_seed": "1776022689477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 40000,
+    "combined_hash": "37da2e8fb1586073215e8aab18a073a3d08cd630cf12368052924c57e5454e70",
+    "result": "12408",
+    "external_round_id": "27739778",
+    "processing_status": "completed",
+    "created_at": "2026-04-12T19:38:09.000000Z",
+    "revealed_at": "2026-04-12T19:38:19.000000Z"
+}
