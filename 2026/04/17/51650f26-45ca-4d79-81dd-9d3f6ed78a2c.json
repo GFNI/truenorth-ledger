@@ -1,0 +1,22 @@
+{
+    "round_id": "51650f26-45ca-4d79-81dd-9d3f6ed78a2c",
+    "draw_title": "Auth Test",
+    "competition_url": "https://example.com/auth",
+    "operator": {
+        "name": "Mitchell Ltd",
+        "website": "http://patel.net/",
+        "company_number": "01095236"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1776421515627",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "2ec947366386f8a8be4ca705c7d3a403da969cebc92cc5ea81f872aa18e8069b",
+    "result": "23",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-17T10:25:15.000000Z",
+    "revealed_at": "2026-04-17T10:25:15.000000Z"
+}
