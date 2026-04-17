@@ -1,0 +1,22 @@
+{
+    "round_id": "4cc474d7-4eda-4fb0-afed-8b72ce12c00f",
+    "draw_title": "Turbo Raffle",
+    "competition_url": "https://example.com/turbo-raffle",
+    "operator": {
+        "name": "Richards Ltd",
+        "website": "http://kelly.info/",
+        "company_number": "73627124"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1776421507718",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 1000,
+    "combined_hash": "7a20a82abe4942db713d6709a794f9fda9b90a0dd4537c1a8fde53d0893554f5",
+    "result": "435",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-17T10:25:07.000000Z",
+    "revealed_at": "2026-04-17T10:25:07.000000Z"
+}
