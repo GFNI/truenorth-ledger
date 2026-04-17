@@ -1,0 +1,22 @@
+{
+    "round_id": "5e7b1e6e-e964-4e14-a696-cf16840f53e3",
+    "draw_title": "Lookup Test",
+    "competition_url": "https://example.com/lookup",
+    "operator": {
+        "name": "Williams Ltd",
+        "website": "http://www.hunter.com/impedit-repudiandae-vel-ullam-consequatur-omnis",
+        "company_number": "30814387"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1776421544029",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 100,
+    "combined_hash": "56911a0a1b7dc1419d26593999e0689e990dbc84c983e33cfd4a728bb0ebed40",
+    "result": "3",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-17T10:25:44.000000Z",
+    "revealed_at": "2026-04-17T10:25:44.000000Z"
+}
