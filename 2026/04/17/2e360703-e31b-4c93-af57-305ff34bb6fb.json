@@ -1,0 +1,22 @@
+{
+    "round_id": "2e360703-e31b-4c93-af57-305ff34bb6fb",
+    "draw_title": "Idempotent Test",
+    "competition_url": "https://example.com/idem",
+    "operator": {
+        "name": "Owen Ltd",
+        "website": "http://anderson.com/velit-repudiandae-voluptatum-eum-et-ut-eos-maiores",
+        "company_number": "00508012"
+    },
+    "drand_server_seed": "deadbeef1234567890abcdef1234567890abcdef1234567890abcdef12345678",
+    "drand_seed_hash": "signature-123",
+    "client_seed": "1776421536264",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "878120aee6e2c92350168cc84c6fdc9ea343f987ad9f4c698ac186d80ab3272e",
+    "result": "96",
+    "external_round_id": "1003",
+    "processing_status": "completed",
+    "created_at": "2026-04-17T10:25:36.000000Z",
+    "revealed_at": "2026-04-17T10:25:36.000000Z"
+}
