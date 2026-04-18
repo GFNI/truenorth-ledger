@@ -1,0 +1,22 @@
+{
+    "round_id": "3a3cc73c-74d4-4eb8-97c0-ed7856f61112",
+    "draw_title": "Premium Wild Scottish Gin (Child Draw)",
+    "competition_url": "https://gridchance.co.uk/competition/premium-wild-scottish-gin",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk/",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "d9bc1efe640942d1da387d5b822421902b198f0a55da8b4c7d4faf4c569a5d8a",
+    "drand_seed_hash": "b2f52bb5697fc62062cc613513d88b28beb29b16c167e0ab182d8c939da6384ddb5247eb859b18076a09058b087a5c87",
+    "client_seed": "1776541105747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 250,
+    "combined_hash": "e92d6110f519ee97e5fc5952de0def41b0a6296ee895cb59b6ffe2cb54466c3b",
+    "result": "202",
+    "external_round_id": "27912582",
+    "processing_status": "completed",
+    "created_at": "2026-04-18T19:38:25.000000Z",
+    "revealed_at": "2026-04-18T19:38:30.000000Z"
+}
