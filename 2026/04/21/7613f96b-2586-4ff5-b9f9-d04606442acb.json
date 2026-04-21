@@ -1,0 +1,22 @@
+{
+    "round_id": "7613f96b-2586-4ff5-b9f9-d04606442acb",
+    "draw_title": "Auto Draw Test - 21 Apr 16:49",
+    "competition_url": "https://bar.rafflex.io.test/admin/products/et-et-provident-repellendus-neque-neque",
+    "operator": {
+        "name": "Fargate",
+        "website": "https://bar.rafflex.io.test",
+        "company_number": "87654321"
+    },
+    "drand_server_seed": "6bc023b827f389f856877b407466707fb79fcad8b564177fbd38379338fa4cfa",
+    "drand_seed_hash": "aabdd0a99174c54e6cd7b7fa3a6de403d5b134bd8fa9be07909370f6aec0a8d98144a560d25b132a805dd066d235ebe5",
+    "client_seed": "1776803101162",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "20ed5b389bdb16ccd2cf7968b5e17ba1776306dcfb438f3ae58470d756d72b47",
+    "result": "27",
+    "external_round_id": "27999915",
+    "processing_status": "completed",
+    "created_at": "2026-04-21T20:25:01.000000Z",
+    "revealed_at": "2026-04-21T20:25:09.000000Z"
+}
