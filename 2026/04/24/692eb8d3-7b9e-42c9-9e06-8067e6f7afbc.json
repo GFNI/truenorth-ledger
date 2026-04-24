@@ -1,0 +1,22 @@
+{
+    "round_id": "692eb8d3-7b9e-42c9-9e06-8067e6f7afbc",
+    "draw_title": "R53 Mini Cooper S or £1000 Cash",
+    "competition_url": "https://gridchance.co.uk/competition/r53-mini-cooper-s-or-ps1000-cash",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk/",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "ada826a39946d0e48517b3639662631829e24aef51c01c73779dcb4191774b0e",
+    "drand_seed_hash": "ac27fd99f7b2e0cec1c664ded47bb4c44514c54e58b2745883aed9d0c546ca81eff4ae93f8d3b7d5661d5801fd4ce1a6",
+    "client_seed": "1777058681293",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1191,
+    "max_tickets": 1499,
+    "combined_hash": "819173d7914ce8900a240a7fea21f48f984353119ed61c4ee096c4590f9f82ac",
+    "result": "221",
+    "external_round_id": "28085108",
+    "processing_status": "completed",
+    "created_at": "2026-04-24T19:24:41.000000Z",
+    "revealed_at": "2026-04-24T19:24:51.000000Z"
+}
