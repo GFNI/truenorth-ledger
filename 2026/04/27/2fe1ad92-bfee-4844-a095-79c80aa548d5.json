@@ -1,0 +1,22 @@
+{
+    "round_id": "2fe1ad92-bfee-4844-a095-79c80aa548d5",
+    "draw_title": "£30,000 Instant Win Pool + £300 Autodraw",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ps30000-instant-win-pool-ps300-autodraw",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "5519b4d8195b79da2094d5609e1349f5b88bb86d96f26fd471555b13caeca0fc",
+    "drand_seed_hash": "b669d146d2bb9bccc985e1660957d456d39766d0f5448f1715faaf5e5890894118b1977839c21f3d1b910477e22a374e",
+    "client_seed": "1777317032466",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2008,
+    "max_tickets": 30000,
+    "combined_hash": "0d8ea146942b62072b116cca85f5f2fc6f030eb82f499e684d4a683ae9aa054a",
+    "result": "22782",
+    "external_round_id": "28171225",
+    "processing_status": "completed",
+    "created_at": "2026-04-27T19:10:32.000000Z",
+    "revealed_at": "2026-04-27T19:10:39.000000Z"
+}
