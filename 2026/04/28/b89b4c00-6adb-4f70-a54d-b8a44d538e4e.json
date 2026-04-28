@@ -1,0 +1,22 @@
+{
+    "round_id": "b89b4c00-6adb-4f70-a54d-b8a44d538e4e",
+    "draw_title": "Test",
+    "competition_url": "https://collectiblecompetitions.co.uk/competition/psa-10-latias-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c62ac6062491b995be24b9e65e7168c4cc37f7fd5c68939ff44cab4f04c23060",
+    "drand_seed_hash": "ac8277bed09adae420e754943bab0f959784426288286af09818e4de06d55e75d9a72d5f180bc3c55b4c9c0fcb98da66",
+    "client_seed": "1777387653196",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4500,
+    "max_tickets": 10000,
+    "combined_hash": "9327de108b0245f21cdeba92427fafae497a19e03377765a315ab5be3d633dad",
+    "result": "4580",
+    "external_round_id": "28194765",
+    "processing_status": "completed",
+    "created_at": "2026-04-28T14:47:33.000000Z",
+    "revealed_at": "2026-04-28T14:47:43.000000Z"
+}
