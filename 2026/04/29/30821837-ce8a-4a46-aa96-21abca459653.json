@@ -1,0 +1,22 @@
+{
+    "round_id": "30821837-ce8a-4a46-aa96-21abca459653",
+    "draw_title": "£50,000 Mega Slots – Instant Win Prizes",
+    "competition_url": "https://theprizeplay.com/admin/products/50000-slots-instant-win-test",
+    "operator": {
+        "name": "The Prize Play Competitions Ltd",
+        "website": "https://theprizeplay.com",
+        "company_number": "15112995"
+    },
+    "drand_server_seed": "c74309492a0d8aac469dc0517d8d95986f7229aa6a04174f10b8378d9f56ca37",
+    "drand_seed_hash": "82df7537e39b677049bdb328d1dfbdab2f8ca12baece99792a96e0e7c4270ab939a092b4401d099a46ed5c5175c34f79",
+    "client_seed": "1777469970179",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2,
+    "max_tickets": 2,
+    "combined_hash": "dfc4cad9767bbd07ad836486038571834f3ebc52199a30c1c971c49530dfe891",
+    "result": "2",
+    "external_round_id": "28222205",
+    "processing_status": "completed",
+    "created_at": "2026-04-29T13:39:30.000000Z",
+    "revealed_at": "2026-04-29T13:39:39.000000Z"
+}
