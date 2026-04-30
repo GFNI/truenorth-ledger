@@ -1,0 +1,22 @@
+{
+    "round_id": "81f4b302-cd92-433a-b745-5404cd5386cc",
+    "draw_title": "Beach Bonanza 🏖️",
+    "competition_url": "https://flashcompetitions.com/admin/products/beach-bonanza",
+    "operator": {
+        "name": "Flash Competitions LTD",
+        "website": "https://flashcompetitions.com",
+        "company_number": "NI737055"
+    },
+    "drand_server_seed": "c516b18b8ab813333d64bdc7dc62bedbe4754f9b1df20380cd3338d8987757fb",
+    "drand_seed_hash": "89bf2a5d60013b37f9d460505be679a222c63f6d27f7df7dc83f74808ec1e4dadfab0e8c073a9036fa7e2a4dbf529a7a",
+    "client_seed": "1777576232905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8427,
+    "max_tickets": 70000,
+    "combined_hash": "9f5d51e5828e27e43bb68bcbe43869a10bb55a72b6874c61adeee83b4ffc6d4a",
+    "result": "44848",
+    "external_round_id": "28257625",
+    "processing_status": "completed",
+    "created_at": "2026-04-30T19:10:33.000000Z",
+    "revealed_at": "2026-04-30T19:10:39.000000Z"
+}
