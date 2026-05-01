@@ -1,0 +1,22 @@
+{
+    "round_id": "5a769431-de6e-4f24-b92d-02e072b9dcfe",
+    "draw_title": "£20.00  Site Credit + Instant Wins!",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/ps2000-site-credit-instant-wins-12",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "861aa7c8f9d435b57ba3069e49b3ded95f730df3b668c1f728a5ab7692f3f21d",
+    "drand_seed_hash": "acd0fc71d683669b2db064e0ab46de544ce5f09ea67af47d45b452ebe326d1cd8d3e2484cb7a864c0f84e27d3bc13360",
+    "client_seed": "1777662748698",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 180,
+    "combined_hash": "9b42daddea7d5a4a6009952e074571ec1ae76de91781396238edcca16c4ca5c1",
+    "result": "16",
+    "external_round_id": "28286464",
+    "processing_status": "completed",
+    "created_at": "2026-05-01T19:12:28.000000Z",
+    "revealed_at": "2026-05-01T19:12:36.000000Z"
+}
