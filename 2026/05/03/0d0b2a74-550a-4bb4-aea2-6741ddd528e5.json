@@ -1,0 +1,22 @@
+{
+    "round_id": "0d0b2a74-550a-4bb4-aea2-6741ddd528e5",
+    "draw_title": "Grab A Grand - £1000 Main Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/competition/grab-a-grand-ps1000-main-prize-2",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "d58159eb98cdd3c9dbab3096b6272d1d783eeb2f09ae6dd35f0bb01b127580e1",
+    "drand_seed_hash": "b0a699495ff428098ac12e1b1f39057cd5444b9c74aff347d943c144e14f3c9dd7fb3c9160f6071cef63a7f9f2eaf35c",
+    "client_seed": "1777837774845",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300572,
+    "max_tickets": 305000,
+    "combined_hash": "2710eec5ca99a5b984af813b93b17e513e68039a203f5175798a4184b39485ea",
+    "result": "178256",
+    "external_round_id": "28344806",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T19:49:34.000000Z",
+    "revealed_at": "2026-05-03T19:49:44.000000Z"
+}
