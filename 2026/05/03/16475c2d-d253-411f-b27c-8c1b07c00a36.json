@@ -1,0 +1,22 @@
+{
+    "round_id": "16475c2d-d253-411f-b27c-8c1b07c00a36",
+    "draw_title": "Cobra Operation - £250 MAIN PRIZE via AUTODRAW",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/cobra-operation-ps250-main-prize-via-autodraw",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "ec9eb01774c4964d8bc829a20de1b715bf1c489fabe3f784a9276d60969e15e5",
+    "drand_seed_hash": "a8c769d2329a97706b5f3164fe519baaf01fa5dc8b4431e908d403b98b0b8cf7911088c085b2add0b08ac41db9c519d2",
+    "client_seed": "1777840527758",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4481,
+    "max_tickets": 99999,
+    "combined_hash": "7de4c578c0531e997f5642e45e810bcc21dfe461cdfa3dd4b134ec41eb4d1c24",
+    "result": "55268",
+    "external_round_id": "28345724",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T20:35:27.000000Z",
+    "revealed_at": "2026-05-03T20:35:36.000000Z"
+}
