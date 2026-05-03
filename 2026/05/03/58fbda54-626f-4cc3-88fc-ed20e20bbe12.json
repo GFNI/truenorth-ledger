@@ -1,0 +1,22 @@
+{
+    "round_id": "58fbda54-626f-4cc3-88fc-ed20e20bbe12",
+    "draw_title": "AUDI A3 40 TFSI OR £16,000!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/competition/audi-a3-40-tfsi-or-ps16000",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e87852a0668d80293ad7679e14051466e8a51ce777fabef93ced87d6d26658d1",
+    "drand_seed_hash": "84fd3e1cf3b6f9ca0d655a0f7e795648ec03a4c2dd4a577a9d15cec5cb6a80c195583be095bed63dbcc8981336c55a66",
+    "client_seed": "1777837958023",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38929,
+    "max_tickets": 60000,
+    "combined_hash": "2465d43ff876ba1f0957bdb59a35e57a633a0fbdb5aec0fe4187c501ac00503f",
+    "result": "4133",
+    "external_round_id": "28344866",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T19:52:38.000000Z",
+    "revealed_at": "2026-05-03T19:52:47.000000Z"
+}
