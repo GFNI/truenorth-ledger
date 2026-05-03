@@ -1,0 +1,22 @@
+{
+    "round_id": "50e05672-9577-48a6-a32b-a05882e6bfa9",
+    "draw_title": "Ticket Booth - £700 Tickets End Prize *AUTODRAW*",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ticket-booth-ps700-tickets-end-prize-autodraw-2",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "7f3257cfacaba540be3e85b7978c5ab674e669ebfddbcae6ddcec1242897a416",
+    "drand_seed_hash": "853a092763a570bf839dc7e396fc51f2943496b72f641ed9737b2007e51ee58927b1b35bc53907ac30ec53f688745005",
+    "client_seed": "1777833642671",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32221,
+    "max_tickets": 200000,
+    "combined_hash": "dd6c03f7cdd8004b9837b0536b4a9f8758fc660708d92bfdc147000a0b6341d5",
+    "result": "196830",
+    "external_round_id": "28343429",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T18:40:42.000000Z",
+    "revealed_at": "2026-05-03T18:40:51.000000Z"
+}
