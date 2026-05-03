@@ -1,0 +1,22 @@
+{
+    "round_id": "a8d96ca4-3bd7-4020-8004-9ff22a720a37",
+    "draw_title": "Every Ticket Wins - Ticket Bundle Edition #4",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/competition/every-ticket-wins-ticket-bundle-edition-4",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "52a8717cadfcb306ae291113ecce994b944b33d47f62aa54b713fad7667dcd74",
+    "drand_seed_hash": "87a4df014eef011b6f34044578c1e08670e7ec57137287e2c5aa34936abed4abc41d680dfc138b9b173de7841ed2e33b",
+    "client_seed": "1777837085764",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1866,
+    "max_tickets": 6144,
+    "combined_hash": "0b18d18b8e94e2d950d9391df43517734dada7b33f5218a87d1bec381c58d71b",
+    "result": "12",
+    "external_round_id": "28344576",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T19:38:05.000000Z",
+    "revealed_at": "2026-05-03T19:38:15.000000Z"
+}
