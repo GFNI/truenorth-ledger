@@ -1,0 +1,22 @@
+{
+    "round_id": "3be577ea-7e2e-4d50-97d4-4baa4545fa20",
+    "draw_title": " Connor's Spring Clean - 5 x £200 End Prize (Child Draw)",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/competition/spring-clean",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "430fdeeb1485f1819ed8d17aec2f64a01fa7e3c72da3062481817096e14b8971",
+    "drand_seed_hash": "b233ff3eff6973eb734df1aaf8b522b2bcf8ca8c473f8c57f6869508675a21dd89a2e08a7a6a902e2810acc0ca239eb3",
+    "client_seed": "1777837443852",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 589480,
+    "max_tickets": 750000,
+    "combined_hash": "8c6daeb480bbf0994348e8348c222acdb09d0fa5487bf21b1fe5cc2a6b3a91bd",
+    "result": "580189",
+    "external_round_id": "28344696",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T19:44:03.000000Z",
+    "revealed_at": "2026-05-03T19:44:12.000000Z"
+}
