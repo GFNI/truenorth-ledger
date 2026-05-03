@@ -1,0 +1,22 @@
+{
+    "round_id": "3690b0c8-4d98-4395-b99e-6dabae430220",
+    "draw_title": "BIG AUDI BUNDLES - 500 Entries End Prize *AUTODRAW*",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/big-audi-bundles-500-entries-end-prize-autodraw",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "7cd0a7461f35ba3e0b7c6671d224485deebd6403c6df87cb6d7dc5106caf16b3",
+    "drand_seed_hash": "b1cdb903f15f200b9bbe2057bc94bd4080911c75686ef74ed023cc488d0beecae5b6ab873d7afdd6cadd89d02c66c23f",
+    "client_seed": "1777833636726",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 137958,
+    "max_tickets": 285000,
+    "combined_hash": "34273c00f064116395132942ce306fe2af921d1796faa050dbd6f094ca7775f7",
+    "result": "237197",
+    "external_round_id": "28343426",
+    "processing_status": "completed",
+    "created_at": "2026-05-03T18:40:36.000000Z",
+    "revealed_at": "2026-05-03T18:40:42.000000Z"
+}
