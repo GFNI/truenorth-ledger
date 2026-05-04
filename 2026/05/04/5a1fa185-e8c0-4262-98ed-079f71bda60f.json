@@ -1,0 +1,22 @@
+{
+    "round_id": "5a1fa185-e8c0-4262-98ed-079f71bda60f",
+    "draw_title": "DOUBLE OR NOTHING SITE CREDIT #7 (AUTO-DRAW)",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/double-or-nothing-site-credit-7-auto-draw",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "3595ae3e1fcdb8bf3eb16d245a4b56bb93906ea693454d448615865915c50083",
+    "drand_seed_hash": "8af5b0370babd959a385c3f3b9c8eb19fcd4c8192d918447ad3708609f2d1668c1612f8077c5f76e61fefc52573e920e",
+    "client_seed": "1777918232023",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 219,
+    "max_tickets": 400,
+    "combined_hash": "5f2ae7417e572402fb4a2070e0dbe2153dde156dc0d6e359420ba183129bc803",
+    "result": "304",
+    "external_round_id": "28371625",
+    "processing_status": "completed",
+    "created_at": "2026-05-04T18:10:32.000000Z",
+    "revealed_at": "2026-05-04T18:10:39.000000Z"
+}
