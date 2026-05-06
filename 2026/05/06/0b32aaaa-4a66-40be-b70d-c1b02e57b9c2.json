@@ -1,0 +1,22 @@
+{
+    "round_id": "0b32aaaa-4a66-40be-b70d-c1b02e57b9c2",
+    "draw_title": "CORAL CASH",
+    "competition_url": "https://krazed.co.uk/admin/products/coral-cash",
+    "operator": {
+        "name": "Krazed Entertainment Ltd",
+        "website": "https://krazed.co.uk",
+        "company_number": "16956100"
+    },
+    "drand_server_seed": "62e8098c212733f3e82c6c3881f23724b239b619de745a965f203fad42a54f14",
+    "drand_seed_hash": "873cb89ad88a6226edcb8afe5ef397712edcf50b65e003eb2a931431b4e705242c746fb7901c3733ab95e2e60da8a773",
+    "client_seed": "1778094629211",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143,
+    "max_tickets": 19999,
+    "combined_hash": "af1172b5c5f609ed067ab764bec4109af1e75fd5b073828f15248665923445c1",
+    "result": "3943",
+    "external_round_id": "28430424",
+    "processing_status": "completed",
+    "created_at": "2026-05-06T19:10:29.000000Z",
+    "revealed_at": "2026-05-06T19:10:36.000000Z"
+}
