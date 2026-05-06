@@ -1,0 +1,22 @@
+{
+    "round_id": "85c052f6-4676-44fe-9df0-2b0d24ebebae",
+    "draw_title": "10 x £50 Instant Wins",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/10-x-ps50-instant-wins",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "24fb0b7b8f9f5ed327f1f91752030b959b986ade36f4e7d58730c16f3631b86d",
+    "drand_seed_hash": "8395af973ae4449a1f87fa02239574d38eb38f3a1364303bf7fff509bb8f1c8be7ce035289f28f2c5ebe474ee733e6ed",
+    "client_seed": "1778098248505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36391,
+    "max_tickets": 125000,
+    "combined_hash": "5d6f7719b91bcf3f56bcf3dfb70f3b936eec8fa487bd5b4828cd0451dda82684",
+    "result": "7694",
+    "external_round_id": "28431630",
+    "processing_status": "completed",
+    "created_at": "2026-05-06T20:10:48.000000Z",
+    "revealed_at": "2026-05-06T20:10:55.000000Z"
+}
