@@ -1,0 +1,22 @@
+{
+    "round_id": "c53c8af1-b522-4f2e-ab22-c2c9eb29453e",
+    "draw_title": "WIN APPLE AIRTAG (4 PACK) (AUTO-DRAW)",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-apple-airtag-4-pack-auto-draw",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "a7249c0e775e9ab54b206a2f330c0ba855de036fc7e93cfd2e9b1e4e8912d283",
+    "drand_seed_hash": "897a88a3ecd70606b3b06264e293be0f34d8c147eb5c4ddf4a50fe42dc21f115e85b305d706eb06c85ab6c074701e2d5",
+    "client_seed": "1778177442663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 140,
+    "combined_hash": "04892349f54065e021c8a4d05a9a52a953e9eede02005a3b20786e34e3036e97",
+    "result": "45",
+    "external_round_id": "28458029",
+    "processing_status": "completed",
+    "created_at": "2026-05-07T18:10:42.000000Z",
+    "revealed_at": "2026-05-07T18:10:51.000000Z"
+}
