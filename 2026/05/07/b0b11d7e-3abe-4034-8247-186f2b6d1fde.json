@@ -1,0 +1,22 @@
+{
+    "round_id": "b0b11d7e-3abe-4034-8247-186f2b6d1fde",
+    "draw_title": "Win a YETI Cup & Tumbler Set for 79p",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/yeti-cup-tumbler-79p",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "90e5a5778504a6bed708a8670906653eab5018dd824279f61d34b3c6fe029ef3",
+    "drand_seed_hash": "8d5ca69973b866e1dc1bed20d4edf9ac04454401917fed2ab664c1e5f923059ff998f0d57c74e2f3405ed00ea78308a5",
+    "client_seed": "1778180831282",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 145,
+    "combined_hash": "7a99a6a29b137f6efa2a0ae00367fae7204d7faa22e7bf14ff052d071208f876",
+    "result": "49",
+    "external_round_id": "28459158",
+    "processing_status": "completed",
+    "created_at": "2026-05-07T19:07:11.000000Z",
+    "revealed_at": "2026-05-07T19:07:22.000000Z"
+}
