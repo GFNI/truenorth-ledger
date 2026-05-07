@@ -1,0 +1,22 @@
+{
+    "round_id": "39ec3fe0-1429-4866-8210-052d9803a179",
+    "draw_title": "🚗 WIN £250 TO FILL YOUR TANK (AUTO-DRAW)",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps250-to-fill-your-tank-auto-draw",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "fd9e0429b7da487337ab3f110255c1cbbefecee83eb2097cc5a610e3f7cc23fd",
+    "drand_seed_hash": "aa960c0f14cf953b02f8e088b7cf11c97ac64ac58a48320596df8eac9ece254fc7dffce57e672c9f0fbe802aeb36f586",
+    "client_seed": "1778177451795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 210,
+    "max_tickets": 500,
+    "combined_hash": "b0ddaef03a1e1bd1fa7ab3cc731630af04d1057f22e7376243331e055af49e18",
+    "result": "357",
+    "external_round_id": "28458032",
+    "processing_status": "completed",
+    "created_at": "2026-05-07T18:10:51.000000Z",
+    "revealed_at": "2026-05-07T18:11:00.000000Z"
+}
