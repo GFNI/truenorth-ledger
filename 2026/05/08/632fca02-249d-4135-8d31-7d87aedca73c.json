@@ -1,0 +1,22 @@
+{
+    "round_id": "632fca02-249d-4135-8d31-7d87aedca73c",
+    "draw_title": "x30 Entries into VW Golf GT",
+    "competition_url": "https://a9competitions.co.uk/admin/products/x30-entries-into-vw-golf-gt",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "5d95f062e1ffed6929f98b2b1bbce0b4e88ed3e687993e819f797879c28f502e",
+    "drand_seed_hash": "9522de145263623881c0778f3d3dc897e125628bcc442ff0c7223936a18347705b2379f7e18d649eb8672a5eba730426",
+    "client_seed": "1778272860522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 180,
+    "combined_hash": "85af58a5c609fd9587e242c0123e5560c308d30655f1847816003788b27f5c48",
+    "result": "22",
+    "external_round_id": "28489834",
+    "processing_status": "completed",
+    "created_at": "2026-05-08T20:41:00.000000Z",
+    "revealed_at": "2026-05-08T20:41:06.000000Z"
+}
