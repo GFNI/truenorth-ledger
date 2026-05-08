@@ -1,0 +1,22 @@
+{
+    "round_id": "87aa98bf-8010-4ebc-8c38-941e2efc110c",
+    "draw_title": "x30 Entries Into £8k Spring Fortune",
+    "competition_url": "https://a9competitions.co.uk/admin/products/x30-entries-into-ps8k-spring-fortune",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "4adeaaa96544542ee81e4795bb276fc01d042a83c507e03c77d94a6620bba0b2",
+    "drand_seed_hash": "aa25c54a9db327549be6b38b1d7de6fdf6573f7b1a4367bd5f1878e4c12794918dbf160bfd64a021b9cfc56944c029e4",
+    "client_seed": "1778272851896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 180,
+    "combined_hash": "62cced0c325d6fd18e8e6dbe7d6ecd7cb607f1c22338eafe509570ad78be751d",
+    "result": "147",
+    "external_round_id": "28489832",
+    "processing_status": "completed",
+    "created_at": "2026-05-08T20:40:52.000000Z",
+    "revealed_at": "2026-05-08T20:41:00.000000Z"
+}
