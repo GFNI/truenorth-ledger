@@ -1,0 +1,22 @@
+{
+    "round_id": "9822a750-b2f9-4838-92cc-0ff7247894cd",
+    "draw_title": "Golden Tide 🌊",
+    "competition_url": "https://flashcompetitions.com/admin/products/golden-tide",
+    "operator": {
+        "name": "Flash Competitions LTD",
+        "website": "https://flashcompetitions.com",
+        "company_number": "NI737055"
+    },
+    "drand_server_seed": "8ba20e0283e8400f4c2f3f69c674c5ac0e008b54002d755b408dff84064804bd",
+    "drand_seed_hash": "ae14e840a7bb100f8dbad516f8c2a71e87c9a6f3e0b56e16ee27f608dcbb3af775bef4acb29aa7f08121de30a2bbe8dc",
+    "client_seed": "1778357445720",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2788,
+    "max_tickets": 70000,
+    "combined_hash": "54b458845b495b22737c681819b8f00cf5cd7e85b6539cf574d46be57b265b7e",
+    "result": "5845",
+    "external_round_id": "28518030",
+    "processing_status": "completed",
+    "created_at": "2026-05-09T20:10:45.000000Z",
+    "revealed_at": "2026-05-09T20:10:54.000000Z"
+}
