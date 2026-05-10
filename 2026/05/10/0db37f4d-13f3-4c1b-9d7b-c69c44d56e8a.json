@@ -1,0 +1,22 @@
+{
+    "round_id": "0db37f4d-13f3-4c1b-9d7b-c69c44d56e8a",
+    "draw_title": "Aztec Treasures - £4000 CASH to be won!",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/aztec-treasures-ps4000-cash-to-be-won",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "8a1bcaad894f11c0bffd89fd862602fedfbbc97da53f667abe80fe5cd99f0cb4",
+    "drand_seed_hash": "b88dd99f5d5d9cf1ef89e74ba9b7e23d2a142db10e03f9e19211274446cfdbfa7172aa6345a85eb9e2ccd4af261635cd",
+    "client_seed": "1778443833423",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6202,
+    "max_tickets": 41999,
+    "combined_hash": "e65c50b59d55de1a8d8d67c1816b96427260f90649767acb6ae6b55cb12d5955",
+    "result": "39187",
+    "external_round_id": "28546826",
+    "processing_status": "completed",
+    "created_at": "2026-05-10T20:10:33.000000Z",
+    "revealed_at": "2026-05-10T20:10:42.000000Z"
+}
