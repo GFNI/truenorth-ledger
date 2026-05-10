@@ -1,0 +1,22 @@
+{
+    "round_id": "7697c715-8204-41ad-9d70-e20c583498ef",
+    "draw_title": "Super Bingo",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/super-bingo",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "4bb234a9e0511fd4d3abf4e8ea358c80b197598efbeb2fe22fa0963920b868b8",
+    "drand_seed_hash": "8254c1ae151d4297b480bdd57a4b6ecfa26d8e1e7d7f66666b9872068d2f260e40090355c2870f1f5a1af05d4e102eaa",
+    "client_seed": "1778443852706",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 109437,
+    "max_tickets": 500000,
+    "combined_hash": "9d6ba99f320e65a25b968678165498c84173ae42bb8503c0034260507a72228e",
+    "result": "180478",
+    "external_round_id": "28546832",
+    "processing_status": "completed",
+    "created_at": "2026-05-10T20:10:52.000000Z",
+    "revealed_at": "2026-05-10T20:11:00.000000Z"
+}
