@@ -1,0 +1,22 @@
+{
+    "round_id": "b18fd159-31be-41fc-9aea-daefa95805bb",
+    "draw_title": "LEGO - The Lord of the Rings: The Shire - AUTO-DRAW",
+    "competition_url": "https://whiskyclubuk.com/admin/products/lego-the-lord-of-the-rings-the-shire-auto-draw",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "46f90fc581b4164d2a560a39826d79560d8897e1a9ff94e02de5e7f05f1636f9",
+    "drand_seed_hash": "856925d559a5ac14ed6c1622fb3791c68642e3275ad1d5511feab79b60dc50e867b11b25982477a625e02a178c68bacc",
+    "client_seed": "1778451043276",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 215,
+    "max_tickets": 600,
+    "combined_hash": "a73c2ebfa51c1c9f594449b399dc9c4e26579b7c476113778deca6aaddf87b98",
+    "result": "240",
+    "external_round_id": "28549229",
+    "processing_status": "completed",
+    "created_at": "2026-05-10T22:10:43.000000Z",
+    "revealed_at": "2026-05-10T22:10:51.000000Z"
+}
