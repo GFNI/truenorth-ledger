@@ -1,0 +1,22 @@
+{
+    "round_id": "aa86632a-e528-4177-b7f1-78902ea961dc",
+    "draw_title": "x30 Entries Into £6k May Bonanza",
+    "competition_url": "https://a9competitions.co.uk/admin/products/x30-entries-into-ps6k-may-bonanza",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "1c095e2e83ce6a6c2a83f99416939af7b530b0d672d97d2c8f513f6e9e3a3846",
+    "drand_seed_hash": "a974832060484d23d44c0f322320954dd485ab8d41de01d677171e744233a17f01cd310504499432ebfc655cc7a4d581",
+    "client_seed": "1778445648747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 180,
+    "combined_hash": "75174c22ebdb5804e091f49d48f01fced2aa29edbf44a04a146743d03f387723",
+    "result": "146",
+    "external_round_id": "28547430",
+    "processing_status": "completed",
+    "created_at": "2026-05-10T20:40:48.000000Z",
+    "revealed_at": "2026-05-10T20:40:54.000000Z"
+}
