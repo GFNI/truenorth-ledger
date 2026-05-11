@@ -1,0 +1,22 @@
+{
+    "round_id": "371a1548-98cb-4c00-8a34-9a8bbcd38f55",
+    "draw_title": "🍪COOKIE LOOT!🍪",
+    "competition_url": "https://sweepstarz.co.uk/competition/cookie-loots",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "a1b6a6628b2d5304c89b33180086178386725705107ae0142896e332b4e6c1c9",
+    "drand_seed_hash": "a9e4a5a1dbbb658f21d00987a33e69915c122c74995782c97d0ce720965274f3cdba88479a3e56d6c141125be6568c93",
+    "client_seed": "1778512996340",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 40000,
+    "combined_hash": "861b1e5d80a04e41bc30d7f0fe119a9fcd85531d9b79449b7289ed2a3f848fb1",
+    "result": "14215",
+    "external_round_id": "28569880",
+    "processing_status": "completed",
+    "created_at": "2026-05-11T15:23:16.000000Z",
+    "revealed_at": "2026-05-11T15:23:26.000000Z"
+}
