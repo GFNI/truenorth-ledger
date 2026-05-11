@@ -1,0 +1,22 @@
+{
+    "round_id": "4f55a877-093c-49ef-9f04-457245e80c2d",
+    "draw_title": "The Glenmorangie A Tale of Spices - AUTO-DRAW",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-glenmorangie-a-tale-of-spices-auto-draw",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "f1867b475810954164265d30b7e9ddb363124cc1a76b618acc2709779feb6b04",
+    "drand_seed_hash": "928bada680c8916005679911d8ac12d2fec71ca6f4743fcc6a0b8ed18b2d71a9dd91f18e50a7f065d4dc18131e78f208",
+    "client_seed": "1778533832092",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 301,
+    "max_tickets": 425,
+    "combined_hash": "7140028a941b6e47a791dedbff3eae16d3c15ada8a1af8abb1f51d48c6d43461",
+    "result": "403",
+    "external_round_id": "28576825",
+    "processing_status": "completed",
+    "created_at": "2026-05-11T21:10:32.000000Z",
+    "revealed_at": "2026-05-11T21:10:39.000000Z"
+}
