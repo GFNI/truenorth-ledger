@@ -1,0 +1,22 @@
+{
+    "round_id": "816468f0-2bf1-4125-b590-1427c33a2534",
+    "draw_title": "£500 Smyths Voucher",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps500-smyths-voucher-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "0f5653a246044bf8c5a6e47530b7f261c3d0dececaad873c1f4bb451b5fcdca0",
+    "drand_seed_hash": "b127fd000704978f6496c2e79720387ca401b05bfaf2af39dec4086eb798ff84e583797f99fc22beb281d45eac83a2df",
+    "client_seed": "1778530249169",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 719,
+    "max_tickets": 2000,
+    "combined_hash": "a519bb629bd52f210efae89177f6ad88e7114cce484b531ed8c0bb1af20c3f1b",
+    "result": "966",
+    "external_round_id": "28575631",
+    "processing_status": "completed",
+    "created_at": "2026-05-11T20:10:49.000000Z",
+    "revealed_at": "2026-05-11T20:10:57.000000Z"
+}
