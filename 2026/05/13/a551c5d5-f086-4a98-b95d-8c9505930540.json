@@ -1,0 +1,22 @@
+{
+    "round_id": "a551c5d5-f086-4a98-b95d-8c9505930540",
+    "draw_title": "£100 for £1 LOW ODDS AUTODRAW",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ps100-for-ps1-low-odds-autodraw",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "45e5ed370d5a0311b5ce58617836323d15aa875a5f8437306a1f2608b8243c61",
+    "drand_seed_hash": "b2c6b1518924f391ae9b02d7f018cab7e489cafa01828d5a0fc7e0459d44c8e6d96e449a54de9be06dac199aa0c10db4",
+    "client_seed": "1778690072580",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 130,
+    "max_tickets": 130,
+    "combined_hash": "1d29b9b0c0b0b707bcbb14b0b6e2f1acf5223d9316fc9e98f94528b0873c5b42",
+    "result": "12",
+    "external_round_id": "28628905",
+    "processing_status": "completed",
+    "created_at": "2026-05-13T16:34:32.000000Z",
+    "revealed_at": "2026-05-13T16:34:39.000000Z"
+}
