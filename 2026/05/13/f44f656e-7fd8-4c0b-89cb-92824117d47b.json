@@ -1,0 +1,22 @@
+{
+    "round_id": "f44f656e-7fd8-4c0b-89cb-92824117d47b",
+    "draw_title": "THE CASH CRASH! £11,500+ TO BE WON!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-cash-crash-ps11500-to-be-won",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "0ae1f581c357bb71353ba15b58ef4e633b948caba6f45b36837e694f8995d4e7",
+    "drand_seed_hash": "a115dee0d46b1cafd1d06af8038e436f85d885c28b826d5904874e0895b97674ccac5e9e79fee4b9df8ad9579024e20f",
+    "client_seed": "1778706632234",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10474,
+    "max_tickets": 39999,
+    "combined_hash": "8c03d90e02405d65e7c9ebeb9bac63c70a7e7e7d8abb24eef076118dda1b8993",
+    "result": "29472",
+    "external_round_id": "28634425",
+    "processing_status": "completed",
+    "created_at": "2026-05-13T21:10:32.000000Z",
+    "revealed_at": "2026-05-13T21:10:39.000000Z"
+}
