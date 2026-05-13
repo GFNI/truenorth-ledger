@@ -1,0 +1,22 @@
+{
+    "round_id": "966a5d6e-c7e7-41ed-9ad2-5323391c3f08",
+    "draw_title": "£1,500 Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps1500-cash-4",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "284ae1a8ec5fe7caeecae7f720b952e931ac0103546a315fa42db1eb536aaf20",
+    "drand_seed_hash": "abb02fb9a30b33a1e17f1e6bb333b33406052768d53590005f1cd39abccecc8d27ea0b388041aaf0a27d2f684b8bd9fa",
+    "client_seed": "1778703048604",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98678,
+    "max_tickets": 115000,
+    "combined_hash": "df155095d1b2ad0af4ae33ba46eedfc234545a2da3f848e002f589e8dbdb0795",
+    "result": "8664",
+    "external_round_id": "28633230",
+    "processing_status": "completed",
+    "created_at": "2026-05-13T20:10:48.000000Z",
+    "revealed_at": "2026-05-13T20:10:54.000000Z"
+}
