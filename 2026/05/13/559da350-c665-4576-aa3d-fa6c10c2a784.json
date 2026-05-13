@@ -1,0 +1,22 @@
+{
+    "round_id": "559da350-c665-4576-aa3d-fa6c10c2a784",
+    "draw_title": "Penny Prize Drop - £250 Autodraw + £6000 of Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/penny-prize-drop-ps250-autodraw-ps6000-of-instant-wins-3",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "eed1694c2c30f3ec69d7454e48a8ad7ddefdf562705eeb03fb560db1c267f49b",
+    "drand_seed_hash": "876d2539320293530fb4750d75684a7dc5ea54e26affc1069bcc3ab14dbc4d303ca81c4764d17d35fe3428a009fd0c9a",
+    "client_seed": "1778699432536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 459167,
+    "max_tickets": 1000000,
+    "combined_hash": "9f9dd33a44c29ac33fb10a6052eca4b901229504defd3f5281e1a74d6b015ffa",
+    "result": "946976",
+    "external_round_id": "28632025",
+    "processing_status": "completed",
+    "created_at": "2026-05-13T19:10:32.000000Z",
+    "revealed_at": "2026-05-13T19:10:39.000000Z"
+}
