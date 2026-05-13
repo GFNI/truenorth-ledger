@@ -1,0 +1,22 @@
+{
+    "round_id": "3bf6c8d4-6ac7-4a48-abe2-28a0793ecdd9",
+    "draw_title": "Bonus Buy ~ All 4 One",
+    "competition_url": "https://redlemonx.co.uk/admin/products/bonus-buy-all-4-one",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "b2190c04ce1e22cde2f6c0cb5014457298b6a7cb625cd7b7c7b137dd4b03d8d3",
+    "drand_seed_hash": "858cd4d3722586808a7fcce79785e2bfd36c3e0555bc482561705cf5bd1d9cade54c7946179dd949aef65afd383208cf",
+    "client_seed": "1778691933019",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "673b4e93d3f4221b445027c0d73dcd8ed9bb8b51a0eaf071be104d3958b735f7",
+    "result": "43",
+    "external_round_id": "28629525",
+    "processing_status": "completed",
+    "created_at": "2026-05-13T17:05:33.000000Z",
+    "revealed_at": "2026-05-13T17:05:39.000000Z"
+}
