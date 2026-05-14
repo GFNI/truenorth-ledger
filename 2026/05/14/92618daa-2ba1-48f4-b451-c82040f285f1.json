@@ -1,0 +1,22 @@
+{
+    "round_id": "92618daa-2ba1-48f4-b451-c82040f285f1",
+    "draw_title": "Stack the Doe (Child Draw)",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/stack-the-doe-2",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "c570f90520d138ec7e279025649041293131b3d811f32436e3ff0da90eff66ed",
+    "drand_seed_hash": "a73f75d5511e3a805a0ef26a0bc47548c45e7650724ab46ccfeba424653eb0f41f54bcb44d96848c6e73f6c0d2ab2a10",
+    "client_seed": "1778785727566",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 850,
+    "combined_hash": "14e2373bc39b337132b63fbdc3413b8a0453e9f26f864d24d4973f8dfe648f38",
+    "result": "701",
+    "external_round_id": "28660790",
+    "processing_status": "completed",
+    "created_at": "2026-05-14T19:08:47.000000Z",
+    "revealed_at": "2026-05-14T19:08:54.000000Z"
+}
