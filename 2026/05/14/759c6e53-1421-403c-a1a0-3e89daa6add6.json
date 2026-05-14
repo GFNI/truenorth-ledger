@@ -1,0 +1,22 @@
+{
+    "round_id": "759c6e53-1421-403c-a1a0-3e89daa6add6",
+    "draw_title": "The Macallan A Night On Earth In Scotland - AUTO-DRAW",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-macallan-a-night-on-earth-in-scotland-auto-draw",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "92f7ac7e8dc81109046638644cb9256a83215f6481fe94c04a52b84c11b58805",
+    "drand_seed_hash": "a22be66617e555a27f8506d67dee1eebd64310466d29472ff04cf0248ffc9cf7825241d00a09889434a1a121ec8b1b9a",
+    "client_seed": "1778793034966",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 198,
+    "max_tickets": 400,
+    "combined_hash": "bff47fe1961c1395541b77b6466d5ff83653d5ffc4877b6076f6f35347e98d4e",
+    "result": "128",
+    "external_round_id": "28663226",
+    "processing_status": "completed",
+    "created_at": "2026-05-14T21:10:35.000000Z",
+    "revealed_at": "2026-05-14T21:10:42.000000Z"
+}
