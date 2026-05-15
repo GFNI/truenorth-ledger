@@ -1,0 +1,22 @@
+{
+    "round_id": "9fe48d71-6257-46c6-85e2-a6122af86e34",
+    "draw_title": "x30 Entries Into Spring Lucky Break",
+    "competition_url": "https://a9competitions.co.uk/admin/products/x30-entries-into-spring-lucky-break",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "e5cc54fae66437d2a797f33bf22323070ca38e07be03340d43c588067cdb29bf",
+    "drand_seed_hash": "a0e5600417726e99f4f90872899684fcb7ae5ef458769448eda210bd9d3ce78d21c21b3df783b1c03e6ce5ff00c1d890",
+    "client_seed": "1778877042523",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 180,
+    "combined_hash": "40b34a289f442c1a01b1d22720bdd6d65bd87420160b5800a0477861bb4b2301",
+    "result": "133",
+    "external_round_id": "28691229",
+    "processing_status": "completed",
+    "created_at": "2026-05-15T20:30:42.000000Z",
+    "revealed_at": "2026-05-15T20:30:51.000000Z"
+}
