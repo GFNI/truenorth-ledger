@@ -1,0 +1,22 @@
+{
+    "round_id": "a87ea156-02e7-46ad-90fc-7a5cbba69f90",
+    "draw_title": "🤏GRAB A GRAND 💲- x20 £1000 INSTANT WINS - £250 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/grab-a-grand-x20-ps1000-instant-wins-ps250-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "a493ec5969bf2c41b79b872a4f428399e0160edeae5c4b3142fd7dfe9f970020",
+    "drand_seed_hash": "a45ca4a7eafddfdd33748916c4a8adca5e87605fdc3997638dee21bd94da09f14a5d1c09320156fa959886ddaa6870b4",
+    "client_seed": "1778875837497",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 966,
+    "max_tickets": 73999,
+    "combined_hash": "890ac369ab42d3c2bb372e910108ad3e3e94bd2f262799c75e3d62cead4a3da1",
+    "result": "41876",
+    "external_round_id": "28690827",
+    "processing_status": "completed",
+    "created_at": "2026-05-15T20:10:37.000000Z",
+    "revealed_at": "2026-05-15T20:10:45.000000Z"
+}
