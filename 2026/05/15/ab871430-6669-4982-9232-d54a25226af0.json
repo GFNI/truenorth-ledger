@@ -1,0 +1,22 @@
+{
+    "round_id": "ab871430-6669-4982-9232-d54a25226af0",
+    "draw_title": "Grab a Grand - £15k in Instant Wins",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/grab-a-grand-ps15k-in-instant-wins",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "4db142bf349ab5ffa7405742c41727fb986d98614d18be04836b44737da21e90",
+    "drand_seed_hash": "924b97877f9fd30c82b2cc8c10d2be935423cf8d1fea4da13c4b8f72958a630a721b7ad0c837d3561d3181107963c705",
+    "client_seed": "1778868631615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 299,
+    "max_tickets": 35000,
+    "combined_hash": "584271da1e8a34be0aa4923fed1b0454a0a02da56c58b036623d59d41ddd6fd2",
+    "result": "5641",
+    "external_round_id": "28688425",
+    "processing_status": "completed",
+    "created_at": "2026-05-15T18:10:31.000000Z",
+    "revealed_at": "2026-05-15T18:10:39.000000Z"
+}
