@@ -1,0 +1,22 @@
+{
+    "round_id": "f4e7a862-f1ed-47cb-8d7f-3b35e462ac3c",
+    "draw_title": "Site Credit Wallet Builder",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/site-credit-wallet-builder",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "f8e678fd81564fbb5f4c05c664f5fc34ed06879a05602e4f8d92153075b4e9bc",
+    "drand_seed_hash": "8f1712c094b8d7fa4b04987417f64b11b425101da14819f92678afb6210cbdd36be3fa912b2da512aba18f9716ebc30d",
+    "client_seed": "1778869891527",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 3000,
+    "combined_hash": "c9e39973affca7ba066c00e857f82e7c1456f99c0cb5f89787dfd0cd6cb11fca",
+    "result": "1162",
+    "external_round_id": "28688845",
+    "processing_status": "completed",
+    "created_at": "2026-05-15T18:31:31.000000Z",
+    "revealed_at": "2026-05-15T18:31:39.000000Z"
+}
