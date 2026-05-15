@@ -1,0 +1,22 @@
+{
+    "round_id": "a9412057-c45e-4243-9953-cef29287d279",
+    "draw_title": "The Glendronach - Ode to the Valley - AUTO-DRAW",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-glendronach-ode-to-the-valley-auto-draw-2",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "462de2c6694ab98af8394ed906f7a35265b1cca67a888bb30ff6590500153549",
+    "drand_seed_hash": "960a1558dac67dc35f6828d41a5c08ef7f8730a57eb3f1ab1051177026655cf302f8f0aa7af7c34d7cae7f6ec34032a7",
+    "client_seed": "1778879430790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 211,
+    "max_tickets": 300,
+    "combined_hash": "1ea39469252c679ab63e697f693e00e228e735876ff9717dd568293e38991c24",
+    "result": "267",
+    "external_round_id": "28692025",
+    "processing_status": "completed",
+    "created_at": "2026-05-15T21:10:30.000000Z",
+    "revealed_at": "2026-05-15T21:10:39.000000Z"
+}
