@@ -1,0 +1,22 @@
+{
+    "round_id": "d3ba2dac-6bcc-4a17-93fc-12d050095c40",
+    "draw_title": "£50 TAKEAWAY VOUCHER / £50 CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps50-takeaway-voucher-ps50-cash",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "804bf794863d9a9a321d30bea5f3d495a08a0edee5cfbef848f2a0f11c5c8513",
+    "drand_seed_hash": "b4078f3d839fb01ed9e3a488230448af869cdc1f90ed80dc2aa5604cc0df9ab97415cc14a17ae3f689037ae659b66c91",
+    "client_seed": "1778972431577",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 179,
+    "combined_hash": "df7dc8214a2c87854e5f78c648e24881a16ef11b300456fc5e899a743be6c2fc",
+    "result": "162",
+    "external_round_id": "28723025",
+    "processing_status": "completed",
+    "created_at": "2026-05-16T23:00:31.000000Z",
+    "revealed_at": "2026-05-16T23:00:39.000000Z"
+}
