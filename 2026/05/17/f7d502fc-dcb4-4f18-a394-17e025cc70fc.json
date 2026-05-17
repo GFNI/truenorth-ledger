@@ -1,0 +1,22 @@
+{
+    "round_id": "f7d502fc-dcb4-4f18-a394-17e025cc70fc",
+    "draw_title": "Samsung Smart TV 55\" + Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/samsung-smart-tv-55-instant-wins",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "37c5d0213f8b1c805c40c7007d89dc6c87bfdf5f2fde843c143d62d3897f012e",
+    "drand_seed_hash": "825be6ce7569f265182177c6f20e4a5fc6aab960e621291edd90e5aeee8cf83cccb256ac95a1592b797e71647a181a31",
+    "client_seed": "1779049839625",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 224,
+    "max_tickets": 575,
+    "combined_hash": "0c9ff2384fa80771930fc7cdb22401fd6dfbb3a137af4e7ce7481071cc4a7507",
+    "result": "500",
+    "external_round_id": "28748827",
+    "processing_status": "completed",
+    "created_at": "2026-05-17T20:30:39.000000Z",
+    "revealed_at": "2026-05-17T20:30:45.000000Z"
+}
