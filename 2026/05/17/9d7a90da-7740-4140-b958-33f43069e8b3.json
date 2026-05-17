@@ -1,0 +1,22 @@
+{
+    "round_id": "9d7a90da-7740-4140-b958-33f43069e8b3",
+    "draw_title": "Win £500 Cash",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/win-ps500-cash",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "75c0af2c0eaabefce3dffa924e1615141b240272acc2c1ecfdcdf5339ad967d0",
+    "drand_seed_hash": "a41c354f1d295531ac4fbd10587d9a7d310e95de9a9408bc0de069c6a43d9a5836c455a409876cb592a3c002bd54b762",
+    "client_seed": "1779041436502",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1070,
+    "max_tickets": 3500,
+    "combined_hash": "3851e63d0510f937cebc8d7c81ed8be836f904a7edbb615cbd0faf36999bea54",
+    "result": "1749",
+    "external_round_id": "28746026",
+    "processing_status": "completed",
+    "created_at": "2026-05-17T18:10:36.000000Z",
+    "revealed_at": "2026-05-17T18:10:42.000000Z"
+}
