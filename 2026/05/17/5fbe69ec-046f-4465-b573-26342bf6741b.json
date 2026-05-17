@@ -1,0 +1,22 @@
+{
+    "round_id": "5fbe69ec-046f-4465-b573-26342bf6741b",
+    "draw_title": "Cobra's INSTANT WIN Scratchcard",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/cobras-instant-win-scratchcard",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "7e401a20990c5e60980031752d47caba32a321e421b619c6e217ed708e3b088f",
+    "drand_seed_hash": "8874124150c21a113b0ba81dd5adc8d17269643dee688085f144224e3db9a95c96719b9b9b368847bc88bbf788033894",
+    "client_seed": "1779048639632",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 389,
+    "max_tickets": 5999,
+    "combined_hash": "0851d22962d1c75406ea855e32d81c040d071a6ee158e1409861bc57ba461bd5",
+    "result": "122",
+    "external_round_id": "28748428",
+    "processing_status": "completed",
+    "created_at": "2026-05-17T20:10:39.000000Z",
+    "revealed_at": "2026-05-17T20:10:48.000000Z"
+}
