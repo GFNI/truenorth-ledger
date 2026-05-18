@@ -1,0 +1,22 @@
+{
+    "round_id": "3691b892-a843-4227-bd9b-6b50c35ff8c0",
+    "draw_title": "The Galgorm Growth Vault 👀💸",
+    "competition_url": "https://theprizevault.co.uk/admin/products/the-galgorm-growth-vault-2",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "8615f851b50f69a8b2a7d2986349572cdcfb31647365f972668dbac8a3e610fb",
+    "drand_seed_hash": "93dcfd7934ec073f7510c3bc2f103baafb080eedbedcea1daa430af3c979c94f51b2cc430313b101f3f44fc782655df2",
+    "client_seed": "1779135052981",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 700,
+    "combined_hash": "a1577ad308b431b59746a2ccd2cf575fb6cdbf07294637164672c1430f4445c9",
+    "result": "202",
+    "external_round_id": "28777232",
+    "processing_status": "completed",
+    "created_at": "2026-05-18T20:10:53.000000Z",
+    "revealed_at": "2026-05-18T20:11:00.000000Z"
+}
