@@ -1,0 +1,22 @@
+{
+    "round_id": "79d4aaa5-0807-4fee-ad3b-d8e60e8fcc41",
+    "draw_title": "Go (Child Draw)",
+    "competition_url": "https://truenorth.rafflex.io/",
+    "operator": {
+        "name": "GFNI LTD",
+        "website": "https://getfoundni.co.uk",
+        "company_number": "181873737"
+    },
+    "drand_server_seed": "2b7af66d52d60de5f0d4ff261bc18e6e7f69bb2083e12916e267ea6a880aa8ec",
+    "drand_seed_hash": "b41a9d0e6e0ba5ce57f7f33da14ca2d566eee0905f27c43ba659b841ec7dd8cf83d6f48d3dd939c8cf61757df5d658cc",
+    "client_seed": "1779104083178",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 200,
+    "combined_hash": "9088e5300af1eea8f6bf543080b68c050b2c6695b8d1075c2073efe07303c282",
+    "result": "73",
+    "external_round_id": "28766908",
+    "processing_status": "completed",
+    "created_at": "2026-05-18T11:34:43.000000Z",
+    "revealed_at": "2026-05-18T11:34:48.000000Z"
+}
