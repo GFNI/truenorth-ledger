@@ -1,0 +1,22 @@
+{
+    "round_id": "622fea60-3ce1-45b8-a321-09abfccf4555",
+    "draw_title": "WIN 24 CANS OF MONSTER (ANY CHOICE OF FLAVOUR*)",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-24-cans-of-monster-any-choice-of-flavour",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "f7c3a3199a64c360db46160b7ab8bd4c79333103da0a2ed386ffe49ac46c29e8",
+    "drand_seed_hash": "87ec5607ad423054bd3cb6583a7b10bc9ce32b93ab35f5bca894fc194866166e6ea650063c41651ac7939e641945d6b1",
+    "client_seed": "1779145234751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16,
+    "max_tickets": 25,
+    "combined_hash": "af45ff821e35074122a4c72a83dde74dcdbaa5e856df3fd7256ca2a49d0dffe5",
+    "result": "25",
+    "external_round_id": "28780626",
+    "processing_status": "completed",
+    "created_at": "2026-05-18T23:00:34.000000Z",
+    "revealed_at": "2026-05-18T23:00:42.000000Z"
+}
