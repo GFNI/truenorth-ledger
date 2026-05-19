@@ -1,0 +1,22 @@
+{
+    "round_id": "f71339c7-af2e-4798-af95-e259fad03d51",
+    "draw_title": "£180 Tax-Free Cash",
+    "competition_url": "https://therafflekid.co.uk/admin/products/ps180-tax-free-cash",
+    "operator": {
+        "name": "The Raffle Kid Ltd",
+        "website": "https://therafflekid.co.uk",
+        "company_number": "16287135"
+    },
+    "drand_server_seed": "262392510aedb86655146d547c9f96be7e4299e06d23e2c520bf05465c237f19",
+    "drand_seed_hash": "975e05474cabdcccc741c14e54a77f95ebedcf487174b8f1a8e5f70b94fb427436a6a4b66c18ad1306c3436c08d18ea7",
+    "client_seed": "1779217475835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 449,
+    "max_tickets": 449,
+    "combined_hash": "4a0a5d44660aaf20646acb4090ecc94293bde01e4023597e2cb11de5b4349306",
+    "result": "121",
+    "external_round_id": "28804706",
+    "processing_status": "completed",
+    "created_at": "2026-05-19T19:04:35.000000Z",
+    "revealed_at": "2026-05-19T20:00:34.000000Z"
+}
