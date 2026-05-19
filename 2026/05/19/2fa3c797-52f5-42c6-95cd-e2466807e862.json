@@ -1,0 +1,22 @@
+{
+    "round_id": "2fa3c797-52f5-42c6-95cd-e2466807e862",
+    "draw_title": "Slot Machine Jackpot",
+    "competition_url": "https://chaotic.co.uk.test/competition/slot-machine-jackpot",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b7022d841f574d8aabc31321eb45af2c3779768ece4cb2e1fcfba64fc29a81d8",
+    "drand_seed_hash": "8cfd3c066eec9ab70b3f328e2078fbbdc31527aa970f9a463ce3a3feba3943860e8d1019de141898ba3a305ce36af91c",
+    "client_seed": "1779182451923",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 1000,
+    "combined_hash": "58c28f0d233d076aba59d655a3f112fe4de36382e6ac814f016662613829769f",
+    "result": "209",
+    "external_round_id": "28793032",
+    "processing_status": "completed",
+    "created_at": "2026-05-19T09:20:52.000000Z",
+    "revealed_at": "2026-05-19T09:21:00.000000Z"
+}
