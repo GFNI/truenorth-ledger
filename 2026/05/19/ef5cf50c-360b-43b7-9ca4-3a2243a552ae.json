@@ -1,0 +1,22 @@
+{
+    "round_id": "ef5cf50c-360b-43b7-9ca4-3a2243a552ae",
+    "draw_title": "Bonus Buy ~ETIAW 💎",
+    "competition_url": "https://redlemonx.co.uk/admin/products/bonus-buy-etiaw",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "64cd1d0ca03437174c6677690e1a8cd4aae6fec7d2adee09cb514a904519ec55",
+    "drand_seed_hash": "8f000af370b17875e83cd6f22c9f021a22afe39166edf39980d1a444100480e13275b78c6c7ca913478471ba89cdb14a",
+    "client_seed": "1779172234439",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "58c133aff7ee01dd0bcc73af0c65341f3457b9f9d032992a784f84ffc3ba743a",
+    "result": "58",
+    "external_round_id": "28789626",
+    "processing_status": "completed",
+    "created_at": "2026-05-19T06:30:34.000000Z",
+    "revealed_at": "2026-05-19T06:30:42.000000Z"
+}
