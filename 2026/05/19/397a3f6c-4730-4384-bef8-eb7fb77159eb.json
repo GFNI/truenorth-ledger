@@ -1,0 +1,22 @@
+{
+    "round_id": "397a3f6c-4730-4384-bef8-eb7fb77159eb",
+    "draw_title": "TEST",
+    "competition_url": "https://caledoniacompetitions.co.uk/competition/test-competition",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "49e860d067261af6a47b4b2185cf58736fe1658fb1bd2fd05e1be81d4de92978",
+    "drand_seed_hash": "8ae2bd500cd129bf015058bd5d4a2a96cd719f4c71eee5efde3ec8d838abe1d5b46189c680e34c246140fa91bda2ed9d",
+    "client_seed": "1779193349010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "45395e0c2ae2e27cb38810daca2231b3f7c6a7d2aab83b10f0f0e7db50bcf967",
+    "result": "38",
+    "external_round_id": "28796664",
+    "processing_status": "completed",
+    "created_at": "2026-05-19T12:22:29.000000Z",
+    "revealed_at": "2026-05-19T12:22:39.000000Z"
+}
