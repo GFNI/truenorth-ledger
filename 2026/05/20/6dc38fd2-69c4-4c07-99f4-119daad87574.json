@@ -1,0 +1,22 @@
+{
+    "round_id": "6dc38fd2-69c4-4c07-99f4-119daad87574",
+    "draw_title": "Auto Draw Test - 20 May 09:29",
+    "competition_url": "https://icy-toad.test/admin/products/consequatur-quasi-aspernatur-sit-saepe-omnis-quae",
+    "operator": {
+        "name": "https://icy-toad.test/",
+        "website": "https://icy-toad.test",
+        "company_number": "2213432"
+    },
+    "drand_server_seed": "25d6027a4815c8c68a0ad41e5d53490d513317fbbd33192018855558744ff6d3",
+    "drand_seed_hash": "8d708551cf999b2e7fd7830061b96b1ba45648fe54d88248abd8e517fb491a1b1434abd3cd5eee5ad785b5e8d6f6f9a1",
+    "client_seed": "1779300801813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "cfe7f207f86a1e235da3a675cb273143d4524658ff3c28902ff7fb91cc953ecb",
+    "result": "43",
+    "external_round_id": "28832481",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T18:13:21.000000Z",
+    "revealed_at": "2026-05-20T18:13:27.000000Z"
+}
