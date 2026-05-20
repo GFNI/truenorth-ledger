@@ -1,0 +1,22 @@
+{
+    "round_id": "df2aae55-a1e3-4cd3-b583-ec61140b89c4",
+    "draw_title": "The Golden Key",
+    "competition_url": "https://chaotic.co.uk/competition/the-golden-key-8338",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2d861f17e65fcc2705536fcf2a676f9b5ae6f8dbfa23d42e8f1489f350130e8e",
+    "drand_seed_hash": "b34df38a4f93374d93097e3f5f5e569e6b81d53b49bb0c7766e7967383877824f635c3b0b6e3b2c61dc4acf5d224cdc7",
+    "client_seed": "1779306407688",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "d909d307d44af9c8b24cc69cf10220995a5693bae744e5a9c9cfce6450cc6d02",
+    "result": "3130",
+    "external_round_id": "28834350",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T19:46:47.000000Z",
+    "revealed_at": "2026-05-20T19:46:54.000000Z"
+}
