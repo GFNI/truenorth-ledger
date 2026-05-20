@@ -1,0 +1,22 @@
+{
+    "round_id": "26f7b4d1-d83f-4f94-95cd-3c310e48654a",
+    "draw_title": "Completed - PS5 Bundle",
+    "competition_url": "https://icy-toad.test/admin/products/completed-ps5-bundle",
+    "operator": {
+        "name": "https://icy-toad.test/",
+        "website": "https://icy-toad.test",
+        "company_number": "2213432"
+    },
+    "drand_server_seed": "390cb475e57f13b8b0ac358efd4985692602ce270a11aceda9b794c435c15ead",
+    "drand_seed_hash": "aef30ac422785087e3b0cbbbde56d6ef6723a5dd87bb7d25c9d11e7e2f465f81ca46417062b2ad09345e54d443750539",
+    "client_seed": "1779299701409",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 100,
+    "combined_hash": "4d6bbc98758be2c56b3bb6e0f9f6a979996818d8a970365fbc3e8df027acc3a0",
+    "result": "70",
+    "external_round_id": "28832115",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T17:55:01.000000Z",
+    "revealed_at": "2026-05-20T17:55:09.000000Z"
+}
