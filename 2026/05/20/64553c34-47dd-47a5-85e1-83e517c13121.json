@@ -1,0 +1,22 @@
+{
+    "round_id": "64553c34-47dd-47a5-85e1-83e517c13121",
+    "draw_title": "£500 Voucher for Galgorm Resort & Spa Free Giveaway (Child Draw)",
+    "competition_url": "https://spherecompetitions.com/competition/ps500-voucher-for-galgorm-resort-spa-free-giveaway",
+    "operator": {
+        "name": "Sphere Competitions",
+        "website": "https://spherecompetitions.com",
+        "company_number": "1345634568"
+    },
+    "drand_server_seed": "0764f1b175457ec3e06fb23e05dd3f741642af09fb32d9cbb086c7c1a66a1838",
+    "drand_seed_hash": "987c9aee4a89c7519939d3d6b73e067d060b13501b56d4092d48ebfbc5984544764fdeb8dca8c72d7b6743f40b914890",
+    "client_seed": "1779307580799",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "cf53e37441661615fdcc870656e83de6f4e0519e1c6c241612af448ad52b8926",
+    "result": "184",
+    "external_round_id": "28834741",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T20:06:20.000000Z",
+    "revealed_at": "2026-05-20T20:06:27.000000Z"
+}
