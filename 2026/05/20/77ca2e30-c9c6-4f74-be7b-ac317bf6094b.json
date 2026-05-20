@@ -1,0 +1,22 @@
+{
+    "round_id": "77ca2e30-c9c6-4f74-be7b-ac317bf6094b",
+    "draw_title": "£1000 Cash",
+    "competition_url": "https://dark.demo.rafflex.io/competition/demo-22",
+    "operator": {
+        "name": "GFNI",
+        "website": "https://rafflex.io",
+        "company_number": "GFNI"
+    },
+    "drand_server_seed": "54c9913d3532cd0429fa103a460c2f4547cafd91e8c190c93543f124cc1791af",
+    "drand_seed_hash": "a989db3c9563701912100993e2314ec0d587825dfb021f4eb808d5122ebb5dc3c9c6803e2223d0fce06337c62a792129",
+    "client_seed": "1779292284463",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 20000,
+    "combined_hash": "94b6d9a087ea9d5b695f65ffe958cb04d98d642177763ae590703cdddd10cc79",
+    "result": "2613",
+    "external_round_id": "28829642",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T15:51:24.000000Z",
+    "revealed_at": "2026-05-20T15:51:34.000000Z"
+}
