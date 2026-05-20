@@ -1,0 +1,22 @@
+{
+    "round_id": "2b4577ea-cfda-4cbd-abae-2f28812b8e97",
+    "draw_title": "Queen of Chaotic",
+    "competition_url": "https://chaotic-build.getfoundni.co.uk/competition/queen-of-chaotic",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "066a8eecbe0b44d6263a9fcd5ed59bbe206540a7db01ee314bdef7de2fdc9043",
+    "drand_seed_hash": "aee9c0d69b7a35228144dc46d9fc2999703d049ff941f39f8474f988acf194df5242eafcfc9c3d70200725b07a70a141",
+    "client_seed": "1779280735739",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 60000,
+    "combined_hash": "9ec93c6c035d93cdeccf98b3b80022739128dde666443ead354a15a01d52bdc0",
+    "result": "23103",
+    "external_round_id": "28825793",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T12:38:55.000000Z",
+    "revealed_at": "2026-05-20T12:39:03.000000Z"
+}
