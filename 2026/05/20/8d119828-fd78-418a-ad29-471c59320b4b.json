@@ -1,0 +1,22 @@
+{
+    "round_id": "8d119828-fd78-418a-ad29-471c59320b4b",
+    "draw_title": "10x NDS BOAT INSTANT WINS - £100 CRED END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/10x-nds-boat-instant-wins-ps100-cred-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "8ec98a8bd04340d95bb2cd10e0529cd7c1538221e4d7bb15b2e692aa7d96d045",
+    "drand_seed_hash": "8aa6626f2c2fd0c790cdd305facc950048838a0875c94f5cf436b0c51081330f0087562eb6dbeb0a600e3b5264d65a27",
+    "client_seed": "1779304236611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15330,
+    "max_tickets": 53999,
+    "combined_hash": "9a92743f43b8ef85a94132997d66ee759b998a084a04c52f70ef03719bbe842e",
+    "result": "14030",
+    "external_round_id": "28833626",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T19:10:36.000000Z",
+    "revealed_at": "2026-05-20T19:10:42.000000Z"
+}
