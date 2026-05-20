@@ -1,0 +1,22 @@
+{
+    "round_id": "e7afe51d-5939-44ad-8918-79de6785a624",
+    "draw_title": "🏁 QUICK CASH INSTANT WINS 🏎️  £100 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/quick-cash-instant-wins-ps100-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "a5bae7f3508be3954621e69cb707533e0483604b3fe60215c5c9fff03e48238c",
+    "drand_seed_hash": "b440b0f9950665c526291d396d3e51e008c5cfb3a49b7bab6bcd41d6ceaabbaad78cbffd19b35bfbf28123e1b058af2c",
+    "client_seed": "1779307837302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6974,
+    "max_tickets": 250000,
+    "combined_hash": "3b9203f3f32665f168a8463cb2e432b2056c6945cba06f1df960d946cc877339",
+    "result": "97532",
+    "external_round_id": "28834827",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T20:10:37.000000Z",
+    "revealed_at": "2026-05-20T20:10:45.000000Z"
+}
