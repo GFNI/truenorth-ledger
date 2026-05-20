@@ -1,0 +1,22 @@
+{
+    "round_id": "01038128-1ec0-4629-8e52-9965c91deb13",
+    "draw_title": "FREE DRINKS BUNDLE",
+    "competition_url": "https://chaotic.co.uk/competition/free-drinks-bundle-3503",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a0d9eed9d77c642487c80ee8ae6989c97994473b28584d3291a20f7fe1c1a0f8",
+    "drand_seed_hash": "a9b391af5de2e8bdbb0b1da960d1cdaddfeb275966e1f41d56e0590f7da19b1a0f572d5a2e0e3e94d17860640d062426",
+    "client_seed": "1779305793149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "343cd1a3d468610d0bf48a83b791da7cb845be18174006133f90a905e76155ce",
+    "result": "145",
+    "external_round_id": "28834145",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T19:36:33.000000Z",
+    "revealed_at": "2026-05-20T19:36:39.000000Z"
+}
