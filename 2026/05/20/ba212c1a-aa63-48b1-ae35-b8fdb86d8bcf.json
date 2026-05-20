@@ -1,0 +1,22 @@
+{
+    "round_id": "ba212c1a-aa63-48b1-ae35-b8fdb86d8bcf",
+    "draw_title": "Golden Catch",
+    "competition_url": "https://chaotic-build.getfoundni.co.uk/competition/golden-catch",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "0e31f6a5cd55a0433d5916ae985eaad406e62e95a160e1e59ce02bcf3ddd025e",
+    "drand_seed_hash": "af9c215c2befe574f310e250199fdbdc5446a07b58eeb118f1cad3357775449326f71a86ad4e8d8a6e8eda1084a6f3cb",
+    "client_seed": "1779283334834",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 600,
+    "combined_hash": "6a84026b430c672cfbbf5bc33d66ba9ee88b1e09a973fb3a9bcbd39c91b2ccb0",
+    "result": "483",
+    "external_round_id": "28826659",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T13:22:14.000000Z",
+    "revealed_at": "2026-05-20T13:22:21.000000Z"
+}
