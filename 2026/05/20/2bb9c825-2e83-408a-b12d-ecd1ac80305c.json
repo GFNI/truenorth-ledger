@@ -1,0 +1,22 @@
+{
+    "round_id": "2bb9c825-2e83-408a-b12d-ecd1ac80305c",
+    "draw_title": "Pokemon Ultimate Era Clash! £20,000+ Instant Wins Prizes!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/pokemon-ultimate-era-clash-ps20000-instant-wins-prizes",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "53754a812f83eab8d22b8bc799c138761e7250588add28556599defc4d646272",
+    "drand_seed_hash": "8060ccf81f01441089e44d727d19f7c309a31184a47577aceaf40278b2a14313921604eb1812bc20ef14dd2ede5c1a13",
+    "client_seed": "1779318637732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3357,
+    "max_tickets": 8999,
+    "combined_hash": "f08d52878d811565a8e8e6c5a9b4d43af6b0b49000bcfa42c74397352b123a6e",
+    "result": "3736",
+    "external_round_id": "28838426",
+    "processing_status": "completed",
+    "created_at": "2026-05-20T23:10:37.000000Z",
+    "revealed_at": "2026-05-20T23:10:42.000000Z"
+}
