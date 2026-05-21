@@ -1,0 +1,22 @@
+{
+    "round_id": "4b68d8db-a819-41e6-b46b-96f0fb07c104",
+    "draw_title": "FREE £50",
+    "competition_url": "https://kingofcomps.co.uk/competition/free-ps50-credit",
+    "operator": {
+        "name": "kofcomps ltd",
+        "website": "https://kingofcomps.co.uk",
+        "company_number": "13807791"
+    },
+    "drand_server_seed": "74506f69a10a2711a0060910a1f34676dcea495d40a980e5d0c918351287deb2",
+    "drand_seed_hash": "95be23cf1303ce89c5b4c7ba3c572c699f9db601698139c14a8c5331969a0eb181c8632a230edcf1df5d6be0ed53a9cf",
+    "client_seed": "1779375628268",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 250,
+    "combined_hash": "c59e705c22341a205870a871f2c80e6ddeda9423510521fe6feb12ae0875468d",
+    "result": "50",
+    "external_round_id": "28857423",
+    "processing_status": "completed",
+    "created_at": "2026-05-21T15:00:28.000000Z",
+    "revealed_at": "2026-05-21T15:00:37.000000Z"
+}
