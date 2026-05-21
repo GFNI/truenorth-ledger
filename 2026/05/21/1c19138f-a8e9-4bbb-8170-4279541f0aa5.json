@@ -1,0 +1,22 @@
+{
+    "round_id": "1c19138f-a8e9-4bbb-8170-4279541f0aa5",
+    "draw_title": "Winsome Doe #22",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/winsome-doe-22-instant-wins-up-to-ps100-2",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "d8f1e34d457b443a96332a07f11fe444cd6089bf1fc9e24623dbb8e6fd8f5709",
+    "drand_seed_hash": "8f6e7f6462c7f99d7ede2ea0158e701b25cd84f972b645d178d7ca31ff92b635b84fc2994a7ee4ebd79c7f7270461373",
+    "client_seed": "1779390496957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 350,
+    "combined_hash": "319f926fc19eda9b846daf57003c0a10263b2e4aa4066208ad0f022800a42b7e",
+    "result": "186",
+    "external_round_id": "28862379",
+    "processing_status": "completed",
+    "created_at": "2026-05-21T19:08:16.000000Z",
+    "revealed_at": "2026-05-21T19:08:28.000000Z"
+}
