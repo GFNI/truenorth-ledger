@@ -1,0 +1,22 @@
+{
+    "round_id": "e0888d6f-d14f-4a89-bf1b-8c84f32b7e02",
+    "draw_title": "ghd peach",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ghd-chronos-duet-blowdry-ltd-edt-peach-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4acc734ac2a7988e1549d20303b9a9193a401f3622ec275e88fde89fdb58af41",
+    "drand_seed_hash": "92f8a9cc0b5927354826aeebce3cdc1d74e396f9a9144fda09dd9095469bf5cf82bea8188f990a96feed5dca7d968bf6",
+    "client_seed": "1779440234270",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1150,
+    "combined_hash": "b60cab9e58a9893cef2b8d5eec271d105a7c2207ec120ebfd3d66d950f7b57b7",
+    "result": "389",
+    "external_round_id": "28878958",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T08:57:14.000000Z",
+    "revealed_at": "2026-05-22T08:57:23.000000Z"
+}
