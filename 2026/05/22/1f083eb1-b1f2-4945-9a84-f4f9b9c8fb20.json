@@ -1,0 +1,22 @@
+{
+    "round_id": "1f083eb1-b1f2-4945-9a84-f4f9b9c8fb20",
+    "draw_title": "switch",
+    "competition_url": "https://bountycompetitions.co.uk/lists/nintendo-switch-2-bundle-13",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "bb597912c02fdcb2cc84db994b37d7be5441b4c469e4ceb384440980f8b147c3",
+    "drand_seed_hash": "9117819c2ced7c0bd7ec4869af29f1933aa12436b0e39279e8a9373ad8ec28d7abed35954918a86660b5758cf26cfcae",
+    "client_seed": "1779439654630",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 900,
+    "combined_hash": "62270f0327c2344e2af4fe7c6b4e363d7eec8eea76f963f5b15da2e457a13348",
+    "result": "471",
+    "external_round_id": "28878766",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T08:47:34.000000Z",
+    "revealed_at": "2026-05-22T08:47:44.000000Z"
+}
