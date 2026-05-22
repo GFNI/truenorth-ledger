@@ -1,0 +1,22 @@
+{
+    "round_id": "d697cd25-f3cf-4962-bfd2-6a049e40ef86",
+    "draw_title": "REEL OR CASH DEAL - TAKE THE REELS OR THE MONEY #2",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/reel-or-cash-deal-take-the-reels-or-the-money-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "01ededaffc07fd3c5c6321918f3c3c3399bc8dfd36d0160e4113f6921795ba3f",
+    "drand_seed_hash": "acd79933a8b8f01baa094a6602511feb5b77343b840fdc297e135a7f1d571161eaee8c5909dbfe91554fe9fca45327be",
+    "client_seed": "1779484235239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2809,
+    "max_tickets": 43999,
+    "combined_hash": "cca97e502f1241d4d56c071c8a12810b05aa7c43011a4049be97d0f5f8f93787",
+    "result": "16978",
+    "external_round_id": "28893626",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T21:10:35.000000Z",
+    "revealed_at": "2026-05-22T21:10:42.000000Z"
+}
