@@ -1,0 +1,22 @@
+{
+    "round_id": "7a6c56dd-3962-40df-afa7-eaec30f13ef6",
+    "draw_title": "Emoji Scratch Hunt",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/emoji-scratch-hunt",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "12d499a6e276c670d0fc1e6e9198a1047f9c66ab41e2231a2730c627070a784c",
+    "drand_seed_hash": "8976a24de4d083e6a10e1877d95b653c056025531a6296f69179676503aa17b05dea46601f14445547a0a01d6d9cb6a4",
+    "client_seed": "1779473445587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14327,
+    "max_tickets": 85000,
+    "combined_hash": "af9e9d28d0d531fedd5dfbfcaff455bc2c5f5eb64c73d3a3ec2adcb7472eca6d",
+    "result": "58416",
+    "external_round_id": "28890029",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T18:10:45.000000Z",
+    "revealed_at": "2026-05-22T18:10:51.000000Z"
+}
