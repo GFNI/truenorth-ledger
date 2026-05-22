@@ -1,0 +1,22 @@
+{
+    "round_id": "4916b423-d9fd-4711-88c7-f0aa1ba73c11",
+    "draw_title": "amazon",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps500-amazon-spends-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "68b138f800103cb8b5108e489cb150f79d332e76e18473f207aa93822d3a577f",
+    "drand_seed_hash": "8439a7b359eefe054ac78d5f8ef49a666b99f43050c5cc60aa4e5d69f08664c59f31be5a92e3be26860b727ace2f8361",
+    "client_seed": "1779439829273",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1025,
+    "combined_hash": "c50075f609a61781e17a43e1c0a584cb82c43feb0b392eaf52d7a7d587f381e8",
+    "result": "746",
+    "external_round_id": "28878824",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T08:50:29.000000Z",
+    "revealed_at": "2026-05-22T08:50:38.000000Z"
+}
