@@ -1,0 +1,22 @@
+{
+    "round_id": "b4eb4f69-d832-4cc8-bcb1-cbf645f9cb96",
+    "draw_title": "Auto Draw Test - 22 May 18:22",
+    "competition_url": "https://icy-toad.test/admin/products/rerum-odit-eos-enim-quod-voluptatem-blanditiis-distinctio",
+    "operator": {
+        "name": "https://icy-toad.test/",
+        "website": "https://icy-toad.test",
+        "company_number": "2213432"
+    },
+    "drand_server_seed": "3223a023d1a5e224ce209bdf4c2b443036b669fb5d3786b60a09aa51905e6ea3",
+    "drand_seed_hash": "a719b07ba0ae11429599cc6c1894d2873fce1e277daec1a72bc4389e9ec74c17bccca26be80d8a3dc48c63d7dd95d345",
+    "client_seed": "1779470588424",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "f0c0459b22554719142ceb11edceeb19f97c4b63fe046bdf9ff030d4c9f31347",
+    "result": "57",
+    "external_round_id": "28889077",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T17:23:08.000000Z",
+    "revealed_at": "2026-05-22T17:23:15.000000Z"
+}
