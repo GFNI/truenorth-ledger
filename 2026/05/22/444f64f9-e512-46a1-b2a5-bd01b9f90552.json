@@ -1,0 +1,22 @@
+{
+    "round_id": "444f64f9-e512-46a1-b2a5-bd01b9f90552",
+    "draw_title": "£3000",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps3k-enter-for-55p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b8a2a9e9677e6a59468edd9bb4875de9dfe76c3e076632136792fb86a958acb6",
+    "drand_seed_hash": "a0eefb5ec7ef6996128e6698be550317e0d381d3afbcfe992c9ae20d3f46e21bb278751b72bf6023d258869c8dd6198e",
+    "client_seed": "1779440700411",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 8365,
+    "combined_hash": "ca473efcca400c06464af64ea99ca982ecd296a55095030ce71273d289d0d6a5",
+    "result": "2893",
+    "external_round_id": "28879114",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T09:05:00.000000Z",
+    "revealed_at": "2026-05-22T09:05:10.000000Z"
+}
