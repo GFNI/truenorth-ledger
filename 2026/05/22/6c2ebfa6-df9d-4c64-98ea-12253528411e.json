@@ -1,0 +1,22 @@
+{
+    "round_id": "6c2ebfa6-df9d-4c64-98ea-12253528411e",
+    "draw_title": "MINI DRAW - WIN 1000 TICKETS INTO SUZUKI LTZ400 ROAD LEGAL QUAD OR £2500 CASH COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-1000-tickets-into-suzuki-ltz400-road-legal-quad-or-ps2500-5",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "747f5274cfda5e5c6a54954a3944c105e885176fca628b9a74686630580a43c9",
+    "drand_seed_hash": "973eff3dd184c05306c3ca1952dac7dacf5048379fc1e383cb86072d608ef15ea904b4d54d7a60e40e27e33a736743ab",
+    "client_seed": "1779431734121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 25,
+    "combined_hash": "ba47c63e292c86b07efff337a461df62dda7793a4e4681c6648cb821b3869a99",
+    "result": "8",
+    "external_round_id": "28876126",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T06:35:34.000000Z",
+    "revealed_at": "2026-05-22T06:35:42.000000Z"
+}
