@@ -1,0 +1,22 @@
+{
+    "round_id": "0443ab63-e112-46ca-b88d-c981695d2eb2",
+    "draw_title": "£100K OF SCRATCH CARDS - £500 END AUTO DRAW #4",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/ps100k-of-scratch-cards-ps500-end-auto-draw-4",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "1d68f4d7e969e357dccc0e4fb7fc768bea27c9986bd04e9fc36ffb30efadadf7",
+    "drand_seed_hash": "aa8f28eabdb2b5fffb240dbc1af78b7d538c7a4369bc7ee88a8f7af3a266b3a49bc814ea12c8e99aa844870deb6a1f0f",
+    "client_seed": "1779484260657",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23117,
+    "max_tickets": 470000,
+    "combined_hash": "0929db8eb67041a3284e1d74865e9f80ada86e3d1aa9315b0c7b0b4248ec1436",
+    "result": "197562",
+    "external_round_id": "28893634",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T21:11:00.000000Z",
+    "revealed_at": "2026-05-22T21:11:06.000000Z"
+}
