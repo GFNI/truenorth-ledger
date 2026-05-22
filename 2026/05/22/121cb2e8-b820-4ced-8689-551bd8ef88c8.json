@@ -1,0 +1,22 @@
+{
+    "round_id": "121cb2e8-b820-4ced-8689-551bd8ef88c8",
+    "draw_title": "ninja airfry",
+    "competition_url": "https://bountycompetitions.co.uk/lists/new-ninja-dualzone-xl-95l-2-drawer-air-fryer-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "106d12f2a56a60b53030735c888d56357a6f1f4b05f31beb47d741a0bfc6839c",
+    "drand_seed_hash": "afc85809c51db2f0748b5dce610697597542b3f9ddc53437a286ba313c34cc38e6f29062cf588e43f9320e43255337a9",
+    "client_seed": "1779439544107",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1000,
+    "combined_hash": "ce66dc1ae472aa651e0354988433038f2416cdaf7d09fd12bbdb9b9a2ce13e49",
+    "result": "855",
+    "external_round_id": "28878729",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T08:45:44.000000Z",
+    "revealed_at": "2026-05-22T08:45:53.000000Z"
+}
