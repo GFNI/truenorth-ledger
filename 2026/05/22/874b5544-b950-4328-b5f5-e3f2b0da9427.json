@@ -1,0 +1,22 @@
+{
+    "round_id": "874b5544-b950-4328-b5f5-e3f2b0da9427",
+    "draw_title": "£2,000 Low Odds",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps2000-low-odds-5428",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "6c9481660b613e4406925a880455378d41cb92a6e212981012abcda25f3cabbe",
+    "drand_seed_hash": "ab3be0ceffa46b7667fbada60ead316c48672a079d03dc693db8299ca3aabacfa867e833e04d19b345adfb708525fc11",
+    "client_seed": "1779487842553",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1252,
+    "max_tickets": 2500,
+    "combined_hash": "d0ba0f1fd6f25450012c888ff6af98bf77f8864ae0080950ae558a0cd9312cb2",
+    "result": "2061",
+    "external_round_id": "28894828",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T22:10:42.000000Z",
+    "revealed_at": "2026-05-22T22:10:48.000000Z"
+}
