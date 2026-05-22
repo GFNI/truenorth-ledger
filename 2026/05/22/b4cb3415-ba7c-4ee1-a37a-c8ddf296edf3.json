@@ -1,0 +1,22 @@
+{
+    "round_id": "b4cb3415-ba7c-4ee1-a37a-c8ddf296edf3",
+    "draw_title": "Win a tank of fuel for your car for just 12p - PLUS AN INSTANT WIN TANK OF FUEL TO BE WON",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/win-a-tank-of-fuel-for-your-car-for-just-12p-plus-an-instant-win-tank-of",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "6ab295b40697d32730a6fb61a82c00008c85ac9b60aae04da935318e588337a3",
+    "drand_seed_hash": "887b6a9e20f590f2a3211cfafb7d06a5024cba76d51ea080e911f8de20ffc14d49f943ee4d720f68eb790b56e3ce8e41",
+    "client_seed": "1779480633631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1679,
+    "max_tickets": 7120,
+    "combined_hash": "4a985ffd401a12d81105b1a5512749fedd3310b8ca1622d3a0cdc00d1f5d8620",
+    "result": "4235",
+    "external_round_id": "28892425",
+    "processing_status": "completed",
+    "created_at": "2026-05-22T20:10:33.000000Z",
+    "revealed_at": "2026-05-22T20:10:39.000000Z"
+}
