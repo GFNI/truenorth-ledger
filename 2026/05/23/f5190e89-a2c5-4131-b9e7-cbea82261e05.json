@@ -1,0 +1,22 @@
+{
+    "round_id": "f5190e89-a2c5-4131-b9e7-cbea82261e05",
+    "draw_title": "LEGO Jack Sparrow Ship or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/lego-jack-sparrow-ship-or-cash-3733",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b2492def7484e3c5b3d01e3758f1ed843a98d68445256cec772f75f9c7e71dd9",
+    "drand_seed_hash": "801a0ec04bcc66e733dfb532cf0737a232c666bd25a8bbb39672da8e39e00df75205a505168014b2b01583c212d79eed",
+    "client_seed": "1779566432760",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "75ffe7171ed8086851011e5dd9f426d76b70f3f1fc66f9f151973801623a7b21",
+    "result": "182",
+    "external_round_id": "28921025",
+    "processing_status": "completed",
+    "created_at": "2026-05-23T20:00:32.000000Z",
+    "revealed_at": "2026-05-23T20:00:39.000000Z"
+}
