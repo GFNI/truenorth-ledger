@@ -1,0 +1,22 @@
+{
+    "round_id": "d1893d5f-e7b2-4f0d-8f50-8b8f317f4d3f",
+    "draw_title": "FOR FREE - WIN £30 CREDIT OR 3X KORDA KAIZEN GREEN RODS + EVERY TICKET WINS CREDIT #2",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/for-free-win-ps30-credit-or-3x-korda-kaizen-green-rods-every-ticket-wins",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "d9e39fa63fd5adbab4ea795bc1e0cb3c778206bbbb5a9fce48a1d7cca1dc58a3",
+    "drand_seed_hash": "b48ea1ee14cea11f6aadb5e9346511da90a00c887f3a651d29a7a6afa6440f8145291e709c2550ba8f7828df6b8c3481",
+    "client_seed": "1779570632334",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4418,
+    "max_tickets": 5000,
+    "combined_hash": "9ad72aaf56e1d830f6eda120781eaa2ff5c08fc1633ae770aa04c2bfa34ae991",
+    "result": "507",
+    "external_round_id": "28922425",
+    "processing_status": "completed",
+    "created_at": "2026-05-23T21:10:32.000000Z",
+    "revealed_at": "2026-05-23T21:10:39.000000Z"
+}
