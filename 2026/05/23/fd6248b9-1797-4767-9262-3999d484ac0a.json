@@ -1,0 +1,22 @@
+{
+    "round_id": "fd6248b9-1797-4767-9262-3999d484ac0a",
+    "draw_title": "£500 Low Odds",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps500-low-odds-7734",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "ca9537a088bb2816f7fd20abc251398ecccf7362b91164ba53df07ffc2c4ab4f",
+    "drand_seed_hash": "a793547ca9e1ab2e7c8fc5f8f50f26737c0c2f5b13f96d7593bc465feca26eabc028d09e124ceef9841d2fca2924e0b6",
+    "client_seed": "1779567040777",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 729,
+    "max_tickets": 999,
+    "combined_hash": "8ce1a9954359d78ce4c15028eb8add86cdf7eadeeff08be7e0293a23fb38f41c",
+    "result": "960",
+    "external_round_id": "28921228",
+    "processing_status": "completed",
+    "created_at": "2026-05-23T20:10:40.000000Z",
+    "revealed_at": "2026-05-23T20:10:48.000000Z"
+}
