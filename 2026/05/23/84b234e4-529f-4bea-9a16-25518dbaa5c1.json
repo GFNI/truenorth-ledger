@@ -1,0 +1,22 @@
+{
+    "round_id": "84b234e4-529f-4bea-9a16-25518dbaa5c1",
+    "draw_title": "Magic Potion Quest",
+    "competition_url": "https://chaotic.co.uk/competition/magic-potion-quest-2206-5657",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "913ad8fdeda1ba31f5012e244eb1196e14addd55b1ed05465be0cb1b8bfab368",
+    "drand_seed_hash": "8102069d6a3b23805dbe5a60028b749d282a127b54ca620aef2b1e2924c272169071592c5a0d8e65c5cbca48b6f97506",
+    "client_seed": "1779565337334",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "1af951ae8cad1b9fc4a7b9eb691c1b5c2f1f3a1225c25ca0bf7caecd0bbf1ad5",
+    "result": "12771",
+    "external_round_id": "28920660",
+    "processing_status": "completed",
+    "created_at": "2026-05-23T19:42:17.000000Z",
+    "revealed_at": "2026-05-23T19:42:24.000000Z"
+}
