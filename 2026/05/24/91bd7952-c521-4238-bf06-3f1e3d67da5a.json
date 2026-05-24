@@ -1,0 +1,22 @@
+{
+    "round_id": "91bd7952-c521-4238-bf06-3f1e3d67da5a",
+    "draw_title": "INVICTA CREDIT BOOSTER - 20 WINNERS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/invicta-credit-booster-20-winners",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "00515e30b54b8e15ec580e7696f33591bec5f8fc6d484a38afa71c177d91dedb",
+    "drand_seed_hash": "b90430d66e2bbbb4f4fb9259137db8e29cb6f80a22e7ca2d03da6062d298b612d1ccdfbdea294e158ba27fe78feb0ed1",
+    "client_seed": "1779651631512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1513,
+    "max_tickets": 6000,
+    "combined_hash": "9c6cf0924325b5026f55f49ce9f42d1b7a9811f43388c2a59978f83d6b583997",
+    "result": "3981",
+    "external_round_id": "28949425",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T19:40:31.000000Z",
+    "revealed_at": "2026-05-24T19:40:39.000000Z"
+}
