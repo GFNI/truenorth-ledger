@@ -1,0 +1,22 @@
+{
+    "round_id": "352dcc18-f662-4529-83da-8403eb3e1010",
+    "draw_title": "50 CHANCES TO WIN £1,000 INSTANTLY! £1,000 MAIN PRIZE! 24/05",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/50-chances-to-win-ps1000-instantly-ps1000-main-prize-2405",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "87ac05aac2d572b21ea022e7c37792f9c344e762866397dac8f1d3d18719b743",
+    "drand_seed_hash": "8346bc955be24b46c916a38694944b2dc906b8b3d9e6364c34430e30ba15521df997a29e15d2c778a436da20ddc06764",
+    "client_seed": "1779657037236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150893,
+    "max_tickets": 850000,
+    "combined_hash": "a28aab04cc205006f97df783732b8158c3dbbb93986489c68426379eda6ad932",
+    "result": "151011",
+    "external_round_id": "28951227",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T21:10:37.000000Z",
+    "revealed_at": "2026-05-24T21:10:45.000000Z"
+}
