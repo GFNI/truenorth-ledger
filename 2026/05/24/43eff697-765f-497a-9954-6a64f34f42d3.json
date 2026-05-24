@@ -1,0 +1,22 @@
+{
+    "round_id": "43eff697-765f-497a-9954-6a64f34f42d3",
+    "draw_title": "The £1,000 Drop",
+    "competition_url": "https://a9competitions.co.uk/admin/products/the-ps1000-drop",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "53751bc787d4faeb8fe8a2a440b9d7799cc1aabdb06a984660ce22f4ab329573",
+    "drand_seed_hash": "8a7edd57513b05128d42ddf76f9edd739d02c1a53d5c91a3e3b7e909a27cda579d42f929392fa3dd4a9a12bb5fc11124",
+    "client_seed": "1779654636665",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11712,
+    "max_tickets": 47500,
+    "combined_hash": "415777a8ccc6ab8311c7e377d02b7865e2ac2aabb92b7d161880822775a68dc9",
+    "result": "910",
+    "external_round_id": "28950426",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T20:30:36.000000Z",
+    "revealed_at": "2026-05-24T20:30:42.000000Z"
+}
