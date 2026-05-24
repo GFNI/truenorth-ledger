@@ -1,0 +1,22 @@
+{
+    "round_id": "0c12e383-d5db-446e-a0c3-ee7030a6aa0e",
+    "draw_title": "Crack the Safe to win Thousands in Cash - £250 DRAW DAY PRIZE",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/crack-the-safe-to-win-thousands-in-cash-ps250-draw-day-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "a7b7ff1300cf923a665b7f22d1cb412e0cdd4e7a5ece38dd66c167a557b15095",
+    "drand_seed_hash": "a24eebc611028fa88b13963553be9f1b808e61ff6a641732074c9e4d7a4fc8e8674ed0e709c35d9c1ebec9d34810f8c3",
+    "client_seed": "1779653430564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14405,
+    "max_tickets": 349999,
+    "combined_hash": "f04339662b3ed71642d6d83644a4664470c5b7060a947afb1d175eadceb33057",
+    "result": "33877",
+    "external_round_id": "28950024",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T20:10:30.000000Z",
+    "revealed_at": "2026-05-24T20:10:36.000000Z"
+}
