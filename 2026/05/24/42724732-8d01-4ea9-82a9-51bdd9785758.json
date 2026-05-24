@@ -1,0 +1,22 @@
+{
+    "round_id": "42724732-8d01-4ea9-82a9-51bdd9785758",
+    "draw_title": "Monkey madness",
+    "competition_url": "https://spin2wincompetitions.co.uk/competition/monkey-madness",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk/",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "3ba9ee5834afb6854f45309e358d5e2a86b610e2b7a3eed5cc7701ab581cd41a",
+    "drand_seed_hash": "b976f170ab7e3c60e27c0b6e43c2754347d564d4803475eec438dacc5e584d7b41d9f691fd8ef17ab5b80b7d2bac2da0",
+    "client_seed": "1779644181937",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26893,
+    "max_tickets": 80000,
+    "combined_hash": "6439afdedf3e7eb163ef8fd33029f9c3d1792ba6eed5f2c8f0d84b693355974a",
+    "result": "25445",
+    "external_round_id": "28946941",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T17:36:21.000000Z",
+    "revealed_at": "2026-05-24T17:36:32.000000Z"
+}
