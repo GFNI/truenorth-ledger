@@ -1,0 +1,22 @@
+{
+    "round_id": "344ff0a5-2af8-49c8-be91-fcf55bd46340",
+    "draw_title": "Foldable Pool 💦",
+    "competition_url": "https://redlemonx.co.uk/admin/products/foldable-pool",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "62b70ae66976e34c67758c10e8980a731b30b8ce2d4ef14ffac9c07e9ad20eb5",
+    "drand_seed_hash": "9912088c2e6a9bd727d572074230385f26c6ca0b18984252e4d0ef13a770ba50e8e5fd33a859e3dfe3a88bbcd634abc6",
+    "client_seed": "1779644016065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "343926ad36a1bbc7f763d761c0de1b07f30116be879ba87a3eac80f5d5091051",
+    "result": "6",
+    "external_round_id": "28946886",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T17:33:36.000000Z",
+    "revealed_at": "2026-05-24T17:33:42.000000Z"
+}
