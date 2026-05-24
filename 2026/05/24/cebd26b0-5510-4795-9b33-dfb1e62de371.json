@@ -1,0 +1,22 @@
+{
+    "round_id": "cebd26b0-5510-4795-9b33-dfb1e62de371",
+    "draw_title": "WHACK-A-STACK! INSTANT RARE FIND ENTRIES!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/whack-a-stack-instant-rare-find-entries",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "58ebd4fe88ffd05a9bad890ce10e741702d7432fdad21f41adcba2b0a6c79c32",
+    "drand_seed_hash": "b01b167899a7903b84315f0e31fa22f69f539517de8a62e49eb2d906da3d0c3e50c8e42a27290e88e05c9f8ec050c5e7",
+    "client_seed": "1779657046957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1850,
+    "max_tickets": 5000,
+    "combined_hash": "982d628c2f894a8527b976aeb8a958a30c29240ed5c2599f11954f7302f7bfe7",
+    "result": "4441",
+    "external_round_id": "28951230",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T21:10:47.000000Z",
+    "revealed_at": "2026-05-24T21:10:54.000000Z"
+}
