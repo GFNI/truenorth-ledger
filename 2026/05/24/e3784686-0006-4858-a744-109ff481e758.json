@@ -1,0 +1,22 @@
+{
+    "round_id": "e3784686-0006-4858-a744-109ff481e758",
+    "draw_title": "Mystery Magical Tickets",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/mystery-magical-tickets-2",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "7a89ff7ab15fb202b0cb76b9b0c6acc2363ce7f1cb6732d5643f2247a178ad66",
+    "drand_seed_hash": "8be0c1f382125c458ddd6f8d5624095a5da181913067eb2a322638aa844269bc5a4ae2e0092f4d390ba1bbb0ba2cb2c9",
+    "client_seed": "1779648032147",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27928,
+    "max_tickets": 200000,
+    "combined_hash": "e4d7d77a200cb00da931038388b3bb62019f55d3db4bf36b31988647ff15a1c6",
+    "result": "165861",
+    "external_round_id": "28948225",
+    "processing_status": "completed",
+    "created_at": "2026-05-24T18:40:32.000000Z",
+    "revealed_at": "2026-05-24T18:40:39.000000Z"
+}
