@@ -1,0 +1,22 @@
+{
+    "round_id": "b1e3338b-7010-406d-b7af-4e247b192699",
+    "draw_title": "Win a Victron Inverter!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-victron-inverter-3718",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "cbf1e211718c941be8f407ca7a3db54cb9362d11a6d034f37f8043714fbda982",
+    "drand_seed_hash": "ae86d4b07594e6061d09fe810df52db49a27f75daa6793443f7ea03cfea7ce4af207220269c248cb551efc5daf6deb92",
+    "client_seed": "1779743450368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 346,
+    "max_tickets": 599,
+    "combined_hash": "3db8d808c0469fce16614299e3f6c7f6e704a24c582aeffaa98e7865960939c4",
+    "result": "450",
+    "external_round_id": "28980031",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T21:10:50.000000Z",
+    "revealed_at": "2026-05-25T21:10:57.000000Z"
+}
