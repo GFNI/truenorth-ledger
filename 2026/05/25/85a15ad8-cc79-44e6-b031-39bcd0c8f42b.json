@@ -1,0 +1,22 @@
+{
+    "round_id": "85a15ad8-cc79-44e6-b031-39bcd0c8f42b",
+    "draw_title": "Catch The Cheddar",
+    "competition_url": "https://chaotic.co.uk/competition/catch-the-cheddar-6853",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "480bb015ceff67e6f9c4b924e6b16467240b88d586c4e4c5463db1785fffbb12",
+    "drand_seed_hash": "8d6f2230f594619704fe9adfee1d73586b2beb7e6852a979a11cf6554443e91870dda791e8fb41208bdeddc9fb297e5b",
+    "client_seed": "1779737622084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "930670fa8a66a52f35c9503b57e8a3284b4d9e69d5feaab73a5200f14122e758",
+    "result": "1716",
+    "external_round_id": "28978088",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T19:33:42.000000Z",
+    "revealed_at": "2026-05-25T19:33:48.000000Z"
+}
