@@ -1,0 +1,22 @@
+{
+    "round_id": "a3aa3e9c-583a-44c4-a56e-b164c67f678c",
+    "draw_title": "Win a victron mppt charger!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-victron-mppt-charger",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "6f12e690aaa0604ce79a9f19a83893f1b4d4fc30c0cf87793163e19a19390c34",
+    "drand_seed_hash": "80481678b4b4a03b13416ff26567107eab1c695cbb4db2fbdf432c8d7f9eb09e3b9b7de2dfee62537d65705d9626f196",
+    "client_seed": "1779731191626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179,
+    "max_tickets": 179,
+    "combined_hash": "bd3bc0d04c4b1f2c1f63c0dd6ed101471dd9f2b4b93dbc4ab515ce0a5ceaeaa7",
+    "result": "87",
+    "external_round_id": "28975945",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T17:46:31.000000Z",
+    "revealed_at": "2026-05-25T17:46:39.000000Z"
+}
