@@ -1,0 +1,22 @@
+{
+    "round_id": "7118af26-7e9a-47d6-9d79-479038a78b4c",
+    "draw_title": "WW Test (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/free-entry-for-surprise-site-credit-11-3175",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2d043aa733bf9fa4f771da49041ca526772479cc69fd555fb743628eb4a9e6e4",
+    "drand_seed_hash": "ac69d6097b0e271db4d15cb238508327ac6c704b94af5530985266ff7d04e599548fb9c086957995e061e51e49675a63",
+    "client_seed": "1779744616151",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 220,
+    "combined_hash": "48246f2c42316d9ff5f89a69b2f4809e9a84a6a5943887ef1d0cc8929c0336b6",
+    "result": "69",
+    "external_round_id": "28980420",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T21:30:16.000000Z",
+    "revealed_at": "2026-05-25T21:30:24.000000Z"
+}
