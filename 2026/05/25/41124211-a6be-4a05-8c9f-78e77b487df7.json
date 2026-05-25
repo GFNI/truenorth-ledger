@@ -1,0 +1,22 @@
+{
+    "round_id": "41124211-a6be-4a05-8c9f-78e77b487df7",
+    "draw_title": "£500 miller & carter",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps500-miller-carter-gift-card-4",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d868ed868158f0f3c23bf04f1ca32b8baf2961d99f78d4a363a36707e5ced850",
+    "drand_seed_hash": "a4ef0bd8ce9a9f65c39d856101f81100c0e6e0f4f30a2a1446e77f2b492638cc32369e110b9d4880f83ab5def435ad95",
+    "client_seed": "1779738406116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 990,
+    "combined_hash": "a03835573db3356d674471109d89a3380be397634aa2ca39c310864538e99fc2",
+    "result": "537",
+    "external_round_id": "28978349",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T19:46:46.000000Z",
+    "revealed_at": "2026-05-25T19:46:56.000000Z"
+}
