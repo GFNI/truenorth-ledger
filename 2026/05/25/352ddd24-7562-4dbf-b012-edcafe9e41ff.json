@@ -1,0 +1,22 @@
+{
+    "round_id": "352ddd24-7562-4dbf-b012-edcafe9e41ff",
+    "draw_title": "£12k",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps12k-enter-for-89p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk/",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d46f62c52e08baf4ef3c06c4c6a0fed803ac0e0e1d5c39db4f2102fcc697fe3c",
+    "drand_seed_hash": "b0a67e050da6428e5c3e1e8a8df62a15b7d4fa32899d40e0f1a85a97e72dd66fbe0266a6a0255982454f8752e5e20284",
+    "client_seed": "1779739604830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 20675,
+    "combined_hash": "576255588e2646f6cfcefa9baaa76718b1eaeecd55c1fbc1327612ee733f498e",
+    "result": "6744",
+    "external_round_id": "28978749",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T20:06:44.000000Z",
+    "revealed_at": "2026-05-25T20:06:55.000000Z"
+}
