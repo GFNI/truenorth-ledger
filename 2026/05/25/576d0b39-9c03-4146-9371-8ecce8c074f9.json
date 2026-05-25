@@ -1,0 +1,22 @@
+{
+    "round_id": "576d0b39-9c03-4146-9371-8ecce8c074f9",
+    "draw_title": "demo t1",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/demo-t1",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "63b7847e1a7b25eeb7d77e898462b402a3b2ef7d44db6b6334ade95178347389",
+    "drand_seed_hash": "86ad26724a32c0488922f8f4641377abbe5f389a0c2f193b3a9a2a70292d4f55f9b237bfeb3b6107788daa0b0d93bbef",
+    "client_seed": "1779748715592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "a749660b6a46157c768ce25f674a56873acd9b492d4159606dfcdbaa28bfc60e",
+    "result": "4",
+    "external_round_id": "28981786",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T22:38:35.000000Z",
+    "revealed_at": "2026-05-25T22:38:42.000000Z"
+}
