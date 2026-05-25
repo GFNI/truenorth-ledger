@@ -1,0 +1,22 @@
+{
+    "round_id": "0d8cbbbb-30bd-45ff-978f-fba1914add60",
+    "draw_title": "£30,000 Mini Draw",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps30000-mini-draw-6",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "a2db5adf3c1da004ac70398a2e38effec3c87d9edde2c8b9088bce4fee5d7529",
+    "drand_seed_hash": "b5fafa1bd7d808848ebb903b4eef1c65ac7115eed28d9cefd903ca7a9b8691ee8cf330758d62d48fccf7ccf98e552392",
+    "client_seed": "1779739860804",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1903,
+    "max_tickets": 2500,
+    "combined_hash": "9c395b50ae46d42a3eace27245520527443d030255b16ee1e36ceb83017dd83b",
+    "result": "805",
+    "external_round_id": "28978834",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T20:11:00.000000Z",
+    "revealed_at": "2026-05-25T20:11:06.000000Z"
+}
