@@ -1,0 +1,22 @@
+{
+    "round_id": "9caa8d6f-6e98-4de6-bfb0-0c561e2c9fb0",
+    "draw_title": "Win A Victron Cerbo and GX Touch 50 Bundle!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-victron-cerbo-and-gx-touch-50-bundle-5370",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "04410b2fc509debf9ecb0bb3dda24a3ef817bb813ebeb0b73f5d5d4a874942bd",
+    "drand_seed_hash": "a32b18dd7779484b138b62d0da66df75db3af14dd601d4b4fc267b884bd4b5094128e0b518f18353e407e734c353f952",
+    "client_seed": "1779743469627",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 571,
+    "max_tickets": 999,
+    "combined_hash": "f6d949f057d2c5fef0e9b072a8a1d1259631af43c829970a459a24d0f79e01ea",
+    "result": "174",
+    "external_round_id": "28980037",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T21:11:09.000000Z",
+    "revealed_at": "2026-05-25T21:11:15.000000Z"
+}
