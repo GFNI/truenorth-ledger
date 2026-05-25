@@ -1,0 +1,22 @@
+{
+    "round_id": "e7ec11bb-1197-44a4-bfb8-2882f221ec03",
+    "draw_title": "Crane Claw 🏗️",
+    "competition_url": "https://flashcompetitions.com/admin/products/crane-claw-3",
+    "operator": {
+        "name": "Flash Competitions LTD",
+        "website": "https://flashcompetitions.com",
+        "company_number": "NI737055"
+    },
+    "drand_server_seed": "537965e9ffff9d632c93d289ebf799cc230c77a122988f3a36bd764f7e1ff6a5",
+    "drand_seed_hash": "8138995d6d94101568dab92f3de5dce69141a800cee561a61a4840bb902cd318483ec73bc42b531890ff9d012c08665f",
+    "client_seed": "1779739836818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 100,
+    "combined_hash": "81e4853dca69c4ea24ce94eee8a4505120e23586de92317caea36f02987dc1d3",
+    "result": "62",
+    "external_round_id": "28978826",
+    "processing_status": "completed",
+    "created_at": "2026-05-25T20:10:36.000000Z",
+    "revealed_at": "2026-05-25T20:10:42.000000Z"
+}
