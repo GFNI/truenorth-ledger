@@ -1,0 +1,22 @@
+{
+    "round_id": "4c2877a3-4ebd-461e-aac3-e383e9cc873b",
+    "draw_title": "Daily Prize Everytime! £100 End Prize *AUTODRAW*",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/daily-prize-everytime-ps100-end-prize-autodraw-72",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "981b78a9c7375a0e68fa1c2441d9a7d2b95453c7d226d9826e92d068ff92159b",
+    "drand_seed_hash": "aa8af9a5c0982067b6cca195bbffed02f44fd4bac65e9a425d44972cf877da41716e3252f1b7b38a70147cc40830ca85",
+    "client_seed": "1779826232802",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 319,
+    "max_tickets": 1000,
+    "combined_hash": "9b4996628ca4c8ff24e5ca300e5981c15413a349fb6c5b1dd38b9730bd4de23a",
+    "result": "412",
+    "external_round_id": "29007625",
+    "processing_status": "completed",
+    "created_at": "2026-05-26T20:10:32.000000Z",
+    "revealed_at": "2026-05-26T20:10:39.000000Z"
+}
