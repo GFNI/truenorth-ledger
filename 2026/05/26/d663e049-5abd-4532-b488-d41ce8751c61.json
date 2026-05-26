@@ -1,0 +1,22 @@
+{
+    "round_id": "d663e049-5abd-4532-b488-d41ce8751c61",
+    "draw_title": "20X KORDA GOOS OF CHOICE OR £200",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/20x-korda-goos-of-choice-or-ps200-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "fc7e890cfa1a65fc0bd8227a5ece72c0a2e41bd2d8ce4d0ab89a696638423ee8",
+    "drand_seed_hash": "a186fd5d99d782a251cd212b5a80aac5aa798827305f38349385ae9e0a8c6967def3e6545886b4ec294e885da8f32729",
+    "client_seed": "1779762269838",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131,
+    "max_tickets": 310,
+    "combined_hash": "8e79722f23b917ab1f53e4650f8f36ca8e157ccfaa33ad8b89ffa205dd77d3f1",
+    "result": "45",
+    "external_round_id": "28986304",
+    "processing_status": "completed",
+    "created_at": "2026-05-26T02:24:29.000000Z",
+    "revealed_at": "2026-05-26T02:24:36.000000Z"
+}
