@@ -1,0 +1,22 @@
+{
+    "round_id": "a727a09e-ae68-475d-85a0-4775fdcb19fa",
+    "draw_title": "FREE ENTRY - WIN £150 | SPEND £1- £5+ & WIN EXTRA CASH!",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/free-entry-win-ps150-spend-ps1-ps5-win-extra-cash",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "684b815b4e5a6e034e7429b0b084c23333b4e652b3aa24e13850149cc7d5e760",
+    "drand_seed_hash": "97e0711423447634d8c488eefaccbc9e1e5feb78fa739394f2123931d0c94932fb581b326652f8e7676543b72e181bf6",
+    "client_seed": "1779829839486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2119,
+    "max_tickets": 5000,
+    "combined_hash": "096b02ab280752be87bf03f4b3e9e78b634ef8e245474359761e1734ca9768c0",
+    "result": "2410",
+    "external_round_id": "29008827",
+    "processing_status": "completed",
+    "created_at": "2026-05-26T21:10:39.000000Z",
+    "revealed_at": "2026-05-26T21:10:45.000000Z"
+}
