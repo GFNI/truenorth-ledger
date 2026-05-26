@@ -1,0 +1,22 @@
+{
+    "round_id": "e0059a42-2ba5-4f0c-998f-843c0e52d8bb",
+    "draw_title": "🍫🍪FREE JONS JUNK SHOP🍪🍫",
+    "competition_url": "https://easypeasyprizes.com/admin/products/free-jons-junk-shop",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "81fb06b7a3fb75ce9806198d10384c0368391a8c7d56ed3a8751fdeaca0a4f9d",
+    "drand_seed_hash": "a23c3e3d1a54cd9a1d0f4e84f9416f74b20499a53c2b34362106d8a3cda1d36bdff7f4e31e4f4111f0eb3cf2403ece2c",
+    "client_seed": "1779837033693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35,
+    "max_tickets": 800,
+    "combined_hash": "29c8f9737b1223e1ababdee092f03bc18fbece26bd8a5719cfce0fcd13cc4369",
+    "result": "746",
+    "external_round_id": "29011225",
+    "processing_status": "completed",
+    "created_at": "2026-05-26T23:10:33.000000Z",
+    "revealed_at": "2026-05-26T23:10:39.000000Z"
+}
