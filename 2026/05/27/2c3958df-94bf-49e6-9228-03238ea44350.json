@@ -1,0 +1,22 @@
+{
+    "round_id": "2c3958df-94bf-49e6-9228-03238ea44350",
+    "draw_title": "Ooni (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ooni-volt-2-bundle-or-ps450-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "23534d4bd83d5ca9a4005c75354806ffb99ca8f7d0b07aef1ca8514637074f98",
+    "drand_seed_hash": "ad79331f6473b31cd0e093211a5961112739118a2fb2cfcb1cb6e15431daeb98e8858d64e45ce9d76839099300579e63",
+    "client_seed": "1779916819545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 850,
+    "combined_hash": "9aad356cce9a45eb8b16efce8eb91c2ea66da28b032606a31ed6f846a97665d8",
+    "result": "829",
+    "external_round_id": "29037821",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T21:20:19.000000Z",
+    "revealed_at": "2026-05-27T21:21:48.000000Z"
+}
