@@ -1,0 +1,22 @@
+{
+    "round_id": "234bc62a-5542-4693-b853-8dd6bc6242e7",
+    "draw_title": "Mystery Money BINGO!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/mystery-money-bingo",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "720c9d5064ded09402e05090ca0156cd82671eb9d2e528a95b43711c536f992f",
+    "drand_seed_hash": "b2f4308b02427467c098491e323f62bab9dd9937e320a57fb7730abc7414184da6e46302f55215d163641a28d9a19f71",
+    "client_seed": "1779916258063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38008,
+    "max_tickets": 50000,
+    "combined_hash": "1098c0f5fcf319092c7dcef5e97d0446c44192bd61326a6d80995627fcd19ae2",
+    "result": "39761",
+    "external_round_id": "29037634",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T21:10:58.000000Z",
+    "revealed_at": "2026-05-27T21:11:06.000000Z"
+}
