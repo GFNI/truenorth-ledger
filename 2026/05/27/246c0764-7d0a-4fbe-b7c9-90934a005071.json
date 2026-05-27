@@ -1,0 +1,22 @@
+{
+    "round_id": "246c0764-7d0a-4fbe-b7c9-90934a005071",
+    "draw_title": "Catch The Worm",
+    "competition_url": "https://chaotic.co.uk/competition/catch-the-worm-7691",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "f2ec240d5790137036374368bfe9da72ae1931c4436fe6f9a9819056e8d7064f",
+    "drand_seed_hash": "91f81efae1c6095e504f5b7eb2d3e93bf3816fc7e7cae941799094682e5c6c2c95208da6c650709285987962bf94c2c9",
+    "client_seed": "1779910600755",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "20f5c1e52654c1d36ad7c72c75a7611387ebe5f39182d52b8b4e7bfff7808e15",
+    "result": "1665",
+    "external_round_id": "29035748",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T19:36:40.000000Z",
+    "revealed_at": "2026-05-27T19:36:48.000000Z"
+}
