@@ -1,0 +1,22 @@
+{
+    "round_id": "a045f55b-c54b-40c4-a8a9-498887d1f643",
+    "draw_title": "Mini Stax",
+    "competition_url": "https://phatstax.co.uk/admin/products/mini-stax",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "99a391abde989aac2b81294213a2633ad7e2bd62cbd96acdc25de46d1ae816d2",
+    "drand_seed_hash": "8be4a93b2d9ec199c0096396c42df9827eb13c2b2e9fe05c709412df8932adcf02f1befb2348ccab34c860f7bbd89680",
+    "client_seed": "1779912663665",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 352,
+    "max_tickets": 667,
+    "combined_hash": "c532c328137df72bff16e06b49b35cb4126fd1c37a891da8ead608158777233c",
+    "result": "55",
+    "external_round_id": "29036435",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T20:11:03.000000Z",
+    "revealed_at": "2026-05-27T20:11:09.000000Z"
+}
