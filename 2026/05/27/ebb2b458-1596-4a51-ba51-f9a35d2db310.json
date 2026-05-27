@@ -1,0 +1,22 @@
+{
+    "round_id": "ebb2b458-1596-4a51-ba51-f9a35d2db310",
+    "draw_title": "🏠🔑 Hello Credit — £700 Hidden Reward Pool! 🔑🏠",
+    "competition_url": "https://1066competitions.co.uk/admin/products/hello-credit-ps700-hidden-reward-pool",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "f49ebcfa92f3a15b4e245d0f200c0cb37af8de9029f4da2386ca9b3caa07ed43",
+    "drand_seed_hash": "8a4580fec5907dc91867fbb2e7635ed524705ec428e3c1274cbc858e3301df41af3c33ac0cf7a911a4c60f513a076e26",
+    "client_seed": "1779918509165",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "b3d79d49736f663775762a1f930b9eef204bf4531e3318471f17744b86dc850f",
+    "result": "1140",
+    "external_round_id": "29038384",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T21:48:29.000000Z",
+    "revealed_at": "2026-05-27T21:48:36.000000Z"
+}
