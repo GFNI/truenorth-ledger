@@ -1,0 +1,22 @@
+{
+    "round_id": "bcac5df1-6e21-49e5-9f6d-21598eb81463",
+    "draw_title": "Low Odds £200",
+    "competition_url": "https://ogcompetitions.co.uk/lists/low-odds-ps200",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d7dd22caa3b76a519d0a66ddb6c5e38a8c959b05ab4d57bdbff50851af640be3",
+    "drand_seed_hash": "a42a7fef4b0f2fb43ef8d06d421980bd30684d4986ad8b21575ebe5047b73151a52ec48baa987a26ddf82902e5d33c47",
+    "client_seed": "1779916690253",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 150,
+    "combined_hash": "188085d8609ed24811e1b3e41b57b1ab1ae308daa753fc052e2908db56d36ebc",
+    "result": "37",
+    "external_round_id": "29037778",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T21:18:10.000000Z",
+    "revealed_at": "2026-05-27T21:18:19.000000Z"
+}
