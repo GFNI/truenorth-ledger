@@ -1,0 +1,22 @@
+{
+    "round_id": "448e5911-83ce-494d-a35a-52af19107de1",
+    "draw_title": "£1,000 Daily Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps1000-daily-cash",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "d16e98a14baf7fe4187df02b0d8fbcca9fc28493c202c15e2e787c7685882b69",
+    "drand_seed_hash": "92e467a3c44c1c0bbb372767b47b2a3a672e677741d57a06dc41f31f75802263f0d7b70579776398d224ca3580c50827",
+    "client_seed": "1779912681637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10522,
+    "max_tickets": 20000,
+    "combined_hash": "b5abe1adf6a5d2d16026cd15b0c83fb39fd770f5a411fbd95f7feafe8153637c",
+    "result": "7926",
+    "external_round_id": "29036441",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T20:11:21.000000Z",
+    "revealed_at": "2026-05-27T20:11:27.000000Z"
+}
