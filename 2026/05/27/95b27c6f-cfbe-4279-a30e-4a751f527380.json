@@ -1,0 +1,22 @@
+{
+    "round_id": "95b27c6f-cfbe-4279-a30e-4a751f527380",
+    "draw_title": "Pinch o' Coin 🤏🏼",
+    "competition_url": "https://flashcompetitions.com/admin/products/pinch-o-coin",
+    "operator": {
+        "name": "Flash Competitions LTD",
+        "website": "https://flashcompetitions.com",
+        "company_number": "NI737055"
+    },
+    "drand_server_seed": "d252553df287113888edbbbd99f7235b4dc3d9f41e0fb0485a6b573d525ba339",
+    "drand_seed_hash": "92f0d5e3a1b96a0f6f0f8bfc07954b07fe84dcc275a94e281282eee805c33639edd0e05f4761319c157ce6fdb4a852e0",
+    "client_seed": "1779912648477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 179,
+    "combined_hash": "71ac6e6b73f3d33ba270944447fc5d67576ef6eabf3f6a1dd6dd81b5769b740b",
+    "result": "136",
+    "external_round_id": "29036430",
+    "processing_status": "completed",
+    "created_at": "2026-05-27T20:10:48.000000Z",
+    "revealed_at": "2026-05-27T20:10:54.000000Z"
+}
