@@ -1,0 +1,22 @@
+{
+    "round_id": "09ac7aad-9587-4c02-bf9b-5bd9fd895cc6",
+    "draw_title": "vw",
+    "competition_url": "https://bountycompetitions.co.uk/lists/volkswagen-scirocco-r-line-tdi",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "141e7a7482a019125d716b4509c6b8e82159c3b68560469654c6534b283eb43f",
+    "drand_seed_hash": "a1031dde50cf71a364974de0b6cf55cedf2ae7c5750646054b87321ad4d495c3e5f3b51f87dd2a9a261302f1a2441ffa",
+    "client_seed": "1779995019296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 80000,
+    "combined_hash": "b8c17feb4aff740f3dce37456f373523aca4237c4074a44fe38e8ba4337ce00a",
+    "result": "58425",
+    "external_round_id": "29063887",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T19:03:39.000000Z",
+    "revealed_at": "2026-05-28T19:03:49.000000Z"
+}
