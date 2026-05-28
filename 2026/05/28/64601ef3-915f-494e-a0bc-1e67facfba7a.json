@@ -1,0 +1,22 @@
+{
+    "round_id": "64601ef3-915f-494e-a0bc-1e67facfba7a",
+    "draw_title": "£50 for 50p",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ps50-for-50p",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "f687292330d46861ee8f34b2a72048750e6cc0aa78c3bb5bbfe51bc2999d8f49",
+    "drand_seed_hash": "9348beb6e7a02a27a4c13d0573617286a94603dec43cc64cb0ff020d04ae8b9f60bf78022ce1084f93b8e1b335b0a31a",
+    "client_seed": "1779995437740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 130,
+    "combined_hash": "165ec47686ab271903df8ff9b1091a3af4631c84ff3f01a8d325778c4f3abe9d",
+    "result": "41",
+    "external_round_id": "29064027",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T19:10:37.000000Z",
+    "revealed_at": "2026-05-28T19:10:45.000000Z"
+}
