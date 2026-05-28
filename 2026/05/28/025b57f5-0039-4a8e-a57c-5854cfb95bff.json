@@ -1,0 +1,22 @@
+{
+    "round_id": "025b57f5-0039-4a8e-a57c-5854cfb95bff",
+    "draw_title": "1 Night Break at the 5* Fairmont St Andrews with Spa Access and Dinner for Two",
+    "competition_url": "https://bountycompetitions.co.uk/lists/1-night-break-at-the-5-fairmont-st-andrews-with-spa-access-and-dinner-for",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "54c56b8454d22a052f5e3efca564654c7ec7e946b0e9b38cdefcd7d44affc3e1",
+    "drand_seed_hash": "b59669321377a2bb09249ef69cb7b6f298becddcc87a7e18d277bb370453619f0cca8e5d93028e492bb4e776072e103d",
+    "client_seed": "1779991622293",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 825,
+    "combined_hash": "35948c0d0122f9943f959ca66fbbdb080948cf1a9020ccdf59894ab405158556",
+    "result": "415",
+    "external_round_id": "29062755",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T18:07:02.000000Z",
+    "revealed_at": "2026-05-28T18:07:12.000000Z"
+}
