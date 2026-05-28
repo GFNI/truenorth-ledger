@@ -1,0 +1,22 @@
+{
+    "round_id": "bb046a18-8a9d-4be8-a2cc-2b90573dfd6c",
+    "draw_title": "lifestyle",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps500-lifestyle-vouchers",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ba947e619ecf07b2242e74b149c938bce622458143daec1640ec978fccd70a2d",
+    "drand_seed_hash": "af18a0c2902e3af869819e317a3b145d1f16090b41dcb3b92a9ddeb5e589647102bcaa38db90eaa0c92d985f347df8d4",
+    "client_seed": "1779992619010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1200,
+    "combined_hash": "9b2adec41cb1515674d2f8b6a8b87965e222a9197801bb1616e0e9777f72918f",
+    "result": "1036",
+    "external_round_id": "29063087",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T18:23:39.000000Z",
+    "revealed_at": "2026-05-28T18:23:49.000000Z"
+}
