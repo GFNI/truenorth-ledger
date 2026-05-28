@@ -1,0 +1,22 @@
+{
+    "round_id": "323d3b38-e9f3-4a7c-b7ad-add0cbcd3b00",
+    "draw_title": "APPLE Watch Series 11 Cellular - 46 mm Space Grey Aluminium Case with Black Sport Band",
+    "competition_url": "https://bountycompetitions.co.uk/lists/apple-watch-series-11-cellular-46-mm-space-grey-aluminium-case-with-black",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "440ede39de976cc4aa61c2f23f0e099193f81e7c36f4d50cb9ec84972d0f0eb4",
+    "drand_seed_hash": "a4702e174bb4386c94e3aaab543fa7e3573690e4603607814cfec9147e41592153cd45795b9ea2c0af99e6a84e97fada",
+    "client_seed": "1779992158902",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1130,
+    "combined_hash": "3e953cdb17f4e6809367b45ea4c81847c5059a39ec37335b9383bb92afce748e",
+    "result": "161",
+    "external_round_id": "29062934",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T18:15:58.000000Z",
+    "revealed_at": "2026-05-28T18:16:08.000000Z"
+}
