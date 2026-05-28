@@ -1,0 +1,22 @@
+{
+    "round_id": "f4d48c0a-bcaf-4676-9f14-0e2c94ff2509",
+    "draw_title": " Shark CryoGlow Bundle ",
+    "competition_url": "https://bountycompetitions.co.uk/lists/shark-cryoglow-bundle-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8ff2fb1b67abeac787f1e75565eb41417851ea8b5cc1e84c58c202221ac41cf7",
+    "drand_seed_hash": "b656dd179eeb1d39e5c408ad7cb17511b24d66fe3c500172aed6bfa7c9ccc0e39f9488c9191b16196da9521ae1139d98",
+    "client_seed": "1779991784313",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1055,
+    "combined_hash": "55625c00a1c886be54cb7a66d0f89404813c8197f2058ff07e0eb088dd4634f3",
+    "result": "896",
+    "external_round_id": "29062809",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T18:09:44.000000Z",
+    "revealed_at": "2026-05-28T18:09:54.000000Z"
+}
