@@ -1,0 +1,22 @@
+{
+    "round_id": "96daef72-dc9d-41ac-ba2a-6756c64741f4",
+    "draw_title": "Winsome Doe #23 (Child Draw)",
+    "competition_url": "https://luckydoecompetitions.co.uk/lists/winsome-doe-23-instant-wins-up-to-ps100",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "908be38d388bb44e04594da119389dd56c4656d5077dc6d877588a8872668647",
+    "drand_seed_hash": "85fb65a9381da635ed332ac9432d37087a94d92471f3d0843ca90f74fea3208ea1b667beb09bead9e80bda54502a19ac",
+    "client_seed": "1779995391084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "098e0a1a56ee9f6c2a92be2dfe623b2d4acd1619ed88df9365ed290698533bae",
+    "result": "38",
+    "external_round_id": "29064011",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T19:09:51.000000Z",
+    "revealed_at": "2026-05-28T19:09:57.000000Z"
+}
