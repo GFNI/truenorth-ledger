@@ -1,0 +1,22 @@
+{
+    "round_id": "277771f9-2315-4304-ae0f-4147d38fc1c5",
+    "draw_title": "Celebrating 6mths of Lucky Doe - £25 (Child Draw)",
+    "competition_url": "https://luckydoecompetitions.co.uk/lists/win-25-cash-6-month-thank-you",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "9c62fe9f907e2923965871d3fec4245a1730aa8ea5da5e954302ecc8b16fd3a8",
+    "drand_seed_hash": "8cb8b124ab3bb02ed0f6674be06f091c31db3b443c96ddda837c07eabf68d979278e07b0f7694816487940d01f2d25b1",
+    "client_seed": "1779995239186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "2307182aebc3832162fc7779b20e481869cc0dc3b9044c7e9c4b427a226bc254",
+    "result": "64",
+    "external_round_id": "29063961",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T19:07:19.000000Z",
+    "revealed_at": "2026-05-28T19:07:27.000000Z"
+}
