@@ -1,0 +1,22 @@
+{
+    "round_id": "121dea1e-a5bf-4b11-8c6d-d55864dea449",
+    "draw_title": "BeerTender Compact Beer Machine Bundle",
+    "competition_url": "https://bountycompetitions.co.uk/lists/beertender-compact-beer-machine-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "102322c6e0dabdd9f7f22f18f3704a351aaaf6ccabf419f6de0b5bd85092c7c4",
+    "drand_seed_hash": "a1eabe585755b2b6726671a559976e28f36eb537b90abf66f7b0bc2b6f37c2aeb60bf030ff673392abf1a523d9373d5b",
+    "client_seed": "1779992513050",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1100,
+    "combined_hash": "1f6ff620d2157ae61a185001da5079d6a018517f56cb2e668ccce9e2cc551e77",
+    "result": "616",
+    "external_round_id": "29063052",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T18:21:53.000000Z",
+    "revealed_at": "2026-05-28T18:22:03.000000Z"
+}
