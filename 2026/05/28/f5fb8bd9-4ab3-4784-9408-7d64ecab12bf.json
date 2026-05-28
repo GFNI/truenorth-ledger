@@ -1,0 +1,22 @@
+{
+    "round_id": "f5fb8bd9-4ab3-4784-9408-7d64ecab12bf",
+    "draw_title": "Celebrating 6mths of Lucky Doe - £25",
+    "competition_url": "https://luckydoecompetitions.co.uk/lists/win-25-cash-6-month-thank-you",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "b466d9d3a46336d26a353b8abf777961a455d305c34a3a73a8d39908092640a5",
+    "drand_seed_hash": "9619fe1de2fc16bf72fe73a453bdd551413ffe305d15682cb842b173c78b5304e692a02c841b3982596299d987fceae0",
+    "client_seed": "1779995166155",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "1df5c50c5243835ee70f9ff308f903e13de87c385f4912dac50d58daeb09d25b",
+    "result": "34",
+    "external_round_id": "29063936",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T19:06:06.000000Z",
+    "revealed_at": "2026-05-28T19:06:17.000000Z"
+}
