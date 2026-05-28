@@ -1,0 +1,22 @@
+{
+    "round_id": "23308882-8055-4bbf-87f8-7ffd73aa750a",
+    "draw_title": "Bonus Buy ~ Fabulosa Bundle",
+    "competition_url": "https://redlemonx.co.uk/admin/products/bonus-buy-fabulosa-bundle",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "ba8165916095e98f6d2f07f4c62b0cf4e4070cd6bac9ad1fb4143216cd16dedc",
+    "drand_seed_hash": "8777042bcedd330296bceaf5f3f7140ede6f3d3ba58f6d8521aa6d2654b8cffe4753790483fbc1aec222b17848ed9dd4",
+    "client_seed": "1780001735220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65,
+    "max_tickets": 65,
+    "combined_hash": "71e7ace07f87c327545adf730f0affd58fe06ce7cecd25cd61a4427fb12980ee",
+    "result": "21",
+    "external_round_id": "29066126",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T20:55:35.000000Z",
+    "revealed_at": "2026-05-28T20:55:42.000000Z"
+}
