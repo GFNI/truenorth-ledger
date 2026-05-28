@@ -1,0 +1,22 @@
+{
+    "round_id": "fae6e5d2-a4c7-4264-b25d-c8a4c34695bd",
+    "draw_title": "Solid Coin 🪙",
+    "competition_url": "https://flashcompetitions.com/admin/products/solid-coin",
+    "operator": {
+        "name": "Flash Competitions LTD",
+        "website": "https://flashcompetitions.com",
+        "company_number": "NI737055"
+    },
+    "drand_server_seed": "4167ecbe05b06f3e135033af716a691e5e82888008a4fa5538dc07572e5aeea8",
+    "drand_seed_hash": "8707f9c0b91fda94c7d5be2483edf6eea05f3895936d39d36da2e090f0a42482ce7d5c0018984ca5824adaa6a32d2145",
+    "client_seed": "1779999045543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 179,
+    "combined_hash": "549ed87133dc9ba3c0edea8804a42cc89cc2774303e6116b8007cba71cce7700",
+    "result": "69",
+    "external_round_id": "29065229",
+    "processing_status": "completed",
+    "created_at": "2026-05-28T20:10:45.000000Z",
+    "revealed_at": "2026-05-28T20:10:51.000000Z"
+}
