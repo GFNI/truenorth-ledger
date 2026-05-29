@@ -1,0 +1,22 @@
+{
+    "round_id": "75c36a7f-c975-4a37-b295-a407b804fd5f",
+    "draw_title": "Ford Fiesta ST2 - the BEST odds in UK! (Child Draw)",
+    "competition_url": "https://gridchance.co.uk/competition/ford-fiesta-st-or-ps3000-cash",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk/",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "8ff97280f1f9f9ef27133a9209dafb6074d6f1d165e17a0e2d3028f81a31fcca",
+    "drand_seed_hash": "a431a9430e409f8e7b00212d7685c55d027f444c259d1b392882e0618d4240598a8c04fb267f8d3fc58a60e3637568d6",
+    "client_seed": "1780082754396",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 990,
+    "max_tickets": 3000,
+    "combined_hash": "27d61c6c1dd1558015c74b6235aa440a1eab1443d3108dca90011172845b5439",
+    "result": "2160",
+    "external_round_id": "29093132",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T19:25:54.000000Z",
+    "revealed_at": "2026-05-29T19:26:00.000000Z"
+}
