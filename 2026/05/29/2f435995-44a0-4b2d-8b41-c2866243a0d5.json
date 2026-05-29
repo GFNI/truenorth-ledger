@@ -1,0 +1,22 @@
+{
+    "round_id": "2f435995-44a0-4b2d-8b41-c2866243a0d5",
+    "draw_title": "Blue Moon Cash Bonanza £6K",
+    "competition_url": "https://a9competitions.co.uk/admin/products/blue-moon-cash-bonanza-ps6k",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "22fe98b57cf158432e344f58d3af0c8c2490d77cc4b81ca1b785354289055380",
+    "drand_seed_hash": "a310061f7bcfaaf2a8441da806507f7acaac5d65be3abbef2f19b91eef0c84ff5627ea68df6e283bcf76c94b1d6a8f8d",
+    "client_seed": "1780086645470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1652,
+    "max_tickets": 4000,
+    "combined_hash": "d409fb73ac5ea80b6cabdc5c8122562d488ddbc3708b8c886f28c2bc68815f0f",
+    "result": "3893",
+    "external_round_id": "29094429",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T20:30:45.000000Z",
+    "revealed_at": "2026-05-29T20:30:51.000000Z"
+}
