@@ -1,0 +1,22 @@
+{
+    "round_id": "ca068d57-c4f4-4a97-a6f9-945c1fe05968",
+    "draw_title": "£100 Free",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps100-freebie-friday-5",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "169602374e4c1d95090431486111493e423cdc05c7a545ca1a87ae1aa7b91bfc",
+    "drand_seed_hash": "b0c683a641b117d228139e2fe652f8aa63ec22879a6f9f99bbd9786240639ed218901f14c3a4be8143d6e464d5d56897",
+    "client_seed": "1780085380141",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500,
+    "combined_hash": "308a3a55b0e4f839aa5fb7ddad25a9b09d3fa80c7dce082c0ca8759c02c03778",
+    "result": "325",
+    "external_round_id": "29094008",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T20:09:40.000000Z",
+    "revealed_at": "2026-05-29T20:09:49.000000Z"
+}
