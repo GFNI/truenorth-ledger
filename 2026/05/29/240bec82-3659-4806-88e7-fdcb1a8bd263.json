@@ -1,0 +1,22 @@
+{
+    "round_id": "240bec82-3659-4806-88e7-fdcb1a8bd263",
+    "draw_title": "Low Odds £100",
+    "competition_url": "https://ogcompetitions.co.uk/lists/low-odds-ps100-cash-with-5-x-ps50-instant-wins-9",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "5065aba18bf3bde132bcf677339e505dae79c4ddf7e34ea97700b507ed9fe867",
+    "drand_seed_hash": "a23e641b17dd3720a9048a45eb4b0e34a2fd607b093da32b061d0960c3e0dacfb5f204dcfddfb42bfcc3697e08c5d53c",
+    "client_seed": "1780085457428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 250,
+    "combined_hash": "1a2c1e9256edc0ae549c347a3c3e85f5c069ef66236ba306682f93e4f11c4746",
+    "result": "157",
+    "external_round_id": "29094033",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T20:10:57.000000Z",
+    "revealed_at": "2026-05-29T20:11:07.000000Z"
+}
