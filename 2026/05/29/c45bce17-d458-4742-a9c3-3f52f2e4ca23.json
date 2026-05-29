@@ -1,0 +1,22 @@
+{
+    "round_id": "c45bce17-d458-4742-a9c3-3f52f2e4ca23",
+    "draw_title": "2,000 Ticket Bundle into £7,500 Competition #2",
+    "competition_url": "https://proprizes.co.uk/admin/products/2000-ticket-bundle-into-ps7500-competition-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "e60847e7e9e1e791086c7fb3a1ec1b7ad7767f1ff891dd9e894d4c1b65fd4db8",
+    "drand_seed_hash": "b1c32da63c7f46a301bf1fab38091410551225ed95903d585c38a07bce0885670028d355d177eea02ed8dca03495a757",
+    "client_seed": "1780078234180",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 137,
+    "max_tickets": 300,
+    "combined_hash": "2e42d34b5cfe625e74ca4ffebf07400069c0bf1850affb00daeac8e29c14ce99",
+    "result": "39",
+    "external_round_id": "29091626",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T18:10:34.000000Z",
+    "revealed_at": "2026-05-29T18:10:42.000000Z"
+}
