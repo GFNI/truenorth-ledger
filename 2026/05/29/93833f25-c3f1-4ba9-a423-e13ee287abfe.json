@@ -1,0 +1,22 @@
+{
+    "round_id": "93833f25-c3f1-4ba9-a423-e13ee287abfe",
+    "draw_title": "£50 Free Site Credit",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps50-free-site-credit",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "e460bcc116d3b9fa5043599302d8999f3eafd2d0311f9275b80355148d02a032",
+    "drand_seed_hash": "9233480d4a0841a865b5644eca489bd555fde783048cbda10ec2c5496920101b4e36909fae6c12b8b7c25aa8eb7ed668",
+    "client_seed": "1780086651479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 209,
+    "max_tickets": 500,
+    "combined_hash": "6e14cf9e37fc952cbadc264c644f7352c7bada4f5c80d28c8750b042205ca5f0",
+    "result": "311",
+    "external_round_id": "29094431",
+    "processing_status": "completed",
+    "created_at": "2026-05-29T20:30:51.000000Z",
+    "revealed_at": "2026-05-29T20:30:57.000000Z"
+}
