@@ -1,0 +1,22 @@
+{
+    "round_id": "51b4d7b9-9e3a-4a4d-bbc8-fde19d8649e6",
+    "draw_title": "Melon Madness",
+    "competition_url": "https://chaotic.co.uk/competition/melon-madness-7543",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "85a049ac28f44ba810fd66f8181ea142de3464b8fc07ef2f9a8ecb2f204a780b",
+    "drand_seed_hash": "84cf094692ee3e8b3f332c0bf291e7cff540a70ceed77d1bed5317163faf9c76149b4e83ccf848063631b096283450e1",
+    "client_seed": "1780170928088",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "6835b1e92ea2fff951c67536dc4c36b6d2ac2b7ac255a55439ada670cbfb1af1",
+    "result": "873",
+    "external_round_id": "29122524",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T19:55:28.000000Z",
+    "revealed_at": "2026-05-30T19:55:36.000000Z"
+}
