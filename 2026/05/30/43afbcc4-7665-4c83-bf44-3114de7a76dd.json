@@ -1,0 +1,22 @@
+{
+    "round_id": "43afbcc4-7665-4c83-bf44-3114de7a76dd",
+    "draw_title": "The Big 50k instant win competition ",
+    "competition_url": "https://spin2wincompetitions.co.uk/competition/the-big-ps50000-instant-win-competition",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk/",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "5f9aeb888fbeb7f675b731d721d84b1f8b62479dddc2d3407b07b60a2b99078b",
+    "drand_seed_hash": "82f09937a9f1e9eafcf8ddc77c0d19838fbaa1a1d7715caa5d5d014a7420f33b63df5bda6d0a2ba29f3107db7a95660f",
+    "client_seed": "1780163955286",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4566,
+    "max_tickets": 100000,
+    "combined_hash": "b24455a66737a266deedea035d5e6f57e91261010fc1569831935c05b9430f9d",
+    "result": "6003",
+    "external_round_id": "29120199",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T17:59:15.000000Z",
+    "revealed_at": "2026-05-30T17:59:25.000000Z"
+}
