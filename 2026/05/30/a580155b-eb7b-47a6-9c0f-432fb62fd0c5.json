@@ -1,0 +1,22 @@
+{
+    "round_id": "a580155b-eb7b-47a6-9c0f-432fb62fd0c5",
+    "draw_title": "£50 SUPERMARKET VOUCHER / CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps50-supermarket-voucher-cash",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "bfbdfed889f3c3086202f291ea5787f06b8a5276f9da01b35f653c189823afb8",
+    "drand_seed_hash": "b7efdcb0051427d218d4026be42ad61333197cf0c056903ca382a475db8c22f96d20805d426aa5533d2a274c950b80f1",
+    "client_seed": "1780182030727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 167,
+    "max_tickets": 500,
+    "combined_hash": "e427a2b9556351564e816c4f2008d7648beda8d2497b70a4a4b5921baf3236ea",
+    "result": "5",
+    "external_round_id": "29126224",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T23:00:30.000000Z",
+    "revealed_at": "2026-05-30T23:00:36.000000Z"
+}
