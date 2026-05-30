@@ -1,0 +1,22 @@
+{
+    "round_id": "e6c1a514-51d1-40ef-9315-d090d1abf382",
+    "draw_title": "WIN x8 100ML BOTTLES FROM THE ESSENCE VAULT 30/05",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-x8-100ml-bottles-from-the-essence-vault-3005-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "e08dd11c9b083747831e44c3bb2e482778ca96516b0252d4401165740aa2f5e4",
+    "drand_seed_hash": "a10a631d0d04575496f90e069c81bcb0015940b6212d6387334fdf40f2cda3387f5ff615f1f6de5a40e09940f37879db",
+    "client_seed": "1780158630619",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 158,
+    "max_tickets": 500,
+    "combined_hash": "73d6ba8ad41a7c42736485b77f886014c5d7c0c7f4aee1811338ce7716851a07",
+    "result": "404",
+    "external_round_id": "29118424",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T16:30:30.000000Z",
+    "revealed_at": "2026-05-30T16:30:36.000000Z"
+}
