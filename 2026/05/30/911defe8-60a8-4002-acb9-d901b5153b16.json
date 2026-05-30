@@ -1,0 +1,22 @@
+{
+    "round_id": "911defe8-60a8-4002-acb9-d901b5153b16",
+    "draw_title": "£20 SITE CREDIT",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/ps20-site-credit",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "c03113d0d3574853efbbdf05462810db72d753cae10bf42fd6e371d8f4feaa2d",
+    "drand_seed_hash": "8b861e72922ee911ca507532e700005edaf849f7ba9ee23c57b2da2180981575a3700534cf04aa19f3d9186a32f33728",
+    "client_seed": "1780173341125",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 200,
+    "combined_hash": "938e18fde974306355686a7a549aab4cd766b503b6f6b014237f5689a19bf73c",
+    "result": "12",
+    "external_round_id": "29123328",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T20:35:41.000000Z",
+    "revealed_at": "2026-05-30T20:35:48.000000Z"
+}
