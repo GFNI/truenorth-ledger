@@ -1,0 +1,22 @@
+{
+    "round_id": "42f1cb13-3145-44ff-bb7d-750c1fe88a8c",
+    "draw_title": "£1000",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/pup-cup-pick-me-up/edit",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "8a51c47881b1ff9113efda79ff0d535749d8ff342bcdf2c7f7f6cb75711f4096",
+    "drand_seed_hash": "84b2bf8c70e152aa1d89f12ba01cad42e7b942cdec0e952ff37f20670cdec9c7558523d61bd21c023d24a1785b622baa",
+    "client_seed": "1780136985971",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "15a43c0d504680ee990e9e9e1a517e7490c3cfda102f265061936007428ca6c7",
+    "result": "74",
+    "external_round_id": "29111210",
+    "processing_status": "completed",
+    "created_at": "2026-05-30T10:29:46.000000Z",
+    "revealed_at": "2026-05-30T10:29:55.000000Z"
+}
