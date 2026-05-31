@@ -1,0 +1,22 @@
+{
+    "round_id": "707a376b-ba6d-4353-af56-ca999cbdecd5",
+    "draw_title": "WIN £100 FOR FREE!",
+    "competition_url": "https://winario.co.uk/admin/products/100forfree",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTDw",
+        "website": "https://winario.co.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "778d3dbd3599417e589c91359f58d9c213f8fa8402dd854afe516621efe5891c",
+    "drand_seed_hash": "a574473ef9d3ceb3fdf2dd43123aa9f47f0ac71ace01f22b5ee6d8abb7d551a10c02b3ae9554ff7243af9a4ddd667805",
+    "client_seed": "1780254328556",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 169,
+    "max_tickets": 750,
+    "combined_hash": "f7d680c5cd883d46205203629534d7451833cfd16fdb14f627c0537fb0a6602e",
+    "result": "442",
+    "external_round_id": "29150324",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T19:05:28.000000Z",
+    "revealed_at": "2026-05-31T19:05:36.000000Z"
+}
