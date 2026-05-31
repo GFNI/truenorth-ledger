@@ -1,0 +1,22 @@
+{
+    "round_id": "7846e7d5-f9e9-45cd-96f8-90a193ec3670",
+    "draw_title": "Cash Cow - £500 DRAW DAY PRIZE",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/cash-cow-ps500-draw-day-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "e889840eb3c306b5680cffeaa24d097b3f9cc760fc34791aad2d66d97e1e41a1",
+    "drand_seed_hash": "b197516ac320c65bb7834ef3c0c437497c0adb2ca7746ebf77d0a3ca4611ac4d4eb34dcf24d5c9efed6c77603cc518fa",
+    "client_seed": "1780258226577",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12503,
+    "max_tickets": 69999,
+    "combined_hash": "d460a41285f368b89f69253d7f0dafe05f7efbae6e9d0f3cb8c0a6366c3ea67f",
+    "result": "7049",
+    "external_round_id": "29151623",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T20:10:26.000000Z",
+    "revealed_at": "2026-05-31T20:10:33.000000Z"
+}
