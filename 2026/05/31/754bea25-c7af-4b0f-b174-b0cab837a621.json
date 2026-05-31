@@ -1,0 +1,22 @@
+{
+    "round_id": "754bea25-c7af-4b0f-b174-b0cab837a621",
+    "draw_title": "INCREASE YOUR ODDS INTO SUNDAY'S £40,000 COMP! (£100 TICKET BUNDLE MAIN PRIZE!)",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/increase-your-odds-into-sundays-ps40000-comp-ps100-ticket-bundle-main-prize",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "e173f6c08885b0fa66a9555a2c8aa989bc3bbc89a264ba78a3cebdf571d67f54",
+    "drand_seed_hash": "a7df6904434c565e8dd8bf215ce08a6c737732f37f6e1e9f9c8a7b28f616e4565f02668cc7279cada8f03fef4b0c5295",
+    "client_seed": "1780251713672",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 293781,
+    "max_tickets": 2500000,
+    "combined_hash": "029a236024e7b28dd4c49d634517bc569dc86b0042f28cc959a57236b82f6850",
+    "result": "445923",
+    "external_round_id": "29149452",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T18:21:53.000000Z",
+    "revealed_at": "2026-05-31T18:22:00.000000Z"
+}
