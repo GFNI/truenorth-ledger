@@ -1,0 +1,22 @@
+{
+    "round_id": "3723ad5a-773c-4035-b672-fd1df8772311",
+    "draw_title": "Spearhead: City of Ash or Anything Warhammer Up To £150 + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/spearhead-city-of-ash-or-anything-warhammer-up-to-ps150-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "850ada5b410e57248cfc2553ac3ce0c6279ec8123b96bfc979d78c5e4705dd5a",
+    "drand_seed_hash": "8df1b28325bc5854d19e0cd31011e39c210527a715dc42ac892fb93c18860d80f59fc77e355abaea16f13cc8039c1b9c",
+    "client_seed": "1780262210871",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 247,
+    "max_tickets": 1066,
+    "combined_hash": "75b7ee4f628bd21ecc877abbf7bd244bafbe5c90bcfaa5b65314cf98c55bf53b",
+    "result": "608",
+    "external_round_id": "29152951",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:16:50.000000Z",
+    "revealed_at": "2026-05-31T21:16:57.000000Z"
+}
