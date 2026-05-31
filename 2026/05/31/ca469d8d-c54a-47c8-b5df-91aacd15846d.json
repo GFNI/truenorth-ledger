@@ -1,0 +1,22 @@
+{
+    "round_id": "ca469d8d-c54a-47c8-b5df-91aacd15846d",
+    "draw_title": "The CASH Builder",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/the-cash-builder",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "8c49d4f2714f7c447dcff9c7391eea7e0c22975b31a07568073dcdda5b43d757",
+    "drand_seed_hash": "a2eca1c10bb8030bf1ab6c12e3af82831e15d6da08d5369f0278a8cb014280de9fa680d665fde4aae3262fce6f8175f9",
+    "client_seed": "1780266333686",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13676,
+    "max_tickets": 600000,
+    "combined_hash": "dc8838c9562da62314be3e8ab41a547d6b6a06a9dedba010b0580ca46eccb71d",
+    "result": "325469",
+    "external_round_id": "29154325",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T22:25:33.000000Z",
+    "revealed_at": "2026-05-31T22:25:39.000000Z"
+}
