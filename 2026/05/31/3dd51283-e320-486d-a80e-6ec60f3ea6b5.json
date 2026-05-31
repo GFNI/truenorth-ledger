@@ -1,0 +1,22 @@
+{
+    "round_id": "3dd51283-e320-486d-a80e-6ec60f3ea6b5",
+    "draw_title": "WIN A £50 VOUCHER FOR ROCOCO",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps50-voucher-for-rococo",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "7fe046e7eaed13b98964750431973e36f56f807d690cb9ae7aef9842d318c8cd",
+    "drand_seed_hash": "947713307fc7e1d8ca69c3cabd549957440b70b168396e823f3f457ab06b1e3bfcff8568cddce399ae902180d18450c4",
+    "client_seed": "1780261435772",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "5b520d07e2021aaa1c5897398d6331dab4c33d122aa5c6bfcb1ccf497961557d",
+    "result": "64",
+    "external_round_id": "29152693",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:03:55.000000Z",
+    "revealed_at": "2026-05-31T21:04:03.000000Z"
+}
