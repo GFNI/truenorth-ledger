@@ -1,0 +1,22 @@
+{
+    "round_id": "1b917b39-ace8-4663-a0eb-88c3f074200f",
+    "draw_title": "🔥 £1,000 CASH OR MILWAUKEE FUEL SETUP 🔥",
+    "competition_url": "https://theprizevault.co.uk/admin/products/ps1000-cash-or-milwaukee-fuel-setup",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "60746e99c58471eed3153e249c1ad330b3ee6356ea79c8de78f013d26d2c975b",
+    "drand_seed_hash": "a9b7668a28d0d9b1b676d71ef0488a7081a91f6da1da78b016101be48e4457931f00d6f38907a78459c6047eb5ee6154",
+    "client_seed": "1780258246895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 959,
+    "max_tickets": 3100,
+    "combined_hash": "3341fc2fc872580e771dff777d2ffa072e00b3dc1d65fa7acfed4cae91fd97aa",
+    "result": "216",
+    "external_round_id": "29151630",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T20:10:46.000000Z",
+    "revealed_at": "2026-05-31T20:10:54.000000Z"
+}
