@@ -1,0 +1,22 @@
+{
+    "round_id": "fe845b96-50dc-420e-9131-939ebe3ae5a9",
+    "draw_title": "May Day Pay Day £12K Spin the wheel",
+    "competition_url": "https://a9competitions.co.uk/admin/products/may-day-pay-day-ps12k-spin-the-wheel",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "f46816a06b19db3ae5c56120f59a3072cec0cb26575e84bdba41c9a59e2c4f18",
+    "drand_seed_hash": "874893214ca7cc1d0ade62613b587f6e2af551ee42218dee02be3d87b87aacb339f1467be7b5662ea4ae63835c123fc9",
+    "client_seed": "1780259439483",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13297,
+    "max_tickets": 50000,
+    "combined_hash": "1cf8204ecd01d339d80127d0b9ef4eb36a1ddf9cb5cc0290f0b01a318c0f803d",
+    "result": "33517",
+    "external_round_id": "29152027",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T20:30:39.000000Z",
+    "revealed_at": "2026-05-31T20:30:45.000000Z"
+}
