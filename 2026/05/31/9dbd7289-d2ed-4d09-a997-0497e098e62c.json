@@ -1,0 +1,22 @@
+{
+    "round_id": "9dbd7289-d2ed-4d09-a997-0497e098e62c",
+    "draw_title": "£1000 Main + 50x £100 Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ps1000-main-50x-ps100-instant-wins",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "77d3b565949a5909caa6bcc76d5680a9ffffa53cfbaa53c6786e1e5d5fa0f174",
+    "drand_seed_hash": "b06775ea0cd33f6d380aa2861d1325622892d6904727a09338ce09d62ddbb4e45745a3358917965068cfc6ea39b704c4",
+    "client_seed": "1780255909795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14806,
+    "max_tickets": 60000,
+    "combined_hash": "46e4109ff55e89c99fc01b82bd706393a538304ed6c8b08509c0f9a87076ce90",
+    "result": "4359",
+    "external_round_id": "29150851",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T19:31:49.000000Z",
+    "revealed_at": "2026-05-31T19:31:57.000000Z"
+}
