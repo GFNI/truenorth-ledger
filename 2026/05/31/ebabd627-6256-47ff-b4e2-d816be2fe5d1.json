@@ -1,0 +1,22 @@
+{
+    "round_id": "ebabd627-6256-47ff-b4e2-d816be2fe5d1",
+    "draw_title": "£50 VOUCHER FOR THE MANNER HOUSE!!! 31/05",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps50-voucher-for-the-manner-house-3105",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "057acf1317e8467b19185fb3f5071233eb9e719718be3ea468ddb85cce170bfc",
+    "drand_seed_hash": "8031bf6b5ff81239d249c27513ef3ef15623d401c7fd111b1bed0d8c262608cf8ad243baff31a388610364e2fef59dc3",
+    "client_seed": "1780261489728",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "ca8a8557219421b6f94d53514655c98f9397d8e215939e241227a797c6b1305f",
+    "result": "111",
+    "external_round_id": "29152711",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:04:49.000000Z",
+    "revealed_at": "2026-05-31T21:04:57.000000Z"
+}
