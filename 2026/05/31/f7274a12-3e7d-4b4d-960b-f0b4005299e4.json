@@ -1,0 +1,22 @@
+{
+    "round_id": "f7274a12-3e7d-4b4d-960b-f0b4005299e4",
+    "draw_title": "£250 Site Credit Bonanza",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps250-site-credit-bonanza",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "6ebeb0085bf6cdf11e5f744a407a1e25b260d350428b81eea60198adb4f88dad",
+    "drand_seed_hash": "a295ad7ecc68924e3309a0f837f1454eae8c310f65087e62ef84cc89418f0a0f852c7c682a39c57ac938d6a6ad32f342",
+    "client_seed": "1780259433600",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 364,
+    "max_tickets": 1300,
+    "combined_hash": "c9c991bdf92dbffc0f0884e844696f1354abf4254810b00d93da0338125e865e",
+    "result": "802",
+    "external_round_id": "29152025",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T20:30:33.000000Z",
+    "revealed_at": "2026-05-31T20:30:39.000000Z"
+}
