@@ -1,0 +1,22 @@
+{
+    "round_id": "0b02b941-1af0-4b5b-92d8-1549d6e1dbf9",
+    "draw_title": "WIN £40,000 TAX FREE CASH!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps40000-tax-free-cash",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "49e4c0e07e50e3dfa999a6db6d321f80e37a6625b34d4c8efc35a19047ba21d4",
+    "drand_seed_hash": "84725268b97971a67b954b4bbaea44b8ced70a4c35c508de74919e7f6baf00d2a3e8d0cda677250081a4041101b1633b",
+    "client_seed": "1780261773223",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52889,
+    "max_tickets": 99999,
+    "combined_hash": "cda8fb5e5290320a2dbfffbecbd8c9104e796e976aa411f4ea3af7dae96298fc",
+    "result": "66989",
+    "external_round_id": "29152805",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:09:33.000000Z",
+    "revealed_at": "2026-05-31T21:09:39.000000Z"
+}
