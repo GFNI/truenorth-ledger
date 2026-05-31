@@ -1,0 +1,22 @@
+{
+    "round_id": "035ccf69-5e5e-4119-b0db-aec6ea2bedc9",
+    "draw_title": "WIN A TAKEAWAY",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/win-a-takeaway-2",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "c7139b5276b48542a9d360350309b689bc016b6f87402259dc00f43ad7ccb6a9",
+    "drand_seed_hash": "97dd31df39e8f5fd9a3373ad86994c3831120d1f4d51aa12cf7855a10938e2f506c4f4d17163b171fb5435cf30d2085f",
+    "client_seed": "1780247431183",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33,
+    "max_tickets": 1500,
+    "combined_hash": "da76283442e3ac36fd756a1ee50a1edc5b1c50b130c5d590cde2f0898b00de5a",
+    "result": "99",
+    "external_round_id": "29148025",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T17:10:31.000000Z",
+    "revealed_at": "2026-05-31T17:10:39.000000Z"
+}
