@@ -1,0 +1,22 @@
+{
+    "round_id": "0c610ce1-f99c-4b38-bd91-1723aa20304e",
+    "draw_title": "WIN £50 CASH!! 31/05",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps50-cash-3105-3",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "f58523a24fa52fff514c6d7d4df4293e382b42a1ce3fd9e4dcbbe9cb798c4c2a",
+    "drand_seed_hash": "8af66f11de646f11a015b499477e28a691af0b7853f516dc01b36aabb71aeb71e79fc4e3e64974324a7909b87a8d1b3b",
+    "client_seed": "1780261594730",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "b190cd60476222a54ccb371f57dddaeac41b9f770f0ae2278a037008509ccb8d",
+    "result": "158",
+    "external_round_id": "29152746",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:06:34.000000Z",
+    "revealed_at": "2026-05-31T21:06:42.000000Z"
+}
