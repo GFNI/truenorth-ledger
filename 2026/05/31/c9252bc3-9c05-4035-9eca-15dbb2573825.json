@@ -1,0 +1,22 @@
+{
+    "round_id": "c9252bc3-9c05-4035-9eca-15dbb2573825",
+    "draw_title": "GEM HUNTERS! LEVEL: EASY",
+    "competition_url": "https://whiskyclubuk.com/admin/products/gem-hunters-level-easy",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "367d3ab62db12c04f87358565b11e6f15c085fc09ef3b1bc1ac84c18f1dde73e",
+    "drand_seed_hash": "b8ea42f512444b6ae806d62b1d2e2ea5f03629610d850ba1bdae7c255a65cca375f2c79a0d57a1a06f8339976c03fad7",
+    "client_seed": "1780261841443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1728,
+    "max_tickets": 1750,
+    "combined_hash": "faf4c071502486e44599cf710ebd538113c8a2b879574afb1d029536f8d4552e",
+    "result": "1535",
+    "external_round_id": "29152828",
+    "processing_status": "completed",
+    "created_at": "2026-05-31T21:10:41.000000Z",
+    "revealed_at": "2026-05-31T21:10:48.000000Z"
+}
