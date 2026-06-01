@@ -1,0 +1,22 @@
+{
+    "round_id": "b09f4c8e-cd4e-42c3-9bf4-4f68bc5251b0",
+    "draw_title": "🛏️  £1000 Gift Voucher For Dalmahoy Hotel & Country Club, Edinburgh 🛏️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps1000-gift-voucher-for-dalmahoy-hotel-country-club-edinburgh",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f3d8e209e07041c241d9614454e60c7cf7ffbe12ac227065ba499eee8d6fa51f",
+    "drand_seed_hash": "90e2ba1abe5b5b283136de8b11295a6db9467a1cf6e078a115b6973c5e9f0fc533bbdffe2a41ca022b2fe40e2fd0e8da",
+    "client_seed": "1780341026818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1147,
+    "max_tickets": 1650,
+    "combined_hash": "812aab12030948c01d83dcbaf85548a3b14fee37f249b9ec5c408663340e87e8",
+    "result": "1126",
+    "external_round_id": "29179223",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T19:10:26.000000Z",
+    "revealed_at": "2026-06-01T19:10:33.000000Z"
+}
