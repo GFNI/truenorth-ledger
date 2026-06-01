@@ -1,0 +1,22 @@
+{
+    "round_id": "a8dc6b4f-8f6c-4899-a9af-012f7c0cf0a5",
+    "draw_title": "Playstation 5 Pro or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/playstation-5-pro-or-cash-4098",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "6cbd2eb7183c0855a0fe78860b939b447d5d725319af98ebfb732a895207e256",
+    "drand_seed_hash": "982a0b4519bfd76e9a9fc53daf513e7db6b012c21ea4ad9d526c9150fa60c1c217d0281d45cf2a4122f3d70b42960e43",
+    "client_seed": "1780344713256",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2471,
+    "max_tickets": 2499,
+    "combined_hash": "b85932c858346c1252904d257a7321786fe322a92e2ab7d9d6f2eb9f79860a4d",
+    "result": "2003",
+    "external_round_id": "29180452",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T20:11:53.000000Z",
+    "revealed_at": "2026-06-01T20:12:00.000000Z"
+}
