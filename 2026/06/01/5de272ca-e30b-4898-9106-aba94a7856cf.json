@@ -1,0 +1,22 @@
+{
+    "round_id": "5de272ca-e30b-4898-9106-aba94a7856cf",
+    "draw_title": "Amazon Echo Show 21 or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/amazon-echo-show-21-or-cash-7826",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "29febe9fa9afaceaec0a6f22b1a6a8c4cfec7d5ddc671b4e29813bc231a199ee",
+    "drand_seed_hash": "92da330fe76fad1619205468bd48b510bf1074c73538ad2e03eb1fd6df2a03e93a751144046ea1494db222520882798c",
+    "client_seed": "1780343915669",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "270adb3a90449d4f4aecd8d888207096ffdf8d39bd47ac1b1a84f4f15a973208",
+    "result": "1512",
+    "external_round_id": "29180186",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T19:58:35.000000Z",
+    "revealed_at": "2026-06-01T19:58:42.000000Z"
+}
