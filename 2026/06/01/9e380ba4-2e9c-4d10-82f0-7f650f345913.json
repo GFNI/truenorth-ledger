@@ -1,0 +1,22 @@
+{
+    "round_id": "9e380ba4-2e9c-4d10-82f0-7f650f345913",
+    "draw_title": "WIN £100 SITE CREDIT FOR 1P #2",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps100-site-credit-for-1p-2",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "72735dc25f48cc66cbc45cbe1919dcb9748361a2b796b915f2a6180afa64fb08",
+    "drand_seed_hash": "926157773ab2bf6cbc3716f83f999b9d5bad46672d4f56cc3447e11235da5fb4118911bb54dfd6213e990e0173830ce3",
+    "client_seed": "1780337243542",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5534,
+    "max_tickets": 12500,
+    "combined_hash": "25e3c053f468719e147ca706be1f038cb4fcf72262e318f39905ca4f1088aac0",
+    "result": "12490",
+    "external_round_id": "29177962",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:07:23.000000Z",
+    "revealed_at": "2026-06-01T18:07:30.000000Z"
+}
