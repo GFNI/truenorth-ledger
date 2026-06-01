@@ -1,0 +1,22 @@
+{
+    "round_id": "664153de-34cb-4835-9cae-7bd6008ebd6d",
+    "draw_title": "£11K",
+    "competition_url": "https://bountycompetitions.co.uk/lists/ps11k-enter-for-80p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9d6690fcc5ad3d43d368bbf38c8eb0abf99a271de0ff60856738877f99a69c79",
+    "drand_seed_hash": "8b4698fc903890bca961ff1ef5f60a85e581a41f52a0aec921cb94958c50a92263e3094c6f8bf7c022e10c07998929f6",
+    "client_seed": "1780339328986",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 20300,
+    "combined_hash": "d9411988a85e0067a8de922f7fe6d49f4ab104f71bfde28dee60d363515ca863",
+    "result": "12634",
+    "external_round_id": "29178657",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:42:09.000000Z",
+    "revealed_at": "2026-06-01T18:42:19.000000Z"
+}
