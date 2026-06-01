@@ -1,0 +1,22 @@
+{
+    "round_id": "92d16c3f-9462-4b23-95e9-cf484a9a1322",
+    "draw_title": "VXR",
+    "competition_url": "https://bountycompetitions.co.uk/lists/2007-vauxhall-astra-20t-16v-vxr-3dr",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "66f82bf8193e214919e6f86fafad4e55a10e160fe0a38dd7fc0588ac810d7dc2",
+    "drand_seed_hash": "87b882ac51a8fea2eaa43a1dba86fa390d34db001062a3543bc194e3e06ea98037440f1fc0768e958e07fce93b1f4ebb",
+    "client_seed": "1780340705629",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 15000,
+    "combined_hash": "d87a393bd60188b9f1f7847005808714ac13e3d7d12d7d496e4acf6151995f43",
+    "result": "7745",
+    "external_round_id": "29179116",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T19:05:05.000000Z",
+    "revealed_at": "2026-06-01T19:05:15.000000Z"
+}
