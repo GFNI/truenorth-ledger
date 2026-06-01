@@ -1,0 +1,22 @@
+{
+    "round_id": "eddaf4ca-9ee6-4e0c-8645-629330d46f3d",
+    "draw_title": "LEGO",
+    "competition_url": "https://bountycompetitions.co.uk/lists/lego-f1-car-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "78d1b3bca0774f8902e3a54a58f90e646691ecf6be685c49d8291571601b0487",
+    "drand_seed_hash": "82648edbab4b3beb9b0c3776fa6acac9726a2d7aa3df542235af03b8b9eba1d275537dc9244092779567db3de12be016",
+    "client_seed": "1780337794398",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 900,
+    "combined_hash": "ee7df812318f5b3b6bd363b936f6b8c9254d6971444b52c9e362a373441f0f27",
+    "result": "855",
+    "external_round_id": "29178145",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:16:34.000000Z",
+    "revealed_at": "2026-06-01T18:16:44.000000Z"
+}
