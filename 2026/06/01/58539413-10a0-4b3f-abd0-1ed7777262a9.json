@@ -1,0 +1,22 @@
+{
+    "round_id": "58539413-10a0-4b3f-abd0-1ed7777262a9",
+    "draw_title": "IPAD",
+    "competition_url": "https://bountycompetitions.co.uk/lists/apple-13-ipad-pro-2025-256-gb-black-4",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9db4d0d88551eab6157c9a3f3dfcf7944d4561cc162901680a78b8a4fd6d4fd8",
+    "drand_seed_hash": "97dd49394d649205611e1835de3522bb8b761427bf74477f388572eb9277e1f337943a925b15073f56a5ad476ad4b9c6",
+    "client_seed": "1780338465479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2100,
+    "combined_hash": "88928097cd7828b575d147357d5ded732c6431f7c5b9e658bda74d103bd0f042",
+    "result": "337",
+    "external_round_id": "29178369",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:27:45.000000Z",
+    "revealed_at": "2026-06-01T18:27:55.000000Z"
+}
