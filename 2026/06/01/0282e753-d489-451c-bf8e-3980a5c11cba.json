@@ -1,0 +1,22 @@
+{
+    "round_id": "0282e753-d489-451c-bf8e-3980a5c11cba",
+    "draw_title": "YETI ",
+    "competition_url": "https://bountycompetitions.co.uk/lists/yeti-cooler-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "76f537591eaabfececc675b01c0aa599e5727bdb4252c658699044ab33c5b7f2",
+    "drand_seed_hash": "a5892fd430e6e7a90cfd72c74144bcf64131c73fc28624c4087a8a699b11aeb78f1a6924d0949c4b7f69c1643c6bf9fd",
+    "client_seed": "1780338306174",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "338e2adcf4ffb689af278a375effa641b3d1f668996d93a123115f72e84b6ee7",
+    "result": "36",
+    "external_round_id": "29178316",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:25:06.000000Z",
+    "revealed_at": "2026-06-01T18:25:16.000000Z"
+}
