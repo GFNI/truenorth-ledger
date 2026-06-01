@@ -1,0 +1,22 @@
+{
+    "round_id": "39acf104-86d8-485c-8ede-612499a8c070",
+    "draw_title": "1P CASH CLAW",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/1p-cash-claw",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "6bba57647706ce48f9ed755d3632bf2a879328e599e3fee697b5e19bb17db4bc",
+    "drand_seed_hash": "99b2701f870f1caa714ae466e9c3a49a2e3683388f8deba68acd1014ed50cdcd87e1b09a3c177047434c5d80e1cf0e92",
+    "client_seed": "1780337344760",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 708529,
+    "max_tickets": 769999,
+    "combined_hash": "e3d8c27f4b08b09bb884e3855d80ca885e4d6fd02f0ed8347ba26e7afe7586fb",
+    "result": "568723",
+    "external_round_id": "29177995",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T18:09:04.000000Z",
+    "revealed_at": "2026-06-01T18:09:09.000000Z"
+}
