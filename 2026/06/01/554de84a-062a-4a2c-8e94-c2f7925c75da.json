@@ -1,0 +1,22 @@
+{
+    "round_id": "554de84a-062a-4a2c-8e94-c2f7925c75da",
+    "draw_title": "Win £250 site credit!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-ps250-site-credit-93436",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "7b8004dd713d009a5c75dfbfd89fb3fd68ecb3eacb903c599028075abc569122",
+    "drand_seed_hash": "910416060b23045fdb0c883645a17186c022c32b8bb79b7fe73d02cff539bff80ae81b7358c922aec0f3ef9578e4dddb",
+    "client_seed": "1780341417304",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3499,
+    "max_tickets": 3499,
+    "combined_hash": "141caecf5bc7e27de76825d9faba450629f7730f087b7e3086d5a913804f20ca",
+    "result": "462",
+    "external_round_id": "29179353",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T19:16:57.000000Z",
+    "revealed_at": "2026-06-01T19:17:03.000000Z"
+}
