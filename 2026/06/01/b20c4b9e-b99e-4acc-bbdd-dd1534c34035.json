@@ -1,0 +1,22 @@
+{
+    "round_id": "b20c4b9e-b99e-4acc-bbdd-dd1534c34035",
+    "draw_title": "GRAB A GRAND - FAST 72 HOURS - £250 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/grab-a-grand-fast-72-hours-ps250-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "371e2d3c23cb53bf567f268c5d0412ace9d1bde085a2f76fcaf3a05fe9f8f6a1",
+    "drand_seed_hash": "a0026c5057b6e0db61d57df71ea48e480b491f541881b3f39993a42b4d3c293ae88fde4350c0defb869353db048ec231",
+    "client_seed": "1780348226789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21571,
+    "max_tickets": 199999,
+    "combined_hash": "2520a631bd53a9ca37b670959d85ba712551b56841f4ac53ec400b46e2dd2a42",
+    "result": "174954",
+    "external_round_id": "29181623",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T21:10:26.000000Z",
+    "revealed_at": "2026-06-01T21:10:33.000000Z"
+}
