@@ -1,0 +1,22 @@
+{
+    "round_id": "590d8483-80a8-43a5-87ba-e3f7095ef4e2",
+    "draw_title": "444 Frenzy",
+    "competition_url": "https://chaotic.co.uk/competition/444-frenzy-1226",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2156d1afaa55f0a3b4a0019c56f3d2e8fc02beb8e83dfc9d72427f4212ca3326",
+    "drand_seed_hash": "afdc4100cda186ae27ee62bce66b9d4720119a3b069806395e8983b20cf317edd0ad13e3aadf858879ef288e95bf3b84",
+    "client_seed": "1780343220515",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 444444,
+    "max_tickets": 444444,
+    "combined_hash": "ce0dac1110e7cfb61a38f84c1d063d3b74a244045a8ba268170af8632e94e41c",
+    "result": "44251",
+    "external_round_id": "29179954",
+    "processing_status": "completed",
+    "created_at": "2026-06-01T19:47:00.000000Z",
+    "revealed_at": "2026-06-01T19:47:06.000000Z"
+}
