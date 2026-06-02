@@ -1,0 +1,22 @@
+{
+    "round_id": "9725f13c-5105-425f-8a73-c039d8461c04",
+    "draw_title": "🎧Tune In to Win🎧",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/tune-in-to-win",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "34a7d8cb7ef954b8318775c946807cf8c1543b9626c36eb72a96244b23d0cca3",
+    "drand_seed_hash": "80536f6c104790d06a0966996abb94902fba0962808c4adb961153e02bde229425040cbef40bd0df6afc95cb88ba7e10",
+    "client_seed": "1780424184409",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 290,
+    "max_tickets": 800,
+    "combined_hash": "1068fa68c345a60cdeebed50504618fe334e0cc71f812ebb7be187f84ca5273d",
+    "result": "305",
+    "external_round_id": "29206942",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T18:16:24.000000Z",
+    "revealed_at": "2026-06-02T18:16:30.000000Z"
+}
