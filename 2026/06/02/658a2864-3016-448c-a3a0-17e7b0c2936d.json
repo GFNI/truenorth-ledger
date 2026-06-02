@@ -1,0 +1,22 @@
+{
+    "round_id": "658a2864-3016-448c-a3a0-17e7b0c2936d",
+    "draw_title": "Ruby Reward Rush ETIAW + £500 Main Draw",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ruby-reward-rush-etiaw-ps500-main-draw",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "e7929cae5db78a8e89623abe16c86eb01f839357177801a9f3ee3e3cd9851b86",
+    "drand_seed_hash": "b4690cdf5b4906b8bddba6d696ae47d1987e8172c2f8f663520a7a1d511472a4506aab65e25424a23d37fa6b65a97e34",
+    "client_seed": "1780428977303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 910,
+    "max_tickets": 2000,
+    "combined_hash": "cb551b99b612b2addb3af0ae9a99fd335d1b70f3290e0886f841cf7958fde223",
+    "result": "1484",
+    "external_round_id": "29208540",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T19:36:17.000000Z",
+    "revealed_at": "2026-06-02T19:36:24.000000Z"
+}
