@@ -1,0 +1,22 @@
+{
+    "round_id": "76827017-b0ba-4580-b79f-d6946a9fd131",
+    "draw_title": "Test Do Not Enter",
+    "competition_url": "https://proprizes.co.uk/admin/products/test-do-not-enter",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "8523d99e390840f0e8fd072f7e0afc6d9d0e2a50ef8d3e17d64c29d763d8f9c5",
+    "drand_seed_hash": "a4ff2e108f7e1bffc91fd58fc2678af382b69d04197b963f0c0b230f6d247f12169308004a49436831815e500652cd01",
+    "client_seed": "1780409907180",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 5,
+    "combined_hash": "5794a8655547df42c766bc3baa1d850305d11eb12d26a2a0a4c52b6291d0877c",
+    "result": "5",
+    "external_round_id": "29202183",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T14:18:27.000000Z",
+    "revealed_at": "2026-06-02T14:18:33.000000Z"
+}
