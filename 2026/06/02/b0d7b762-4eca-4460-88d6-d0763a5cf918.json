@@ -1,0 +1,22 @@
+{
+    "round_id": "b0d7b762-4eca-4460-88d6-d0763a5cf918",
+    "draw_title": "WIN A 2IN1 BBQ / SMOKER (CASH ALTERNATIVE AVAILABLE)",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-2in1-bbq-smoker-cash-alternative-available",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "2e763928c8ce4c78b99a443544f0e810232077ed2059b5f0b62f70cefce3b26e",
+    "drand_seed_hash": "823fb8b716b5ba5937c9337a9e586a377fbb0d24513d75dba99dea66b5df65560aabeff1df2688646e7cc09e46f0b248",
+    "client_seed": "1780441230290",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 101,
+    "max_tickets": 220,
+    "combined_hash": "e561b94f580295f66d14c62c70c9dd274039ba76a24505eb7fcc85a1d5d5a480",
+    "result": "106",
+    "external_round_id": "29212624",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T23:00:30.000000Z",
+    "revealed_at": "2026-06-02T23:00:36.000000Z"
+}
