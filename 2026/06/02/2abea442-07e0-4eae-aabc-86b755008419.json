@@ -1,0 +1,22 @@
+{
+    "round_id": "2abea442-07e0-4eae-aabc-86b755008419",
+    "draw_title": "🫘 THE BEAN STASH 🫘",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/bean-stash",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "e93917bb494c4268771d95edaf97f7b8b7ba814022d2677e4c1650251efeb0ef",
+    "drand_seed_hash": "a6a65497740219f79b0623e568195fea249b7bb5ebbd0b6daab986f342277ae22d2e7f48a43d110aba91015cc50ac469",
+    "client_seed": "1780423740281",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21740,
+    "max_tickets": 99000,
+    "combined_hash": "10229fa54e974df350b30ff1944584433dce9f3de4594eacdf973d3cf5a6726e",
+    "result": "36585",
+    "external_round_id": "29206794",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T18:09:00.000000Z",
+    "revealed_at": "2026-06-02T18:09:06.000000Z"
+}
