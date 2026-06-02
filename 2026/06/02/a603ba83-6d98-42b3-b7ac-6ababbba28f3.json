@@ -1,0 +1,22 @@
+{
+    "round_id": "a603ba83-6d98-42b3-b7ac-6ababbba28f3",
+    "draw_title": "£100 Cell Block Grill Gift Card",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/ps100-cell-block-grill-gift-card",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "dae7edf94660b1b81b81f89efa4513e702ca1cebc17671e9bf7c800360aae525",
+    "drand_seed_hash": "83cd008322b3da89c7a62f6c377cefb9dc7ed156d732e6642754345a34c8338351fe29f2607bc8ec8a1568040a81bbad",
+    "client_seed": "1780433216325",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 2000,
+    "combined_hash": "6cf458caa2bc1ccd898c489570bd5a8b30fa003245048552266c6423af1425a6",
+    "result": "1373",
+    "external_round_id": "29209953",
+    "processing_status": "completed",
+    "created_at": "2026-06-02T20:46:56.000000Z",
+    "revealed_at": "2026-06-02T20:47:03.000000Z"
+}
