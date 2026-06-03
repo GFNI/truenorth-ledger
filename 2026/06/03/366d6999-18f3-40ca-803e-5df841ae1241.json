@@ -1,0 +1,22 @@
+{
+    "round_id": "366d6999-18f3-40ca-803e-5df841ae1241",
+    "draw_title": "🔴MINI DRAW - WIN 1000 ENTRIES INTO THE BMW",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/mini-draw-win-1000-entries-into-the-bmw",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "594d593a0a271007f034ba6dd6fa7454f21bdb8e7bf6c8b68a94bb84a9ffca21",
+    "drand_seed_hash": "874103598e66eda93a82f4b5ac3ea536cfe4793caecabdd8c2bbba9f18f112f9ba6047e999860bcaf41e3de3ed5b6c6b",
+    "client_seed": "1780515028871",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "654cf7bb696a1a72fde82d8907dfb2042e3c0893a6e861b0817f8b99d60f6814",
+    "result": "342",
+    "external_round_id": "29237224",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T19:30:28.000000Z",
+    "revealed_at": "2026-06-03T19:30:36.000000Z"
+}
