@@ -1,0 +1,22 @@
+{
+    "round_id": "b7a565b9-7d9f-4d2e-bb7e-891cd717c22e",
+    "draw_title": "£100 WINNER TAKES ALL! LOW ODDS AT 5P A TICKET - AUTODRAW!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps100-winner-takes-all-low-odds-at-5p-a-ticket-autodraw",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "2ce047eb4c0e6f6282d8f6bb398cddbf899a313c5ac314d1c2b5d832df94ed5b",
+    "drand_seed_hash": "8a148f3dc0d9389585ce7f818eab10a5c9bf8bd5046f6ca4932a252a777d600720d311166d0ca70ff451c1f873a12c6c",
+    "client_seed": "1780513836973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2512,
+    "max_tickets": 4000,
+    "combined_hash": "bb518e58bfd4c934e2e414c92c3c3fadc1ad6f183dfc1a830c62bb12c3b44d40",
+    "result": "2044",
+    "external_round_id": "29236827",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T19:10:37.000000Z",
+    "revealed_at": "2026-06-03T19:10:45.000000Z"
+}
