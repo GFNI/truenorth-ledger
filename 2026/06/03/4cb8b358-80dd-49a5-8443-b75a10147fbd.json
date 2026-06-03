@@ -1,0 +1,22 @@
+{
+    "round_id": "4cb8b358-80dd-49a5-8443-b75a10147fbd",
+    "draw_title": "Rare Find! SUPER STACK!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/rare-find-super-stack",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "cd723fe9fdcbaba4106e5f1e118a18e5b889273e639b13507b0adc3c7d557359",
+    "drand_seed_hash": "b56975908cff7e9c6c42caf2222f731eb4b490acf16b025d28a0ff4746eeaabfdb3997e15cc248e24953f34eabc08f83",
+    "client_seed": "1780519230419",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52,
+    "max_tickets": 200,
+    "combined_hash": "fbaad1442e02f4fda65b432a13c76c60ac2051b26840fa3c67b76007ff61b314",
+    "result": "84",
+    "external_round_id": "29238624",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:40:30.000000Z",
+    "revealed_at": "2026-06-03T20:40:36.000000Z"
+}
