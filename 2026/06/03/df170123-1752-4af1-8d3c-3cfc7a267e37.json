@@ -1,0 +1,22 @@
+{
+    "round_id": "df170123-1752-4af1-8d3c-3cfc7a267e37",
+    "draw_title": "Cash Bash",
+    "competition_url": "https://phatstax.co.uk/admin/products/cash-bash",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "3d8227c22948451eaa7c3da1d44e18f818a1f3cd3dc6b61a84589268cf9fa3dc",
+    "drand_seed_hash": "9941bc043046775aefc860027e19929d65f22dab3f6180df5e24426d5124e598b41c370b92fe592d447a0fa0ab6061f9",
+    "client_seed": "1780517445533",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 630,
+    "max_tickets": 1400,
+    "combined_hash": "303795b4ea87b8f8931464bf147d79e9d6022d4115b9c5e348d46bf1a8c6993a",
+    "result": "873",
+    "external_round_id": "29238029",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:10:45.000000Z",
+    "revealed_at": "2026-06-03T20:10:51.000000Z"
+}
