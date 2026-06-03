@@ -1,0 +1,22 @@
+{
+    "round_id": "81fb104e-934f-42ed-83ca-2c98b34b726c",
+    "draw_title": "£500 Cash!",
+    "competition_url": "https://skrcompetitions.co.uk/admin/products/ps500-cash",
+    "operator": {
+        "name": "SKR Competitions",
+        "website": "https://skrcompetitions.co.uk",
+        "company_number": "17230850"
+    },
+    "drand_server_seed": "9ed731463f9ccb1a19935a5492ea950fac2b59b1c2a4c56437525a6d95d4f4fb",
+    "drand_seed_hash": "a246a76ae970d138b2aa6be12a69511199010249b9caf7a3e0ffcf4ff66a7b928bcbb7ff9af655f20acc2a39924df14f",
+    "client_seed": "1780517457867",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 207,
+    "max_tickets": 5000,
+    "combined_hash": "a137e98d6d708e3581c877b151491fcd1fc1b60ae97417c08f83f351675f3850",
+    "result": "1586",
+    "external_round_id": "29238033",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:10:57.000000Z",
+    "revealed_at": "2026-06-03T20:11:03.000000Z"
+}
