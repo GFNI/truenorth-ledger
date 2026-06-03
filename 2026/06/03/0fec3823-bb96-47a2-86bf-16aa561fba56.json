@@ -1,0 +1,22 @@
+{
+    "round_id": "0fec3823-bb96-47a2-86bf-16aa561fba56",
+    "draw_title": "FREE COMPETITION - £10 Site Credit",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/free-competition-ps10-site-credit-9",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "ee4ac5b0575b1e7c25bea95efbf5c37c426fc030e8040fc54b3b38e898b0daf0",
+    "drand_seed_hash": "91af7bd4b9f1088246c1b633391f17d9e5e6d09f85f3d54cad4ca7b7ada8c03cf5eb1680f0665beea6942f5ef692980f",
+    "client_seed": "1780513829807",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 100,
+    "combined_hash": "2666a7983fbd8828e57483b779b80682e785871b3a617bebac44d1d5bb30ed32",
+    "result": "95",
+    "external_round_id": "29236824",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T19:10:29.000000Z",
+    "revealed_at": "2026-06-03T19:10:36.000000Z"
+}
