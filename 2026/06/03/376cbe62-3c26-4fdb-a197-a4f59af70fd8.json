@@ -1,0 +1,22 @@
+{
+    "round_id": "376cbe62-3c26-4fdb-a197-a4f59af70fd8",
+    "draw_title": "Take Your Pick £100 Voucher!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/take-your-pick-ps100-voucher",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "61986d40952a6967652cc1c17376729f58de8e805ef9919f2385178f85399a22",
+    "drand_seed_hash": "97dce21d2b9c5d673402c849100e815aefb8d11b178c3519eabf41d94dd14c3e720bd172515883378f32b8f5db37a1e8",
+    "client_seed": "1780514489309",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1416,
+    "max_tickets": 2000,
+    "combined_hash": "ca4fa013d4f9c53b2653c2e21ac7866ce888e2017690ec0aba6a19c13c51fb98",
+    "result": "1291",
+    "external_round_id": "29237044",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T19:21:29.000000Z",
+    "revealed_at": "2026-06-03T19:21:36.000000Z"
+}
