@@ -1,0 +1,22 @@
+{
+    "round_id": "9fa2e871-8f7a-432f-af37-0d32ccff42ba",
+    "draw_title": "💫 JANET'S Paddling pool or £75 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-paddling-pool-or-ps75",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "8d4cf815a928ed27592725d4d891ca62953779d1714697625fcad027db3e0e00",
+    "drand_seed_hash": "87a55a5c98f92af09be2e2150bd8a5b68968a29c8902fe6b787887a1d4257101a2798846fdb17377943de58ed731e4f7",
+    "client_seed": "1780497511740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47,
+    "max_tickets": 105,
+    "combined_hash": "2ab8494559b436756ba772b3af736cdccfdb26f995d0d6670d2f105ea9504890",
+    "result": "84",
+    "external_round_id": "29231385",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T14:38:31.000000Z",
+    "revealed_at": "2026-06-03T14:38:39.000000Z"
+}
