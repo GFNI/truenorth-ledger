@@ -1,0 +1,22 @@
+{
+    "round_id": "72164c90-d439-4d79-bff5-c15ce2413a08",
+    "draw_title": "£250 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/1p-instant-wins-ps250-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8b978dad7c283f1435ea78043b8d65ad6d39da92d636f77870bc0e318f89c387",
+    "drand_seed_hash": "a3ae49de3aaf89133d45d853ed0605b43771a3267d97a0ed29c6c4365aea1f5fc6a4baeda2c8a63e7345c1481b967e54",
+    "client_seed": "1780518168261",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 584900,
+    "combined_hash": "61ef15266c1ecb9cb5e900920611ae23632e7075644c2ce1859e3e96f3e686bb",
+    "result": "260946",
+    "external_round_id": "29238270",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:22:48.000000Z",
+    "revealed_at": "2026-06-03T20:22:58.000000Z"
+}
