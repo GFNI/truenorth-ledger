@@ -1,0 +1,22 @@
+{
+    "round_id": "941d8d6d-5e5c-410b-bbf7-b1bb52de3ae9",
+    "draw_title": "PRIZE EVERY TIME - £1,000 END PRIZE - £1.99",
+    "competition_url": "https://easybigwins.co.uk/admin/products/prize-every-time-ps1000-end-prize-ps199-3",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "681129502a39d0e315ebe8065ff439d2efb4017d795602e3866f4332aa3e2921",
+    "drand_seed_hash": "84e080c84531025e280f3b4d330f965da68e35939f966da84a3a4e197db8f85a8a356cf5cb158b25bb914ada1ce49aa7",
+    "client_seed": "1780519070654",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "5dafac074453ae02b908692db82712a6153c82904f5f2a4063e36241e6ca0c9a",
+    "result": "12598",
+    "external_round_id": "29238571",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:37:50.000000Z",
+    "revealed_at": "2026-06-03T20:37:57.000000Z"
+}
