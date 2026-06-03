@@ -1,0 +1,22 @@
+{
+    "round_id": "26841eca-aa49-458b-a682-1e3ea60ae75a",
+    "draw_title": "WIN 2000 TICKETS IN £300K COMP",
+    "competition_url": "https://easybigwins.co.uk/admin/products/win-2000-tickets-in-ps300k-comp",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "00e3b3387977f7404ae1062be6482b1557de6560562afae7b634b4d8bcc82ab5",
+    "drand_seed_hash": "85a2fd12cc3dfb00ba80e6e7d71ad006d48fe6115b6261e1dd2cbdf31216aa0473c202818097edadcd8b3bfad710bb12",
+    "client_seed": "1780518742694",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "05bc3aadf8f92a60a09d30ab014f686bdfa80425592cc1300e4303342a23be02",
+    "result": "390",
+    "external_round_id": "29238462",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:32:22.000000Z",
+    "revealed_at": "2026-06-03T20:32:30.000000Z"
+}
