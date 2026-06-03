@@ -1,0 +1,22 @@
+{
+    "round_id": "3cc9d0dc-6101-462c-9806-2e22683ef8db",
+    "draw_title": "B&M Gift Card",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-bm-gift-card-with-5-x-ps50s",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "41692feda779d34a7bacc9d65c92b48eaf096e2f95606675e2da71b41aacd688",
+    "drand_seed_hash": "a6c4dcad74473249fc6fb82a2c61ae2123386861c9495f2c1ae17e3058ec415cf44494bda9f9d54936c652c942968cde",
+    "client_seed": "1780518080110",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1866,
+    "combined_hash": "9339090da3f61b7df207c9629f0f7788022aff0ef4f265da8ac10a4ef31e27b1",
+    "result": "110",
+    "external_round_id": "29238240",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:21:20.000000Z",
+    "revealed_at": "2026-06-03T20:21:29.000000Z"
+}
