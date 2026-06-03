@@ -1,0 +1,22 @@
+{
+    "round_id": "a20846a2-f5ee-4f96-ba88-f03dd3853531",
+    "draw_title": "£2,000 + Instants",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps2000-instants-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "b3c2be99099efff5807e777a66d0538a4082822522840a579a5af141ef78160b",
+    "drand_seed_hash": "a78daeef3553b3c22a26a2011abdd3a3cf1855dcb4b5b587dea4c5e26e170dfee27793680d70c7143a16020c444e96b5",
+    "client_seed": "1780517463579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1678,
+    "max_tickets": 4000,
+    "combined_hash": "1ca38aa8c02412ecc41d5347a137f7b1734e55e60e50c41d915f23520fa0ee19",
+    "result": "2013",
+    "external_round_id": "29238035",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T20:11:03.000000Z",
+    "revealed_at": "2026-06-03T20:11:09.000000Z"
+}
