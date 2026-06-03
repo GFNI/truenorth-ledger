@@ -1,0 +1,22 @@
+{
+    "round_id": "60074227-d4ac-4b0c-bcc6-79feba926a88",
+    "draw_title": "POP YOUR CHERRY SLOTS! £10,000 INSTANT WIN COMPETITION FOR JUST 5P A TICKET!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/pop-your-cherry-slots-ps10000-instant-win-competition-for-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "f237583c76f1cb898185654f8e3e81396e5b3c6b9311ad66945b56fc39de37bb",
+    "drand_seed_hash": "a15b1556e852dcff8e65b38c9cd34399c17f25269b95ed856cdd119167b44243985660d42a8e81d06b53af1bcbd85f28",
+    "client_seed": "1780514839016",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81725,
+    "max_tickets": 400000,
+    "combined_hash": "3cf48dca6f873685527550f0c988b4b8547848cf85611209f7cd9821dd4d901d",
+    "result": "300733",
+    "external_round_id": "29237161",
+    "processing_status": "completed",
+    "created_at": "2026-06-03T19:27:19.000000Z",
+    "revealed_at": "2026-06-03T19:27:27.000000Z"
+}
