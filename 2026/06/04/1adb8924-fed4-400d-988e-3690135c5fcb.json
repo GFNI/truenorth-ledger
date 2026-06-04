@@ -1,0 +1,22 @@
+{
+    "round_id": "1adb8924-fed4-400d-988e-3690135c5fcb",
+    "draw_title": "Fairy Super Bundle",
+    "competition_url": "https://jetcomps.co.uk/admin/products/fairy-super-bundle",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "3853b1cb744af05d7913625e268f234475ea158b84ae3544e74769706d841773",
+    "drand_seed_hash": "b4123a8b0a18a4bbc07c3fe70e420a85fc3e4ed9333d585b5d836e39ab22ae385655e21f931397e0cfc7982afb5fcc69",
+    "client_seed": "1780601577177",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3500,
+    "max_tickets": 3500,
+    "combined_hash": "090c53a54c42b446a928cd0005f9356adc6058604cd0ffa9a72adbbeb421d0ec",
+    "result": "3210",
+    "external_round_id": "29266073",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T19:32:57.000000Z",
+    "revealed_at": "2026-06-04T19:33:03.000000Z"
+}
