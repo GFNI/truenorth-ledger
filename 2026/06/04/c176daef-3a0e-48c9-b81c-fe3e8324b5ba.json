@@ -1,0 +1,22 @@
+{
+    "round_id": "c176daef-3a0e-48c9-b81c-fe3e8324b5ba",
+    "draw_title": "TESTc 2",
+    "competition_url": "https://jetcomps.co.uk/admin/products/testc-2-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "d01b268336a1890dff7443dca3b454d36d3426e071cd6f096a8479c62f3ae57d",
+    "drand_seed_hash": "84a7c372bb7cade0485d3ee292cac116a251c51f81cca6cd8159b17af08a9932783064e3dffbebd268854806098b8a8e",
+    "client_seed": "1780577921491",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 25,
+    "combined_hash": "106a2f13b150d0d780d012c8f75ba989742a75d4fbcd4e2e30ca6daefb0109c1",
+    "result": "24",
+    "external_round_id": "29258188",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T12:58:41.000000Z",
+    "revealed_at": "2026-06-04T12:58:48.000000Z"
+}
