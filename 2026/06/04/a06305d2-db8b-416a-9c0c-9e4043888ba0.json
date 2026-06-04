@@ -1,0 +1,22 @@
+{
+    "round_id": "a06305d2-db8b-416a-9c0c-9e4043888ba0",
+    "draw_title": "BANGERS & SMASH THE PINATA",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/bangers-smash-the-pinata",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "ba86131783f7548d89c287c96e47a8d9c2218382142112e5545a8f621dde87fc",
+    "drand_seed_hash": "81d5602089e822579949a63b007babab15fe7782eb560992b4be6d53a32cfa60ff753e68895d27c0efe6221b17624e6b",
+    "client_seed": "1780606677777",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8041,
+    "max_tickets": 30000,
+    "combined_hash": "4ec9c75e08eb710699db42605c8b62fc4d26e5bf0a3c865fb0489f42ffd16248",
+    "result": "1503",
+    "external_round_id": "29267773",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T20:57:57.000000Z",
+    "revealed_at": "2026-06-04T20:58:03.000000Z"
+}
