@@ -1,0 +1,22 @@
+{
+    "round_id": "6d6aa250-42f5-4098-b4f7-ff6d93ca9bdb",
+    "draw_title": "40 Tickets into Monday Night Raw or Competition",
+    "competition_url": "https://proprizes.co.uk/admin/products/40-tickets-into-monday-night-raw-or-competition",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "96defb5ae8ae0920a2cffd25cbbeed0cff675afbe30f381f50aaffa64b81de7f",
+    "drand_seed_hash": "8a13c3cb3dc262413fd9e02837c056e08d8793afa3d15b32178be360cdda187ad1660976026301b023249f3cb76ca1a8",
+    "client_seed": "1780600260554",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 99,
+    "combined_hash": "2fe1ad6c0552360fa3bc960701e6c95e44ea27b4d1daf711cbaabf24d2d1d16b",
+    "result": "26",
+    "external_round_id": "29265634",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T19:11:00.000000Z",
+    "revealed_at": "2026-06-04T19:11:06.000000Z"
+}
