@@ -1,0 +1,22 @@
+{
+    "round_id": "98c3fd44-7235-4619-99ff-71914cc934ff",
+    "draw_title": "5,000 Tickets into Lanzarote or £2,500 Competition #3",
+    "competition_url": "https://proprizes.co.uk/admin/products/5000-tickets-into-lanzarote-or-ps2500-competition-3",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "8ec49774389d7a7ec0b2870f743bc1ae771a2b567a78e405066c61dd12a00ac3",
+    "drand_seed_hash": "a9f962ec56a37f4d527827fede79a6355bd63f6cd6c2852b180e212384be9b1341fc6e32bc00513f8a90748c3024ac6f",
+    "client_seed": "1780567829679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33,
+    "max_tickets": 50,
+    "combined_hash": "44127fee4a9a7a00bb8b792cf4e01f1d8534219aa3593df725bd51ed4e8d73cf",
+    "result": "7",
+    "external_round_id": "29254824",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T10:10:29.000000Z",
+    "revealed_at": "2026-06-04T10:10:36.000000Z"
+}
