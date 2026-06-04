@@ -1,0 +1,22 @@
+{
+    "round_id": "e4f3c4fc-d6f0-44c0-bffa-c96a3d332276",
+    "draw_title": "Lego Technic Koenigsegg Jesko",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/lego-technic-koenigsegg-jesko",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "a13ad7170932146f2f5a7690da960e51a610f8f779d9b94e0e7f91f5b45863fb",
+    "drand_seed_hash": "9227bbb8361e6e31903351a9023bb89529e88ab612bc4bffcb617d2ec6bc87352a7c5fc39d5843438f6894eaa68f23fc",
+    "client_seed": "1780600236580",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 210,
+    "max_tickets": 280,
+    "combined_hash": "39d7e451f018da979d41579c20f3a738e0b466a86baa1019364ad9b9114a07b3",
+    "result": "202",
+    "external_round_id": "29265626",
+    "processing_status": "completed",
+    "created_at": "2026-06-04T19:10:36.000000Z",
+    "revealed_at": "2026-06-04T19:10:42.000000Z"
+}
