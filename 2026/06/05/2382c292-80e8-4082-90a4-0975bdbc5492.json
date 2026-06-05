@@ -1,0 +1,22 @@
+{
+    "round_id": "2382c292-80e8-4082-90a4-0975bdbc5492",
+    "draw_title": "50X BAIT BOATS - £500 SC END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/50x-bait-boats-ps500-sc-end-draw-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "0a3d8ca867fc29de384c47ff3f1514f7b114af35439cd7786fa1573cfcb55b45",
+    "drand_seed_hash": "b1df9b8182f40c51407405cf029d3a20ff1cccba19a4b8ac0f94514a8cf38781e4db2ee96d39de428694a45793a1dc43",
+    "client_seed": "1780686642474",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3585,
+    "max_tickets": 75924,
+    "combined_hash": "921d90915f5e6793898f6d355293d884c14fddc1dc3145826cac8f5697084d39",
+    "result": "45615",
+    "external_round_id": "29294428",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T19:10:42.000000Z",
+    "revealed_at": "2026-06-05T19:10:48.000000Z"
+}
