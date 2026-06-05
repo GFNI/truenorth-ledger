@@ -1,0 +1,22 @@
+{
+    "round_id": "78818d8c-04f2-4da9-9289-62ed97265ff6",
+    "draw_title": "Hook A Duck - £4k In Instant Wins",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/hook-a-duck-ps4k-in-instant-wins",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "3850c5e043ebdfe0f0d944e2ea4b5c937a97d59d015f64d0373c97b5c9c2fe90",
+    "drand_seed_hash": "8c3064301854ca17cbd35191ba55d7d3d6091edabc1403fc61caffcb712c1a01eecab421f0280c462beb417143c6b71d",
+    "client_seed": "1780683030847",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9361,
+    "max_tickets": 40000,
+    "combined_hash": "db8f69b2b333af1be3de2af3ce85493827f4ad8edc67c9d22344d9367b31b810",
+    "result": "22556",
+    "external_round_id": "29293224",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T18:10:30.000000Z",
+    "revealed_at": "2026-06-05T18:10:36.000000Z"
+}
