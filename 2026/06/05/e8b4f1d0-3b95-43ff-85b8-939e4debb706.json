@@ -1,0 +1,22 @@
+{
+    "round_id": "e8b4f1d0-3b95-43ff-85b8-939e4debb706",
+    "draw_title": "WIN AN AIR UP STARTER KIT IN CHOICE OF COLOUR (CASH ALTERNATIVE AVAILABLE)",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-an-air-up-starter-kit-in-choice-of-colour-cash-alternative-available",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "faa534717e70976bbb1a03ccdb4d0fc02e0e6f5c5ca277bfc2db1c6a2728282f",
+    "drand_seed_hash": "b4d98aebcd79939474127e7c21d8e011bb42a37c8e33c45a6521ac1093169715533d2b493d08506a07e72f62c30538ec",
+    "client_seed": "1780700429037",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15,
+    "max_tickets": 90,
+    "combined_hash": "99a1771e25e400a5cf8476cfd7785615a44389b5944e413ad5b767c931eb0df6",
+    "result": "14",
+    "external_round_id": "29299024",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T23:00:29.000000Z",
+    "revealed_at": "2026-06-05T23:00:36.000000Z"
+}
