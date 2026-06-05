@@ -1,0 +1,22 @@
+{
+    "round_id": "a83e5278-b84b-4a58-8370-43c9e979e2a0",
+    "draw_title": "Betty's Bingo",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/bettys-bingo-wins",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "995b8141a0131465e7aa3abc21bc65757531b79a36472e707b0d1654cf9b3008",
+    "drand_seed_hash": "943eac61a9418905c2f3b0fbda127c40da0d4ae73de2c9178d64f833ce1e827ebc5feab3b1d714cf3f10c26bbc13d295",
+    "client_seed": "1780683036564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3670,
+    "max_tickets": 15000,
+    "combined_hash": "3c3b9560609be8468551e4e7d321dd5db338805f9081b3683c4f09a507f49fc6",
+    "result": "2765",
+    "external_round_id": "29293226",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T18:10:36.000000Z",
+    "revealed_at": "2026-06-05T18:10:42.000000Z"
+}
