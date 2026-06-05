@@ -1,0 +1,22 @@
+{
+    "round_id": "db84d616-4d4c-428f-9ac3-6c277441c506",
+    "draw_title": "300 Entries to New \"20p Instant Wins\"",
+    "competition_url": "https://a9competitions.co.uk/admin/products/300-entries-to-new-20p-instant-wins",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "1c4b7967a4df8de10fb189da08be944021c900a28315d742fc27caa67775cc2b",
+    "drand_seed_hash": "8b73c9a602402649ff67a677786203c58aafb29917cde90cc7189cdb12161d659405b9a821b8e4ca148a2c8b0e5c467f",
+    "client_seed": "1780691442486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 117,
+    "max_tickets": 180,
+    "combined_hash": "c055a17da33f681ef6c0e18edc4e53fb856b9d53cb698b97ba46b37b30360c73",
+    "result": "129",
+    "external_round_id": "29296028",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T20:30:42.000000Z",
+    "revealed_at": "2026-06-05T20:30:48.000000Z"
+}
