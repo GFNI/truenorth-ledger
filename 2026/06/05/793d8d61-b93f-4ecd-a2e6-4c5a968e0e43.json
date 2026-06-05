@@ -1,0 +1,22 @@
+{
+    "round_id": "793d8d61-b93f-4ecd-a2e6-4c5a968e0e43",
+    "draw_title": "iPhone OR Samsung OR £850 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/iphone-17-pro-or-samsung-s26-or-ps850-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "01c8102c73d896460bce518e28c0f2614d1232da0ca0a9ac165b8d80b4d3a46a",
+    "drand_seed_hash": "b3c2b185052909a0777497184ac399b05e76709eba4d69d44fb34faf3325df0c303420e71167e02b6d1eb56b3d992dfd",
+    "client_seed": "1780694461173",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1840,
+    "combined_hash": "056730df23a5bd737715079fa395e237cb713b1282a2799c76c6baf4eb80d6c3",
+    "result": "1110",
+    "external_round_id": "29297035",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T21:21:01.000000Z",
+    "revealed_at": "2026-06-05T21:21:09.000000Z"
+}
