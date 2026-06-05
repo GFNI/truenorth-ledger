@@ -1,0 +1,22 @@
+{
+    "round_id": "54238117-06f5-4f7f-b479-b3eb81afa2b6",
+    "draw_title": "The Hull Phone Box Drop",
+    "competition_url": "https://wincredible.uk/admin/products/the-hull-phone-box-drop",
+    "operator": {
+        "name": "Wincredible Ventures Ltd",
+        "website": "https://wincredible.uk",
+        "company_number": "17200732"
+    },
+    "drand_server_seed": "ab4c6a73503d9b8a674d706dfaffb517a332aad68b2b14d510af929126675df2",
+    "drand_seed_hash": "af3b3b01e49a36eb68237ffd81430cc972f2ea82dfb56b8e33139d9a47acdce6a0453923692603126ffc4a4ea44db188",
+    "client_seed": "1780686835279",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201,
+    "max_tickets": 1300,
+    "combined_hash": "41dcc333b3cd88ba5747f366551a0f3957a0326a7400c8e05c289a7aab79df03",
+    "result": "1122",
+    "external_round_id": "29294492",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T19:13:55.000000Z",
+    "revealed_at": "2026-06-05T19:14:00.000000Z"
+}
