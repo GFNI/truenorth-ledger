@@ -1,0 +1,22 @@
+{
+    "round_id": "fc2d4443-4831-41f7-ab5b-386a7dd68740",
+    "draw_title": "3x SONIK XTRACTOR + RODS PLUS 10x SONIK INSTANT WINS",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/3x-sonik-xtractor-rods-plus-10x-sonik-instant-wins",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "4df6c10a6b8d9b6d961fe83c316f9a3037911b123abfd9b10cb3459060a3e345",
+    "drand_seed_hash": "b036b0508d8177e80f3c7182d11f9625ecd3b1cecd538f322ea8447899699713d58d8c6c59aab257cb8ea430bb0883f4",
+    "client_seed": "1780686648530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11744,
+    "max_tickets": 56999,
+    "combined_hash": "49dec4d51aad40a73aeac3aacded535817d58585f45de85c909279eb9b956bb8",
+    "result": "14891",
+    "external_round_id": "29294430",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T19:10:48.000000Z",
+    "revealed_at": "2026-06-05T19:10:54.000000Z"
+}
