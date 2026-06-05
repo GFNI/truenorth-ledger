@@ -1,0 +1,22 @@
+{
+    "round_id": "eade90fd-734f-4ee0-8d2c-2c8bd8b31ee3",
+    "draw_title": "£600 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/lucky-sixpence-ps600-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "93ae14cfc0e108eb79c3dc5c9f39d9286f47235c3b68e2f4626dfd5ee86f0247",
+    "drand_seed_hash": "b9c4705e4d64baf13f7ffd0e40c4f0b5bf70723ab86c8fbed2bb54663803e942a561c2ee2129bda6fcd3601447d81fd4",
+    "client_seed": "1780694277605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 210000,
+    "combined_hash": "cfcc5414989a3fc238ada336600888dc97d8ecb70ae008d5d0e4a10ece47f145",
+    "result": "61776",
+    "external_round_id": "29296973",
+    "processing_status": "completed",
+    "created_at": "2026-06-05T21:17:57.000000Z",
+    "revealed_at": "2026-06-05T21:18:07.000000Z"
+}
