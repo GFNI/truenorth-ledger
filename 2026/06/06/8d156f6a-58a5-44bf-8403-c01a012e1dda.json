@@ -1,0 +1,22 @@
+{
+    "round_id": "8d156f6a-58a5-44bf-8403-c01a012e1dda",
+    "draw_title": "Lay-z-spa Paris Airjet or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/lay-z-spa-paris-airjet-or-cash-9709",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "3bd58719fc46c7fb3f28121b87066771a07cd9cb5253ab87d74a0f5efbd345d9",
+    "drand_seed_hash": "af142e2d961fe0db1d8efc56f43800fadfac5d6e1daad6c61e15cbd5a43b6eec619d155de71a158d6b8acb63a774e810",
+    "client_seed": "1780776486070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7000,
+    "max_tickets": 7000,
+    "combined_hash": "549c6bc708e9b8a9dbec570a9afdd1b9e9ff7d6f84e82a9682ad787f5e5d58d6",
+    "result": "5357",
+    "external_round_id": "29324376",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T20:08:06.000000Z",
+    "revealed_at": "2026-06-06T20:08:12.000000Z"
+}
