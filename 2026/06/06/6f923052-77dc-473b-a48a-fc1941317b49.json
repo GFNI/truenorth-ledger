@@ -1,0 +1,22 @@
+{
+    "round_id": "6f923052-77dc-473b-a48a-fc1941317b49",
+    "draw_title": "Cluck & Collect",
+    "competition_url": "https://chaotic.co.uk/competition/cluck-collect-1380",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "cf11de833e51e522333d4ca6387d7370874274cb108934e968995b8cc4cb216b",
+    "drand_seed_hash": "b65afad8c672c3dc6984f43a321f9ee677e22be282930dc198534b0d642d0f52c3c003ea2bdddc2483b3500ddf2242a7",
+    "client_seed": "1780775372704",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "67d0424ec8cfd29e03a48a12323e1620665c17856a1ae848c284cfb173767ea9",
+    "result": "2889",
+    "external_round_id": "29324005",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T19:49:32.000000Z",
+    "revealed_at": "2026-06-06T19:49:39.000000Z"
+}
