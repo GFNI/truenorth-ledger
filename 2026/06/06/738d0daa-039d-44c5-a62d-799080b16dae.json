@@ -1,0 +1,22 @@
+{
+    "round_id": "738d0daa-039d-44c5-a62d-799080b16dae",
+    "draw_title": "Destined Rivals Half Booster Box",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/destined-rivals-half-booster-box",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "0783fbcceae4fe8b97ab8cad046b5d1dff406554f9ae8984e689d605122a6d82",
+    "drand_seed_hash": "89f612acfcd60d72b15eb3e31ff7fd52bcec0856621c090e0a7b918a6a657331d0dcc05ffad7e075317950ec3ce2f335",
+    "client_seed": "1780780229737",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 205,
+    "max_tickets": 300,
+    "combined_hash": "9bd7e24e09f96063fd6a4ee3857359dcda545ac8c525ecdd4f55788e5f448de7",
+    "result": "180",
+    "external_round_id": "29325624",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T21:10:29.000000Z",
+    "revealed_at": "2026-06-06T21:10:36.000000Z"
+}
