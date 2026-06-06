@@ -1,0 +1,22 @@
+{
+    "round_id": "0fc7546e-d8e1-4151-8c59-df49792457ed",
+    "draw_title": "WIN A FREE £25 TAKEAWAY ON ME",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-free-ps25-takeaway-on-me-7",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "7b8689696fd264371fd9242dfed42033618ffae4afa5c51f5359805a516e2807",
+    "drand_seed_hash": "a70bcebdc68fd68aee8c3a5afd70ace14f84726d8f6a2d459f6d72b405a40a7b72090b2d15f232da77b3358a5f22a2ea",
+    "client_seed": "1780782029353",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 213,
+    "max_tickets": 250,
+    "combined_hash": "4c1ff8a316c175578164783b81e16911fdcf2bc254864bfe23ecf0cf8c790ecc",
+    "result": "149",
+    "external_round_id": "29326224",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T21:40:29.000000Z",
+    "revealed_at": "2026-06-06T21:40:36.000000Z"
+}
