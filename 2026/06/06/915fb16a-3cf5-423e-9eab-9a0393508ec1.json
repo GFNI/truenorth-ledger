@@ -1,0 +1,22 @@
+{
+    "round_id": "915fb16a-3cf5-423e-9eab-9a0393508ec1",
+    "draw_title": "Treasure Trunk",
+    "competition_url": "https://chaotic.co.uk/competition/treasure-trunk-2324",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "1d1e2820512449d0f79896bcb9e4f4a829642aae19e2c242cd44df756b2a4519",
+    "drand_seed_hash": "a6c29085916d8616d45a5c5cad0a7c174805f443fe7ab74f3d6c52160cfd1ffab01ff4c96683a4a2f8dc7fa22f05a298",
+    "client_seed": "1780774590244",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500000,
+    "max_tickets": 500000,
+    "combined_hash": "19b87db8625536060964ee775049bf7bf696568a869b2f219ac982fdda0dc2e2",
+    "result": "246874",
+    "external_round_id": "29323744",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T19:36:30.000000Z",
+    "revealed_at": "2026-06-06T19:36:36.000000Z"
+}
