@@ -1,0 +1,22 @@
+{
+    "round_id": "401be262-7110-478e-95c1-3456c17f930b",
+    "draw_title": "Ninja Double Stack or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/ninja-double-stack-or-cash-1166",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ef2b92f8e798b114bb538ad2dfe8e2dbfdde998ee18b4046c38744cd8f25fd51",
+    "drand_seed_hash": "a3ea3fd6c04976d9bcfc599dfc7730444fb8f284b803ba52deb3d25a521ec148204da22f08c14144550fab5522c01bfb",
+    "client_seed": "1780776437275",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 485,
+    "max_tickets": 600,
+    "combined_hash": "44a6619f7fe5b574ac3bc4c360498cc9eca507cead226fbde591117ad88d0ab1",
+    "result": "101",
+    "external_round_id": "29324360",
+    "processing_status": "completed",
+    "created_at": "2026-06-06T20:07:17.000000Z",
+    "revealed_at": "2026-06-06T20:07:24.000000Z"
+}
