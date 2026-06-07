@@ -1,0 +1,22 @@
+{
+    "round_id": "4c1deebc-30b8-4a27-9aa2-c28a1912f49a",
+    "draw_title": "£500 Shopping Voucher Of Your Choice",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ps500-shopping-voucher-of-your-choice",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "03a23946f872701ac2f314e6aaec19a86dbc089cf88f4d218177e459368b04cf",
+    "drand_seed_hash": "931dd449a724e45e00d6de255b9f6e36c9360a2477e0b16edec7f249a09669cf93c891c3fa0fca74742065c35a774e0c",
+    "client_seed": "1780861493316",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38050,
+    "max_tickets": 47688,
+    "combined_hash": "cce7db40f2a05cfa3ad143fd46a30b8e5e91133eb3419cf19932ab765799cf30",
+    "result": "8765",
+    "external_round_id": "29352712",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:44:53.000000Z",
+    "revealed_at": "2026-06-07T19:45:00.000000Z"
+}
