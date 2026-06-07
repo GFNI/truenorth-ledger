@@ -1,0 +1,22 @@
+{
+    "round_id": "0ef11128-91b0-4619-80ca-323b7a9591b2",
+    "draw_title": "Scratch Card Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/scratch-card-instant-wins",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "ec527fdb87d56a7027c83fe81a59ff70c404627c178336cf4a6cd596d37401d8",
+    "drand_seed_hash": "8369eb1d5a09d6eae60b8a33ec07227d71cbd59c1f00088c8b9bace2a1206c00aa60ce2cc377027f59938ce834348d05",
+    "client_seed": "1780864254434",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 831,
+    "max_tickets": 4200,
+    "combined_hash": "02074562b5f961ea89f627cb6525ef8d849a126a0304e098d0dacca71b4e0e10",
+    "result": "1947",
+    "external_round_id": "29353632",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T20:30:54.000000Z",
+    "revealed_at": "2026-06-07T20:31:00.000000Z"
+}
