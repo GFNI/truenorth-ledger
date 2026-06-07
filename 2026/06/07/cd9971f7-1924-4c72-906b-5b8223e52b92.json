@@ -1,0 +1,22 @@
+{
+    "round_id": "cd9971f7-1924-4c72-906b-5b8223e52b92",
+    "draw_title": "WIN AN XBOX SERIES X + INSTANT WINS",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/xboxinstas",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "707be8984f71bd55fb0755e6310311fba93ce8b4bed450e46b0a2fa77ba8859b",
+    "drand_seed_hash": "a8a8704822122009879b6251ffbe33b540686c3d1cac86df1be20a9b7904b73f97fe85b457ab67cfbf64437e8e75fe98",
+    "client_seed": "1780861389437",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200000,
+    "max_tickets": 200000,
+    "combined_hash": "467a5e478bc7e7e8b16eff57cec444801ab0d23465c67b784a86c647c372b57b",
+    "result": "174023",
+    "external_round_id": "29352677",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:43:09.000000Z",
+    "revealed_at": "2026-06-07T19:43:15.000000Z"
+}
