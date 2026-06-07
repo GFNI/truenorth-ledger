@@ -1,0 +1,22 @@
+{
+    "round_id": "2614c30a-4747-4ae0-9bc9-f82cf8b85e15",
+    "draw_title": "Smart Misting Fan",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/smart-misting-fan",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "9c796559a5a8f73a9c67db4574d3087cac19e3d6a5e832b4fddac292b455eb7a",
+    "drand_seed_hash": "90a98d0c2dc1677dd7d4ed8c322dadbe8b66d4a349b6dad0ba47f25df90bdb10a28ae71808b6cfde1f2fd40459eaba9b",
+    "client_seed": "1780860244275",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 250,
+    "combined_hash": "b1fb8997e8e569edf6b5357ea50f2921d378df1f4edbb089e9cdbf82a9b6e446",
+    "result": "232",
+    "external_round_id": "29352295",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:24:04.000000Z",
+    "revealed_at": "2026-06-07T19:24:09.000000Z"
+}
