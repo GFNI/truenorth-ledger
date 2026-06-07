@@ -1,0 +1,22 @@
+{
+    "round_id": "09ed2cf7-41c0-422b-aa27-84e1ea5e3916",
+    "draw_title": "Ninja Thirsti #3 (Black)",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ninja-thirsti-3-black-8293",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "67d17324a8020be354876e09700ef6d6a8e2304a24aca24b153453124a29ca27",
+    "drand_seed_hash": "8631f721de0a9b2c1945836221549ab8d83027bce4215f49c75efa7dc0e6c12b77a923dc20d73f77dafe60bbd08d0551",
+    "client_seed": "1780859944205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 120,
+    "combined_hash": "d6a88e4fae992a5ff1e9baaa53d311ea058d0d2fc26a4d8cfc7890bfa5ca9b6d",
+    "result": "79",
+    "external_round_id": "29352195",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:19:04.000000Z",
+    "revealed_at": "2026-06-07T19:19:09.000000Z"
+}
