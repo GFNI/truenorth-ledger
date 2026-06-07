@@ -1,0 +1,22 @@
+{
+    "round_id": "b37e7240-99bd-4ea0-9181-392efc43872e",
+    "draw_title": "£1,000 CASH -",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps1000-cash",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "71655c0565eac20f07cb1ff202960c485903210e77c49f5cc2840351bcfec626",
+    "drand_seed_hash": "852aca3bb2c6dac0b68384db5783e39ed4001ad20cb69946f1515a046554a42cf6650e17ddfc7ccdce2c96de3c50e176",
+    "client_seed": "1780863599191",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248,
+    "max_tickets": 300,
+    "combined_hash": "f998f018ed03512209da94a63306cadd481d9be64fd58b97cd7f504e4fa4974b",
+    "result": "186",
+    "external_round_id": "29353414",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T20:19:59.000000Z",
+    "revealed_at": "2026-06-07T20:20:06.000000Z"
+}
