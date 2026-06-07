@@ -1,0 +1,22 @@
+{
+    "round_id": "b31493b6-e3bc-498f-aaad-12a303f4c582",
+    "draw_title": "Find The Shooting Star - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/find-the-shooting-star-ps250-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "1aca53900a817c86a60b014db3e65bb2f9878ecfa338d1e04970edf9616167b3",
+    "drand_seed_hash": "8030c72d4936ddf314a5b84b5b50fefcb8977181ab9af8c41a9ab45cb2d9df5940e5dddc618f4207ecea78eabd0acd2d",
+    "client_seed": "1780861073024",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49250,
+    "max_tickets": 49250,
+    "combined_hash": "81931807a4e0c70aa30f24b41992ae0c677d0aa9a086b866fff84bb7f05fd301",
+    "result": "13888",
+    "external_round_id": "29352571",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:37:53.000000Z",
+    "revealed_at": "2026-06-07T19:37:57.000000Z"
+}
