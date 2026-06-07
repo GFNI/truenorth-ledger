@@ -1,0 +1,22 @@
+{
+    "round_id": "6c6d9c74-394f-4ee4-969a-168be88ee526",
+    "draw_title": "Pokémon Prismatic Evolutions Super Premium Collection + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-prismatic-evolutions-super-premium-collection-instant-wins-5",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "54e59a66887de53f88c07b2e94b15f179f502215953f14f298fbd7a1c19e8977",
+    "drand_seed_hash": "b1097ec66ae570f368d2a2e736ccecc7a4b50baa0c80b99306b040ed66f94dc69e3e611ab41f9df3bd926f0d6c047da9",
+    "client_seed": "1780868384528",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 545,
+    "max_tickets": 1066,
+    "combined_hash": "16c3474cdcd61f2d77178371ea98ef4065c7d68deb22107228391700b7c4925c",
+    "result": "39",
+    "external_round_id": "29355009",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T21:39:44.000000Z",
+    "revealed_at": "2026-06-07T21:39:51.000000Z"
+}
