@@ -1,0 +1,22 @@
+{
+    "round_id": "c7d1a998-ab56-4553-9a66-3fa1f3114cb3",
+    "draw_title": "Connor’s Play Dungeon",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/connors-play-dungeon",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "76e1bfdc796052fe11aafcebdc8c93387f24883e875fa4f89fe44cf10f37dccd",
+    "drand_seed_hash": "b36c902bfb893258b639610c38b06a0c6f53aec6820513c640497c6a1e2395c4fef917c2ce29082e1e6d82d344e41c28",
+    "client_seed": "1780860913649",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 148,
+    "max_tickets": 250,
+    "combined_hash": "33313846bd89881dd3f1abf89f67584a51fbebca901ab75397573a9e5e35cfda",
+    "result": "232",
+    "external_round_id": "29352519",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:35:13.000000Z",
+    "revealed_at": "2026-06-07T19:35:21.000000Z"
+}
