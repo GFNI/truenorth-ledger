@@ -1,0 +1,22 @@
+{
+    "round_id": "da328f74-b677-4ed2-93bf-44f6d7577e4e",
+    "draw_title": "Win A Ninja Swirl",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/win-a-ninja-swirl",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "915de2641c8c22c332e22794e770e5312c1d44976261a2f6111afa3439a099f0",
+    "drand_seed_hash": "83c80aef6081a9b0ba54f99190b04ba01f5b7578b3dee38c85ac84fa2a14841c4dddf11ec8f4a3621137be732507740c",
+    "client_seed": "1780861114637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4505,
+    "max_tickets": 8500,
+    "combined_hash": "10449c94c9aeabc65e14121ad62352625e03048776765d8a393b0fee7ac381b9",
+    "result": "6509",
+    "external_round_id": "29352585",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T19:38:34.000000Z",
+    "revealed_at": "2026-06-07T19:38:39.000000Z"
+}
