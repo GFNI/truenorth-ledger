@@ -1,0 +1,22 @@
+{
+    "round_id": "1e0ab301-8750-4ff1-a22c-335c5385857d",
+    "draw_title": "£500 CASH + CASH INSTANT WINS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ps500-cash-cash-instant-wins",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "b6a7f6c36238f6ff95bf76f03fbcccc332f39b07510292beaa52506a6a6b478a",
+    "drand_seed_hash": "ab74c648e2d8c0d0a3bcc0da9230776ba839e24e2db0b48626a08750383f3d908874af133286f3c97c60d4e7020d3aa7",
+    "client_seed": "1780864104405",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 259,
+    "max_tickets": 259,
+    "combined_hash": "cf7a6c0ffcde67b49d12f4dd55b38925436fcf00c6c12706827ba4bc8ca76bc9",
+    "result": "150",
+    "external_round_id": "29353582",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T20:28:24.000000Z",
+    "revealed_at": "2026-06-07T20:28:30.000000Z"
+}
