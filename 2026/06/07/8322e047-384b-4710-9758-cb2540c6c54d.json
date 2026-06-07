@@ -1,0 +1,22 @@
+{
+    "round_id": "8322e047-384b-4710-9758-cb2540c6c54d",
+    "draw_title": "Launch Giveaway! Win £300 Cash Prize! Free Entry! 🎉",
+    "competition_url": "https://PrizeFlow.co.uk/admin/products/prizeflow-launch-giveaway",
+    "operator": {
+        "name": "PrizeFlow Ltd",
+        "website": "https://PrizeFlow.co.uk",
+        "company_number": "16748682"
+    },
+    "drand_server_seed": "0dd2c1da2184636bc600b11091ba1d45a6b2e29a2e214adf4c01039a28fac8b1",
+    "drand_seed_hash": "85b292c6db3fbb497ed16141d988884b469845ff8ce5766ebb40e38d66df2865d53ca070b3311dcaf4446480074d2e3b",
+    "client_seed": "1780852231219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 288,
+    "max_tickets": 7500,
+    "combined_hash": "f40bf7791cf159c1c56bac312fe29dd34dee88be74c50357440a0debfdef282f",
+    "result": "1089",
+    "external_round_id": "29349625",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T17:10:31.000000Z",
+    "revealed_at": "2026-06-07T17:10:39.000000Z"
+}
