@@ -1,0 +1,22 @@
+{
+    "round_id": "2c57904c-061a-4fb1-92ff-d7b1e38ac139",
+    "draw_title": "PINK-EYED PETE AND HIS STINKY FEET INSTANT WIN!",
+    "competition_url": "https://easypeasyprizes.com/admin/products/pink-eyed-pete-and-his-stinky-feet-instant-win",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "73b9d181ddb06baa803c7478960030531753798967dfb4b45919d4a27c0c5c59",
+    "drand_seed_hash": "869d33dee7dddad3bf28a33531017c5b2ab4cdb1c0c9dc98565555d58517e60fc93811a0e3b75d4c3140216981776fa8",
+    "client_seed": "1780863036872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 512509,
+    "max_tickets": 1000000,
+    "combined_hash": "bcbc5c0d25a4348eb7dded721a58ef3388133739ebd0d35cd5d9b4dea5edacec",
+    "result": "181437",
+    "external_round_id": "29353226",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T20:10:36.000000Z",
+    "revealed_at": "2026-06-07T20:10:42.000000Z"
+}
