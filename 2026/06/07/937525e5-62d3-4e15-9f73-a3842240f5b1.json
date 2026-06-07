@@ -1,0 +1,22 @@
+{
+    "round_id": "937525e5-62d3-4e15-9f73-a3842240f5b1",
+    "draw_title": "Connors Ticket Booth - £600 Ticket Bundles End Prize  *AUTODRAW*",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ticket-booth-ps600-tickets-end-prize-autodraw-5",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "4987220f8f63be1283411ea544010c9fa6d1f9194136f85e9b6d66b8567e9145",
+    "drand_seed_hash": "891c453c16ce80e65dbd9ede50c66b0c53bb2d9c66b09c6fdaa036346720293d2d92244299cb7fa0977050fcf6d52f9d",
+    "client_seed": "1780857631329",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18506,
+    "max_tickets": 212315,
+    "combined_hash": "4fd867b9aad9bd102f5e62676ce842c088733a74dc8a7fb34268d4e1b1969a80",
+    "result": "175794",
+    "external_round_id": "29351425",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T18:40:31.000000Z",
+    "revealed_at": "2026-06-07T18:40:39.000000Z"
+}
