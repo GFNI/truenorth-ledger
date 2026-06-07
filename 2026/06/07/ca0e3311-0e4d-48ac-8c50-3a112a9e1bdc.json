@@ -1,0 +1,22 @@
+{
+    "round_id": "ca0e3311-0e4d-48ac-8c50-3a112a9e1bdc",
+    "draw_title": "The Big Tech UPGRADE!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-big-tech-upgrade",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "ce9b55741c2b7e9c6e3830ba472c33454cb96612c30ff97a66ce8268287a585d",
+    "drand_seed_hash": "95632d7dc191c8e7de95b413656a93c1c60c57a782d56bb63c80b5e9eca230838428dba5605b19b692d0cce0701dbd4e",
+    "client_seed": "1780866636906",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2120,
+    "max_tickets": 19999,
+    "combined_hash": "850a512e5ec10e0c2cc2f599dc8032a5626c5f9445059b859ba4393a2e070de7",
+    "result": "1901",
+    "external_round_id": "29354426",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T21:10:36.000000Z",
+    "revealed_at": "2026-06-07T21:10:42.000000Z"
+}
