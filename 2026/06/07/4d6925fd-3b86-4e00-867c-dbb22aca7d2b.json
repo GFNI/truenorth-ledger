@@ -1,0 +1,22 @@
+{
+    "round_id": "4d6925fd-3b86-4e00-867c-dbb22aca7d2b",
+    "draw_title": "TICKET PACKAGE PARADISE",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/ticket-package-paradise",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "b190ecf01e2e06de44521a7836293ea11f2669c390197879888a7dae45032508",
+    "drand_seed_hash": "a553a5395c89ee8eb3939bccf5e9e4f82a5fdd11a427f2567c3a3a9050977db0ad6bac76bca3c0e0990f8e9e90752b01",
+    "client_seed": "1780830356164",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6666,
+    "max_tickets": 6666,
+    "combined_hash": "1a46eb4693f5d160dc688e5b80f6094114a0e8f2b463979c0dd9863706675f69",
+    "result": "3021",
+    "external_round_id": "29342333",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T11:05:56.000000Z",
+    "revealed_at": "2026-06-07T11:06:03.000000Z"
+}
