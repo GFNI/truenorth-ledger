@@ -1,0 +1,22 @@
+{
+    "round_id": "ff9efb63-8c7b-4274-b043-b1d4216d0e1c",
+    "draw_title": "🍦WIN A NINJA CREAMI🍦 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/win-a-ninja-creami-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "15466fc26ff9e2727493d39f43589700b2675666852fa7d61f12a45ed9e132aa",
+    "drand_seed_hash": "880fcf7ed8881e3f8ccb003618f127bc33f66f85f14a5bd42272572b247d79272bfc3ffc1699ad0a3030c38c51aed4a6",
+    "client_seed": "1780863042497",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 263,
+    "max_tickets": 325,
+    "combined_hash": "6fc5624e1e50e3f4f399bdd201196e960e3479f7faeddc5b3cbbb7f775ea09cc",
+    "result": "320",
+    "external_round_id": "29353228",
+    "processing_status": "completed",
+    "created_at": "2026-06-07T20:10:42.000000Z",
+    "revealed_at": "2026-06-07T20:10:48.000000Z"
+}
