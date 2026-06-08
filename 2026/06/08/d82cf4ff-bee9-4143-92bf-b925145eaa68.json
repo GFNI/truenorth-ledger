@@ -1,0 +1,22 @@
+{
+    "round_id": "d82cf4ff-bee9-4143-92bf-b925145eaa68",
+    "draw_title": "💖 One Night Spa Break For Two With a 50 Min Treatment at Glasgow Westerwood Hotel, Spa & Golf Resort 💖",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/one-night-spa-break-for-two-with-a-50-min-treatment-at-glasgow-westerwood",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "535418def3c1f2bb5fb3f0dd03153621dc49ee9358864f51868fe3de88435073",
+    "drand_seed_hash": "aa970e679bcc2bdb7a0976aed0f1dce5ea0ebc16bef89f672c78dc07788f4e9cab89a53e28750b2f1627137f65784f97",
+    "client_seed": "1780942569499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 732,
+    "max_tickets": 975,
+    "combined_hash": "b344142623feaddc79ac5930683879bfee018d7241b014171ed0312d13312af2",
+    "result": "591",
+    "external_round_id": "29379737",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T18:16:09.000000Z",
+    "revealed_at": "2026-06-08T18:16:15.000000Z"
+}
