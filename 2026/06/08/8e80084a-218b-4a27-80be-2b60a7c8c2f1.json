@@ -1,0 +1,22 @@
+{
+    "round_id": "8e80084a-218b-4a27-80be-2b60a7c8c2f1",
+    "draw_title": "Cherry Bomb 🍒💣",
+    "competition_url": "https://redlemonx.co.uk/admin/products/cherry-bomb",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "ff21b67de7490d632ee0ba5e7f1636be752de412cfe68ff2d4f87b9047d01bb4",
+    "drand_seed_hash": "b052e90539732cf90a5abb4b9bb899f3ddd46f01a32d870c8a4606084fd02ce2b5f05c74333b69293e6c4352814a546e",
+    "client_seed": "1780947643771",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9999,
+    "max_tickets": 9999,
+    "combined_hash": "6b66c5fe31f8c7ade21a2fcbc96f8d7569102d3e8e8b11eb88d22454c1be4441",
+    "result": "7153",
+    "external_round_id": "29381429",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T19:40:43.000000Z",
+    "revealed_at": "2026-06-08T19:40:51.000000Z"
+}
