@@ -1,0 +1,22 @@
+{
+    "round_id": "f1412e6b-232a-4880-b0be-5c8374b62238",
+    "draw_title": "MICROSOFT Surface Laptop 13\", Copilot+ PC - Snapdragon X Plus, 256 GB SSD, Platinum💻",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/microsoft-surface-laptop-13-copilot-pc-snapdragon-x-plus-256-gb-ssd",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e309a4fa789a82f140ae6d9a6d17704b0cd18457c5c6a46c22695b3c4958a359",
+    "drand_seed_hash": "966084c79cc580ff5fa663b68cba955bfc814bc4556e0f59df1e953bac521a12a3757fee8ec66878e595780463b570c4",
+    "client_seed": "1780942405691",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1445,
+    "max_tickets": 2300,
+    "combined_hash": "24781cf2a34ddbd32fb81b5dc74a542ad94ecc2377351223a2ec74a06027db4b",
+    "result": "237",
+    "external_round_id": "29379683",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T18:13:25.000000Z",
+    "revealed_at": "2026-06-08T18:13:33.000000Z"
+}
