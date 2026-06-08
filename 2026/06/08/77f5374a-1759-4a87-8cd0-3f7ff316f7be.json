@@ -1,0 +1,22 @@
+{
+    "round_id": "77f5374a-1759-4a87-8cd0-3f7ff316f7be",
+    "draw_title": "Shark Facial Glow",
+    "competition_url": "https://ogcompetitions.co.uk/lists/shark-facial-pro-glow-bundle",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "e14b6a7da0fa184eddbf2f9010dcca810d699b9462ec618ce5dd2346ca830373",
+    "drand_seed_hash": "94f53adf4014636828dee07c012599fe94e8da6b9ca3dfb272431bc51bae056d8b7995414fce0fd9e48d80083ff067bf",
+    "client_seed": "1780953428426",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 370,
+    "combined_hash": "4a362f2861f40b05aaff5e471f35b1275e32eed767d14b6ce51571d81c0efe31",
+    "result": "181",
+    "external_round_id": "29383356",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T21:17:08.000000Z",
+    "revealed_at": "2026-06-08T21:17:17.000000Z"
+}
