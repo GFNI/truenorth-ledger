@@ -1,0 +1,22 @@
+{
+    "round_id": "6a601625-bda6-4fed-b10e-2a0fcdadac72",
+    "draw_title": "Your Choice Of Combat Patrol",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/your-choice-of-combat-patrol",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "866bc32ce4d465c7a8809e421bf95e4029813f470a3bb4a7e71ba50c3ae091ab",
+    "drand_seed_hash": "b9b0edee0c498fef73b3967d4a1804dd18faa2360d8ec34ea8af6695746c3019681bb248f06f206619b419fbd135f58b",
+    "client_seed": "1780953036652",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 180,
+    "combined_hash": "0c1a8bab5b8b3b22b6cb976c8f082f5a904642c20eb5eb76fd44aa1af2f5b68e",
+    "result": "109",
+    "external_round_id": "29383226",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T21:10:36.000000Z",
+    "revealed_at": "2026-06-08T21:10:42.000000Z"
+}
