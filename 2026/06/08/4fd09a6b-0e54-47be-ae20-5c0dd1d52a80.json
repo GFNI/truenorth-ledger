@@ -1,0 +1,22 @@
+{
+    "round_id": "4fd09a6b-0e54-47be-ae20-5c0dd1d52a80",
+    "draw_title": "COSMIC RICHES - CRACK THE SAFE",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/cosmic-riches-crack-the-safe-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "a48bae9f26d0d5f440bcc823eebe85cda9881ac6015855bf85d767b3b603a9da",
+    "drand_seed_hash": "b0218790c929e4308f2dc9e85360f8c944add8dd452cf1f3c8f7f4b277845f98eaf8de468d64197b56b8529e52315539",
+    "client_seed": "1780912417414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2346,
+    "max_tickets": 7500,
+    "combined_hash": "458da201a844e1c8201bd6e5ba1a8fc5202855604649b3d2da0be1a5f148908f",
+    "result": "2714",
+    "external_round_id": "29369687",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T09:53:37.000000Z",
+    "revealed_at": "2026-06-08T09:53:45.000000Z"
+}
