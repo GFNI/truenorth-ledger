@@ -1,0 +1,22 @@
+{
+    "round_id": "0f6f7de1-ba96-4ca5-8707-005f87e7e80e",
+    "draw_title": "SAMSUNG Galaxy S26 Ultra - 256 GB, Black📱",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-galaxy-s26-ultra-256-gb-black",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fae44bf4e7d867e585ad68d1b9382502ca1b24465a400ce14795df52499f9e45",
+    "drand_seed_hash": "ac89980dfcc6200c4aa50ff37af67346d97f286ccc03be5cabe620a30d0271815fa93cf0e07ea71b98a827f1299cc813",
+    "client_seed": "1780942492579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1571,
+    "max_tickets": 2150,
+    "combined_hash": "a67b8925b8a064148787ed8c311cf5199a7c1ad605faa5d5e215d72dd6571488",
+    "result": "1979",
+    "external_round_id": "29379712",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T18:14:52.000000Z",
+    "revealed_at": "2026-06-08T18:15:00.000000Z"
+}
