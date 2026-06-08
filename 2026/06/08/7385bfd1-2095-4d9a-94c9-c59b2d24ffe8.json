@@ -1,0 +1,22 @@
+{
+    "round_id": "7385bfd1-2095-4d9a-94c9-c59b2d24ffe8",
+    "draw_title": "Ring Alarm + Indoor Camera (2nd Gen) Bundle🔒",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ring-alarm-indoor-camera-2nd-gen-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "44f90fa895a444a9bc2f2adf9de396306d5ebf20750bf5b375717acf70a58f69",
+    "drand_seed_hash": "b8d7b1d1b864fe1ed42173a3340154651f0431a5610e157721e8cc2ddd761f86b723b2946c3483659d478d232539a01f",
+    "client_seed": "1780942191350",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 522,
+    "max_tickets": 935,
+    "combined_hash": "c73deb3821a242e9c39a073c6c85be316e6933d9ae767a91a986e9484f852662",
+    "result": "127",
+    "external_round_id": "29379611",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T18:09:51.000000Z",
+    "revealed_at": "2026-06-08T18:09:57.000000Z"
+}
