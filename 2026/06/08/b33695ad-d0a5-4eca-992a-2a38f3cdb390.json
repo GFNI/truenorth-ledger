@@ -1,0 +1,22 @@
+{
+    "round_id": "b33695ad-d0a5-4eca-992a-2a38f3cdb390",
+    "draw_title": "Gem Hunt £25,000 PrizePot",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/gem-hunt-ps25000-prizepot",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "1047665af1c16794f0ed46a487a36ecd49d9fe52b8a5ccabe5ad1aac8a575f91",
+    "drand_seed_hash": "92f383d68e143a90d78a62a6b06b00e1cf90e1f2473ae30d29ce6f9eb572178c7114e34938c059777e8636c805e5b662",
+    "client_seed": "1780952190184",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47575,
+    "max_tickets": 250000,
+    "combined_hash": "3a69333452a614b52b759b6461140d55ed372f5fb1c58138c3d243650e0e40de",
+    "result": "34507",
+    "external_round_id": "29382944",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T20:56:30.000000Z",
+    "revealed_at": "2026-06-08T20:56:36.000000Z"
+}
