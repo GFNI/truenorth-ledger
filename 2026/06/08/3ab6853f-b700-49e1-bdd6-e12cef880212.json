@@ -1,0 +1,22 @@
+{
+    "round_id": "3ab6853f-b700-49e1-bdd6-e12cef880212",
+    "draw_title": "Stephs Birthday Present (To You)",
+    "competition_url": "https://jetcomps.co.uk/admin/products/stephspresenttoyou",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "d3bb244a77c3b3d7433cabf0b47050cf124ca00add4f9ce46418f6fd6b7818fe",
+    "drand_seed_hash": "875e9703b2d3ba3e012ce4a5b625bfb087141fa9c99c81e603bf25a73b4e7dc17cc199bd17e2a27ea23b0ae708da0638",
+    "client_seed": "1780947902789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20678,
+    "max_tickets": 44200,
+    "combined_hash": "db542b3b72a5a2b4b5396fe42dc034fb79d9488bd0d77f6c7c55c2b83f4e8b19",
+    "result": "7716",
+    "external_round_id": "29381515",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T19:45:02.000000Z",
+    "revealed_at": "2026-06-08T19:45:09.000000Z"
+}
