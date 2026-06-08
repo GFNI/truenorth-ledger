@@ -1,0 +1,22 @@
+{
+    "round_id": "c87dacd3-f501-4d44-9cd4-4eda3b7a5812",
+    "draw_title": "£1,000 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/10p-for-the-win-ps1000-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "0fc0647c84888c9b597196995745c40f182ae599b0e7ceda83ebf022424cc392",
+    "drand_seed_hash": "acd51b082830b411732ec890e6608d4a8b682e08ee21d4bb694944443846d73a085ce4f8a8893ee3d3b7fc058367982b",
+    "client_seed": "1780953590820",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 66600,
+    "combined_hash": "79e2e5ba95b895ffb912d4692b0b12ee868919ca00b6b0eba6bfd9d9788ed8a2",
+    "result": "33298",
+    "external_round_id": "29383411",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T21:19:50.000000Z",
+    "revealed_at": "2026-06-08T21:19:57.000000Z"
+}
