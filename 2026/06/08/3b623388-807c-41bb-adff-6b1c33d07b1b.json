@@ -1,0 +1,22 @@
+{
+    "round_id": "3b623388-807c-41bb-adff-6b1c33d07b1b",
+    "draw_title": "WIN £100 TAX FREE CASH #12",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps100-tax-free-cash-12",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "47f110be8f603047c0e1897e800beee0c736afb3ec2baf73b01c1df329f496f8",
+    "drand_seed_hash": "abeccd681a0354682ee8b77a914f2141420bdda92452ad329ad56c2ef8385c0216e80bab74787e2ed444e635917ef2c5",
+    "client_seed": "1780942254745",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1961,
+    "max_tickets": 3000,
+    "combined_hash": "61e1780edfbbd1175eb0fbb641281adb4555311aabe93225110b075bb1960a5a",
+    "result": "1042",
+    "external_round_id": "29379632",
+    "processing_status": "completed",
+    "created_at": "2026-06-08T18:10:54.000000Z",
+    "revealed_at": "2026-06-08T18:11:00.000000Z"
+}
