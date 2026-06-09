@@ -1,0 +1,22 @@
+{
+    "round_id": "2ebc1f6f-8bbe-43b8-8911-e77c5dc646d7",
+    "draw_title": "HOOK A PRIZE - GOLD SILVER AND BRONZE - £100 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/hook-a-prize-gold-silver-and-bronze-ps100-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "66626ef32b0ad979bf6dfd90d53c0da91a90c437a8877d2e992e2a137e97eb97",
+    "drand_seed_hash": "afc531b961ce14c71e895ac05e66454d676386979edb0611ccce84915ff49af745e8dbbf8bec5eb546bf55e205d5f7eb",
+    "client_seed": "1781032230264",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16196,
+    "max_tickets": 371428,
+    "combined_hash": "fd3d0b6904192bb5398f415ea22786b41208761b4f39bb9d55572239876769b5",
+    "result": "290014",
+    "external_round_id": "29409624",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T19:10:30.000000Z",
+    "revealed_at": "2026-06-09T19:10:36.000000Z"
+}
