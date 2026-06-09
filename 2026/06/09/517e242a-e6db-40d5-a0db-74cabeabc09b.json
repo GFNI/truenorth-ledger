@@ -1,0 +1,22 @@
+{
+    "round_id": "517e242a-e6db-40d5-a0db-74cabeabc09b",
+    "draw_title": "Crieff Hydro",
+    "competition_url": "https://ogcompetitions.co.uk/lists/crieff-hydro-overnight-for-two",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "967ae6b31a87a7c225b5249bd571991738636110020d67cb4413fea253ea009a",
+    "drand_seed_hash": "af61505a351dd64f6b6770b91835cfe28ed596ec2cbe198c21ed25f6b139f53b7c67f3e918c6346f3932337b7f8a6da8",
+    "client_seed": "1781040670658",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 960,
+    "combined_hash": "e4ef0ae235a37898521e9cd64c04dca1af883f42ac4927c10479e207b1be038b",
+    "result": "869",
+    "external_round_id": "29412437",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T21:31:10.000000Z",
+    "revealed_at": "2026-06-09T21:31:20.000000Z"
+}
