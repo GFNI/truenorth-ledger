@@ -1,0 +1,22 @@
+{
+    "round_id": "a192191a-3b13-491c-becf-2e8cb0c7b548",
+    "draw_title": "Van Den Berg Echo Darts",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/van-den-berg-echo-darts",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "bd727dbf553114603bbdd3a574562329679fb8911e3a663b913267f223b0fb54",
+    "drand_seed_hash": "8a3fbfd65cae46be0e1502d2df9a46b4069ac22c29bd25e0ab50c3c6b12dc65d94a864ea2a717820a00ed13678a37051",
+    "client_seed": "1781007269577",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 40,
+    "combined_hash": "92b753ba17c868ad93cdaa7e175829189859680dfe95c67a5d338f34778ed721",
+    "result": "19",
+    "external_round_id": "29401304",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T12:14:29.000000Z",
+    "revealed_at": "2026-06-09T12:14:36.000000Z"
+}
