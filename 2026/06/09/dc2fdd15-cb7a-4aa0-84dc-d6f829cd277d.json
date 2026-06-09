@@ -1,0 +1,22 @@
+{
+    "round_id": "dc2fdd15-cb7a-4aa0-84dc-d6f829cd277d",
+    "draw_title": "🍀FREEBIE🍀 £100 VOUCHER OF YOUR CHOICE 🎁",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/freebie-ps100-voucher-of-your-choice-2",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "4c39601df0375a423c7f6fd9996ccf473dabf47ef9adddd8ec092cde3165c235",
+    "drand_seed_hash": "89807cf338cfb5d7cb485df064e4e74c2fe65d957b10110bd20378f8e8e7de09a48d973760783f6e57d6e6da8a33f1ab",
+    "client_seed": "1780981470813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "eb9634c03004895b58578ec21c7b77f02e69e5dc7ac71a702140744d7cad3bcc",
+    "result": "980",
+    "external_round_id": "29392704",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T05:04:30.000000Z",
+    "revealed_at": "2026-06-09T05:04:36.000000Z"
+}
