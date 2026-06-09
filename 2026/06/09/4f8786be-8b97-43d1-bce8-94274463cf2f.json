@@ -1,0 +1,22 @@
+{
+    "round_id": "4f8786be-8b97-43d1-bce8-94274463cf2f",
+    "draw_title": "Stain Striker Mini Game",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/stain-striker-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "094839a66294c6e9f9e952d36bd3afb0a09e2e26e092089332b1cd869bf71f27",
+    "drand_seed_hash": "ae58c347df556739d63007dad9287d55a4a874f40f49692afe39cf504cc8ba0d1c8198a53d60155cc9dd207cd87a1a0b",
+    "client_seed": "1781037391088",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "879b43c9f45c3d54435da1dd80bf80f174268ef6340e55fa85b3ae0f175ec92f",
+    "result": "44",
+    "external_round_id": "29411345",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T20:36:31.000000Z",
+    "revealed_at": "2026-06-09T20:36:39.000000Z"
+}
