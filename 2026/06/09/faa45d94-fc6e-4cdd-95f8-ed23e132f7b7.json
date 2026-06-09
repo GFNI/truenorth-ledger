@@ -1,0 +1,22 @@
+{
+    "round_id": "faa45d94-fc6e-4cdd-95f8-ed23e132f7b7",
+    "draw_title": "DAILY £50 CASH! (AUTO DRAWN) 09/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/daily-ps50-cash-auto-drawn-0906",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "35c70c19160895aaedfc7179d054155a3522de6cbb23c87ffa4f5b84352ce1d7",
+    "drand_seed_hash": "976a8fc50448ed1d3a3eab8d1c2211ba7333e9755da2d4b447bce4eff308f07e02689c80b1244942c3ce5d79784d0b39",
+    "client_seed": "1781044830042",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 500,
+    "combined_hash": "10be7c289a41a36927af180419c1285164836c7da47c1275c918bb77fc5ba725",
+    "result": "261",
+    "external_round_id": "29413824",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T22:40:30.000000Z",
+    "revealed_at": "2026-06-09T22:40:36.000000Z"
+}
