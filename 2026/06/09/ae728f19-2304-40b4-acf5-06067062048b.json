@@ -1,0 +1,22 @@
+{
+    "round_id": "ae728f19-2304-40b4-acf5-06067062048b",
+    "draw_title": "🌭 EVERYONES A WINNAHHH!🌭",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/everyones-a-winnah",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "829c0021f0fe93ca4a38d4816f3326e6547bf738611a66d8951262251e819996",
+    "drand_seed_hash": "aa940743663ee4154169c2d970076cb8a19b4b73916f9cb63a2b99188cbb9d2fc8ec570a80dd6d872b0a4473348baae6",
+    "client_seed": "1781028784166",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4791,
+    "max_tickets": 15000,
+    "combined_hash": "4d344ac186ec095b1f929609e5341e4b36346967adf88e185535c4fc272bb769",
+    "result": "742",
+    "external_round_id": "29408476",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T18:13:04.000000Z",
+    "revealed_at": "2026-06-09T18:13:12.000000Z"
+}
