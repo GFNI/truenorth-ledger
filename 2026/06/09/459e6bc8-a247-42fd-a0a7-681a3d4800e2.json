@@ -1,0 +1,22 @@
+{
+    "round_id": "459e6bc8-a247-42fd-a0a7-681a3d4800e2",
+    "draw_title": "🔴MINI DRAW - WIN 1000 ENTRIES INTO THE VW",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/mini-draw-win-1000-entries-into-the-vw",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e66a1606a9202b33b462abd4c6f1f2be923ad8ba57a15ca624ab99288eaef099",
+    "drand_seed_hash": "8934bb03c8579fa06b2752da29703f1c52e7268e00fea742d91af44f3a280fe2c11a19a9a3526e08fe35411c7dfd47ce",
+    "client_seed": "1781038290204",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "3fda92022b5dd6ed0aced5630dee60e4b189bdd74bab119ca33c548718f1fbb7",
+    "result": "560",
+    "external_round_id": "29411644",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T20:51:30.000000Z",
+    "revealed_at": "2026-06-09T20:51:36.000000Z"
+}
