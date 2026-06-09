@@ -1,0 +1,22 @@
+{
+    "round_id": "7c174835-16d8-43c5-a57f-9a2e8d68e21c",
+    "draw_title": "Tuesday Treats (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/tuesday-treat",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "595e40901f9dc992647563d38b809202a4cce44e425e18b7ca8270883cde87c5",
+    "drand_seed_hash": "a1b4de6facf3c7ab90177adff0309bc4bd96da4016bf91545cddd8ef7d4adde6ae13dfb8afbc138e50e1a5dee24b4694",
+    "client_seed": "1781040102222",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 450,
+    "combined_hash": "eb5255a2d0d6c3fbdb9014f232b94ca1386ed23a8802fad226aa49fd682b2a75",
+    "result": "430",
+    "external_round_id": "29412248",
+    "processing_status": "completed",
+    "created_at": "2026-06-09T21:21:42.000000Z",
+    "revealed_at": "2026-06-09T21:21:48.000000Z"
+}
