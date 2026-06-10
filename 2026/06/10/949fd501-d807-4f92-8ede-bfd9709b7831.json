@@ -1,0 +1,22 @@
+{
+    "round_id": "949fd501-d807-4f92-8ede-bfd9709b7831",
+    "draw_title": "🔴£10K ENTER FOR 20P #92",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps10k-enter-for-20p-92",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "a730533aba4264c54d4f16830f4e2f06474aa3ce29cb8d2e94682276c80635df",
+    "drand_seed_hash": "a574c1f6506293bcc70945cdc9c6641f851453a71f5cb0d8d4a7e26713d5649233a5450c2e8fde48b3feed6a4ed28944",
+    "client_seed": "1781122107850",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67239,
+    "max_tickets": 75000,
+    "combined_hash": "b74bd38b5aded848f257e7114cc4476c401d09ef593db2f47ed994cc41fdf7ea",
+    "result": "30504",
+    "external_round_id": "29439583",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T20:08:27.000000Z",
+    "revealed_at": "2026-06-10T20:08:33.000000Z"
+}
