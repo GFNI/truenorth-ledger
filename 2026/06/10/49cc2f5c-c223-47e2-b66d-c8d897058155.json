@@ -1,0 +1,22 @@
+{
+    "round_id": "49cc2f5c-c223-47e2-b66d-c8d897058155",
+    "draw_title": "Garden Sofa Set or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/garden-sofa-set-or-cash-4558",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "05d293c27e7b5e0bf243f5dd278c8223e6626aa5d8384fe71f100102f4f81647",
+    "drand_seed_hash": "b2496353baf1063b864e4d112dd895b2447f5892cd9aeff9ead4e0c432cf0a85a3584b13c4702d2f29d0e37d8ed9be00",
+    "client_seed": "1781121073371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1750,
+    "max_tickets": 1750,
+    "combined_hash": "2ead99579947524bc8ca4b3efcdc77373ace25693f074a896f31e884038ca158",
+    "result": "635",
+    "external_round_id": "29439239",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:51:13.000000Z",
+    "revealed_at": "2026-06-10T19:51:21.000000Z"
+}
