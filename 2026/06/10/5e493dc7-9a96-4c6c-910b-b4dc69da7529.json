@@ -1,0 +1,22 @@
+{
+    "round_id": "5e493dc7-9a96-4c6c-910b-b4dc69da7529",
+    "draw_title": "Cash Splash",
+    "competition_url": "https://chaotic.co.uk/competition/cash-splash-4885",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2c1199dec27c53113ad0e80c1b38fb9cfa08c25020a9b9e02cbb54f734d26b78",
+    "drand_seed_hash": "85083a8ae9a58513b96a98df64520d593ca93b2742655f5678f3e6eebfe84adb2b2e75a0dad8521405ff77e4a693010a",
+    "client_seed": "1781120830467",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 444444,
+    "max_tickets": 444444,
+    "combined_hash": "28ab9e61730e63fdd0d0a9940fda222099c912d37b9acfeaa3bb8b0c0bbd8bdd",
+    "result": "12317",
+    "external_round_id": "29439158",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:47:10.000000Z",
+    "revealed_at": "2026-06-10T19:47:18.000000Z"
+}
