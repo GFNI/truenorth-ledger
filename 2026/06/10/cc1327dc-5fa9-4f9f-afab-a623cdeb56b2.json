@@ -1,0 +1,22 @@
+{
+    "round_id": "cc1327dc-5fa9-4f9f-afab-a623cdeb56b2",
+    "draw_title": "Chaotic Catch",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-catch-2303",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a6a77bb39e028ee709278e7f2cfd9b429ff580dd9079c90efd780be4c7216b76",
+    "drand_seed_hash": "9873668139780b4e96a4e659b83111fab6652dc50e8b589770df0928df1954a230dde3269e88fa9fc658beede341020b",
+    "client_seed": "1781120517443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250000,
+    "max_tickets": 250000,
+    "combined_hash": "582a10094c651ef671aea7c7cb206c1abccf12008a449171d0b742e0de49b5b1",
+    "result": "54361",
+    "external_round_id": "29439053",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:41:57.000000Z",
+    "revealed_at": "2026-06-10T19:42:03.000000Z"
+}
