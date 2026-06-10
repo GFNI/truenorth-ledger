@@ -1,0 +1,22 @@
+{
+    "round_id": "224d5237-34fa-4133-8af8-c3eab02f8a4f",
+    "draw_title": "⚡ BOLT BINGO – 10 Chances to Win £100!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/bolt-bingo",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "0b1c5fcff66b2ad5e5aa6c9206d56daf3050e811506ba9dfc88e88fdb5e6398d",
+    "drand_seed_hash": "8274b2c03e7280ce394a77738917b35cc92a573172996d4a976d7fc46875528ff90afc5b07a1e54aa2c7d79b7f4309e4",
+    "client_seed": "1781115031633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5745,
+    "max_tickets": 10000,
+    "combined_hash": "92f371c3e5d21d250e5387ccc2fc0eb8d75365453ef736ae79e705a9eb8a9ac3",
+    "result": "5043",
+    "external_round_id": "29437225",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T18:10:31.000000Z",
+    "revealed_at": "2026-06-10T18:10:39.000000Z"
+}
