@@ -1,0 +1,22 @@
+{
+    "round_id": "3c1e13cc-df1b-42e6-af83-bd955413a43d",
+    "draw_title": "💫 JANET'S Choccy box or £20 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-choccy-box-or-ps20",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "31e81a2e45394da17620322f014bb73412b9966d22bebfdb4bf9b2ace69ba925",
+    "drand_seed_hash": "9247d591b9c9c8c0883d1cffe4e7db2c2f610ec81ad91c135aab63957f01fef1f7f376d1993e3c5b4b7f2b4601f149b8",
+    "client_seed": "1781111733840",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37,
+    "max_tickets": 65,
+    "combined_hash": "553e80130a52244ba36fb23cb9f225e7b65264c45cc83f06c4c1119633212b94",
+    "result": "20",
+    "external_round_id": "29436125",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T17:15:33.000000Z",
+    "revealed_at": "2026-06-10T17:15:39.000000Z"
+}
