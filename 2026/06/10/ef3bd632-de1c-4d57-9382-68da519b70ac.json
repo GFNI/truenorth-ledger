@@ -1,0 +1,22 @@
+{
+    "round_id": "ef3bd632-de1c-4d57-9382-68da519b70ac",
+    "draw_title": "DRAM OR NO DRAM! PRIZE EVERYTIME!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/dram-or-no-dram-prize-everytime-2",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "53133104c211e65b1c5a723861a0bd608f45d21d8d475c2fee39dc763f2bf3d5",
+    "drand_seed_hash": "843f3b37e38adea7db47ec0b83d02c5ce1c45c6cb97ffa69a22631686d9430a18f2a2319bb37ad5bbe852d6db8612092",
+    "client_seed": "1781125849206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4216,
+    "max_tickets": 39999,
+    "combined_hash": "d27392cd9f7d471b1d38a92a1b6b276585052416ca2e2f86c0594187508725fb",
+    "result": "13412",
+    "external_round_id": "29440830",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T21:10:49.000000Z",
+    "revealed_at": "2026-06-10T21:10:54.000000Z"
+}
