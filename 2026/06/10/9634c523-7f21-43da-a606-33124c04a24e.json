@@ -1,0 +1,22 @@
+{
+    "round_id": "9634c523-7f21-43da-a606-33124c04a24e",
+    "draw_title": "Big Balls Bingo - £400 Main + Win up to £1000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/big-balls-bingo-ps400-main-win-up-to-ps1000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "1eba4b7bcd85b304add7d688811fb81b3ae70f392af3b6ac5d0fca168709b81f",
+    "drand_seed_hash": "96a62f186c73bc254b12fc38800c929ca29714ce0b15a30bcb1b766b9370d4bc76b4d6706f00217e33bccc2b8f2bee92",
+    "client_seed": "1781120146113",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33911,
+    "max_tickets": 83000,
+    "combined_hash": "4f1ccfbef21f96bedfd01f557b8296c466a01f61c7a47a9a15569155b1638ea6",
+    "result": "17240",
+    "external_round_id": "29438929",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:35:46.000000Z",
+    "revealed_at": "2026-06-10T19:35:51.000000Z"
+}
