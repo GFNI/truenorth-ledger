@@ -1,0 +1,22 @@
+{
+    "round_id": "67ff95b5-9822-45e9-bb36-abd978b0aae0",
+    "draw_title": "💫 JANET'S Flamingo light or  £50 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-flamingo-light-or-ps50",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "2926ba256d0d02fae2c201dd61d629fed007f53f508be638c876764be34f2895",
+    "drand_seed_hash": "a938e3adf2f377bda5eb11b2c53306c3049bcad0a724d75f0c6ff6e36b4184198affe3f42f11dd3a82625e6e485d69c0",
+    "client_seed": "1781111793735",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 100,
+    "combined_hash": "53ec7fb76e293c76bae9b70ba3acc563d81e03f26f5bd8317b1d5bd06bda9847",
+    "result": "100",
+    "external_round_id": "29436145",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T17:16:33.000000Z",
+    "revealed_at": "2026-06-10T17:16:39.000000Z"
+}
