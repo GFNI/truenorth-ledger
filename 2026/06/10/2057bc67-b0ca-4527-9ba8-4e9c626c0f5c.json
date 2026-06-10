@@ -1,0 +1,22 @@
+{
+    "round_id": "2057bc67-b0ca-4527-9ba8-4e9c626c0f5c",
+    "draw_title": "The Big Drop",
+    "competition_url": "https://chaotic-build.getfoundni.co.uk/competition/the-big-drop",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a23f5502c79288aeae3013ccb4bfc5b837596352f59af994c7d0d1aac894158f",
+    "drand_seed_hash": "b014a38f9bcde7028c839b58c003c56ece5bc4c9bf873d58106144ce7a3847b427146c5bf0705aeb462aad6d8dc48cb9",
+    "client_seed": "1781093664343",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 600,
+    "combined_hash": "a3519f769d6ec6bad05596370457ad90ee16a514148c7c095cadd43929028317",
+    "result": "12",
+    "external_round_id": "29430102",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T12:14:24.000000Z",
+    "revealed_at": "2026-06-10T12:14:30.000000Z"
+}
