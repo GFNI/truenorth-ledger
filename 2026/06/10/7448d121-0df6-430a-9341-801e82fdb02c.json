@@ -1,0 +1,22 @@
+{
+    "round_id": "7448d121-0df6-430a-9341-801e82fdb02c",
+    "draw_title": "TUDOR LUNA OR £1000 CASH! £75,000 INSTANT WINS, JUST 5P A TICKET!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/tudor-luna-or-ps1000-cash-ps75000-instant-wins-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "78c8cfdae103da0d35bf871aeda270c9e6e376293ab6b2aec3f0aa7dfef0e187",
+    "drand_seed_hash": "90fc790f68529704b9a05fc81411be021c98b2294d56435cc1ac03d9567ccaf36f127f438a74b0dbddbfab44f38c9fc3",
+    "client_seed": "1781120238937",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 207175,
+    "max_tickets": 5000000,
+    "combined_hash": "2a1d41c68414e6557315afee3f30c39a534e009919bd38fda738442fb0c74eec",
+    "result": "1156075",
+    "external_round_id": "29438960",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:37:18.000000Z",
+    "revealed_at": "2026-06-10T19:37:24.000000Z"
+}
