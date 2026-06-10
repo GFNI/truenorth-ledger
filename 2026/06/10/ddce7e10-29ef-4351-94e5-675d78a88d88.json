@@ -1,0 +1,22 @@
+{
+    "round_id": "ddce7e10-29ef-4351-94e5-675d78a88d88",
+    "draw_title": "Remote Controlled Lava Lamp",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/remote-controlled-lava-lamp",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7307dd02226f372ed0efac7a11c78e00c2aea76a995c363931cad45d1dc39ffc",
+    "drand_seed_hash": "b13f2302d5fa06e086db28748a1756288d128f220239ec7f517b7554f9cd5bf17c14c1f8312b9a7b5ff7664945851c5b",
+    "client_seed": "1781118809493",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 200,
+    "combined_hash": "9556af9fce3fbb9aee824465e8d102b76f0ea9e39dc528327dec967946cbc120",
+    "result": "110",
+    "external_round_id": "29438484",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:13:29.000000Z",
+    "revealed_at": "2026-06-10T19:13:36.000000Z"
+}
