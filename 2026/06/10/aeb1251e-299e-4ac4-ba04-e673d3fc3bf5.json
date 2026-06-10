@@ -1,0 +1,22 @@
+{
+    "round_id": "aeb1251e-299e-4ac4-ba04-e673d3fc3bf5",
+    "draw_title": "Foreman Health Grill",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/foreman-health-grill",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "216ee0b41585282086d60c48b0a111a3a664e83c704367d8f2d155bd940828d7",
+    "drand_seed_hash": "b4860d4741469220f827066ced9e427833922bde21f663f5846de51416261b4ee2763fa4b1eadf55280dadeead167f24",
+    "client_seed": "1781118867285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 300,
+    "combined_hash": "31b6e97d3951f82c7345a69f0d88ec43d8d9a4d18a7d78a0b06b960dbf1f1f6b",
+    "result": "230",
+    "external_round_id": "29438503",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:14:27.000000Z",
+    "revealed_at": "2026-06-10T19:14:33.000000Z"
+}
