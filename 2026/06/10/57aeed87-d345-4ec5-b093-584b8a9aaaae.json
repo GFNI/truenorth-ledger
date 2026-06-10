@@ -1,0 +1,22 @@
+{
+    "round_id": "57aeed87-d345-4ec5-b093-584b8a9aaaae",
+    "draw_title": "£8,200 NINJA SUMMER SIZZLER",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps8200-ninja-summer-sizzler",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "0d3af8ac900bd9a23ee1ff424f24af3cc5bccb386575462de79b88a994267676",
+    "drand_seed_hash": "89227b6f4876ff802e5bfdc5a525bc0a405c887fac57116aaa3220606601c71a19e2bd99e6b54bfd761df66b4186e7c1",
+    "client_seed": "1781123682317",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5482,
+    "max_tickets": 52500,
+    "combined_hash": "712b353a807dc41eed84cd424b08cdc3feef23038a458f1c79c1899df79b7bcb",
+    "result": "10558",
+    "external_round_id": "29440108",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T20:34:42.000000Z",
+    "revealed_at": "2026-06-10T20:34:48.000000Z"
+}
