@@ -1,0 +1,22 @@
+{
+    "round_id": "bac6e454-217d-4ecb-9ae0-2f7e5f58d67f",
+    "draw_title": "Gemsweeper! £5,000 Prize Pool with £100 Cash End Prize!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/gemsweeper-ps5000-prize-pool-with-ps100-cash-end-prize",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "c6ceb3465f128d115e0432b106b8708b9e2fc8a0500b308a49b8f0076c32e8ec",
+    "drand_seed_hash": "8b5179b02600fc5cbdba6a096be4eb21f11127fa53660bc00dcd0b803d869e57920af8960540507def558dd0f0eb8886",
+    "client_seed": "1781119770896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2365,
+    "max_tickets": 40000,
+    "combined_hash": "0daa4a28b6857c9060b3a46cf2fcf8d5a46f34425f32ebc0d1c5cb1dee1595b9",
+    "result": "21838",
+    "external_round_id": "29438804",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:29:30.000000Z",
+    "revealed_at": "2026-06-10T19:29:36.000000Z"
+}
