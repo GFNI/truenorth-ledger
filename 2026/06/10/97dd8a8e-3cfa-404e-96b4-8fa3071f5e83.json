@@ -1,0 +1,22 @@
+{
+    "round_id": "97dd8a8e-3cfa-404e-96b4-8fa3071f5e83",
+    "draw_title": "Win 10x Breitling Endurance Pro Tickets (Draw 3)",
+    "competition_url": "https://expcomps.com/admin/products/win-10x-breitling-endurance-pro-tickets-draw-3",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "e3d1058b2efc1d03df53991567e0af65d5aacfca239065f18549a5ae5afe065c",
+    "drand_seed_hash": "b411ed56d7de9720ff910d3ef7fe7595bece587b5007a8802f42f72ccbb0b1b8b587f842dbeaf78db43d68f684c52977",
+    "client_seed": "1781111371957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "6f07c3d28ff0747a634515785b69629ae41d0ff47fa919ae2509280b6c16c246",
+    "result": "34",
+    "external_round_id": "29436005",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T17:09:32.000000Z",
+    "revealed_at": "2026-06-10T17:09:39.000000Z"
+}
