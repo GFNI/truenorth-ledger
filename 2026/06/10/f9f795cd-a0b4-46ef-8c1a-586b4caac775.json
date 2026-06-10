@@ -1,0 +1,22 @@
+{
+    "round_id": "f9f795cd-a0b4-46ef-8c1a-586b4caac775",
+    "draw_title": "Breitling Endurance Pro 44mm Watch PLUS £500 In Instant Cash!",
+    "competition_url": "https://expcomps.com/admin/products/breitling-endurance-pro-44mm-watch-plus-ps500-in-instant-cash",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "c910b88844104a61de2370c675e09048a21876996ec357fef8a60963ff9c60fd",
+    "drand_seed_hash": "8b6edbdc3f0e387961a1b2d992710015fdee96f57fef9bce28fb787759917b6188b1ad04b6bad1625b9104abd4d5129e",
+    "client_seed": "1781118369052",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 417,
+    "max_tickets": 1999,
+    "combined_hash": "6d004646dc4ae8860a0650d79e8f790bd77da16c742bfa28a81502ba5fc7adfe",
+    "result": "541",
+    "external_round_id": "29438337",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T19:06:09.000000Z",
+    "revealed_at": "2026-06-10T19:06:15.000000Z"
+}
