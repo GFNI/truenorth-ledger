@@ -1,0 +1,22 @@
+{
+    "round_id": "e6f6d2ae-2f60-4eea-9785-49f7d58af9f3",
+    "draw_title": "💫 JANET'S Dishwasher tabs or £30 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-dishwasher-tabs-or-ps30",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "284059ea3015f1050a75c1dbd8e8b76d4fa7ad05ab66089bc61ecb44eb3f18f1",
+    "drand_seed_hash": "90db606a6a931efc60982b579887556cf406292875c6e099c0398af1bb8056306ce6c6e9cf43951de7e2bf5264d5d496",
+    "client_seed": "1781111739620",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30,
+    "max_tickets": 85,
+    "combined_hash": "5154e412261c48eed13e834daa55cf2600dd47819480d97557c702a0c3ecf2e1",
+    "result": "72",
+    "external_round_id": "29436127",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T17:15:39.000000Z",
+    "revealed_at": "2026-06-10T17:15:45.000000Z"
+}
