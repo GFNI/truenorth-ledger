@@ -1,0 +1,22 @@
+{
+    "round_id": "86913e1c-5020-4ff8-957f-ad348fe5826c",
+    "draw_title": "£2000 for a penny!",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/ps2000-for-a-penny-3",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "cc3352421aa968428a01a8814377e2a394e58027f7c17dbb42928ca6336380c4",
+    "drand_seed_hash": "8490323c50cea35c7cc3578a60a9b4b738e830b2e23ba6f6e467dc7a90e9937a794e4a1412a589bad537e327c79e07ed",
+    "client_seed": "1781098455621",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 134087,
+    "max_tickets": 320000,
+    "combined_hash": "a74b2240ff4994b833df64e74b5be51e8e49220911e79207fc916aece5e05c38",
+    "result": "149416",
+    "external_round_id": "29431699",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T13:34:15.000000Z",
+    "revealed_at": "2026-06-10T13:34:21.000000Z"
+}
