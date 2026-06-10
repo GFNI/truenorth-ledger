@@ -1,0 +1,22 @@
+{
+    "round_id": "3d281cd1-a51a-45be-9822-421cb4f695a9",
+    "draw_title": "£50,000 COPS & ROBBERS",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps50000-cops-robbers",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "cd49e99129813d76159c9c5f8683814654c52f914f3f054bca057ffc8be33b53",
+    "drand_seed_hash": "868734e2f5819c7ee9c695acfe21932a4e2fc068543d2325b515d88ddccd41168e0ba61a80d7d1157a38bdee2a90a71e",
+    "client_seed": "1781124247830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33735,
+    "max_tickets": 850000,
+    "combined_hash": "39f1b00febc9d321dc4e365471f4bd639f59e4a30e353f68a5bc5ee9f4aa2b4f",
+    "result": "604330",
+    "external_round_id": "29440297",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T20:44:07.000000Z",
+    "revealed_at": "2026-06-10T20:44:15.000000Z"
+}
