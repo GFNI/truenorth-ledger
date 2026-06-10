@@ -1,0 +1,22 @@
+{
+    "round_id": "daa86d74-574d-477c-897d-4bf58835f11a",
+    "draw_title": "Massive Gold Instants!",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/massive-gold-instants",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "fec0897c973c7aab90b659218643647a007124624b0be6d6910d6f0596fb5f67",
+    "drand_seed_hash": "a46717901584f679f761d71d092b19fa2c8698b9a2152f8b92b80bdc384ade19594f9567e21f5a774d151412ece1babb",
+    "client_seed": "1781086284942",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7020,
+    "max_tickets": 12000,
+    "combined_hash": "584eb6668e5ae52b36abd5c8193e0a0294fdab9cb0e9765298375fbc8a3a4d14",
+    "result": "11641",
+    "external_round_id": "29427643",
+    "processing_status": "completed",
+    "created_at": "2026-06-10T10:11:25.000000Z",
+    "revealed_at": "2026-06-10T10:11:33.000000Z"
+}
