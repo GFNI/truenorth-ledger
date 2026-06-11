@@ -1,0 +1,22 @@
+{
+    "round_id": "aea8f61e-5738-40dd-9f73-bbcd79f0f25b",
+    "draw_title": "Feed The Family Shop",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/feed-the-family-shop",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "f3dbf6d3b8ff5085e822e0af4aa4e7549f8358bd2459bbbc85b812bb6195ed50",
+    "drand_seed_hash": "b2826354d73e24841ae6e475b00d8c712ed3147c83aa7139ff0d49d592cddf50f341cf4d41c008789d0c2e73d4918f7b",
+    "client_seed": "1781205934399",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 351,
+    "max_tickets": 750,
+    "combined_hash": "414097c47921494a517653e6c39cc4adfa88fc365aa3e862448e50125c6d7dea",
+    "result": "222",
+    "external_round_id": "29467526",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T19:25:34.000000Z",
+    "revealed_at": "2026-06-11T19:25:42.000000Z"
+}
