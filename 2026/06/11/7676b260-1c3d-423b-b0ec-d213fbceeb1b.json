@@ -1,0 +1,22 @@
+{
+    "round_id": "7676b260-1c3d-423b-b0ec-d213fbceeb1b",
+    "draw_title": "APPLE iPhone 17 Pro - 256 GB, Cosmic Orange 🧡",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-iphone-17-pro-256-gb-cosmic-orange-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "38a5f52fab2f1388bf5806ce8f87d969c304082477058729c5a20b71f3f4fa97",
+    "drand_seed_hash": "b9a7b36ad029eae52237cb5af5b4746f2cfe4856bafdfb2b1fa79426d708ed9696b86b972499602b94aa13e5fc3adb5d",
+    "client_seed": "1781201330131",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1750,
+    "max_tickets": 1750,
+    "combined_hash": "369567527608e33146d344f8a313caeb5d16bd8a9de91806c1674556a4693161",
+    "result": "869",
+    "external_round_id": "29465991",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T18:08:50.000000Z",
+    "revealed_at": "2026-06-11T18:08:57.000000Z"
+}
