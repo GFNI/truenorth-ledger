@@ -1,0 +1,22 @@
+{
+    "round_id": "3d5cd2b8-7144-4376-984d-48d5675e719c",
+    "draw_title": "Two Garden chairs",
+    "competition_url": "https://winandgrin.co.uk/admin/products/two-garden-chairs",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "0cefe86ab7cc9ef822ab8a4caa48ffd074b9e03896307cd5286caa73d9f16b34",
+    "drand_seed_hash": "a79ca5535925f105b58f169c6d101e5fba0536beb529a5e1b27626480589bb05a9546bb1d60f90bc2a44a390bfcc49e7",
+    "client_seed": "1781208648783",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 500,
+    "combined_hash": "0e012dc2a36e91513a0317e74bd09252172a3cd3a191cf34e58d9d2ae4a60b0d",
+    "result": "295",
+    "external_round_id": "29468430",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T20:10:48.000000Z",
+    "revealed_at": "2026-06-11T20:10:54.000000Z"
+}
