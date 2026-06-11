@@ -1,0 +1,22 @@
+{
+    "round_id": "b2a318ec-4334-4490-8a9c-dee14559a656",
+    "draw_title": "£200 TAX FREE CASH FOR 50p  #3",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/ps200-tax-free-cash-for-50p-3-2",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "283eea0b42830d0caf2b276324e6a34e127d1406a6a90964c6107131e6428c0c",
+    "drand_seed_hash": "b8891d14cab7118b20b87229517e3cb63f1f098284e2c79c1d5aa73b079971e5d154ee720cb57cfd291d8408159fefc6",
+    "client_seed": "1781201493276",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 333,
+    "max_tickets": 600,
+    "combined_hash": "870baa16a9a09ee03dc294c479daeca2301b7fa254f631dfdf45b204c8a27c21",
+    "result": "24",
+    "external_round_id": "29466045",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T18:11:33.000000Z",
+    "revealed_at": "2026-06-11T18:11:39.000000Z"
+}
