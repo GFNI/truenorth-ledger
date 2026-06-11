@@ -1,0 +1,22 @@
+{
+    "round_id": "66b1ecee-a796-4bb0-bb55-3908785d9b7b",
+    "draw_title": "Win £150 Smyths Gift Card #5",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps150-smyths-gift-card-5",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "e846349b8c476bc2a0b72e2899c06010f5d33476a55f16c19b227b1b3c3f8410",
+    "drand_seed_hash": "8bc25b5106db7c0b237d9208a38cbde91e07891a0268ad6d090701fb0e7a0e548604ee9f36fcb4886664e6cd3f59b7ca",
+    "client_seed": "1781201393384",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 425,
+    "max_tickets": 1000,
+    "combined_hash": "dcc5c92e72a1472890c3d508e3b9737022d32f87ab61f9ac10105af5e7fb0de4",
+    "result": "325",
+    "external_round_id": "29466012",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T18:09:53.000000Z",
+    "revealed_at": "2026-06-11T18:10:00.000000Z"
+}
