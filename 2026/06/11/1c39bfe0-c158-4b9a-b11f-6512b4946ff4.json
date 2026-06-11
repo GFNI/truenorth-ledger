@@ -1,0 +1,22 @@
+{
+    "round_id": "1c39bfe0-c158-4b9a-b11f-6512b4946ff4",
+    "draw_title": "⛅ Cloud Nine Bundle ⛅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/cloud-nine-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "89ac5a56cded5c647a3fb10763c8400e2c05e5adb8c1fbb08cc1daed90ef5f11",
+    "drand_seed_hash": "aa2fb5abd5c6c40d50fe954038b45e03614b4d7688eeac09b63e01c95bfd5bd80313e439e0a5daad7e8ff01b0ae61be1",
+    "client_seed": "1781202733477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 787,
+    "max_tickets": 1475,
+    "combined_hash": "39ba85f16d580d9ac55203b0426b8b6d0cf8095f4f982bc08c6403f65e1991c0",
+    "result": "218",
+    "external_round_id": "29466459",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T18:32:13.000000Z",
+    "revealed_at": "2026-06-11T18:32:21.000000Z"
+}
