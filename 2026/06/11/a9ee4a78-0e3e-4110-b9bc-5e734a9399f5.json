@@ -1,0 +1,22 @@
+{
+    "round_id": "a9ee4a78-0e3e-4110-b9bc-5e734a9399f5",
+    "draw_title": "🌃 2 Night Stay for Two at Boutique Farm Bothies, Huntly 🌃",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/2-night-stay-for-two-at-boutique-farm-bothies-huntly",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "2ec85f7778ad5759bb5bf706659571f6dbf4ec370cf432956dc9b295a7da23af",
+    "drand_seed_hash": "a21b7461c2c7bd535a210d4f943eab5909b9369616b96b3d1aed08dc1a08c5ae39119221b582795926ac397b4259e2d8",
+    "client_seed": "1781201970666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1025,
+    "max_tickets": 1025,
+    "combined_hash": "74a24c34e394f7f304e41dfc262d290aca6b8e885fa09fb05da525b52cf5edc7",
+    "result": "657",
+    "external_round_id": "29466204",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T18:19:30.000000Z",
+    "revealed_at": "2026-06-11T18:19:36.000000Z"
+}
