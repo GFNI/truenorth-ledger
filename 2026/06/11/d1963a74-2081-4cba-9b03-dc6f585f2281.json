@@ -1,0 +1,22 @@
+{
+    "round_id": "d1963a74-2081-4cba-9b03-dc6f585f2281",
+    "draw_title": "Sol De Janeiro Set",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/sol-de-janeiro-set",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "ee9607462c6282a0812181e85445e939324bd05446a1dd5aed97df1446a76b97",
+    "drand_seed_hash": "8c5930f482eddc36be1c98e08fe6daa4a8b6cbf6417830177ce9f78998fa6c524f97d9a35060102abb34983af815f5f8",
+    "client_seed": "1781205033381",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 40,
+    "combined_hash": "95a307fbddd2ce3413d6e84f060ce939d36c3dfb132c5c041cd4a7feabf0db5c",
+    "result": "6",
+    "external_round_id": "29467225",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T19:10:33.000000Z",
+    "revealed_at": "2026-06-11T19:10:39.000000Z"
+}
