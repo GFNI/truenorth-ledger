@@ -1,0 +1,22 @@
+{
+    "round_id": "7d8dc582-73a1-414f-bd81-07f9ccf1fa50",
+    "draw_title": "Ace 10 Gengar Vmax",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-gengar-vmax",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "98f34383f1e63031e934a0391cacf2ab8a7fa0bf6c7096e403ee98461c8c3bc3",
+    "drand_seed_hash": "aaa2f0bd2b75c742a42f7330e7adc6dc20858621496abfd04b4bb4db742cb82a7e6e06408f9dfe73314273093ed99fc8",
+    "client_seed": "1781212233363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 199,
+    "max_tickets": 250,
+    "combined_hash": "08054a5f2abe82311aab73153227ce5a57934ba48274f3b21a599b8c673480b5",
+    "result": "223",
+    "external_round_id": "29469625",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T21:10:33.000000Z",
+    "revealed_at": "2026-06-11T21:10:39.000000Z"
+}
