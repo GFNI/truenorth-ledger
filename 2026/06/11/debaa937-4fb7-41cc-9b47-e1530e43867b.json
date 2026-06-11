@@ -1,0 +1,22 @@
+{
+    "round_id": "debaa937-4fb7-41cc-9b47-e1530e43867b",
+    "draw_title": "Ninja Blast Portable Blender (Child Draw)",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/home-doe-ninja-blast-portable-blender",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "d75380338882789b7ac2ae48fec69fa29c7bcc9438b3ea6b98fd6338aa1f85c2",
+    "drand_seed_hash": "b172a37f4d43b23716c94a6d54d3d163f3d81fa7ac75ca7b94d3e0e4a42d997608ba4bf414713bf93b8ba21605f28ef3",
+    "client_seed": "1781204723831",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 210,
+    "combined_hash": "2b841f7e885377cbba2b86ac00e10c8f150325159f76e3e483715d98f150313d",
+    "result": "18",
+    "external_round_id": "29467122",
+    "processing_status": "completed",
+    "created_at": "2026-06-11T19:05:23.000000Z",
+    "revealed_at": "2026-06-11T19:05:30.000000Z"
+}
