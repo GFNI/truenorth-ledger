@@ -1,0 +1,22 @@
+{
+    "round_id": "31accc10-cfed-4416-a323-ba548d4243ba",
+    "draw_title": "£50 Coffee Voucher",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps50-coffee-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "18b5fe747071d62ad624b80368383f51b9e934c97af43899baba0998b87f915a",
+    "drand_seed_hash": "b0776d1044153c24a9cd2ca17d1f26676b68c198d186b4e1355a2c040dfc3f367b32f9f324ea3033b1bb5db079fc5f0a",
+    "client_seed": "1781297290336",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "680410b19933c9ef1b1cc79b71335eb6943df4408e271f0b2b2ca0e0ef669af2",
+    "result": "137",
+    "external_round_id": "29497978",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T20:48:10.000000Z",
+    "revealed_at": "2026-06-12T20:48:18.000000Z"
+}
