@@ -1,0 +1,22 @@
+{
+    "round_id": "defb3c80-ee04-4731-941f-2838ecd1d079",
+    "draw_title": "Friday Fives - 5x £500 Winners Plus £5,000 Instant Wins June26 #1",
+    "competition_url": "https://proprizes.co.uk/admin/products/friday-fives-5x-ps500-winners-plus-ps5000-instant-wins-june26-1",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "2b7c8540cd6302e80ab68d22d960432cf2d2442adce7497d1860f01301c4852c",
+    "drand_seed_hash": "8c7cdd8d6594cdaf086b0d70baa3732ef90727f0c1920a773ca77697920a3677de5e94c0be3873d0dd859d5d01d841e5",
+    "client_seed": "1781300433895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14660,
+    "max_tickets": 22500,
+    "combined_hash": "a921ac40f3d1f1aa6bdf9c2586f1e59b6f1e4067c2f35565cbf5ff65b89e7edb",
+    "result": "5134",
+    "external_round_id": "29499025",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T21:40:33.000000Z",
+    "revealed_at": "2026-06-12T21:40:39.000000Z"
+}
