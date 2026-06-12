@@ -1,0 +1,22 @@
+{
+    "round_id": "fe583c1e-dd33-443a-9af0-9effc9422db0",
+    "draw_title": "£200 DAILY CASH - FRIDAY",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps200-daily-cash-friday",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "6970abb3f5385df8aa2da32233d4d49a412fff2aa5ce1b3fa19e38a1a4979256",
+    "drand_seed_hash": "ad2b6e29352b3c095edc253f983bc1abef3eea4b8fffaf1d50071dc97ae9dbaee8e64020e371ab5c65296fc613a898ff",
+    "client_seed": "1781294699575",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 1600,
+    "combined_hash": "30e3247b2a1c5301080a58abfd5ddd6f730a2cc9054ce1908baea1ef511a2f9c",
+    "result": "625",
+    "external_round_id": "29497114",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T20:04:59.000000Z",
+    "revealed_at": "2026-06-12T20:05:06.000000Z"
+}
