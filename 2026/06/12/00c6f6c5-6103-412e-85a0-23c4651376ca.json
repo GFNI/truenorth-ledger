@@ -1,0 +1,22 @@
+{
+    "round_id": "00c6f6c5-6103-412e-85a0-23c4651376ca",
+    "draw_title": "Cash Ladder Mini Game",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/cash-ladder-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "f75f086b8a93881cde0605806faf3bec7e8e6bee39b28427ef6a42ede1646bed",
+    "drand_seed_hash": "b7b55bc6602d85a3019820a0a46ef75f0f8cc1982108846c6db27dc4c15e634e8cad2385569064f90e3b3897e81b157a",
+    "client_seed": "1781263834450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "19a52082b6cb5342556906afe564707d24bade35562fd280d58a83ea36e45100",
+    "result": "98",
+    "external_round_id": "29486826",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T11:30:34.000000Z",
+    "revealed_at": "2026-06-12T11:30:42.000000Z"
+}
