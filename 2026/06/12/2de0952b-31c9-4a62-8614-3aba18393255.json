@@ -1,0 +1,22 @@
+{
+    "round_id": "2de0952b-31c9-4a62-8614-3aba18393255",
+    "draw_title": "Pool Comp Mini Game",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/pool-comp-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "668ab396f1cb465cc180245b36c0b20c484f383f61b2c37d171a0706fdd25540",
+    "drand_seed_hash": "a9eaa240d9be6ded0391f09e8b57ed26361c34f2b317e5410e97be8c1f4e5d452b6eff181865182836273312cb192144",
+    "client_seed": "1781264795383",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "9e8e836dc5bfb0da20c830245bbca20047692b28c333413fc1fd3b5fc61be2b0",
+    "result": "21",
+    "external_round_id": "29487146",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T11:46:35.000000Z",
+    "revealed_at": "2026-06-12T11:46:42.000000Z"
+}
