@@ -1,0 +1,22 @@
+{
+    "round_id": "33fdff21-7faf-4e49-8bca-a9ffae54a78b",
+    "draw_title": "Topps Gold 25/26 Box #2",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/topps-gold-2526-box-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "dd83c3efa13684e9c7fdfd8ac97575803ff7d19b1197fb970c6debbbf8d7047c",
+    "drand_seed_hash": "956eb75341cdd7daf0ef4535fb7a2c2820768021fb51965633774be41563daa07728ce021ca95d90e05996cc7a5fec87",
+    "client_seed": "1781298633494",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 147,
+    "max_tickets": 400,
+    "combined_hash": "18493cb0b3ebf6d2789b1b07cf4487d40763d76eb40ef9228e9a8a049a22d678",
+    "result": "89",
+    "external_round_id": "29498425",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T21:10:33.000000Z",
+    "revealed_at": "2026-06-12T21:10:39.000000Z"
+}
