@@ -1,0 +1,22 @@
+{
+    "round_id": "5df3807a-f911-450b-b129-f574edc475bb",
+    "draw_title": "20K Safe Cracker Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/20k-safe-cracker-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2089bdee1b12f4c08e82db9604a4a26ba42b2d4e48ddec106d539ef223c59ded",
+    "drand_seed_hash": "a5aeface266b29c697288512f7fb992f72fcbebfe458d887b20e5d65eb707360199ec4ffec338e1dc239368b33ecb7cc",
+    "client_seed": "1781297929730",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6295,
+    "max_tickets": 40000,
+    "combined_hash": "b1b0fc5b713cc0432d093edec4bff3daf5e52681ad639c3517642ce6c88e9c0a",
+    "result": "6962",
+    "external_round_id": "29498191",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T20:58:49.000000Z",
+    "revealed_at": "2026-06-12T20:58:57.000000Z"
+}
