@@ -1,0 +1,22 @@
+{
+    "round_id": "c0b9222f-05b1-46c3-9108-ded2040f03b7",
+    "draw_title": "ODDS BOOSTER AUTO DRAW WIN 25 TICKETS INTO THE BULLION BONANZA MAIN DRAW",
+    "competition_url": "https://twd.rafflex.uk/admin/products/odds-booster-auto-draw-win-25-tickets-into-the-bullion-bonanza-main-draw-2",
+    "operator": {
+        "name": "TWD Competitions",
+        "website": "https://twd.rafflex.uk",
+        "company_number": "15807042"
+    },
+    "drand_server_seed": "fce497b26499869ab04d47f2cbbcb480c45587f1464ab234fa59be78917c20ec",
+    "drand_seed_hash": "b71003028dc2aff652c8d68e9271eeb439b28cb62682bcf5e9f7bec19b244a1f9049057e621e06e5c966eb218c19e31d",
+    "client_seed": "1781259877193",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15,
+    "max_tickets": 280,
+    "combined_hash": "3993f9eb08c5a12f6e0db3f5bb1b1e5cc9701fd0806bb182ff0b1f92a3a1750b",
+    "result": "154",
+    "external_round_id": "29485507",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T10:24:37.000000Z",
+    "revealed_at": "2026-06-12T10:24:45.000000Z"
+}
