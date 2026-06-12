@@ -1,0 +1,22 @@
+{
+    "round_id": "51827aa3-1582-453a-bdd4-60f12da420dc",
+    "draw_title": "PENNY INSTANT WINS! (£250 MAIN PRIZE) 12/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/penny-instant-wins-ps250-main-prize-1206",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "6bfdd36584fed7c80b8112bd525f9e3c0c47b5d1e11c91157260152d13eb0baa",
+    "drand_seed_hash": "80bfdf589e8974c2cf97249ce75e459547c3a7a03db41d00ed8937dbab22144179954fb9c73199ca1af2ef7ef947a39f",
+    "client_seed": "1781304032904",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 304977,
+    "max_tickets": 1000000,
+    "combined_hash": "9d5a43c2b69536b1ce0e4b24e86c326bf131c87220e377a201f3448b9b3e9224",
+    "result": "194014",
+    "external_round_id": "29500225",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T22:40:32.000000Z",
+    "revealed_at": "2026-06-12T22:40:39.000000Z"
+}
