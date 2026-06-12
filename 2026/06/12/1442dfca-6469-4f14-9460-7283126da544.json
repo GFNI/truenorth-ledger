@@ -1,0 +1,22 @@
+{
+    "round_id": "1442dfca-6469-4f14-9460-7283126da544",
+    "draw_title": "£250 Quickfire",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps250-quickfire-4",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "56510d5180d81bda4d550f3c5bbfc3edc2b6708103a220817d8d4243030b17fc",
+    "drand_seed_hash": "b70853cdc991317dc43e079bef159f26d222125c1017fe5ab3b6ae4b832274da80bd5199aeaae9511324f0aab8b45f0c",
+    "client_seed": "1781259935860",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19296,
+    "max_tickets": 60000,
+    "combined_hash": "b6f8a674bb5c3aa71fbf3ed367242f7fd9f012925247899db951dc5a88a55fc3",
+    "result": "19703",
+    "external_round_id": "29485526",
+    "processing_status": "completed",
+    "created_at": "2026-06-12T10:25:35.000000Z",
+    "revealed_at": "2026-06-12T10:25:42.000000Z"
+}
