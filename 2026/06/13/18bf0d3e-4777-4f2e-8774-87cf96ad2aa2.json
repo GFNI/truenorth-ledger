@@ -1,0 +1,22 @@
+{
+    "round_id": "18bf0d3e-4777-4f2e-8774-87cf96ad2aa2",
+    "draw_title": "🎁 FREE Kids One4all Gift Card Giveaway!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/free-kids-one4all-gift-card-giveaway",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "915b422be98d51659c1a3622d53d736e76251f63ffa9eccc9e5f91ecc2dc8a7b",
+    "drand_seed_hash": "809aae5591b4759efb6cf78450c96554846cb0ad26b94a6fdccac3c434d40f73acc653e5571f3e22a2500f71cecfbd4f",
+    "client_seed": "1781341832958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 200,
+    "combined_hash": "745c0978a453acda9392572a25bd83837489d244e44b71d17ec29b4fdd5a6b8e",
+    "result": "13",
+    "external_round_id": "29512825",
+    "processing_status": "completed",
+    "created_at": "2026-06-13T09:10:33.000000Z",
+    "revealed_at": "2026-06-13T09:10:39.000000Z"
+}
