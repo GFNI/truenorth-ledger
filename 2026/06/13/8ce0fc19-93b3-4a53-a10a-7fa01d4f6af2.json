@@ -1,0 +1,22 @@
+{
+    "round_id": "8ce0fc19-93b3-4a53-a10a-7fa01d4f6af2",
+    "draw_title": "Bbh",
+    "competition_url": "https://truenorth.rafflex.io/",
+    "operator": {
+        "name": "GFNI LTD",
+        "website": "https://getfoundni.co.uk",
+        "company_number": "181873737"
+    },
+    "drand_server_seed": "a3b84f75073cfa6d36d9eb06e6b9352d4b336908abfedbc65ea9f8c0e8d568d4",
+    "drand_seed_hash": "b794115bbd03f810766508bf5056302f2225e02fbbf157403ceacb79a3b378093f8c92c0ca9557d404b764075b6e0147",
+    "client_seed": "1781355935913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "b7aed188d067fa420236a0654620561538ddc160be387902e2afa7de9e8758e1",
+    "result": "28",
+    "external_round_id": "29517526",
+    "processing_status": "completed",
+    "created_at": "2026-06-13T13:05:35.000000Z",
+    "revealed_at": "2026-06-13T13:05:45.000000Z"
+}
