@@ -1,0 +1,22 @@
+{
+    "round_id": "0b7308d8-04de-44b8-805c-4be662e2d76f",
+    "draw_title": "B I N G O #2",
+    "competition_url": "https://fireprizes.co.uk/admin/products/b-i-n-g-o-2",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "28052cd59b95327a0343f8d56cba6b7e22b2b0da901592d45c36fc8876b3ea1d",
+    "drand_seed_hash": "aecdf6c45b3defbd2ad86365af2506daeaa9cc02b8b70c4df206b7d8c6def4b8709b41b0a056855365855bcfae08b04d",
+    "client_seed": "1781392233882",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1164,
+    "max_tickets": 20000,
+    "combined_hash": "aaef7127a77b358aa3e7362b0674ec2ec03443806a3a81fdd47cca36e34cfe93",
+    "result": "18347",
+    "external_round_id": "29529625",
+    "processing_status": "completed",
+    "created_at": "2026-06-13T23:10:33.000000Z",
+    "revealed_at": "2026-06-13T23:10:39.000000Z"
+}
