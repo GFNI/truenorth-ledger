@@ -1,0 +1,22 @@
+{
+    "round_id": "1a703779-21c3-4e2e-a29e-9e76b6c5d252",
+    "draw_title": "LED Karaoke Machine",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/led-karaoke-machine",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "5dc7c81ce95aeba2263854228c233cd168ded059b68d522b712a6ce9602f9e67",
+    "drand_seed_hash": "ac32e0362c136257806bf93ba622205334b64d5c2b9f8395d16d87b4f85c17950823288c15b4e04136b8bbbdde61c651",
+    "client_seed": "1781464465751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 200,
+    "combined_hash": "642a6b6816d3a11aaab61171284de1f32517924ebc224da827acd5e334180f78",
+    "result": "69",
+    "external_round_id": "29553702",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:14:25.000000Z",
+    "revealed_at": "2026-06-14T19:14:30.000000Z"
+}
