@@ -1,0 +1,22 @@
+{
+    "round_id": "888d4dc5-48ad-49ec-80e8-47e661e65b3a",
+    "draw_title": "Safe Cracker High Roller Low Odds End Prize £100",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/safe-cracker-high-roller-low-odds-end-prize-ps100",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "95b612e1fef746f580594601f0f11732f1976416e859c4673dce1e27f24f8f7d",
+    "drand_seed_hash": "94ab0aee6005cb3bdec748039dc11b89e9f7b9b4bea74992e4d4d1db2f449b0153868331cd0b77db87cf0be2bc20d116",
+    "client_seed": "1781460381294",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 145,
+    "max_tickets": 1000,
+    "combined_hash": "9c1117db65bdbfea936fb683e5e16a8418b0573b69240db175be4bbe61a592f8",
+    "result": "141",
+    "external_round_id": "29552341",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T18:06:21.000000Z",
+    "revealed_at": "2026-06-14T18:06:27.000000Z"
+}
