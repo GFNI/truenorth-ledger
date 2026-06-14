@@ -1,0 +1,22 @@
+{
+    "round_id": "54f3ebc2-4d31-48fd-90f3-c0bcbc5a7f0a",
+    "draw_title": "WIN 2000 TICKETS IN RANGE ROVER COMP #5",
+    "competition_url": "https://easybigwins.co.uk/admin/products/win-2000-tickets-in-range-rover-comp-5",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "aa2adcac6afad4c273664d36e40512b187849d40ffbbca313963a5eaf369f9fe",
+    "drand_seed_hash": "a8e56cfd8e0ae42f3af14a9312b575ea82a278a112d16079e1b1b9bbfd157274720d4143e60549347a698caf4c9b37aa",
+    "client_seed": "1781468689336",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "823035b06615ebb4ede551488ea8869465ae14d7509a42aa6a99b5fe168ea838",
+    "result": "243",
+    "external_round_id": "29555110",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:24:49.000000Z",
+    "revealed_at": "2026-06-14T20:24:54.000000Z"
+}
