@@ -1,0 +1,22 @@
+{
+    "round_id": "17332ae7-ad7c-431f-a986-41b1f2f71e86",
+    "draw_title": "GEM HUNT - WIN UP TO £1,000 INSTANTLY!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/gem-hunt-win-up-to-ps1000-instantly",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "95e054333566c94877ec0ae393ef4010dc1d11a88bdf3d9f5386e825727386f5",
+    "drand_seed_hash": "82fb0bf4a33cafaf398ca206fadb260c92b35ee11928e71134cc77e6f260944ea9420c366bcbb06ce8ef89e0447c0674",
+    "client_seed": "1781470959429",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189666,
+    "max_tickets": 250000,
+    "combined_hash": "a932b31caacc29af9ff39def04f52005b9153bf2c3b4541f9172af8c0b18eea0",
+    "result": "5962",
+    "external_round_id": "29555867",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T21:02:39.000000Z",
+    "revealed_at": "2026-06-14T21:02:45.000000Z"
+}
