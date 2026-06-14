@@ -1,0 +1,22 @@
+{
+    "round_id": "641b68bf-b0a7-4f33-b883-0e963592c7b2",
+    "draw_title": "Super Scratch - Win up to £100 INSTANTLY",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/super-scratch-win-up-to-ps100-instantly",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "c611e814314b727195681c3580365ddec84fd6634d965e75c8717eca4245b64e",
+    "drand_seed_hash": "860a5b8d9a6600f9fc31bd341d37dc4d79d6d838a2b050b0d1646b095e30859997cda8e6e21b6ab964122b5b2f22e1c7",
+    "client_seed": "1781467834937",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13192,
+    "max_tickets": 76120,
+    "combined_hash": "2944df38447925b8c87b97d92189399e78d038062e995013d7705c8203a52623",
+    "result": "67994",
+    "external_round_id": "29554826",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:10:35.000000Z",
+    "revealed_at": "2026-06-14T20:10:42.000000Z"
+}
