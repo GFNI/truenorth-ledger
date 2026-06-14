@@ -1,0 +1,22 @@
+{
+    "round_id": "12075f91-272e-4560-aa24-99aa6a959f47",
+    "draw_title": "Samsung 65 Inch TV",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/samsung-65-inch-tv",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0fc27078d242eb001b378277f4d15a2a3b32f1d700d4955e1c7e149be3a3456e",
+    "drand_seed_hash": "a6f2f42b1e90862ad28fee9ed2f095f4d993d0a37f2ce9c841f48d670a9c6bfbc3757360df52bf0370261231fbb8b51e",
+    "client_seed": "1781468408913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 528,
+    "max_tickets": 1200,
+    "combined_hash": "2f6040c1384c3e89d6a1f4923898c2f38a32e0b5bddbfa0d8d9f54155b32c4b0",
+    "result": "416",
+    "external_round_id": "29555017",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:20:08.000000Z",
+    "revealed_at": "2026-06-14T20:20:15.000000Z"
+}
