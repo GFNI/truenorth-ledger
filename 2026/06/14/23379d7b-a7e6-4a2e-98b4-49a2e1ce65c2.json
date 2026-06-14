@@ -1,0 +1,22 @@
+{
+    "round_id": "23379d7b-a7e6-4a2e-98b4-49a2e1ce65c2",
+    "draw_title": "Pokémon Chaos Rising ETB & Booster Box + Instant Ticket Wins! #2",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-chaos-rising-etb-booster-box-instant-ticket-wins-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "de0bdd58639001fff55148b048972b815d59f5a53db0b58ef0ca3c820a4a8877",
+    "drand_seed_hash": "b2a6d4dada880e575c68a39094a26b1eacc086df1311cf66745354e95d5a2841d588e6751d26bd19418079e1944cea4b",
+    "client_seed": "1781472081951",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 380,
+    "max_tickets": 1066,
+    "combined_hash": "ad979d29d7404389068c0f42c2faa6adf9ad38a2f1ed31d74ca7c2d22db2b8d4",
+    "result": "82",
+    "external_round_id": "29556241",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T21:21:21.000000Z",
+    "revealed_at": "2026-06-14T21:21:27.000000Z"
+}
