@@ -1,0 +1,22 @@
+{
+    "round_id": "829849c1-7ee9-4ae8-9d18-4f11f9d5a58e",
+    "draw_title": "Farmyard Frenzy",
+    "competition_url": "https://phatstax.co.uk/admin/products/farm-frenz",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "a8141a515beb41e0b02dfdd01d77ee81b9183fafe4677c99e72e48b7bf3a2812",
+    "drand_seed_hash": "b7ada632dcd0bb77a0f0da0799739e50cfcfff09f9eaa04c40b4ddb54a01aefc7947b0e4d51c6c870324dbfccbf670fa",
+    "client_seed": "1781456832240",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 169272,
+    "max_tickets": 353572,
+    "combined_hash": "92da4cb77afb53d69ecab64d6d82f2c5eaafdf3cde2b245d5fcd8a5b4cb8d5d6",
+    "result": "251535",
+    "external_round_id": "29551158",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T17:07:12.000000Z",
+    "revealed_at": "2026-06-14T17:07:18.000000Z"
+}
