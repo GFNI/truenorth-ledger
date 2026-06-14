@@ -1,0 +1,22 @@
+{
+    "round_id": "95493f4b-f66e-4258-a8fc-a9d374225dd0",
+    "draw_title": "£2000 PRIZE POT - CRACK THE SAFE",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ps2000-prize-pot-crack-the-safe",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "4e8dcfc1c179da7aa08272f2dd3c0c02370210107c7a92d9ae8fda4b46cfecd8",
+    "drand_seed_hash": "8d365d447a1fb93216b7e09bdb4502b4a43ceb770a072b2a052e70f8ca97ac6f3f4ad751e89618ec6346808bd3e43b53",
+    "client_seed": "1781467843226",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2658,
+    "max_tickets": 59999,
+    "combined_hash": "70d60527081d86b5e322566eb7f19ae1df5f6a7c40957705ed67b2ee9aac9022",
+    "result": "44912",
+    "external_round_id": "29554829",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:10:43.000000Z",
+    "revealed_at": "2026-06-14T20:10:51.000000Z"
+}
