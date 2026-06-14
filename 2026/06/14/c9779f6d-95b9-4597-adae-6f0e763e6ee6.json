@@ -1,0 +1,22 @@
+{
+    "round_id": "c9779f6d-95b9-4597-adae-6f0e763e6ee6",
+    "draw_title": "10,000 TICKETS TO AFFORDABLE CAR INSTANT WINNER - ODDS BOOSTER PLUS £25,000 INSTANT CASH!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/10000-tickets-to-affordable-car-instant-winner-odds-booster-plus-ps25000",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "b9abed844641133321944ac80206b28836dd0cc6c59bcb990b2d70d8c6cedcd7",
+    "drand_seed_hash": "a29d0b7eb68842fe60abc6cd3dcadee443e425602ccee73a41b9ec6b7dee65f9991d7bb18722a65345e603b4a3577408",
+    "client_seed": "1781464355299",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112669,
+    "max_tickets": 1000000,
+    "combined_hash": "7a3d89e288d2964719fcfc45b9e620d3ef762797cfd39dfb96f16b66b1bd6871",
+    "result": "644987",
+    "external_round_id": "29553666",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:12:35.000000Z",
+    "revealed_at": "2026-06-14T19:12:42.000000Z"
+}
