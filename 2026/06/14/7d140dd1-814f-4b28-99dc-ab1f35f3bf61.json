@@ -1,0 +1,22 @@
+{
+    "round_id": "7d140dd1-814f-4b28-99dc-ab1f35f3bf61",
+    "draw_title": "5K Whack The Pinata Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/5k-whack-the-pinata-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "fc266cce05e9a79acab4b68be11ae1f1b0a5846984600b69a052cc825d0aa620",
+    "drand_seed_hash": "a9cf8c51f2caf6e1120da9eaa020dcd1455a3e552d5d65fe070d5bd55883a8794ab3521cb0cc63525ae1aafa52c5cd42",
+    "client_seed": "1781468715912",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1886,
+    "max_tickets": 10000,
+    "combined_hash": "e2960dd47d77e8ab19b34c9e22823495270900493c5973ce1cd8e6ef7c12bf77",
+    "result": "387",
+    "external_round_id": "29555119",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:25:15.000000Z",
+    "revealed_at": "2026-06-14T20:25:21.000000Z"
+}
