@@ -1,0 +1,22 @@
+{
+    "round_id": "58d2e4e4-a962-4868-b326-13517ceff9ea",
+    "draw_title": "TWIST IT FOR A BISCUIT! WIN LIVE ON STREAM!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/twist-it-for-a-biscuit-win-live-on-stream-2",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "4fe4ed089bc7f92f183a826b1adfb4cbdd4ad8986add71236442819f3c0a1734",
+    "drand_seed_hash": "a9cce8196d4edc799c478ab1ddc658ceb3636b6d9937b41ad4b4452801a175cfefb2eed54963c17144a506902fa72439",
+    "client_seed": "1781472636352",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 118,
+    "max_tickets": 250,
+    "combined_hash": "eec78741631701dc5a614ebed67d70c44e9b8ddc036126a5007e42c74c97aba9",
+    "result": "83",
+    "external_round_id": "29556426",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T21:30:36.000000Z",
+    "revealed_at": "2026-06-14T21:30:42.000000Z"
+}
