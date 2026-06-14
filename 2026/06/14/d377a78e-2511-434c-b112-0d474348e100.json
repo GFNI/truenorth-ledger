@@ -1,0 +1,22 @@
+{
+    "round_id": "d377a78e-2511-434c-b112-0d474348e100",
+    "draw_title": "Summer Days - £1000 Voucher End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/summer-days-ps1000-voucher-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "afdc56e2f667ab0104b7b5e70835bcaf2d0404c1ae75c3d41953ef214df35ce5",
+    "drand_seed_hash": "992465ee6b8f30eaf0c85cbdac0fcc2d74b8af778fd9a5ef165cc01ea1da1ae2fbe7076e010ed23a06afbfe14606678f",
+    "client_seed": "1781466246972",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34973,
+    "max_tickets": 102550,
+    "combined_hash": "808008e7f730560c4bbb4220019c1c5cd5092f902f53ff23ea78824c8069d1ee",
+    "result": "11731",
+    "external_round_id": "29554297",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:44:07.000000Z",
+    "revealed_at": "2026-06-14T19:44:15.000000Z"
+}
