@@ -1,0 +1,22 @@
+{
+    "round_id": "196c1adf-ad8d-479d-a02d-99f7e5fdd686",
+    "draw_title": "Audi Q8 + INSTANT WINS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/audi-q8-instant-wins",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7e3a4aeb15477104b7c55111f1b1d0a35082c099c48befe6f33d0d8d62504503",
+    "drand_seed_hash": "aa04b7399e8f5703ddecf8a0e144f1728a61c0cc7551881d93b259a3f0b3f8627d9aa0bd4dafd3266cbdfa02d0e471fd",
+    "client_seed": "1781469431015",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46092,
+    "max_tickets": 90000,
+    "combined_hash": "5a34e0b8daa8d07abafa34b953df4d2c3ec7d880631298639c37a49cf5637799",
+    "result": "31211",
+    "external_round_id": "29555358",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T20:37:11.000000Z",
+    "revealed_at": "2026-06-14T20:37:18.000000Z"
+}
