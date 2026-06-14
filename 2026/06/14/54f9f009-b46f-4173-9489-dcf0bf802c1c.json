@@ -1,0 +1,22 @@
+{
+    "round_id": "54f9f009-b46f-4173-9489-dcf0bf802c1c",
+    "draw_title": "Whisky Club X Rare Find - Tamdhu 18 Year Old",
+    "competition_url": "https://whiskyclubuk.com/admin/products/whisky-club-x-rare-find-tamdhu-18-year-old-2",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "fc325ce00df774f66c4728a12e452c3576c6d3eeafa60ec76a1ca9c4aca661e1",
+    "drand_seed_hash": "a5b872f10bd716f752a6938d94ae99982186380020725b5a3d203299cc472720f3f38137fcd2fb83e30978360222cf82",
+    "client_seed": "1781471469570",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2841,
+    "max_tickets": 5999,
+    "combined_hash": "39bb82abcc2fbd6bc4b454a46c003efb31c4c64f535ac6e9b3be75017e5702d2",
+    "result": "3204",
+    "external_round_id": "29556037",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T21:11:09.000000Z",
+    "revealed_at": "2026-06-14T21:11:15.000000Z"
+}
