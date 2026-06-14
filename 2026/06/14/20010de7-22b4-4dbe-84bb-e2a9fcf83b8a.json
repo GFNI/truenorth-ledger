@@ -1,0 +1,22 @@
+{
+    "round_id": "20010de7-22b4-4dbe-84bb-e2a9fcf83b8a",
+    "draw_title": "SCRATCH AND REVEAL YOUR PRIZE - £500 END AUTO DRAW #4",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/scratch-and-reveal-your-prize-ps500-end-auto-draw-4",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "fedf62dedf2c3e876c945553b07054edd566fa942d9eda0d5fc1431726a492b3",
+    "drand_seed_hash": "971d80639564c97bd873d836a2792ac30469b2c18ff5ff625107a5dcca0faf5000bde513453e7a7a881f8737bb23348c",
+    "client_seed": "1781475034609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11066,
+    "max_tickets": 470000,
+    "combined_hash": "1a2db0d8aa82024b905fcad55273a1e15cc438a8f32ee1ddec95b1fc03fa53b2",
+    "result": "444539",
+    "external_round_id": "29557226",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T22:10:34.000000Z",
+    "revealed_at": "2026-06-14T22:10:42.000000Z"
+}
