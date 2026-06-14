@@ -1,0 +1,22 @@
+{
+    "round_id": "0f1cf25e-8514-4266-9cb6-590374d56f3e",
+    "draw_title": "Complete Tablet Computer",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/complete-tablet-computer-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d1eb69fd9734c4a261e6bb3f92f95b4b1abcbc6977852d35d3b22ce2b76835c0",
+    "drand_seed_hash": "972834b565dd2815fde5e3c90887b482f96d066663fe4b3469e478b77958b50b03e0b45d4e4228d3d314dba3b1259659",
+    "client_seed": "1781464591332",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 107,
+    "max_tickets": 250,
+    "combined_hash": "16f2ee87118c512a5169df58e3c50dc9517b955599c1130376629831195e8626",
+    "result": "203",
+    "external_round_id": "29553745",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:16:31.000000Z",
+    "revealed_at": "2026-06-14T19:16:39.000000Z"
+}
