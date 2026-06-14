@@ -1,0 +1,22 @@
+{
+    "round_id": "1b6e5c8a-c071-4b78-8513-c5c9ddb024dd",
+    "draw_title": "WIN a NINJA SLUSHI!",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/win-a-ninja-slushi",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "1b4722879e1624ea3e7ee75ee936defc1517ef8a2d5d7876b605ab73e7a1f487",
+    "drand_seed_hash": "a81f12ca87eca6e95b093d1378d79b9cf1f12b7f36460fb671bc3cdc073b6579f09676e8e9c7dfd539513c3963187bcf",
+    "client_seed": "1781457048530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 259,
+    "max_tickets": 1000,
+    "combined_hash": "7dd5a2c1cea59b28ad67618cd67a4ea217f86a1b5cd6cda59177cbdfa95b1eb7",
+    "result": "174",
+    "external_round_id": "29551230",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T17:10:48.000000Z",
+    "revealed_at": "2026-06-14T17:10:54.000000Z"
+}
