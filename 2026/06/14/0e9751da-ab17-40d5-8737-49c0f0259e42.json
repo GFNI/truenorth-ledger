@@ -1,0 +1,22 @@
+{
+    "round_id": "0e9751da-ab17-40d5-8737-49c0f0259e42",
+    "draw_title": "£75 for 75p LOW ODDS AUTODRAW",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ps75-for-75p-low-odds-autodraw-3",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "7315cb398e8afac96f608accf4275d6330b7df974f82987275a2da0d949f4b1b",
+    "drand_seed_hash": "99fcde4c85ccfdac72dd032277a56af921975b02830f0b0a2b1f5597d2f01bb873212d8e6b15eacaac1d898334358adb",
+    "client_seed": "1781464255399",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 150,
+    "combined_hash": "6029f26506c02846280eb093176ff6559103fd84f1c8ebb83d2bb3f08b99a211",
+    "result": "121",
+    "external_round_id": "29553632",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:10:55.000000Z",
+    "revealed_at": "2026-06-14T19:11:00.000000Z"
+}
