@@ -1,0 +1,22 @@
+{
+    "round_id": "2a3b4701-bd58-4103-8e90-fc5215527458",
+    "draw_title": "FLASH KORDA SET UP OR £2000 CASH PLUS EVERY TICKET WINS MORE THAN YOU SPEND!",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/flash-korda-set-up-or-ps2000-cash-plus-every-ticket-wins-more-than-you-spend",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "6595d7c90d1e27d2339145007fd3877d9fa07dafa6106e69170f33d459ecabce",
+    "drand_seed_hash": "b3e8e908667d58dcf18950eaab0be07f1146e06e4960cce33b0cef866dd8757abeeb1cb8b797d22983c016119cbdb1c1",
+    "client_seed": "1781464234702",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 856,
+    "max_tickets": 2000,
+    "combined_hash": "3fc53cd830259d8b638e032eed7b33d683a1d7a4a14d88a98a2492e1259c7e05",
+    "result": "1312",
+    "external_round_id": "29553625",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:10:34.000000Z",
+    "revealed_at": "2026-06-14T19:10:39.000000Z"
+}
