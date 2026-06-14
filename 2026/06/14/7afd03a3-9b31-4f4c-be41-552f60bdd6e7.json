@@ -1,0 +1,22 @@
+{
+    "round_id": "7afd03a3-9b31-4f4c-be41-552f60bdd6e7",
+    "draw_title": "LUCKY 13",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/lucky-13",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "a6c87f03306ce848474373115b2ee8b52bc7c234e19ba2dc74329d20cd9328f6",
+    "drand_seed_hash": "874ff2cf1f438d3eca46e0fa2454174a6e088aa73fee8e3404c630e5401227e03bb2049e5aea2a4ee4d069df74ef9c2f",
+    "client_seed": "1781464209769",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85678,
+    "max_tickets": 199999,
+    "combined_hash": "08f3ee7e4cc537c60e9837b457af33aba91b111aad99f07566a59017f27d1a66",
+    "result": "199648",
+    "external_round_id": "29553617",
+    "processing_status": "completed",
+    "created_at": "2026-06-14T19:10:09.000000Z",
+    "revealed_at": "2026-06-14T19:10:15.000000Z"
+}
