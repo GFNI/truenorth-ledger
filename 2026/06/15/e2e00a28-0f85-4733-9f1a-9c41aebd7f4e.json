@@ -1,0 +1,22 @@
+{
+    "round_id": "e2e00a28-0f85-4733-9f1a-9c41aebd7f4e",
+    "draw_title": "Camp Fire Cash Drop instant win comp!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/camp-fire-cash-drop-instant-win-comp-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "e5a04b1cbc1f21f3754e55152888c69ab4529156038488722a2a24f6193fa741",
+    "drand_seed_hash": "b4d9577112ab3094ac41a3b350d470674bf7b383616e8a1e528826a0a7e1962d470c8c8f12515173fdb622edd17ad71f",
+    "client_seed": "1781551739186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45836,
+    "max_tickets": 65999,
+    "combined_hash": "d3c810fdcfa811d76f1e8c47da1ac331bbf3305d17affdd375304eef7739dec5",
+    "result": "19966",
+    "external_round_id": "29582794",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T19:28:59.000000Z",
+    "revealed_at": "2026-06-15T19:29:06.000000Z"
+}
