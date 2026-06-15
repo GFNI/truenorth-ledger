@@ -1,0 +1,22 @@
+{
+    "round_id": "88c40621-e2fe-4100-b13b-423e6a1dd4b0",
+    "draw_title": "Ocean Riches",
+    "competition_url": "https://chaotic.co.uk/competition/ocean-riches",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "72f34a02d38ab835e374e77e43d48440bcd4f47f2b55341b7594e0bf7a9f8206",
+    "drand_seed_hash": "b8a52d9e45b4b804998f33373790ca1471c78ed900a81c927acbfc4264748a4f516e3da8f391d833b0e69c9bd5f1fa81",
+    "client_seed": "1781554222003",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 220694,
+    "max_tickets": 300000,
+    "combined_hash": "1a60215791ed5c4b1278fd3038df200e071e83b4aec4b744aff158ea3688d922",
+    "result": "205083",
+    "external_round_id": "29583622",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T20:10:22.000000Z",
+    "revealed_at": "2026-06-15T20:10:30.000000Z"
+}
