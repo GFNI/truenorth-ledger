@@ -1,0 +1,22 @@
+{
+    "round_id": "960c77c1-56bd-4608-a690-87c21dfec719",
+    "draw_title": "🍨 Ninja CREAMi Scoop & Swirl 13-in-1 Soft Serve & Ice Cream Maker (Choose Colour) 🍨",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-creami-scoop-swirl-13-in-1-soft-serve-ice-cream-maker-choose-colour",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "3a6716a69929c1e0367f2b313d6005e9d92f83c775f2ac5b091752eda90bd493",
+    "drand_seed_hash": "91dfc95b05cb2b440d92110f9162bd5f5d7204c01ef189664a47dde44d7e7b43d4890966bfcc6d1a40d19f1677f5da8a",
+    "client_seed": "1781546816837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 740,
+    "max_tickets": 740,
+    "combined_hash": "b7bb8a8a1032d1a61e55e3cbae45dc7ee4370e1925175fd4346619e531ae7bdf",
+    "result": "432",
+    "external_round_id": "29581153",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T18:06:56.000000Z",
+    "revealed_at": "2026-06-15T18:07:03.000000Z"
+}
