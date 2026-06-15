@@ -1,0 +1,22 @@
+{
+    "round_id": "ba892d4d-6d34-48b3-9f37-c77f5e01853e",
+    "draw_title": "£500 NHS STAFF & CARER GIVEAWAY",
+    "competition_url": "https://easypeasyprizes.com/admin/products/ps500-nhs-staff-carer-giveaway",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "75ddc78140b338c5b6d13da6b2a4308bf9253b71f58b69e6b3b93f9f25187f91",
+    "drand_seed_hash": "b5ba20b55d7728fc9c62d68d92d1c8f3a2bf1ddb7b83deb0aa4fdb4a39f172cde9167be9762d90d95cdc107bb5c18f8b",
+    "client_seed": "1781554239687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136,
+    "max_tickets": 1000,
+    "combined_hash": "fdebe30a49aa82a159614acf049e792b3cd22b967b4f93901ea5c9251e0a1309",
+    "result": "246",
+    "external_round_id": "29583627",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T20:10:39.000000Z",
+    "revealed_at": "2026-06-15T20:10:45.000000Z"
+}
