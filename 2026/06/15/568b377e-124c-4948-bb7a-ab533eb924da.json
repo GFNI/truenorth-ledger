@@ -1,0 +1,22 @@
+{
+    "round_id": "568b377e-124c-4948-bb7a-ab533eb924da",
+    "draw_title": "Smash the Piñata- Instant Wins!",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/smash-the-pinata-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "af892e2a5ec408e28b3be927e7410b724e36c57aae341379fc6652b17d2afcb6",
+    "drand_seed_hash": "8fa066840fff87e3498d3f374a6c7e5ec633a1f0684e05529322ceb46a56d1364d9222a82f7b0f043c9f3e870aeb4eb2",
+    "client_seed": "1781546881565",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23227,
+    "max_tickets": 99999,
+    "combined_hash": "0425d0a5ba0ff041c729d5dc3bb6ed24a24a698a21e86f32f1cd14f4ae1e1073",
+    "result": "9424",
+    "external_round_id": "29581175",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T18:08:01.000000Z",
+    "revealed_at": "2026-06-15T18:08:09.000000Z"
+}
