@@ -1,0 +1,22 @@
+{
+    "round_id": "d1f9648c-4944-4fd0-8c3e-5d81c83b0d1b",
+    "draw_title": "Paddling Pool or £50 Cash",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/paddling-pool-or-ps50-cash",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "63e3659ec48da96c03c8c4baf5c74ce360dde7324d8178e116deaa65739b6b8a",
+    "drand_seed_hash": "992de81ac789799a47ca2bf037d01a1fce7196f554ffa22d9340cdad3d2fac58661004a6633b22dae6595467e4dfe989",
+    "client_seed": "1781510843773",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35,
+    "max_tickets": 35,
+    "combined_hash": "92d85b54e10ee804e992de0f6f13afb6f75b5ae87f59b72ea277b6001343628e",
+    "result": "3",
+    "external_round_id": "29569162",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T08:07:23.000000Z",
+    "revealed_at": "2026-06-15T08:07:30.000000Z"
+}
