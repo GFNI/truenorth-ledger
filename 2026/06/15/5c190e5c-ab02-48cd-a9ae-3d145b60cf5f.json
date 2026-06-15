@@ -1,0 +1,22 @@
+{
+    "round_id": "5c190e5c-ab02-48cd-a9ae-3d145b60cf5f",
+    "draw_title": "WIN A NINTENDO SWITCH 2 + INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-a-nintendo-switch-2-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "74375c8389a2bab837f22b21b29563462782ba8ce970771e3f5138a89bb4422d",
+    "drand_seed_hash": "96a7b40117f4ac7aeddf45459043e2d0b8bfd0ba85e8ca6495a8a6e55cc54fcb8a1d967fbedc40b88a76248a8911e5ae",
+    "client_seed": "1781547060738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 330,
+    "max_tickets": 400,
+    "combined_hash": "9e441bdf82ab777b9b9039efadc7c5b66bc39c5a79c1dad124142d5c48769ecb",
+    "result": "207",
+    "external_round_id": "29581234",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T18:11:00.000000Z",
+    "revealed_at": "2026-06-15T18:11:06.000000Z"
+}
