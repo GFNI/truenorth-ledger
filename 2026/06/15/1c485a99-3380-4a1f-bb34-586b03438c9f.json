@@ -1,0 +1,22 @@
+{
+    "round_id": "1c485a99-3380-4a1f-bb34-586b03438c9f",
+    "draw_title": "15p Cash Arcade",
+    "competition_url": "https://chaotic.co.uk/competition/15p-cash-arcade-6697",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c41de909a1e218e61bd42f2d9e8a42b3f37c8175c529ff848e0dc4c4c6de0f2f",
+    "drand_seed_hash": "96f14bb963877f704a81b2568eefb59dee6781ac9d17e350e3499c797679b026fcd4cbd4e8cc228f16a5fff83969406c",
+    "client_seed": "1781553632318",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100000,
+    "max_tickets": 100000,
+    "combined_hash": "b6b192e95d2b10093488a4060e9070dd69b4ef95f186e3e4402ff3bdad33998b",
+    "result": "5079",
+    "external_round_id": "29583425",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T20:00:32.000000Z",
+    "revealed_at": "2026-06-15T20:00:39.000000Z"
+}
