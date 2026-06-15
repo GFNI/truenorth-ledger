@@ -1,0 +1,22 @@
+{
+    "round_id": "7fa2a284-7fa5-47a2-b611-8f9150b8d923",
+    "draw_title": "Free Takeaway",
+    "competition_url": "https://jetcomps.co.uk/admin/products/free-takeaway-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "9d56a243184242f3360f640bdc1ae7212101da1015c39b0babb303ee7cf6ecb2",
+    "drand_seed_hash": "a7b3d89a1e60cfc96aa61373f59eeda7793862ce58707026e09f2e9e05ffa8e19441febc053a2550b0bfd2f14d14f013",
+    "client_seed": "1781551614950",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179,
+    "max_tickets": 1000,
+    "combined_hash": "9945bfdc0ab9a5d7843f55a62013733f576ffe2f9d01cd81b934ff7d4f1c5f23",
+    "result": "714",
+    "external_round_id": "29582753",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T19:26:55.000000Z",
+    "revealed_at": "2026-06-15T19:27:03.000000Z"
+}
