@@ -1,0 +1,22 @@
+{
+    "round_id": "b34cccb8-38cd-44f3-bb9b-63c443696221",
+    "draw_title": "Win £250 scratch cards plus instant wins!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-ps250-scratch-cards-plus-instant-wins-5",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "0e78b30c1b457034046f06dab3d3dcc30f208257405d911249a4ec49502ab47d",
+    "drand_seed_hash": "8ec8a2204c6301f5bfc66c7e8488eddb09177d232fc624585c0ed6b44bf75838063784f01734d290fdb01d105414c010",
+    "client_seed": "1781551227727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9999,
+    "max_tickets": 9999,
+    "combined_hash": "7707b12b7bf6f8070df48c9ac11ab1b9ccc1208b537470b60ae5cda7c6596721",
+    "result": "5381",
+    "external_round_id": "29582623",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T19:20:27.000000Z",
+    "revealed_at": "2026-06-15T19:20:33.000000Z"
+}
