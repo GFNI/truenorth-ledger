@@ -1,0 +1,22 @@
+{
+    "round_id": "5d441b10-f2b3-48bc-9afb-1fc2ebda469b",
+    "draw_title": "💎⛏️ SMASH & GRAB INSTANT WINS ⛏️💎",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/smash-grab-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7cb068396f23b831da5a3d23a8b5e25ef3e14cd743bdf8f9dc22434cf63f872a",
+    "drand_seed_hash": "a214d62744b8a4a915ceed01f4e56fe080f177d1bc8efa7761d4d226fcc46785116aedfacdbff75d1bfe8d330c07bfe7",
+    "client_seed": "1781557832238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 237899,
+    "max_tickets": 900000,
+    "combined_hash": "0a8c860348eb9fc9a8367dd9384de64d616656bc4b01bd6fa0f604d3ef4617fe",
+    "result": "649323",
+    "external_round_id": "29584825",
+    "processing_status": "completed",
+    "created_at": "2026-06-15T21:10:32.000000Z",
+    "revealed_at": "2026-06-15T21:10:39.000000Z"
+}
