@@ -1,0 +1,22 @@
+{
+    "round_id": "47877fc7-896e-4a0e-8d42-82432dd62b78",
+    "draw_title": "Hugo Boss Set Mini Game",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/hugo-boss-set-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "3cee5374a6b6ed9048fb2fe1e6fd246d19334483e351fe251e72319d039f9554",
+    "drand_seed_hash": "982c72c0cb1f547522ab663b5575a57be867cc0d577b876161ac1c801749fe5e0c8397254b5409956477afe81dc84c42",
+    "client_seed": "1781598392798",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "d8b2e4f5798169b81c4c2a9326afd24063dfdafd60f9bda71f8b02273a6eefac",
+    "result": "413",
+    "external_round_id": "29598345",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T08:26:32.000000Z",
+    "revealed_at": "2026-06-16T08:26:39.000000Z"
+}
