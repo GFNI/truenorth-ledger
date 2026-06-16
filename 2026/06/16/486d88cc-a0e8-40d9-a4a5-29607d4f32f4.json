@@ -1,0 +1,22 @@
+{
+    "round_id": "486d88cc-a0e8-40d9-a4a5-29607d4f32f4",
+    "draw_title": "Bills Bills Bills",
+    "competition_url": "https://winandgrin.co.uk/admin/products/bills-bills-bills",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "e4aa2c60f804f74ef8fb6abc32acb88005191d77695e7a18cdaab0419acd83bc",
+    "drand_seed_hash": "81e79752aa90e85e6532345f3fabefa3a3292e4ba0333e04c225803af30c90143ba7dfbf56702e3909dcae6d8a34e397",
+    "client_seed": "1781640949878",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4361,
+    "max_tickets": 6000,
+    "combined_hash": "ff39e4566abfe950a3a24570e2778652a9b7124a9d3c1daf9366743d829ec957",
+    "result": "1632",
+    "external_round_id": "29612531",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T20:15:49.000000Z",
+    "revealed_at": "2026-06-16T20:15:57.000000Z"
+}
