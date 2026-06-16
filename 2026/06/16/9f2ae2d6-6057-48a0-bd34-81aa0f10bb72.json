@@ -1,0 +1,22 @@
+{
+    "round_id": "9f2ae2d6-6057-48a0-bd34-81aa0f10bb72",
+    "draw_title": "👾MEGA MONEY🚀 - £250 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/mega-money-ps250-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "af798f619b77277d08193232f307e62c8048f000478dea59855fc40f82b825c0",
+    "drand_seed_hash": "b3f39ce3a235dabc02fae8bca81e02862f0e89981ee609c62399945d1a9c5beb5598b6738803cd25ab127236a15e7a89",
+    "client_seed": "1781644240741",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18004,
+    "max_tickets": 360000,
+    "combined_hash": "1d43e842230123c87b8e6581e4fd3855471cc537d41e65a962e697b80aaa3fc1",
+    "result": "37790",
+    "external_round_id": "29613628",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T21:10:40.000000Z",
+    "revealed_at": "2026-06-16T21:10:48.000000Z"
+}
