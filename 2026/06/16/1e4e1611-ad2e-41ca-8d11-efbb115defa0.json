@@ -1,0 +1,22 @@
+{
+    "round_id": "1e4e1611-ad2e-41ca-8d11-efbb115defa0",
+    "draw_title": "Free Draw: Win a £50 Manor Home & Garden Voucher",
+    "competition_url": "https://wincredible.uk/admin/products/free-draw-50-manor-voucher",
+    "operator": {
+        "name": "Wincredible Ventures Ltd",
+        "website": "https://wincredible.uk",
+        "company_number": "17200732"
+    },
+    "drand_server_seed": "a0c336314be9b76daadd6395d87261f27d76ab427117707f9fd25e24ec2829b1",
+    "drand_seed_hash": "96f992407cc8e963d91b1a225b2929c7a9f04e68213e85da50a11a3f3ca214f58aaf5076e7dfaf3d4133a4b127ca9d19",
+    "client_seed": "1781637935637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 100,
+    "combined_hash": "97d0a08069071cda6e2ce8e6d3da45eb6679d5413b6fcad103e2e28c54e714eb",
+    "result": "8",
+    "external_round_id": "29611526",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T19:25:35.000000Z",
+    "revealed_at": "2026-06-16T19:25:42.000000Z"
+}
