@@ -1,0 +1,22 @@
+{
+    "round_id": "28ea1730-851f-4f7a-aa2f-8d6f8a8f2399",
+    "draw_title": "Win a Tank of Fuel for 35p",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/win-a-tank-of-fuel-for-35p",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "4ce03124933b93eecee2c84b6b8bd722583c23f4e1fecf14c5423bd0100faa1a",
+    "drand_seed_hash": "976a1604fe24f2ce1876a4af9d494417a1fbb5150a7888b6cf19e4a22167d83a8bffac572a770bfb53840b0c8b98e147",
+    "client_seed": "1781640632681",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 286,
+    "max_tickets": 1149,
+    "combined_hash": "17476ce0fbb509a37f1e814df23f02effd644055bbfec45988d1a9f5ba8e5c2b",
+    "result": "1051",
+    "external_round_id": "29612425",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T20:10:32.000000Z",
+    "revealed_at": "2026-06-16T20:10:39.000000Z"
+}
