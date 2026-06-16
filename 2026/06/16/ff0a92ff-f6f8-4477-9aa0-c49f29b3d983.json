@@ -1,0 +1,22 @@
+{
+    "round_id": "ff0a92ff-f6f8-4477-9aa0-c49f29b3d983",
+    "draw_title": "Beat The Instants (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/beat-the-instants-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "97f24238dee7003205612c71f36925803adb79ccb97b05d65d6ab3420e5d7830",
+    "drand_seed_hash": "9473127e9a61d3c6b79453ae040041d88fb0f43d9096020f42b399bedff44a389a5f1bbab5cc08ef3fbae10ba97c4fbe",
+    "client_seed": "1781645157618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 110000,
+    "combined_hash": "984b65537450bd6c62db916a1fbaff2a6e72ab3e7e4d5bb923609b9f63888835",
+    "result": "57417",
+    "external_round_id": "29613933",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T21:25:57.000000Z",
+    "revealed_at": "2026-06-16T21:26:04.000000Z"
+}
