@@ -1,0 +1,22 @@
+{
+    "round_id": "3d3fe3fa-a47e-4354-bce8-ea7d032e678e",
+    "draw_title": "Turbo Tuesday (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/turbo-tuesday",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "975835c694f0bc79fe9952d1bee07870e666110a8df6463de30eecfd2c3511eb",
+    "drand_seed_hash": "99278f8ec7d394e9b933ac82f7599e1242e092a46609077c049b7c4aae682342749da839b010f1bb6891c1a26c9d9997",
+    "client_seed": "1781644759578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 450,
+    "combined_hash": "f1acd6294f998feae9523c99d8edb43db7be40a3d94595508c5c7c0c3c929411",
+    "result": "84",
+    "external_round_id": "29613800",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T21:19:19.000000Z",
+    "revealed_at": "2026-06-16T21:19:24.000000Z"
+}
