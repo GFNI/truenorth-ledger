@@ -1,0 +1,22 @@
+{
+    "round_id": "b8fd8486-19ad-489b-a8e7-bd7b85a36c2d",
+    "draw_title": "£200 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps200-cash-with-instants-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "262d692e6ff376cf9216c718014f7a44f64a8d896238613351834a49c481116b",
+    "drand_seed_hash": "b072d5c6a6e1f45cb01216aed36260bea699aa56e2b730690e2ec57771a4f74f299604ff494000e27c1bfcae17ae6714",
+    "client_seed": "1781645039825",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 51500,
+    "combined_hash": "a1b1a76681bd4f3dc2e88d462d705a13fc1e853a3db59027d1c605c7b6b8f4d4",
+    "result": "3018",
+    "external_round_id": "29613893",
+    "processing_status": "completed",
+    "created_at": "2026-06-16T21:23:59.000000Z",
+    "revealed_at": "2026-06-16T21:24:09.000000Z"
+}
