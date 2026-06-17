@@ -1,0 +1,22 @@
+{
+    "round_id": "bc2db3ee-65fe-4d3a-96d7-ea029e34488e",
+    "draw_title": "MYSTERY PRIZES! Pick a Prize LIVE!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/mystery-prizes-pick-a-prize-live",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "39516b74fa4635f372dac00379697c51cb6a24c3665093b6951216a53e628fb5",
+    "drand_seed_hash": "b7eb7da97694cb12efb642a30d2d4b3eaa01686a81e6679b32d81040b4cb5bdafdc75a94ca9a975e121ac42f4a962f34",
+    "client_seed": "1781734834668",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 215,
+    "max_tickets": 599,
+    "combined_hash": "2bc32d6d3641594c953a4f9d3ed90f77711f5436b736b1e1441f9d5651e0e264",
+    "result": "583",
+    "external_round_id": "29643826",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T22:20:34.000000Z",
+    "revealed_at": "2026-06-17T22:20:42.000000Z"
+}
