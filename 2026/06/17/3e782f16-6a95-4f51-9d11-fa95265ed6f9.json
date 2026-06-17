@@ -1,0 +1,22 @@
+{
+    "round_id": "3e782f16-6a95-4f51-9d11-fa95265ed6f9",
+    "draw_title": "£100 SITE CREDIT",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps100-site-credit",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "780fb9cf2f4b904af72fc628232847203c2de84c5fd56d4362c0783bd1a3d181",
+    "drand_seed_hash": "b9ddaeac308805d3a40fe3850bc05c6173329c6cb7b6ba2555ba149196f65aba00d419d1268dec660698a510c1281c74",
+    "client_seed": "1781728123556",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "253d4e46cb7ffc64a449c9dc12a49df00cb944fa5b1d8be428da4a92898bbb0b",
+    "result": "82",
+    "external_round_id": "29641589",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:28:43.000000Z",
+    "revealed_at": "2026-06-17T20:28:51.000000Z"
+}
