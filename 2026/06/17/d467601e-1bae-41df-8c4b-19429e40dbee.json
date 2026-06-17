@@ -1,0 +1,22 @@
+{
+    "round_id": "d467601e-1bae-41df-8c4b-19429e40dbee",
+    "draw_title": "🔴MINI DRAW - WIN 2000 ENTRIES INTO THE VW POLO #2",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/mini-draw-win-2000-entries-into-the-vw-polo-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0e2c194126e856451b2d52583abe062947cb99cea44714bc1a80c85e71fd6f81",
+    "drand_seed_hash": "b216679e9b0713162848986b707c40c9ffe442923294dd0b74873090bb97494e268e201708a7af5dcbee239815346908",
+    "client_seed": "1781736933050",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 990,
+    "max_tickets": 1000,
+    "combined_hash": "1b5ba8c426446d3afbc452854c0ab147527ba657cbd7dfbc9e0c0ad6d3b2dc2e",
+    "result": "708",
+    "external_round_id": "29644525",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T22:55:33.000000Z",
+    "revealed_at": "2026-06-17T22:55:39.000000Z"
+}
