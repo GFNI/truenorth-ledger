@@ -1,0 +1,22 @@
+{
+    "round_id": "65a5e3ec-fb1d-4e03-a9dc-df27959054a2",
+    "draw_title": "RUB-A-DUB-DUB IN THE EASY-PEASY TUB – INSTANT WIN",
+    "competition_url": "https://easypeasyprizes.com/admin/products/rub-a-dub-dub-in-the-easy-peasy-tub-instant-win",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "6fb6a807147aedea407f27a78423f365603e176cb11066538fae828b2c2707d2",
+    "drand_seed_hash": "ad8c9a21271d4920d994b00bf49d2d68bebd3509510bcb9636470e4272a2ab0884ad2756983267ac9868d4a4bf6d8471",
+    "client_seed": "1781727040208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 980529,
+    "max_tickets": 1000000,
+    "combined_hash": "1815cfe89e83f9a88813738ecc54fd32b00a5b3c75fe7190015610ea30a1b4b5",
+    "result": "885465",
+    "external_round_id": "29641228",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:10:40.000000Z",
+    "revealed_at": "2026-06-17T20:10:48.000000Z"
+}
