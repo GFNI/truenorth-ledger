@@ -1,0 +1,22 @@
+{
+    "round_id": "9e3af03d-421c-400a-be31-ed50cc73baad",
+    "draw_title": "Bluetooth Sleep Mask",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/bluetooth-sleep-mask-4",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "4d4d84999de6054bc1cf41ea6f46eb1243f44a53df5a530ec229f1f5e5c4991c",
+    "drand_seed_hash": "b8fb51423527eac5823facd080ffb6bb1eed01921bd5266234e994ded74955388d3927b9190394add2477db82ba83eee",
+    "client_seed": "1781724333620",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 175,
+    "combined_hash": "0bf8a893e40c5ba1d547c5bd2b80ddaf3a7189a12531ee50d1d6607ed90c2167",
+    "result": "150",
+    "external_round_id": "29640325",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:25:33.000000Z",
+    "revealed_at": "2026-06-17T19:25:39.000000Z"
+}
