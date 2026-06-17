@@ -1,0 +1,22 @@
+{
+    "round_id": "f946ffdf-ac3e-4ed6-a38c-514378007319",
+    "draw_title": "DIY Dosh",
+    "competition_url": "https://phatstax.co.uk/admin/products/diy-dosh",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "86978296f30ac52e05525eade8767872b9ab026f9835ee3841c523b108cf7d52",
+    "drand_seed_hash": "b5b95ccd2b7c84185512479eb8ac17a7cd4975c44d3132efb5a5180399089684a7e0565e44fa5647bbfd3126bb1c8852",
+    "client_seed": "1781727075573",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 128,
+    "max_tickets": 267,
+    "combined_hash": "578c42f9d4cb970ef8b8f20e030e7fb8cc69e75968329881089c58b2468057b3",
+    "result": "54",
+    "external_round_id": "29641239",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:11:15.000000Z",
+    "revealed_at": "2026-06-17T20:11:21.000000Z"
+}
