@@ -1,0 +1,22 @@
+{
+    "round_id": "53838ca1-36dc-4814-bb8b-3aa62934c883",
+    "draw_title": "Ninja Creami or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/ninja-creami-or-cash-5504",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "180e15414f4f66416a86aec460c32ca35df704cd3f99ba29809389e63c776540",
+    "drand_seed_hash": "a285fac827705f168c78ecb946c591af825245f36798b747049e9fdaf02ad9f991f1d1b5f9f4e49943037b62f5399d50",
+    "client_seed": "1781725703836",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "4229a1022d0c3c72367ad730148ac8a35d6317cf54f586bdbf5b8565a48b21ab",
+    "result": "4291",
+    "external_round_id": "29640782",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:48:23.000000Z",
+    "revealed_at": "2026-06-17T19:48:30.000000Z"
+}
