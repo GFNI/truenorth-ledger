@@ -1,0 +1,22 @@
+{
+    "round_id": "c55d22ff-8f89-45ca-8d90-56a036fe30d2",
+    "draw_title": "WIN - 2 Lewis Capaldi Tickets! Leeds, 4th July!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-2-lewis-capaldi-tickets-leeds-4th-july",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "a9af1ff35cb2354aa5fb4b1426ba9e7c6dbd2aefad1baabe8ea48d98fb4b1cfc",
+    "drand_seed_hash": "805d294af128fe4e3a2ca0d23f48f4fe66c7b472f5643b803251b1b3fbd2e187118a104747fd25c0f9b949d685003ab8",
+    "client_seed": "1781723435251",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 300,
+    "combined_hash": "fd848385e68b058ad0ed3464b085d2899d5b4b0ba32774a0351d0eac6dd4a153",
+    "result": "290",
+    "external_round_id": "29640026",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:10:35.000000Z",
+    "revealed_at": "2026-06-17T19:10:42.000000Z"
+}
