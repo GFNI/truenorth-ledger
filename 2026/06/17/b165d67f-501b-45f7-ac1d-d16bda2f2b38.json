@@ -1,0 +1,22 @@
+{
+    "round_id": "b165d67f-501b-45f7-ac1d-d16bda2f2b38",
+    "draw_title": "SCOTCH n SCRATCH! Cù Bòcan Creation #8 Fruit Salad!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/scotch-n-scratch-cu-bocan-creation-8-fruit-salad",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "340c41978501e1359c307cbafb9221d035fad10a3aa50bde0a14ba69a5134ab5",
+    "drand_seed_hash": "b9c3d0ed16514bc5160e28a1f9dd6182d75bd155d577b31d2f539e97891efc4383c67e03fc915f9f966fa1f6be376b1f",
+    "client_seed": "1781730684613",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 649,
+    "max_tickets": 4000,
+    "combined_hash": "6b50ec1b7e28e915bb38111a2a3b33be1470e573b12d12ba3343ada91533edc6",
+    "result": "3916",
+    "external_round_id": "29642442",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:11:24.000000Z",
+    "revealed_at": "2026-06-17T21:11:30.000000Z"
+}
