@@ -1,0 +1,22 @@
+{
+    "round_id": "dcdd4f7b-96c2-4e1c-b306-629b3a869f99",
+    "draw_title": "Cash King",
+    "competition_url": "https://phatstax.co.uk/admin/products/cash-king",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "c12aa5dea8474a48275bf6eaa23794545e31e92cd9bd0077ce6f6f16307d565e",
+    "drand_seed_hash": "94404b8df5238b0107352a67d8bdfb13a713fcff4f30b5cbe0b089c73c5cef7d9708ec403b1b25828e22ee586e66fa62",
+    "client_seed": "1781727067133",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 411,
+    "max_tickets": 667,
+    "combined_hash": "e9b78acb3933cd34cc452458770daa594cccad2e394a7bdb4309e8f775652df5",
+    "result": "652",
+    "external_round_id": "29641237",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:11:07.000000Z",
+    "revealed_at": "2026-06-17T20:11:15.000000Z"
+}
