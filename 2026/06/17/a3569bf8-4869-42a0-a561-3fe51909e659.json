@@ -1,0 +1,22 @@
+{
+    "round_id": "a3569bf8-4869-42a0-a561-3fe51909e659",
+    "draw_title": "Win £25 with Lucky Doe’s Mini Doe 💚",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/win-ps25-with-lucky-does-mini-doe-20",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "5254f9170fca65da54459a4519aa1ffa8259da18b3120bac89229374eb86f7be",
+    "drand_seed_hash": "a56e3d79ced2241cacf25c9a013075aeda5d91ff2bfc75a2f3eeff39e9caeeddffa38a17f6d15cb6dda84bb2e04f4640",
+    "client_seed": "1781723557073",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33,
+    "max_tickets": 90,
+    "combined_hash": "406ba6e7603f268af3be5d166183dc069cdf0f33482635f1a7611d366ebe77df",
+    "result": "59",
+    "external_round_id": "29640067",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:12:37.000000Z",
+    "revealed_at": "2026-06-17T19:12:45.000000Z"
+}
