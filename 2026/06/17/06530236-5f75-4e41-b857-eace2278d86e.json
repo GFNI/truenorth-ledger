@@ -1,0 +1,22 @@
+{
+    "round_id": "06530236-5f75-4e41-b857-eace2278d86e",
+    "draw_title": "WIN 500 TICKETS INTO ROLEX COMP",
+    "competition_url": "https://easybigwins.co.uk/admin/products/win-500-tickets-into-rolex-comp",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "4ccfc4a610c47176eecb621112e1911b58ceebd1d20958a639d99804c0e125c1",
+    "drand_seed_hash": "92e0a2b9881091b60a6cc98110579a594d791c252e0bb9e58c307ea8783ace73d8a46752585b696bf19312f067a604d0",
+    "client_seed": "1781728216048",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 195,
+    "max_tickets": 195,
+    "combined_hash": "240fd9baa57eede46419ce3518e3f0d0b0b6b76c93e9b1f1176105d7475de647",
+    "result": "125",
+    "external_round_id": "29641620",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:30:16.000000Z",
+    "revealed_at": "2026-06-17T20:30:24.000000Z"
+}
