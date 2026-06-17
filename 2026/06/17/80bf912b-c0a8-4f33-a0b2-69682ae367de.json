@@ -1,0 +1,22 @@
+{
+    "round_id": "80bf912b-c0a8-4f33-a0b2-69682ae367de",
+    "draw_title": "JACKPOT DRAMS! Win HUGE Prizes!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/jackpot-drams-win-huge-prizes",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "ae6c824178aca530a0a8dc85f23605b957500d7b8adf73d1799c0837eb96a546",
+    "drand_seed_hash": "9256e6cb047652b2071dcd45acc0d5fa2571484ab4ec22f707555e2149a30f95d1b7119618de6089f537df0fb330ffd5",
+    "client_seed": "1781730690592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51758,
+    "max_tickets": 499999,
+    "combined_hash": "0577852f07aaccdb7346081111b2008cdaf5521a0b12d83ecaf85d68c99b525e",
+    "result": "277504",
+    "external_round_id": "29642444",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:11:30.000000Z",
+    "revealed_at": "2026-06-17T21:11:36.000000Z"
+}
