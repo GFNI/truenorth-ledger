@@ -1,0 +1,22 @@
+{
+    "round_id": "67a961da-1ae1-40ca-9153-38fea9d5a0cf",
+    "draw_title": "Piggy Bank Payout",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/piggy-bank-payout",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "9aa12c90237956ca50989644efdd1d6702ccfe7f56d9347f9c8afec421751b42",
+    "drand_seed_hash": "b894ae3f9409b751af8f0c646e8499d213129f17dfdebea7466bfd5e2237019f56343910f483fc167364d28af97e9e85",
+    "client_seed": "1781727090900",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1184189,
+    "max_tickets": 4500000,
+    "combined_hash": "a3fc6a01a648242de22ec9eead975f272b7d8c2ed9a04499495fc1f3b3bee5ef",
+    "result": "1288708",
+    "external_round_id": "29641244",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:11:30.000000Z",
+    "revealed_at": "2026-06-17T20:11:36.000000Z"
+}
