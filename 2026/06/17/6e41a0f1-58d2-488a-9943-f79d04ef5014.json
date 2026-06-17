@@ -1,0 +1,22 @@
+{
+    "round_id": "6e41a0f1-58d2-488a-9943-f79d04ef5014",
+    "draw_title": "DROP COIN - 60X £100 CASH WINS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/drop-coin-60x-ps100-cash-wins",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "6efedc9f5fc3fa9f922e940a859502f3eda5053244170e0e0178c4867f3a9289",
+    "drand_seed_hash": "86dd7af23e024c180585d4be41b96f92ca8739c80298ae158366b54c4fe58f07c5addd92a4af7e43f6e875f258b2960b",
+    "client_seed": "1781727054863",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18764,
+    "max_tickets": 999999,
+    "combined_hash": "1200519bce64e1d5dff3125f4fc291eb366655c18951fd4810fe9923b4073a71",
+    "result": "779520",
+    "external_round_id": "29641232",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:10:54.000000Z",
+    "revealed_at": "2026-06-17T20:11:00.000000Z"
+}
