@@ -1,0 +1,22 @@
+{
+    "round_id": "c1f7a3db-996c-420d-b044-1b484847a933",
+    "draw_title": "The Unprofessionals - £350 Main Draw + Instant Wins up to £500",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/the-unprofessionals-ps350-main-draw-instant-wins-up-to-ps500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "0f070cf353ec9135d85de4cb7820fc15c84a18fdeb4314d4a0ea6ff449cfeb38",
+    "drand_seed_hash": "b3dfa127973bba9bda13e4842c1b53978300fe078a8b9e98d9eedfdaba3f82f81dc35e51b599d990b5de7740ddc97c69",
+    "client_seed": "1781724855707",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71500,
+    "max_tickets": 240000,
+    "combined_hash": "69328e0657b7428bee1c05d08e9db910b833d447546cc7dd18b8521b77dda75a",
+    "result": "62314",
+    "external_round_id": "29640499",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:34:15.000000Z",
+    "revealed_at": "2026-06-17T19:34:21.000000Z"
+}
