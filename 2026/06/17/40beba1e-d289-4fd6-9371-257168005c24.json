@@ -1,0 +1,22 @@
+{
+    "round_id": "40beba1e-d289-4fd6-9371-257168005c24",
+    "draw_title": "EVERY TICKET IS A WINNER - £500 MAIN PRIZE (SLOTS EDITION) 17/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/every-ticket-is-a-winner-ps500-main-prize-slots-edition-1706",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "791f752f53309100b4e9c0cc87e6595ef2a156d7f97eac8c2ccbdf18a79919ac",
+    "drand_seed_hash": "a8371bebce11d2801a6d60c2008437059cfce3af97cecee56ebfb5bef9b0a62f4dff9404004103b40fd0bfc3127ffabd",
+    "client_seed": "1781730453405",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3208,
+    "max_tickets": 10000,
+    "combined_hash": "2219a125a9d8fe9985ba5072cc0c1fe6fd6b1d1ef146718bf705817ad7373453",
+    "result": "4723",
+    "external_round_id": "29642365",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:07:33.000000Z",
+    "revealed_at": "2026-06-17T21:07:39.000000Z"
+}
