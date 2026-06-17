@@ -1,0 +1,22 @@
+{
+    "round_id": "487c92ad-4a22-4a07-abe8-fbd63255d573",
+    "draw_title": "SLIEVE DONARD GETAWAY - £20,000 INSTANT WINS JUST 5P A TICKET",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/slieve-donard-getaway-ps20000-instant-wins-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "fba93e0efc5cf17829d9856511856dda1d56561d6873ee06ab9343b693463da5",
+    "drand_seed_hash": "b22a078884b18f36ac2728d52c243a0dfb5ed57217a515f11166bfa2bf80df01953abe61bddcc91f2f28443e7550f9df",
+    "client_seed": "1781724655543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40967,
+    "max_tickets": 1200000,
+    "combined_hash": "c5d8335e01fe92f0f848ecebaad56b25ce5b7a7e23aba73e9027d92c228cb6d5",
+    "result": "56134",
+    "external_round_id": "29640433",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:30:55.000000Z",
+    "revealed_at": "2026-06-17T19:31:03.000000Z"
+}
