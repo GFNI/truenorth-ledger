@@ -1,0 +1,22 @@
+{
+    "round_id": "33872c8a-d649-4b9c-8b80-a97a6bc4129f",
+    "draw_title": "Win 20x iPhone 17 Pro Max Tickets (Draw 2)",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-iphone-17-pro-max-tickets-draw-2",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "2d8d895c9c5647f44b564099ad7eb257f4c39f74ecac309277c213753b4d97d6",
+    "drand_seed_hash": "950dacb83dc3f6becd5c0d51719b7f61491e11540c55e5763a7ed15f1b005ac231f9cb99f9b642977a82a257bb8458ab",
+    "client_seed": "1781721462651",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 79,
+    "combined_hash": "99d1611b23549039134568d5869156db37e5614cd063a51cd60c4a6a7bccaf87",
+    "result": "54",
+    "external_round_id": "29639368",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T18:37:42.000000Z",
+    "revealed_at": "2026-06-17T18:37:48.000000Z"
+}
