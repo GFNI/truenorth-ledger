@@ -1,0 +1,22 @@
+{
+    "round_id": "1a8453b2-731a-4e40-bab4-cb41915b8073",
+    "draw_title": "🍬 High Roller / VIP Slots 🍭 🚨ON SALE🚨",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/high-roller-vip-slots-on-sale",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "4ebd8ad64993c9d4261aaa91bbae884214cb462ba2416f840504a395076495f7",
+    "drand_seed_hash": "93ce9b97a13769c4ca55836b530aa9c9408a923a2e38214a4d4ebc864b6350e4540213a14a20d65bcfe411a59aff7d13",
+    "client_seed": "1781696410171",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 496,
+    "max_tickets": 500,
+    "combined_hash": "476cbc97d8473afe686b55a31d535b9caffabcdea03b5a2ff212466f79881994",
+    "result": "104",
+    "external_round_id": "29631018",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T11:40:10.000000Z",
+    "revealed_at": "2026-06-17T11:40:18.000000Z"
+}
