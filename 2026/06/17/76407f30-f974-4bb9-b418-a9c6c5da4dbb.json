@@ -1,0 +1,22 @@
+{
+    "round_id": "76407f30-f974-4bb9-b418-a9c6c5da4dbb",
+    "draw_title": "AFFORDABLE CAR INSTANT WINNER PLUS AN ADDITIONAL £150,000 WORTH OF INSTANT WINS!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/affordable-car-instant-winner-plus-an-additional-ps150000-worth-of-instant",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "7082fcdbab6bc4797a7d556db9e409f0a05136b485668fc369a56e5ce045d0ce",
+    "drand_seed_hash": "a054b210c8b86a6d4ecbb60f432f38cdd33510849b8bbdc10b68b76d8e5fae5186ab40b848e55f428e613cfbf7042992",
+    "client_seed": "1781724994567",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 527162,
+    "max_tickets": 9000000,
+    "combined_hash": "5088b42b7ed3d0e4fbd371b4dfa0e3d540f3d5ba97272a4323a071757e79219b",
+    "result": "4251665",
+    "external_round_id": "29640546",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:36:34.000000Z",
+    "revealed_at": "2026-06-17T19:36:42.000000Z"
+}
