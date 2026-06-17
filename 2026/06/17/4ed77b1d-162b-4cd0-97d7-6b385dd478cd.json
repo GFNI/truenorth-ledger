@@ -1,0 +1,22 @@
+{
+    "round_id": "4ed77b1d-162b-4cd0-97d7-6b385dd478cd",
+    "draw_title": "GEORGE + KIMS CAFE - WIN UPTO £5,000",
+    "competition_url": "https://easybigwins.co.uk/admin/products/cafe-win-ps5000",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "161b347bd26d406d8d9cb6329c0b5facd2fac4e404adfd97c8465485949b4f68",
+    "drand_seed_hash": "82bac7b03342d9b09fb2a76b299f835310c12680c6397de5ca500ae26d51df5d081856fad1433bf27abc36cf38fb46ec",
+    "client_seed": "1781728489571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38012,
+    "max_tickets": 240000,
+    "combined_hash": "2733ccdc9008ce8fb14bd8be072efcb6e95367483dcdc187ecf266bb21c432ea",
+    "result": "209960",
+    "external_round_id": "29641711",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T20:34:49.000000Z",
+    "revealed_at": "2026-06-17T20:34:57.000000Z"
+}
