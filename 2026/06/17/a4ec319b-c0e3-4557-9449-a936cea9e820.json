@@ -1,0 +1,22 @@
+{
+    "round_id": "a4ec319b-c0e3-4557-9449-a936cea9e820",
+    "draw_title": "x5 WINNERS OF A £20 VOUCHER FOR THE TICKET BAKEHOUSE!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/x5-winners-of-a-ps20-voucher-for-the-ticket-bakehouse",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "d17234af97922b572071a2b4076a4d78501e9d27bee27bdc5f0365a3d273b9fe",
+    "drand_seed_hash": "81d73253a2d3e770bbec2caca2049e8c6ec4c2605ddd730b7f999308bc7c749c9bd735f1481a90f170b6e629a5056b6a",
+    "client_seed": "1781730255394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 149,
+    "max_tickets": 250,
+    "combined_hash": "716f1fcc6e1a37f0b7af9532f1c25ccae938988b3012d98ce9858e0095b34c0b",
+    "result": "210",
+    "external_round_id": "29642299",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:04:15.000000Z",
+    "revealed_at": "2026-06-17T21:04:21.000000Z"
+}
