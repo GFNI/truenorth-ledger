@@ -1,0 +1,22 @@
+{
+    "round_id": "82e729df-e0b3-4f2a-a5b7-90c93bd5db3d",
+    "draw_title": "x2 WINNERS OF A £50 SUPERMARKET VOUCHER!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/x2-winners-of-a-ps50-supermarket-voucher",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "f08b7b597063a05cb05014e447f7ad3465c95a0d7633910c13370b02929fc326",
+    "drand_seed_hash": "b32cdc24302a03b00957154c877dd627c80a139388657eae7b5d991e60b1001833e02f281f4ed2ad8f5f75b0c2aa57ed",
+    "client_seed": "1781730386040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 169,
+    "max_tickets": 250,
+    "combined_hash": "735ddc96c7548fdafe55cba1c019ee8fc3c3e4d11f36666becd0e04ea39d5fe3",
+    "result": "244",
+    "external_round_id": "29642343",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:06:26.000000Z",
+    "revealed_at": "2026-06-17T21:06:33.000000Z"
+}
