@@ -1,0 +1,22 @@
+{
+    "round_id": "902ea6af-5a19-4768-a7fa-77e9bf0e738a",
+    "draw_title": "Dalmore Port Wood - CLUB 24",
+    "competition_url": "https://whiskyclubuk.com/admin/products/dalmore-port-wood-club-24",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "e95e54975443bb81de93e217b99b43b54f1113be29b98fcd5284eb29ff02b231",
+    "drand_seed_hash": "97c4a8bab1eb13c91399d60cf4b104621bb64c6cf0d8d3ea1c215475e72d54c82ad1e5d9f7ed879bc1db663cf5e97456",
+    "client_seed": "1781722658808",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24,
+    "max_tickets": 24,
+    "combined_hash": "62cf4720bd98f3c1d8ecff99d1b547097fb21464bd61f242b73c53f20c7bc0ce",
+    "result": "19",
+    "external_round_id": "29639767",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T18:57:38.000000Z",
+    "revealed_at": "2026-06-17T18:57:45.000000Z"
+}
