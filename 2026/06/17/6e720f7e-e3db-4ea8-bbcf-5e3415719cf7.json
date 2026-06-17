@@ -1,0 +1,22 @@
+{
+    "round_id": "6e720f7e-e3db-4ea8-bbcf-5e3415719cf7",
+    "draw_title": "Ace 10 Pikachu Crown Zenith!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-pikachu-crown-zenith",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "d2056166e21cf47102477a8870f17ab6450a34ade425d62f9530cb6287cb2b6e",
+    "drand_seed_hash": "931f4c0c899eace6d8a4fe4efab16433c0f345bacb93c2d41ac935b12f8a490e3aa66be0735be2d77d3f66fbe198720a",
+    "client_seed": "1781730639792",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 249,
+    "max_tickets": 300,
+    "combined_hash": "f3e43167fda41369cf9f83b40197ba79fd2e982b3f1a320e46951458f57ed945",
+    "result": "24",
+    "external_round_id": "29642427",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:10:39.000000Z",
+    "revealed_at": "2026-06-17T21:10:45.000000Z"
+}
