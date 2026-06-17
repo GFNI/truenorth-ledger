@@ -1,0 +1,22 @@
+{
+    "round_id": "f6781b2c-c9d3-41fe-9479-9468813569a0",
+    "draw_title": "Win 20x 1908 22ct Gold Half Sovereign Tickets (Draw 1)",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-1908-22ct-gold-half-sovereign-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "5b153963f846292a4a2ae5027f563126e3cba7f3e1a79cf2206f3570af2f6f00",
+    "drand_seed_hash": "99a6759245fe391c529c390c9a4f5c34c965c7f281efe1e84c5cabc4671bac315295e24e86e84d2134ff4aa45db9bc1f",
+    "client_seed": "1781721576970",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 76,
+    "combined_hash": "f0d8b8a13a9a07f4998dceddffe4c3ea11088d0ba1ee3b54e510df366d2201ec",
+    "result": "33",
+    "external_round_id": "29639407",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T18:39:37.000000Z",
+    "revealed_at": "2026-06-17T18:39:45.000000Z"
+}
