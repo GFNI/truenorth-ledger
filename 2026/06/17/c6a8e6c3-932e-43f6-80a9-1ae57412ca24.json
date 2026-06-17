@@ -1,0 +1,22 @@
+{
+    "round_id": "c6a8e6c3-932e-43f6-80a9-1ae57412ca24",
+    "draw_title": "Strike It Big",
+    "competition_url": "https://ogcompetitions.co.uk/lists/strike-it-big-ps800-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "97f7d656b9766f233f3895e106490d2d2e464057d1e8f006dfd3425ce0ac69b2",
+    "drand_seed_hash": "a7bf05fcf44f2cb6ba6d0a65a54eb8e185696aface372377a7f157b9f395c74b1fedb63723439a038524ff323e6d4a3f",
+    "client_seed": "1781731537029",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 265200,
+    "combined_hash": "3793f2f236f8eee444cf280085a4d652a2692ec9c1c4c9e42258a123edf89e32",
+    "result": "124872",
+    "external_round_id": "29642727",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:25:37.000000Z",
+    "revealed_at": "2026-06-17T21:25:46.000000Z"
+}
