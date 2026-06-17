@@ -1,0 +1,22 @@
+{
+    "round_id": "22f34224-41e9-4df9-b234-287ed29ffdd1",
+    "draw_title": "Tropical Treasure 2",
+    "competition_url": "https://chaotic.co.uk/competition/tropical-treasure-2859",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "fdbe1f0c8f1c70518e239fbe5bba2cf48b539ac55a66cc3e9ff6a33bd0df7ef1",
+    "drand_seed_hash": "86c9a2053188cfabc86d0876f97b8d0bfd999a5ad25553c5f76312b993377d761801754863aeb9b9b3ca1b1aa0a9f1bd",
+    "client_seed": "1781725473971",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250000,
+    "max_tickets": 250000,
+    "combined_hash": "154ba07ec17032b99fce566e31a3a428af4b0b1af91bea5221e0beb380e77532",
+    "result": "184198",
+    "external_round_id": "29640706",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T19:44:34.000000Z",
+    "revealed_at": "2026-06-17T19:44:42.000000Z"
+}
