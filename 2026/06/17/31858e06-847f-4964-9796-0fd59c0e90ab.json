@@ -1,0 +1,22 @@
+{
+    "round_id": "31858e06-847f-4964-9796-0fd59c0e90ab",
+    "draw_title": "SCOTCH n SCRATCH! JAPAN SPECIAL!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/scotch-n-scratch-japan-special",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "5d473a158cb1a0ec385bb1fcfa833fafe3da3701c0ab3ab437319b11aa9358d0",
+    "drand_seed_hash": "96fce2b9a3ab8431a136bf0926a84e31053f28ff46498d92fa2e27bc5ba88f2d9a8cad7bd7ff3f75859a4da3cd38d7c2",
+    "client_seed": "1781730678916",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2719,
+    "max_tickets": 9999,
+    "combined_hash": "a8e71c363f6a975e2c37860389b62affe2b4aa5a87bcc5d651ff29e38b170817",
+    "result": "4772",
+    "external_round_id": "29642440",
+    "processing_status": "completed",
+    "created_at": "2026-06-17T21:11:19.000000Z",
+    "revealed_at": "2026-06-17T21:11:24.000000Z"
+}
