@@ -1,0 +1,22 @@
+{
+    "round_id": "d6292ec0-6b31-4331-ae46-62c8082c267f",
+    "draw_title": "£250 CASH + 10 X £100 INSTANT WINS",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps250-cash-10-x-ps100-instant-wins-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "356b964eb16f81d703151589c672e124a864bff0b172c37a6e498acdc63c3d81",
+    "drand_seed_hash": "9003fc6d65afad9d743e7c048536736da1caa83804ab53a881266989613527e394bdd8022eadb5d90b3aa0b5e1e1cf7b",
+    "client_seed": "1781817458774",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1230,
+    "max_tickets": 4000,
+    "combined_hash": "325dc468e033a3634b40a214f4ed5dfcf10f34f2df18811ce2900e011ff7eaac",
+    "result": "3379",
+    "external_round_id": "29671367",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T21:17:38.000000Z",
+    "revealed_at": "2026-06-18T21:17:45.000000Z"
+}
