@@ -1,0 +1,22 @@
+{
+    "round_id": "0486019f-6239-4377-8a4c-7bc5e590edee",
+    "draw_title": "£5000 Holiday Of Your Choice",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ps5000-holiday-of-your-choice",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "2125772ccb9a3b04b6f1359a0873c013eb3e686c1e0ee77f4a669e71d6391208",
+    "drand_seed_hash": "b9f2fbd279841e4bd3a4a427f4ec0937f8e64dca03e0c97c7259af909fa4ab57308f0b98f215b9a1aa09af0f4f532360",
+    "client_seed": "1781811366626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116935,
+    "max_tickets": 292500,
+    "combined_hash": "2d4175f2b836fa3dcd2a6d76533a85c6f7e064d3069d0ab7bc11df14d1a513be",
+    "result": "265670",
+    "external_round_id": "29669336",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T19:36:06.000000Z",
+    "revealed_at": "2026-06-18T19:36:12.000000Z"
+}
