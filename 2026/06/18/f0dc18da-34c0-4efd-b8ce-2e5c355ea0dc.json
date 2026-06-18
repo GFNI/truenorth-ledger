@@ -1,0 +1,22 @@
+{
+    "round_id": "f0dc18da-34c0-4efd-b8ce-2e5c355ea0dc",
+    "draw_title": "🫧 Indulgent 1 Night Spa Break For Two at Macdonald Houstoun House, Nr Edinburgh 🫧",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/indulgent-1-night-spa-break-for-two-at-macdonald-houstoun-house-nr",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4d3b80102764c8854d05e7fd6f3ba24daa14e9c56c6303dd417792bbc9ebfb7f",
+    "drand_seed_hash": "98d99b7b3a5c925a4845d9bb99e217245f7dfa50fe13249577437aa55ab845d19e4ab70febfe076e05b3747d9bc53b02",
+    "client_seed": "1781808936267",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1450,
+    "max_tickets": 1725,
+    "combined_hash": "dfc26fc657c0fa32ce3a8e4901070ffcca79e6720853c2d396afde21320c00e2",
+    "result": "1102",
+    "external_round_id": "29668526",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T18:55:36.000000Z",
+    "revealed_at": "2026-06-18T18:55:42.000000Z"
+}
