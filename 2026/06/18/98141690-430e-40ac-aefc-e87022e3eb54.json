@@ -1,0 +1,22 @@
+{
+    "round_id": "98141690-430e-40ac-aefc-e87022e3eb54",
+    "draw_title": "SCRATCH & WIN - £5K In Prizes",
+    "competition_url": "https://therafflekid.co.uk/admin/products/scratch-win-ps5k-in-prizes-1806",
+    "operator": {
+        "name": "The Raffle Kid Ltd",
+        "website": "https://therafflekid.co.uk",
+        "company_number": "16287135"
+    },
+    "drand_server_seed": "b7a6c0dc485cf57234c1ba881ce2fa21bf06d5b97a3134df87c038ec24cba055",
+    "drand_seed_hash": "8c8e1223e5e3fd17cd26d02008b4e963fc74244ebaf70ed2f3003fb6aa8aa2ddbdf70205474c1dfb97cfb5f0b8bfc899",
+    "client_seed": "1781813459117",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3974,
+    "max_tickets": 29999,
+    "combined_hash": "4c37d17133a5de87c65f115c66c7339c069f1a8f1d3601d17fce7c3a273aea3b",
+    "result": "10242",
+    "external_round_id": "29670034",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T20:10:59.000000Z",
+    "revealed_at": "2026-06-18T20:11:06.000000Z"
+}
