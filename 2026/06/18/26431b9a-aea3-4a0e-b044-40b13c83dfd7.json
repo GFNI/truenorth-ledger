@@ -1,0 +1,22 @@
+{
+    "round_id": "26431b9a-aea3-4a0e-b044-40b13c83dfd7",
+    "draw_title": "🏆Volkswagen Polo Match TSI 🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/volkswagen-polo-match-tsi",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "3428122dc0de34a771e014ff6e3329dd1936bc2ad539b3dd5226a57bd63c8965",
+    "drand_seed_hash": "8f04fdb167c535c0637abed508d670eda462b906e6cbc3ccb4f908b7187fd80e9bb60c4dba2f44d306f57766c31bb260",
+    "client_seed": "1781809537779",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36100,
+    "max_tickets": 42000,
+    "combined_hash": "3ad251e97af50594017cfa771f877510068a52d470603105c09c43523677f196",
+    "result": "11563",
+    "external_round_id": "29668727",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T19:05:37.000000Z",
+    "revealed_at": "2026-06-18T19:05:45.000000Z"
+}
