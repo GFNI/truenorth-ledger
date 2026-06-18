@@ -1,0 +1,22 @@
+{
+    "round_id": "b2be24ca-cc3c-4ae1-a34a-9b7824fd4a5e",
+    "draw_title": "🤠 Edge Sculpture Highland Cow Bust by Matt Buckley 🤠",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/edge-sculpture-highland-cow-bust-by-matt-buckley",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "16a2288559adae44fb9de26d95594412be9c6548cb13df95d5086553633346b0",
+    "drand_seed_hash": "92da6d15b99ec75015f0261ef37bba0db186f81563aeb265b045e3638ef3b334b42b1bd9a446d3f02ecf9f1e3a1c61c1",
+    "client_seed": "1781807539787",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1343,
+    "max_tickets": 1700,
+    "combined_hash": "b2df19250833097fee1571abbc3cf123e52e09819f45dba7ecf9c76a8e58a8bd",
+    "result": "1059",
+    "external_round_id": "29668061",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T18:32:19.000000Z",
+    "revealed_at": "2026-06-18T18:32:27.000000Z"
+}
