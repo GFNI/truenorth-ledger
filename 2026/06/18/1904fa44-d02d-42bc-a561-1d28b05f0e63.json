@@ -1,0 +1,22 @@
+{
+    "round_id": "1904fa44-d02d-42bc-a561-1d28b05f0e63",
+    "draw_title": "50 Tickets into UFC329 Competition #5 - WORTH £500",
+    "competition_url": "https://proprizes.co.uk/admin/products/50-tickets-into-ufc329-competition-5-worth-ps500",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "9cbc02056acbc36c2f71870f29f158fd58af0876cb92f9c59f1f459afb1366d9",
+    "drand_seed_hash": "8b315816404c9aa4411b042d27b88c7712fd7ea939ae8f02b1c3741e2b01a2ec8cf894d9ce719f78d64e970be622ed54",
+    "client_seed": "1781802641032",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16,
+    "max_tickets": 25,
+    "combined_hash": "89484b5c3af82b8a1989b712b6de40551db6dfaec8eefd31bbac178534628fa5",
+    "result": "17",
+    "external_round_id": "29666428",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T17:10:41.000000Z",
+    "revealed_at": "2026-06-18T17:10:48.000000Z"
+}
