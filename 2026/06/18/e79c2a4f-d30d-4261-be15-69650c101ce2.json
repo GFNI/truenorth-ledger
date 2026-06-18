@@ -1,0 +1,22 @@
+{
+    "round_id": "e79c2a4f-d30d-4261-be15-69650c101ce2",
+    "draw_title": "👄 Charlotte Tilbury Bundle 👄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/charlotte-tilbury-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "47c9e77c041014d81c7d0c066191cc665a71e4af4a4b78b3544a2af554b05367",
+    "drand_seed_hash": "89e2c5299f2829a3aafad3b347f7eceb40be9b40be7d8c8cc6e9effd7d18ccd8011cef38146fd4793e2af6b7baf69ea0",
+    "client_seed": "1781808650482",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2228,
+    "max_tickets": 2575,
+    "combined_hash": "12cfd70df5a8110a3e993e8f6c908799a2658bc477b4c083df7a3150c75f3d28",
+    "result": "84",
+    "external_round_id": "29668431",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T18:50:50.000000Z",
+    "revealed_at": "2026-06-18T18:50:57.000000Z"
+}
