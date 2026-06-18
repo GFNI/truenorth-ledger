@@ -1,0 +1,22 @@
+{
+    "round_id": "9bb7298b-ecd1-4232-a237-ac0f05238ac2",
+    "draw_title": "CASH MINI DRAW (18/06/2026)",
+    "competition_url": "https://fireprizes.co.uk/admin/products/cash-mini-draw-18062026",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "c8161d8494a4603c48ff72d6f1e3b843c28080d41c22228550d06dae3c988b75",
+    "drand_seed_hash": "b5e7358c1ec1e62ec461bc7a54b9b6613a977f5b56ce7583d334a2089c5c84ca73cabc1f732dbcb255e4571094def21b",
+    "client_seed": "1781824238439",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 300,
+    "combined_hash": "a5178f1935ec9f19c6898a53b0527c9003c2f56c1895cf0b30765cacd6bccddc",
+    "result": "102",
+    "external_round_id": "29673627",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T23:10:38.000000Z",
+    "revealed_at": "2026-06-18T23:10:45.000000Z"
+}
