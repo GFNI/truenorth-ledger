@@ -1,0 +1,22 @@
+{
+    "round_id": "34453919-951e-4b1a-9602-3025739efd9d",
+    "draw_title": "Loch Lomond Open Special Edition 2026 Gift Set - CLUB 24",
+    "competition_url": "https://whiskyclubuk.com/admin/products/loch-lomond-open-special-edition-2026-gift-set-club-24",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "a67f20cb9f53786e71b9111d480d40daa080096a44c66066da98fe7ec6042895",
+    "drand_seed_hash": "8c5b8961182aebd9cabbd58c5255c3bf702bd054cfbbba8653c008737cd9b131713895d9c23c873d42b1d25d4bb5ef6d",
+    "client_seed": "1781804861444",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24,
+    "max_tickets": 24,
+    "combined_hash": "43ba9993d6098a68a524babee0367ca95a5012a7ec80a6a1dd046252bdc3b4aa",
+    "result": "20",
+    "external_round_id": "29667168",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T17:47:41.000000Z",
+    "revealed_at": "2026-06-18T17:47:48.000000Z"
+}
