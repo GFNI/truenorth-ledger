@@ -1,0 +1,22 @@
+{
+    "round_id": "5c939c2a-38bd-46c8-b6a8-1353cbd4687e",
+    "draw_title": "Hyundai 20\" / 51cm 196cc 3-in-1 Self-Propelled Lawnmower, Easy Turn, Electric Start, 70L Collector, Rear Discharge & Mulching",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/hyundai-20-51cm-196cc-3-in-1-self-propelled-lawnmower-easy-turn-electric",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ae203d28610cfe8f78d0c2f9aabecb0f889b72d9f1b362f41b70513466bddce3",
+    "drand_seed_hash": "8b171f1d83540446bf1d092b2099317300c3337cd3a9f4ae020a678fced361df4ac09eaa699afb4125d4ca99496e6cc0",
+    "client_seed": "1781807992276",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1574,
+    "max_tickets": 1825,
+    "combined_hash": "52f249eced334643319f62d8da7f835cce50907ce5df7004b20066719ce1ca14",
+    "result": "489",
+    "external_round_id": "29668212",
+    "processing_status": "completed",
+    "created_at": "2026-06-18T18:39:52.000000Z",
+    "revealed_at": "2026-06-18T18:40:00.000000Z"
+}
