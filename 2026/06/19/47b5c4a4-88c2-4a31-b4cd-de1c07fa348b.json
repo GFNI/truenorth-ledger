@@ -1,0 +1,22 @@
+{
+    "round_id": "47b5c4a4-88c2-4a31-b4cd-de1c07fa348b",
+    "draw_title": "WEEKLY GIVEAWAY #3",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/weekly-giveaway-3",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "37ac026c634f798ab6eac946f3b06833ee64b3b3a04366b5f70231fe7c2fa1c9",
+    "drand_seed_hash": "8ee44462e20b96759e523e1263cf7b2b06626ae9d611094cea01fe9ee58aca27a1577bb350dd22b2965b7a5e8ea275a6",
+    "client_seed": "1781899839791",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 75,
+    "combined_hash": "d73c6912648a681db81abf1486ed317f3856f8ba59c0ae467297c927459b5530",
+    "result": "69",
+    "external_round_id": "29698827",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T20:10:39.000000Z",
+    "revealed_at": "2026-06-19T20:10:45.000000Z"
+}
