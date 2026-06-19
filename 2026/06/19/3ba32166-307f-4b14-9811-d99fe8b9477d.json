@@ -1,0 +1,22 @@
+{
+    "round_id": "3ba32166-307f-4b14-9811-d99fe8b9477d",
+    "draw_title": "Warhammer Armageddon Launch Box",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/warhammer-armageddon-launch-box",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "881b08791715566cd366904935f492dc92d22b4c9a3fcac00b0d2b166ab6f568",
+    "drand_seed_hash": "a458df16df1e2a65ecc4a0c885b9264eb1b0764b8c66c6a0ac475c18f206f019c2c45faf730f0cf8ad5f30b3e524e4b4",
+    "client_seed": "1781903436696",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 226,
+    "max_tickets": 300,
+    "combined_hash": "5e70324f5697187d395b7f68ceaad6410a78749d3bfd2ec5df88c37443cfda21",
+    "result": "231",
+    "external_round_id": "29700026",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T21:10:36.000000Z",
+    "revealed_at": "2026-06-19T21:10:42.000000Z"
+}
