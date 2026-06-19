@@ -1,0 +1,22 @@
+{
+    "round_id": "5a77cd2b-12b6-4fec-afe5-ece80aa2af3f",
+    "draw_title": "WIN A CHEEKY £100 (AUTO DRAW)",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-cheeky-ps100-auto-draw",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "ee7b15213c3fad774c71dda0f43ffb64df6efe21b3ae63bf8783f27517e52ece",
+    "drand_seed_hash": "8a1fc9acf5534757a838158375e96586d61b7c4ea65d5e719796812a185798cc6c225dffdabd1094b47afd5adf7b0f2d",
+    "client_seed": "1781910031403",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 100,
+    "combined_hash": "9e9c68c392de4e6483435d94dd6f82225468a142b9f32e30f8c718dfc817ae41",
+    "result": "59",
+    "external_round_id": "29702225",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T23:00:31.000000Z",
+    "revealed_at": "2026-06-19T23:00:39.000000Z"
+}
