@@ -1,0 +1,22 @@
+{
+    "round_id": "4c4732d8-6042-49d5-9072-ddb7f784a999",
+    "draw_title": "👴 GRAB A GRAND-DAD – BERTY’S CASH STASH💷🔥",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/grab-a-grand-dad-berty",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "be44b723dd18283a349f2e68d2bf82bbb8dd22b2cc771246a66d45d74c80e47f",
+    "drand_seed_hash": "878f7ca347c6b29c94c17aba8d3d033915ea17a1ec856928e892dd2ee1c1c879abbc5a3f130f9d41710a52315c89916e",
+    "client_seed": "1781907032336",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1551,
+    "max_tickets": 50000,
+    "combined_hash": "61ca6ada053bb97c48a0f9b1c413afa683f2bed1a79df808cd4c0cbb429c9951",
+    "result": "31714",
+    "external_round_id": "29701224",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T22:10:32.000000Z",
+    "revealed_at": "2026-06-19T22:10:36.000000Z"
+}
