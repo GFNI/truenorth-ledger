@@ -1,0 +1,22 @@
+{
+    "round_id": "d80ae668-854b-4477-a728-deebc93ac30d",
+    "draw_title": "£150 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-cash-with-10-x-ps150s",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2e9b39078ec54060f2e7d663076fdb3b3bc9c40571860ba98b06f1cb3acf10bf",
+    "drand_seed_hash": "838e82c72be2da5cc4a81e9357ccd489343fb9b3a70eb62e1b69adde3500b98391bf8d7930b906e1f8c1f53f402468ee",
+    "client_seed": "1781903391232",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1242,
+    "combined_hash": "89dae155952e71ea2c142a57f16eddf988f71283bd7d778191f24c4f206d66a6",
+    "result": "834",
+    "external_round_id": "29700011",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T21:09:51.000000Z",
+    "revealed_at": "2026-06-19T21:09:57.000000Z"
+}
