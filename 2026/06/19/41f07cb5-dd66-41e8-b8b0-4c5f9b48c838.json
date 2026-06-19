@@ -1,0 +1,22 @@
+{
+    "round_id": "41f07cb5-dd66-41e8-b8b0-4c5f9b48c838",
+    "draw_title": "Kraken 2",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/kraken-two",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "b26ca2eb34c9e656ac5bd7445674f0893673766803f38003a5adb6f7bb5376a9",
+    "drand_seed_hash": "b54db71ce5726e07f672b4ceb01be7cda5770c7afa1e9b2314d0d31469b59f9f5566e9be1472429f2142c59530fa5103",
+    "client_seed": "1781872424645",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36000,
+    "max_tickets": 36000,
+    "combined_hash": "35184e28262baf7185f36c8dbd743939c3c850bd7da32cfbe7c391895f439f41",
+    "result": "18646",
+    "external_round_id": "29689689",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T12:33:44.000000Z",
+    "revealed_at": "2026-06-19T12:33:51.000000Z"
+}
