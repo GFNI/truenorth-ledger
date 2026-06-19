@@ -1,0 +1,22 @@
+{
+    "round_id": "ca910fb6-c6f7-4b5c-9100-c8cbe79151f8",
+    "draw_title": "Weekday Freebie - Friday 19th June 2026",
+    "competition_url": "https://fireprizes.co.uk/admin/products/weekday-freebie-friday-19th-june-2026",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "ab63b14db0a9cc02d700ac1fac8ce3dbc1a9a76a397f91550e5e2af727f33103",
+    "drand_seed_hash": "a65d4f53cefc81cd9cf652854a8d25440aeea98ee7cb275b6d95ad26be85ca414767350785b1c6cb5bb137f150a02175",
+    "client_seed": "1781878240652",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12,
+    "max_tickets": 1000,
+    "combined_hash": "b570513f86e43ff9b448a655722683ad723225899665bea39170bc24e6206e47",
+    "result": "878",
+    "external_round_id": "29691628",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T14:10:40.000000Z",
+    "revealed_at": "2026-06-19T14:10:48.000000Z"
+}
