@@ -1,0 +1,22 @@
+{
+    "round_id": "69fbec27-ed47-4522-a61e-c523ebac3418",
+    "draw_title": "£250 Scratch Card Bundle",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps250-scratch-card-bundle",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "af5671f99f38898b7d9f23599d516d60d8534faff3e5b4cf2cef07f3d633ac21",
+    "drand_seed_hash": "801ad5897f15b64bc18559855f1761da1f7a997647d011be00a45342410002d68003ba84f6265e7a0ff2c65f426f07e2",
+    "client_seed": "1781898759206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600,
+    "max_tickets": 600,
+    "combined_hash": "4e4a10663a631b558c857a0d66bc7a1c043d73aaf0d9dcfa6f3e6c8bd1291ccf",
+    "result": "31",
+    "external_round_id": "29698467",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T19:52:39.000000Z",
+    "revealed_at": "2026-06-19T19:52:45.000000Z"
+}
