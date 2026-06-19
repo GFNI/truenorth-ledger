@@ -1,0 +1,22 @@
+{
+    "round_id": "b6925219-79c7-42fe-91d9-f75ce1daa7ee",
+    "draw_title": "Scratch n Snatch",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/scratch-snatch",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "6a34cd196aa7393a74b1646659a929c0eec6c306d5e5bf5b1fe759659b5e35ec",
+    "drand_seed_hash": "aa3accc0b1d2f8e907211753bafaf871dd61dc8483c184e537df95656f8f2d3a1cd30827aa1488af69c41b93daa79af5",
+    "client_seed": "1781895726514",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 587505,
+    "max_tickets": 730000,
+    "combined_hash": "7d1eb22b59a25f897dd6bf957787cc02f7fcecf0addbd5824c3392255813ce0e",
+    "result": "173502",
+    "external_round_id": "29697456",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T19:02:06.000000Z",
+    "revealed_at": "2026-06-19T19:02:12.000000Z"
+}
