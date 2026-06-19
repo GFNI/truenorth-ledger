@@ -1,0 +1,22 @@
+{
+    "round_id": "f687dc9b-a0b4-4d09-af48-8957c7794c15",
+    "draw_title": "1000 Hoilday Voucher",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/1000-hoilday-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "448ca1c68b96d474303280cdfe2b82051ef5d55797d624ebe744b70e901876db",
+    "drand_seed_hash": "b81b98ca0f48805dbfa26eaa998db1aafb310e3708cfbb1f07a7e7d01760865737d92238aa609fcd3f7d9fdf462f9e80",
+    "client_seed": "1781899531015",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1560,
+    "max_tickets": 3000,
+    "combined_hash": "88f3590cbe32e8c146d7833bc3d4e6461c0d1205eda379c9bb6b1d72cafdef89",
+    "result": "2641",
+    "external_round_id": "29698725",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T20:05:31.000000Z",
+    "revealed_at": "2026-06-19T20:05:39.000000Z"
+}
