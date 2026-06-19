@@ -1,0 +1,22 @@
+{
+    "round_id": "eaa96d51-68c8-4c78-9f8e-c6e64b5ae5d4",
+    "draw_title": "The Weekend Boost! – £500 Cash",
+    "competition_url": "https://theprizevault.co.uk/admin/products/the-weekend-boost-ps500-cash",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "623c8d3cbf3f5983bce2d44a829740394e5a70fc326fca5f4f7e03ec535e6a5a",
+    "drand_seed_hash": "8654a5b603a0b0bfda20a06367830138dcb764acb232bcf36d80569212fb866c075df037db72d4ed00ae1e75c76a8b6f",
+    "client_seed": "1781896232220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 245,
+    "max_tickets": 1500,
+    "combined_hash": "5653bfe6db1dd60e46cf264397ae2782b893fec9b631c94efa98bc65fe0ea100",
+    "result": "891",
+    "external_round_id": "29697625",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T19:10:32.000000Z",
+    "revealed_at": "2026-06-19T19:10:39.000000Z"
+}
