@@ -1,0 +1,22 @@
+{
+    "round_id": "bf9d5081-d83f-4f14-a27a-8f70819ae07e",
+    "draw_title": "Dad’s Perfect Pint 🍺",
+    "competition_url": "https://phatstax.co.uk/admin/products/dads-perfect-pint",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "fcdf007c12235689bfe1b5c5d33449a11935912313ebc7b9155628b1ea644c19",
+    "drand_seed_hash": "96b6aae9b58e0c5dcf8c8dc2372cebb2df68df6741cb9c54f66c87ee1d2ec7fa1cb29a2b55b70a380c9c72da93503c64",
+    "client_seed": "1781871041218",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 500,
+    "combined_hash": "72bb80942540bdd4beaec3c74acb03e5d323ec9d350cd2a4f6e1c3ca98b78bc2",
+    "result": "63",
+    "external_round_id": "29689228",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T12:10:41.000000Z",
+    "revealed_at": "2026-06-19T12:10:48.000000Z"
+}
