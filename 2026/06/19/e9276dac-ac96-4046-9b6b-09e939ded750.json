@@ -1,0 +1,22 @@
+{
+    "round_id": "e9276dac-ac96-4046-9b6b-09e939ded750",
+    "draw_title": "Land Rover Discovery Sport or £15k cash alt",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/land-rover-discovery-sport-or-ps15k-cash-alt",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "0fd8bbfdd9e42f221dda6d039a43870ec207e3a03d4fff10c39c61c662b478d5",
+    "drand_seed_hash": "923d7ab2c2d511349b97a997110259ce5447093bdaaba335227940e7e6c01cecf858c10bf50db100cc171cbef7ef7876",
+    "client_seed": "1781895981821",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1455,
+    "max_tickets": 3750,
+    "combined_hash": "925c392a4c9059cdf9fffc4d361ae48dfbc23b47a8a83d8e90a11f9cf0ae7814",
+    "result": "1073",
+    "external_round_id": "29697541",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T19:06:21.000000Z",
+    "revealed_at": "2026-06-19T19:06:27.000000Z"
+}
