@@ -1,0 +1,22 @@
+{
+    "round_id": "7a915025-f7d9-4f2f-95e4-2c0d33ebb340",
+    "draw_title": "I'm A Ninja! Ninja Slushi Max + £3000 of Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/im-a-ninja-ninja-slushi-max-ps3000-of-instant-wins",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "fb1ee252b2c31ffb16ec24384c9d0b6c81cb3a9cc8471f861c4cd1490e934fc2",
+    "drand_seed_hash": "8d8fbf332aba2702e8047b293c062837d03c9b5ad6785091263830a66902ecf8b68e5fb65c893a6a5503200f78daa79a",
+    "client_seed": "1781896410499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1674,
+    "max_tickets": 10000,
+    "combined_hash": "a8a83192c20b53998635dc126abff67ec8b24ea8809e9b9e23712b446e9d7d96",
+    "result": "7977",
+    "external_round_id": "29697684",
+    "processing_status": "completed",
+    "created_at": "2026-06-19T19:13:30.000000Z",
+    "revealed_at": "2026-06-19T19:13:36.000000Z"
+}
