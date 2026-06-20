@@ -1,0 +1,22 @@
+{
+    "round_id": "be1f2de4-af1c-47de-b9b9-42250726195a",
+    "draw_title": "£3000 OF SITE CREDIT - £100 SITE CREDIT END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/ps3000-of-site-credit-ps100-site-credit-end-draw-3",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "ed02c28c852b094c207270c038bda0d7a44599b6d058ff9c074e5a0554112cbe",
+    "drand_seed_hash": "a886a268bd16b968b020e772fe8b50cf78398dd843330385ab1940d16f63fd9ef033e0f80af578c7dea4b42e563abe88",
+    "client_seed": "1781942430839",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6499,
+    "max_tickets": 6499,
+    "combined_hash": "84ad2ef2f6eb72536f9d9102d15126e7b12bdf32f528a3176607c0e050d400ef",
+    "result": "3044",
+    "external_round_id": "29713024",
+    "processing_status": "completed",
+    "created_at": "2026-06-20T08:00:30.000000Z",
+    "revealed_at": "2026-06-20T08:00:36.000000Z"
+}
