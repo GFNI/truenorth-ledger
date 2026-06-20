@@ -1,0 +1,22 @@
+{
+    "round_id": "9637b0c0-9ebe-4daa-842e-8057c1cc31d7",
+    "draw_title": "THE CLEGNUT HUNT",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/the-clegnut-hunt",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "5fdbde2d9e0585a098de797f53369afce9278bba168ea7697fbe68919df8a210",
+    "drand_seed_hash": "a239229f081234e4d5ff848d13f57fd1d803681dcb06fc30327835533946169542e9e265a53517a03cac31db842d3a18",
+    "client_seed": "1781985041114",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5247,
+    "max_tickets": 5555,
+    "combined_hash": "86e8cbafa984cae2ac3cc0ca07bb2a5b51de09ff6da71adb9c8942a598cb5f40",
+    "result": "4435",
+    "external_round_id": "29727228",
+    "processing_status": "completed",
+    "created_at": "2026-06-20T19:50:41.000000Z",
+    "revealed_at": "2026-06-20T19:50:48.000000Z"
+}
