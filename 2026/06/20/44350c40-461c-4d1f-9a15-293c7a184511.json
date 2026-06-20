@@ -1,0 +1,22 @@
+{
+    "round_id": "44350c40-461c-4d1f-9a15-293c7a184511",
+    "draw_title": "App Exclusive: Spin To Win",
+    "competition_url": "https://chaotic.co.uk/competition/app-exclusive-spin-to-win-5220",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "831f4ec17445a4dc51b6cc514043c51b5a9d21a8b43f295dbfe233338ef4d4dc",
+    "drand_seed_hash": "8638e90ce77ae84bb3e8447208171b7f80dcb6d40a4592bd8a2aa623a6320a35c50e0abbe860555042f4810ef86a6a65",
+    "client_seed": "1781987394089",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7000,
+    "max_tickets": 7000,
+    "combined_hash": "f6c7570a61483c7a5c1ebea68f230a79efe74686632977e027780fa163a0f2a2",
+    "result": "1983",
+    "external_round_id": "29728012",
+    "processing_status": "completed",
+    "created_at": "2026-06-20T20:29:54.000000Z",
+    "revealed_at": "2026-06-20T20:30:00.000000Z"
+}
