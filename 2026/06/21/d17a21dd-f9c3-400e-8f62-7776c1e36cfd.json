@@ -1,0 +1,22 @@
+{
+    "round_id": "d17a21dd-f9c3-400e-8f62-7776c1e36cfd",
+    "draw_title": "£100 Voucher",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps100-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "be9d21534a01c5cabfa38b9d852b0b3d8f613d70253366682dd75324dc7df8d2",
+    "drand_seed_hash": "95cb6045c95b35f441980bab0c94d50387a2210793b11f35ce2b1528879a704c576086417ad78857260a447676ec54a5",
+    "client_seed": "1782072141421",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 750,
+    "max_tickets": 750,
+    "combined_hash": "eacfb2ef171002075ddb1dad907651c0455d7cccbb0ac334a6dad2cf997d7d5a",
+    "result": "259",
+    "external_round_id": "29756261",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T20:02:21.000000Z",
+    "revealed_at": "2026-06-21T20:02:27.000000Z"
+}
