@@ -1,0 +1,22 @@
+{
+    "round_id": "0c81a225-912b-472f-bfef-ea18d0320a84",
+    "draw_title": "X-Terra Voyager",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/x-terra-voyager-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "ff4d47214de265625004c17c781fbe1d52185f67c91b42c181c116e8bc0ad08c",
+    "drand_seed_hash": "89859e59e870d592f7e85b1bb1870598b4ab79179a295cd83fc8a6a749d3ffb4bb782c74a65a643a09df46ca27a58bf4",
+    "client_seed": "1782069894785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 162,
+    "max_tickets": 320,
+    "combined_hash": "afa33aa08c88af31032cf91fd1fd1373e5dcd1c6a8d1ff8b37e03674123e4037",
+    "result": "112",
+    "external_round_id": "29755512",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:24:54.000000Z",
+    "revealed_at": "2026-06-21T19:25:00.000000Z"
+}
