@@ -1,0 +1,22 @@
+{
+    "round_id": "86234950-fbcb-4bd5-8ead-7103fb7c6108",
+    "draw_title": "Shoot & Score - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/shoot-score-ps250-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "c654963984c493c3730d66f7a3b422e1c18f7ee85b9e999c22cf4539e7898b13",
+    "drand_seed_hash": "937762beae849bc836350a1fa9f8406e14a063f2fac1dc03c74280ee235212dacb7af42d0c4cf055952331223fe31edd",
+    "client_seed": "1782070843257",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28517,
+    "max_tickets": 49250,
+    "combined_hash": "82a7a188c92ea308db838ae6c118778afd4b487087a0440ca387381a6f36f8eb",
+    "result": "3555",
+    "external_round_id": "29755829",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:40:43.000000Z",
+    "revealed_at": "2026-06-21T19:40:51.000000Z"
+}
