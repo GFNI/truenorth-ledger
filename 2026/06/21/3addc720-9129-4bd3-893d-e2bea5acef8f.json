@@ -1,0 +1,22 @@
+{
+    "round_id": "3addc720-9129-4bd3-893d-e2bea5acef8f",
+    "draw_title": "Terrifying Tyranids",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/terrifying-tyranids",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "a8e6219e4ddc2c393fd1f6730c4d2a97eeac2bdf29fcd697c738de75925d19a6",
+    "drand_seed_hash": "8d91e34b60635afdde6b2f7cee9a35f0fb2c05eeaa78b9d73316a5948ab514eb9eded71860fa3d4a87d3d9a6c144d09d",
+    "client_seed": "1782070577010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1823,
+    "max_tickets": 4000,
+    "combined_hash": "66f2b5b5dbacc811ea7f15da565a41917756a84f9ca961e38023c17e9d7f7711",
+    "result": "167",
+    "external_round_id": "29755740",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:36:17.000000Z",
+    "revealed_at": "2026-06-21T19:36:24.000000Z"
+}
