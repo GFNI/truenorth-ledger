@@ -1,0 +1,22 @@
+{
+    "round_id": "e9ffc7be-2970-4f97-935f-110b22f3321b",
+    "draw_title": "Dyson Cool Towerfan",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/dyson-cool-towerfan",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "f4cd08f46b9e16f1f31ce5351bd64a5615aeea21e0dd46a144071f5c905e1ba8",
+    "drand_seed_hash": "a8514119233cff1d563f9c26ba5f83d508d4ffa60a300ebb0f15b9746416deea8709d12cb918046435d859f0900d069d",
+    "client_seed": "1782069935509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 157,
+    "max_tickets": 449,
+    "combined_hash": "6ed02615de1b30b8c7fd49be7b6eb67ebb41f11757eea4d18f1cbdb4deaae2c1",
+    "result": "358",
+    "external_round_id": "29755526",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:25:35.000000Z",
+    "revealed_at": "2026-06-21T19:25:42.000000Z"
+}
