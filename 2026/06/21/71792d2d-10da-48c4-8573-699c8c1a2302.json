@@ -1,0 +1,22 @@
+{
+    "round_id": "71792d2d-10da-48c4-8573-699c8c1a2302",
+    "draw_title": "BATTLE OF THE AUTO SCORING GIANTS 21/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/battle-of-the-auto-scoring-giants-2106",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "8461a93d6352e4cf8815b4f5f19c40803aa6c077ac13a1046ae999471fba615a",
+    "drand_seed_hash": "b402ef6a048fb376dc2fa4b967715eaf665b599fe1d17388270d6f557aeceda65220f25847b089693bf2c89fa6a17074",
+    "client_seed": "1782075919587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16008,
+    "max_tickets": 20000,
+    "combined_hash": "c7b2aaf8ce17809cff70c8839f89cd2f7fa03e1864d61f2a284f2c3c704e7657",
+    "result": "16456",
+    "external_round_id": "29757521",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T21:05:19.000000Z",
+    "revealed_at": "2026-06-21T21:05:27.000000Z"
+}
