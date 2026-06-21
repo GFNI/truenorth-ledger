@@ -1,0 +1,22 @@
+{
+    "round_id": "8dc6bca3-bea7-434d-96db-09178aa7ad93",
+    "draw_title": "Modern Greats!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/modern-greats",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "64d7de5745c51dbe165f20c3a9cf725e85bd1176d051f2a120862627393acaf7",
+    "drand_seed_hash": "b6fce5d08f08854d744eeafd2a625cfed43699d7b0937ce87cc5d2451354b23db8188eebf7407ec39c7729ce3166b34c",
+    "client_seed": "1782070753727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2613,
+    "max_tickets": 8000,
+    "combined_hash": "0d105bba3e9684f365daf23cb139f02c3f1774758af2f5c89f3d3f31f40d0818",
+    "result": "2062",
+    "external_round_id": "29755799",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:39:13.000000Z",
+    "revealed_at": "2026-06-21T19:39:21.000000Z"
+}
