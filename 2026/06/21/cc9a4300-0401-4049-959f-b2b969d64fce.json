@@ -1,0 +1,22 @@
+{
+    "round_id": "cc9a4300-0401-4049-959f-b2b969d64fce",
+    "draw_title": "Apple Air Pods 4",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/apple-air-pods-4",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "9dad219f60577b5a0bc1e46113bb5d934ee65110f3011b3e5a15d6bd8ac3934e",
+    "drand_seed_hash": "b51b6dbf445130374faa5902aad93d494317a88f14d659fd84619806eed3739480155322a933ce21be248a96865a15ca",
+    "client_seed": "1782072941835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 259,
+    "max_tickets": 450,
+    "combined_hash": "444872e8831e10588410f989164083421d4f9d59c3d3d04a7bbc684ead2c2fc8",
+    "result": "217",
+    "external_round_id": "29756528",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T20:15:41.000000Z",
+    "revealed_at": "2026-06-21T20:15:48.000000Z"
+}
