@@ -1,0 +1,22 @@
+{
+    "round_id": "280c1628-4915-4605-be7b-d51bf9427b65",
+    "draw_title": "VAX Spot Wash Duo",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/vax-spot-wash-duo-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "29cccb1e48e7c9853ec2cd3c91f24fe850a53a77722a70c456d3dff879ca13cf",
+    "drand_seed_hash": "aaf2e360ce559800e2d50f53a45c94ebbd8a39394b93522c7425ae1672c2b67b83ec971e0f117cba5e853b5a1b39b34d",
+    "client_seed": "1782069640036",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 200,
+    "combined_hash": "200d91e556b9b88353a070ea02ac2ae68e9b1a0b25167708f5b7eec7149fae92",
+    "result": "145",
+    "external_round_id": "29755428",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:20:40.000000Z",
+    "revealed_at": "2026-06-21T19:20:48.000000Z"
+}
