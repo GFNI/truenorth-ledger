@@ -1,0 +1,22 @@
+{
+    "round_id": "292cc97a-a329-4aa3-b7aa-c64e5e654a4e",
+    "draw_title": "Bonus Buy ~ Stanley Water Bottle",
+    "competition_url": "https://redlemonx.co.uk/admin/products/bonus-buy-stanley-water-bottle",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "af9315c5a76003a568f2504ded021fb715125ee7f6f88c7e6d33d72612598f13",
+    "drand_seed_hash": "836493c7b31c2657f34e65a156939e373502bb98867e08a3564b648f61f2b1f322ba64d929a4e8ff2180258fa5ab0246",
+    "client_seed": "1782079175216",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "6eba74d5a349564ecdb40acc2ef3fd9f757b59e57cfeceb037ec79d5c6aa1cae",
+    "result": "11",
+    "external_round_id": "29758606",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T21:59:35.000000Z",
+    "revealed_at": "2026-06-21T21:59:42.000000Z"
+}
