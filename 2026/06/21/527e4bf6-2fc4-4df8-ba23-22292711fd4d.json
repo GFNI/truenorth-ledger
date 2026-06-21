@@ -1,0 +1,22 @@
+{
+    "round_id": "527e4bf6-2fc4-4df8-ba23-22292711fd4d",
+    "draw_title": "Connor’s Birthday Freebie",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/connors-birthday-freebie",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "8fc284f3d69311d3588dc6b2cb19b3562c915579d1fb7f7fcd9c446565d869f1",
+    "drand_seed_hash": "8365566c6cfd1c2d64ae97e0e8b766ae25fc9b81208d8e43cb45c1d7a31d7615287229580f9b74177872e04bd5daf9e0",
+    "client_seed": "1782070695218",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 250,
+    "combined_hash": "430ca12bd37d6b3c10caeb0af85e46a66caca70438f6078307f89f0b4a80276a",
+    "result": "224",
+    "external_round_id": "29755779",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:38:15.000000Z",
+    "revealed_at": "2026-06-21T19:38:21.000000Z"
+}
