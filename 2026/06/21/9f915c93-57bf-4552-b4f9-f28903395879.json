@@ -1,0 +1,22 @@
+{
+    "round_id": "9f915c93-57bf-4552-b4f9-f28903395879",
+    "draw_title": "Luka Modrić Topps Pristine Auto /99",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/luka-modric-topps-pristine-auto-99",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "29d93aa057b4f0db1e6d101505394471c41d1ee68888aee07cbbcdb2caaaf88c",
+    "drand_seed_hash": "a81e1b29ce75bd3ce67a2701858840f4b8565391d847f187bcca44de96d9e9ff78ad24a5a58f14235df21503da349577",
+    "client_seed": "1782065436219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 351,
+    "max_tickets": 1000,
+    "combined_hash": "ed4f20e7d6a44777842728dbbea39df8e84c1a65eefc5ccfcc3a2c7c6a15349e",
+    "result": "510",
+    "external_round_id": "29754026",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T18:10:36.000000Z",
+    "revealed_at": "2026-06-21T18:10:42.000000Z"
+}
