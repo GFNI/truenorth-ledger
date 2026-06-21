@@ -1,0 +1,22 @@
+{
+    "round_id": "3445ad95-571d-4d9b-9b0b-b09de2a9d849",
+    "draw_title": "The £100 Cash Dash 🏃‍♂️",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/the-ps100-cash-dash",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "cb4b6196e798e8e7bfc8b06d2fd8f9474587d1e24959a3940538b4498b86e4b1",
+    "drand_seed_hash": "9651fd013a5ed61c3142e3024da250cd698cb9cb6d6c4e3c856e40fc6a842fdfb7f617637808d7ffd87f1ab1bf543866",
+    "client_seed": "1782072842248",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14103,
+    "max_tickets": 25000,
+    "combined_hash": "e141f7e8447d339619d2c1f5303eb08c54b4ad278d0d38b8649cfd7217e60001",
+    "result": "18370",
+    "external_round_id": "29756495",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T20:14:02.000000Z",
+    "revealed_at": "2026-06-21T20:14:09.000000Z"
+}
