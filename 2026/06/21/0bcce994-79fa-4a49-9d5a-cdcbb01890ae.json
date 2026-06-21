@@ -1,0 +1,22 @@
+{
+    "round_id": "0bcce994-79fa-4a49-9d5a-cdcbb01890ae",
+    "draw_title": "Stanley Thermal Flask",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/stanley-thermal-flask",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "1288a6cb7f48a78a920deea9214a52b7ab2ff8cfeb7d800f01ecb5398729d93b",
+    "drand_seed_hash": "ab38f5a2b5512b20124b1834f5b699ad9272a3e8ce8badc396d11c43e6e60f7c62b94cd9b80c4e49700ce192dbcb9b0c",
+    "client_seed": "1782069598104",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 200,
+    "combined_hash": "6d1706d5b5739d10f710d99aa08d104a4978f1c3854049a8548d50b46c5e2bb6",
+    "result": "22",
+    "external_round_id": "29755414",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:19:58.000000Z",
+    "revealed_at": "2026-06-21T19:20:06.000000Z"
+}
