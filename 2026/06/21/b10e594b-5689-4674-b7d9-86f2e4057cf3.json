@@ -1,0 +1,22 @@
+{
+    "round_id": "b10e594b-5689-4674-b7d9-86f2e4057cf3",
+    "draw_title": "PSA 10 Shanks + Instant Wins",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/psa-10-shanks-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "b8feb3d011259e6f1a8c18293fbfb0994e462e2f215b0bcb2d885217e2278417",
+    "drand_seed_hash": "98a67e374e38ca602c5ff1445e0a868aaac06748f06a5a0afb1d973fa16397697c79333fcf805e87c3d27e77c9cb9b53",
+    "client_seed": "1782070662050",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1215,
+    "max_tickets": 6000,
+    "combined_hash": "24733c35df79cbc95e641a43e6a7180351e24e47571f0689b46645fd9a5a5077",
+    "result": "85",
+    "external_round_id": "29755768",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:37:42.000000Z",
+    "revealed_at": "2026-06-21T19:37:48.000000Z"
+}
