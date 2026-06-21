@@ -1,0 +1,22 @@
+{
+    "round_id": "f9648c27-7c06-4262-ac0f-ee412974211b",
+    "draw_title": "David Beckham Panini Obsidian Auto /5",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/david-beckham-panini-obsidian-auto-5",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "e81dc69b8aa88d682ee724175026d1a473a02ddd52280de789dfe47efba8ee72",
+    "drand_seed_hash": "ab0c2564a616b22c228b4d5d9ce969c3435a110058a1d39493ab180e437cbda112bd3d5bfad13e4d79877f7b52a37634",
+    "client_seed": "1782065442596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 183,
+    "max_tickets": 750,
+    "combined_hash": "7201208db273dea5d9e06995417515f80d77ded98552d6085505282d5a77fa17",
+    "result": "229",
+    "external_round_id": "29754028",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T18:10:42.000000Z",
+    "revealed_at": "2026-06-21T18:10:48.000000Z"
+}
