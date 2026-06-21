@@ -1,0 +1,22 @@
+{
+    "round_id": "62fccc7f-0097-4816-92a5-9be83a2d0bdb",
+    "draw_title": "Pokémon Team Rocket’s Moltres ex Ultra Premium Collection + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-team-rockets-moltres-ex-ultra-premium-collection-instant-wins-3",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "868b0fb19a685142f8e70343a38d4b26e9d9b4b1f9ff5bfddce12b049963e1f8",
+    "drand_seed_hash": "ad5d334dcef233df035421cef51b7c348800fcbb0ed899037712f369b4e4959b3dfbc5d70d32c9d1f13641325dc7aa26",
+    "client_seed": "1782077683287",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 521,
+    "max_tickets": 1066,
+    "combined_hash": "d570c7bc35c6a614442e92d4eda2c8e3bd779c4460933f7c2a108f553a4c30b7",
+    "result": "954",
+    "external_round_id": "29758109",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T21:34:43.000000Z",
+    "revealed_at": "2026-06-21T21:34:51.000000Z"
+}
