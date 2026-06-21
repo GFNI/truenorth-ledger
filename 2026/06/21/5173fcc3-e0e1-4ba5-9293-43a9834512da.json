@@ -1,0 +1,22 @@
+{
+    "round_id": "5173fcc3-e0e1-4ba5-9293-43a9834512da",
+    "draw_title": "50 Entries to Prize Slots",
+    "competition_url": "https://a9competitions.co.uk/admin/products/50-entries-to-prize-slots",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "dbd3969bfa0e8aacd5579d016eebf7283b6b4f4caaccabe518b49e2556f2b3a0",
+    "drand_seed_hash": "958c409e29fb3cbe2ca9d70464d0827f968f92e5037b7bf91b50f5caaf6ccc74cb32e4d9c02dda1e2f64ba5fbc256e67",
+    "client_seed": "1782073854529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 150,
+    "combined_hash": "98b4a14e9bf6e150b2ea7e2361d905c857e8927a6dc9c52104c7ad1f76add056",
+    "result": "77",
+    "external_round_id": "29756832",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T20:30:54.000000Z",
+    "revealed_at": "2026-06-21T20:31:00.000000Z"
+}
