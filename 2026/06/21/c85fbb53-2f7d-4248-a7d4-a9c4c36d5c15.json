@@ -1,0 +1,22 @@
+{
+    "round_id": "c85fbb53-2f7d-4248-a7d4-a9c4c36d5c15",
+    "draw_title": "Win £500 IN PURE SILVER — 7oz Bullion Bundle (or £350 Cash)",
+    "competition_url": "https://therafflekid.co.uk/admin/products/cameo-coins-silver",
+    "operator": {
+        "name": "The Raffle Kid Ltd",
+        "website": "https://therafflekid.co.uk",
+        "company_number": "16287135"
+    },
+    "drand_server_seed": "d9ffab538134c76168e9db7a46d188f94f5a0f3f1ebe7ea5f39d9984478432a4",
+    "drand_seed_hash": "b24a35a57d3e9cda9ed3c6571871402fd474d398dd0aae10b7ddc2671b6afdfc1bda265550abce9380475d50fbdb664b",
+    "client_seed": "1782072355945",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 202,
+    "max_tickets": 499,
+    "combined_hash": "df4c97c2f95159cabae7cf1b483e28dc713e1db231c658160dca6669c17efcd7",
+    "result": "495",
+    "external_round_id": "29756333",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T20:05:56.000000Z",
+    "revealed_at": "2026-06-21T20:06:03.000000Z"
+}
