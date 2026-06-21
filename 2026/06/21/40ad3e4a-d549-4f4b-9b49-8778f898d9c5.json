@@ -1,0 +1,22 @@
+{
+    "round_id": "40ad3e4a-d549-4f4b-9b49-8778f898d9c5",
+    "draw_title": "Garrett Vortex VX9 or Legend Pro Pack!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/garrett-vortex-vx9-or-legend-pro-pack",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "025c7f5977cd81cf9fc382dc7dbc26a6e905c8ec67552dae17ac670e9075dd31",
+    "drand_seed_hash": "8dce2ea049f858b34325831004d184ff410fee88ceaff5da3f3e5fccc1f3b19613dbd942b83cd76d51e2d4398bc5609f",
+    "client_seed": "1782070032930",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 227,
+    "max_tickets": 700,
+    "combined_hash": "900a1f14a24b4d173537901959916f1206059d6899cdb77030dfe05fbf5cc85f",
+    "result": "141",
+    "external_round_id": "29755559",
+    "processing_status": "completed",
+    "created_at": "2026-06-21T19:27:13.000000Z",
+    "revealed_at": "2026-06-21T19:27:21.000000Z"
+}
