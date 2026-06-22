@@ -1,0 +1,22 @@
+{
+    "round_id": "b738ea69-3aef-44eb-9f37-039ca081dda2",
+    "draw_title": "BOGOFF Pop",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/bogoff-pop",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "46470576ee7e5cf28b4ab3fd318998255258bd0763d69d43a494ceb1fb14e010",
+    "drand_seed_hash": "b6941fe36ed9b9183986db9b5ed0f724ceb14f5a5657e83957b997d25e905175f2f9e402406b8fda1f6c9072ce1e14b3",
+    "client_seed": "1782163535322",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16648,
+    "max_tickets": 79999,
+    "combined_hash": "69f738829e325053f023ba4188c5577e3a2d4bceeae7b5b82557a29689c45773",
+    "result": "78743",
+    "external_round_id": "29786726",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T21:25:35.000000Z",
+    "revealed_at": "2026-06-22T21:25:42.000000Z"
+}
