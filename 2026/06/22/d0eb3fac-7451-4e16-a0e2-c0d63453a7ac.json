@@ -1,0 +1,22 @@
+{
+    "round_id": "d0eb3fac-7451-4e16-a0e2-c0d63453a7ac",
+    "draw_title": "£50 SITE CREDIT",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ps50-site-credit",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "87fe73cdd9a0bf0058e746c06664368d263a35e11489bffd548bddfd3c6e164b",
+    "drand_seed_hash": "9287257b858f774d76c387c20f0044b8c08e17aa75224e296a5d63101c2fee412d9d7eba7bb036a186297252e7da2412",
+    "client_seed": "1782155448895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36,
+    "max_tickets": 99,
+    "combined_hash": "8c8b79bd0a2d6e9a77c278752cfcdcfcfcac62b837b09d1979cd5bbe091114cd",
+    "result": "95",
+    "external_round_id": "29784030",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T19:10:48.000000Z",
+    "revealed_at": "2026-06-22T19:10:54.000000Z"
+}
