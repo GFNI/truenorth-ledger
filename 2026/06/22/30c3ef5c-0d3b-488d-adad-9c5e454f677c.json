@@ -1,0 +1,22 @@
+{
+    "round_id": "30c3ef5c-0d3b-488d-adad-9c5e454f677c",
+    "draw_title": "£75 Voucher of Choice",
+    "competition_url": "https://redlemonx.co.uk/admin/products/ps75-voucher-of-choice",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "2e4cfcaaa2581c2645e59cf48f3578b233b5cee708b5bfbc17cff10743febe1d",
+    "drand_seed_hash": "8f59c67981d3d31b5ebf30b9e414558e504c266ad4116d850906230091559def9d2fae59c8a12047ba5478b0da8ea240",
+    "client_seed": "1782145717237",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "33b5ed7ce3b4e99ee1b27fc8cc73f11d639f9c011eaa5d1286f36fa00d23a374",
+    "result": "54",
+    "external_round_id": "29780787",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T16:28:37.000000Z",
+    "revealed_at": "2026-06-22T16:28:45.000000Z"
+}
