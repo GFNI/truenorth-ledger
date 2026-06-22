@@ -1,0 +1,22 @@
+{
+    "round_id": "7f638cdc-ff45-4231-b321-3ba77228e41a",
+    "draw_title": "So Stobo For 2 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/so-stobo-brunch-spa-day-for-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "6494e1ba391285f8c4206b2c2b9af6e12aea61502f642b8619c99a36b4d6698f",
+    "drand_seed_hash": "aa27920e225651d1ca83b924b7e3d2b468cec05566512b329c97aa3940f8e29590efecd6665428e2a7f5262f7e286447",
+    "client_seed": "1782162899458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 900,
+    "combined_hash": "ac6b74a3ea9e82ca06b02844d64e9fa6a75a4d17f68d9c2cd4cc719c1f723f86",
+    "result": "649",
+    "external_round_id": "29786514",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T21:14:59.000000Z",
+    "revealed_at": "2026-06-22T21:15:06.000000Z"
+}
