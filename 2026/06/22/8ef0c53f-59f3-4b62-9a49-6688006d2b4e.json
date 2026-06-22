@@ -1,0 +1,22 @@
+{
+    "round_id": "8ef0c53f-59f3-4b62-9a49-6688006d2b4e",
+    "draw_title": "Slip & Slide 😁",
+    "competition_url": "https://redlemonx.co.uk/admin/products/slip-slide",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "941fe10bb2e092050b474bb3e6e3a1ae9540dfd5827f7d6bf0d3502b64ce4694",
+    "drand_seed_hash": "8b98a433e6fe89477b343b14078075b22fd8093414a7094c7f9be1acc7f079a4218cc09e5d6467a0a36ba30dd24bc4f5",
+    "client_seed": "1782159043664",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 75,
+    "combined_hash": "86dfcb9ae2dc7a07f3160fa7f346bfc1a4ebd5d1f79c95deecdcb0df87d58d10",
+    "result": "70",
+    "external_round_id": "29785229",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T20:10:43.000000Z",
+    "revealed_at": "2026-06-22T20:10:51.000000Z"
+}
