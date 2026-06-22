@@ -1,0 +1,22 @@
+{
+    "round_id": "b9fbe823-60fb-48ab-8ee7-0889e265ca9a",
+    "draw_title": "Lay-Z-Spa",
+    "competition_url": "https://redlemonx.co.uk/admin/products/lay-z-spa",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "e1514f2e559b9699fa7387870e8c2977e42cb9578a18145e5f0f900a93c8b098",
+    "drand_seed_hash": "8ab8c67132a6c8d90577535fa498fcaac4c16e68ee7a809d00930b429b2cf900ef6646854e8606d66b34f63d3b5c52a3",
+    "client_seed": "1782142897662",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "e53aee6363f1c59cd2a3c01744ab1e596070b264ed7fcbd1a84b527216a1482e",
+    "result": "55",
+    "external_round_id": "29779847",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T15:41:37.000000Z",
+    "revealed_at": "2026-06-22T15:41:45.000000Z"
+}
