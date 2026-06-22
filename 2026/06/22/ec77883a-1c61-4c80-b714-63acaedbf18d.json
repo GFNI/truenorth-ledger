@@ -1,0 +1,22 @@
+{
+    "round_id": "ec77883a-1c61-4c80-b714-63acaedbf18d",
+    "draw_title": "SAMSUNG Galaxy Watch8 Classic BT with Bixby - Black, 46 mm ⌚",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-galaxy-watch8-classic-bt-with-bixby-black-46-mm",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "85b59891f3eb93d8cffe23fac849e392f8c3a26ed098682351778c99b3b52a21",
+    "drand_seed_hash": "932299211ea6c08f447753e3a199875a9b04cdff2e5e652a7aab87aeea2abeae48ed70566bdbbcad0513ef6fcb2187e7",
+    "client_seed": "1782152674674",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 913,
+    "max_tickets": 1700,
+    "combined_hash": "600390446e4310151d39ab39f7b63e179b53958aa2f61f20e3f32163d76715b5",
+    "result": "737",
+    "external_round_id": "29783106",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T18:24:34.000000Z",
+    "revealed_at": "2026-06-22T18:24:42.000000Z"
+}
