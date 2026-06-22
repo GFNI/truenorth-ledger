@@ -1,0 +1,22 @@
+{
+    "round_id": "50de7a45-a45a-407c-b90f-796887789cdf",
+    "draw_title": "🍵 Smeg Bundle - Choose Your Colour! 🍵",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/smeg-bundle-choose-your-colour",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "bfb76d8da3464787e4f04463e8a4f66210214940ac7f2d97bbee56875dce55ef",
+    "drand_seed_hash": "a4581864e2df24046b5435d1a4ce634378d3f36235ff3db3dd32fc5e80cb8836262bebf600a2c4817b1bcb6f8f4491dd",
+    "client_seed": "1782151823742",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1414,
+    "max_tickets": 2195,
+    "combined_hash": "a7c9f10b153d3d788d8904b5649d949fa0173b1dbd118ba53e8f4216f01c1f8c",
+    "result": "456",
+    "external_round_id": "29782822",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T18:10:23.000000Z",
+    "revealed_at": "2026-06-22T18:10:30.000000Z"
+}
