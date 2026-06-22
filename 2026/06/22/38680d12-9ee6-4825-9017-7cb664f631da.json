@@ -1,0 +1,22 @@
+{
+    "round_id": "38680d12-9ee6-4825-9017-7cb664f631da",
+    "draw_title": "Makita DLX6072PT 18V LXT 6 Piece Kit with 3x 5.0Ah Batteries⚙️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/makita-dlx6072pt-18v-lxt-6-piece-kit-with-3x-50ah-batteries",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9961acb8565b874575d259f85bf890eca48e87830aa40996588bd839c6753cbe",
+    "drand_seed_hash": "8375220269b1102507592fb83177ddd8913ac5229a0b8d69473daaa289f1e2123e3230b80fa56f70d3ff481183014870",
+    "client_seed": "1782152884160",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2178,
+    "max_tickets": 2800,
+    "combined_hash": "109351f0f647d75bbcdaacc0ce5d74d019d4e676e660c496047c1f81658208b7",
+    "result": "1105",
+    "external_round_id": "29783176",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T18:28:04.000000Z",
+    "revealed_at": "2026-06-22T18:28:12.000000Z"
+}
