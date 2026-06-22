@@ -1,0 +1,22 @@
+{
+    "round_id": "f7b9d9b2-7820-42f0-8428-1377fd66737a",
+    "draw_title": "1 In 3 Wins £300 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/1-in-3-wins-ps300-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8586a0c2133123190bd1a11f9e0990a52e83d14ea976ac4ef75a18df7a3f704c",
+    "drand_seed_hash": "ac8587033578ac1af57d6f7725a581a2593048f67dae86f1a6341a971880042b154b54018e4f25edcb6b67a3bc895097",
+    "client_seed": "1782163000623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1500,
+    "combined_hash": "8ff9396fcfe2d270e2c35e5de18d3d4b1179282ad0b12c3714fcf7a80c22d248",
+    "result": "1416",
+    "external_round_id": "29786548",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T21:16:40.000000Z",
+    "revealed_at": "2026-06-22T21:16:50.000000Z"
+}
