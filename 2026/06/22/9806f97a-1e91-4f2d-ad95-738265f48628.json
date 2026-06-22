@@ -1,0 +1,22 @@
+{
+    "round_id": "9806f97a-1e91-4f2d-ad95-738265f48628",
+    "draw_title": "🚤 Two night stay for 2 at the Cragwood Country House Hotel, Windermere + £150 🚤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/two-night-stay-for-2-at-the-cragwood-country-house-hotel-windermere-ps150",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1a66c4323b0eff9ca75aa1eeee0622a5ae9dfdc885bf6e6c94ce1925b9ee90dd",
+    "drand_seed_hash": "b467f55b1acc4d8947427fc6ec948ae97f1c9096702e654c7039af5c7bf6205d97faa98f791d32141d0883cb56fe284f",
+    "client_seed": "1782152032844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1116,
+    "max_tickets": 1750,
+    "combined_hash": "f059e62cf5a433edd7b91762f34f7b9c9895e6df09dec56c68e0c3917bbcd77a",
+    "result": "1059",
+    "external_round_id": "29782892",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T18:13:52.000000Z",
+    "revealed_at": "2026-06-22T18:14:00.000000Z"
+}
