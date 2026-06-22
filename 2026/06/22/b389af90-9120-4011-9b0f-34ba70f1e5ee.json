@@ -1,0 +1,22 @@
+{
+    "round_id": "b389af90-9120-4011-9b0f-34ba70f1e5ee",
+    "draw_title": "Ninja Slushi 🥤",
+    "competition_url": "https://redlemonx.co.uk/admin/products/ninja-slushi",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "0d80be81e7bea5ea757d3f46c406bc0e7ca0e79c98b796ebfb7a50eda0be2fb9",
+    "drand_seed_hash": "b32b3344bf3bd52d38622a25b07eb8c033b78864a651c221a8f8ed3ee07a979075235ecf3daebabaf6e5f392a44ff0aa",
+    "client_seed": "1782135816382",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "f403b9c05670c790b42755bf48b5e24e3bd6821d26dbb5e06a26adf37919d459",
+    "result": "145",
+    "external_round_id": "29777486",
+    "processing_status": "completed",
+    "created_at": "2026-06-22T13:43:36.000000Z",
+    "revealed_at": "2026-06-22T13:43:42.000000Z"
+}
