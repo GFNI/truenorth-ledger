@@ -1,0 +1,22 @@
+{
+    "round_id": "8e18599a-2fa6-4d86-a1ae-8045e8c38d85",
+    "draw_title": "GREAT SWEEPSTARZ SANDWICH",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/great-sweepstarz-sandwich",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "97411b1db5853e6c0d7ba22f586d039ec59b32c5d2345899453a6f999513342f",
+    "drand_seed_hash": "933a7e3a6ea3f8b74b174aa798a872feda83145d19fd810d52b310d74b260b336c7ff9ff8b52836e810d0376b7508bf3",
+    "client_seed": "1782238615275",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5713,
+    "max_tickets": 20000,
+    "combined_hash": "fc2d200f99d43a4eb0ff680813628ce2cae714f5407fe639d32a18b603a37a14",
+    "result": "7165",
+    "external_round_id": "29811753",
+    "processing_status": "completed",
+    "created_at": "2026-06-23T18:16:55.000000Z",
+    "revealed_at": "2026-06-23T18:17:03.000000Z"
+}
