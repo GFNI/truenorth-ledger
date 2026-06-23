@@ -1,0 +1,22 @@
+{
+    "round_id": "c891abd2-1bd2-4d61-a135-ce86633e84cf",
+    "draw_title": "Glenfiddich 18 Year Old - CLUB 24",
+    "competition_url": "https://whiskyclubuk.com/admin/products/glenfiddich-18-year-old-club-24",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "0ec24619ea2eddf488e95d0262f13ace377225de8a78eb03fb65b69aae1cafd0",
+    "drand_seed_hash": "81608d8c65b102a064bfbb113ecc6d3b5f41bcd4f9bbfa576ace23ae2cca42b038aa707d485abe39a8a4c23156719c9d",
+    "client_seed": "1782252641816",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17,
+    "max_tickets": 24,
+    "combined_hash": "c9630e9d6fbef1056a95c06674a5858b39b90eb24ff4d92d812abd1e13157bc0",
+    "result": "10",
+    "external_round_id": "29816428",
+    "processing_status": "completed",
+    "created_at": "2026-06-23T22:10:41.000000Z",
+    "revealed_at": "2026-06-23T22:10:48.000000Z"
+}
