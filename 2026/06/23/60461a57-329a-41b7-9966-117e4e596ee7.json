@@ -1,0 +1,22 @@
+{
+    "round_id": "60461a57-329a-41b7-9966-117e4e596ee7",
+    "draw_title": "Non Profit Belfast Breakfast Baps Donations",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/non-profit-belfast-breakfast-baps-donations",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "61d7ef8c6f40e64a4a541a1840c5c8ccd536a80b7fb81e5481ac23c9d94f4ca6",
+    "drand_seed_hash": "a43fa63a2c532c7327c003caa48b1042dc3f28a43502a6ec16403f7503dbdbdc5fe383f71a5c8c2770ab592062e2e716",
+    "client_seed": "1782247251594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 10000,
+    "combined_hash": "619c0007464f6adfe88ae0fba51ce5745fbbc2aaae4db72821b67e61ff8b1926",
+    "result": "546",
+    "external_round_id": "29814631",
+    "processing_status": "completed",
+    "created_at": "2026-06-23T20:40:51.000000Z",
+    "revealed_at": "2026-06-23T20:40:57.000000Z"
+}
