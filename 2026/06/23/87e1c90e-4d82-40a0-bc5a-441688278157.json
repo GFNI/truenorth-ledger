@@ -1,0 +1,22 @@
+{
+    "round_id": "87e1c90e-4d82-40a0-bc5a-441688278157",
+    "draw_title": "Fryer's Glen £100 Gift card",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/fryers-glen-ps100-gift-card",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "3567e4dc3e22cc15f4a908d3733cc177be3e88005be29a6db7c26b750de61eaf",
+    "drand_seed_hash": "887af52254989cedc8592a7313521bd99cd6b209b5312b868a4b2e4fe3559512c2b125abee432071508e2efc76e4828d",
+    "client_seed": "1782247245790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 2000,
+    "combined_hash": "a4159773d34b996ad7e2194297053056a307c8e391ee5204179e30b2b1208dd1",
+    "result": "1317",
+    "external_round_id": "29814629",
+    "processing_status": "completed",
+    "created_at": "2026-06-23T20:40:45.000000Z",
+    "revealed_at": "2026-06-23T20:40:51.000000Z"
+}
