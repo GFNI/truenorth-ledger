@@ -1,0 +1,22 @@
+{
+    "round_id": "bff3c057-61fd-4dcf-926f-43798f7accbc",
+    "draw_title": "Huge Outdoor Water Park",
+    "competition_url": "https://ogcompetitions.co.uk/lists/huge-outdoor-water-park",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "35295201b9d517896f2594500d9b3e723053e063b088e1b56b8b6ab08161a7b2",
+    "drand_seed_hash": "863e59ecf430efb401d4041836fbaf5b24c4dfa53b3b63f64569a052c3dceb482b98143a715dcaa189a794de587ab483",
+    "client_seed": "1782336140225",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 600,
+    "combined_hash": "9d0188d6a42e188494ecd33fb1e432f38e375b03a361b0011d5cfdba7db2dfd5",
+    "result": "134",
+    "external_round_id": "29844261",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T21:22:20.000000Z",
+    "revealed_at": "2026-06-24T21:22:29.000000Z"
+}
