@@ -1,0 +1,22 @@
+{
+    "round_id": "95754922-5859-41fd-a76e-83542b941bb0",
+    "draw_title": "Northern Lights Galaxy Projector!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/northern-lights-galaxy-projector-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "88d45939e8b834a6f2a2efafacaa1cdbdca70dda657d2bc04df1224fd1cfeeec",
+    "drand_seed_hash": "94c8aa8372233c558776008e2b5b70a97bad3aaff1b1ed616b082cbfb5710e04a22d677dfcaf54702e8fd5316a1bf09a",
+    "client_seed": "1782328638277",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 200,
+    "combined_hash": "b2c7681da064a8593ae0a4ca03d13b5c7a877685c4bf65d61096bc39ea3bc7ec",
+    "result": "131",
+    "external_round_id": "29841760",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T19:17:18.000000Z",
+    "revealed_at": "2026-06-24T19:17:24.000000Z"
+}
