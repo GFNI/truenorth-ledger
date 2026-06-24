@@ -1,0 +1,22 @@
+{
+    "round_id": "f1c98c48-e5af-4095-ab69-3089e43f012d",
+    "draw_title": "PUNTERS PILATES PRO £150,000 INSTANT WINNER!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/punters-pilates-pro-ps150000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "de6ebad05cfc3a0cdc573775cff683402d9336636960a59a7766d3d7d9d9154b",
+    "drand_seed_hash": "a252531e3f2d9bfe04df7bb72236b691ffea07dd82415c525d80ca23fb286a720e015aac6af05dc2068197d76aa7ad01",
+    "client_seed": "1782330181238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 228615,
+    "max_tickets": 8000000,
+    "combined_hash": "770998f3cc4d6600f88d99a5568170eb0e2998f4b21a3a0d88e39a8528508a06",
+    "result": "6827384",
+    "external_round_id": "29842274",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T19:43:01.000000Z",
+    "revealed_at": "2026-06-24T19:43:06.000000Z"
+}
