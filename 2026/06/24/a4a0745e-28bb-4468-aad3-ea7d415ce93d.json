@@ -1,0 +1,22 @@
+{
+    "round_id": "a4a0745e-28bb-4468-aad3-ea7d415ce93d",
+    "draw_title": "Ninja Swirl",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ninja-swirl-by-creami-ice-cream-maker-bundle-or-ps280-cash-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "75a4ee1aa3beee02f0e32191a1fdc1cb40624d0f0bf82c16653aba668f859ecf",
+    "drand_seed_hash": "a93b158d6b3dfa510910f498d725b50ccab4df471b89a06e6a10f6d929b90243b0bc0e967f63614afd667d6bd634f057",
+    "client_seed": "1782336287844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 450,
+    "combined_hash": "8bbbd64b93037a91ff4cf26b8fbd7c19aa7e0d886b8459a787c29c0cd42d621d",
+    "result": "166",
+    "external_round_id": "29844310",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T21:24:47.000000Z",
+    "revealed_at": "2026-06-24T21:24:57.000000Z"
+}
