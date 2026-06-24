@@ -1,0 +1,22 @@
+{
+    "round_id": "b7d25686-957c-4a27-9cf5-b180814d68d8",
+    "draw_title": "€50 Prime Credits",
+    "competition_url": "https://primecompetitions.com/admin/products/eur50-prime-credits",
+    "operator": {
+        "name": "Prime Competitionz Limited",
+        "website": "https://primecompetitions.eu",
+        "company_number": "14920535"
+    },
+    "drand_server_seed": "5bd809846269271448060140f4e7e032c0356a56224259c5e31b1906cbc1485c",
+    "drand_seed_hash": "a91ce08b1f89a5e1a65061b26f973ab1344461e254ef51349ee640910ea2e53cb610d43b34eb3371dacef4ae6f2211b7",
+    "client_seed": "1782334242455",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1544,
+    "max_tickets": 5000,
+    "combined_hash": "c07c9620a58abc50fdd6ec2fbc12c7dd52e2e0296044296c63e578c06e69b77b",
+    "result": "3249",
+    "external_round_id": "29843628",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T20:50:42.000000Z",
+    "revealed_at": "2026-06-24T20:50:48.000000Z"
+}
