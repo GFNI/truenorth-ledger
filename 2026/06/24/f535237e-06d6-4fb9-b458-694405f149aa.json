@@ -1,0 +1,22 @@
+{
+    "round_id": "f535237e-06d6-4fb9-b458-694405f149aa",
+    "draw_title": "Ruby Hunt - £200 Auto + Instantly win up to £750!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/ruby-hunt-ps200-auto-instantly-win-up-to-ps750",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "e8e02f8e6ce5d1640c04211d39130797c5894d02caebce31ed1541dab9f752e3",
+    "drand_seed_hash": "a63439dc7285ff296783e2a4450277f3cf14d3d40162bb5fd69f6e0813573b2a7e685044cfacbcb5a3b8a787a6b44ace",
+    "client_seed": "1782328250323",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30479,
+    "max_tickets": 75000,
+    "combined_hash": "b48d8492a6c95af0335834be7df01f4059d1f33ce7a4f31c3bc5319e9c768b03",
+    "result": "35565",
+    "external_round_id": "29841631",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T19:10:50.000000Z",
+    "revealed_at": "2026-06-24T19:10:57.000000Z"
+}
