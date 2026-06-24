@@ -1,0 +1,22 @@
+{
+    "round_id": "5e553b7f-5d7e-45b2-82af-b1bd54e72735",
+    "draw_title": "SEND Parents / Carers Free Draw",
+    "competition_url": "https://chaotic.co.uk/competition/send-parents-carers-free-draw-6904",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a3c2829b452ad550b6e708583c231f079c2d9905df9839cfd9c082bc6bb791e0",
+    "drand_seed_hash": "99e6f92b082a3081a4b0eefcbdb758c74c816ec4f869b1bd349cba1b30e77c895fab6cd8dd2f69067cfe2fb4edf1d3f1",
+    "client_seed": "1782332625799",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "83051634b31b317efc0fe3f95c5d6cdded055f7d9982739efb2f0c356dfc107b",
+    "result": "436",
+    "external_round_id": "29843089",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T20:23:45.000000Z",
+    "revealed_at": "2026-06-24T20:23:51.000000Z"
+}
