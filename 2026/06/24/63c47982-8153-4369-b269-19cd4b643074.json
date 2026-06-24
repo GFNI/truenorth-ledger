@@ -1,0 +1,22 @@
+{
+    "round_id": "63c47982-8153-4369-b269-19cd4b643074",
+    "draw_title": "£2,500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps2500-cash-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4bf935ec1197c10e9cc6f7fe482f31e306cb15deeea72d9d68d15e8217103118",
+    "drand_seed_hash": "90bc0e0b6e3181b2acd01403a1548e18e37898f2f860c5e5fa1450f3672255c27dc15037442e3310367eaa531f4eed1b",
+    "client_seed": "1782336402172",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 45200,
+    "combined_hash": "63bf71271d04626fb526e929c94da39a633708be5ae7f20b83049d16e5a10f5e",
+    "result": "37988",
+    "external_round_id": "29844348",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T21:26:42.000000Z",
+    "revealed_at": "2026-06-24T21:26:48.000000Z"
+}
