@@ -1,0 +1,22 @@
+{
+    "round_id": "bd565703-44cf-414c-9a65-75677927771b",
+    "draw_title": "NINJA CREAMI ICE CREAM MAKER",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ninja-creami-ice-cream-maker",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "5ea1306254ab610323565321f060037d94b93db816fae17e54e89caa58152ca7",
+    "drand_seed_hash": "a10e0d35a680200203c67ee1de107159fe7f819bce41e4e3e605de505af9c7e835751566a01999ac3941e58b98eb1f64",
+    "client_seed": "1782328848593",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 99,
+    "combined_hash": "eb15e15b8197acf839d6253c420502437e11a2a4fff8a7352c2c88d009afd39d",
+    "result": "51",
+    "external_round_id": "29841830",
+    "processing_status": "completed",
+    "created_at": "2026-06-24T19:20:48.000000Z",
+    "revealed_at": "2026-06-24T19:20:54.000000Z"
+}
