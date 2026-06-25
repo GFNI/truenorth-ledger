@@ -1,0 +1,22 @@
+{
+    "round_id": "2d5513ec-a2ed-4d8d-997b-2ee84d405cb2",
+    "draw_title": "£500 CASH + INSTANT WINS",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps500-cash-instant-wins-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "06acf18980302c27bd3593f1d0bf6ac3feff04ae896cf108f47e3adf888c71bc",
+    "drand_seed_hash": "8465623c03a23d0aa9044835a605933974bc3ba11eaee8853e43a123dc1b7c3b62b8caba1fa0f2fff5c078390a857ea5",
+    "client_seed": "1782422356359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20201,
+    "max_tickets": 44444,
+    "combined_hash": "76f9f3a4db32599695044838a166c05c50cacb76d2c9c94a966068636f7cc40c",
+    "result": "13543",
+    "external_round_id": "29872999",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T21:19:16.000000Z",
+    "revealed_at": "2026-06-25T21:19:21.000000Z"
+}
