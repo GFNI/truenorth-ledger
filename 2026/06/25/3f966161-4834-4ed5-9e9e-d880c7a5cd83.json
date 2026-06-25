@@ -1,0 +1,22 @@
+{
+    "round_id": "3f966161-4834-4ed5-9e9e-d880c7a5cd83",
+    "draw_title": "Whack The Jackpot - Whack A Mole - £150 Main Draw Prize - 5p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/whack-the-jackpot-whack-a-mole-ps150-main-draw-prize-5p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "340f08d9ed7941a38485eb81c98a66404620a6500c39fa0a2c7b52b51ec48a61",
+    "drand_seed_hash": "b6b548db59bafd240d61e7761c2fd5df9b80feb88b45876f3f719110c7587c097996deffa761f0496fdbf351d61ef723",
+    "client_seed": "1782411373319",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31489,
+    "max_tickets": 95000,
+    "combined_hash": "1171c799eca498038fe4226d880c49a02ab0184ffe0da439a5225c8055a686f9",
+    "result": "69658",
+    "external_round_id": "29869339",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T18:16:13.000000Z",
+    "revealed_at": "2026-06-25T18:16:21.000000Z"
+}
