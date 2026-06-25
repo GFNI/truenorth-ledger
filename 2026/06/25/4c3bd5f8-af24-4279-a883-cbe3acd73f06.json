@@ -1,0 +1,22 @@
+{
+    "round_id": "4c3bd5f8-af24-4279-a883-cbe3acd73f06",
+    "draw_title": "☕ New Ninja AutoBarista Automatic Espresso Coffee Machine ☕",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-ninja-autobarista-automatic-espresso-coffee-machine",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d87a93ee30641c8563dfa5409dfdcf3c2c3307b93374061b55a86db6964b6f98",
+    "drand_seed_hash": "84a7a0a20ea444e1a5afcb7d5dd9d5e0f12b58a4f7c5bea6e3db4ed4844f1f183a7d9b0cbd9be012513d4b45f2660f9e",
+    "client_seed": "1782410491013",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1400,
+    "max_tickets": 1400,
+    "combined_hash": "d9691b587c1c592206c5557671044ffb9d5957e816d9e7ae674e325d84a976b8",
+    "result": "178",
+    "external_round_id": "29869044",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T18:01:31.000000Z",
+    "revealed_at": "2026-06-25T18:01:36.000000Z"
+}
