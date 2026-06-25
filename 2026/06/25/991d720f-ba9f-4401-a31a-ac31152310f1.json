@@ -1,0 +1,22 @@
+{
+    "round_id": "991d720f-ba9f-4401-a31a-ac31152310f1",
+    "draw_title": "🔥Char-Broil Performance Core 2.0 4 Burner Gas BBQ🔥",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/char-broil-performance-core-20-4-burner-gas-bbq",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9d368e99e3a8d0fda4e60c50d70da9af64ae96bbd0f0948d40ae028b2146dfa8",
+    "drand_seed_hash": "86c705f24f96f156b3bbd6d0744270a8cdcdd9e0f6754d7a764757a366839458f4af4d053db702cc0593505b67377d23",
+    "client_seed": "1782411011191",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 681,
+    "max_tickets": 1050,
+    "combined_hash": "c33f47b2d333a6f5bdc8ee8c3e57a7856f766b5124feec00e7b2398c17c4cb0b",
+    "result": "628",
+    "external_round_id": "29869217",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T18:10:11.000000Z",
+    "revealed_at": "2026-06-25T18:10:15.000000Z"
+}
