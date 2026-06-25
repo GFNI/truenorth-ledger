@@ -1,0 +1,22 @@
+{
+    "round_id": "6c8ca9f8-7e1e-4033-a54d-6c67eece23c5",
+    "draw_title": "x8 Comfort Creations",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/x8-comfort-creations",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "efc7e03efb8c3bbccd5b34377e3478a85926c324b6316ffbcb7fd6fe8edc8b67",
+    "drand_seed_hash": "a39d652c51d84077db5ac70e702c0d1cd5fb54767c1014b9c25d54d2e54980f1b84d7bc79bb0ddf75cb936f9f120d635",
+    "client_seed": "1782414639180",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35,
+    "max_tickets": 60,
+    "combined_hash": "e728709fc07e6de8efffa02617724c2ad3b24357f86505d513123023dc8e8fc8",
+    "result": "48",
+    "external_round_id": "29870427",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T19:10:39.000000Z",
+    "revealed_at": "2026-06-25T19:10:45.000000Z"
+}
