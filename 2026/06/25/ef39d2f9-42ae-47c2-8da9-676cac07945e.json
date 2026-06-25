@@ -1,0 +1,22 @@
+{
+    "round_id": "ef39d2f9-42ae-47c2-8da9-676cac07945e",
+    "draw_title": "WIN 15 TICKETS ON THE BRAND NEW BETA 390RR FOR A QUID! (DRAW 5)",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-15-tickets-on-the-brand-new-beta-390rr-for-a-quid-draw-5",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "d8bab4202a8c7e5cb74bb432770b2364cef04d46c77ef97b331904c84580ab62",
+    "drand_seed_hash": "afe92c576c5a1a6cb4ebb52d7da8674075eb12ab95b12a1472351c42d632150c5699cf7ac06c15b8fdf23f2543e22e4c",
+    "client_seed": "1782409720859",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "79cf4d5a06d7c908f806829aedd9a6fdf23b1dabc024a4137edb933dc049d3f4",
+    "result": "226",
+    "external_round_id": "29868787",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T17:48:40.000000Z",
+    "revealed_at": "2026-06-25T17:48:45.000000Z"
+}
