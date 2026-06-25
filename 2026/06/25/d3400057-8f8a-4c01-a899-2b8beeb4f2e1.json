@@ -1,0 +1,22 @@
+{
+    "round_id": "d3400057-8f8a-4c01-a899-2b8beeb4f2e1",
+    "draw_title": "FLYMO EasiLife GO 500 Robot Lawn Mower🦗",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/flymo-easilife-go-500-robot-lawn-mower-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e389ea49598ee85490ab45435388bdff5424013aba446f8de9c1ee7a01da5a4a",
+    "drand_seed_hash": "97ae294fcc8616d73bfd50a2a6106e7f0bce677e6c3acc0d97400ccc98d20797f0970bf85318f9520f491ae1c3b049a3",
+    "client_seed": "1782410323737",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "7fd97fee402f6a1b73f95f3bea2dc5fc00b7f3a844c8d75590ff0e50339ea6c8",
+    "result": "160",
+    "external_round_id": "29868988",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T17:58:43.000000Z",
+    "revealed_at": "2026-06-25T17:58:48.000000Z"
+}
