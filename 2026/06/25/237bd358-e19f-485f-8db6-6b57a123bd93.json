@@ -1,0 +1,22 @@
+{
+    "round_id": "237bd358-e19f-485f-8db6-6b57a123bd93",
+    "draw_title": "Thursday Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/thursday-doe-35",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "1ca1335211e6e358a93730dfd0f382601d40bf22ca5c9ed0dcf7436b0a0afac8",
+    "drand_seed_hash": "ae759a7bfb53cd8b039823a820b8fceca7e5705228283cc415fcf7a333e985049c546a85702bd769dcf6b1b1597e0d5e",
+    "client_seed": "1782414426313",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 150,
+    "combined_hash": "983fead4f76ad2c6db143e43c83455e4969052ae501811cf216a2ddad84ac641",
+    "result": "47",
+    "external_round_id": "29870356",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T19:07:06.000000Z",
+    "revealed_at": "2026-06-25T19:07:18.000000Z"
+}
