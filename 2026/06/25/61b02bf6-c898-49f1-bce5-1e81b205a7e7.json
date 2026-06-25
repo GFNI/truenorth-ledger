@@ -1,0 +1,22 @@
+{
+    "round_id": "61b02bf6-c898-49f1-bce5-1e81b205a7e7",
+    "draw_title": "COPS AND ROBBERS - PRIZE EVERY TIME",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/cops-and-robbers-prize-every-time",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "5dc9cd0ce596830eb274b1a29f463da10d5a8d6c280a53d8f1279b1c4457972c",
+    "drand_seed_hash": "b6459fb4a66b34e80a885e7dc7c4c09a733b211b44a3f31d7523c45105243f16b199ecce3e9c23138fe2674690dda572",
+    "client_seed": "1782410893364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5699,
+    "max_tickets": 17999,
+    "combined_hash": "7ee8d6c658e066c91cf421da75d1370169eb75b71761c2d54099273eb1abb095",
+    "result": "2333",
+    "external_round_id": "29869178",
+    "processing_status": "completed",
+    "created_at": "2026-06-25T18:08:13.000000Z",
+    "revealed_at": "2026-06-25T18:08:18.000000Z"
+}
