@@ -1,0 +1,22 @@
+{
+    "round_id": "77fe0800-1e3a-49fd-b889-684274be6bd2",
+    "draw_title": "1000 Tickets Into Our Ascended Heroes Pikachu Draw #3",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/1000-tickets-into-our-ascended-heroes-pikachu-draw-3-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "ff99e3d4b523d6f2e7181a82f21ddc19b61e51028786fdf0157ecf7faa97f2db",
+    "drand_seed_hash": "9240b9fc2a114bc72c983fbbc34430c237afe9a67f4172adfaa92876f750f7af1cee46c041a56148b7dab0f1f0ce5488",
+    "client_seed": "1782508230307",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 300,
+    "combined_hash": "38d0af2b1a5e38cd1e048b07581a3b4e00df5048335a58a389b15ff80004aa23",
+    "result": "93",
+    "external_round_id": "29901624",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T21:10:30.000000Z",
+    "revealed_at": "2026-06-26T21:10:36.000000Z"
+}
