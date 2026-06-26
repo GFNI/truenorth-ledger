@@ -1,0 +1,22 @@
+{
+    "round_id": "f9ea305e-d938-4e7e-813a-a36d7678903f",
+    "draw_title": "THE BULLION BONANZA GIVEAWAY WORTH £7500",
+    "competition_url": "https://twd.rafflex.uk/admin/products/the-bullion-bonanza-giveaway-worth-ps7500",
+    "operator": {
+        "name": "TWD Competitions",
+        "website": "https://twd.rafflex.uk",
+        "company_number": "15807042"
+    },
+    "drand_server_seed": "c273c193da36158f6a6a4253bea371217498f2da9f9896f074b115064515dc52",
+    "drand_seed_hash": "932599d91a3a87339c5b3451fe56d2ac539317b3c2eacbe1006bfc3c3d982da705dffa1d22ff7de3f80ed4183c57b92e",
+    "client_seed": "1782466848772",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 249,
+    "combined_hash": "38b0b520d5f0fe7abcb0a2bb5e0b4035e064504aee37aec08bce61af1f3ab4ea",
+    "result": "218",
+    "external_round_id": "29887830",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T09:40:48.000000Z",
+    "revealed_at": "2026-06-26T09:40:54.000000Z"
+}
