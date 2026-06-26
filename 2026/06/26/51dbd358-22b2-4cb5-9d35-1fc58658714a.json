@@ -1,0 +1,22 @@
+{
+    "round_id": "51dbd358-22b2-4cb5-9d35-1fc58658714a",
+    "draw_title": "Sony Sound Bar OR £220 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/sony-wireless-surround-sound-system",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4fb3ab4b7b8bb4c59e347866dd900159bc86f1e97c0ad4a36f1db2368f1a741c",
+    "drand_seed_hash": "8b7b9458b1afebda773af6c266da2cbbc62f3fe277281570af5c5388b23d812f920c4f2b90db065cd4f595d3f80b5d58",
+    "client_seed": "1782508306058",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2000,
+    "combined_hash": "0503e57dd3d400efc0264af2363c660c1c744e893ff29e4d0f6d97a72c2173dc",
+    "result": "518",
+    "external_round_id": "29901650",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T21:11:46.000000Z",
+    "revealed_at": "2026-06-26T21:11:54.000000Z"
+}
