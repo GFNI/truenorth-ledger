@@ -1,0 +1,22 @@
+{
+    "round_id": "00fbabe8-870a-414f-bb28-79290b435876",
+    "draw_title": "EVERY HIT IS A WINNER - WHACK-A-MOLE EDITION (x5 MAIN PRIZE WINNERS OF £100) 26/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/every-hit-is-a-winner-whack-a-mole-edition-x5-main-prize-winners-of-ps100",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "90fcc46fbff3a2aabaea420e597cf82072f7691eb85b5a97c36a5da1116bc673",
+    "drand_seed_hash": "99b21a730c9ada162004b2fbfbf9242395e31a74043a7532d8b1dce728ca60e789a41ad2cbe4d438fe1366a255f8abca",
+    "client_seed": "1782513636704",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 823,
+    "max_tickets": 10000,
+    "combined_hash": "b802268df100f0e0cc3e1901007487952239736273bc447fb2089541cc9dcac5",
+    "result": "8521",
+    "external_round_id": "29903426",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T22:40:36.000000Z",
+    "revealed_at": "2026-06-26T22:40:42.000000Z"
+}
