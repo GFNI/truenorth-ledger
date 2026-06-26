@@ -1,0 +1,22 @@
+{
+    "round_id": "dc3e8e5d-72fb-4b60-9042-636ce1c3635f",
+    "draw_title": "Wee Froot Slots - £400 Autodraw + Instant wins up to £1000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/wee-froot-slots-ps400-autodraw-instant-wins-up-to-ps1000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "3bc92914bd6533d1a9233b8b107b0d66e1bc5a1547ada0d67e55740882b9ca95",
+    "drand_seed_hash": "a39ae9d6d136125c6228e533637dd05e97e64731cc93d74f4ba8887d1954205937511b82ab759149ba47a58fb1999f18",
+    "client_seed": "1782501066685",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11018,
+    "max_tickets": 60000,
+    "combined_hash": "90138ee103d29ecca6ae5ab336496dcbc03a24786f3baa32e26f7fd02340a482",
+    "result": "44721",
+    "external_round_id": "29899236",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T19:11:06.000000Z",
+    "revealed_at": "2026-06-26T19:11:12.000000Z"
+}
