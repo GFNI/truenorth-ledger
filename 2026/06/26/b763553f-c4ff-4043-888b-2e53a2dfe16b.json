@@ -1,0 +1,22 @@
+{
+    "round_id": "b763553f-c4ff-4043-888b-2e53a2dfe16b",
+    "draw_title": "🛞EVERY SPIN WINS!🛞 - £250 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/every-spin-wins-ps250-end-prize-2",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "e4288a0b4cb66c8ee8b8f4ea3a69dcd01c217ad0d5ac35bff40fc2f51892c785",
+    "drand_seed_hash": "b6342909606a82e302e238610ff787b3cf3affb76c296246e5c7e586760190f14c347e878c8955c32fe69ec16b86646d",
+    "client_seed": "1782508245694",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 633,
+    "max_tickets": 7188,
+    "combined_hash": "16a10b413d275e8d226835d5410a18d1c69060fc4f5fa003d2d52587339093c4",
+    "result": "6203",
+    "external_round_id": "29901629",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T21:10:45.000000Z",
+    "revealed_at": "2026-06-26T21:10:51.000000Z"
+}
