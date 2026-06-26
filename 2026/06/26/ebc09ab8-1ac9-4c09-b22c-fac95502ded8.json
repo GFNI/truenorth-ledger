@@ -1,0 +1,22 @@
+{
+    "round_id": "ebc09ab8-1ac9-4c09-b22c-fac95502ded8",
+    "draw_title": "£150 Sainsbury's Gift Card",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-sainburys-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "b16f3793a24f24855ed8f07dcb615ee479b418a5e0f035b52d951e0a10c5ab5e",
+    "drand_seed_hash": "b951425301855d52e11d79da61622dccc7aa4e7684e76b37662d9f077b3508376567dfecc3b2d40cfe910bf093ae29e8",
+    "client_seed": "1782508140623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "21b9db22028c5615bc095a2454938eefdcd9481536df104c1ed5d1df7293fbd4",
+    "result": "42",
+    "external_round_id": "29901594",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T21:09:00.000000Z",
+    "revealed_at": "2026-06-26T21:09:10.000000Z"
+}
