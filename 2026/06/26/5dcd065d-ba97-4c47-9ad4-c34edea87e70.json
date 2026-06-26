@@ -1,0 +1,22 @@
+{
+    "round_id": "5dcd065d-ba97-4c47-9ad4-c34edea87e70",
+    "draw_title": "Diamond Digs",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/diamond-digs",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "ca645fa204775835a2dc3e39c43a4f0e1986ec49a2eba9ca63777e80fde1421b",
+    "drand_seed_hash": "98210b367f780e3bd9554b3d416a41888ca5b25fdeb6360f5707b7343cefde3a75f83bfead5d5868afbd9b6d3ff5b48d",
+    "client_seed": "1782508237764",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15374,
+    "max_tickets": 49494,
+    "combined_hash": "faaeca19fa4e23ce724ae38775103babf74b1c580ba4ec3839b4d2946c9ad15a",
+    "result": "36919",
+    "external_round_id": "29901627",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T21:10:37.000000Z",
+    "revealed_at": "2026-06-26T21:10:45.000000Z"
+}
