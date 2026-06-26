@@ -1,0 +1,22 @@
+{
+    "round_id": "11d1dc51-aba2-4609-89b9-d9d0257bf7bf",
+    "draw_title": "SPIN TO WIN",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/spin-to-win",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "819bf12fee907b1b1dda20cbb729b3370a39dbce6a9b248ee5f4159c7ec7dea3",
+    "drand_seed_hash": "a83b36a3bd64329a5a5090e21edee2bb15d6be26658e736e604d3dc5d45945073d637d65ab069216781e5e0f993bd45e",
+    "client_seed": "1782501504791",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2262,
+    "max_tickets": 7777,
+    "combined_hash": "32bd18727ce578cfc8f05538d53b7d977e3b94c21e82581caddd57c136b55cc6",
+    "result": "920",
+    "external_round_id": "29899382",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T19:18:24.000000Z",
+    "revealed_at": "2026-06-26T19:18:30.000000Z"
+}
