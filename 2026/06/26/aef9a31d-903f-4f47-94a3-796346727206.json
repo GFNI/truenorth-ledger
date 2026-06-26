@@ -1,0 +1,22 @@
+{
+    "round_id": "aef9a31d-903f-4f47-94a3-796346727206",
+    "draw_title": "Every Mole A Goal 30k Instant Win Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/every-mole-a-goal-30k-instant-win-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "05187894f05be0f6a1b947b7db2198c21ddd0db4c33eff8018440d9726b15e24",
+    "drand_seed_hash": "af28a6cd97c11c097e8329fcbee5e5794baf394e5d940e7a81fef7b843e2b10b0b7aadae53d44e4b951b0884ab34bee1",
+    "client_seed": "1782502961861",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20229,
+    "max_tickets": 140000,
+    "combined_hash": "e13ac95b412cc968bab1224c3e706e5583e28f0b70c034c3b05344cd22261dde",
+    "result": "54466",
+    "external_round_id": "29899868",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T19:42:41.000000Z",
+    "revealed_at": "2026-06-26T19:42:48.000000Z"
+}
