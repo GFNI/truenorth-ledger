@@ -1,0 +1,22 @@
+{
+    "round_id": "a7fc3d07-0c09-4870-b03e-f69e00518cfb",
+    "draw_title": "The Prize Play 1 in 4 Vault £320,000 Instant Win + £1000 End Draw",
+    "competition_url": "https://theprizeplay.com/admin/products/the-prize-play-1-in-4-vault-ps320000-instant-win-ps1000-end-draw",
+    "operator": {
+        "name": "The Prize Play Competitions Ltd",
+        "website": "https://theprizeplay.com",
+        "company_number": "15112995"
+    },
+    "drand_server_seed": "94691939c4580effa1f138b9f38c0199ea4c162d4d4d6e6186de18b49e102fbf",
+    "drand_seed_hash": "9803a6b81dc61321090d53db7f6040b7af583d0b955609dc6508ee6c1b949d99e236d28429f0dc4526f177d287ec2258",
+    "client_seed": "1782501072969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7071,
+    "max_tickets": 80000,
+    "combined_hash": "92f8c59eb1c3ba62ac6b03dd21071fa29ce4491de34f286fe7914f3024d4e995",
+    "result": "14355",
+    "external_round_id": "29899239",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T19:11:13.000000Z",
+    "revealed_at": "2026-06-26T19:11:21.000000Z"
+}
