@@ -1,0 +1,22 @@
+{
+    "round_id": "d6f37371-539f-4d49-82ca-51f0d1f1dad3",
+    "draw_title": "2,000 Tickets into £10,000 Competition #6 - Worth £1,000",
+    "competition_url": "https://proprizes.co.uk/admin/products/2000-tickets-into-ps10000-competition-6-worth-ps1000",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "aae55badf354d8e3d3b5af3766f9bb380809e74fc0ffee009f70cb26205513fd",
+    "drand_seed_hash": "92d83a9a11bfd0ee1052ddae0d768dcebc96b08f0cd30de434db917baf4ccbdbc3dde16087b4fd82fcaae078e57d662c",
+    "client_seed": "1782484842004",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16,
+    "max_tickets": 40,
+    "combined_hash": "3ff357938b2c904973a59bb3a9500aad9ee9bdff10af5adc852173985156a27d",
+    "result": "16",
+    "external_round_id": "29893828",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T14:40:42.000000Z",
+    "revealed_at": "2026-06-26T14:40:48.000000Z"
+}
