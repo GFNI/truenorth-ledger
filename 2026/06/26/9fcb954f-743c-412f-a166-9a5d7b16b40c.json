@@ -1,0 +1,22 @@
+{
+    "round_id": "9fcb954f-743c-412f-a166-9a5d7b16b40c",
+    "draw_title": "tet",
+    "competition_url": "https://thatprizeguy.co.uk/competitions/kamado-joe-classic-bbq-series-i-july-1",
+    "operator": {
+        "name": "R Kings Competitions",
+        "website": "https://www.rkingscompetitions.com/",
+        "company_number": "NI656489"
+    },
+    "drand_server_seed": "68c91226802c250a08553ceb841b847ee12c2977a163928a994a02e47763494e",
+    "drand_seed_hash": "b29b44399d8ae661a8bff4220dd070f2d5b2a2ff6f20bb22ebb7bd77686db256e646306c8e8d8de53620815f9926621c",
+    "client_seed": "1782457175243",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "6e5e18c7a8453c5ff01b6bf270ca50c70bb9254b26a0bbdf549f2f70fb5f6dfc",
+    "result": "23",
+    "external_round_id": "29884605",
+    "processing_status": "completed",
+    "created_at": "2026-06-26T06:59:35.000000Z",
+    "revealed_at": "2026-06-26T06:59:46.000000Z"
+}
