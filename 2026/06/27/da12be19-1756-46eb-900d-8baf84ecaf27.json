@@ -1,0 +1,22 @@
+{
+    "round_id": "da12be19-1756-46eb-900d-8baf84ecaf27",
+    "draw_title": "Haribo 100 pack or cash",
+    "competition_url": "https://chaotic.co.uk/competition/haribo-100-pack-or-cash-4847",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "381195ecacdc35dc637fe4f9c5c1660c549a7839943cec6ea019c8cb0ece6430",
+    "drand_seed_hash": "b9282c3a60089c36c2e1264585d249d1098992133814558ef7763aaf0897346f81d6408e02c8d48ee1acabf9e047d498",
+    "client_seed": "1782589001097",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1400,
+    "max_tickets": 1400,
+    "combined_hash": "6545660ce4942f00719fcb667fbefc54ea1f237ee7ade98c3fe4bc1265761ee9",
+    "result": "230",
+    "external_round_id": "29928547",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T19:36:41.000000Z",
+    "revealed_at": "2026-06-27T19:36:45.000000Z"
+}
