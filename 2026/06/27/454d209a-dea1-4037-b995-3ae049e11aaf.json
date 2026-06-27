@@ -1,0 +1,22 @@
+{
+    "round_id": "454d209a-dea1-4037-b995-3ae049e11aaf",
+    "draw_title": "EVERY SPIN WINS 27/06 (£1,000 MAIN PRIZE)",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/every-spin-wins-2706-ps1000-main-prize",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "748e1524d91a6cfd613dce3801080aaf0d26ad9e6353f4a477f9037f8e0e8650",
+    "drand_seed_hash": "b05d8e765130289576bdd38e2b7160ec65a2e22f0442d804313de16ef4e848d6866a84f0527893d1c8073c1974ddad2c",
+    "client_seed": "1782600034503",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1056,
+    "max_tickets": 10000,
+    "combined_hash": "ad769aa5594b1ff9876b0da4ef3e29225b5e22aa33425b2d095357d1d936916a",
+    "result": "3566",
+    "external_round_id": "29932225",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T22:40:34.000000Z",
+    "revealed_at": "2026-06-27T22:40:39.000000Z"
+}
