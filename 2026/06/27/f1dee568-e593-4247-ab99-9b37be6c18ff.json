@@ -1,0 +1,22 @@
+{
+    "round_id": "f1dee568-e593-4247-ab99-9b37be6c18ff",
+    "draw_title": "WIN £500 FOR £10 AUTO DRAW-Daily Draws test",
+    "competition_url": "https://twd.rafflex.uk/admin/products/win-ps500-for-ps10-auto-draw-daily-draws-test",
+    "operator": {
+        "name": "TWD Competitions",
+        "website": "https://twd.rafflex.uk",
+        "company_number": "15807042"
+    },
+    "drand_server_seed": "3bbf53604aa82cbe5724987a12679bfb19b3997a9c1eb9ada8c495ea4fadb741",
+    "drand_seed_hash": "b761d0512a5daa6ae96c12058a612636c9120c6f0e52f44f81bd18e88c6bdf53252f19f96d9ab533d679c0f5d2e5f79b",
+    "client_seed": "1782601407991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 280,
+    "combined_hash": "20cc77089487a8c65e0eb4a204291824fbfcfb7e7c6a74d04d90a613e4567354",
+    "result": "129",
+    "external_round_id": "29932684",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T23:03:28.000000Z",
+    "revealed_at": "2026-06-27T23:03:36.000000Z"
+}
