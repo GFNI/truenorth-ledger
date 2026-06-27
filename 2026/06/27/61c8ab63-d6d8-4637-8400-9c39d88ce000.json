@@ -1,0 +1,22 @@
+{
+    "round_id": "61c8ab63-d6d8-4637-8400-9c39d88ce000",
+    "draw_title": "WIN A MERCEDES A45 AMG S",
+    "competition_url": "https://twd.rafflex.uk/admin/products/win-a-mercedes-a45-amg-s",
+    "operator": {
+        "name": "TWD Competitions",
+        "website": "https://twd.rafflex.uk",
+        "company_number": "15807042"
+    },
+    "drand_server_seed": "37703583226dca4eab1661d41977869234fc7ebb1308d371cfaf26f8d951c695",
+    "drand_seed_hash": "adc6a83ba69def8376711658de9a82f7b9ef3c2ba2480a3a54d06a543f93a5b7e90a263984715a9d1b1846eb299a9410",
+    "client_seed": "1782601454522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 479,
+    "max_tickets": 2080,
+    "combined_hash": "d1cf8267468ba0244fa9230f513108fb3ea9c30dc9ff5d19aa09607f1f62785a",
+    "result": "850",
+    "external_round_id": "29932699",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T23:04:14.000000Z",
+    "revealed_at": "2026-06-27T23:04:21.000000Z"
+}
