@@ -1,0 +1,22 @@
+{
+    "round_id": "94dc5cdd-8536-4c11-964c-b9931963f58c",
+    "draw_title": "Family Pool or cash",
+    "competition_url": "https://chaotic.co.uk/competition/family-pool-or-cash-3993",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d21eb7b5b47323c3953c71a2296f8094a559b2f67b8ae218de53cb8660850afd",
+    "drand_seed_hash": "b1ed6b79354f23c9c52076342d6a7bdc09fd137902c115e16d92dacd5e1c438702cfe4ded6a1996033933e1ec3cd97ec",
+    "client_seed": "1782589039855",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "b9e4772184dd218f2b1c0891b8eed90ddcd3772c68160ffa2a4ff829745ba93a",
+    "result": "1466",
+    "external_round_id": "29928560",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T19:37:19.000000Z",
+    "revealed_at": "2026-06-27T19:37:24.000000Z"
+}
