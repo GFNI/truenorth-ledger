@@ -1,0 +1,22 @@
+{
+    "round_id": "ea9d0a9a-acaa-4921-afb1-637a2aa1b8bb",
+    "draw_title": "WIN 500 TICKETS INTO SUNDAY'S 10K COMP!! 27/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-500-tickets-into-sundays-10k-comp-2706",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "d5ebafc6548482b1fd25db4bc354104f882ef911b2f52383caf37b582e8b6b8b",
+    "drand_seed_hash": "a3629bff140d581aabc4895ffb7b14e8f093a2edc8586c04208ce0532952be468886305fda0439c8040ee604eee0e77a",
+    "client_seed": "1782600045516",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10688,
+    "max_tickets": 15000,
+    "combined_hash": "3babb2aa634f59035cb529ef3f4545d042b915cc9ec65708c4ee87f619202a90",
+    "result": "5964",
+    "external_round_id": "29932229",
+    "processing_status": "completed",
+    "created_at": "2026-06-27T22:40:45.000000Z",
+    "revealed_at": "2026-06-27T22:40:51.000000Z"
+}
