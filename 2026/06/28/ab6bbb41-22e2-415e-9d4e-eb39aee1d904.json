@@ -1,0 +1,22 @@
+{
+    "round_id": "ab6bbb41-22e2-415e-9d4e-eb39aee1d904",
+    "draw_title": "£25 Website Credit",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/ps25-website-credit",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "9e4514243d8110233ef15ba01d74c762972aeaea240d743d7b98b57f0be19fa8",
+    "drand_seed_hash": "a75f9a689a417fc831ad74a42795c8c759ef6a00c0e67dcc143e78623bbb7b6eb90432167bad1c8912f8ae0348e16369",
+    "client_seed": "1782683909601",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 289,
+    "max_tickets": 289,
+    "combined_hash": "01f33f39b9b18acb53d43f8f3b7d36a81ba9028b9156a2b3a53e13ebe42aa7d0",
+    "result": "212",
+    "external_round_id": "29960184",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T21:58:29.000000Z",
+    "revealed_at": "2026-06-28T21:58:36.000000Z"
+}
