@@ -1,0 +1,22 @@
+{
+    "round_id": "49bb0ce1-7e35-4b1d-af06-dc5f85a4b32f",
+    "draw_title": "Spin The Wheel Of Luck - £500 End Prize!",
+    "competition_url": "https://expcomps.com/admin/products/spin-the-wheel-of-luck-ps500-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "60e4b6b7777f4a6a1227498b3002abf6be34b2589dbca8915102f4a3fbd45642",
+    "drand_seed_hash": "b978f616ff26d2951f87c0eb3bd5034c56687cec0a8d31ef262f60781af31f1dc6eb8bd6ce59b1ead3213c422aa218e8",
+    "client_seed": "1782673842550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2274,
+    "max_tickets": 9999,
+    "combined_hash": "c8bc4c21df6e95194d9d28ab2a35e868ff2d5e07e6c4bf91c3835e385311f229",
+    "result": "3066",
+    "external_round_id": "29956828",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:10:42.000000Z",
+    "revealed_at": "2026-06-28T19:10:48.000000Z"
+}
