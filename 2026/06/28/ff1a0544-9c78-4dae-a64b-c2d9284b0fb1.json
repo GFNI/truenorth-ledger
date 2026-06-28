@@ -1,0 +1,22 @@
+{
+    "round_id": "ff1a0544-9c78-4dae-a64b-c2d9284b0fb1",
+    "draw_title": "£50 TAX FREE CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps50-tax-free-cash-4",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "aaf522a0bfc5ce80c671c11b7a929150c9becb638edbb99a76a5b4b15e5dd23b",
+    "drand_seed_hash": "97d6f9ea7961f52af27edfb6c6435f23ac44a708b17a9b9e200321c8bda47f901cd0cb203bfb164dd625241140dbc864",
+    "client_seed": "1782620014136",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "cf33a4ab0ac82a2296d715e6ba7093ac27cf87af1df7f6e797df51d7076e38a1",
+    "result": "104",
+    "external_round_id": "29938886",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T04:13:34.000000Z",
+    "revealed_at": "2026-06-28T04:13:42.000000Z"
+}
