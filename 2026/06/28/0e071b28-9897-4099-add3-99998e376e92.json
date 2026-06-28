@@ -1,0 +1,22 @@
+{
+    "round_id": "0e071b28-9897-4099-add3-99998e376e92",
+    "draw_title": "The Connor Procedure",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/the-connor-procedure",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "6e54d57c65481fea1eb5ea76a14de2c3cad24f2d223ca08426bcbfcf18b11617",
+    "drand_seed_hash": "99e42b8d443d3259dbf90fc01e62763624ae3f90ea2cb1cf73dca6aa9e56b547eba023b44cdbf97294e3df1972c81b1a",
+    "client_seed": "1782675922865",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80938,
+    "max_tickets": 254000,
+    "combined_hash": "28b5883667e80229517d12bc3c86c7b471e09a3bdeea466b1004303f267c7f67",
+    "result": "20937",
+    "external_round_id": "29957522",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:45:22.000000Z",
+    "revealed_at": "2026-06-28T19:45:30.000000Z"
+}
