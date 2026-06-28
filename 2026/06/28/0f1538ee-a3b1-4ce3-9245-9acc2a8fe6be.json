@@ -1,0 +1,22 @@
+{
+    "round_id": "0f1538ee-a3b1-4ce3-9245-9acc2a8fe6be",
+    "draw_title": "Marvalous Bingo Mega Wins",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/marvalous-bingo-mega-wins",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "efb75a1dc03095eaf98b6448a6e8a347067f66ade9f130dc92f049622869c415",
+    "drand_seed_hash": "96d13917d42acf652b743ad311d326f331628961c15714f8e0347b54f4aa8a1bdfa7abc4fb909922642e471471eda8c0",
+    "client_seed": "1782671274329",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6213,
+    "max_tickets": 60000,
+    "combined_hash": "b1c7d1e34b9678bb6db3008efd63d181c6877c31eba13801d29f260514336b33",
+    "result": "56178",
+    "external_round_id": "29955972",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:27:54.000000Z",
+    "revealed_at": "2026-06-28T18:28:00.000000Z"
+}
