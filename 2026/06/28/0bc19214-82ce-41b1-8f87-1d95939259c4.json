@@ -1,0 +1,22 @@
+{
+    "round_id": "0bc19214-82ce-41b1-8f87-1d95939259c4",
+    "draw_title": "🥇 Win a 1g Royal Mint Gold Bar + Scratch for £1,000 Cash Instant Wins",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/win-a-1g-royal-mint-gold-bar-scratch-for-ps1000-cash-instant-wins",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "92346c1314bc8f996ff46d3accb3a00d20730db104b4a67a084877326152d460",
+    "drand_seed_hash": "a2f6d0013d2b66d009282ce56b07cad86bb592895291211532bc878caa6d419906961330d5ca00fcd4b72e016e458cf4",
+    "client_seed": "1782670504275",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9726,
+    "max_tickets": 60000,
+    "combined_hash": "7765b86e8c2da686062bbed93fb33ffb0b0bb76b3198cff4ecfe3b7f69093a39",
+    "result": "38360",
+    "external_round_id": "29955716",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:15:04.000000Z",
+    "revealed_at": "2026-06-28T18:15:12.000000Z"
+}
