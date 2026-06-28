@@ -1,0 +1,22 @@
+{
+    "round_id": "b044e0a5-2153-4d3c-8708-cebca21e1e1c",
+    "draw_title": "THE PENNY ARCADE - WIN UP TO £500 INSTANTLY!! 28/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/the-penny-arcade-win-up-to-ps500-instantly-2806-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "3c1fff297d6a6d366af08ac8cc1c0e41a80b95c4dc9e47a16bea1a3a98a4d713",
+    "drand_seed_hash": "961d3b6e3ba2796ec3a78b824d6a33c15212fb3ebb5c3bf3849d6786a4bf7576f89e07de313653885c8c2ae663634b8e",
+    "client_seed": "1782680797158",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 417243,
+    "max_tickets": 2000000,
+    "combined_hash": "9ce10b7b35c10b677caeeb181cb4e3d407402c4d4f1765129e473ad5f5899b80",
+    "result": "376221",
+    "external_round_id": "29959146",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T21:06:37.000000Z",
+    "revealed_at": "2026-06-28T21:06:42.000000Z"
+}
