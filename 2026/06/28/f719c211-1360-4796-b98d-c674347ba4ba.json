@@ -1,0 +1,22 @@
+{
+    "round_id": "f719c211-1360-4796-b98d-c674347ba4ba",
+    "draw_title": "£50 VOUCHER FOR FLAX STEAKHOUSE 28/06",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps50-voucher-for-flax-steakhouse-2806-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "c0862fe1d01c01a2132b306145cb13708ad229446fadfa0754fc3c0deb69ed06",
+    "drand_seed_hash": "b249cf4757f279831ebd590a7cb827517901fa2fe6d42b1dc8335a229c90022e6816fca48fcdc2ed30a1011016656c3e",
+    "client_seed": "1782680753335",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 310,
+    "max_tickets": 350,
+    "combined_hash": "c4e3987636bc6ec75654e78e33fb32af4f2be4247dc0b0d76e477d82ab1d6de1",
+    "result": "169",
+    "external_round_id": "29959131",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T21:05:53.000000Z",
+    "revealed_at": "2026-06-28T21:05:57.000000Z"
+}
