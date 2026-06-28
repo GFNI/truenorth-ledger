@@ -1,0 +1,22 @@
+{
+    "round_id": "2b144cd7-e280-4832-92f6-3744d1ed6fb9",
+    "draw_title": "Every Tickets A Winner",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/every-tickets-a-winner",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "da95acbb1bf65b0d679f1c265ce899cffec262eb6e07e85625632f569fe5715a",
+    "drand_seed_hash": "a5146e640363b7f624a08a35f3fb56d7f5edb56d1a603c65f4ea766d6cdad99805751c4f78a12028be64a9b75cc0afa1",
+    "client_seed": "1782676677053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11679,
+    "max_tickets": 25000,
+    "combined_hash": "ce8fae2488d2e05ff3ca9244255d3a4750c5f3bc4d947bff302807da660626f8",
+    "result": "19855",
+    "external_round_id": "29957773",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:57:57.000000Z",
+    "revealed_at": "2026-06-28T19:58:03.000000Z"
+}
