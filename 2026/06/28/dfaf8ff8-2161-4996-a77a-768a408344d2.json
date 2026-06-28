@@ -1,0 +1,22 @@
+{
+    "round_id": "dfaf8ff8-2161-4996-a77a-768a408344d2",
+    "draw_title": "Reel Riches - Fishing Bonanza 🎣",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/reel-riches-fishing-bonanza",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "800d3dde1b57794ea1858035c198b5034be96469b5b4c548ba1cb6becf20066a",
+    "drand_seed_hash": "822ff0a635f96a167faaac245d567407e743034f7af51661126c93b5386b886e709537f70c75e52904e43f6c9f34dd35",
+    "client_seed": "1782676986770",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27345,
+    "max_tickets": 40000,
+    "combined_hash": "620e408ea12696aae6f18b97c55bde4750739e5fab32433a95b93d8584353a6d",
+    "result": "2659",
+    "external_round_id": "29957876",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T20:03:06.000000Z",
+    "revealed_at": "2026-06-28T20:03:12.000000Z"
+}
