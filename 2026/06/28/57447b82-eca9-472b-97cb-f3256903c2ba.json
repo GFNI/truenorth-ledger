@@ -1,0 +1,22 @@
+{
+    "round_id": "57447b82-eca9-472b-97cb-f3256903c2ba",
+    "draw_title": "Mega Combat Patrol Competition",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/mega-combat-patrol-competition",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "20ed88fb617893e28d05538c2c47f960c425b11bcfacaa89c90f84b05f7fceb7",
+    "drand_seed_hash": "ac4375b24eff37f519155d57da224b80b7c97ccfb0c09a8d0ac4de102ef220f1b6ab113484462dec1bee32b99399e56a",
+    "client_seed": "1782675297170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1413,
+    "max_tickets": 6000,
+    "combined_hash": "4a1bb0b662962f47bf07564ecf7232b7008d8c22c78b15316c114677ab5e8d66",
+    "result": "2635",
+    "external_round_id": "29957313",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:34:57.000000Z",
+    "revealed_at": "2026-06-28T19:35:03.000000Z"
+}
