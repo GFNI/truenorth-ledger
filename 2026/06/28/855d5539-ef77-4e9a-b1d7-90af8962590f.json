@@ -1,0 +1,22 @@
+{
+    "round_id": "855d5539-ef77-4e9a-b1d7-90af8962590f",
+    "draw_title": "🍇 WHO’S GOT GRAPES? INSTANT WIN 🍇 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/whos-got-grapes-instant-win-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "a0996d7ee3f65b83789425b1d19d717804326c4a201a0c6ebbede532ff93565c",
+    "drand_seed_hash": "ae880ab18ab73a0f73cbcef6dc1d3404eee1f73ddd3f315b956d08cfa85b3fd6abbe2f543e669a246d54ef18e6ba7eae",
+    "client_seed": "1782677442601",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19504,
+    "max_tickets": 35000,
+    "combined_hash": "e6b618f7c7559368c37f8acd330819baecc1fe6a068a93a3cbe3e9508c9796ab",
+    "result": "17039",
+    "external_round_id": "29958028",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T20:10:42.000000Z",
+    "revealed_at": "2026-06-28T20:10:48.000000Z"
+}
