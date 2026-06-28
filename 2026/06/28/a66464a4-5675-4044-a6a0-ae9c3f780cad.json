@@ -1,0 +1,22 @@
+{
+    "round_id": "a66464a4-5675-4044-a6a0-ae9c3f780cad",
+    "draw_title": "Summer Sizzler",
+    "competition_url": "https://phatstax.co.uk/admin/products/summer-sizzler",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "78ab50aea249b2d79b2fe84607533a70cc480484b16af3e6bfbd368ab7d6be28",
+    "drand_seed_hash": "80830e997538ebcb46d15cde2ba7987f61aea7e0632290c93acf1bb9fe5b05fcf8443e9b3872bee28ac6797c0c7cb4f0",
+    "client_seed": "1782677209506",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3606,
+    "max_tickets": 39999,
+    "combined_hash": "1a0f2d13203747967e04ed89da8ea16f9784b771771c64f60af8c9575aaf5839",
+    "result": "8134",
+    "external_round_id": "29957950",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T20:06:49.000000Z",
+    "revealed_at": "2026-06-28T20:06:54.000000Z"
+}
