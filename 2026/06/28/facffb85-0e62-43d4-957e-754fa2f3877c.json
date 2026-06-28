@@ -1,0 +1,22 @@
+{
+    "round_id": "facffb85-0e62-43d4-957e-754fa2f3877c",
+    "draw_title": "⭐ BOLT HALL OF FAME  - Scratch The Stars & Win Cash",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/bolt-hall-of-fame",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "cca7062a2bbe1bb23b97162a9d8f426cdfa70a1a79abb6594a05b82784b20163",
+    "drand_seed_hash": "92259bbc22d11d2b86e136824ff14364858e6c0561342230e735f712e2e874cc65c5675bae53208465b7238879d9608f",
+    "client_seed": "1782670233454",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2179,
+    "max_tickets": 2500,
+    "combined_hash": "b9c7a122b3348d7e8f91fbcfc78554ec270fd5b5dc26f3a5ab0fc4cf653a4a67",
+    "result": "270",
+    "external_round_id": "29955625",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:10:33.000000Z",
+    "revealed_at": "2026-06-28T18:10:39.000000Z"
+}
