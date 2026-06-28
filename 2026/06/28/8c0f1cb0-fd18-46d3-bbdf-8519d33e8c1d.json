@@ -1,0 +1,22 @@
+{
+    "round_id": "8c0f1cb0-fd18-46d3-bbdf-8519d33e8c1d",
+    "draw_title": "Phat Chance #8 £435 Jackpot",
+    "competition_url": "https://phatstax.co.uk/admin/products/phat-chance-8-ps435-jackpot",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "a72f0ab5e534c746227c29467e98e3194f56d24b5d0b7c86e5f141aa9bf52ce8",
+    "drand_seed_hash": "b974f801d499887b30d79478b05142a12e7a60e27fde47d189f609c48dc1ad5a39a9f6860bab76cb6f9f0b46655f6aee",
+    "client_seed": "1782677619980",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 396,
+    "max_tickets": 800,
+    "combined_hash": "02db8fde4b6a011ef448a9c0d67649d57c5ac9cdf79d7b4818bd8d0dbfabd23f",
+    "result": "67",
+    "external_round_id": "29958088",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T20:13:40.000000Z",
+    "revealed_at": "2026-06-28T20:13:48.000000Z"
+}
