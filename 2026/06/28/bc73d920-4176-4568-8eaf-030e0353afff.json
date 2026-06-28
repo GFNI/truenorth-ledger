@@ -1,0 +1,22 @@
+{
+    "round_id": "bc73d920-4176-4568-8eaf-030e0353afff",
+    "draw_title": "Blink Security Bundle",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/blink-security-bundle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "fc45cd0be4736f403055ecf6db57ee049eed6cd33a880ebac3c6512b09c91a6b",
+    "drand_seed_hash": "b18171160893a08313446e1a09c2c180ed0347c64b0b1189e773ad512095ac58542ea0fef431799cacbc85a1bccd8b03",
+    "client_seed": "1782674350477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 250,
+    "combined_hash": "5061dc7778de42ac4e9525c14ea8c255722c0ebb31404a4efb390b3c294de9ed",
+    "result": "37",
+    "external_round_id": "29956998",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:19:10.000000Z",
+    "revealed_at": "2026-06-28T19:19:18.000000Z"
+}
