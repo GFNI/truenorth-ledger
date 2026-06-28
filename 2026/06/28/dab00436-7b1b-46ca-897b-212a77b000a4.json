@@ -1,0 +1,22 @@
+{
+    "round_id": "dab00436-7b1b-46ca-897b-212a77b000a4",
+    "draw_title": "Destined Double! + Instant Wins! #2",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/destined-double-instant-wins-2-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "1562d65438b78efb9ad6fd88d8d8274c1517302761d431d7df25dda1b2f0e4cf",
+    "drand_seed_hash": "b66bb89a1a33037978abd3c81ad017add9244c58d4030f44085a3ff1bb1e47faff6b6d9d65e285a9e794d78c8cf2f4d1",
+    "client_seed": "1782675383236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3452,
+    "max_tickets": 9000,
+    "combined_hash": "df230c1a47d44d8cc8db2b7187af88a738024e6b9bfc52bc68be0f7810905963",
+    "result": "8232",
+    "external_round_id": "29957342",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T19:36:23.000000Z",
+    "revealed_at": "2026-06-28T19:36:30.000000Z"
+}
