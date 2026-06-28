@@ -1,0 +1,22 @@
+{
+    "round_id": "44b77c74-a301-4ea7-80fc-37e9f6029d1b",
+    "draw_title": "Plouise What A Treat Bundle Candy Bears 🧸",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/plouise-what-a-treat-bundle-candy-bears",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "2809ffc092f137479dffcf17644a23f7a0b49c0f0a26460414b30b060a2abf17",
+    "drand_seed_hash": "988a5037b917b0dc5bb21f516d0363d91dc4a1716a0f94cf0b430ee00e7ff6e39266d1c0e91f19ffec589faf56a62796",
+    "client_seed": "1782670240966",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 150,
+    "combined_hash": "8e71a66007230566337539d9fc14b583cb76fe2c9ea7644a48d74e80e4ef9d92",
+    "result": "83",
+    "external_round_id": "29955628",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:10:41.000000Z",
+    "revealed_at": "2026-06-28T18:10:48.000000Z"
+}
