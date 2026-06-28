@@ -1,0 +1,22 @@
+{
+    "round_id": "bea0e9fb-009c-448f-a41c-c0276b4f3227",
+    "draw_title": "Shark FlexStyle 4-in-1 Multi-Styler and Hair Dryer",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/shark-flexstyle-4-in-1-multi-styler-and-hair-dryer",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "ff3b4f82a6f1e2ad21bbc8ca72cc64fd332d2d9831b5a52989ef1d808a88d96c",
+    "drand_seed_hash": "b2b0d7e93bf88a0ec38b8c4261fe95c06198266e882cf6567bc049d275450675f9fca61aa9509d9435b11edbee687e85",
+    "client_seed": "1782670434116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 99,
+    "combined_hash": "043b939692fdd0032002b519e475fc0e56e18e3e2dc81b9114e90b7075719693",
+    "result": "88",
+    "external_round_id": "29955692",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:13:54.000000Z",
+    "revealed_at": "2026-06-28T18:14:00.000000Z"
+}
