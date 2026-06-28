@@ -1,0 +1,22 @@
+{
+    "round_id": "12467253-7cdc-4907-8326-ddd1771722ce",
+    "draw_title": "TARGET OMNI OR £400 CASH",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/target-omni-or-ps400-cash",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "f843f9998eb86b1238c2a3994a289aaa3493b2757bf0019d74932bdd9a2335bc",
+    "drand_seed_hash": "9816ab7f896d0520ad1bef40358b328835192c5b0bc2fd4b76f55e1b43188ec3d192b211a278bcbc0283fef1ebe46890",
+    "client_seed": "1782670785518",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 99,
+    "combined_hash": "af0b08b66bee853db09e91438b23d50c04a92bf83775c98d525e941d7afac357",
+    "result": "80",
+    "external_round_id": "29955809",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:19:45.000000Z",
+    "revealed_at": "2026-06-28T18:19:51.000000Z"
+}
