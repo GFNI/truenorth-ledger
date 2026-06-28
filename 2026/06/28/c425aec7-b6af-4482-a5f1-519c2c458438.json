@@ -1,0 +1,22 @@
+{
+    "round_id": "c425aec7-b6af-4482-a5f1-519c2c458438",
+    "draw_title": "DYSON COOLING FAN",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/dyson-cooling-fanx",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "25dc039b2aadd76d2d2cbc1027ba388946c6b2063cb28abaa209f348bb3374d8",
+    "drand_seed_hash": "828af858bc65a42ad9ac907c0c95b446ba8feac7ed86275101399aa0ac211ce8a146e0a0e8159bf5291315145d14a1a7",
+    "client_seed": "1782670663979",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81,
+    "max_tickets": 99,
+    "combined_hash": "73e144a2c6525c9361e1662bb9fd8a6e0d7618b04d75db0bb26a5c052f50abb2",
+    "result": "79",
+    "external_round_id": "29955769",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T18:17:44.000000Z",
+    "revealed_at": "2026-06-28T18:17:51.000000Z"
+}
