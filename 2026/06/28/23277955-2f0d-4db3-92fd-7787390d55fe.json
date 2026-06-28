@@ -1,0 +1,22 @@
+{
+    "round_id": "23277955-2f0d-4db3-92fd-7787390d55fe",
+    "draw_title": "One Piece OP-16 The Time of Battle Booster Box + Instant Wins! #2",
+    "competition_url": "https://1066competitions.co.uk/admin/products/one-piece-op-16-the-time-of-battle-booster-box-instant-wins-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "5c83f409e9aabcc6191fc5d49ffd3c3f64cb4f56e0e06456bd70712ae06b09bd",
+    "drand_seed_hash": "b4db1ad0c210e59de6ddfbdbbceb32c566a9ec0d52adbf93c0fa8287c8913e2972e291d77853523657e59800d569d65f",
+    "client_seed": "1782681840680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 268,
+    "max_tickets": 1066,
+    "combined_hash": "cba5ae704870dcbcc9d2c449312c98c809c02ad1349cffc140aecfbe35186be3",
+    "result": "464",
+    "external_round_id": "29959494",
+    "processing_status": "completed",
+    "created_at": "2026-06-28T21:24:00.000000Z",
+    "revealed_at": "2026-06-28T21:24:06.000000Z"
+}
