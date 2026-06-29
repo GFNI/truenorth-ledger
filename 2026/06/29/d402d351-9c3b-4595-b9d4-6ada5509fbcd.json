@@ -1,0 +1,22 @@
+{
+    "round_id": "d402d351-9c3b-4595-b9d4-6ada5509fbcd",
+    "draw_title": "1p Instant Wins £600 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/1p-instant-wins-ps600-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "7c9ed5eba046dd28f2b1c45a4fb105b7ffa3a5c6c192a33cb9eadbe86a4c3704",
+    "drand_seed_hash": "8240617417053558186d809dcae00a721d3e7aefd3948ca8930b6da388f2d7ef0c96c4f3132d6068845dfca42616ef5c",
+    "client_seed": "1782767635205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 617300,
+    "combined_hash": "4a67be7221c4329b163d3a273fa132092c11ef96f2641314d9efde57e1ee93c8",
+    "result": "339507",
+    "external_round_id": "29988092",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T21:13:55.000000Z",
+    "revealed_at": "2026-06-29T21:14:05.000000Z"
+}
