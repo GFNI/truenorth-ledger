@@ -1,0 +1,22 @@
+{
+    "round_id": "bfa99a91-10b8-42ad-8f8e-3b51b600df31",
+    "draw_title": "WIN 2 FRONT RUNNER EXPANDER CHAIRS!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-2-front-runner-expander-chairs-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "7d41c61996762f6f5ca3b81016aad189eb948a605918a67d95d7c4a73dd934f5",
+    "drand_seed_hash": "84c6c0855cbc5336e7e3fa31e7904aa6ff378f442dce6a6658d14534208d8b198a777efb41674d7329a82ee3b8a0324e",
+    "client_seed": "1782761050558",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2835,
+    "max_tickets": 3699,
+    "combined_hash": "fe69c23888c0ef4834502a91ae16bed3d03079d456ce9f99a22f6960101f87ed",
+    "result": "2053",
+    "external_round_id": "29985898",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T19:24:10.000000Z",
+    "revealed_at": "2026-06-29T19:24:18.000000Z"
+}
