@@ -1,0 +1,22 @@
+{
+    "round_id": "56ceb693-434c-4687-8ac8-a357ec5c2f17",
+    "draw_title": "£10,000 Cash",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ps10000-cash",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "57fd37c8ff63dcbdfa6aa9966b79e97781fabade232381768c88ff95529e337a",
+    "drand_seed_hash": "929083bec9c8cd2016b0052473f9e242fe084ff066a6912fd4f3f8f844b25226f4970b91194d85def5516dab6ba7335b",
+    "client_seed": "1782762157418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 355434,
+    "max_tickets": 760000,
+    "combined_hash": "63e853959ca9c395d7a08c55a6f46d92ca6febf121d1004dfda7ceb79c80af09",
+    "result": "344164",
+    "external_round_id": "29986267",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T19:42:37.000000Z",
+    "revealed_at": "2026-06-29T19:42:45.000000Z"
+}
