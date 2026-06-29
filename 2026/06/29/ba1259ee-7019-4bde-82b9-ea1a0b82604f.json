@@ -1,0 +1,22 @@
+{
+    "round_id": "ba1259ee-7019-4bde-82b9-ea1a0b82604f",
+    "draw_title": "https://baidu.com (Child Draw)",
+    "competition_url": "https://baidu.com",
+    "operator": {
+        "name": "Globaltllc",
+        "website": "https://globaltllc.com/",
+        "company_number": "001"
+    },
+    "drand_server_seed": "2f4283884163dac2c97ed6e1552c632cdd95652d66e13d4188b1ec693349e29f",
+    "drand_seed_hash": "885b54e5d25e1e813fe3f5af08ac13e8758fa8f761453db73a3f1b9241c09a7db12ab802a42125393c21625462e5a29a",
+    "client_seed": "1782697721200",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "cce3da01998346daa80a91677989b8c1227d6ccb2482a439fd1c12c69700732e",
+    "result": "81",
+    "external_round_id": "29964788",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T01:48:41.000000Z",
+    "revealed_at": "2026-06-29T01:48:48.000000Z"
+}
