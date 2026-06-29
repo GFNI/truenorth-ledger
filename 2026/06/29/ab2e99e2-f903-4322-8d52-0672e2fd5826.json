@@ -1,0 +1,22 @@
+{
+    "round_id": "ab2e99e2-f903-4322-8d52-0672e2fd5826",
+    "draw_title": "MINI DRAW - WIN 250 TICKETS INTO £1000 CASH COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-250-tickets-into-ps1000-cash-comp",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "7c9616a51a935a766ab2d440380130e7fbcb1ef7f12ff1e17fd60ce16db240e8",
+    "drand_seed_hash": "b91de3dd28b5d5800d2250f7c2a804763286ec363da439c0e0e9818afc87f070da2db19107f86ca953ec5d0bc67a5d60",
+    "client_seed": "1782769320709",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23,
+    "max_tickets": 40,
+    "combined_hash": "291acf17b4de23dc846ea9c4a684399d511106ab0e195a7f361d5e8037cbb24b",
+    "result": "18",
+    "external_round_id": "29988654",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T21:42:00.000000Z",
+    "revealed_at": "2026-06-29T21:42:06.000000Z"
+}
