@@ -1,0 +1,22 @@
+{
+    "round_id": "ce9aadc7-ac85-4f37-b9b1-546218455e26",
+    "draw_title": "💰BOUNTYS CASH LOOT INSTANTS!💰",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bountys-cash-loot-instants",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8b81fc481bff1c763b1e12fa576d67c6b0b140bb78bb90bbd6456e37b1f18a96",
+    "drand_seed_hash": "b92d0d6d67941ff0a2a9a27328d89ec5d64fe44c32261be84b78a2521ae2f3cd414f43866b8bdf669cb73d6a9d3a2686",
+    "client_seed": "1782763830765",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 164891,
+    "max_tickets": 810000,
+    "combined_hash": "6975171b178a81dfb94ca82f47ea43b6c2aaa9fc07e850005d3514e7ed3229c6",
+    "result": "112218",
+    "external_round_id": "29986824",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T20:10:30.000000Z",
+    "revealed_at": "2026-06-29T20:10:36.000000Z"
+}
