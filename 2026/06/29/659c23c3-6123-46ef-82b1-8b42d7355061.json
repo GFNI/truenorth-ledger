@@ -1,0 +1,22 @@
+{
+    "round_id": "659c23c3-6123-46ef-82b1-8b42d7355061",
+    "draw_title": "Win Your Choice of a Van Der Moon Organiser!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-your-choice-of-a-van-der-moon-organiser",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "71fabe69824d2105147e5731f606fb74b723c9b42afbb89fd8f6b8495b8b2ebf",
+    "drand_seed_hash": "b0ef627728ae0f4c70edcaf5cf7d370da95c7115dfd88d66b1088e099268276e2128a9fcc660c1f9154e092c5aed6064",
+    "client_seed": "1782761617639",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1066,
+    "max_tickets": 2199,
+    "combined_hash": "e48a208cf578d72fd7e4a081c66fb0dfe74fa740dd9d904ffc75529c80e05278",
+    "result": "845",
+    "external_round_id": "29986087",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T19:33:37.000000Z",
+    "revealed_at": "2026-06-29T19:33:45.000000Z"
+}
