@@ -1,0 +1,22 @@
+{
+    "round_id": "703278ce-daf2-4888-87f5-8b582bfbe078",
+    "draw_title": "🚴Cube Reaction Hybrid Performance 600 2026🚴",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/cube-reaction-hybrid-performance-600-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c8eb9212bf76fa7c86e945094d5ca506a4d4332d9c3eb2fec09557fbb04a8233",
+    "drand_seed_hash": "964f6bba180982b6fc6db89be6810ef801e738d6c01ff48e8efe7aad2a7d0dafd4d4afc41b707d265a0c26f50847df6a",
+    "client_seed": "1782759716395",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2406,
+    "max_tickets": 3585,
+    "combined_hash": "a093db7b8de6bd3aefcdd1a293755dc1181328eb08b347a70ecb5e948e963249",
+    "result": "3440",
+    "external_round_id": "29985453",
+    "processing_status": "completed",
+    "created_at": "2026-06-29T19:01:56.000000Z",
+    "revealed_at": "2026-06-29T19:02:03.000000Z"
+}
