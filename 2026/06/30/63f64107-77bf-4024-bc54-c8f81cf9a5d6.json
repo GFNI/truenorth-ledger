@@ -1,0 +1,22 @@
+{
+    "round_id": "63f64107-77bf-4024-bc54-c8f81cf9a5d6",
+    "draw_title": "🏖️SEASIDE VICTORY.🏖️",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/seaside-victory",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "5138e08a5991633f21dfbb6abf246f51f4222d837c41292aa049f6761a1649b6",
+    "drand_seed_hash": "ae075a2fec544a099b9c89a2060f5adc72b20919331b29e6e2b75068f6d134bbc774bd2456f4a14d333eb2deccbfb3db",
+    "client_seed": "1782843212159",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11266,
+    "max_tickets": 62000,
+    "combined_hash": "191ce93605d372e927bfdaa65d2443902e6f566bd695e0db082e7f8feb4d26c6",
+    "result": "50746",
+    "external_round_id": "30013284",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T18:13:32.000000Z",
+    "revealed_at": "2026-06-30T18:13:36.000000Z"
+}
