@@ -1,0 +1,22 @@
+{
+    "round_id": "5424ac00-d994-4ffc-9577-e0fc2873c142",
+    "draw_title": "Plouise comp Mini game",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/plouise-comp-mini-game-2",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "16893698908b514109c924176c5385dac29dd1b1c8cffc2f863fc55b0c81087b",
+    "drand_seed_hash": "8cf1400604e031f96b1f2a2e3bfaa0978a154d4147d3a2b6c2c0b759bb0d3c5fabd4592218b78773e8b3a0931c1d7434",
+    "client_seed": "1782839914277",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "ee745dc4ea14d225c8290c0ff45b872490b21c6ce493a2e675faecddfcd82917",
+    "result": "119",
+    "external_round_id": "30012185",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T17:18:34.000000Z",
+    "revealed_at": "2026-06-30T17:18:39.000000Z"
+}
