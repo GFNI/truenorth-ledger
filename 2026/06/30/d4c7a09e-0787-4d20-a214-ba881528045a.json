@@ -1,0 +1,22 @@
+{
+    "round_id": "d4c7a09e-0787-4d20-a214-ba881528045a",
+    "draw_title": "WIN TICKETS INTO OUR 30K TO SPEND ON A MOTOR COMPETITION - £500 TICKET END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/win-tickets-into-our-30k-to-spend-on-a-motor-competition",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "55cc2a5719c890725a9e894563766280b0eafa209c8b3b864a91743fd38530ef",
+    "drand_seed_hash": "899232b79543cd161246f23eca28afa7f971acd54c0e242fba8c4cb16b83b3fa2ccdf05ecd71fba27331dc2f2bd2143a",
+    "client_seed": "1782843045968",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12536,
+    "max_tickets": 132999,
+    "combined_hash": "24f314d9c4c75a5112528bf65315251b2115d7fc48e3e1a870d9273266e25df2",
+    "result": "117220",
+    "external_round_id": "30013229",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T18:10:45.000000Z",
+    "revealed_at": "2026-06-30T18:10:51.000000Z"
+}
