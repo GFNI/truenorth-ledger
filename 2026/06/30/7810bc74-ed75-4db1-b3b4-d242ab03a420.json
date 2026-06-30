@@ -1,0 +1,22 @@
+{
+    "round_id": "7810bc74-ed75-4db1-b3b4-d242ab03a420",
+    "draw_title": "Golf View Hotel Luxury Stay and Meal for Two",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/golf-view-hotel-luxury-stay-and-meal-for-two",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "9e138da0bc9793e9f755b27483a519beee24a090356c2bd49285d4ddf695051a",
+    "drand_seed_hash": "831829997af2d4ba91424945d580af2edc30fd1691168b16f607cc4a1c9ae7882e8ae2e557097c23ac599d79c4e40b14",
+    "client_seed": "1782846940058",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 196,
+    "max_tickets": 10000,
+    "combined_hash": "ba7a39d01b0daba6a354413c44185cd0a8acd1a2dd6b41b2463947b660ba954a",
+    "result": "7899",
+    "external_round_id": "30014527",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T19:15:40.000000Z",
+    "revealed_at": "2026-06-30T19:15:45.000000Z"
+}
