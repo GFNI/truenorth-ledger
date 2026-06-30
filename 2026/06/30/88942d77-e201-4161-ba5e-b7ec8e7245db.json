@@ -1,0 +1,22 @@
+{
+    "round_id": "88942d77-e201-4161-ba5e-b7ec8e7245db",
+    "draw_title": "🍦 SUMMER SCOOPS – Win The Viral Ninja CREAMi!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/summer-scoops",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "fac95e07faa5b94aedf5a64e0aa8cf132a3a3b97d1601c64f48efffb7d5ef615",
+    "drand_seed_hash": "b4418b16ffe3f52f96eefb01b709ecf988050e8fdc8c5f9d189b0f93e88a6de7db52fa3beb076671de89ddab41048bf6",
+    "client_seed": "1782843041215",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 194,
+    "max_tickets": 550,
+    "combined_hash": "1b6877b4824f4b52e66009be268fddb26a88ef47c97fe25d48b6c41f6736cb64",
+    "result": "166",
+    "external_round_id": "30013227",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T18:10:41.000000Z",
+    "revealed_at": "2026-06-30T18:10:45.000000Z"
+}
