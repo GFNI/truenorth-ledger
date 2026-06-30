@@ -1,0 +1,22 @@
+{
+    "round_id": "641f46bc-35fd-4838-b061-4d3a7a4cecc8",
+    "draw_title": "TICKET BOOTH (30/06/2026)",
+    "competition_url": "https://fireprizes.co.uk/admin/products/ticket-booth-30062026",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "e8977ed8a014301431c6da908d0728e858ec78353895d6e314464131503a29c6",
+    "drand_seed_hash": "83718b5ee0652bbde7c70f65e753dc40c6b9363115c121f641d1031c3d5ab494f135ccab31ab6799404ff6c51106c6a1",
+    "client_seed": "1782851550602",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 99,
+    "combined_hash": "9de6844fa9247bc6e42b8881d7f89af173f135cefff39db25b908a8f07b5b73a",
+    "result": "11",
+    "external_round_id": "30016064",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T20:32:30.000000Z",
+    "revealed_at": "2026-06-30T20:32:36.000000Z"
+}
