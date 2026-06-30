@@ -1,0 +1,22 @@
+{
+    "round_id": "8f3bea59-5fff-4d9d-b818-fde4663bdd20",
+    "draw_title": "Strike Cash",
+    "competition_url": "https://strikebigdraws.com/admin/products/strike-cash",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "d4a3ca9f0b8a385dad3a2df8c1fd1f8845ecb165c8f80dc84d1db8bbf034e75a",
+    "drand_seed_hash": "b62f568149911ae5d7b1cf86f4ffca90ae9a4aeb9c3f0ecc2c2f383dea91a295e0a231a41b5b5463bc1866fff6289337",
+    "client_seed": "1782846947850",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2150,
+    "max_tickets": 89999,
+    "combined_hash": "6f0a9d7487afa9c30181f3c05e744a0ecea43bda0fdceb2b8be817982897b022",
+    "result": "50618",
+    "external_round_id": "30014530",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T19:15:47.000000Z",
+    "revealed_at": "2026-06-30T19:15:54.000000Z"
+}
