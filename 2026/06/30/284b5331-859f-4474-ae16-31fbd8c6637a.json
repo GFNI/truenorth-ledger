@@ -1,0 +1,22 @@
+{
+    "round_id": "284b5331-859f-4474-ae16-31fbd8c6637a",
+    "draw_title": "Credit Crunch #7",
+    "competition_url": "https://fireprizes.co.uk/admin/products/credit-crunch-7",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "e6c575beac528e8b702ee51be50aa9e8e24e96f7e6083b12f5a8f7e83c930754",
+    "drand_seed_hash": "b49d4c4448c3716e78961175b9d1cb12def9369e994c5e816ddf21a88b44e5526eb18ad1a14909dd1eb55a00b0852300",
+    "client_seed": "1782861041020",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 209,
+    "max_tickets": 9999,
+    "combined_hash": "51dd626bfbeab692534d2093c780050ada8296000240c27ae144516de4ef026f",
+    "result": "1480",
+    "external_round_id": "30019227",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T23:10:41.000000Z",
+    "revealed_at": "2026-06-30T23:10:45.000000Z"
+}
