@@ -1,0 +1,22 @@
+{
+    "round_id": "69fa0d41-7ac7-4c70-a233-0b8dea129a93",
+    "draw_title": "🐘 JUNGLE LINES!🐘",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/jungle-lines",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "83da35d4186bd6b6892a515523d67bb37b066dd98e03be87e1722894ea7eab6a",
+    "drand_seed_hash": "826420474161e3aac7bca5dba9f3116ee59c8ee0bf83e4047c812939c2e0cf4fd398b25e02f4266cd234aa7ae4956618",
+    "client_seed": "1782842931392",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26108,
+    "max_tickets": 199999,
+    "combined_hash": "ce3b56b25b34b9a8d64d6ad4563083c608c57ec3eded76872f2202d0b49b086f",
+    "result": "10815",
+    "external_round_id": "30013191",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T18:08:51.000000Z",
+    "revealed_at": "2026-06-30T18:08:57.000000Z"
+}
