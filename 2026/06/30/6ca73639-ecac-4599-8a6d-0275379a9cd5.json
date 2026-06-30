@@ -1,0 +1,22 @@
+{
+    "round_id": "6ca73639-ecac-4599-8a6d-0275379a9cd5",
+    "draw_title": "100’s and 1000’s",
+    "competition_url": "https://winandgrin.co.uk/admin/products/100s-and-1000s",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "b14b66aa1e69cde5bdf616f3fc3d90df0688db443d84df203c1cc5c36a915ab3",
+    "drand_seed_hash": "8606a59f939bb91cd62d6f3c33597b24c029f7b627f7dff957e4cdb0e608756d1665ac15515fb31ace5c288774c68d19",
+    "client_seed": "1782850039802",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10599,
+    "max_tickets": 25000,
+    "combined_hash": "fde370ec6ce761f61997e3b4e41ba425c375b03c82e86e191aa4c3d2bbb36118",
+    "result": "21374",
+    "external_round_id": "30015560",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T20:07:19.000000Z",
+    "revealed_at": "2026-06-30T20:07:24.000000Z"
+}
