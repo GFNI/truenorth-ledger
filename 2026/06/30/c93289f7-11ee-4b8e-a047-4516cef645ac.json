@@ -1,0 +1,22 @@
+{
+    "round_id": "c93289f7-11ee-4b8e-a047-4516cef645ac",
+    "draw_title": "Fast Tech - XBOX series X",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/fast-tech-xbox",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "bcba447be9e614e928f07f5f441203b908ae431c5cb14ba89f19d57bca64e2a2",
+    "drand_seed_hash": "b9d9165e9203b61bd88f6e279f92c6c3ad71d9cc8a7669831aefbddeee0dbb28aa0216d90fe9ca5deb04324c217194dc",
+    "client_seed": "1782826000157",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12918,
+    "max_tickets": 60000,
+    "combined_hash": "173017f4ca5356b292d4a92b67cf19280414b64eff0650de5a1da51fa8f60a53",
+    "result": "40344",
+    "external_round_id": "30007547",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T13:26:40.000000Z",
+    "revealed_at": "2026-06-30T13:26:45.000000Z"
+}
