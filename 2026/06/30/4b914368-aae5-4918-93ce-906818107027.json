@@ -1,0 +1,22 @@
+{
+    "round_id": "4b914368-aae5-4918-93ce-906818107027",
+    "draw_title": "🍦FROZEN FORTUNE!🍦",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/frozen-fortune",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "ec75d88665b8c95bc5188b5ec1801d1f200d2d62d63b467abc8057788952586b",
+    "drand_seed_hash": "99ae195fa7cec46d1dbc8d0fbd231527b70f9edf67543965d45cf5803e3c9735039a57d3c2e3a3bedd6c17cf03809af9",
+    "client_seed": "1782843126549",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3032,
+    "max_tickets": 17000,
+    "combined_hash": "c557790a36a0753fd2385c6affa2a731e6d66cbc665c36512502cbfe6739ffe7",
+    "result": "12486",
+    "external_round_id": "30013256",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T18:12:06.000000Z",
+    "revealed_at": "2026-06-30T18:12:12.000000Z"
+}
