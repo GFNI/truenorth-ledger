@@ -1,0 +1,22 @@
+{
+    "round_id": "9fc4517c-a23b-47fd-8b02-fcc45eaf7a7c",
+    "draw_title": "test new true north certified live draw feature",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/test-new-true-north-certified-live-draw-feature",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "56c8c10dfdff27136a3862720d67666fc18430a92bb9ace879d21b2bd270243b",
+    "drand_seed_hash": "b3fe6cd4e154fa5099f3f57a17c8f8b2f3d00d34aa41e027656ce377a7efa5328b03ff470e9decda62138a782b746267",
+    "client_seed": "1782846671879",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 941,
+    "max_tickets": 25000,
+    "combined_hash": "8ff85f366427636a9cfc5ecc52fb6971a73e80b007d3e043e847a06d6b90ca4c",
+    "result": "9216",
+    "external_round_id": "30014438",
+    "processing_status": "completed",
+    "created_at": "2026-06-30T19:11:11.000000Z",
+    "revealed_at": "2026-06-30T19:11:18.000000Z"
+}
