@@ -1,0 +1,22 @@
+{
+    "round_id": "b14dc573-4f08-4fc2-81f6-61dcbcba1f5b",
+    "draw_title": "💫 JANET'S KIT or £15 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-dettol",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "e5b572438a51ba8f0d346a2ea15bb43877f51aa7c84af1fc51275ddda3493bcf",
+    "drand_seed_hash": "83dbf0f4c5dc7692a56ed3afec6b6d62b338a90ad4ac4994b6cfbd728f20483ac343a0292bf13563299993f6349920db",
+    "client_seed": "1782925890640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6,
+    "max_tickets": 45,
+    "combined_hash": "ed5a0c8d76f89284f83fdedb0daa31b3cff0ad9b5fa896bc429f50639a307d46",
+    "result": "31",
+    "external_round_id": "30040844",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T17:11:30.000000Z",
+    "revealed_at": "2026-07-01T17:11:36.000000Z"
+}
