@@ -1,0 +1,22 @@
+{
+    "round_id": "18b3278d-e882-40b7-a781-2f0cd6108d99",
+    "draw_title": "APP EXCLUSIVE - £100 FOR FREE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/app-exclusive-ps100-for-free",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "e249d8a1ee55322f1434d7e3d7e4ea9cd3cb2b6abe386ae8083d4d6ecc07ded1",
+    "drand_seed_hash": "9674eecf9e6b98a09e72c968e1404dd89c5281176f77711e0d8c1d5790c70f9a37b9f12c2fd58394f6f16db6398fd82c",
+    "client_seed": "1782938373753",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 103,
+    "max_tickets": 1000,
+    "combined_hash": "db096beb9ddb5460aca2ad03888ac5ccb0938aa57ed4d0ef983a5d555d42e515",
+    "result": "636",
+    "external_round_id": "30045005",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T20:39:33.000000Z",
+    "revealed_at": "2026-07-01T20:39:39.000000Z"
+}
