@@ -1,0 +1,22 @@
+{
+    "round_id": "d4eab12b-bd7d-4561-a180-8c1487d79fe2",
+    "draw_title": "💫 JANET'S FITBIT or £85 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-fit-bit",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "7871ddc7df2f2bc44ed850d8ffd886159ec1798cc1bd7e5685e971c921039232",
+    "drand_seed_hash": "983aef162f9676b4254a997528a79a316e4483f4b688ab968714ca0fcacee046eac23eb789b84b2f0e29f6157ad2d324",
+    "client_seed": "1782925872528",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28,
+    "max_tickets": 145,
+    "combined_hash": "e505e4a27b4938e4116302a605a952f5f1097526923cae0cd83ccbbbb9d97954",
+    "result": "10",
+    "external_round_id": "30040838",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T17:11:12.000000Z",
+    "revealed_at": "2026-07-01T17:11:18.000000Z"
+}
