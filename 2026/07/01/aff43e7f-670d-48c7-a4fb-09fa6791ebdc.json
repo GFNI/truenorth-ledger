@@ -1,0 +1,22 @@
+{
+    "round_id": "aff43e7f-670d-48c7-a4fb-09fa6791ebdc",
+    "draw_title": "Scratch Your Way to £3K - £250 Auto Draw + Instant wins up to £3000",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/scratch-your-way-to-ps3k-ps250-auto-draw-instant-wins-up-to-ps3000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "749936ac6d9c4450655ca007e2af9166c108808c76db14b062121583a0cf38be",
+    "drand_seed_hash": "95731bc87c872002242aa312448fd690639e03c1e61aa93b0eba8736481f4d63d9464b8f18a54df5f2e944408222a700",
+    "client_seed": "1782933045991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2852,
+    "max_tickets": 10000,
+    "combined_hash": "524f72e414b8a21a0bd5619feb1baae37eb40c6b9a22c9698727a610ec04f2cf",
+    "result": "6659",
+    "external_round_id": "30043230",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T19:10:46.000000Z",
+    "revealed_at": "2026-07-01T19:10:54.000000Z"
+}
