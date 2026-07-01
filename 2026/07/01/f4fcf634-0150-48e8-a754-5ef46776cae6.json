@@ -1,0 +1,22 @@
+{
+    "round_id": "f4fcf634-0150-48e8-a754-5ef46776cae6",
+    "draw_title": "DYNAMITE DIGGER",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/dynamite-digger",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "0a1f09d595fabab0f49b819bb182b80365bd06a67d53fce1dcee643deb9dc57d",
+    "drand_seed_hash": "a23cf8b0a24cf0b89e1ed1758ac32d07f9eb2c2bcd847db0eb17486240e3d23a0a7f4b4e72acf4953a848c2ef19ab2cc",
+    "client_seed": "1782940102090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8146,
+    "max_tickets": 21000,
+    "combined_hash": "c9d15bf246a0608cc45f73368c6f96a57fcdf2ca08069c0766dd8fe65a8e61c2",
+    "result": "20754",
+    "external_round_id": "30045581",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T21:08:22.000000Z",
+    "revealed_at": "2026-07-01T21:08:27.000000Z"
+}
