@@ -1,0 +1,22 @@
+{
+    "round_id": "76f43a9f-69a7-40a7-ba3e-2119e29e0870",
+    "draw_title": "Box Blitz! Chaos Rising Edition!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/box-blitz-chaos-rising-edition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "b37224d166b870dcd15f694a8385c1f57c3224fa1b9131c581dc11689908bba9",
+    "drand_seed_hash": "a83fd542d41225d6747bbeaa7194e45230f863c7f692382c6e0ab012941089b8b6341f7b0fa62c90c132a0deab1c84ee",
+    "client_seed": "1782912946512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 454,
+    "max_tickets": 1199,
+    "combined_hash": "64e175f9b95dbad10f248793e8db6758e2a205a3baaad2a1dcdc7066d484dea0",
+    "result": "16",
+    "external_round_id": "30036530",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T13:35:46.000000Z",
+    "revealed_at": "2026-07-01T13:35:54.000000Z"
+}
