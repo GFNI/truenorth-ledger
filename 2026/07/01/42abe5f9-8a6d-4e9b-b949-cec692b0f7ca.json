@@ -1,0 +1,22 @@
+{
+    "round_id": "42abe5f9-8a6d-4e9b-b949-cec692b0f7ca",
+    "draw_title": "RACOON RICHES",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/racoon-riches",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "4c562e705c2be73365c0876abf2664fc94616d9141ff14f5897bbaf2786e5a61",
+    "drand_seed_hash": "b7c6ebdd85bd64009448856f65031e65d44b40676549a5977bfb0fa4fbf1a97445be01edb4a81dedbb6bae4d2eb991ec",
+    "client_seed": "1782940172408",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54345,
+    "max_tickets": 99999,
+    "combined_hash": "4dc79785c5f7d76337bd2cb2bcfbe973e5fbd6284d4cfdb5286bc2359d0c230a",
+    "result": "39099",
+    "external_round_id": "30045605",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T21:09:32.000000Z",
+    "revealed_at": "2026-07-01T21:09:39.000000Z"
+}
