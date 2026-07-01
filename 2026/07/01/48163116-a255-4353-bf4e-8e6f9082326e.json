@@ -1,0 +1,22 @@
+{
+    "round_id": "48163116-a255-4353-bf4e-8e6f9082326e",
+    "draw_title": "£100 CASH FOR 1p",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps100-cash-for-1p",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "968fc79758419c4db93d2ee72e994962936cc12d277c3b309135bdad34adfb34",
+    "drand_seed_hash": "a4b58a6bd11712f8b86f53a855665d507ce8e13db69073c0e86bf934fcd7364dacfffedee69efa16e715bc3d92ee35e3",
+    "client_seed": "1782934682080",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7309,
+    "max_tickets": 20000,
+    "combined_hash": "f54fa6bec105d3d3ec3a03cda4bcb75ec9885cd2d0fc92efc20339c1f6fab74c",
+    "result": "10486",
+    "external_round_id": "30043775",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T19:38:02.000000Z",
+    "revealed_at": "2026-07-01T19:38:09.000000Z"
+}
