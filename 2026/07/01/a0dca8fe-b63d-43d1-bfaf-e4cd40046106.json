@@ -1,0 +1,22 @@
+{
+    "round_id": "a0dca8fe-b63d-43d1-bfaf-e4cd40046106",
+    "draw_title": "Gem Hunter - Win an Icon Instantly!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/gem-hunter-win-an-icon-instantly",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "a5af22ff10eac2e5eef75b006e19d54ec65f22cadbda09ecdd4ce02a6a5a3dc0",
+    "drand_seed_hash": "b6705513f6b7d97dfa6241f427a85cef328dc8c40eb7c0cabc45aab4d62f0a0ca8287cd4306c2851467d36e6940979a4",
+    "client_seed": "1782933061380",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1535,
+    "max_tickets": 10000,
+    "combined_hash": "4898d6eae4bc5d849bfc353654cded2c468e3db2fdc90618e173a1d0afb948ed",
+    "result": "2233",
+    "external_round_id": "30043235",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T19:11:01.000000Z",
+    "revealed_at": "2026-07-01T19:11:09.000000Z"
+}
