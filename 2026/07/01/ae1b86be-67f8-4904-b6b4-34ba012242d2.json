@@ -1,0 +1,22 @@
+{
+    "round_id": "ae1b86be-67f8-4904-b6b4-34ba012242d2",
+    "draw_title": "💫 JANET'S K18 or £25 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-k18",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "85c3bd1f6c604ede66b5cb3a2f2b0f5d6f4e9d3a41b2224a2f4eb25f9a329e4c",
+    "drand_seed_hash": "aa7d9e2f6db6c79f22ec5ec4b109ae9585307e04232c5c683bc2012b1b6397549b903df1d879e75eae6631dd3e2f6f4d",
+    "client_seed": "1782925854732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4,
+    "max_tickets": 35,
+    "combined_hash": "59882ec77c3cfb5289a15e3b014f7299c067c32ae91bdd3f9ae03ddcff99e9de",
+    "result": "1",
+    "external_round_id": "30040832",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T17:10:54.000000Z",
+    "revealed_at": "2026-07-01T17:11:00.000000Z"
+}
