@@ -1,0 +1,22 @@
+{
+    "round_id": "672d551f-24e1-464f-a4e3-f61121171385",
+    "draw_title": "💫 JANET'S Pandora or £35 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-pandora",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "d90eda3f546bb91dd99ebb254e03f4973d6148e11ff7a352218336600c443e8c",
+    "drand_seed_hash": "93a85201dbc7797993d4284a5ae5f7e984043ced6b7be85170c2e336a5befd6a7407a704dfe43a50978078bbacfa6404",
+    "client_seed": "1782925896553",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 27,
+    "combined_hash": "91c09a47b3a6db7b5c8c68c630e0ada655d90da83d28d063d4469cdba7f39d07",
+    "result": "2",
+    "external_round_id": "30040846",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T17:11:36.000000Z",
+    "revealed_at": "2026-07-01T17:11:42.000000Z"
+}
