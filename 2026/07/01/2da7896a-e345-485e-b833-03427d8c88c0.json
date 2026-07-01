@@ -1,0 +1,22 @@
+{
+    "round_id": "2da7896a-e345-485e-b833-03427d8c88c0",
+    "draw_title": "£300,000 INSTANT PRIZE VAULT - £5,000 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps300000-instant-prize-vault-ps5000-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "aa739b26b042e69c133714c5a623d5030020dd1cf1915d278e3f5b51ad927931",
+    "drand_seed_hash": "a5fa8c6001352c0d8a73bfc7d40adcd524e3df42fbd46799fbfc9d3b23f0eea1ae911c132ee4b9beb74365da999c4c6f",
+    "client_seed": "1782938628639",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 518500,
+    "max_tickets": 3000000,
+    "combined_hash": "8c0e05bd33b8553b91106e41fc13cf6fe741e1d504b2bcf59d29e6ee2526e3b2",
+    "result": "225229",
+    "external_round_id": "30045090",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T20:43:48.000000Z",
+    "revealed_at": "2026-07-01T20:43:54.000000Z"
+}
