@@ -1,0 +1,22 @@
+{
+    "round_id": "5d9e22d5-f194-4958-9195-1935d8e6ee7d",
+    "draw_title": "💫 JANET'S Voucher or £70 💫",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/janets-smyths",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "8611c80719fc3002fc6c8ea3d13fd032a305cf6a075e316bf04ac2a52aa34880",
+    "drand_seed_hash": "92a33e06f002c400cfae2659a03d55c3e02685dfd1d0a49da741bed34d5b00354fcf6fba2616dac4dffccc80a19591e3",
+    "client_seed": "1782925878625",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 380,
+    "combined_hash": "4cea60dc6aa93b433c1b0786615ea0afd64783949b0b083c275b662da617c7ad",
+    "result": "137",
+    "external_round_id": "30040840",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T17:11:18.000000Z",
+    "revealed_at": "2026-07-01T17:11:24.000000Z"
+}
