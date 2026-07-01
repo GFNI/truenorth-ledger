@@ -1,0 +1,22 @@
+{
+    "round_id": "a214061d-f1a9-4914-a9da-f889db2bd7d7",
+    "draw_title": "£800 Garden",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps800-garden-furniture-makeover",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "3bd660cf3419774dadfadfabfea1146c19e795e5c2da62c963fe471c40d38010",
+    "drand_seed_hash": "88463cc1c99c1d2a13cfce41366f2f34bf42c5bfc982a8b5e761aca81b387816a3ea74aeaaa347683a6419610b83b850",
+    "client_seed": "1782940780179",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 3680,
+    "combined_hash": "d889b13b224066b2274a0b3a9d3bb58ff92cd39e4489b45e325545693bc7ed96",
+    "result": "985",
+    "external_round_id": "30045807",
+    "processing_status": "completed",
+    "created_at": "2026-07-01T21:19:40.000000Z",
+    "revealed_at": "2026-07-01T21:19:49.000000Z"
+}
