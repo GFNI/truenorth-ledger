@@ -1,0 +1,22 @@
+{
+    "round_id": "528ca0f6-bb6c-4436-b2c5-e3f58aac87b7",
+    "draw_title": "Peugeot 306 D-Turbo Sedan OR £4000 Cash",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/peugeot-306-d-turbo-sedan-or-ps4000-cash",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "4bee7fba070ac7a4417c64009132691e6aeb628bceeedfab86822c986ac0adf0",
+    "drand_seed_hash": "a250e78deaa362aa2db4d2433b577d19985d057c624c653b389115c96bb601669d6ca24470dc04cbfe406dfbca913c01",
+    "client_seed": "1783023203022",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2179,
+    "max_tickets": 4250,
+    "combined_hash": "df4e431640ff7f32c3c43807ca9318dfe985204a0040b97a0d8a8214e2e19b42",
+    "result": "2856",
+    "external_round_id": "30073282",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T20:13:23.000000Z",
+    "revealed_at": "2026-07-02T20:13:30.000000Z"
+}
