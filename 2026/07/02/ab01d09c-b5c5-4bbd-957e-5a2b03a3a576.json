@@ -1,0 +1,22 @@
+{
+    "round_id": "ab01d09c-b5c5-4bbd-957e-5a2b03a3a576",
+    "draw_title": "🏝️ Family Vacation for 4 to Gran Oasis Resort Tenerife April 2027",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/family-vacation-for-4-to-gran-oasis-resort-tenerife-april-2027",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b67fb3c2254331d75d1865883b7fd66f30240d2fbfdc1dec6053331964c6438a",
+    "drand_seed_hash": "a457a44eb3f26fbbdac66d3abed80beca7c683cd35b3228cf1d9f9bdf2a08a8f2b5ba614015965249394a320850926b4",
+    "client_seed": "1783020830982",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7404,
+    "max_tickets": 8500,
+    "combined_hash": "fc37a054885e21655581412adb3190c19e8476299698f5ef6ba85c49a583aa90",
+    "result": "5737",
+    "external_round_id": "30072491",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:33:51.000000Z",
+    "revealed_at": "2026-07-02T19:33:57.000000Z"
+}
