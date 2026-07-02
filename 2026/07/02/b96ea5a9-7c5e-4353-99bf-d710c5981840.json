@@ -1,0 +1,22 @@
+{
+    "round_id": "b96ea5a9-7c5e-4353-99bf-d710c5981840",
+    "draw_title": "Winsome Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/competition/winsome-doe-5",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "9e92c173b109f3ac6ce1d9e70b9ad69fe3e9a5ea7ea9b39f1d98a532e4ba0b3e",
+    "drand_seed_hash": "b7311271b4463f00530a771b950c6cc38184b89f7283c12b631d369872df3714be51bdb5f8c4b334b9597645d0edf59d",
+    "client_seed": "1783019464826",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 350,
+    "combined_hash": "12b4d7945a453d55c06f7e0b990603cc10a3ae60c3562812e49c1d77b998ff58",
+    "result": "57",
+    "external_round_id": "30072036",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:11:05.000000Z",
+    "revealed_at": "2026-07-02T19:11:17.000000Z"
+}
