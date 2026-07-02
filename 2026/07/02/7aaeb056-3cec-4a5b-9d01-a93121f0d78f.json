@@ -1,0 +1,22 @@
+{
+    "round_id": "7aaeb056-3cec-4a5b-9d01-a93121f0d78f",
+    "draw_title": "DAILY INSTANT REVEAL",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/daily-instant-reveal-2",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "e0f0c937f3cbee5543a1d3fce4863f4de4985399456f99fe05522d2679bba640",
+    "drand_seed_hash": "88ecb0f9ea46edd5ad7bdda29da8493fe503ffc1973db63c0f544239c316959853813683c1d0ca4fc3f0559275f3ffd6",
+    "client_seed": "1783023048962",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26660,
+    "max_tickets": 250000,
+    "combined_hash": "82cd2c4aca8db2b6f8ad0fcf836a09e66f31b046abbec49ca9abcf88211962f9",
+    "result": "200179",
+    "external_round_id": "30073231",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T20:10:49.000000Z",
+    "revealed_at": "2026-07-02T20:10:57.000000Z"
+}
