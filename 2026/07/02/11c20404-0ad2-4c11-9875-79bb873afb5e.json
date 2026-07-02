@@ -1,0 +1,22 @@
+{
+    "round_id": "11c20404-0ad2-4c11-9875-79bb873afb5e",
+    "draw_title": "Piñata - £500 Mini Comp - £150 Main Draw Prize - 20p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/pinata-ps500-mini-comp-ps150-main-draw-prize-20p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "a17ccbf9ce9af2a662d19d186c0a5d73b5efa9101299ec03aaf679812a8a71ef",
+    "drand_seed_hash": "a70d67e2f1c199af05592212f6dc38e88a3d7157b17be7e32a6bfa5133d6ec8c4d76a44b9838237383a725a7ce7e78bd",
+    "client_seed": "1783016246192",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2031,
+    "max_tickets": 8125,
+    "combined_hash": "a13e3aeaecaf2e2c22aacaffc2079ab0541c36f819b24811ab2bc8d06ea73d20",
+    "result": "5041",
+    "external_round_id": "30070963",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T18:17:26.000000Z",
+    "revealed_at": "2026-07-02T18:17:33.000000Z"
+}
