@@ -1,0 +1,22 @@
+{
+    "round_id": "04a9fd3b-6fda-4567-8718-fe611767e51b",
+    "draw_title": "Tea & Biscuits Bundle",
+    "competition_url": "https://jetcomps.co.uk/admin/products/tea-biscuits-bundle",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "6fdea347334c46ed730f8681ae77bd0e087826a8e60d37586a4dab1a4d8bc7e2",
+    "drand_seed_hash": "b305c1e903a681d564fe58ea36ee59b3a958d8620ae8770305a7cc148f49bdbd1bcea028c34673241a75ed53d4f47e21",
+    "client_seed": "1783020782595",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65,
+    "max_tickets": 89,
+    "combined_hash": "4abcaf1c224f19a6d2ba3130760e32aefee66b57cb3ae620319cb65aa076ccca",
+    "result": "70",
+    "external_round_id": "30072475",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:33:03.000000Z",
+    "revealed_at": "2026-07-02T19:33:09.000000Z"
+}
