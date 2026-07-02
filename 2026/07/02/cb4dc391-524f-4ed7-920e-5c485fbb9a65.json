@@ -1,0 +1,22 @@
+{
+    "round_id": "cb4dc391-524f-4ed7-920e-5c485fbb9a65",
+    "draw_title": "APPLE MacBook Air 13.6\" (2026) - M5, 512 GB SSD, RAM 16 GB, Starlight💛⭐",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-macbook-air-136-2026-m5-512-gb-ssd-ram-16-gb-starlight",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "6143e14d525275c69d510be817870cf6e2ef8a1a4559e8a377fa857ea9861724",
+    "drand_seed_hash": "b59231c3f47f8ac2344621d8054a62f986a92274936c7f034fd8db39c67ce77e0428cf8de9dae8d6c14743c33f894338",
+    "client_seed": "1783020297687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1382,
+    "max_tickets": 1750,
+    "combined_hash": "a0d4f1deee32ea316279c4ced7104d26ab95b1a4f79ecb77e1a3bd5aec73e0db",
+    "result": "61",
+    "external_round_id": "30072313",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:24:57.000000Z",
+    "revealed_at": "2026-07-02T19:25:03.000000Z"
+}
