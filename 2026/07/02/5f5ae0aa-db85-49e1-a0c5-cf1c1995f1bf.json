@@ -1,0 +1,22 @@
+{
+    "round_id": "5f5ae0aa-db85-49e1-a0c5-cf1c1995f1bf",
+    "draw_title": "Gold Stars Spin The Wheel - £550 Mini Comp - Spin the Wheel - 10p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/gold-stars-spin-the-wheel-ps550-mini-comp-spin-the-wheel-10p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "a6931609ae82b047094fba6f0032c447976967cac6b8bd0fcac9932b02760e69",
+    "drand_seed_hash": "a2b783f3f6382e3373d4ce223e9425bb935523f4703b6cb9aadce72ce820e032e33b80538d53517491f9db3719d2d16e",
+    "client_seed": "1783015985249",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10497,
+    "max_tickets": 13750,
+    "combined_hash": "6edc6e5cc1f94c972f8ccd7f724e78a0ae96e5b901f0aaa8d78823ef67aa70d9",
+    "result": "3013",
+    "external_round_id": "30070876",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T18:13:05.000000Z",
+    "revealed_at": "2026-07-02T18:13:12.000000Z"
+}
