@@ -1,0 +1,22 @@
+{
+    "round_id": "95b9d072-84a6-4a1e-95d0-afd48ce2f020",
+    "draw_title": "💵£4K ENTER FOR 45P💵",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps4k-enter-for-45p-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "365d92dff1a9eec7419e38ec15eeb923e084d310524d9d098d49de81e3f1b0e3",
+    "drand_seed_hash": "8958649384a0af33b3ddd985c84ae1f7dc69e017383c51aa65fdcf9f0528f9b3e818d8ac5dfab659aae7342faa471e21",
+    "client_seed": "1783020760988",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13384,
+    "max_tickets": 13775,
+    "combined_hash": "3b7faffd9ff0df1392dd60ecf0a4b794017b80605559c170be83966c645f41c3",
+    "result": "6395",
+    "external_round_id": "30072468",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:32:41.000000Z",
+    "revealed_at": "2026-07-02T19:32:48.000000Z"
+}
