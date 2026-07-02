@@ -1,0 +1,22 @@
+{
+    "round_id": "ea7d0546-6195-4ba2-a606-5f60e2587288",
+    "draw_title": "🤗 Shark Hair & Beauty Bundle 🤗",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/shark-hair-beauty-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "876a8b383869e206de1f805e6d9ad0a108b335436a61db90535adcef15751a78",
+    "drand_seed_hash": "ac171ad6b9a88beba35c8805f104407fe7fda7e3ae5c437c1eb31e5acae254a90a572a520222e52f951f232e8470e817",
+    "client_seed": "1783020188040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1160,
+    "max_tickets": 1285,
+    "combined_hash": "625afeaf41440d64b83a6a05a68b7658dbf1f79355b19af6b218f3507cbda187",
+    "result": "88",
+    "external_round_id": "30072277",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:23:08.000000Z",
+    "revealed_at": "2026-07-02T19:23:15.000000Z"
+}
