@@ -1,0 +1,22 @@
+{
+    "round_id": "e9566ec9-0cb8-4e9c-a91f-162338362c46",
+    "draw_title": "Toy Story Bundle",
+    "competition_url": "https://jetcomps.co.uk/admin/products/toystorybundle",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "e12d9db87e89d0483df82fa1ff9f5f0e6558d26b25798af089cad0ec7dd65e79",
+    "drand_seed_hash": "8d9e394350c4750e68389e5fe7045542a96f910b7923cb9dd9a7df0282d2fd7c15133d57e805e4aceaef6e1ebb0b6e45",
+    "client_seed": "1783021260827",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23859,
+    "max_tickets": 32999,
+    "combined_hash": "b6566e4dcf22fec71e38f9290b8b11ce37f31842a6b9c81af504e0be319f717c",
+    "result": "5158",
+    "external_round_id": "30072634",
+    "processing_status": "completed",
+    "created_at": "2026-07-02T19:41:00.000000Z",
+    "revealed_at": "2026-07-02T19:41:06.000000Z"
+}
