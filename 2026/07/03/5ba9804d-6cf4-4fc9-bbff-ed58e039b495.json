@@ -1,0 +1,22 @@
+{
+    "round_id": "5ba9804d-6cf4-4fc9-bbff-ed58e039b495",
+    "draw_title": "JELLY BEAN LOXLEY {LIVE DRAW}",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/jelly-bean-loxley-live-draw",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "bf744178cbde167d754a3832d2264a5b1045e1be70c869fe9f85369360e551cc",
+    "drand_seed_hash": "a9b706aaf84ca4111cf48300710d0b945da1ad90e1df7b512c6a6f9d32b01e99fb811cb324033ad6a2c3629c7a6597ac",
+    "client_seed": "1783109495258",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 183,
+    "max_tickets": 501,
+    "combined_hash": "f0bad8d20e3f98a028ba212079cc8739eb517aeea5be7652b7144a83d30bfa46",
+    "result": "277",
+    "external_round_id": "30102045",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:11:35.000000Z",
+    "revealed_at": "2026-07-03T20:11:39.000000Z"
+}
