@@ -1,0 +1,22 @@
+{
+    "round_id": "34192078-1e51-44a7-a344-9fb71f930d18",
+    "draw_title": "500 Tickets On X6M Competition",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-on-x6m-competition-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "eba35b89d00586f0f6cef935ae1f8f8b192d27630de575d2814cc229a90baf21",
+    "drand_seed_hash": "a51be966e61fc3d6091a9e7a56d52d32a9441bf365d4a94cbd1017272bf6bcf4729e1ed9309adb5e207c81fbdefbd425",
+    "client_seed": "1783107404404",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4754,
+    "max_tickets": 6500,
+    "combined_hash": "634abb429e6bbda3fcd0e3aea2fecf3f4c3541748cb4d313ad7b00247f404712",
+    "result": "4032",
+    "external_round_id": "30101349",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T19:36:44.000000Z",
+    "revealed_at": "2026-07-03T19:36:51.000000Z"
+}
