@@ -1,0 +1,22 @@
+{
+    "round_id": "18e26a63-ae4b-429c-8d70-035d4064e9c8",
+    "draw_title": "Epic Cash Vault £5000",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-cash-vault-ps5000-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "ac6c0d3c3af581b8fd6c58bbaadad6553370e5c5441965e9c7d52a93b2636b07",
+    "drand_seed_hash": "a63172bef1f91cb11836b661d8a852637dd6a9af9bea0a2034c43996996bf6b3938d75044a83553606c5c31a9590aa25",
+    "client_seed": "1783107528816",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8918,
+    "max_tickets": 20000,
+    "combined_hash": "ac3fe03373ba7fac51e194bfbf0be35c21b4747e74ffe3505723ca0d087fef64",
+    "result": "14381",
+    "external_round_id": "30101390",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T19:38:48.000000Z",
+    "revealed_at": "2026-07-03T19:38:54.000000Z"
+}
