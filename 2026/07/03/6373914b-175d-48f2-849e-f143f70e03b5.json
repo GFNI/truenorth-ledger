@@ -1,0 +1,22 @@
+{
+    "round_id": "6373914b-175d-48f2-849e-f143f70e03b5",
+    "draw_title": "SAMURAI 4 GRAPHITE BOARD + STAND {LIVE DRAW}",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/samurai-4-graphite-board-stand-live-draw",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "11d89fd676d447e0bdd24803e9096296629ae04aa512ba36ca12291f930adbb4",
+    "drand_seed_hash": "b3a001d3086602aa039477a4b34d51e67d0b04cc024934292b74069bca4b3ebd97fc9a39002286a9347ab13d699c26e2",
+    "client_seed": "1783109598150",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248,
+    "max_tickets": 501,
+    "combined_hash": "a5daeae631a2bee59858dc438c13ccbc2cf8fe7b6db3145937a0d430ea2885cb",
+    "result": "242",
+    "external_round_id": "30102080",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:13:18.000000Z",
+    "revealed_at": "2026-07-03T20:13:24.000000Z"
+}
