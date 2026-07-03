@@ -1,0 +1,22 @@
+{
+    "round_id": "db5f2f65-4942-447d-bf7f-92e666c0b3df",
+    "draw_title": "SOCIAL GIVEAWAY - 6 WINNERS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/social-giveaway-6-winners",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "6a92dce37735e266eac1d2afc0e89289830ab2629bd54d695aea7381bcd0df0d",
+    "drand_seed_hash": "93c9c6d5d73a308dd63763e14643f03f6fedbc05eb222494f1eb9d36edffb2c8f49013e67e766cb3a62ec056f7970c3a",
+    "client_seed": "1783108925437",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 100,
+    "combined_hash": "f9e678b0f0cde4594352acf0e363bbbc43cef139ae17f89891a04f88bd514f50",
+    "result": "66",
+    "external_round_id": "30101856",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:02:05.000000Z",
+    "revealed_at": "2026-07-03T20:02:12.000000Z"
+}
