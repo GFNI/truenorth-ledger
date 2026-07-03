@@ -1,0 +1,22 @@
+{
+    "round_id": "cd23dc01-f7a4-44ef-9fcc-bb2d5fb96f41",
+    "draw_title": "The Wee Big One - £250 Main + Instantly win up to £2000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/the-wee-big-one-ps250-main-instantly-win-up-to-ps2000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "a384272b7125b3bb07e186ad67795b55ecbd5a78a85e5f928aa811f902df0133",
+    "drand_seed_hash": "900456b461099cbb845886781ef24823005be9f2258246be77da2e113e8275e703f082a00e645a34951393e67f2b7979",
+    "client_seed": "1783105865883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4310,
+    "max_tickets": 17000,
+    "combined_hash": "f08377978a9183bba64a8ef3ebc35db06f04c2168a5c9c89d21ef9be8b80c802",
+    "result": "15177",
+    "external_round_id": "30100836",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T19:11:06.000000Z",
+    "revealed_at": "2026-07-03T19:11:12.000000Z"
+}
