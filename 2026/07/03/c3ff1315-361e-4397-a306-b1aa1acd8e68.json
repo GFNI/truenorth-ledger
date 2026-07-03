@@ -1,0 +1,22 @@
+{
+    "round_id": "c3ff1315-361e-4397-a306-b1aa1acd8e68",
+    "draw_title": "RVB CHRONO 95% TUNGSTEN {LIVE DRAW}",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/rvb-chrono-95-tungsten-live-draw",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "3459f379d619d3df3964589a22cc6f807390c0c04668b796613421256e5251d2",
+    "drand_seed_hash": "93b205f4d159bdc81f4c8b03df82ea6360ab6c15bec285a6dac6ab2441eb0dd215bbd6751a93e41ca53c596ab6acc143",
+    "client_seed": "1783109898927",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 144,
+    "max_tickets": 501,
+    "combined_hash": "8af05ca666624ae054d6a8495ad4906a3bb52c5c009b218ee794ef1c20c7ab2a",
+    "result": "172",
+    "external_round_id": "30102180",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:18:18.000000Z",
+    "revealed_at": "2026-07-03T20:18:24.000000Z"
+}
