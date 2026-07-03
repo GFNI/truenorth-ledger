@@ -1,0 +1,22 @@
+{
+    "round_id": "1abe7441-64e4-4a81-a22e-4e84b69d91a7",
+    "draw_title": "£1000 TAX FREE CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps1000-tax-free-cash-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "b46acdad84c1d9c4873a5ae6b1b7a5395a51dd59be916e5bea9eaed30a5ea11a",
+    "drand_seed_hash": "973a06847be72be5a92594a6137394f124db273f5df9786be85556e86848dba4fb492ad160fb24ccd1eef255d264764b",
+    "client_seed": "1783109344531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1549,
+    "max_tickets": 2000,
+    "combined_hash": "40e0ac602862ab8d159c3bdc3125f000c62d9078fdbcc13fb8302ff3894fd1c7",
+    "result": "337",
+    "external_round_id": "30101996",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:09:04.000000Z",
+    "revealed_at": "2026-07-03T20:09:12.000000Z"
+}
