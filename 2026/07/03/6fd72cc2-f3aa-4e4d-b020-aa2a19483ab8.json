@@ -1,0 +1,22 @@
+{
+    "round_id": "6fd72cc2-f3aa-4e4d-b020-aa2a19483ab8",
+    "draw_title": "Friday's £3,000 Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/fridays-ps3000-cash",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "19ea0fb3b093402231f117034134d1b646bc16bae204cc735aa233eb923d1734",
+    "drand_seed_hash": "ac9dc2434b20244ca7539ef0e6efd9b7bbfe23b2cc138ca953fa32445f0fadb79c2abac797d5839c0e80bc0c342d736f",
+    "client_seed": "1783113046097",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2682,
+    "max_tickets": 3750,
+    "combined_hash": "d1db4a50637919203fb4ca5bbf4fbada5d2ddedd2e9127210c6254eed77df4d0",
+    "result": "718",
+    "external_round_id": "30103230",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T21:10:46.000000Z",
+    "revealed_at": "2026-07-03T21:10:54.000000Z"
+}
