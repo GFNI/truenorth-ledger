@@ -1,0 +1,22 @@
+{
+    "round_id": "996f9ec7-7ecc-49e0-8e31-54554de3f8f6",
+    "draw_title": "£1k Feeder Competition -125 Tickets",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/ps1k-feeder-competition-125-tickets-2",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "69303e0757f61cc833b56cc17bbb1768471c5955d1f1dfee90fe60bbe970ec31",
+    "drand_seed_hash": "b127f2f69ef7153b34c7a2fbf2653b32825b9c8c71f36c2f83e01b1137ad8d84d6060c7f414daa9de32c46e8afe3df70",
+    "client_seed": "1783116639782",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 427,
+    "max_tickets": 2000,
+    "combined_hash": "2e2309e46a0ae587f3d2ad544901c26e902cae91a2a55566a4a1d194b2311631",
+    "result": "79",
+    "external_round_id": "30104427",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T22:10:39.000000Z",
+    "revealed_at": "2026-07-03T22:10:45.000000Z"
+}
