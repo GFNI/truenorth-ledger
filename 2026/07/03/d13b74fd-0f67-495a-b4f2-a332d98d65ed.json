@@ -1,0 +1,22 @@
+{
+    "round_id": "d13b74fd-0f67-495a-b4f2-a332d98d65ed",
+    "draw_title": "1000 Tickets Into Our PSA 10 Phantasmal Flames Charizard  Competition",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/1000-tickets-into-our-psa-10-phantasmal-flames-charizard-competition",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "06e8e303cd98e609d4e1cbaebc3d5e0b97401f4ff359408412ad35d4a22f7663",
+    "drand_seed_hash": "90a26f9af3fbc36dd20abba999ace0cbb70f442fb4720b1aef5ff6563c6db705d9f050195c2bfb3fb6d5571863017cb7",
+    "client_seed": "1783113030303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 163,
+    "max_tickets": 300,
+    "combined_hash": "0fd7b00340697a436a4d2abf5dab287c638cad3862a7e901feaabc67b404dafb",
+    "result": "140",
+    "external_round_id": "30103224",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T21:10:30.000000Z",
+    "revealed_at": "2026-07-03T21:10:36.000000Z"
+}
