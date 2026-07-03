@@ -1,0 +1,22 @@
+{
+    "round_id": "d79e9798-cd81-4663-b7da-08e0e6950e68",
+    "draw_title": "500 x Tickets Into OGs World Cup",
+    "competition_url": "https://ogcompetitions.co.uk/lists/500-x-tickets-into-ogs-world-cup",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d6754b68dfd7d1004810c3c365d9af07db7c14a08319882c0be896e1f29342a9",
+    "drand_seed_hash": "a7458207376668f54abfa42d025fbf59fc981f6abdd4ed217aab3070a2d3e636b4a086b5ce64aed395a10017760688ea",
+    "client_seed": "1783112879216",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200,
+    "combined_hash": "5a4b5c43c0fa6b8d2b9448dc230313eb73bd381c5a640deab6ca3585c601eacc",
+    "result": "75",
+    "external_round_id": "30103174",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T21:07:59.000000Z",
+    "revealed_at": "2026-07-03T21:08:08.000000Z"
+}
