@@ -1,0 +1,22 @@
+{
+    "round_id": "6bdb3829-3b5f-419c-9d87-218c81d41fb9",
+    "draw_title": "£300 Mega Bundle",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps300-mega-bundle",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "e3988b30d5f4378e2d40ec2d4ae3e0997e10b04612f51097571c5e94026466a8",
+    "drand_seed_hash": "a6863ddd0ddb05ef3ffc821a59748f5066d16b554cf1c6f925113b754d949b67af19c07553301d14720960e4c5ae62bb",
+    "client_seed": "1783110636729",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 251,
+    "max_tickets": 575,
+    "combined_hash": "21bc7314f25a3345ae4fa4704624c8297dfd53cc66de3129ece4368561ab4f2e",
+    "result": "172",
+    "external_round_id": "30102426",
+    "processing_status": "completed",
+    "created_at": "2026-07-03T20:30:36.000000Z",
+    "revealed_at": "2026-07-03T20:30:42.000000Z"
+}
