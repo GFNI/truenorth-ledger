@@ -1,0 +1,22 @@
+{
+    "round_id": "3230ac1f-ec95-480c-a0e7-d2c47ad314a1",
+    "draw_title": "Chaotic Name Game",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-name-game-6825",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "0ad1017cdab4ab7cabf4bfe20f82891102d6a5ac57d0c13189190c0f5fb219aa",
+    "drand_seed_hash": "a5ee60b68be0d3541c3c134fffb39cf2b8c1ac172963913b6d166112b0591ead8aba56de6157c42b29a8ad677c5f05ff",
+    "client_seed": "1783195690442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "496de46bab058a99d92fcd999d0cdaf9c5ef7f6bec308d5603c1e5634b03bde8",
+    "result": "298",
+    "external_round_id": "30130778",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T20:08:10.000000Z",
+    "revealed_at": "2026-07-04T20:08:18.000000Z"
+}
