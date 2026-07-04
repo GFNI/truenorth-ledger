@@ -1,0 +1,22 @@
+{
+    "round_id": "c259652b-3b45-4746-82e9-ccf002bb0167",
+    "draw_title": "CPF Pet Foods £50 Voucher Giveaway",
+    "competition_url": "https://wincredible.uk/admin/products/cpf-pet-foods-50-voucher-giveaway",
+    "operator": {
+        "name": "Wincredible Ventures Ltd",
+        "website": "https://wincredible.uk",
+        "company_number": "17200732"
+    },
+    "drand_server_seed": "bb037dddadb02c96cd3ddf2930790f1fac919e371bea40a19ba8701896aa6dc5",
+    "drand_seed_hash": "85fa70f5cbdc3d273ca01fae147cb84942f7e004fe91e0cbb235518cec0236433fd8a308f65aeec371d6ba60b7a34c4f",
+    "client_seed": "1783191222267",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 100,
+    "combined_hash": "aa3385ed3f4f792d486af934f64023c75a71f7b0536d76e2468793a58182a857",
+    "result": "7",
+    "external_round_id": "30129288",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T18:53:42.000000Z",
+    "revealed_at": "2026-07-04T18:53:48.000000Z"
+}
