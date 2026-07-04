@@ -1,0 +1,22 @@
+{
+    "round_id": "93c326fe-27fd-4893-9464-631d33565bc1",
+    "draw_title": "The Final Whistle Cash Drop",
+    "competition_url": "https://wincredible.uk/admin/products/the-final-whistle-cash-drop",
+    "operator": {
+        "name": "Wincredible Ventures Ltd",
+        "website": "https://wincredible.uk",
+        "company_number": "17200732"
+    },
+    "drand_server_seed": "589abab4e56202ea8108d38fc549a584a98ab71d1eae23fa6e0b4cce2aa4a30d",
+    "drand_seed_hash": "af9246141c5075fe2b903e1981c477c182653d546571e38c8bba30d8fb27aa9161fa5c1a93419a6f8a32890cecf7553b",
+    "client_seed": "1783191762231",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 163,
+    "max_tickets": 400,
+    "combined_hash": "ee7fff117c2630e021147343e3fb9f59c911c30ed350ad08168d6fb2063fb4f7",
+    "result": "303",
+    "external_round_id": "30129468",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T19:02:42.000000Z",
+    "revealed_at": "2026-07-04T19:02:48.000000Z"
+}
