@@ -1,0 +1,22 @@
+{
+    "round_id": "15187a45-c761-4ded-86c0-4213eb13c494",
+    "draw_title": "Chaoss Bubble hunt",
+    "competition_url": "https://chaotic.co.uk/competition/chaoss-bubble-hunt-4323",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "245de4bc967d37858d2976a083a5231bd8e051c1967c01f43c69aac238283f3c",
+    "drand_seed_hash": "82366c726666ab0bbf91a520ee857cd9f96338b0da936835e9d4e27a82ae738eaf0f9e9bb3c130cd4b986b1cec033a6f",
+    "client_seed": "1783195351711",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "23065ebd898b8f01529eb6d41dcbb5248040aa43c1aae1ed06c7eabd4ff5b038",
+    "result": "10780",
+    "external_round_id": "30130665",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T20:02:31.000000Z",
+    "revealed_at": "2026-07-04T20:02:39.000000Z"
+}
