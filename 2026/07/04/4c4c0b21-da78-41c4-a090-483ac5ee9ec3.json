@@ -1,0 +1,22 @@
+{
+    "round_id": "4c4c0b21-da78-41c4-a090-483ac5ee9ec3",
+    "draw_title": "EITHER WAY UP 69",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/either-way-up-69",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "150d54b25ba40fb09232b1bd6a96db611e05669104d311586af6b55fa27c8090",
+    "drand_seed_hash": "875de23ce3ca60d0134a34fa3246a987d8796270528abaf20930e287b88c38a1121730c4bf8e5b5f9d06a5612e6ed6be",
+    "client_seed": "1783197711433",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10748,
+    "max_tickets": 33333,
+    "combined_hash": "6c97d79dbb460aa21c9c4075f925fdb70e1da014a78d3fffbdf68a454417dd8c",
+    "result": "11732",
+    "external_round_id": "30131451",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T20:41:51.000000Z",
+    "revealed_at": "2026-07-04T20:41:57.000000Z"
+}
