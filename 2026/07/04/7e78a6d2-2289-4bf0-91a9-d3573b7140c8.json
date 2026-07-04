@@ -1,0 +1,22 @@
+{
+    "round_id": "7e78a6d2-2289-4bf0-91a9-d3573b7140c8",
+    "draw_title": "The Ultimate Mini Bundle",
+    "competition_url": "https://winandgrin.co.uk/admin/products/the-ultimate-mini-bundle",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "c5f05747c6cb23e10bcb845b66cc6854f64806cce575ce20ee87a50a7f0b4bac",
+    "drand_seed_hash": "a1625e9739eea75d27059dc7072ee864ea8259551334489f188352dbe5aebd624d7523be17177a1fea932254eb954eff",
+    "client_seed": "1783166613299",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "fb357600162b2b273fe871a775dcb89b44609b82c5e38c53d15b55453dd112f3",
+    "result": "68",
+    "external_round_id": "30121085",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T12:03:33.000000Z",
+    "revealed_at": "2026-07-04T12:03:39.000000Z"
+}
