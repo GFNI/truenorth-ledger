@@ -1,0 +1,22 @@
+{
+    "round_id": "786df860-d159-42a1-8d21-0979b07dd248",
+    "draw_title": "The Mami Pyramidz",
+    "competition_url": "https://chaotic.co.uk/competition/the-mami-pyramidz-1138",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "131b16caa521de3baeec47752af4d59b3d9dd6f9fd40c9ba078dbf659de72749",
+    "drand_seed_hash": "b2cfd39478c71c057bc5a0779ada9d798b75980452281ad5ded4e674eca6874bc5396ea9dc72b399ff57d7d22c1c4658",
+    "client_seed": "1783197096905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 762156,
+    "max_tickets": 1499999,
+    "combined_hash": "d0bd6d9aee1607f379dd0ff3f64ba5b6a647df8ace8800ea25047a3a78fbeae6",
+    "result": "385008",
+    "external_round_id": "30131246",
+    "processing_status": "completed",
+    "created_at": "2026-07-04T20:31:36.000000Z",
+    "revealed_at": "2026-07-04T20:31:42.000000Z"
+}
