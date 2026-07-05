@@ -1,0 +1,22 @@
+{
+    "round_id": "dd963c09-c08d-4d96-adfc-947f57bf7fb7",
+    "draw_title": "Win 20x Minted Fine Gold Bar Tickets (Draw 2)",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-minted-fine-gold-bar-tickets-draw-2",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "bdb31a54ba99d7912f3a7fb072090fa8c42f0e6321f31b4ba02b23b496b852ce",
+    "drand_seed_hash": "a62f4389ce5307cdbf90d938b7030123c37421aa93081b032857206736bf09dfd68e2ee2ef2994840fe75f4b592ca2d9",
+    "client_seed": "1783276542919",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21,
+    "max_tickets": 50,
+    "combined_hash": "58c4409567d1200fd056af69a424bc0df9fe88b2cee144b70c2b13543162ef05",
+    "result": "3",
+    "external_round_id": "30157728",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:35:42.000000Z",
+    "revealed_at": "2026-07-05T18:35:48.000000Z"
+}
