@@ -1,0 +1,22 @@
+{
+    "round_id": "4b4af4f5-3fa2-4a01-8a09-808f1424b6eb",
+    "draw_title": "World Cup Team Hunt.",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/world-cup-team-hunt",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "af730f140a977942cd891c7d7fe73be9974189aa5b9fa40df4410a29867dfb1e",
+    "drand_seed_hash": "b81ae7b52658d28f4bde125bb56200a8b5ba7377abe0fd944864125974877cb10b4b44dbd644718b1467e79ce69d5113",
+    "client_seed": "1783280176640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1275,
+    "max_tickets": 7000,
+    "combined_hash": "7c1c4097a48d46b68a94f6c3fb88f9392c3040dc1d34e5a2fe4b0d2fa9d5b78e",
+    "result": "5213",
+    "external_round_id": "30158940",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:36:16.000000Z",
+    "revealed_at": "2026-07-05T19:36:24.000000Z"
+}
