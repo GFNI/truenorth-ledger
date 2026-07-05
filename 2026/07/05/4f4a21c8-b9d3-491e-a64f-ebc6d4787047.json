@@ -1,0 +1,22 @@
+{
+    "round_id": "4f4a21c8-b9d3-491e-a64f-ebc6d4787047",
+    "draw_title": "WIN 100 TICKETS INTO 25K COMP!! 05/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-100-tickets-into-25k-comp-0507",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "c8e23ea8f9ab2be5013c5b2866894f0ad8ad64930c42c683d29d101c98996861",
+    "drand_seed_hash": "a7aed5871c687a96a5780f768cd9707a1d90eab6e9e9781bf425514c43f5d2eb5a6abd486ac9362abb8c41802d9e8d0d",
+    "client_seed": "1783291237691",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14059,
+    "max_tickets": 15000,
+    "combined_hash": "6b1d8eca6034c875de12ec2caa9ef8dea8115e8e0bd916ada35b9846a949976f",
+    "result": "1276",
+    "external_round_id": "30162627",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T22:40:37.000000Z",
+    "revealed_at": "2026-07-05T22:40:45.000000Z"
+}
