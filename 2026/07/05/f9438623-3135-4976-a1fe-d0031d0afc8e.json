@@ -1,0 +1,22 @@
+{
+    "round_id": "f9438623-3135-4976-a1fe-d0031d0afc8e",
+    "draw_title": "Genestealer Cults Starter Bundle",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/genestealer-cults-starter-bundle-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "91c5fec09ca5e8ac2163eeeabe6e93508d919e62228e169f59d61680112173b7",
+    "drand_seed_hash": "b410bc0c92955c091fdce899085c17721e0d07f7a6a829841826e4b548906786302489e431b62b2f63b524e18bc2cf3d",
+    "client_seed": "1783280072454",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 272,
+    "max_tickets": 600,
+    "combined_hash": "66221fe52c29e797c68b552b41b8cae4c6aadcfce50cac49a16a1930e59bc9ad",
+    "result": "487",
+    "external_round_id": "30158905",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:34:32.000000Z",
+    "revealed_at": "2026-07-05T19:34:39.000000Z"
+}
