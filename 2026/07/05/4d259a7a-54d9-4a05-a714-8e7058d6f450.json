@@ -1,0 +1,22 @@
+{
+    "round_id": "4d259a7a-54d9-4a05-a714-8e7058d6f450",
+    "draw_title": "RING SPIN WIN £1000",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ring-spin-win-ps1000",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "af6c21144c026bf12f4d51a6e0c6ab1363cf4fdb6ae47dfa9a046b6aa4fa703e",
+    "drand_seed_hash": "9235a0acc6ec673a57a86c519072432ff62488c0827483e7f28c7bd0a17605662d974814719ffb38e0993ab2a5230c32",
+    "client_seed": "1783281824292",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2644,
+    "max_tickets": 4000,
+    "combined_hash": "b35ba45651f518414b1139d7fe836b805497673f8137dc9c7c89f7fba5e94867",
+    "result": "3956",
+    "external_round_id": "30159489",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T20:03:44.000000Z",
+    "revealed_at": "2026-07-05T20:03:51.000000Z"
+}
