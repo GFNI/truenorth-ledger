@@ -1,0 +1,22 @@
+{
+    "round_id": "7ecb686b-6384-4c6f-8e64-41309be0652d",
+    "draw_title": "The Fantastic 3 - 3 Winners of £300 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/the-fantastic-3-3-winners-of-ps300-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "13867c1bbfd7ca376466f3b03c3f2e76675663b0b48bcfe0adf297bfb141ff16",
+    "drand_seed_hash": "b00bee823e6470009ec51c3cd5568556d091496d5961c9139e85a1ca03bb5184dcb1d8ccab336214502cfd09f08fdfab",
+    "client_seed": "1783280068418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28910,
+    "max_tickets": 45450,
+    "combined_hash": "c81f5cd73ba446817482b2a0a78efe5839843e8b3bb6a95c340606d9416e7c45",
+    "result": "239",
+    "external_round_id": "30158904",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:34:28.000000Z",
+    "revealed_at": "2026-07-05T19:34:36.000000Z"
+}
