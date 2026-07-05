@@ -1,0 +1,22 @@
+{
+    "round_id": "2cc0f9ef-ee75-4553-9570-80057bf8a053",
+    "draw_title": "Win 50x Brand New 192.6g Silver Curb Chain Tickets (Draw 1)",
+    "competition_url": "https://expcomps.com/admin/products/win-50x-brand-new-1926g-silver-curb-chain-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "87eefa7498c63ffd76eec659923eff084ee15bc1c52ed57d837dd86e1b978861",
+    "drand_seed_hash": "a6f664b5d633e45078db469df486cd0d3c4094de61a95fb1f578f3e1363ed1d5fe3eab109adf05afe186b08a19d8ce4f",
+    "client_seed": "1783280272516",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 110,
+    "combined_hash": "b917907ffc8f9847653929ea71436e7b058dd802ea31d61da7250140dc2061a8",
+    "result": "30",
+    "external_round_id": "30158972",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:37:52.000000Z",
+    "revealed_at": "2026-07-05T19:38:00.000000Z"
+}
