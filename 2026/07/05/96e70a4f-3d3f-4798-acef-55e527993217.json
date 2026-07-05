@@ -1,0 +1,22 @@
+{
+    "round_id": "96e70a4f-3d3f-4798-acef-55e527993217",
+    "draw_title": "Travel Fridge Freezer (35L!)",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/travel-fridge-freezer-35l-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "346e9449eda5b430526f6fa01bcf56f1cdbb950d8c4447dfafb7205ddb25c9c5",
+    "drand_seed_hash": "958ba0eafd9d92bfe5a7f98ee79b806644cacd334a4c723698bd8ca444288db1c97858097ad2403effbdc12e004ee31b",
+    "client_seed": "1783279345843",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 300,
+    "combined_hash": "5a5b68058e7a480a89ed610e9713d76e2cec9735035d91dbcaa2fe6b546c921d",
+    "result": "111",
+    "external_round_id": "30158663",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:22:25.000000Z",
+    "revealed_at": "2026-07-05T19:22:33.000000Z"
+}
