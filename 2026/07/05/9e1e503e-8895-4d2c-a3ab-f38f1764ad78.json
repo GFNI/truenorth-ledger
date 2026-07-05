@@ -1,0 +1,22 @@
+{
+    "round_id": "9e1e503e-8895-4d2c-a3ab-f38f1764ad78",
+    "draw_title": "🍹 Ninja Slushie 🍹",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/ninja-slushie",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "d439baea40da7a0c2caaeea927f806becc7172339ffe5c14095ece26ea9d24b9",
+    "drand_seed_hash": "9245f380ace29c962867c89e72cefda4bff68ea84afa3f856740c864fa29c4a2d19e279b0a4823c1ae1d02a969aaae32",
+    "client_seed": "1783249719979",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1600,
+    "max_tickets": 1600,
+    "combined_hash": "f953d273164ff7cb98ca43c0c6d22f10e360cd62907f3de8634621eeffae31f0",
+    "result": "698",
+    "external_round_id": "30148788",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T11:08:40.000000Z",
+    "revealed_at": "2026-07-05T11:08:48.000000Z"
+}
