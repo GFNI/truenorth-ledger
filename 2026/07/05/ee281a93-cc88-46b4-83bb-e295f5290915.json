@@ -1,0 +1,22 @@
+{
+    "round_id": "ee281a93-cc88-46b4-83bb-e295f5290915",
+    "draw_title": "Ronaldinho 2006 Panini World Cup",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/ronaldinho-2006-panini-world-cup",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "d26a6910a71dda879ac90a8fc320f29c45fde2930e728faccad67b51fea7b004",
+    "drand_seed_hash": "aca541a3a48016755c3c214b3ca205e4f307908ef0c00267df3bfc5192155c7d4bf403e59d183cc3cb20db34dec68fb6",
+    "client_seed": "1783275064425",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38,
+    "max_tickets": 250,
+    "combined_hash": "7acd1fdbdba5fce12f36f28f4b2a47f5e360359688d3a9d16c8b07cadc36f00e",
+    "result": "23",
+    "external_round_id": "30157236",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:11:04.000000Z",
+    "revealed_at": "2026-07-05T18:11:12.000000Z"
+}
