@@ -1,0 +1,22 @@
+{
+    "round_id": "03362a1b-169b-41cf-bb8b-f7b3cf45dc76",
+    "draw_title": "Warhammer Kill Team: Tomb World + Instant Wins",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-kill-team-tomb-world-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "51c1ba3fa20396a9e4fd9f85e0c5a2ee484d87c7160aca1010b0d3e956668702",
+    "drand_seed_hash": "85b767fd3376f86d091266a60fe0b9bde0379bf43cb5d963a57a3ee8e030036942679df49a1fb73b41a86935becb1d9d",
+    "client_seed": "1783286876175",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 567,
+    "max_tickets": 1066,
+    "combined_hash": "3ebc4ed9e5b6560c9aa03ea9ee0d9488909dbdd2a8d65ec9629502fb063c4b48",
+    "result": "997",
+    "external_round_id": "30161172",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:27:56.000000Z",
+    "revealed_at": "2026-07-05T21:28:00.000000Z"
+}
