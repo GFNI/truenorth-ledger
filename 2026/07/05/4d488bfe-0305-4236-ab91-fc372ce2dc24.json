@@ -1,0 +1,22 @@
+{
+    "round_id": "4d488bfe-0305-4236-ab91-fc372ce2dc24",
+    "draw_title": "£1,500 for £20 Low Odds",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps1500-for-ps20-low-odds",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "fdf564eeeaba8b5fcd311703dad934fc35728729c77719b1d0163f9f55807f50",
+    "drand_seed_hash": "a599fad1410057281e291d4bc09aa31a87a7d6707bc2497996e205aa64bc5b705a724dce7ee8f04f9cdcd5a2d8b23b61",
+    "client_seed": "1783285841333",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 115,
+    "max_tickets": 120,
+    "combined_hash": "e14939cb2fed39ec3453117887a90f23556006c734dda11f8bf00e681c612577",
+    "result": "34",
+    "external_round_id": "30160828",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:10:41.000000Z",
+    "revealed_at": "2026-07-05T21:10:48.000000Z"
+}
