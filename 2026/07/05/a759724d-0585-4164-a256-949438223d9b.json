@@ -1,0 +1,22 @@
+{
+    "round_id": "a759724d-0585-4164-a256-949438223d9b",
+    "draw_title": "STICK OR TWIST! LIVE MYSTERY PRIZES!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/stick-or-twist-live-mystery-prizes-16",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "53eea536a5c95c9625e1563e66b9983bd8b67009828252a7e710ab4e6b8a4b70",
+    "drand_seed_hash": "b5cafc9b6e3fded1d38a89316da31f4923dbfac64df62245f1c6188a316127e0c03563690e4f64bea8072c0cbdf8ce38",
+    "client_seed": "1783287036297",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 394,
+    "max_tickets": 700,
+    "combined_hash": "a903b2297f5b626fddf1ee7060acd254716a01562a63d55f7eef561c3ce84b0a",
+    "result": "502",
+    "external_round_id": "30161226",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:30:36.000000Z",
+    "revealed_at": "2026-07-05T21:30:42.000000Z"
+}
