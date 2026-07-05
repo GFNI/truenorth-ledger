@@ -1,0 +1,22 @@
+{
+    "round_id": "f5ea4a66-53ff-4113-af4a-4496b6d4830b",
+    "draw_title": "FREE TO ENTER £50 SITE CREDIT BOOSTER!",
+    "competition_url": "https://theprizevault.co.uk/admin/products/free-to-enter-ps50-site-credit-booster",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "74667a1894a79d973c1aa4e332e15152635dec835f84796dab60dcd11047c39a",
+    "drand_seed_hash": "aebe09759435d7501c2262cb73059f8bb921d85e5fb0e0d8ead7588e50848b687f59f1b8ea0194b27ce3ad9b3c27cf13",
+    "client_seed": "1783278660636",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 1000,
+    "combined_hash": "f64bf87974d1329ad67b4a55469436a23d448eb727139805f91027a720825130",
+    "result": "511",
+    "external_round_id": "30158434",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:11:00.000000Z",
+    "revealed_at": "2026-07-05T19:11:06.000000Z"
+}
