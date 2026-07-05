@@ -1,0 +1,22 @@
+{
+    "round_id": "75ceae7b-c48b-4edc-b053-129602f0bfb7",
+    "draw_title": "WIN A THREE COURSE DINNER FOR TWO @ GALGORM 05/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-three-course-dinner-for-two-at-galgorm-0507",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "2bce4bbf17556509f3f9c865d41daecbc933d0562e4ea4b9e193fe6a2e7f2070",
+    "drand_seed_hash": "8e90e99ab0be265464217066ad95695ea569b8395571a709c2f0a2c1f222f9591a7c1ba92086413b6d22cc4949c4e6dc",
+    "client_seed": "1783285606379",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 378,
+    "max_tickets": 500,
+    "combined_hash": "45b2dcd6f86ee7016a2afa025537b84ffbae43e51b95e10237fc79dc1390e3c0",
+    "result": "282",
+    "external_round_id": "30160750",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:06:46.000000Z",
+    "revealed_at": "2026-07-05T21:06:54.000000Z"
+}
