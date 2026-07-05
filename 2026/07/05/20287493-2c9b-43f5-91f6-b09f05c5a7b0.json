@@ -1,0 +1,22 @@
+{
+    "round_id": "20287493-2c9b-43f5-91f6-b09f05c5a7b0",
+    "draw_title": "10k Scrather Instant Win Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/10k-scrather-instant-win-pot-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "77573c5131bb3aa9950674c7fbb4cf366cbbebee9bab06bfba5f7808fd31177b",
+    "drand_seed_hash": "99316b657982513320ae285b475f290647a6e77588ac3636d0bdcd1461d0b843b44720497fe08d53f990c37f722c326f",
+    "client_seed": "1783281410462",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3950,
+    "max_tickets": 22000,
+    "combined_hash": "3f4fdca27f6085baffb6cd581cc7a032ed7ddff8885361a35381d3c62f6f71de",
+    "result": "13200",
+    "external_round_id": "30159351",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:56:50.000000Z",
+    "revealed_at": "2026-07-05T19:56:57.000000Z"
+}
