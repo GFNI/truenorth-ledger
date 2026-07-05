@@ -1,0 +1,22 @@
+{
+    "round_id": "3dc4a8b4-b417-4cab-a7ed-66141848d319",
+    "draw_title": "£20K Cash Vault",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps20k-cash-vault",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "98dce9f2092a0c9ace0f547152778e5f412ebeb9f3d7e06f159060746795bb72",
+    "drand_seed_hash": "a487302ae86db09131d65f15b74a3d79b282df362852abc9e4aee085f547eb8feefe37d88eba7c1cef7647253f62cd45",
+    "client_seed": "1783283442614",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3243,
+    "max_tickets": 26000,
+    "combined_hash": "27a0291da0f87d0e8d88b407d58a8fc6f4f5b89ac57d2d2e0d34a4df41fdf89d",
+    "result": "25240",
+    "external_round_id": "30160028",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T20:30:42.000000Z",
+    "revealed_at": "2026-07-05T20:30:48.000000Z"
+}
