@@ -1,0 +1,22 @@
+{
+    "round_id": "28e0d064-9f93-4dba-917a-52449bd2908e",
+    "draw_title": "AFTERNOON TEA FOR 2!!🍰🫖",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/afternoon-tea-for-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "1d973b043aac3e0fb2675e3a3038e44cfd705b4a2dfc890cce62f4ff483bcf16",
+    "drand_seed_hash": "81b14a4fca4d510f9f1b51ca5a055bd53f9a24ec2196e0d9607489c7e9c0874fc868f739fd926eeb47bee6e1062b1579",
+    "client_seed": "1783285445113",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "ed2c05a1dfeb326c5a887976ea19a489321923374526e4520092d3104907941c",
+    "result": "8",
+    "external_round_id": "30160696",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:04:05.000000Z",
+    "revealed_at": "2026-07-05T21:04:12.000000Z"
+}
