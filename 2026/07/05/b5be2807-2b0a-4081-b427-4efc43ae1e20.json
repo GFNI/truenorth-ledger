@@ -1,0 +1,22 @@
+{
+    "round_id": "b5be2807-2b0a-4081-b427-4efc43ae1e20",
+    "draw_title": "FREE COMPETITION - Amazon",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/free-competition-amazon",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "148687ea7122e14cc1d6c9c35986d2c5c73d85cb56b5cbcf2eda2382b20d2d7c",
+    "drand_seed_hash": "a402fa534b4a1004f7ce6206c4cd5646b7a1de3305af05b992d13d34a550440cbc9685079505d2b5fc7d7bc5c4baeaaf",
+    "client_seed": "1783275081895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28,
+    "max_tickets": 1000,
+    "combined_hash": "d2284a8d5ec86b61686063532792a56996a72b1328cf3d71a45d4aac18bc5703",
+    "result": "571",
+    "external_round_id": "30157241",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:11:21.000000Z",
+    "revealed_at": "2026-07-05T18:11:27.000000Z"
+}
