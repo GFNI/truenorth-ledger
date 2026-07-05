@@ -1,0 +1,22 @@
+{
+    "round_id": "066321df-0a99-486f-88ca-e66838cb1359",
+    "draw_title": "WSB Recliner Chair",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/wsb-recliner-chair",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "3f20884a00769a764029911a65d976fc8edf66f9031787378ccfab27cbcc92f7",
+    "drand_seed_hash": "85a02a85e2024b75fd7bc5ff96a2c3afa4b605f141c0666fce19c289bf2c0c71163f948e79ef40c767161dd14174a5b9",
+    "client_seed": "1783279216869",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 300,
+    "combined_hash": "ca8437b578478de6992141f41dafec0261377b6a2366f3362feb31bc5be444ac",
+    "result": "271",
+    "external_round_id": "30158620",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:20:16.000000Z",
+    "revealed_at": "2026-07-05T19:20:24.000000Z"
+}
