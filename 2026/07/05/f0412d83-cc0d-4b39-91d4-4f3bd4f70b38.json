@@ -1,0 +1,22 @@
+{
+    "round_id": "f0412d83-cc0d-4b39-91d4-4f3bd4f70b38",
+    "draw_title": "NINJA FOODI AIRFRYER",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ninja-foodi-airfryer",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "6bddb7f354ba97375da3142e3767d094b29a34c737aae945ddfd902cb25cb045",
+    "drand_seed_hash": "953970f0cbbab9c614fc8ae432a3b80a9d2735c7ab2da04e10d58b96b0cf7d068b6699d8dc524e452417548380887964",
+    "client_seed": "1783275177442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 174,
+    "max_tickets": 250,
+    "combined_hash": "dfec14145bb75b889288c9bc6cfe4567afc8c8ae4870b7b3f58e70a1849d33eb",
+    "result": "180",
+    "external_round_id": "30157273",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:12:57.000000Z",
+    "revealed_at": "2026-07-05T18:13:03.000000Z"
+}
