@@ -1,0 +1,22 @@
+{
+    "round_id": "2ee67169-6f4c-413a-8a3e-cb54ead3a6be",
+    "draw_title": "💣 Bombs & Gems 💎",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/bombs-gems",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "7bc8c1f0bbb4dfd129575755c9de1bb31508839e02d1cade30dfe73819e8ff8f",
+    "drand_seed_hash": "a805e0d1e132dc15f086085cac777c18789d48a13194a2c7b1ccfe3a4b6970578743cc26295db2d48f323d8166730cf9",
+    "client_seed": "1783282244833",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179691,
+    "max_tickets": 500000,
+    "combined_hash": "8f66005bd03103830db1053d5c67156bdaa1b8128ce5e6c21f4d5db1d6818872",
+    "result": "252912",
+    "external_round_id": "30159629",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T20:10:44.000000Z",
+    "revealed_at": "2026-07-05T20:10:51.000000Z"
+}
