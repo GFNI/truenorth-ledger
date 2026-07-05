@@ -1,0 +1,22 @@
+{
+    "round_id": "44a649a0-348e-4ff0-8d33-57ca9e08de5a",
+    "draw_title": "Win 25x £500 Cash Tickets (Draw 3)",
+    "competition_url": "https://expcomps.com/admin/products/win-25x-ps500-cash-tickets-draw-3",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "9fda55ba3e92dec9537dfe74cd627d4d7523d45c96181ca122af336c6a39134d",
+    "drand_seed_hash": "872ec1807cab4c37c781af6a9b55c26c93ef04fa2170eceb272e8205a88eb80b76aebede4211c296cf6e9571d64bff7e",
+    "client_seed": "1783276842585",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 60,
+    "combined_hash": "9e9b206d93c2e60219946915a1df8728e665b8a6b73c77d9db5ba094d7ddb34c",
+    "result": "35",
+    "external_round_id": "30157828",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:40:42.000000Z",
+    "revealed_at": "2026-07-05T18:40:48.000000Z"
+}
