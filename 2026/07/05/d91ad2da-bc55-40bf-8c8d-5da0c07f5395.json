@@ -1,0 +1,22 @@
+{
+    "round_id": "d91ad2da-bc55-40bf-8c8d-5da0c07f5395",
+    "draw_title": "Nokta Accupoint",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/nokta-accupoint",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7594770aad459b6ace8303f1f528afd02cd30d79ad1e2193e65fff9ac3dba577",
+    "drand_seed_hash": "b54bb43d694745906b98d4a7311400ceb3a2ccdd07d94329b0dc7a0bec30009f945877f29c90cfdf1372fbacf64f8919",
+    "client_seed": "1783279460905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 214,
+    "max_tickets": 300,
+    "combined_hash": "da609f6ba4f150c4cc7cb4cbc44bd609d5faa9eed38d67dec93c48bb99a73392",
+    "result": "131",
+    "external_round_id": "30158701",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:24:20.000000Z",
+    "revealed_at": "2026-07-05T19:24:27.000000Z"
+}
