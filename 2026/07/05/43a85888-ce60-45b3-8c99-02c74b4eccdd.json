@@ -1,0 +1,22 @@
+{
+    "round_id": "43a85888-ce60-45b3-8c99-02c74b4eccdd",
+    "draw_title": "Warhammer Win Your £500 Army! — Winner’s Choice + £1.5K Instant Wins! #2",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-win-your-ps500-army-winners-choice-ps15k-instant-wins-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0a423a6a31ac225ec038825992d44e5f5cfe0636abc4887e6800b7fc2d54fcfb",
+    "drand_seed_hash": "a6de76e534b7a17bec35a25fa0c22e8b4c86bc4817d7e272d03466d2081c69e8d4188ce1d77ae246243210dae7d4260c",
+    "client_seed": "1783288432217",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1241,
+    "max_tickets": 3000,
+    "combined_hash": "083ad9ee6af1cd3c89f78c9963524100d1082b79dd46c3592108e05e69eafd7e",
+    "result": "2577",
+    "external_round_id": "30161692",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:53:52.000000Z",
+    "revealed_at": "2026-07-05T21:54:00.000000Z"
+}
