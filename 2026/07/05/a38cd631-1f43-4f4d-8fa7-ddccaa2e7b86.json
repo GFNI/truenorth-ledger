@@ -1,0 +1,22 @@
+{
+    "round_id": "a38cd631-1f43-4f4d-8fa7-ddccaa2e7b86",
+    "draw_title": "Amazon Fire HD Kids Pro Tablet",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/amazon-fire-hd-kids-pro-tablet",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "30c134d99a3e1f6e0d2db1f50ea3c0459a914844dd939d10f6d014b62e743365",
+    "drand_seed_hash": "8ec2a026a65dc95146fa65714eceadb34a42f63f36ef425e95f176f22a21a054c869e3d943e2ef810cf0d38c507b7a72",
+    "client_seed": "1783275032230",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 250,
+    "combined_hash": "237bb72f4839c585e2725d213c33e8526d2379f2289db4841c124ddf597a2916",
+    "result": "14",
+    "external_round_id": "30157225",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T18:10:32.000000Z",
+    "revealed_at": "2026-07-05T18:10:39.000000Z"
+}
