@@ -1,0 +1,22 @@
+{
+    "round_id": "4174746d-63d9-4a16-8be7-23276a3ce17b",
+    "draw_title": "Miller Carter Test (Child Draw)",
+    "competition_url": "https://www.a1-competitions.co.uk/raffles/three-x-ps50-miller-carter-steakhouse-vouchers-88319c4f-84a0-4554-a52f-9cffc2526833",
+    "operator": {
+        "name": "A1 Competitions",
+        "website": "https://www.a1-competitions.co.uk/",
+        "company_number": "SC880484"
+    },
+    "drand_server_seed": "196bc574c1f9ca51d138e4922fe38cc85b8796d171224b03d97698c5c15ea4d6",
+    "drand_seed_hash": "af19df5c038aca876f12ee256d46e41182c233883a881e26192a6b37e1d4deb537d167510e6d3a680fe0b03b49894622",
+    "client_seed": "1783264765751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 3000,
+    "combined_hash": "d68a27dbfd3f6fd26442d11b8be76dd07cd920eb2364e19fd55d885997ec33b9",
+    "result": "1751",
+    "external_round_id": "30153803",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T15:19:25.000000Z",
+    "revealed_at": "2026-07-05T15:19:33.000000Z"
+}
