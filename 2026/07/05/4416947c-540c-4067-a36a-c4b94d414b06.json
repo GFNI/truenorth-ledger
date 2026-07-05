@@ -1,0 +1,22 @@
+{
+    "round_id": "4416947c-540c-4067-a36a-c4b94d414b06",
+    "draw_title": "The Lucky Drop",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-lucky-drop",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "59a48da9445b4d35b5ae15aeae629be40799d80103bad17df0e23f4bbad91f74",
+    "drand_seed_hash": "a3063c16bc1a86b70844f02eba2299587464667b3970e8c9a27f674cf3e885d2be1a05cbdc914db4e9b1edbfac62fbdd",
+    "client_seed": "1783282253039",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 121092,
+    "max_tickets": 1000000,
+    "combined_hash": "b5f0e88dae9ad9150e82a663cdef38e8bf1c5d5fe671737b4006c4c839324164",
+    "result": "853430",
+    "external_round_id": "30159632",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T20:10:53.000000Z",
+    "revealed_at": "2026-07-05T20:11:00.000000Z"
+}
