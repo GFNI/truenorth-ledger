@@ -1,0 +1,22 @@
+{
+    "round_id": "fe01505a-b4b8-41db-89f4-17b568bfeb48",
+    "draw_title": "ACTIVE PLAYERS GIVEAWAY - 4 WINNERS",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/active-players-giveaway-4-winners",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "575d737623504528e5102d7bb6a4927bad2f0de2fe3747c0145a81a82727ec74",
+    "drand_seed_hash": "9584b3936dda3cf1a6f8c6e5878d98bd7c2ab42738ed0fcf4cf2a2df8dcc7e46c255c0a999d93ee0930989c3054a9a33",
+    "client_seed": "1783282522744",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53,
+    "max_tickets": 300,
+    "combined_hash": "6f7a740cde8905e3cbb06ec6b4dc2727c6642a4467ec38d5936c6994749d25dc",
+    "result": "212",
+    "external_round_id": "30159721",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T20:15:22.000000Z",
+    "revealed_at": "2026-07-05T20:15:27.000000Z"
+}
