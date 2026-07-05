@@ -1,0 +1,22 @@
+{
+    "round_id": "7f8cd82b-ceac-4263-a717-2677c7d9af69",
+    "draw_title": "One Piece EB02 Anime 25th Collection Booster Box + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/one-piece-eb02-anime-25th-collection-booster-box-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "ddba12d801b7846014114077d941976e1cf56b47bf9cbf27314c1e5918fd83c5",
+    "drand_seed_hash": "999b0440fb6a124db06b6d25d1c9408a380e4b8abe155e04426dd295c2d289165f2395addbcdcdec3eada5ce5df1fd0d",
+    "client_seed": "1783287174379",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 765,
+    "max_tickets": 1066,
+    "combined_hash": "d5e00ef4f34652bbf31bce6e52ef86ecfdefdcf96efef28edea1bf6aba519af8",
+    "result": "1034",
+    "external_round_id": "30161272",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T21:32:54.000000Z",
+    "revealed_at": "2026-07-05T21:33:00.000000Z"
+}
