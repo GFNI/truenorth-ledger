@@ -1,0 +1,22 @@
+{
+    "round_id": "13def0b0-30e2-4a49-8a6d-e01752a4e8d7",
+    "draw_title": "PSA 10 Cubone + Instant Wins!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/psa-10-cubone-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c4a5430ca26c24f39d536dccdee220138f19854c051b558b2321bc28abe81dae",
+    "drand_seed_hash": "93996fc10a81e83142e69113767b18b8d844bc3200e300accc137223ec1c98eeab5a65b7f9d55de7558add8137e658d8",
+    "client_seed": "1783280597006",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6136,
+    "max_tickets": 18000,
+    "combined_hash": "c6cd6b54465cdf341ea4f4080c2bac413a37477d9274856c5fe5e99d6235c11a",
+    "result": "3175",
+    "external_round_id": "30159080",
+    "processing_status": "completed",
+    "created_at": "2026-07-05T19:43:17.000000Z",
+    "revealed_at": "2026-07-05T19:43:24.000000Z"
+}
