@@ -1,0 +1,22 @@
+{
+    "round_id": "b6e75fa8-e993-4d9c-9d2a-d336361fd62c",
+    "draw_title": "Plinko",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/plinko",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "f58e99c5b40e50104a543143eefb4c94a2cdda6b2681913a8a47bee2484727a9",
+    "drand_seed_hash": "9923ce3e8beb2f382ac0c95638a22dc7084e0c08505769505e413988f3645e3b11f208d679677bae53217c3cc62ba399",
+    "client_seed": "1783365046835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75419,
+    "max_tickets": 159159,
+    "combined_hash": "b7239655b4a43eb78b0f8c23e3e12433456f6c0e1b292c5ccb13ceed771a72fe",
+    "result": "129565",
+    "external_round_id": "30187230",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T19:10:46.000000Z",
+    "revealed_at": "2026-07-06T19:10:54.000000Z"
+}
