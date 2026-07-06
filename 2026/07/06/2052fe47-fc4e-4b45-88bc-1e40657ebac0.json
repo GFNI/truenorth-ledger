@@ -1,0 +1,22 @@
+{
+    "round_id": "2052fe47-fc4e-4b45-88bc-1e40657ebac0",
+    "draw_title": "NINTENDO SWITCH 2 BUNDLE🦸🏼",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/nintendo-switch-2-bundle-17",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "be1d2674cfc0db569fd47113a2ea9fa9aec341380215ea2dee4f9fa96c49c89c",
+    "drand_seed_hash": "ad86b0688e93d0657477b6cabbace43aef87efeacaf0ebbc2aedd29a1ee8fe43e89bdb333ca7589758a29020db651566",
+    "client_seed": "1783364076351",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "06c629bbbbd8f0a54b24a6157b8f076408f2a08fcea102b2c1ae663ad594fd7e",
+    "result": "63",
+    "external_round_id": "30186906",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T18:54:36.000000Z",
+    "revealed_at": "2026-07-06T18:54:42.000000Z"
+}
