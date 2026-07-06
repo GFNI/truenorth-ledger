@@ -1,0 +1,22 @@
+{
+    "round_id": "fd287624-f242-4c93-8b63-b6518dfd36a8",
+    "draw_title": "Santa Race",
+    "competition_url": "https://jetcomps.co.uk/admin/products/santa-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "8bfc88046c2f16425312425f25b3a2e9cc25ff51cf709bb59091810fe9db1810",
+    "drand_seed_hash": "95ff39556b43bc06e11e8c87e097cce224bb26ce04de0960a601a5ccff5afe91623949aa1f08ec00fb63c1ef5924756f",
+    "client_seed": "1783364738047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 212692,
+    "max_tickets": 296250,
+    "combined_hash": "0d40313942f65d0f6732c2523fa1735219e9496cc4af219bfe63bf0b63c7bb4e",
+    "result": "271474",
+    "external_round_id": "30187127",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T19:05:38.000000Z",
+    "revealed_at": "2026-07-06T19:05:45.000000Z"
+}
