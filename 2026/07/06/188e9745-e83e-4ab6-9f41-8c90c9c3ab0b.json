@@ -1,0 +1,22 @@
+{
+    "round_id": "188e9745-e83e-4ab6-9f41-8c90c9c3ab0b",
+    "draw_title": "Manic Monday",
+    "competition_url": "https://ogcompetitions.co.uk/lists/manic-monday-14",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "f5eb17b0db5e4604b5389baf0b22166a41e11bad93b506009854d326add80913",
+    "drand_seed_hash": "9501ca5274c23590a7651aebab85641202a0d811e225e3a2655f213e8212e3c0ff8a8675e2ad0398f9d1174e3e4a21fd",
+    "client_seed": "1783372118687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 450,
+    "combined_hash": "057d7c8d37bbe9f489f8f4c1050f3801636c0ad27f035b39945d883785ae06ef",
+    "result": "426",
+    "external_round_id": "30189587",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T21:08:38.000000Z",
+    "revealed_at": "2026-07-06T21:08:48.000000Z"
+}
