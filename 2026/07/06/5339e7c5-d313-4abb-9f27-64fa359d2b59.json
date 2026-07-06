@@ -1,0 +1,22 @@
+{
+    "round_id": "5339e7c5-d313-4abb-9f27-64fa359d2b59",
+    "draw_title": "95 ENTRIES ONLY - KORDA KONTAINER SYSTEM 17L",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/95-entries-only-korda-kontainer-system-17l-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "1c3b494c702bd77ee4952a638c7e4834c31aa11b15e5f2acc03cf4a14d4bcda7",
+    "drand_seed_hash": "b4a88b0a0e4efcf70db866b85e896097d353c8ae5436ec5063145b58b611276284f2c53b01c5227cb16223ab185a6e4e",
+    "client_seed": "1783348899247",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 95,
+    "max_tickets": 95,
+    "combined_hash": "088f59a5a6fa3c904de8ed3930bfd39a861a78cb194033bc668001a8d7ce06f2",
+    "result": "46",
+    "external_round_id": "30181847",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T14:41:39.000000Z",
+    "revealed_at": "2026-07-06T14:41:45.000000Z"
+}
