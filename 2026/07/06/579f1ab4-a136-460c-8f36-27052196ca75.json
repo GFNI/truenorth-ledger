@@ -1,0 +1,22 @@
+{
+    "round_id": "579f1ab4-a136-460c-8f36-27052196ca75",
+    "draw_title": "10p Instant Wins £200 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/10p-instant-wins-ps200-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "25638625863e1b78a0fe6680d31f91e010b87aab004f5cbd05870f7a5973066a",
+    "drand_seed_hash": "b77c4f15f344c5c6f55a54ec3171b78bbe0c7a5c833b4f242684b34fb82fda5335d09a95a3c30e28cad96848b41ec0ad",
+    "client_seed": "1783372529228",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 30000,
+    "combined_hash": "994a984bba8405ac604f5b7b02289ed35ce1ac69a0d4e9dfd125595911dd21a1",
+    "result": "21770",
+    "external_round_id": "30189724",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T21:15:29.000000Z",
+    "revealed_at": "2026-07-06T21:15:36.000000Z"
+}
