@@ -1,0 +1,22 @@
+{
+    "round_id": "40a5cf1f-2a63-401d-bc34-9fcc0d40230d",
+    "draw_title": "Win A Stay At \"The Solana\"",
+    "competition_url": "https://jetcomps.co.uk/admin/products/win-a-stay-at-the-solana",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "3b7b378db8af3071f71f058407bf6a412008af43a583729dbcced4d7897d4fcb",
+    "drand_seed_hash": "af351b6a33e22b2e1c67d73110c4600f65f5c21cdd1ecb01764d0126983a2c895094c632801f0aafc8b7e05749193db1",
+    "client_seed": "1783367532266",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23507,
+    "max_tickets": 61999,
+    "combined_hash": "64ead20bbbb031fe125c5b31927c208f81bdf87bd46afc48b90cd1fa6ebd6a30",
+    "result": "37140",
+    "external_round_id": "30188058",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T19:52:12.000000Z",
+    "revealed_at": "2026-07-06T19:52:18.000000Z"
+}
