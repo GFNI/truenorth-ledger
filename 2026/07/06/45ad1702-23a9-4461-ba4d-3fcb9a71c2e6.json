@@ -1,0 +1,22 @@
+{
+    "round_id": "45ad1702-23a9-4461-ba4d-3fcb9a71c2e6",
+    "draw_title": "£10 Cash in the bank for 10 days DRAW 11",
+    "competition_url": "https://fireprizes.co.uk/admin/products/ps10-cash-in-the-bank-for-10-days-draw-11",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "5e96dd02e530dcc48a68f870808318431c021dc68acde8e2ba3a964cafde1421",
+    "drand_seed_hash": "b867e1dd65df93fc9a8ad6625240e1ba66179ae1f23b155e9327385be8d083ff3b9f02b28d46ea31e0052b593a23e88a",
+    "client_seed": "1783369892374",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 142,
+    "max_tickets": 777,
+    "combined_hash": "0097010fefa588986606c614f7515e8b8d042c9f1d11c415de3b39d817017d80",
+    "result": "447",
+    "external_round_id": "30188845",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T20:31:32.000000Z",
+    "revealed_at": "2026-07-06T20:31:39.000000Z"
+}
