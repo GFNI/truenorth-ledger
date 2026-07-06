@@ -1,0 +1,22 @@
+{
+    "round_id": "3b618f5e-f76a-4bc3-b212-432d57325172",
+    "draw_title": "Chaotic Open the Box - Round 7",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-open-the-box-round-7-4316",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "0d4eed8452956808fe36c6b42e24a872c805c48a30400f95301689775818729c",
+    "drand_seed_hash": "97236ac9ef98ed6b8409a1c8d607fec5813d6b3702bcdbbea5178b3ea65215cc1f379a683f79c45eccb6a0df706c41d8",
+    "client_seed": "1783367650031",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "39c5d92667b09969c26d73ffa4251b72ae237877eb0ed053bdcb57103a2e04e5",
+    "result": "2010",
+    "external_round_id": "30188097",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T19:54:10.000000Z",
+    "revealed_at": "2026-07-06T19:54:15.000000Z"
+}
