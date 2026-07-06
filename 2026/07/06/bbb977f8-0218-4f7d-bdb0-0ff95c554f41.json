@@ -1,0 +1,22 @@
+{
+    "round_id": "bbb977f8-0218-4f7d-bdb0-0ff95c554f41",
+    "draw_title": "👟 £300 JD Spends 👟",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps300-jd-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4e361f3c53aac828080409efd5d34a4c481d7ebc0bd17917a90647398b019b45",
+    "drand_seed_hash": "b04b9050ee734f4a6ee114c2431aae673c8016f20da882fcebed4389ed77cc9668f2ec1f2758fa76eb2f0cb5f3b4c2ea",
+    "client_seed": "1783363459940",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 590,
+    "max_tickets": 590,
+    "combined_hash": "02ebf161a8689ae09f92b883952125f900696276c8044848822da66bed955338",
+    "result": "481",
+    "external_round_id": "30186701",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T18:44:20.000000Z",
+    "revealed_at": "2026-07-06T18:44:27.000000Z"
+}
