@@ -1,0 +1,22 @@
+{
+    "round_id": "3432d07b-7f65-4f96-a32b-61680011eee9",
+    "draw_title": "🏨 2 Night Weekend Stay for 2 at Apex City of Edinburgh Hotel 🏨",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/2-night-weekend-stay-for-2-at-apex-city-of-edinburgh-hotel",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "dc3ff0ac66f387cdd93ffc3fcd3c30e9e15d958ecc5a2fb7a0ced8e316da847d",
+    "drand_seed_hash": "94b0bb4ec1e11f1abda8409f1547d21be47003a098d611724a16ce583354a250d757b40b94775aafc29103ce5c3088a7",
+    "client_seed": "1783363523382",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1100,
+    "max_tickets": 1100,
+    "combined_hash": "888caee3e543bd7cd04668e2f4973203cd1dc8dee98e0ad82a99258e9c7ef566",
+    "result": "673",
+    "external_round_id": "30186722",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T18:45:23.000000Z",
+    "revealed_at": "2026-07-06T18:45:30.000000Z"
+}
