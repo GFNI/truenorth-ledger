@@ -1,0 +1,22 @@
+{
+    "round_id": "6f38aabf-0118-418f-9e86-8289edcbbd81",
+    "draw_title": "🏰 Inflatable Water Park with Slide, Splash Pool and Bouncy Castle 🏰",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/inflatable-water-park-with-slide-splash-pool-and-bouncy-castle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "2f7c0310d9ac38965948afaf2643da71966d9d9843c2e93eb2d2f15e9a484bef",
+    "drand_seed_hash": "af7f3dca001c9f25cac4b83f9ab19788404e492588b9f3ab75128b3f32839309754d9e8540ed27e2a27955149f4b3a19",
+    "client_seed": "1783363674080",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 850,
+    "combined_hash": "a6342d4cd83820789f79d38a025b397af555f6c3699a1923a737faa12df43f10",
+    "result": "765",
+    "external_round_id": "30186772",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T18:47:54.000000Z",
+    "revealed_at": "2026-07-06T18:48:00.000000Z"
+}
