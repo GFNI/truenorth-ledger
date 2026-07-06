@@ -1,0 +1,22 @@
+{
+    "round_id": "3c09cf1c-7501-4f19-8d07-471f6cd0dd33",
+    "draw_title": "Pokemon Center Fukuoka Box",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pokemon-center-fukuoka-box",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "82a815d3f9b0365c0160c4ef1982c46ee4324ae5708fcd26628a9f04c178669e",
+    "drand_seed_hash": "934c5dcc49cd51cac1db9ad0e8fb3d00078268054b985dffb2f76efba176f358501aaae3f9c4c98dc9d5e61a4001e812",
+    "client_seed": "1783372237672",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 284,
+    "max_tickets": 300,
+    "combined_hash": "f79e36e7f70c93cf8b8492f9fc42b5b35e2d91bd507c57968ce335e23774d46c",
+    "result": "136",
+    "external_round_id": "30189626",
+    "processing_status": "completed",
+    "created_at": "2026-07-06T21:10:37.000000Z",
+    "revealed_at": "2026-07-06T21:10:42.000000Z"
+}
