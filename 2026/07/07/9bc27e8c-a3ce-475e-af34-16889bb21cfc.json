@@ -1,0 +1,22 @@
+{
+    "round_id": "9bc27e8c-a3ce-475e-af34-16889bb21cfc",
+    "draw_title": "£100 CLUB",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps100-club",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "eae4b2e746115e1b7f65e51cb4f434ce645885fe91473d14ebb73c3ebd97aac6",
+    "drand_seed_hash": "ae60764508e56c82437307f4ef329ac72816914522cccdf5f9cb437c25bc5b0d50d13d45d49969aea8fc6d6a242df48c",
+    "client_seed": "1783451263590",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "22a0d414c840b3de7c8d31b8f9acfae47f27966eb4badbc41b9fcc41ac9f6122",
+    "result": "147",
+    "external_round_id": "30215969",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T19:07:43.000000Z",
+    "revealed_at": "2026-07-07T19:07:51.000000Z"
+}
