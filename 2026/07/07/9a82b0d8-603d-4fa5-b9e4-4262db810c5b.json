@@ -1,0 +1,22 @@
+{
+    "round_id": "9a82b0d8-603d-4fa5-b9e4-4262db810c5b",
+    "draw_title": "Airmaster Tiger Air Compressor!!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/airmaster-tiger-air-compressor",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "f77caf4aade21d6f171ab92c3a7e3f36d23583c7943d7ff508a520dacd70921f",
+    "drand_seed_hash": "8ffd16a16729f07aec43cfb45eca201a46d727cc9178419186728edaff45f89a7a5d1e1f240e79f7b859f5a6d048b3bd",
+    "client_seed": "1783458666503",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 250,
+    "combined_hash": "e7ce212875282f6729f8dca17759761e2b6553f7bba13d42f54fc961eda16ab5",
+    "result": "46",
+    "external_round_id": "30218436",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T21:11:06.000000Z",
+    "revealed_at": "2026-07-07T21:11:12.000000Z"
+}
