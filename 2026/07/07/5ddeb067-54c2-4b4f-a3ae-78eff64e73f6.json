@@ -1,0 +1,22 @@
+{
+    "round_id": "5ddeb067-54c2-4b4f-a3ae-78eff64e73f6",
+    "draw_title": "🥇 BOLT'S GOLDEN GAMES – Scratch the Medals & Win Cash",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/bolts-golden-games-scratch-the-medals-win-cash",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "ce08cf23738b5354e11c415073c6ab9d3ec2ed83ce2f05b09a5d9f327a43a9d3",
+    "drand_seed_hash": "b9dea2cb7999f10db218d9387152d92213d4e6d44a8957f52fac3855dee1ba2690dcd7c03908daa93871942df972ecb7",
+    "client_seed": "1783447837514",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1602,
+    "max_tickets": 2500,
+    "combined_hash": "9d8b55540cfe8d910821d0de5a7ebb79f7113fdbe53901db3cd8e1bdc21ff54f",
+    "result": "2446",
+    "external_round_id": "30214827",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T18:10:37.000000Z",
+    "revealed_at": "2026-07-07T18:10:45.000000Z"
+}
