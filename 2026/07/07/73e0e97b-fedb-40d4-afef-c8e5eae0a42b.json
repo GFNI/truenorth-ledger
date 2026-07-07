@@ -1,0 +1,22 @@
+{
+    "round_id": "73e0e97b-fedb-40d4-afef-c8e5eae0a42b",
+    "draw_title": "🏆IT'S COMIN HOME🏆",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/its-comin-home",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "2c7f67ca9c1f3560b70fc18e44970f910ff5aec68cb3caf405a1aaf14bc4ad11",
+    "drand_seed_hash": "9277ba77d52107bc83838b4c6d7a1fe77cd4ceae0205db3ee24436ff7b9af5ba45cde7e8103af112f9c5bc00f5507910",
+    "client_seed": "1783447783922",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2254,
+    "max_tickets": 10000,
+    "combined_hash": "d510fafd2871354035f483232c7a787290f83c393d4c25ad1247d75b0129948a",
+    "result": "3958",
+    "external_round_id": "30214809",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T18:09:44.000000Z",
+    "revealed_at": "2026-07-07T18:09:51.000000Z"
+}
