@@ -1,0 +1,22 @@
+{
+    "round_id": "2e8bd40d-f86c-4926-8c08-2e142e53b893",
+    "draw_title": "Lucky Penny - £100 End Prize",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/lucky-penny-ps100-end-prize-6",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "90ed6868417c806acdf23406fb89ff0d78837dba28758e62125a4d743a42eeee",
+    "drand_seed_hash": "872412f600a523f5cb4aebebbe5a8250c23a1d6bd430b8aa09ef6c335fc4a65d4d862e32a58183bd733ee09263f7a9d3",
+    "client_seed": "1783454757196",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 303397,
+    "max_tickets": 1000000,
+    "combined_hash": "439ec0e0abd65399db97660b23b5a82390aabdbb731042e49f0280ff0abbfa7c",
+    "result": "719812",
+    "external_round_id": "30217133",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T20:05:57.000000Z",
+    "revealed_at": "2026-07-07T20:06:03.000000Z"
+}
