@@ -1,0 +1,22 @@
+{
+    "round_id": "d3c77f88-1bf7-44a4-8b2c-faa4366998df",
+    "draw_title": "Win £200 For 2p 💰 Daily Draw - Tuesday",
+    "competition_url": "https://topdogprizes.com/admin/products/win-ps200-for-2p-daily-draw-tuesday",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "b1dee4b2cbf3f3b1d46b67973fd5181135b7d63632fa1c84402460cda926425a",
+    "drand_seed_hash": "854e9d07e715ec201a8c85dc642fca6af8607d56ffc8aa4fe48c20ab2c7aa723c89e8d8202479c5ecd98e9ec386487c7",
+    "client_seed": "1783458672722",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11750,
+    "max_tickets": 21999,
+    "combined_hash": "543310d8e56a999358f7ba9d1f1dc83fb6d7dc0413d6083851451e3b7dcc767f",
+    "result": "11150",
+    "external_round_id": "30218438",
+    "processing_status": "completed",
+    "created_at": "2026-07-07T21:11:12.000000Z",
+    "revealed_at": "2026-07-07T21:11:18.000000Z"
+}
