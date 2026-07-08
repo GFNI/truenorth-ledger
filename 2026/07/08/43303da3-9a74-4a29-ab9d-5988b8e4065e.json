@@ -1,0 +1,22 @@
+{
+    "round_id": "43303da3-9a74-4a29-ab9d-5988b8e4065e",
+    "draw_title": "EARLY BIRD DOUBLE TICKETS - £500 + Instants",
+    "competition_url": "https://proprizes.co.uk/admin/products/early-bird-double-tickets-ps500-instants",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "a15f37ab9780f4339522317a58bee0f9d3a4c46aaf5983932fd197e566f3348d",
+    "drand_seed_hash": "8ed43b43fedf061887eef8bc540aa1797092b2065e1b8520a9fffff991f2b41b9b5bd87aacb66ac71632e5b007cd3dc7",
+    "client_seed": "1783545049904",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9746,
+    "max_tickets": 22500,
+    "combined_hash": "5c6c6824f81f8d1d0797c12475601831110ba078d9c598ef1c6cafb734205688",
+    "result": "15761",
+    "external_round_id": "30247231",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T21:10:49.000000Z",
+    "revealed_at": "2026-07-08T21:10:57.000000Z"
+}
