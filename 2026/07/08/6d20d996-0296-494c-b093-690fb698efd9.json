@@ -1,0 +1,22 @@
+{
+    "round_id": "6d20d996-0296-494c-b093-690fb698efd9",
+    "draw_title": "G-MANS TUB TIME! WIN A HOT TUB FOR JUST 5P! PLUS £10,000 OF INSTANT WINS",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/g-mans-tub-time-win-a-hot-tub-for-just-5p-plus-ps10000-of-instant-wins",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "7e80d82d2b0cb6df05f4b558bc460e36f3cef40e27cd7bd5bd53af66a2a6cebb",
+    "drand_seed_hash": "a5d5a6aedc502d1f586e4b83a64d8844515653beebba2d80921f239d125dfe1c89e14a7f5bdb6cbf37fca348ccd29085",
+    "client_seed": "1783539302902",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 114988,
+    "max_tickets": 600000,
+    "combined_hash": "0ad4e6b928dd20e0b34fc42b9b8e1e420592bcf8900e8db02ca09feecfcb02ed",
+    "result": "112523",
+    "external_round_id": "30245315",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T19:35:02.000000Z",
+    "revealed_at": "2026-07-08T19:35:09.000000Z"
+}
