@@ -1,0 +1,22 @@
+{
+    "round_id": "f45a3d7b-5eb9-431d-ae07-39b53b7f1d46",
+    "draw_title": "Warhammer Astra Militarum Baneblade — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-astra-militarum-baneblade-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "28d29ca408be6ac38c9f4c407400529a4db8aa6e110e8ca61afc64fa2b67b0dd",
+    "drand_seed_hash": "87e2e9f433eb1a9f89456edd08685522898a0405235002e911e142046f1b6f9d1ff678ba3fbfb306290ea774927ec8d6",
+    "client_seed": "1783545221786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 150,
+    "combined_hash": "f5a9b72b9b0bb651faebcc3f5932e22b8299dd4f6a184f4dfb91834d44aa42f0",
+    "result": "86",
+    "external_round_id": "30247288",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T21:13:41.000000Z",
+    "revealed_at": "2026-07-08T21:13:48.000000Z"
+}
