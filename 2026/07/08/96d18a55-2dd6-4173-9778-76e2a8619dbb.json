@@ -1,0 +1,22 @@
+{
+    "round_id": "96d18a55-2dd6-4173-9778-76e2a8619dbb",
+    "draw_title": "Primark Gift Card",
+    "competition_url": "https://redlemonx.co.uk/admin/products/primark-gift-card",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "c96a209bd8a0eee15495a5ec769fc54f4745e913e90a8e882fad31da86bbd9fe",
+    "drand_seed_hash": "a59346a8071967fdc822c620b975602581b2f56d983d9bd75bcef5e86210de5abb4a3effeb47f1d047d31b9898be2cad",
+    "client_seed": "1783519362639",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "7ca7115232c91e376f58f0aea191d28c0dd3073f4ab619fbbe23b6504205d7b1",
+    "result": "1",
+    "external_round_id": "30238668",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T14:02:42.000000Z",
+    "revealed_at": "2026-07-08T14:02:48.000000Z"
+}
