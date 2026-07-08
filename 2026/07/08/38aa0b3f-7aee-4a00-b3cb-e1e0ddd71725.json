@@ -1,0 +1,22 @@
+{
+    "round_id": "38aa0b3f-7aee-4a00-b3cb-e1e0ddd71725",
+    "draw_title": "WIN £333 CASH!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps333-cash",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "82398ab15f936e722dc4bc3a89ceb4460195314ca0f3ebc278a74a1f5ba0cab2",
+    "drand_seed_hash": "b668c8f2c121e2be526cd86f7f7c8ffac53eae1c9250254eab768299cd337ee0ff3316b69f6c10aef72e7fee23562475",
+    "client_seed": "1783544628966",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12229,
+    "max_tickets": 25000,
+    "combined_hash": "ebc480c9ce51812700d2538b2c4d551f2317e3e06b8801240fe9c43a28322d7e",
+    "result": "9436",
+    "external_round_id": "30247091",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T21:03:49.000000Z",
+    "revealed_at": "2026-07-08T21:03:57.000000Z"
+}
