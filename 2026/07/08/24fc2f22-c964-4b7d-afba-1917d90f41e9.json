@@ -1,0 +1,22 @@
+{
+    "round_id": "24fc2f22-c964-4b7d-afba-1917d90f41e9",
+    "draw_title": "Ultra Powerful Torch Kit",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ultra-powerful-torch-kit",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d423a11b15615f1aaa0b696b98b5ad78db5b6d2739ee80fff7e805f9f0a24bc5",
+    "drand_seed_hash": "85af297a0bdf5381f06911813609d9537961f57177a8b0a1840ff2209bb9ac61d9106f0c6df546c749f43e21795c2029",
+    "client_seed": "1783538187637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110,
+    "max_tickets": 200,
+    "combined_hash": "f909dfd838a80477f3deb6768196a7dbf1cba4bb8fbe730c44b38f32d32bbae3",
+    "result": "138",
+    "external_round_id": "30244943",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T19:16:27.000000Z",
+    "revealed_at": "2026-07-08T19:16:33.000000Z"
+}
