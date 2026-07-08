@@ -1,0 +1,22 @@
+{
+    "round_id": "10f54d8d-00e1-4d47-b50c-d71eb4d6241f",
+    "draw_title": "WIN A £500 VOUCHER FOR GALGORM RESORT & SPA! 08/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps500-voucher-for-galgorm-resort-spa-0807-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "3cca19e36fef90590edad4c8a82d77ca454a7aa4c7bfd16cf20af4b309bd39d5",
+    "drand_seed_hash": "9a000db8dc939b8775d0b56538d9c7686b4a85e956220a3481aab17145144185c3e3c001d2027e7c496750033f6e33f0",
+    "client_seed": "1783544698459",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57117,
+    "max_tickets": 100000,
+    "combined_hash": "856a751f68d02bb00039cd8a4361a58a1d528c67a290de84702f765915b1061f",
+    "result": "88678",
+    "external_round_id": "30247114",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T21:04:58.000000Z",
+    "revealed_at": "2026-07-08T21:05:06.000000Z"
+}
