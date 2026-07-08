@@ -1,0 +1,22 @@
+{
+    "round_id": "5f46436d-e5d8-4475-9da8-21fd3693f1fb",
+    "draw_title": "Full Box of Double Deckers!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/full-box-of-double-deckers-4",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "b9335d8b67a46e37c94bded217b2d8dc8e1df59ead0afcd52fb24108ccb48f9f",
+    "drand_seed_hash": "931e1d6db18e741d84e8b26f564feecd65d12373002b225ff190955205e7b0dac69a2483958ecbafb50bf20f4f5cb56f",
+    "client_seed": "1783538593494",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 250,
+    "combined_hash": "90b78898240289ad8c7b95f81b49520a7c87f3adbfcb6ec50f92882c8f6b40f0",
+    "result": "221",
+    "external_round_id": "30245079",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T19:23:13.000000Z",
+    "revealed_at": "2026-07-08T19:23:21.000000Z"
+}
