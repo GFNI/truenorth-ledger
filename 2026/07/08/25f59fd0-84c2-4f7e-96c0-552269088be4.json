@@ -1,0 +1,22 @@
+{
+    "round_id": "25f59fd0-84c2-4f7e-96c0-552269088be4",
+    "draw_title": "The Croc Vault - £100 to Spend on Crocs + Croc Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/the-croc-vault-ps100-to-spend-on-crocs-croc-instant-wins",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "c489fd4b6921da4812c8e47e00e8c7e53b182e4875a057c7720a9c01d68ab886",
+    "drand_seed_hash": "87e270a2bf8b24f96c1123fc891081bdef35c3fa698a26deaad20fec56bd251673aa881321a74736537225a3e59d47f5",
+    "client_seed": "1783537844659",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 158,
+    "max_tickets": 5650,
+    "combined_hash": "5a58fb0535d48a2021b2b0bd1df4b49a4f6a6fac3ce24b3c1e5764f3249758ba",
+    "result": "2935",
+    "external_round_id": "30244829",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T19:10:44.000000Z",
+    "revealed_at": "2026-07-08T19:10:51.000000Z"
+}
