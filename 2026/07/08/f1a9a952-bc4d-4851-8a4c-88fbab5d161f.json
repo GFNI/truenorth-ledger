@@ -1,0 +1,22 @@
+{
+    "round_id": "f1a9a952-bc4d-4851-8a4c-88fbab5d161f",
+    "draw_title": "DAILY AUTO DRAWN FREEBIE WEDNESDAY",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/daily-auto-drawn-freebie-wednesday-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "865eefdd14f9269841617ff0fb3f8c57b21c8236a150b9854610febef8551da5",
+    "drand_seed_hash": "81d5ded1e2e5a8d9c5c401653ec975d1cb18c643d24f302345cefe0a87087195c40faf6583e727c50bbfa92b26d5e8c5",
+    "client_seed": "1783535321839",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "0336eaad56dbb109542d0480d87e5c02b0cdba87e3a2ad1fbb3d581bd1d5e8b4",
+    "result": "20",
+    "external_round_id": "30243988",
+    "processing_status": "completed",
+    "created_at": "2026-07-08T18:28:41.000000Z",
+    "revealed_at": "2026-07-08T18:28:48.000000Z"
+}
