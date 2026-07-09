@@ -1,0 +1,22 @@
+{
+    "round_id": "6960370c-0b1e-4d9f-936f-ee3b1af12af6",
+    "draw_title": "£5K ENTER FOR 80P",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps5k-enter-for-80p-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "adca8df883f489e3a00c0129f09c5ecf12be10e847391e1dfae7cd8070afb5b2",
+    "drand_seed_hash": "80e8958ab1981ba108b06baa2b12fb2bcac65d01e2b7c48a293a2600baf2b58029491e7ac66bb7886f982d8a44538526",
+    "client_seed": "1783623175278",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9375,
+    "max_tickets": 9375,
+    "combined_hash": "cb4eeeee34389d03d67f8af94d227d2ced18e3eadb53cffdaecd1caba565d6a6",
+    "result": "4523",
+    "external_round_id": "30273273",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:52:55.000000Z",
+    "revealed_at": "2026-07-09T18:53:03.000000Z"
+}
