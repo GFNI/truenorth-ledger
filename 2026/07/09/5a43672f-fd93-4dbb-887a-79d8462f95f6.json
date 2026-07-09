@@ -1,0 +1,22 @@
+{
+    "round_id": "5a43672f-fd93-4dbb-887a-79d8462f95f6",
+    "draw_title": "WIN 15 TICKETS ON THE 2027 KTM 250XCW FOR A QUID! (Draw 2)",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-15-tickets-on-the-2027-ktm-250xcw-for-a-quid-draw-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "cfc43ab5d5fb0680fd0cff8f2e4a03989e019f36b20153071d5ed237e976ee7b",
+    "drand_seed_hash": "8345b97c47d02b8795357adbbed67fb36594965fdc90cf9246da3436bd13c77b2a5e71529d95791cefc70770f313b0f6",
+    "client_seed": "1783585781676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 350,
+    "max_tickets": 350,
+    "combined_hash": "c99fb5609adc7a2374acad5a256005109bc3cadaea633595fdb9307396e4dc3b",
+    "result": "8",
+    "external_round_id": "30260808",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T08:29:41.000000Z",
+    "revealed_at": "2026-07-09T08:29:48.000000Z"
+}
