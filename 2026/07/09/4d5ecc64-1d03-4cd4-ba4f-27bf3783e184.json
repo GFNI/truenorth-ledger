@@ -1,0 +1,22 @@
+{
+    "round_id": "4d5ecc64-1d03-4cd4-ba4f-27bf3783e184",
+    "draw_title": "One Penny Frenzy",
+    "competition_url": "https://jetcomps.co.uk/admin/products/pennyfrenzy",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "b3020fdaf29803c2f781ea5c3e4325e14ed55d7c0cf81135d469093215430b7b",
+    "drand_seed_hash": "aecdbf32020411031b10ae72746e6f9589f07fa0f14b386195c08f37ddfbc0b257d181e05f3832065f266e2fc333cdda",
+    "client_seed": "1783625220449",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 991674,
+    "max_tickets": 999999,
+    "combined_hash": "62ec8dbb16ccb1cdbb4ea62a327cd58924baeed7bcc693095840ec87fdb39485",
+    "result": "643629",
+    "external_round_id": "30273954",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T19:27:00.000000Z",
+    "revealed_at": "2026-07-09T19:27:06.000000Z"
+}
