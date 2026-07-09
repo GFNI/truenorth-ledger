@@ -1,0 +1,22 @@
+{
+    "round_id": "77eea5b7-d5bb-436f-9d0b-684868372f60",
+    "draw_title": "Win £20 worth of tickets into Shark FlexBreeze Hydrogo Misting fan - 1p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-ps20-worth-of-tickets-into-shark-flexbreeze-hydrogo-misting-fan-1p-a",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "802c641db1f7db66b476950643e32c128396c3ef73fea9c44f4e716870abfafa",
+    "drand_seed_hash": "8563aeb74baa00c0aeea2ea6e427fd20eb1a69271e9f346d51b34b6e8e80ee3609763dfbd4169eb318be636a421e6527",
+    "client_seed": "1783591421560",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "e7c87084ad7200ae27f8b12ceb967e595b80ba36ea5135ddebc14081a62685b9",
+    "result": "976",
+    "external_round_id": "30262688",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T10:03:41.000000Z",
+    "revealed_at": "2026-07-09T10:03:48.000000Z"
+}
