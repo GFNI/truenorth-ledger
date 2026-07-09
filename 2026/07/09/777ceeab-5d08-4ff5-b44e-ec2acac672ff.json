@@ -1,0 +1,22 @@
+{
+    "round_id": "777ceeab-5d08-4ff5-b44e-ec2acac672ff",
+    "draw_title": "NINJA Luxe Coffee Machine Bundle ☕",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-luxe-coffee-machine-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "766cec33523acbc5226631b82283d3bcbc2b828137fd5482cdef333ca4b02eeb",
+    "drand_seed_hash": "b79bce1b163d27c008179ff567cfd3d4686c2cd4b44714bb61bb3e9b85f398ff0b5f0aeb57481209fe97bb7039ab5da1",
+    "client_seed": "1783622171132",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "25c1a1d0614550be16b4194ce9f21ab1d0e51856e51d9a7cbe0972e41aaaca1a",
+    "result": "670",
+    "external_round_id": "30272938",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:36:11.000000Z",
+    "revealed_at": "2026-07-09T18:36:18.000000Z"
+}
