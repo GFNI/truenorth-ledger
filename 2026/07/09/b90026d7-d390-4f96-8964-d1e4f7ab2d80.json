@@ -1,0 +1,22 @@
+{
+    "round_id": "b90026d7-d390-4f96-8964-d1e4f7ab2d80",
+    "draw_title": "COSMICS BINGO WINGO - £2000 PRIZE POOL",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/cosmics-bingo-wingo-ps2000-prize-pool-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "40bbf0ad2cc1a102e36b657771dc62e3c53a70c41d376ad304b504827578f3b1",
+    "drand_seed_hash": "a763f855a0e35837edb08f5234641122ca7128311fce28c8a9c06af8bf63f535b321eecea70f9c194ab24a229b455521",
+    "client_seed": "1783633734068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 620,
+    "max_tickets": 2222,
+    "combined_hash": "25b6f78af174375a8bc0a5e557baa16cea03f4568f62049cc9d50eace0f1e7b3",
+    "result": "780",
+    "external_round_id": "30276792",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T21:48:54.000000Z",
+    "revealed_at": "2026-07-09T21:49:00.000000Z"
+}
