@@ -1,0 +1,22 @@
+{
+    "round_id": "5227e8b8-99f9-4090-9031-2bc1c62ea951",
+    "draw_title": "🌲 1 Night Spa Break for 2 at Macdonald Forest Hills Hotel & Resort, Stirlingshire 🌲",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/1-night-spa-break-for-2-at-macdonald-forest-hills-hotel-resort-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "66ef79fd4efa5d9d29dd1ef4d6ab98189986334b1bfb7c52e7bdac0d10b1a7a0",
+    "drand_seed_hash": "af28325e209954bdb421fa1a072b226c377618dab305c3d0d687d3db1e468933305f0b57e3732a07c3670f84453a2280",
+    "client_seed": "1783622752445",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 849,
+    "max_tickets": 880,
+    "combined_hash": "aa097f53195caefe1ddbc4399bef8928723307e021086788ef9e0e4a8333848e",
+    "result": "315",
+    "external_round_id": "30273132",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:45:52.000000Z",
+    "revealed_at": "2026-07-09T18:46:00.000000Z"
+}
