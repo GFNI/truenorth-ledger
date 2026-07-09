@@ -1,0 +1,22 @@
+{
+    "round_id": "914b2402-1eaf-49cf-9e3b-783afc311809",
+    "draw_title": "BINGO MONDAYS",
+    "competition_url": "https://qualityprizesqp.com/admin/products/bingo-mondays",
+    "operator": {
+        "name": "Quality Prizes QP LTD",
+        "website": "https://qualityprizesqp.com",
+        "company_number": "13193494"
+    },
+    "drand_server_seed": "18f1a56f9a1a5c121a00c8dec864450cd9104769263aebbba98c2841871de685",
+    "drand_seed_hash": "841362ec0f1dae8e67159ce287f9bc26aed8d508e611a224c02ded16caf0d3dbfb94ea6c29830ad3ab6dd81fd44d2c93",
+    "client_seed": "1783620216677",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5137,
+    "max_tickets": 23500,
+    "combined_hash": "ad721b64fe9f900e85c92f4e3be0d5465bf2a68e3c753661eade03dec3f4a8c6",
+    "result": "22430",
+    "external_round_id": "30272286",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:03:36.000000Z",
+    "revealed_at": "2026-07-09T18:03:42.000000Z"
+}
