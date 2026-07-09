@@ -1,0 +1,22 @@
+{
+    "round_id": "a9897f57-770d-455a-b55c-483269d73f0e",
+    "draw_title": "Free Giveaway! Win a £25 Voucher of Choice + Cash and Site Credit Instant Wins - Spend £1 at checkout and boost win to Shark Fan! - Free",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/free-giveaway-win-a-ps25-voucher-of-choice-cash-and-site-credit-instant",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "3268e370d73cf3943bd97d33cc8feebd0b51faa69855261b10f8b989f5edbb17",
+    "drand_seed_hash": "b42a1d28d64d54622748ca3d7c3e6bada3bcd38ea9e23bee10953788c767589b2621379d9145b8fe8640dea9b5cc2574",
+    "client_seed": "1783621020846",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "e497a4cd637755daba66a1f66871c5bdefa75ce80b8f3536f8adf60c1045de42",
+    "result": "69",
+    "external_round_id": "30272554",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:17:00.000000Z",
+    "revealed_at": "2026-07-09T18:17:06.000000Z"
+}
