@@ -1,0 +1,22 @@
+{
+    "round_id": "7be94e6c-ee61-4018-b769-f68bc6f26e39",
+    "draw_title": "Free Pet Cooling Mat",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/free-pet-cooling-mat",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "b54c488ad1279b94049524fab455bb45e5e9fae370dc17e103404af746dd7e56",
+    "drand_seed_hash": "887de1b26b0c3d1a52b2ac92b341b6a411386e77d201a30366970bc752cc4c1567c7aaa1316140acda228fcd7dd0cbaf",
+    "client_seed": "1783597327778",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "1994a8db767d46351bfb70ec9798e697622b3e73c36e6440900235bb8d4a44dc",
+    "result": "66",
+    "external_round_id": "30264657",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T11:42:07.000000Z",
+    "revealed_at": "2026-07-09T11:42:15.000000Z"
+}
