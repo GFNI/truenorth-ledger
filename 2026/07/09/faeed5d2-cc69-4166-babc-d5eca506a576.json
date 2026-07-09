@@ -1,0 +1,22 @@
+{
+    "round_id": "faeed5d2-cc69-4166-babc-d5eca506a576",
+    "draw_title": "🦗 Bosch VisiMow18V-200 Robotic Lawn Mower 🦗",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bosch-visimow18v-200-robotic-lawn-mower",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c10bc478988e9822189c5498a1b00e2819d61c590713fdba521e6b4e5e2c2837",
+    "drand_seed_hash": "a98a0bc06e951b1858d27a64d5cc565ec62d55a5999593907730845f0e390d5526ac9aa6868b10415a635ad4cc19b12f",
+    "client_seed": "1783622254703",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 930,
+    "max_tickets": 930,
+    "combined_hash": "78fc86d781535ea62b79a2b072e4038270fb1f3e7646215446496456acd6242b",
+    "result": "17",
+    "external_round_id": "30272966",
+    "processing_status": "completed",
+    "created_at": "2026-07-09T18:37:34.000000Z",
+    "revealed_at": "2026-07-09T18:37:42.000000Z"
+}
