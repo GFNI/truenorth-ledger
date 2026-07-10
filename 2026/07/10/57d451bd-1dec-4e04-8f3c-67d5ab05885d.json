@@ -1,0 +1,22 @@
+{
+    "round_id": "57d451bd-1dec-4e04-8f3c-67d5ab05885d",
+    "draw_title": "Ton Up",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ton-up-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "e198e2756105c525963ce3274b376f082ce0a2d9088556ab0616942e9354a496",
+    "drand_seed_hash": "adf1b249ee65c4802849b144ad5dae4a663ea358dfc188eb97a07408c9ae14cf2c6e72dbf9af0943070a527d635af9b1",
+    "client_seed": "1783715448597",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2395,
+    "max_tickets": 9999,
+    "combined_hash": "5236b893892d3d6a3b10b6a28faf1ac7e15e1c04522556631986d025deb6e61b",
+    "result": "1140",
+    "external_round_id": "30304030",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T20:30:48.000000Z",
+    "revealed_at": "2026-07-10T20:30:54.000000Z"
+}
