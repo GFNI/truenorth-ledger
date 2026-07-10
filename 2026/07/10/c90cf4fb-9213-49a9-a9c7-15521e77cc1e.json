@@ -1,0 +1,22 @@
+{
+    "round_id": "c90cf4fb-9213-49a9-a9c7-15521e77cc1e",
+    "draw_title": "50K DEAL OR NO DEAL POT",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/50k-deal-or-no-deal-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "bca708a212bf63864b4e6d8cf233f1f56e6aa04d2b36321c2ffe637cf3ebf6b4",
+    "drand_seed_hash": "a91057624f84820d0f766dfc456b132b4a8e3ac4c2666653e504eefab57794f5a5447a966aa89ae61caab0a23ccbc799",
+    "client_seed": "1783714484792",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33046,
+    "max_tickets": 200000,
+    "combined_hash": "a9bc2c41830fed17f9a112ae920204afacef292b902d9879d79ce722c51408e5",
+    "result": "50922",
+    "external_round_id": "30303709",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T20:14:44.000000Z",
+    "revealed_at": "2026-07-10T20:14:51.000000Z"
+}
