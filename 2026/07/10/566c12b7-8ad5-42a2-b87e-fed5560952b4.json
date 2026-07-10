@@ -1,0 +1,22 @@
+{
+    "round_id": "566c12b7-8ad5-42a2-b87e-fed5560952b4",
+    "draw_title": "WIN TICKETS INTO OUR THAI LODGE COMPETITION - UP TO £1200 OF ENTRIES - 50 TICKET END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/win-tickets-into-our-thai-lodge-competition-up-to-ps1200-of-entries-50",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "0153ac5ceb4f236c21ed05483aa62f599838b65933d95c9249992f5fc742c7d2",
+    "drand_seed_hash": "b58d2af70a5762848498b44af06771a93ebad46cb11ffcd9765416d088c5e0bcf9a54d701b8b29556ed158b42321a291",
+    "client_seed": "1783710661112",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5322,
+    "max_tickets": 96153,
+    "combined_hash": "0d443cbd158585d6b2e730ba14fe2a1a63f188e918826ea3cb269988845d3151",
+    "result": "63652",
+    "external_round_id": "30302435",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:11:01.000000Z",
+    "revealed_at": "2026-07-10T19:11:09.000000Z"
+}
