@@ -1,0 +1,22 @@
+{
+    "round_id": "3c1d1c06-b0ba-4b08-b519-d47179eb928e",
+    "draw_title": "Lego Arcanine (Pre Order)",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/lego-arcanine-pre-order",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "0e3135c4cb68b8195e3d3c40e7e1f5cc8ae4389287085d13cda53ba90e6a9ba3",
+    "drand_seed_hash": "8fb15ee92d25ba04a56572e652697dd31744f1531639627a254b0ea35c7d2a14b6d0046ba5381966d0611a7380f5ea22",
+    "client_seed": "1783717841203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 84,
+    "max_tickets": 180,
+    "combined_hash": "0dbafe44674ffe9dfd56f1dd3da3b967696f529a29ba9d03f1e27db7c1db71b6",
+    "result": "102",
+    "external_round_id": "30304828",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T21:10:41.000000Z",
+    "revealed_at": "2026-07-10T21:10:48.000000Z"
+}
