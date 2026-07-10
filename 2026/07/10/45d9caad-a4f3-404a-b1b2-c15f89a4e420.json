@@ -1,0 +1,22 @@
+{
+    "round_id": "45d9caad-a4f3-404a-b1b2-c15f89a4e420",
+    "draw_title": "Dyson Bundle",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/dyson-bundle",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "30fb094b0fe6c0c09e0ccf66e6453da8fc7a6439490eb0d22b6548dd431309ff",
+    "drand_seed_hash": "8099be319132e23ea355d50197428e27d377534f1609c3261c76a30a101d5bf103ed6f5cb53eae7fef6c37330f587b1f",
+    "client_seed": "1783713561593",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 601,
+    "max_tickets": 3500,
+    "combined_hash": "96eacfb82bc31b6deea0f415d07174569817f0e5d5a2c59a94048975970801d1",
+    "result": "1251",
+    "external_round_id": "30303401",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:59:21.000000Z",
+    "revealed_at": "2026-07-10T19:59:27.000000Z"
+}
