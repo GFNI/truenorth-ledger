@@ -1,0 +1,22 @@
+{
+    "round_id": "7f4cdc6d-9815-442a-82a7-30c39df11050",
+    "draw_title": "4 WINNERS OF £12.07",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/4-winners-of-ps1207",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "b9874c92c8353713688ab89e1860ef4b016492f98f22c0160f0054b71532ec59",
+    "drand_seed_hash": "8ba0354e388c1206dbe90d629b9e0dd614d14315e642ac412d815af571031ba22fa92e76e1ca45c2736d611fa6055cbb",
+    "client_seed": "1783714039514",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23,
+    "max_tickets": 67,
+    "combined_hash": "274b2eaa8d3fddbdf16872443a75b8b9591757b1d514edd540fd822ae97b2125",
+    "result": "37",
+    "external_round_id": "30303560",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T20:07:19.000000Z",
+    "revealed_at": "2026-07-10T20:07:24.000000Z"
+}
