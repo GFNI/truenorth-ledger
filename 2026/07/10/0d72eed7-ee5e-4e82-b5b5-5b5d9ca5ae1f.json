@@ -1,0 +1,22 @@
+{
+    "round_id": "0d72eed7-ee5e-4e82-b5b5-5b5d9ca5ae1f",
+    "draw_title": "Luke Humphries TX1 Darts",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/luke-humphries-tx1-darts-2",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "329260e621e2dbdb133c931ae781264e09f406b133955fafeb1a06f59d8ed7fe",
+    "drand_seed_hash": "8e059891b55dc25e8ded1f58934898a87b24c075afac896e040e65a9cf4480b5ed8f4379d7af021a474f7882e0e71cca",
+    "client_seed": "1783710702489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 544,
+    "max_tickets": 650,
+    "combined_hash": "6fe31f486539135378ef1e7edc7272af075532dee064aad5392391f015fab425",
+    "result": "292",
+    "external_round_id": "30302448",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:11:42.000000Z",
+    "revealed_at": "2026-07-10T19:11:48.000000Z"
+}
