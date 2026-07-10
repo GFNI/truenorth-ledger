@@ -1,0 +1,22 @@
+{
+    "round_id": "16c7c9f4-1ed1-4c5f-bdce-0b70aaa1529b",
+    "draw_title": "66 Packs of Walkers",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/66-packs-of-walkers",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "da18639df6af83c139fb96eab4365502385b0038ae8cb141869600c6529b5ab7",
+    "drand_seed_hash": "acf63877dfe3fbf46ce733f6de44060b48dbbbed8b9845639c5f505c002ac04b045e64aa9d0d93804623ebfb65a38838",
+    "client_seed": "1783710690507",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 100,
+    "combined_hash": "641fc0da23ed4da40db8cd48d9939d87e52ecfaf428a38d873f574e898879d4f",
+    "result": "37",
+    "external_round_id": "30302444",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:11:30.000000Z",
+    "revealed_at": "2026-07-10T19:11:36.000000Z"
+}
