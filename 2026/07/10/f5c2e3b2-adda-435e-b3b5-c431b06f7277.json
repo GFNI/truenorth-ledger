@@ -1,0 +1,22 @@
+{
+    "round_id": "f5c2e3b2-adda-435e-b3b5-c431b06f7277",
+    "draw_title": "Fishin Frenzi - The Big Catch",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/fishin-frenzi-the-big-catch",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "b81a1adf4bc344883e830284ac52fbf2a34851d701a91a2a44b229c18e1ec54a",
+    "drand_seed_hash": "b201ac7a88f650db9305428593aac7472def5180ed816c175b8c9628a26d527f5d4657b3ff061d63dfd1e063654405d0",
+    "client_seed": "1783721442442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9551,
+    "max_tickets": 77250,
+    "combined_hash": "f6434ee65bb532b9243437b0fe5e2abdb96e0cc6f61d111a4105693bd06f73a2",
+    "result": "75637",
+    "external_round_id": "30306028",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T22:10:42.000000Z",
+    "revealed_at": "2026-07-10T22:10:48.000000Z"
+}
