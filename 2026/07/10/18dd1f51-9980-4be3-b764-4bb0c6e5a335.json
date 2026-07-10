@@ -1,0 +1,22 @@
+{
+    "round_id": "18dd1f51-9980-4be3-b764-4bb0c6e5a335",
+    "draw_title": "Ray Ban Meta Sunglasses",
+    "competition_url": "https://ryscompetitions.com/admin/products/ray-ban-meta-sunglasses",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "8e556e559084f5af13ac3f0a9bbd8892b583513d9b04b662a2d043418a443434",
+    "drand_seed_hash": "b8e63edf39b773cbd25be780dbb7a9ac3d15e95fc81293e89d8adf5774aa2cc1ee6601f15f6113c63bd445db8fd8543e",
+    "client_seed": "1783700563200",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12000,
+    "max_tickets": 12000,
+    "combined_hash": "42479ee6665541aa97eb483c135bb17e5945ae06c39cb9de5f5fb92adad8aaf5",
+    "result": "8611",
+    "external_round_id": "30299069",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T16:22:43.000000Z",
+    "revealed_at": "2026-07-10T16:22:51.000000Z"
+}
