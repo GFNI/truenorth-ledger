@@ -1,0 +1,22 @@
+{
+    "round_id": "78400769-03a4-4879-af52-5f8d1fd78bdc",
+    "draw_title": "FREE £500 CGG COMMUNITY CASH - DOUBLE TO £1000 IF YOU SPEND £4 OR MORE",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/free-ps500-cgg-community-cash-double-to-ps1000-if-you-spend-ps4-or-more",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "c77886a9cc1405552d41b8925baa0680f15bd5ab3061b5e93a7408905e1deb0e",
+    "drand_seed_hash": "a16c3233f3b0b699bf270a44b307841d3a0c87772bdfba376d05a5f857434a293592becf45019a57ac2a5f55ce0b23b3",
+    "client_seed": "1783710654697",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10400,
+    "max_tickets": 25000,
+    "combined_hash": "72e1ca53d948d3ac60a2c12cfd2f77a58c4e33d476feae8ba86f7df7b6c028ea",
+    "result": "4915",
+    "external_round_id": "30302432",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:10:54.000000Z",
+    "revealed_at": "2026-07-10T19:11:00.000000Z"
+}
