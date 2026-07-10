@@ -1,0 +1,22 @@
+{
+    "round_id": "a5410019-ecc9-4bb6-9443-7abc477adcc1",
+    "draw_title": "20p Instant Wins - 250 Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/20p-instant-wins-250-instant-wins-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "22d706bf57b38c67a0efff6c5cc3bb86dc8914a6829ab8528c4a95e5808fdbd6",
+    "drand_seed_hash": "9350c8332a8c6a3a11a5c58f8e2aa4b470833646998ccf2aded59e6a864d4d16176e82c5f4a7d704e6e3b2660c84c774",
+    "client_seed": "1783715454473",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15316,
+    "max_tickets": 100000,
+    "combined_hash": "b1d5855db336c5c17f2005fece8c3e9cb20b8063dc8ab31571dfabb33adb7f9c",
+    "result": "52082",
+    "external_round_id": "30304032",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T20:30:54.000000Z",
+    "revealed_at": "2026-07-10T20:31:00.000000Z"
+}
