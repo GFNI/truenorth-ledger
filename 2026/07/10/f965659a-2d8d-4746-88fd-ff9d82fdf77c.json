@@ -1,0 +1,22 @@
+{
+    "round_id": "f965659a-2d8d-4746-88fd-ff9d82fdf77c",
+    "draw_title": "🔪 NINJA KNIFE SET – Slice Into A Win!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/ninja-knife-set",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "094a11f3e50528cc7775d60ca1683a5331436f0028b0c7bf73138fe69a066308",
+    "drand_seed_hash": "af8f6ed96c821c455e11642fa5f174532e8eb8b1b0d0dfda0145581aebb5e5cf68381c51ff83b3100b969438406b482f",
+    "client_seed": "1783674641183",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 470,
+    "max_tickets": 2499,
+    "combined_hash": "9790fe5f3645435439345d8fff503ca75717e83acfd53b6d0fea03a56abac044",
+    "result": "645",
+    "external_round_id": "30290428",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T09:10:41.000000Z",
+    "revealed_at": "2026-07-10T09:10:48.000000Z"
+}
