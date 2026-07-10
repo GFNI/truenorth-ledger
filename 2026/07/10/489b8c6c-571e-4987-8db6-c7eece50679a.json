@@ -1,0 +1,22 @@
+{
+    "round_id": "489b8c6c-571e-4987-8db6-c7eece50679a",
+    "draw_title": "£300 Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps300-cash",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "a233b0dd2ef2d032958760d885ed5f4ddfa2e1b8874a4950e7d0a27b6030d98b",
+    "drand_seed_hash": "94d4295f7a6117bd8c3bf906b27b1095249c08ed54e3733ce83a58014608805f26ac322a4150b578bce7f6f5f6e4818f",
+    "client_seed": "1783717869518",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 882,
+    "max_tickets": 1995,
+    "combined_hash": "7b04f4b2aee57ecca32e16eaeb2bdf2d78e131d92401494bb3806c1eb55890b2",
+    "result": "1030",
+    "external_round_id": "30304837",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T21:11:09.000000Z",
+    "revealed_at": "2026-07-10T21:11:15.000000Z"
+}
