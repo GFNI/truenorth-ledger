@@ -1,0 +1,22 @@
+{
+    "round_id": "8aa12093-d9d1-4a97-a9ec-63b5924b65e2",
+    "draw_title": "Bumbu Original Rum 70",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/bumbu-original-rum-70",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "1692cd466def695675c908ad2ee703d60604a93ee39dfc4579255b06c12d4014",
+    "drand_seed_hash": "b8e92407ffb72762d9d0beb61b20952038aa1b0d8760c1f721ab4a4d309cc4d761e86c4a8b2e600b511154ee5ea56f33",
+    "client_seed": "1783710669863",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19,
+    "max_tickets": 50,
+    "combined_hash": "a9df8921022fabf9cc01688e702c3de7be422a987fead3fcb9d4a7f647fd99f7",
+    "result": "18",
+    "external_round_id": "30302437",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:11:09.000000Z",
+    "revealed_at": "2026-07-10T19:11:15.000000Z"
+}
