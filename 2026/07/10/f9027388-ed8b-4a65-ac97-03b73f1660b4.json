@@ -1,0 +1,22 @@
+{
+    "round_id": "f9027388-ed8b-4a65-ac97-03b73f1660b4",
+    "draw_title": "£250 SUPERMARKET VOUCHER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps250-supermarket-voucher1451",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2d7b0f4aa7c9524c5d5923b3d0d7d8d0026c7ceec005a91ac916710718302255",
+    "drand_seed_hash": "b15ce1143c46129e56398a80f0c39a0d8f9d0ab7e3ad34120f1cef957409189afd7217bb4ff0d6f1473d1138c47422f2",
+    "client_seed": "1783713187492",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 390,
+    "max_tickets": 1000,
+    "combined_hash": "8ce5898acc5895019dd233d50c519a7826ba6d297e5ebdb92f1c4737eda93e65",
+    "result": "5",
+    "external_round_id": "30303277",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:53:07.000000Z",
+    "revealed_at": "2026-07-10T19:53:15.000000Z"
+}
