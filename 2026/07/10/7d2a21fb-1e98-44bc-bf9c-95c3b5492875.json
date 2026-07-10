@@ -1,0 +1,22 @@
+{
+    "round_id": "7d2a21fb-1e98-44bc-bf9c-95c3b5492875",
+    "draw_title": "TWO PENNY FALLS #135",
+    "competition_url": "https://fireprizes.co.uk/admin/products/two-penny-falls-135",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "8ba114e0b5a281d53a988b0dbf769cde3188bbd8588f95a8ba5511750808ae88",
+    "drand_seed_hash": "b44f2f98c2cdc7cddf358b4a5674a6e496f21d6ddffe9c13a85ae8ed09352500a4ef776c00c71cdeef1342497bd43770",
+    "client_seed": "1783725041068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17791,
+    "max_tickets": 133333,
+    "combined_hash": "572c5fce1aabd730ee26ff550feb829a8d18c6a4d80de0e1441c749aba1329d3",
+    "result": "85757",
+    "external_round_id": "30307228",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T23:10:41.000000Z",
+    "revealed_at": "2026-07-10T23:10:48.000000Z"
+}
