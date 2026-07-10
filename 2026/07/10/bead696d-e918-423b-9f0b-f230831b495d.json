@@ -1,0 +1,22 @@
+{
+    "round_id": "bead696d-e918-423b-9f0b-f230831b495d",
+    "draw_title": "Live Draw Test - £1,000 Cash (Ended)",
+    "competition_url": "https://speed-staging.laravel.cloud/competition/live-draw-test-ps1000-cash-ended",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "afabea0d67cf4df7ef120710c6fcc6ab07cc28ede8e578a87a6cc23581ace412",
+    "drand_seed_hash": "b41788f00c0b24b03ac66163fd60c19df5f5e4867c2abfea9046127bfa7db883da79d784b80dbcd146ee9ee5a2e319ab",
+    "client_seed": "1783671984479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "484a636ff3321ad289499577b05ac91b1ebdc9ca3c371f28c5e7e8ea3895df38",
+    "result": "57",
+    "external_round_id": "30289542",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T08:26:24.000000Z",
+    "revealed_at": "2026-07-10T08:26:30.000000Z"
+}
