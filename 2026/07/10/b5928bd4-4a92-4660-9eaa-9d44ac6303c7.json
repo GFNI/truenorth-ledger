@@ -1,0 +1,22 @@
+{
+    "round_id": "b5928bd4-4a92-4660-9eaa-9d44ac6303c7",
+    "draw_title": "Henry Hoover",
+    "competition_url": "https://ogcompetitions.co.uk/lists/henry-cordless-hoover-or-ps170-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2ba8f2d05ae99674dbaa4d682f4e9ebf97613b4a34847074a8a66c7db00a6f11",
+    "drand_seed_hash": "985ed39fc9b25e47d8b7b72e70d0658481dce4da9aa12ff7b85f12621bac319c1dd6e980e58186c1aaab0686fe046c89",
+    "client_seed": "1783717703242",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 300,
+    "combined_hash": "5972f4e1ec690480952974da1a73ffe861e557096278b9318a9e9ef1185ca9f5",
+    "result": "58",
+    "external_round_id": "30304782",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T21:08:23.000000Z",
+    "revealed_at": "2026-07-10T21:08:32.000000Z"
+}
