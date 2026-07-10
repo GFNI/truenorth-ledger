@@ -1,0 +1,22 @@
+{
+    "round_id": "2712e4bd-c9fd-4e12-b6b7-b7c5c92b791c",
+    "draw_title": "WINbledon - 10 Winners + Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/winbledon-10-winners-instant-wins",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "619354ecaa790ecc8562434db9e645bcab30bc5b11b5b963bead592484cd93e1",
+    "drand_seed_hash": "891999c5606700f396b097614ebfe7d67a77c488f736be3647fe2e6df141af23b99929c6b687b2ca9a9b7c33ee206102",
+    "client_seed": "1783712044157",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5959,
+    "max_tickets": 58000,
+    "combined_hash": "5b5beedbce6ce26c55b7a61c1177a3fc9453f27dbbfc5d3038ea83524cbba5a8",
+    "result": "45260",
+    "external_round_id": "30302896",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T19:34:04.000000Z",
+    "revealed_at": "2026-07-10T19:34:12.000000Z"
+}
