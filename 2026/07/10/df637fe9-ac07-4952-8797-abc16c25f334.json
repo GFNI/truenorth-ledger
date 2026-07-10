@@ -1,0 +1,22 @@
+{
+    "round_id": "df637fe9-ac07-4952-8797-abc16c25f334",
+    "draw_title": "Win 24 Cans of Red Bull",
+    "competition_url": "https://phatstax.co.uk/admin/products/win-24-cans-of-red-bull",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "5708dbd09030888ef0e0bda3f02df38a2569cb24ba634e3499e9f7116bfb2c1f",
+    "drand_seed_hash": "a3816d28d8aa496684a663c0dd36459085cbc75cf01bece6569fba476944f0cf2fa4e3f585ef40b417d2993345b3bb4e",
+    "client_seed": "1783714272694",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15,
+    "max_tickets": 120,
+    "combined_hash": "794e15114b1523ddf07a33a7bfb2eb0a499a8db4dbe032df063b85f072f56f25",
+    "result": "58",
+    "external_round_id": "30303638",
+    "processing_status": "completed",
+    "created_at": "2026-07-10T20:11:12.000000Z",
+    "revealed_at": "2026-07-10T20:11:18.000000Z"
+}
