@@ -1,0 +1,22 @@
+{
+    "round_id": "435094a8-b9e7-4890-a2fa-8486e9f74425",
+    "draw_title": "Sip, Sizzle & Splash!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/sip-sizzle-splash",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "317772f1332b1ebe668ef0c7d6320b689e796a80fa39cd504a58b9342e2a2426",
+    "drand_seed_hash": "837d16590e33e91c8aad09e2bd73bb216ab5a0d749f183e3b909de2e6c4a0bbcd7eed50f1e6fdc13ec2cf8a847ef2952",
+    "client_seed": "1783794288311",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75000,
+    "max_tickets": 75000,
+    "combined_hash": "24a508f58ad7d1ec10b34c545affa57b3ad2e01f64c9f60c33e3139e15707ad8",
+    "result": "9485",
+    "external_round_id": "30330310",
+    "processing_status": "completed",
+    "created_at": "2026-07-11T18:24:48.000000Z",
+    "revealed_at": "2026-07-11T18:24:54.000000Z"
+}
