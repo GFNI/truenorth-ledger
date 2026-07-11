@@ -1,0 +1,22 @@
+{
+    "round_id": "ed423c96-a9ef-4da9-9e22-c42b498a9ddf",
+    "draw_title": "SCRATCH AND WIN!",
+    "competition_url": "https://qualityprizesqp.com/admin/products/scratch-and-win",
+    "operator": {
+        "name": "Quality Prizes QP LTD",
+        "website": "https://qualityprizesqp.com",
+        "company_number": "13193494"
+    },
+    "drand_server_seed": "0ffe3739156ac83d17697631d60079c04e15bafe5b6032fbaa8d94ef8da83b17",
+    "drand_seed_hash": "af259ffdec2e8920bb30dc705929e3637490179d967ec4026837402661fd46b5aa183fffa4e2c2e5c32f685b2bedfca0",
+    "client_seed": "1783754763680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4066,
+    "max_tickets": 8000,
+    "combined_hash": "9fa387bad8f143ce819b380af756febc5483f85bd8e5cf2b7ed663d87ad98dbc",
+    "result": "3424",
+    "external_round_id": "30317135",
+    "processing_status": "completed",
+    "created_at": "2026-07-11T07:26:03.000000Z",
+    "revealed_at": "2026-07-11T07:26:09.000000Z"
+}
