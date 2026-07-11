@@ -1,0 +1,22 @@
+{
+    "round_id": "19b0d8af-5df5-46c5-8bb3-2db9a44ff3a7",
+    "draw_title": "💷 WIN £100 - Tax Free Cash",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/win-100-tax-free-cash",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "36368c851335dd625cb2eb25df19f958e32a89d4fd90c2760f97040ae7a528ae",
+    "drand_seed_hash": "8f755a3e488c907ac9a75534bac63eb6dc8b31a687ad31c22a58b71323800a2e3560be0bc18e80c25a9ecafd43f0421a",
+    "client_seed": "1783793438991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 617,
+    "max_tickets": 1250,
+    "combined_hash": "98a00d12ea9d546694d37cc91af54df852184d29159dec654c5ecd012ae433f3",
+    "result": "469",
+    "external_round_id": "30330027",
+    "processing_status": "completed",
+    "created_at": "2026-07-11T18:10:39.000000Z",
+    "revealed_at": "2026-07-11T18:10:45.000000Z"
+}
