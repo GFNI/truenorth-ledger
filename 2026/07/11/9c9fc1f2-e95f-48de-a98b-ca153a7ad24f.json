@@ -1,0 +1,22 @@
+{
+    "round_id": "9c9fc1f2-e95f-48de-a98b-ca153a7ad24f",
+    "draw_title": "Swizzels Sweet Mix or Cash - 5 winners",
+    "competition_url": "https://chaotic.co.uk/competition/swizzels-sweet-mix-or-cash-5-winners-8196",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8c72f7d9a8863d1029d7600204884ded04b1acf9ec0b0616cc02c5c19da12b58",
+    "drand_seed_hash": "b8abd7cee2f85f8d2d35dc0a80e94c0cc6de4def63f0df28ee3a6e4d91bc8e8a2a111217e0c9e4b0c1f925e0bd1ee088",
+    "client_seed": "1783798786479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3600,
+    "max_tickets": 3600,
+    "combined_hash": "c3cea658439d71deb5b1bf88db61854041240a03a3cd15cf146ec6e4e5c4ac0a",
+    "result": "1316",
+    "external_round_id": "30331810",
+    "processing_status": "completed",
+    "created_at": "2026-07-11T19:39:46.000000Z",
+    "revealed_at": "2026-07-11T19:39:54.000000Z"
+}
