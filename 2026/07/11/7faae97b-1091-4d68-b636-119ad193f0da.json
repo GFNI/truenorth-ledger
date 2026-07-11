@@ -1,0 +1,22 @@
+{
+    "round_id": "7faae97b-1091-4d68-b636-119ad193f0da",
+    "draw_title": "£50 Just Eat Gift Card or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/ps50-just-eat-gift-card-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d4eafa925869a85133694a665b9b83ee0d3515281ea8d7b068e1d78fc5429279",
+    "drand_seed_hash": "820a38e74c719f2b07e17c7066848e63826cb17eb573c037f9e184f5df782fd632a35a15b510ac793e78ad8e20eb54c7",
+    "client_seed": "1783799370709",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2300,
+    "max_tickets": 2300,
+    "combined_hash": "caa8d5f6f499778dcce40f4c3829bf477453dfe530a0a30eff68b2e80982a8bb",
+    "result": "1515",
+    "external_round_id": "30332004",
+    "processing_status": "completed",
+    "created_at": "2026-07-11T19:49:30.000000Z",
+    "revealed_at": "2026-07-11T19:49:36.000000Z"
+}
