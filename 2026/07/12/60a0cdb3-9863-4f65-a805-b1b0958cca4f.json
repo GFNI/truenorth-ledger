@@ -1,0 +1,22 @@
+{
+    "round_id": "60a0cdb3-9863-4f65-a805-b1b0958cca4f",
+    "draw_title": "GRAB A GRAND 💰 + 4 X £250 END DRAWS!",
+    "competition_url": "https://clutchcomps.com/admin/products/grab-a-grand-4-x-ps250-end-draws-2",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "758a14ea5eb147c67fc8e68db0b0999ae717ef8e4ecf79bac743e1faf113fba1",
+    "drand_seed_hash": "8a90a3addf95cb8bc2810c47a0b7475eaf8128583cfa82831fe018a81e9568fb33de1d2fa81cf9b2514c59da46aac8d9",
+    "client_seed": "1783889627509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93861,
+    "max_tickets": 175000,
+    "combined_hash": "9cf6d6fdfd18d8c83839bc26bfdf81dd9dde747eb193506c63f6a13939b0e5a3",
+    "result": "98485",
+    "external_round_id": "30362090",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:53:47.000000Z",
+    "revealed_at": "2026-07-12T20:53:54.000000Z"
+}
