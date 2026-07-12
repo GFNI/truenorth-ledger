@@ -1,0 +1,22 @@
+{
+    "round_id": "62d0ab93-36fc-4797-aaf3-ec82c592899a",
+    "draw_title": "Jamal Musiala Panini Donruss Kaboom",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/jamal-musiala-panini-donruss-kaboom",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "b169eee14c9500afe6b475263b8aae6946ed880a74eea11008087fd1c0145dc7",
+    "drand_seed_hash": "b9a2b245ab65a49886a8cd69f0dd9a00f6ad9c627d4de7501dae833e2dd9aa64371ae049ca4cb6f3cff0b51cc07e8860",
+    "client_seed": "1783879840404",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 75,
+    "combined_hash": "e85aff9d818469c81cbeb91d63d33cdef64c92dd545d50df49f0859846af1137",
+    "result": "15",
+    "external_round_id": "30358828",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T18:10:40.000000Z",
+    "revealed_at": "2026-07-12T18:10:48.000000Z"
+}
