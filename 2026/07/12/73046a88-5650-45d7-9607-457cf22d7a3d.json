@@ -1,0 +1,22 @@
+{
+    "round_id": "73046a88-5650-45d7-9607-457cf22d7a3d",
+    "draw_title": "Bamboo Bucks | FREE ENTRY | £50 Cash Draw",
+    "competition_url": "https://phatstax.co.uk/admin/products/bamboo-bucks-free-entry-ps50-cash-draw",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "e6e5b29398ef2413ac419bf4e6e8bea10f474f2700b7eca648ea2d949b916d29",
+    "drand_seed_hash": "90570444c6bfa5a02a903591839bd77ac76002bfed64d4ed1c3b78904c084e46057763cf63acc6c7c89041478f918376",
+    "client_seed": "1783886693543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 200,
+    "combined_hash": "53474a3028068035e68294ad3b3f386e482e2fd4fc441a0df8cc2c3c5dd350b9",
+    "result": "92",
+    "external_round_id": "30361112",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:04:53.000000Z",
+    "revealed_at": "2026-07-12T20:05:00.000000Z"
+}
