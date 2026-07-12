@@ -1,0 +1,22 @@
+{
+    "round_id": "8907a77f-b6e7-4b13-b37c-146c475ea707",
+    "draw_title": "Golden Goal - 200 Instant Wins - £200 End Prize!",
+    "competition_url": "https://expcomps.com/admin/products/golden-goal-200-instant-wins-ps200-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "16806d4de8b1ace9c4cf766dc2acf074d3bd6c7b4f6b6fee0b93cf9f3b0fffed",
+    "drand_seed_hash": "b3eee43bf6218b17a353da87ef297a2fd6a154b4614a749729b3f306b7620810da1c037323da8203fb7a076e883fbfba",
+    "client_seed": "1783883452069",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 371,
+    "max_tickets": 2000,
+    "combined_hash": "18c04cf20495a723eebd1057614131b331a8cb869db7a061523002071bb53c19",
+    "result": "185",
+    "external_round_id": "30360032",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:10:52.000000Z",
+    "revealed_at": "2026-07-12T19:11:00.000000Z"
+}
