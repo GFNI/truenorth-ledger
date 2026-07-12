@@ -1,0 +1,22 @@
+{
+    "round_id": "b16cfbe3-435e-48ae-9174-910a824a0bb4",
+    "draw_title": "💎 HIGH ROLLER GEMS 💎",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/high-roller-gems",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "2ff386ff0590942eaca6a134365aa7f5ce224189ece8fa00d29b2ca228bb4faf",
+    "drand_seed_hash": "8261b9d0dcec554b425931823175c8bbf68ebc6524544785abe500333141b79ea332671567cb815574a0cdd8ffefe678",
+    "client_seed": "1783879875908",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 133,
+    "max_tickets": 1000,
+    "combined_hash": "5bec711c4e313192253e7b636538e13b7ae55bc579e86ee21c030f0982a41bd2",
+    "result": "124",
+    "external_round_id": "30358839",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T18:11:15.000000Z",
+    "revealed_at": "2026-07-12T18:11:21.000000Z"
+}
