@@ -1,0 +1,22 @@
+{
+    "round_id": "74b4c063-c3c8-44a6-82a0-17f69c0d0541",
+    "draw_title": "Ultimate Butcher BBQ pack",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ultimate-butcher-bbq-pack",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "8a705edd2479faf61932d194ad46ec9090ba9ae30da4f7d3ea7b609b4e7ca758",
+    "drand_seed_hash": "937a967a1f3f0c86a39d09308d4113f4ddcb2994bba8bf4f3d31749e91b53d29d6ca3fa24310a2437ca76c9cdb184bc4",
+    "client_seed": "1783884800485",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "3eefa05b47c043ee3b8569d58d0fbb2a229bbd613da34a804cb92aad599d9cfc",
+    "result": "63",
+    "external_round_id": "30360481",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:33:20.000000Z",
+    "revealed_at": "2026-07-12T19:33:27.000000Z"
+}
