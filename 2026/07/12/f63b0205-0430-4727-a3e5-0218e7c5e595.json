@@ -1,0 +1,22 @@
+{
+    "round_id": "f63b0205-0430-4727-a3e5-0218e7c5e595",
+    "draw_title": "£150 CASH GRAB",
+    "competition_url": "https://phatstax.co.uk/admin/products/ps150-cash-grab",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "d7c0876cae496f0210bc802f80ca77d7dc8bb2f502b517f8aa4a2aab7dc40418",
+    "drand_seed_hash": "acdce3e45849785b9f4df41d4b174cb08a91b12bca62775f77fb65b351b0408dab9158796f9583266e30b97c8899cb86",
+    "client_seed": "1783886902553",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1803,
+    "max_tickets": 6250,
+    "combined_hash": "04f07e821da7d65cf1d1298699be8393e8515abd6ca1e83174191d73558eb46d",
+    "result": "811",
+    "external_round_id": "30361181",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:08:22.000000Z",
+    "revealed_at": "2026-07-12T20:08:27.000000Z"
+}
