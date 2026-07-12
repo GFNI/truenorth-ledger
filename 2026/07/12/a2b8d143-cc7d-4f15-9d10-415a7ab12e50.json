@@ -1,0 +1,22 @@
+{
+    "round_id": "a2b8d143-cc7d-4f15-9d10-415a7ab12e50",
+    "draw_title": "Ace Your Luck - 223 Instant Wins - £150 End Prize",
+    "competition_url": "https://expcomps.com/admin/products/ace-your-luck-223-instant-wins-ps150-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "a1e7da8233d7107dff59d3f874bf7167f6cbbfb15916bb3669b64ff4491e5334",
+    "drand_seed_hash": "b19920d81a94d642690c6609089e7b92a52d2374d64159d91b127dbed32c67bcf358ec0cf6150b2c2689395262b047ea",
+    "client_seed": "1783883445562",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 496,
+    "max_tickets": 3000,
+    "combined_hash": "6328d4aee7a3c65fd96ffe6501ddfbf891cacba556bf167b5848c121097877f4",
+    "result": "556",
+    "external_round_id": "30360029",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:10:45.000000Z",
+    "revealed_at": "2026-07-12T19:10:51.000000Z"
+}
