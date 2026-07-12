@@ -1,0 +1,22 @@
+{
+    "round_id": "c6ef6ae3-ec49-4e67-833d-ad65eedae4ac",
+    "draw_title": "Bambu Labs A1 Mini",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/a1-mini-3d-printer-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "6f09a395d4a1454784fa95dfe0e8797d92b2349abef9d59b7de6e207c25fd276",
+    "drand_seed_hash": "846d9543b7a2cddfff9c88680446c849184ce049b353c6a0abb5ab45b114a426ff5b035af24dd542c628594a86d5f07e",
+    "client_seed": "1783884286996",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112,
+    "max_tickets": 300,
+    "combined_hash": "eb50d94953c723f184803bd3da6a5359edaf28ac1ddfb4d3da6c282e03da53ea",
+    "result": "96",
+    "external_round_id": "30360310",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:24:47.000000Z",
+    "revealed_at": "2026-07-12T19:24:54.000000Z"
+}
