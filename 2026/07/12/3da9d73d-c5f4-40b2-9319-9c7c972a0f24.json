@@ -1,0 +1,22 @@
+{
+    "round_id": "3da9d73d-c5f4-40b2-9319-9c7c972a0f24",
+    "draw_title": "🍀 1066 Lucky Drop — Mystery Prizes & Credit Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/1066-lucky-drop-mystery-prizes-credit-instant-wins-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "4bf17348b8eba2cecc01ff571e2afb5fa379ee67954c98603aa58e39b6b92f3f",
+    "drand_seed_hash": "9198f4742ae3c40678645c7c6e696200d4cee2fe5eaf173fc709547cc9ed419cf4ba621aaec386480f99ceff1312f3ed",
+    "client_seed": "1783890800718",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 915,
+    "max_tickets": 2500,
+    "combined_hash": "4207e5b3a6403e853a7d014fde5bfab5196e9e545ee637be39a4b5e70b69d172",
+    "result": "1267",
+    "external_round_id": "30362481",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T21:13:20.000000Z",
+    "revealed_at": "2026-07-12T21:13:27.000000Z"
+}
