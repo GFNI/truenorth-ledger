@@ -1,0 +1,22 @@
+{
+    "round_id": "5d947971-e74e-471f-9c16-dc0dbe46540a",
+    "draw_title": "25K Epic Scratch Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-epic-scratch-pot-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0ef0e6d1e6bf179f9e7ef54d289458d9c17dd581ad6d51281690dc5c76002814",
+    "drand_seed_hash": "95ef6d162743ce90989549de1c8c21ac3b406b018130f5a6d551661975bb56919825345903b35195077e50381c970f17",
+    "client_seed": "1783887226715",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4582,
+    "max_tickets": 50000,
+    "combined_hash": "7d883401c37445d6c7159185cd00b95b8a6e937a0fae7a2a97deb87f2358b435",
+    "result": "20030",
+    "external_round_id": "30361290",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:13:46.000000Z",
+    "revealed_at": "2026-07-12T20:13:54.000000Z"
+}
