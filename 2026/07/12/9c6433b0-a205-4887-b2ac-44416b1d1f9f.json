@@ -1,0 +1,22 @@
+{
+    "round_id": "9c6433b0-a205-4887-b2ac-44416b1d1f9f",
+    "draw_title": "The Penny Express - £500 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/the-penny-express-ps500-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "67eeca258c459f48e01a15d2b1a54c4581270925b39a0a1dd97cc9edf45e19ff",
+    "drand_seed_hash": "8d8c279b37aff0a59c171edf9ddbbe2f09941f1072aa2e4347abb6d302d9f28164057d756121ab08cc6db4bab48d156d",
+    "client_seed": "1783885847190",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 625070,
+    "max_tickets": 1000000,
+    "combined_hash": "95e4afc74ebc4781897c5c877b5d82ad9c0eaf2ccda33be685d9fb7550e291ef",
+    "result": "193302",
+    "external_round_id": "30360830",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:50:47.000000Z",
+    "revealed_at": "2026-07-12T19:50:54.000000Z"
+}
