@@ -1,0 +1,22 @@
+{
+    "round_id": "6a9f0937-5df6-44b1-86a5-eae6cd0f393e",
+    "draw_title": "£5000 ENDING TODAY!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ending-today-5k",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "f965db2091fe3c04289d144c14b04ec4393959edd700901739a72cd6c3cd322a",
+    "drand_seed_hash": "ab05d4c268e51888912db8c1076fa9404eeafa5d5e90aaa40f569d02b81d0c08d79c428d4a65e9840cd578348f9e2105",
+    "client_seed": "1783886399676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 117880,
+    "max_tickets": 260000,
+    "combined_hash": "2954c9f0eb174839ddc2b0e3eb35d6f74e32469ec89b8373b2f7c4f4db7d55ed",
+    "result": "106122",
+    "external_round_id": "30361014",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:59:59.000000Z",
+    "revealed_at": "2026-07-12T20:00:06.000000Z"
+}
