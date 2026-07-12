@@ -1,0 +1,22 @@
+{
+    "round_id": "633679f2-0cd6-41f2-99e4-3b8effb46307",
+    "draw_title": "Triple 6 Pop - £666 Main",
+    "competition_url": "https://speedcompetitions.co.uk/competition/triple-6-pop-ps666-main-2",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "40194fcf8690ad21368d5f47b147bc07349f05d5b970ff4987f3cf9e0669759b",
+    "drand_seed_hash": "b2506b55ac4d4e461ceb86eb76c0eb1be529108f460bd0f5ed1c1208e5fcb6dbac8e088f161c8e63d87503de32252bc1",
+    "client_seed": "1783885182531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7380,
+    "max_tickets": 14424,
+    "combined_hash": "bd1cb8acae8e1f9d7d340098d1e358c0f0c628928bb8f926ce69de37edd7a738",
+    "result": "8806",
+    "external_round_id": "30360608",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:39:42.000000Z",
+    "revealed_at": "2026-07-12T19:39:48.000000Z"
+}
