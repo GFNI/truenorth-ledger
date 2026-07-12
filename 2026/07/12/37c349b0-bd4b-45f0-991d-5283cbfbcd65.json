@@ -1,0 +1,22 @@
+{
+    "round_id": "37c349b0-bd4b-45f0-991d-5283cbfbcd65",
+    "draw_title": "£250 Gift card of your choice",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/ps250-gift-card-of-your-choice",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "27cc7631a6dc28f3008153e3fd22b4fa510312ef783ebe8f5e01d4873ebb79b2",
+    "drand_seed_hash": "b1a6174e079b19baee1eea6cd13bec03d810e2412f107a745f2fb6d781826d39727a22fa924b75473d1f971616826f60",
+    "client_seed": "1783881899143",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 237,
+    "max_tickets": 500,
+    "combined_hash": "11e0f11f407b73cb6b2e6438aec1f3c4140e2cc3fe00b0f3194cf50c7394c15b",
+    "result": "234",
+    "external_round_id": "30359514",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T18:44:59.000000Z",
+    "revealed_at": "2026-07-12T18:45:06.000000Z"
+}
