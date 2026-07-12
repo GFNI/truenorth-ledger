@@ -1,0 +1,22 @@
+{
+    "round_id": "7c754a42-bf1f-4ad4-a415-8f83bd9837fc",
+    "draw_title": "Minelab Full Bundle!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/minelab-full-bundle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d5bb4f6a37188f0b73885b0f2036757e0e1e52a7770672107aaf0a2ea607f41c",
+    "drand_seed_hash": "900d9f2c4087863aba476c546782de839bb2c59879a4acb800a803137a68fb0331918ae0da0d25dcff8f4e5c35b96b83",
+    "client_seed": "1783884423886",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 263,
+    "max_tickets": 600,
+    "combined_hash": "16c2aea42da4fddb7c8e1be8daf4df13eb63c8c9b5f7962c7019680ae3b6d038",
+    "result": "375",
+    "external_round_id": "30360355",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:27:03.000000Z",
+    "revealed_at": "2026-07-12T19:27:09.000000Z"
+}
