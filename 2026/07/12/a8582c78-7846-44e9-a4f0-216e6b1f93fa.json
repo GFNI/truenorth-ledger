@@ -1,0 +1,22 @@
+{
+    "round_id": "a8582c78-7846-44e9-a4f0-216e6b1f93fa",
+    "draw_title": "Live Draw Test - Low Sales (Mostly No Winner)",
+    "competition_url": "https://speed-staging.laravel.cloud/competition/live-draw-test-low-sales-mostly-no-winner",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6b6b08e878fe67ef4ac8453ffe69564cccaa4aab684e2308aa9b5f3ebed4b01f",
+    "drand_seed_hash": "add305d01802f6fd6ab050fad2a273dd44615b044c18307ac5378c498cc16aca25c6b62e0931e97e51ee60cfc6c734ec",
+    "client_seed": "1783874376440",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15,
+    "max_tickets": 500,
+    "combined_hash": "fb5f2c47da702386b5849818c0b6bf411eb4814605ae475ccf07958f3ebc94a4",
+    "result": "492",
+    "external_round_id": "30357006",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T16:39:36.000000Z",
+    "revealed_at": "2026-07-12T16:39:42.000000Z"
+}
