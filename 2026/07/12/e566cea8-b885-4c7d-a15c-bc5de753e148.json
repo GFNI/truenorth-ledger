@@ -1,0 +1,22 @@
+{
+    "round_id": "e566cea8-b885-4c7d-a15c-bc5de753e148",
+    "draw_title": "🔐 VAULT STREAK 🔐",
+    "competition_url": "https://theprizevault.co.uk/admin/products/vault-streak",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "ade06e08cc8fd75ac9a124922ddf0e1bba9c84cdc2b3957fbdb580b3e2e8a0d9",
+    "drand_seed_hash": "922fff251640d28477ad676373fe8d2d79e899fe12f06528c1bf73867562a5c368218c60168c549e4c1ae9d51eccbe12",
+    "client_seed": "1783894251687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3530,
+    "max_tickets": 20000,
+    "combined_hash": "f966c0c08236993fdb8dab680e46fc183f0bc334ddc19e40968a4b1d3dd1ccbd",
+    "result": "14746",
+    "external_round_id": "30363631",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T22:10:51.000000Z",
+    "revealed_at": "2026-07-12T22:10:57.000000Z"
+}
