@@ -1,0 +1,22 @@
+{
+    "round_id": "64d18991-b602-4c8e-814d-40e0cd5d7a55",
+    "draw_title": "Cash Cascade -  £5,500",
+    "competition_url": "https://a9competitions.co.uk/admin/products/cash-cascade-ps5500",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "e38c4f9cc9a4d75ca1d7a046f58296a29ef2238231dc3f29cdad5711604a79a0",
+    "drand_seed_hash": "9269fbf3fb45f3e68413244f5f25fc3be777a319cb0e52324db332ce7f003bac4b6557527420fa8c0b607029ad4618cd",
+    "client_seed": "1783888251509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 641,
+    "max_tickets": 3750,
+    "combined_hash": "8614e83e3f007380a0f8eb9895581af50344105e6aecb71ceb73dad57d2cb84b",
+    "result": "749",
+    "external_round_id": "30361631",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:30:51.000000Z",
+    "revealed_at": "2026-07-12T20:30:57.000000Z"
+}
