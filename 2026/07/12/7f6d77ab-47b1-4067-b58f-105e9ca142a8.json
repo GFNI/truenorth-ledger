@@ -1,0 +1,22 @@
+{
+    "round_id": "7f6d77ab-47b1-4067-b58f-105e9ca142a8",
+    "draw_title": "LOW ODDS £500 CASH! 12/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/low-odds-ps500-cash-1207",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "d24f2e3df5b77d399b8b1d04771aaa2eef05852985a722fd3d997373fc5a4a3f",
+    "drand_seed_hash": "a52b8bea0f6180b79839edd910a1a25b2b8ec259d582a6503f42a726fe31d5d8e2a224fb73432a1dbc82b31092b3bd4a",
+    "client_seed": "1783892442737",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 109,
+    "max_tickets": 150,
+    "combined_hash": "611c1ce34e04481acd993169bdaf13979e8743d9710be07850cb9767cf23992e",
+    "result": "6",
+    "external_round_id": "30363028",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T21:40:42.000000Z",
+    "revealed_at": "2026-07-12T21:40:48.000000Z"
+}
