@@ -1,0 +1,22 @@
+{
+    "round_id": "a7dc8874-6800-4b30-bd3a-513388fe823b",
+    "draw_title": "The Ultimate Camping Bundle",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/the-ultimate-camping-bundle-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "50d2336df5bd3122a23b64d9dc2fbad45e185fd1b7b6344203ec8b266940d08d",
+    "drand_seed_hash": "ab4b9f19719900a28afcaa3d4ec605881b6def89f41e6f836dc0a8d34c5b276f52519aafe079c12aa4e4f452017a03a9",
+    "client_seed": "1783884347898",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116,
+    "max_tickets": 350,
+    "combined_hash": "a1d22bbe744b26bf520cca0bce74742a031ff0e72c04052528483814b0b384fa",
+    "result": "60",
+    "external_round_id": "30360330",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:25:47.000000Z",
+    "revealed_at": "2026-07-12T19:25:54.000000Z"
+}
