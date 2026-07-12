@@ -1,0 +1,22 @@
+{
+    "round_id": "e629ae34-4214-43d8-be96-8ea3cb598f75",
+    "draw_title": "£25 GIVEAWAY",
+    "competition_url": "https://luckycharmcompetitions.co.uk/admin/products/ps25-giveaway",
+    "operator": {
+        "name": "Lucky charm competitions",
+        "website": "https://luckycharmcompetitions.co.uk",
+        "company_number": "07927489818"
+    },
+    "drand_server_seed": "5eb4cf826188051e2baa821f02e90f923f9247dbb7fa424dee2d4efd5a1f3575",
+    "drand_seed_hash": "b461227f077a0e5cf0b330d81c14a49957aa26685d868ccec005f0335dcc0ac5327c56727d1f53a5b9c85123e8440e0c",
+    "client_seed": "1783887052120",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 50,
+    "combined_hash": "5e6e4255e915ec992352a2f1378bd99307b4d53393c44fd00a23a98957eea7b4",
+    "result": "41",
+    "external_round_id": "30361232",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:10:52.000000Z",
+    "revealed_at": "2026-07-12T20:11:00.000000Z"
+}
