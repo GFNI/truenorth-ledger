@@ -1,0 +1,22 @@
+{
+    "round_id": "9357a3c0-9f74-4459-b244-2fa5b06c1368",
+    "draw_title": "High 5's Instant Win Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/high-5s-instant-win-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7a1c12f6bc91bad0f6df3144fdd07ae36eece915e0aa06cfd159dbfe529e3cc1",
+    "drand_seed_hash": "84f823ac4459ca7054fbccd0071340b6fcda5383b7821e0701106f3d31e6c6440cc8298a863b392644309c45ff12a7d8",
+    "client_seed": "1783886575236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13881,
+    "max_tickets": 200000,
+    "combined_hash": "4e90b2e04c757ead549fa34cdd5bc896d43bd088c7ed4a5ed2e059b59dd237a5",
+    "result": "198735",
+    "external_round_id": "30361073",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:02:55.000000Z",
+    "revealed_at": "2026-07-12T20:03:03.000000Z"
+}
