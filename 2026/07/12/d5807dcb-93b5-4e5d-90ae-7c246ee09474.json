@@ -1,0 +1,22 @@
+{
+    "round_id": "d5807dcb-93b5-4e5d-90ae-7c246ee09474",
+    "draw_title": "£1000 For 10p!",
+    "competition_url": "https://speedcompetitions.co.uk/competition/ps1000-for-10p-2",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "1c5ca8bacf7e28c8cd4d1f1df9b4290ec5fb2f9021e788a23591bb78a4f5af86",
+    "drand_seed_hash": "8fe17ad85be1c8595f680a64791920f5f3781335d0a719c069cf744d28c3a3ff1b2ec7cba8aa623c4b69cf9e1ca64260",
+    "client_seed": "1783885210171",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10610,
+    "max_tickets": 12500,
+    "combined_hash": "03b0ce6d98dacae2fa34028b00313d6eeea8f27526abcd19e580b78d645234ea",
+    "result": "12020",
+    "external_round_id": "30360617",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:40:10.000000Z",
+    "revealed_at": "2026-07-12T19:40:15.000000Z"
+}
