@@ -1,0 +1,22 @@
+{
+    "round_id": "359e90c5-9685-4018-bbcb-38ae84ab226b",
+    "draw_title": "One Piece OP-06 Wings of the Captain Booster Box + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/one-piece-op-06-wings-of-the-captain-booster-box-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "3a4c5a4155f7cd2fd483cc265c59c0a6188b00b9f7bac5b03d2ebbc406465b32",
+    "drand_seed_hash": "a31489e9d46242477e8bb591389c69946b905911e233f1536e84f456cab4db6e92c85db4bb37d28431bcfd7b07ade01d",
+    "client_seed": "1783892065477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 498,
+    "max_tickets": 1066,
+    "combined_hash": "335772c4759b26e874b94b84f3c3de177d7b6458c4f4864c8c0dbfeeaa1f55fe",
+    "result": "944",
+    "external_round_id": "30362903",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T21:34:25.000000Z",
+    "revealed_at": "2026-07-12T21:34:33.000000Z"
+}
