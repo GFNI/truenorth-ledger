@@ -1,0 +1,22 @@
+{
+    "round_id": "580ff52f-30e5-4d34-9d12-890471aba9dc",
+    "draw_title": "Garden Party Bundle 🍻",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/garden-party-bundle",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "24a39f500b86ee385bbd85b556767f1b58526718a946ea5ed501b2ad3104aedf",
+    "drand_seed_hash": "86255bb71e7c85a773fa73c954ed4296bba012c91a32629f1def5811d01c7da6608193630d2c91a814be717dc97e5c15",
+    "client_seed": "1783884845341",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 172,
+    "max_tickets": 200,
+    "combined_hash": "fb836f7cb228a96ec8ce2af52e9e8d13f24910b3190b0415266e64ebb3a905c9",
+    "result": "68",
+    "external_round_id": "30360496",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:34:05.000000Z",
+    "revealed_at": "2026-07-12T19:34:12.000000Z"
+}
