@@ -1,0 +1,22 @@
+{
+    "round_id": "a9592458-8c7b-45b9-a3f3-69abbd4ac1cc",
+    "draw_title": "🔑 The Bank Heist - Safe Cracker 🔑",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/the-bank-heist-safe-cracker",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "b6b0d0cbe0cfdecfa801db65ff6a990e5a15c616fe7d42249f208faa239ef4f9",
+    "drand_seed_hash": "8a6997eadf93ee2a8100b1c707317664bc7df083415928f2920eca16922b78e7225e85509c556e37aaf46d927977a894",
+    "client_seed": "1783886757725",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25479,
+    "max_tickets": 69999,
+    "combined_hash": "5406f997f63af67c6cde4a1afc03ce23866896b926d153f5b82068e1b8f93ccf",
+    "result": "36125",
+    "external_round_id": "30361133",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:05:57.000000Z",
+    "revealed_at": "2026-07-12T20:06:03.000000Z"
+}
