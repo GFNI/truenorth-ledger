@@ -1,0 +1,22 @@
+{
+    "round_id": "c5c8d920-9e1f-4083-8e96-8648dc86a118",
+    "draw_title": "WIN A NINTENDO SWITCH 2 + INSTANT WINS",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/win-a-nintendo-switch-2-instant-wins",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "ba1c53d027b227fb90a5a50cfd71438542ac65b065eb79f6977900c15c7e343b",
+    "drand_seed_hash": "93cf9a4de92b3cc4fc0fb556860561af687f91ddd538d92f3e36597219cec57a40da6958283eba27d1be7f73c210713c",
+    "client_seed": "1783885738481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59500,
+    "max_tickets": 200000,
+    "combined_hash": "96d37f977cbcb75578faf33ace1c1aa2da6c6a794ff029e4455e3c5c598234e5",
+    "result": "136855",
+    "external_round_id": "30360793",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:48:58.000000Z",
+    "revealed_at": "2026-07-12T19:49:03.000000Z"
+}
