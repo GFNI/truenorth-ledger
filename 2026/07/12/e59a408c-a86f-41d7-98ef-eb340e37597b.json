@@ -1,0 +1,22 @@
+{
+    "round_id": "e59a408c-a86f-41d7-98ef-eb340e37597b",
+    "draw_title": "£100 Freebie Competition",
+    "competition_url": "https://speedcompetitions.co.uk/competition/ps100-freebie-competition",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "a746a279ac70de6cb7243d50ed20eb956569e3fb478c33f723b949d63d83f276",
+    "drand_seed_hash": "95a249ec49a97ebbc50dc9152788aac724ce62143699c4b906cbbf5b711d781b21d1b58f41493e12c3dfff2f7dd26253",
+    "client_seed": "1783881230441",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "169a4a2d95ae71e3db6a41d1619ecae381081470afedf58448005d4928118a04",
+    "result": "31",
+    "external_round_id": "30359291",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T18:33:50.000000Z",
+    "revealed_at": "2026-07-12T18:33:57.000000Z"
+}
