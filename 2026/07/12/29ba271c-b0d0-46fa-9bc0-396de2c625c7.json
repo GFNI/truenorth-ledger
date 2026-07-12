@@ -1,0 +1,22 @@
+{
+    "round_id": "29ba271c-b0d0-46fa-9bc0-396de2c625c7",
+    "draw_title": "10ft Thorpe Trampoline",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/10ft-thorpe-trampoline",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "5fd94fc8ead06d592c477210df2886de19bcd8c565ddb6a65af81a26dd901cef",
+    "drand_seed_hash": "b92e71f93e1b698ab46439aa6adb382f207eb013f30f940f08e441b69fce61ac6be63405ccdf1cb0dabd4f543d1ac664",
+    "client_seed": "1783884890120",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 124,
+    "max_tickets": 200,
+    "combined_hash": "ee2787f0342eb69d86a61279ffe0751b6a68394151932e3edbdfdb00d9ca2238",
+    "result": "23",
+    "external_round_id": "30360511",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:34:50.000000Z",
+    "revealed_at": "2026-07-12T19:34:57.000000Z"
+}
