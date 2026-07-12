@@ -1,0 +1,22 @@
+{
+    "round_id": "80fc41da-3e1b-4649-a9e7-6edef5a93046",
+    "draw_title": "Smash the piñata - Active Players",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/smash-the-pinata-active-players",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "d6cfb2b64e324891b0c79db3a9d5ca08964bc7e4952e123d8cd432841744d91b",
+    "drand_seed_hash": "ad5abee00ce216327a8546c66b7a09d3fdb452a5d5b3d0d92d7de42a3b3e7552fdb10bdbfb3253e5458bcb79cf34b231",
+    "client_seed": "1783886684760",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 715,
+    "max_tickets": 1000,
+    "combined_hash": "b16cba89fd9b502378bc7c320a068b2b549f22eb6e9bd65575c965391aaa9023",
+    "result": "114",
+    "external_round_id": "30361109",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:04:44.000000Z",
+    "revealed_at": "2026-07-12T20:04:51.000000Z"
+}
