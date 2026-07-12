@@ -1,0 +1,22 @@
+{
+    "round_id": "faf8782c-1a3c-4eb0-816f-f1fee6aff8cb",
+    "draw_title": "Warhammer Chaos Space Marines Warband + Defiler + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-chaos-space-marines-warband-defiler-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "184a736399995b584dcb4942ea7c27746976369fa298e932c746a30c4ebfeb9f",
+    "drand_seed_hash": "83f31bef5d2381a44438cc458e4667c5a710cf3a48c33a288af12a8c6a9cca281081497b7e7228a08b6dcdab03d7254b",
+    "client_seed": "1783891057675",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 263,
+    "max_tickets": 1066,
+    "combined_hash": "aa08852be97924c6115d5bf4a0eb2680337f31221a82dfc53af40d098a3b0812",
+    "result": "217",
+    "external_round_id": "30362567",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T21:17:37.000000Z",
+    "revealed_at": "2026-07-12T21:17:45.000000Z"
+}
