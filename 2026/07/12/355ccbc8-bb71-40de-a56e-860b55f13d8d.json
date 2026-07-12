@@ -1,0 +1,22 @@
+{
+    "round_id": "355ccbc8-bb71-40de-a56e-860b55f13d8d",
+    "draw_title": "Echo Show 11",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/echo-show-11",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7f27546b9a7f9a64fe3dd8a308c977fdc90edac0106464a81a086415602d22cb",
+    "drand_seed_hash": "8a79d271e177028bd22642ac38eb2197c433b8259fc2b5302e6f5a63042433a2248cd7551c0b1f9088ae7823a10ea58f",
+    "client_seed": "1783884230414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 350,
+    "combined_hash": "3d9034583f7380bf5c51c0ed1a9e51d02266a2786ae678cf41c3d0053981d868",
+    "result": "256",
+    "external_round_id": "30360291",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:23:50.000000Z",
+    "revealed_at": "2026-07-12T19:23:57.000000Z"
+}
