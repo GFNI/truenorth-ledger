@@ -1,0 +1,22 @@
+{
+    "round_id": "2c5f4f30-14e9-4332-ab6e-0b2995ff5c0b",
+    "draw_title": "Mole Patrol | £250 Main Prize | £3,950 Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/mole-patrol",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "8af7daedc2a3446f969537a83da71d774f598efdee2906426ec08697f77a50db",
+    "drand_seed_hash": "b4e3e7234380cb62fa3d8de37ac18e369624085006281f131d80b95425ca16767f2e6451779a0e11d2568d7a20c10f34",
+    "client_seed": "1783886835033",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62051,
+    "max_tickets": 120000,
+    "combined_hash": "8be01a436de6ab0c7385e37481e057ed5dc2577c2c2ee66b7984ccccea402264",
+    "result": "114892",
+    "external_round_id": "30361159",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:07:15.000000Z",
+    "revealed_at": "2026-07-12T20:07:21.000000Z"
+}
