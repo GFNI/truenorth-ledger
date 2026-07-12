@@ -1,0 +1,22 @@
+{
+    "round_id": "6c97d55a-ce3d-483d-90d2-01096c93e20a",
+    "draw_title": "PINK SLIPS 🏎️ + £1000 END DRAW!💰",
+    "competition_url": "https://clutchcomps.com/admin/products/pink-slips-ps1000-end-draw",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "553ba365c15699b61b734f7adea1bf1d8057c200441f850b93b7b7cd9fe2567b",
+    "drand_seed_hash": "965e5818bf3099e2ade5c5c62a5c0afbc33168006c1197103383d03c5818ac991b1aaab1ad8b32e99d5f8f5b798863c3",
+    "client_seed": "1783889929068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65428,
+    "max_tickets": 71000,
+    "combined_hash": "082f8b9592afcf89cd98660b53f04b8455a145c63518575375cc7ff4104cad6a",
+    "result": "70729",
+    "external_round_id": "30362191",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T20:58:49.000000Z",
+    "revealed_at": "2026-07-12T20:58:57.000000Z"
+}
