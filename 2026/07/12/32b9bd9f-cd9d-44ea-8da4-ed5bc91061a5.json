@@ -1,0 +1,22 @@
+{
+    "round_id": "32b9bd9f-cd9d-44ea-8da4-ed5bc91061a5",
+    "draw_title": "The Show Stopper Instants - £20,000 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/the-show-stopper-instants-ps20000-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "1e9be526b645e505048eb7312c70ee06c22cf63c44e5d516c8b149f677949c44",
+    "drand_seed_hash": "966d094fbc9cdf8f5191feb2256ee9147b2783443fb312d850070a62b061ba7b11c8bfcfb557a9176a49c83253ec8af4",
+    "client_seed": "1783885396603",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6552382,
+    "max_tickets": 6666666,
+    "combined_hash": "af811b9066a6f69ab13d776e35e62448c477789c1d41a2eb3985646b98db483e",
+    "result": "4388684",
+    "external_round_id": "30360680",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T19:43:16.000000Z",
+    "revealed_at": "2026-07-12T19:43:24.000000Z"
+}
