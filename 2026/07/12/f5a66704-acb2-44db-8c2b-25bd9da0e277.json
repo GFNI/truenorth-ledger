@@ -1,0 +1,22 @@
+{
+    "round_id": "f5a66704-acb2-44db-8c2b-25bd9da0e277",
+    "draw_title": "Lucky Loot ☘️",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/lucky-loot",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "2a94b275772f9060963f89e2418c7a13aae6df72d28b022198cf9f7be8bf5f89",
+    "drand_seed_hash": "90cb70901a9bb066ca5ddd406b28bc937980bd5cafe8edc7f0f63884a0cbcce282cbc62ac18b84c4eae3cdfd8d2057ae",
+    "client_seed": "1783879860994",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 1000,
+    "combined_hash": "5fdaf7f7fad5100311b6ccd866b31d9dcc0fbb7b5ae3f31ab2ccc5939492771d",
+    "result": "648",
+    "external_round_id": "30358835",
+    "processing_status": "completed",
+    "created_at": "2026-07-12T18:11:01.000000Z",
+    "revealed_at": "2026-07-12T18:11:09.000000Z"
+}
