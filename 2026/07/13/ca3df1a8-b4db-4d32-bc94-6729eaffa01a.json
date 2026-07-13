@@ -1,0 +1,22 @@
+{
+    "round_id": "ca3df1a8-b4db-4d32-bc94-6729eaffa01a",
+    "draw_title": "Summer Sixes 🌞",
+    "competition_url": "https://redlemonx.co.uk/admin/products/summer-sixes",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "d0f62284878deeb17cbdf5d63f60a92965f7388069440f141df938ad61096a60",
+    "drand_seed_hash": "ac8f9b6ad4aba8818ba051018ff9623ebecb260abf7c62cdc244b4af070e856bee0dc7f627fe2c3783093587703da14c",
+    "client_seed": "1783969781325",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21791,
+    "max_tickets": 48000,
+    "combined_hash": "6d8e2683d33f9e7a255387af279abfae36611c85eed93ec6231e8efbc3a9b65e",
+    "result": "22126",
+    "external_round_id": "30388808",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:09:41.000000Z",
+    "revealed_at": "2026-07-13T19:09:48.000000Z"
+}
