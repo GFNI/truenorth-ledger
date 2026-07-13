@@ -1,0 +1,22 @@
+{
+    "round_id": "a32ef451-767e-40d9-a06d-90cd204a8f12",
+    "draw_title": "Aztec Adventure 🪙",
+    "competition_url": "https://redlemonx.co.uk/admin/products/aztec-adventure",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "b46305e4f4dd3b2545029d1a35df62e2129da81b3d04083faeccb6f9e5f094b3",
+    "drand_seed_hash": "91b0f0c3701a02051518dc1ee58c43148f432f13ddeadf9d86be73a3171f5a0a5efa2ead055ae1d3f2a95d00fcd86951",
+    "client_seed": "1783969610910",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5988,
+    "max_tickets": 6000,
+    "combined_hash": "6b0138e6b2367fcd0980e57da6d8ad86a1661d204acc5a3c454c7e3d7188a0d6",
+    "result": "2060",
+    "external_round_id": "30388751",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:06:50.000000Z",
+    "revealed_at": "2026-07-13T19:06:57.000000Z"
+}
