@@ -1,0 +1,22 @@
+{
+    "round_id": "4c32ce67-b220-4be7-b096-86a85962ba41",
+    "draw_title": "£250 Cash",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/ps250-cash-8",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "87faaa0cf282af08ae5bb95a752b9f8e2e9d300b5d754cb907c2417c8623b265",
+    "drand_seed_hash": "8c4ad6ca8d54c3a479905cd8ed40a0b2a7fd24ba29479554d199ab6ba9bd521af195526f2611a1b0c5b7c98df0589180",
+    "client_seed": "1783982457633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399,
+    "max_tickets": 500,
+    "combined_hash": "50427cf226a504e1fe7b3db4a7f7c4118e7b74f957f0022612ee2dec3d10e78d",
+    "result": "213",
+    "external_round_id": "30393033",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T22:40:57.000000Z",
+    "revealed_at": "2026-07-13T22:41:03.000000Z"
+}
