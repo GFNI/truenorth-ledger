@@ -1,0 +1,22 @@
+{
+    "round_id": "0bd3629c-4bff-4f62-9d60-1e4a5dd7ab62",
+    "draw_title": "MINI DRAW - WIN 100 TICKETS INTO THE PIKACHU EX OR £700 COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-100-tickets-into-the-pikachu-ex-or-ps700-comp-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "bada649157dad81a63a53e152d7f83100fdd5de178ac5b1d82165b0f1ca4f5f4",
+    "drand_seed_hash": "8c31a1c135434a90828cdf8ee15528b69ca46b9f373ab2aa292e37185b5cf8b90cb51a4c4182963d448fc1a7f2939c4d",
+    "client_seed": "1783937858271",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146,
+    "max_tickets": 300,
+    "combined_hash": "91c436ce583e926f16ae3e00c958792375b8d1f8fc283ae8876d95d5ca674143",
+    "result": "62",
+    "external_round_id": "30378167",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T10:17:38.000000Z",
+    "revealed_at": "2026-07-13T10:17:45.000000Z"
+}
