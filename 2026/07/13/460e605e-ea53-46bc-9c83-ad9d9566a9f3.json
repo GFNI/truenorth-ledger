@@ -1,0 +1,22 @@
+{
+    "round_id": "460e605e-ea53-46bc-9c83-ad9d9566a9f3",
+    "draw_title": "WIN X10 ENTRIES TO £25,000 COMP (MONDAY)",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/win-x10-entries-to-ps25000-comp-monday",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "e3c823a42f1cbc46e88290a0a2b55f48a0c93968ae1849e0b0fb2f844360e7d8",
+    "drand_seed_hash": "b5db2900d75861400fb1ccc2d25ffd5541f73af19d3e72fecb2431776f060c760d9fb31314d922fee4805edb38b14563",
+    "client_seed": "1783982448985",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 304,
+    "max_tickets": 500,
+    "combined_hash": "eba2e8afbac85c1cde9418bbed299f81ffa047fbe30a82ab3d7981f489539428",
+    "result": "360",
+    "external_round_id": "30393031",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T22:40:49.000000Z",
+    "revealed_at": "2026-07-13T22:40:57.000000Z"
+}
