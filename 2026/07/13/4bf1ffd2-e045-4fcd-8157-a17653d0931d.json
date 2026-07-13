@@ -1,0 +1,22 @@
+{
+    "round_id": "4bf1ffd2-e045-4fcd-8157-a17653d0931d",
+    "draw_title": "🎵APPLE AirPods Max 2 Wireless Headphones🎵",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-airpods-max-2-wireless-headphones",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e9f4e9749783d2905d46e11a1ccf1754cbc499818c2f684a22285b0919dd3ae0",
+    "drand_seed_hash": "934901884e7deec9c217df9f8a722e97c92f3beb04df81bbd9f5a277178800189c390803b4c340c8b4beb5ba7b8a3741",
+    "client_seed": "1783969916270",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 880,
+    "max_tickets": 880,
+    "combined_hash": "bd64bedb21a13a69ae515ecab170a67ac26adcb3f3591caff80c3655ed4a53fa",
+    "result": "94",
+    "external_round_id": "30388853",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:11:56.000000Z",
+    "revealed_at": "2026-07-13T19:12:03.000000Z"
+}
