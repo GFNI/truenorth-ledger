@@ -1,0 +1,22 @@
+{
+    "round_id": "4890fe9a-ecce-46e2-869c-94824b35fada",
+    "draw_title": "Slots 1",
+    "competition_url": "https://jack.rafflex.uk/admin/products/slots-1",
+    "operator": {
+        "name": "JJJ",
+        "website": "https://jack.rafflex.uk",
+        "company_number": "111111"
+    },
+    "drand_server_seed": "d6435f2e2839a7324d9ed0d553a99f36957412abe24ccffe0b8230583c1ce4c8",
+    "drand_seed_hash": "b65c4b414ff9100ffcc54e567b769c7528f982a9718848f285c1550456ec6530868a9a5fa1d7910c490809f5b682c7b1",
+    "client_seed": "1783967480061",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2358,
+    "max_tickets": 3000,
+    "combined_hash": "637658957213a5e0104ae2a93d675ed02c7798170bc50d5b12363febd38e5316",
+    "result": "2660",
+    "external_round_id": "30388041",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T18:31:20.000000Z",
+    "revealed_at": "2026-07-13T18:31:27.000000Z"
+}
