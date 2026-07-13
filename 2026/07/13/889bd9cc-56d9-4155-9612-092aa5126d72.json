@@ -1,0 +1,22 @@
+{
+    "round_id": "889bd9cc-56d9-4155-9612-092aa5126d72",
+    "draw_title": "Bongos One Line",
+    "competition_url": "https://jetcomps.co.uk/admin/products/bongos-one-line",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "28a307f6d14c54d68730354940495c59a587f6828ea0a64c97aa1a5dac66b6bb",
+    "drand_seed_hash": "8afb8f9488323d6f97828474a78e30a526a01c14cfa3fca712251ac94d882e131758c6e4d20272ff0871014b3de21554",
+    "client_seed": "1783970976464",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7110,
+    "max_tickets": 14922,
+    "combined_hash": "2f6c5938de083e43e8ee8c5c3011cab248649c43e20cbbb3542fb43b5dd85a02",
+    "result": "1186",
+    "external_round_id": "30389206",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:29:36.000000Z",
+    "revealed_at": "2026-07-13T19:29:42.000000Z"
+}
