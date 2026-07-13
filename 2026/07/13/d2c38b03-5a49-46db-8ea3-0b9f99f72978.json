@@ -1,0 +1,22 @@
+{
+    "round_id": "d2c38b03-5a49-46db-8ea3-0b9f99f72978",
+    "draw_title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿 World Cup -find a player 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "competition_url": "https://ohanacomps.com/admin/products/world-cup-find-a-player",
+    "operator": {
+        "name": "Ohana Competitions Ltd",
+        "website": "https://ohanacomps.com",
+        "company_number": "SC891635"
+    },
+    "drand_server_seed": "fa7ce6fcb31da713310fae6bb43e792086e051bc6b34f9dcc45686953a9e3c0e",
+    "drand_seed_hash": "afe191e0301e010c9d07bc16472c097a22ade56356d676babc6aa14dfc34959a1a129a57dc99aff635d25af7ec91c4e0",
+    "client_seed": "1783971648604",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7627,
+    "max_tickets": 99999,
+    "combined_hash": "77620a8f4ec12bd0ee3c10a9670245f6dde4025b1c3bc34df96aac15f8b347eb",
+    "result": "46454",
+    "external_round_id": "30389430",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:40:48.000000Z",
+    "revealed_at": "2026-07-13T19:40:54.000000Z"
+}
