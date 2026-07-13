@@ -1,0 +1,22 @@
+{
+    "round_id": "c5d44fbe-adfb-448e-9c57-1bee1a0854e1",
+    "draw_title": "📱APPLE iPhone 17 Pro - 256 GB, Silver📱",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-iphone-17-pro-256-gb-silver-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "006cea945063b7cdb6418594f9d0d1db1afe2c0b17f7ead5c1bf2f1bbe9fed1d",
+    "drand_seed_hash": "80f30309a01f126abc737b139fcb7b1cdc660b250c9f700ed6e9bfb3ab51419a4b38415f38c11808ae4f4c5d239975a0",
+    "client_seed": "1783969668605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1780,
+    "max_tickets": 1780,
+    "combined_hash": "673cde549948a882f891a51b762becf5fb1173626c27ce92a8ef9cacb08a8dad",
+    "result": "120",
+    "external_round_id": "30388770",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:07:48.000000Z",
+    "revealed_at": "2026-07-13T19:07:54.000000Z"
+}
