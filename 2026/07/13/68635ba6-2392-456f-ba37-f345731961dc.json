@@ -1,0 +1,22 @@
+{
+    "round_id": "68635ba6-2392-456f-ba37-f345731961dc",
+    "draw_title": "Cash Climber Spin 43",
+    "competition_url": "https://jetcomps.co.uk/admin/products/cash-climber-spin-43",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "31772a3dabe091ac36100f16ace6bc505267837fc27d036658dc4ac6f5e584d7",
+    "drand_seed_hash": "876e34efd66e8a73e0817745d5fb185b09c820956f89b24828620be4bf831891dfcc83d8924666334b3947b9fc04c761",
+    "client_seed": "1783966467568",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 69,
+    "combined_hash": "6135365eaddb14032581e8b26bccf98a5c0dac61b624705ea5157df0a65b920f",
+    "result": "38",
+    "external_round_id": "30387703",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T18:14:27.000000Z",
+    "revealed_at": "2026-07-13T18:14:33.000000Z"
+}
