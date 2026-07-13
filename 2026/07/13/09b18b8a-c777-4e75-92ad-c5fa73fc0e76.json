@@ -1,0 +1,22 @@
+{
+    "round_id": "09b18b8a-c777-4e75-92ad-c5fa73fc0e76",
+    "draw_title": "🧊 Ninja SLUSHi Frozen Drinks Maker Bundle 🧊",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-slushi-frozen-drinks-maker-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "aa5ccdef338b0b8461ca044b6dab1e458ada5ea263590611f8cd67c24d4d46e0",
+    "drand_seed_hash": "a609222ba30453ca025de7d0f72be47e58a0f974f5feafdc5f2d8fec78889e02be95cec0636f91d11550459962925d35",
+    "client_seed": "1783970342935",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 865,
+    "max_tickets": 865,
+    "combined_hash": "594dd94bbd1708c00ff24c322cbc8e2198d1ce92dee0724f68fec9b36c92aeb3",
+    "result": "539",
+    "external_round_id": "30388995",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:19:03.000000Z",
+    "revealed_at": "2026-07-13T19:19:09.000000Z"
+}
