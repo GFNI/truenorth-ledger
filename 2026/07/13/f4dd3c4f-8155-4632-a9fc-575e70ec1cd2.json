@@ -1,0 +1,22 @@
+{
+    "round_id": "f4dd3c4f-8155-4632-a9fc-575e70ec1cd2",
+    "draw_title": "World Cup Winners",
+    "competition_url": "https://jetcomps.co.uk/admin/products/world-cup-winners",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "bb088caac07053214757caf81c8ead11fccd2060bd84fc9b5a6c76aea775fbc1",
+    "drand_seed_hash": "8d272d698d458360fe0b367756207d0970882b4924402cdef844f15eb0b4f75a86ba42b49335406587d0f1aa9689eacc",
+    "client_seed": "1783971321449",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97269,
+    "max_tickets": 165825,
+    "combined_hash": "c1b246ee6207fd07527da98eeb1b7831a794a7717d9269feb34db2b69704518e",
+    "result": "67415",
+    "external_round_id": "30389321",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:35:21.000000Z",
+    "revealed_at": "2026-07-13T19:35:27.000000Z"
+}
