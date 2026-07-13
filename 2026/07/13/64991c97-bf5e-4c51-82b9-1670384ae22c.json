@@ -1,0 +1,22 @@
+{
+    "round_id": "64991c97-bf5e-4c51-82b9-1670384ae22c",
+    "draw_title": "£500 ENTER FOR 85P😎",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-enter-for-85p-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7f41216a75b3981ddb34ba5202fd4275aa451d2161011036933e1f73f0445270",
+    "drand_seed_hash": "83f300101e1a40c93606258e6ed48d1ee7657408cbc57aec5ba9bfe82b59acabcb3ac789abbeddbd1c0d2cadd7e11316",
+    "client_seed": "1783970708044",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 930,
+    "max_tickets": 930,
+    "combined_hash": "4638ffd79d722db1f25e96fc4b8ed635d3b629aea826ac21f8d93e0724182088",
+    "result": "687",
+    "external_round_id": "30389117",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:25:08.000000Z",
+    "revealed_at": "2026-07-13T19:25:15.000000Z"
+}
