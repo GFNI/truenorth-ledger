@@ -1,0 +1,22 @@
+{
+    "round_id": "50e4ff2d-2f35-4fcc-b9ec-946fc9c27267",
+    "draw_title": "Loads Of Little Wins #3",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/loads-of-little-wins-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "20ccd9f602175301767629699b1944485152f5e6297aa1698a006fa65a52bf81",
+    "drand_seed_hash": "a6480b17c439e1d4c72ffc95c6f33cc9aaef7bd90886e5bdfb3b623f800b50d8edff377c61ac150972a2581ac96d92e8",
+    "client_seed": "1783940138676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "8ce37796224cef5f909a5fb95ae9ea2405fcbffb12786bf8382126feb39b65a2",
+    "result": "19437",
+    "external_round_id": "30378927",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T10:55:38.000000Z",
+    "revealed_at": "2026-07-13T10:55:45.000000Z"
+}
