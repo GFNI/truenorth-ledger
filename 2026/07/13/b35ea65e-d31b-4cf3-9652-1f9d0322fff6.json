@@ -1,0 +1,22 @@
+{
+    "round_id": "b35ea65e-d31b-4cf3-9652-1f9d0322fff6",
+    "draw_title": "Ohana’s Lucky Lockers",
+    "competition_url": "https://ohanacomps.com/admin/products/ohanas-lucky-lockers",
+    "operator": {
+        "name": "Ohana Competitions Ltd",
+        "website": "https://ohanacomps.com",
+        "company_number": "SC891635"
+    },
+    "drand_server_seed": "dbd3020a9790975001598a8bb981d1b52906cddc1362e82a59f96d8d17a7e7e1",
+    "drand_seed_hash": "9694aa7e0aef4f0805e9d336503204b03728d94aad8e7d59cfab902a73852beb623b90e19443b37d74bfa1863f17fec5",
+    "client_seed": "1783971672529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 1500,
+    "combined_hash": "9d610afd434b932a6454771afcf65cc8c161b23fd50adcc2d8b543c9e0e2759c",
+    "result": "998",
+    "external_round_id": "30389438",
+    "processing_status": "completed",
+    "created_at": "2026-07-13T19:41:12.000000Z",
+    "revealed_at": "2026-07-13T19:41:18.000000Z"
+}
