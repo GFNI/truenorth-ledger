@@ -1,0 +1,22 @@
+{
+    "round_id": "3c1153bb-b949-48cc-b00b-47666fedeff5",
+    "draw_title": "💷 THE CASH HIT VAULT 💷",
+    "competition_url": "https://theprizevault.co.uk/admin/products/the-cash-hit-vault",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "969cce54ec88d3eb917e57d906539f648f835029560a4edf609b0fb3741a788f",
+    "drand_seed_hash": "946cfc91e22d97244329446b5e0058185d9621f98a826ff6b8454e0197f416f443f09b5d69f6f65146a5ce1d86700c72",
+    "client_seed": "1784056255255",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 3000,
+    "combined_hash": "10b08f5732c417062ec8d6a98101905a25ba90971aeb4512fbb421af9a729a5c",
+    "result": "513",
+    "external_round_id": "30417633",
+    "processing_status": "completed",
+    "created_at": "2026-07-14T19:10:55.000000Z",
+    "revealed_at": "2026-07-14T19:11:03.000000Z"
+}
