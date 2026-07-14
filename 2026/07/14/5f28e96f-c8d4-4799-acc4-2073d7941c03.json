@@ -1,0 +1,22 @@
+{
+    "round_id": "5f28e96f-c8d4-4799-acc4-2073d7941c03",
+    "draw_title": "500 Entries into Tag Heuer Watch and Cash Instants - Worth £745 - 14th July",
+    "competition_url": "https://proprizes.co.uk/admin/products/500-entries-into-tag-heuer-watch-and-cash-instants-worth-ps745-14th-july",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "fb6e6ee463435bdd0e05add773ea52ba6d81e9985641ecfa49450b2052000800",
+    "drand_seed_hash": "8862da9f8d9da490e8d4bcf122272e6fd282f33cf032c33adcc50d5ab9cbf9bd991fbf58b80a483c6665b982ac1b496b",
+    "client_seed": "1784063441764",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 200,
+    "combined_hash": "1ae29d0919578e6ead33d8f90de450012a3eca2ed710fa8d00d5a49f9581d967",
+    "result": "179",
+    "external_round_id": "30420028",
+    "processing_status": "completed",
+    "created_at": "2026-07-14T21:10:41.000000Z",
+    "revealed_at": "2026-07-14T21:10:48.000000Z"
+}
