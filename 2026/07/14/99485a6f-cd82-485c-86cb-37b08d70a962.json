@@ -1,0 +1,22 @@
+{
+    "round_id": "99485a6f-cd82-485c-86cb-37b08d70a962",
+    "draw_title": "Pro Prizes Plinko - £500 End Prize",
+    "competition_url": "https://proprizes.co.uk/admin/products/pro-prizes-plinko-ps500-end-prize",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "a8421ffb5094e59c105196050ab3297a8bbfd49b17de18d19448e5c681c81b54",
+    "drand_seed_hash": "acc53bb5627298ebca4f04b959769668bb55ab468ae3ddfca5b68008623a972e09cd12bfb0249ba36054fdff497617c0",
+    "client_seed": "1784067040642",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13101,
+    "max_tickets": 59999,
+    "combined_hash": "685c8776fd3703e879a56cce61681019feab6b47a24752a9430211acaaf4b24f",
+    "result": "35648",
+    "external_round_id": "30421228",
+    "processing_status": "completed",
+    "created_at": "2026-07-14T22:10:40.000000Z",
+    "revealed_at": "2026-07-14T22:10:48.000000Z"
+}
