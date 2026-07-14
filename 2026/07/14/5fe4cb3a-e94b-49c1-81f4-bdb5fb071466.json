@@ -1,0 +1,22 @@
+{
+    "round_id": "5fe4cb3a-e94b-49c1-81f4-bdb5fb071466",
+    "draw_title": "🌈WINBOW PLINKO!🌈",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/winbow-plinko",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "959a094b1cc262b47a35682241f91d2c1a19cb745fc6f213a261991031f6f4fe",
+    "drand_seed_hash": "8d4e21cfbc75d74269af438ba5006432f3d416758ba7de814bc79aa96db39075eaaaad379295a7f28b8186bc4479bc92",
+    "client_seed": "1784052394983",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12085,
+    "max_tickets": 65000,
+    "combined_hash": "b8ca461bf813ded8d90d75af77adef0117dac0ebb26c8a91b3a69176b6708f1a",
+    "result": "24249",
+    "external_round_id": "30416346",
+    "processing_status": "completed",
+    "created_at": "2026-07-14T18:06:35.000000Z",
+    "revealed_at": "2026-07-14T18:06:42.000000Z"
+}
