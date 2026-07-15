@@ -1,0 +1,22 @@
+{
+    "round_id": "08ec9467-c768-4ebc-8118-2b413036e66f",
+    "draw_title": "Win £100. Low Odds 💰 Daily Draw - Wednesday",
+    "competition_url": "https://topdogprizes.com/admin/products/win-ps100-low-odds-daily-draw-wednesday-2",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "cdcd0a5cea0d2a4d641b00fa67bd58930cda7b915f32114f31aba7f000fca8ee",
+    "drand_seed_hash": "97e12c5e8327e04e1f961c27fea16fe0d5a360d9b15f9fd60d4cba9b57841e358b8401659f1b2808028e00498d70679d",
+    "client_seed": "1784150075726",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 200,
+    "combined_hash": "264e500d31651604a3c37ec42e07cb140a27bead294bfa8513bff5299b4696bd",
+    "result": "95",
+    "external_round_id": "30448906",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T21:14:35.000000Z",
+    "revealed_at": "2026-07-15T21:14:42.000000Z"
+}
