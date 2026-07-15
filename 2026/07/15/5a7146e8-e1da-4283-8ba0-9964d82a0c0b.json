@@ -1,0 +1,22 @@
+{
+    "round_id": "5a7146e8-e1da-4283-8ba0-9964d82a0c0b",
+    "draw_title": "Completed - PS5 Bundle",
+    "competition_url": "https://zen-yak.test/admin/products/completed-ps5-bundle",
+    "operator": {
+        "name": "FSDF",
+        "website": "https://zen-yak.test",
+        "company_number": "12345"
+    },
+    "drand_server_seed": "77ff399dcc33c6c947b5d75d894d3fe7541ec9bd3ebc042fb59191e279a53565",
+    "drand_seed_hash": "8eff0d9a8d4f56776b226e646005eb585fbb24cb05b96ca86203d223561c8c161912ef7d97e58bac1e6c22a6ca6855db",
+    "client_seed": "1784103675363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 100,
+    "combined_hash": "1a166d9469605cfae38f02574a797f5e052f0fa15f51199729eee1047c95caec",
+    "result": "51",
+    "external_round_id": "30433439",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T08:21:15.000000Z",
+    "revealed_at": "2026-07-15T08:21:21.000000Z"
+}
