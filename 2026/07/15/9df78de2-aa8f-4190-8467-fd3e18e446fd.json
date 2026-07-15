@@ -1,0 +1,22 @@
+{
+    "round_id": "9df78de2-aa8f-4190-8467-fd3e18e446fd",
+    "draw_title": "Goal Digger",
+    "competition_url": "https://chaotic.co.uk/competition/goal-digger",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "73bd3e190a14136cf511a81d629036a021c4dbde3e2010e3ff5e1e755f57ccab",
+    "drand_seed_hash": "b789e7d9f30c32aa1b6d5c1bf8fd0450dde665e50b6b027e44ca4d8505b6118526ac1de480c954c0056cabfab89f28b8",
+    "client_seed": "1784144542187",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "d3b3ae3a1013a4a2a8e3caff250c76261683df27f892d4d61e3b9d49e1d3e058",
+    "result": "528812",
+    "external_round_id": "30447062",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:42:22.000000Z",
+    "revealed_at": "2026-07-15T19:42:30.000000Z"
+}
