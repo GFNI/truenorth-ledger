@@ -1,0 +1,22 @@
+{
+    "round_id": "06069cf2-78c6-4ad6-be86-f474ff98eb7d",
+    "draw_title": "👑 CROWN JEWELS – Royal Riches Drop",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/crown-jewels-royal-riches-drop",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "5a2f9c3ad617bc35712eef409dd898a0256921c4a51bae7627fbffea8582488d",
+    "drand_seed_hash": "8ef48517f05e081f9300b313f5b39a0d285c4dcaab5d108f0470494183ccfe27d793eea0414a490f96b20f3a57cc57f3",
+    "client_seed": "1784139035874",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1717937,
+    "max_tickets": 1750000,
+    "combined_hash": "bcaf166272aa798e22cb59db899bcd63d02987e46af35e05cb03b2c03cb7a0ce",
+    "result": "653949",
+    "external_round_id": "30445226",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T18:10:35.000000Z",
+    "revealed_at": "2026-07-15T18:10:42.000000Z"
+}
