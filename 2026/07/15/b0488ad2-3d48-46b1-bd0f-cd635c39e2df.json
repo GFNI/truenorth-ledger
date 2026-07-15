@@ -1,0 +1,22 @@
+{
+    "round_id": "b0488ad2-3d48-46b1-bd0f-cd635c39e2df",
+    "draw_title": "3D Pendulum Puzzle",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/3d-pendulum-puzzle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "a7d71f8632e86bebe211a85117507108a26a53772fe38a55d154b44aa5048625",
+    "drand_seed_hash": "a5b24d9f0043ad56864f6e786db49b7268a0abe053cd3ce8b1c4f7fe53b3ee630e51d19982a27f5a9fd7ab0c659e20db",
+    "client_seed": "1784143156483",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 200,
+    "combined_hash": "53f95fe03e352b6029ef37ebc27209acac699c514ed2d96e90fc71746d548620",
+    "result": "132",
+    "external_round_id": "30446600",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:19:16.000000Z",
+    "revealed_at": "2026-07-15T19:19:24.000000Z"
+}
