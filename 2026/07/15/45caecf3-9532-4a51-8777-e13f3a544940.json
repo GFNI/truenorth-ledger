@@ -1,0 +1,22 @@
+{
+    "round_id": "45caecf3-9532-4a51-8777-e13f3a544940",
+    "draw_title": "🚨 ENDING - APPLE IPAD - ENDING 🚨",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ending-apple-ipad-ending",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "6afba4139771985c580779e24602fd64700f43404316dd58ca37081cf04de571",
+    "drand_seed_hash": "8b2531304af4eff1fd301ec8b41b27a2060155ecd4807a65ddcb7d724ce4a3c3f80ff149e2c08fda2bf806a9ca8b2f73",
+    "client_seed": "1784144998458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 503,
+    "max_tickets": 1200,
+    "combined_hash": "1981ad39155cb4ce1ab601fadc62b047772836ae7687fe77e616b37a0b33ec36",
+    "result": "490",
+    "external_round_id": "30447213",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:49:58.000000Z",
+    "revealed_at": "2026-07-15T19:50:03.000000Z"
+}
