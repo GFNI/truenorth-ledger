@@ -1,0 +1,22 @@
+{
+    "round_id": "9be1896b-814e-4922-a0fc-d7c0c0b8e293",
+    "draw_title": "Every Scratch is a Win! £500 Main Draw",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/every-scratch-is-a-win-ps500-main-draw",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "421197f9a4f9fbc827b61627cb8a88633b95e1e9c66209dab31296070345653f",
+    "drand_seed_hash": "9396ac458795137882b86d85377ac642574731cafd6eac6606ec2a63ea711b7b47aeff4c35773bb1bef8df476a7fb70e",
+    "client_seed": "1784142636509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1360,
+    "max_tickets": 33334,
+    "combined_hash": "73077b94d374971bfa8b93a2d3ec363ca66627671243dcc9568f4731c041071b",
+    "result": "7650",
+    "external_round_id": "30446426",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:10:36.000000Z",
+    "revealed_at": "2026-07-15T19:10:42.000000Z"
+}
