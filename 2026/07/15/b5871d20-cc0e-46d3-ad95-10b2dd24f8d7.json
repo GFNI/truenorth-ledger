@@ -1,0 +1,22 @@
+{
+    "round_id": "b5871d20-cc0e-46d3-ad95-10b2dd24f8d7",
+    "draw_title": "WIN WORLD COFFEES",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/win-world-coffees",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "11227cc439694f8310907c47bb136a6de3b96fca788abab654d3533848decee0",
+    "drand_seed_hash": "a02a520a70a62a17978d9c139d5e0bba80aa6e8d47315b4acdada1c8ec57a9eacba986e7c3bcac5082f919241c26ca6a",
+    "client_seed": "1784146249128",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2092,
+    "max_tickets": 8500,
+    "combined_hash": "8f386dbb7eb2f8acb0f099b1f495a8567e3bb546a4403a4d362654c7d9800241",
+    "result": "7296",
+    "external_round_id": "30447631",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T20:10:49.000000Z",
+    "revealed_at": "2026-07-15T20:10:57.000000Z"
+}
