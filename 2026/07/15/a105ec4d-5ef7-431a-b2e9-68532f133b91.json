@@ -1,0 +1,22 @@
+{
+    "round_id": "a105ec4d-5ef7-431a-b2e9-68532f133b91",
+    "draw_title": "Double Up",
+    "competition_url": "https://chaotic.co.uk/competition/double-up-5599",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "be9cb7c29edb5e67beb58354a2f2193a6f787f45c340cfdc27cb316dbba8cb12",
+    "drand_seed_hash": "a6c6836bd6d09077cd3d66b5d80df95379ad0de4516730973b18b17403a03c41584fd7c5dd01129ec5ed459a9ff441b2",
+    "client_seed": "1784144298484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800,
+    "max_tickets": 800,
+    "combined_hash": "6615bdc18df5e0e34979f62c2c7cc566f55036f2c2bdf33b65d8f4bec8179a36",
+    "result": "71",
+    "external_round_id": "30446980",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:38:18.000000Z",
+    "revealed_at": "2026-07-15T19:38:24.000000Z"
+}
