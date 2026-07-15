@@ -1,0 +1,22 @@
+{
+    "round_id": "9d7f3f55-7137-409f-9f7d-28568368404a",
+    "draw_title": "MARIO MADNESS 1p COIN DROP",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/mario-madness-1p-coin-drop",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "1cce68699057aa355732a75baaabafc9221fc94b23248d40d81e4da3654284c1",
+    "drand_seed_hash": "853efa4bc255990930e904b31cd9885ef305deacecf41ab43a13a9587f68ef953fde50d865bd9cac45869817713007f7",
+    "client_seed": "1784144571326",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 162287,
+    "max_tickets": 170000,
+    "combined_hash": "cb0373e5276d47d3a927218b21cc526d500840113aa3aa8f5d56a603d8d47a8f",
+    "result": "40076",
+    "external_round_id": "30447071",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:42:51.000000Z",
+    "revealed_at": "2026-07-15T19:42:57.000000Z"
+}
