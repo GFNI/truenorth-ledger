@@ -1,0 +1,22 @@
+{
+    "round_id": "412ca36f-4888-499c-bd7e-bec4fc5ac341",
+    "draw_title": "MARIO'S £5,000 LOOT BOXES",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/marios-ps5000-loot-boxes",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "9c5b24214f6be04fb4738b55b1425a4e26f515cc063e08bc6cd8e900c66390d0",
+    "drand_seed_hash": "95e0577a995cd8d51b32b5067c7aa2057c75824a7fac65af3ba34e8e193dd974e4d6549c7d10d9476428a40acd503a4a",
+    "client_seed": "1784144770581",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2783,
+    "max_tickets": 23845,
+    "combined_hash": "75310870edf7caeaea1e2ade824ae6c8c5276d5e53ab59b78e7d42e5de54a241",
+    "result": "3017",
+    "external_round_id": "30447138",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:46:10.000000Z",
+    "revealed_at": "2026-07-15T19:46:18.000000Z"
+}
