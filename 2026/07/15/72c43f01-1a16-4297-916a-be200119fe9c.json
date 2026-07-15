@@ -1,0 +1,22 @@
+{
+    "round_id": "72c43f01-1a16-4297-916a-be200119fe9c",
+    "draw_title": "7.5ft Trampoline or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/75ft-trampoline-or-cash-6554",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8a6cfe1ee6e9eb98cbe0a23a9c31dac7b0d0fdf90ffc32240ca8a816b0870578",
+    "drand_seed_hash": "a4a43539b77f2a7f207bc24ac9de57c454bd7d9b8f64c8ff67a56da82615de8d38116cdba9746adebaf6156eb035267e",
+    "client_seed": "1784144494605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9000,
+    "max_tickets": 9000,
+    "combined_hash": "103db99fee3ff373763b6d10666a96b4433397e52c717328eca8f6d32e581a07",
+    "result": "3137",
+    "external_round_id": "30447046",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:41:34.000000Z",
+    "revealed_at": "2026-07-15T19:41:42.000000Z"
+}
