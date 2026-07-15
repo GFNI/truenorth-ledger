@@ -1,0 +1,22 @@
+{
+    "round_id": "9785e3cf-cc31-49d5-b3c4-2b3a7bca5f98",
+    "draw_title": "Poppin' Panda",
+    "competition_url": "https://chaotic.co.uk/competition/poppin-panda-8541",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2c2c64a9181afab65ae5fdea47caf05d909217d70e4af36b5aaea699a0c3ff3b",
+    "drand_seed_hash": "8d287235e928c9159c81fb999b8f2af3697be3d6934b212afa45706f6b621eb50c4fe2f64309ecba4aeb77e57dcf0a00",
+    "client_seed": "1784144156401",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "e66a3337540209a1c6208279ce396ed7b494f0a5d8964b2a7bd261d03fca99e3",
+    "result": "583",
+    "external_round_id": "30446933",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:35:56.000000Z",
+    "revealed_at": "2026-07-15T19:36:03.000000Z"
+}
