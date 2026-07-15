@@ -1,0 +1,22 @@
+{
+    "round_id": "71634324-89db-4ce4-a666-6bf87ac3f88c",
+    "draw_title": "Shark Cash Attack",
+    "competition_url": "https://chaotic.co.uk/competition/shark-cash-attack-2153",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b0727062305a809a29903af62c5a5996684d34ff9f2cc07ea060c704f58835ae",
+    "drand_seed_hash": "b65f6fabf5470d27be8d65a89e09240c4198f6bac90a625ce59a21082b44f7ae7329d17e104a9f246f5ff9f79f143043",
+    "client_seed": "1784144993974",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999999,
+    "max_tickets": 1999999,
+    "combined_hash": "0fb9ef3adec18123633ea2f696abff229ea75dea6ac3bc0b51d10363fa1abf77",
+    "result": "789502",
+    "external_round_id": "30447212",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:49:53.000000Z",
+    "revealed_at": "2026-07-15T19:50:00.000000Z"
+}
