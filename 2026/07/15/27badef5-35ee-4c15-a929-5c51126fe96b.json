@@ -1,0 +1,22 @@
+{
+    "round_id": "27badef5-35ee-4c15-a929-5c51126fe96b",
+    "draw_title": "Pitch Black PC ETB #2",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pitch-black-pc-etb-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "74e75d062cc0d0003dfd23f0b9633fe9ac051d00b391233f38afbcac5f2a2756",
+    "drand_seed_hash": "8dd0cca178313f7e5dfdebb63317241defe2d4a7ed0a64e9648312efb336ebe8634f6f5d09fb37116fb7adcc063a1adb",
+    "client_seed": "1784131420936",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "7ed4e4167f377ab30bdebbcae3952bf7b41db193541165434e67505f65d1565c",
+    "result": "159",
+    "external_round_id": "30442688",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T16:03:41.000000Z",
+    "revealed_at": "2026-07-15T16:03:48.000000Z"
+}
