@@ -1,0 +1,22 @@
+{
+    "round_id": "236124e0-f3c5-4767-ab0f-8e75b9826404",
+    "draw_title": "PENNY POP INSTANT WIN + £100 END DRAW",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/penny-pop-instant-win-ps100-end-draw",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "75fa76be03ec0437b3fee5fbe7192abf501c6c345404ddccc4bfb8a04db46047",
+    "drand_seed_hash": "ac9ffb0683f2fc650925cd349d858bf122856cc021050a0f074660e5e7a517d3a41dcc040de0f3ea2552f1f8a3d5f5e2",
+    "client_seed": "1784146278661",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28416,
+    "max_tickets": 600000,
+    "combined_hash": "28233469189d34da8d7ce35ecff94a8c66f3aecd40291e96b16a194b6bc25abb",
+    "result": "424553",
+    "external_round_id": "30447640",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T20:11:18.000000Z",
+    "revealed_at": "2026-07-15T20:11:24.000000Z"
+}
