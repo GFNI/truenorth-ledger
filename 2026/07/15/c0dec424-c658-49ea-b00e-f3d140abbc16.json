@@ -1,0 +1,22 @@
+{
+    "round_id": "c0dec424-c658-49ea-b00e-f3d140abbc16",
+    "draw_title": "CKG Finds Bag",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ckg-finds-bag",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "05f5e0ca1cbcd43102ace59417be062a89ffe5f2d4c650a7f806d0b2459b2302",
+    "drand_seed_hash": "b8bf3e0441dfadfa9af9f60f0c63094fca288f5a9db027f0d0e316732b0c5dd84fe2bb8bde2ab2a4467a50341c309adb",
+    "client_seed": "1784143231535",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 220,
+    "combined_hash": "edecae5f3cef685a5eb4ae1b7e9faaf9d484664318f3bd9aea9a3da2af489580",
+    "result": "138",
+    "external_round_id": "30446625",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:20:31.000000Z",
+    "revealed_at": "2026-07-15T19:20:39.000000Z"
+}
