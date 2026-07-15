@@ -1,0 +1,22 @@
+{
+    "round_id": "316f2974-9c99-49d1-a87b-9a2f661b9ec7",
+    "draw_title": "£3000 Holiday OR £2500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/pick-your-own-holiday-worth-ps3000",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "bccde6bd0107a257c73be145c7669dfe7b0dbfa04942ab9e761a4acf93ed12b9",
+    "drand_seed_hash": "b728d4a49e9fb85480fb5480d2b96aa05713069c7a8e79315759c6e8deffb118482a8e78e34297716e6d2ec9cb7fb5af",
+    "client_seed": "1784150343115",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 34000,
+    "combined_hash": "68224f2a78b22b4c3ef05ae8db79a51e95d52044df15756bb7cde65141895f04",
+    "result": "11225",
+    "external_round_id": "30448995",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T21:19:03.000000Z",
+    "revealed_at": "2026-07-15T21:19:09.000000Z"
+}
