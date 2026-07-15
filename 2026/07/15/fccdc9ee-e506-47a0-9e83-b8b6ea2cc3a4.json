@@ -1,0 +1,22 @@
+{
+    "round_id": "fccdc9ee-e506-47a0-9e83-b8b6ea2cc3a4",
+    "draw_title": "LOW ODDS £1,000 - ONLY 75 TICKETS",
+    "competition_url": "https://proprizes.co.uk/admin/products/low-odds-ps1000-only-75-tickets",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "09a5beb19af61351c1812ddea312b5c62af5330e6b3762de900a553cd5a984cf",
+    "drand_seed_hash": "b3f93702cec808256baa56fcca2853c4a49ac898705c5731fd4cdd659e3bc71bc341a98e51350fed7c6f6d268bb22678",
+    "client_seed": "1784149834462",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 75,
+    "combined_hash": "0865a4f61f330b7fa0e59083c145aa070ca0842569ec705af3b2bbd3c2d86096",
+    "result": "55",
+    "external_round_id": "30448825",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T21:10:34.000000Z",
+    "revealed_at": "2026-07-15T21:10:39.000000Z"
+}
