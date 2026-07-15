@@ -1,0 +1,22 @@
+{
+    "round_id": "77b2ce81-9e52-4bac-924e-091933c8251f",
+    "draw_title": "CKG Trowel & Sheath",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ckg-trowel-sheath",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "126e938e61fdead801db81b29aca117d8458f080e1dd49d2f93786df30c7cbc4",
+    "drand_seed_hash": "91210314e3bb877a85b17b11db856407b4378f609b3bd96b6bcf1f48d33f905001732e235230fc9f9309130e40b30baa",
+    "client_seed": "1784143317786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81,
+    "max_tickets": 220,
+    "combined_hash": "418920549950da177c78c6f9f10086977d939a14ec7b1d49b8978fd1ee2c1d59",
+    "result": "74",
+    "external_round_id": "30446653",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T19:21:57.000000Z",
+    "revealed_at": "2026-07-15T19:22:03.000000Z"
+}
