@@ -1,0 +1,22 @@
+{
+    "round_id": "af552698-dffe-4aba-a7c1-acdc8d1b560d",
+    "draw_title": "DAYDREAM DAILY DRAW",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/daydream-daily-draw-3",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "5d965a02d67dd456445df5f91759150d5dbc4baf15987e81b00c7b5d125b8f24",
+    "drand_seed_hash": "823e503c8255a828b2ab5437825b59126f402a3c0744d384411618347087adb1a92786848ca0560a69748cd19d6b53b9",
+    "client_seed": "1784157035601",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 399,
+    "combined_hash": "19fffba7d830ac71f584392a61630373fa81446997c0afee0e2bbd8a4410de36",
+    "result": "147",
+    "external_round_id": "30451226",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T23:10:35.000000Z",
+    "revealed_at": "2026-07-15T23:10:42.000000Z"
+}
