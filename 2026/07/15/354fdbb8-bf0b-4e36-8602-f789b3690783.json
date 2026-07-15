@@ -1,0 +1,22 @@
+{
+    "round_id": "354fdbb8-bf0b-4e36-8602-f789b3690783",
+    "draw_title": "The Complete Game of Thrones Collection",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-complete-game-of-thrones-collection",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "b0ab5611691a7d187cd40cb63b32b0c3211a870da24f62d09653bedab5c2b9db",
+    "drand_seed_hash": "865d90caec71dbfc925ca1b409dc1e54032640f2b6ffe7d5414ca21265ded93f9542e8e75f33a9c97052b82193b7d148",
+    "client_seed": "1784149846138",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 478,
+    "max_tickets": 999,
+    "combined_hash": "1d1d56bb6dafd079d6f1f277296952f4dbd184346e996b75c93ec54c213e9d06",
+    "result": "71",
+    "external_round_id": "30448830",
+    "processing_status": "completed",
+    "created_at": "2026-07-15T21:10:46.000000Z",
+    "revealed_at": "2026-07-15T21:10:54.000000Z"
+}
