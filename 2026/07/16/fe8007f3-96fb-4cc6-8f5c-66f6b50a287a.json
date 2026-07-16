@@ -1,0 +1,22 @@
+{
+    "round_id": "fe8007f3-96fb-4cc6-8f5c-66f6b50a287a",
+    "draw_title": "CALEDONIA DROP - INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/caledonia-drop-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "a726a9b18ce0f3ec761645af438e43b3ab24bcfd93cf58d69a20de1973008939",
+    "drand_seed_hash": "891ecaff031a0891e45c7970de18438f1ca94e21c76f12e0e78491c6b705798f9372abd83337c6d3617bc03ae566a140",
+    "client_seed": "1784225170001",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15594,
+    "max_tickets": 59999,
+    "combined_hash": "8549ebdbc17160accd1636a2b3aea1d06971290944cbd6a66024a50f191188ac",
+    "result": "51580",
+    "external_round_id": "30473937",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T18:06:10.000000Z",
+    "revealed_at": "2026-07-16T18:06:15.000000Z"
+}
