@@ -1,0 +1,22 @@
+{
+    "round_id": "997a6f36-5087-411a-92c4-71c40022ccef",
+    "draw_title": "🏆 Audi Q7 Vorsprung  50 TDI S Line Quattro S-Tronic 🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/audi-q7-vorsprung-50-tdi-s-line-quattro-s-tronic",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "be333eda5d76461a8af6940e7558274f009431ed06ee1dc8a2e421e9247de321",
+    "drand_seed_hash": "b0e9b20d189e86ebea140c399ab0343a95ad55c1dd883c83a861ba98ee17494f7c517badcac4cac3a7d7ff6f11e2bb91",
+    "client_seed": "1784230267742",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31948,
+    "max_tickets": 42500,
+    "combined_hash": "5888656bb2f6a2cea5ddcea3957581a816411aaadcf403d88ea4d56fafb6716b",
+    "result": "28653",
+    "external_round_id": "30475637",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T19:31:07.000000Z",
+    "revealed_at": "2026-07-16T19:31:15.000000Z"
+}
