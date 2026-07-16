@@ -1,0 +1,22 @@
+{
+    "round_id": "e2596d4b-2aa0-4d09-a60c-ebde50b7e427",
+    "draw_title": "Phantasmal Flames UPC #3",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/phantasmal-flames-upc-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "b7619814f9386fd8c48d42a847272a832985ceba8784386cb86c586c4c85a691",
+    "drand_seed_hash": "8e1cdc5e157d6c7a6c0282d0c5994afbe1d70727b503054a9b335d56190f9539f7e1bcd895a794722bbcc3d817dc194f",
+    "client_seed": "1784236242582",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 183,
+    "max_tickets": 360,
+    "combined_hash": "d10b023a535bb93d9b3e32e637a8d3c206eff9dc31655f0d58114af72bff7769",
+    "result": "146",
+    "external_round_id": "30477628",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T21:10:42.000000Z",
+    "revealed_at": "2026-07-16T21:10:48.000000Z"
+}
