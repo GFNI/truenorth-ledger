@@ -1,0 +1,22 @@
+{
+    "round_id": "c472899c-2eaa-4443-a882-e0e9efec248d",
+    "draw_title": "MONKEY MAYHEM - INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/monkey-mayhem-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "695ed63651a97d41b82c1d33d2f20632dcfb5251335d0b2e3223764c22f737f4",
+    "drand_seed_hash": "893d04e54469cc1dd04d91cf641514689627f826836c11c948cd252f53ac23a13efb5604b4d68a1c4a072fc00f0cb792",
+    "client_seed": "1784225118021",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 173991,
+    "max_tickets": 449999,
+    "combined_hash": "5bdb34019786468e4403e59882f9aa05441dffd560df9693948344931925ff93",
+    "result": "441288",
+    "external_round_id": "30473920",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T18:05:18.000000Z",
+    "revealed_at": "2026-07-16T18:05:24.000000Z"
+}
