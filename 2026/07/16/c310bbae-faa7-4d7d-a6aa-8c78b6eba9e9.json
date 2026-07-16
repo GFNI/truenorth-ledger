@@ -1,0 +1,22 @@
+{
+    "round_id": "c310bbae-faa7-4d7d-a6aa-8c78b6eba9e9",
+    "draw_title": "50p Money Drop (PLINKO)",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/50p-money-drop-plinko",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "0c7b101568f49f6d657ac9ee27dcc43eae74a17d1c1807395cb7e8077d55b58e",
+    "drand_seed_hash": "8bf39056029c1e9fc8ec44247d1281103ade6c8fabb347ebe2d903e1ff6b655e934f6533f6d56361e385abd18cd64e04",
+    "client_seed": "1784232457666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4924,
+    "max_tickets": 20000,
+    "combined_hash": "859023b69f10fa0a86688a2988bf8e156314428d75dbecdd91d2b8e082de80f0",
+    "result": "4070",
+    "external_round_id": "30476367",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T20:07:37.000000Z",
+    "revealed_at": "2026-07-16T20:07:45.000000Z"
+}
