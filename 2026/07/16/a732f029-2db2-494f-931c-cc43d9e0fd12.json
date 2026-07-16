@@ -1,0 +1,22 @@
+{
+    "round_id": "a732f029-2db2-494f-931c-cc43d9e0fd12",
+    "draw_title": "Win £400 for 4p - Plus over £1000 in cash prizes - £150 Main Draw Prize - 4p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-ps400-for-4p-plus-over-ps1000-in-cash-prizes-ps150-main-draw-prize-4p",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "1230d9058fcbd625624cf9651b714b616c649e58b0dd0892c1a06ff22e527913",
+    "drand_seed_hash": "807dee116e90eb5f0d8a4a9fe027bb660fe1b1787a1db44ed3898fc6b5b76ea2c860d64a41c06c8e01a453ad1f06d4f2",
+    "client_seed": "1784225440929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17232,
+    "max_tickets": 109500,
+    "combined_hash": "d7734ac2daa155fcf57a4e5fb513c3dca0bd4fe0a92f87a58b98ee4be6466a98",
+    "result": "63224",
+    "external_round_id": "30474027",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T18:10:40.000000Z",
+    "revealed_at": "2026-07-16T18:10:45.000000Z"
+}
