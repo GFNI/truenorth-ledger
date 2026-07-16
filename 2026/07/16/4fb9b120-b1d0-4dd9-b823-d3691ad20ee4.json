@@ -1,0 +1,22 @@
+{
+    "round_id": "4fb9b120-b1d0-4dd9-b823-d3691ad20ee4",
+    "draw_title": "Free £50 daily draw",
+    "competition_url": "https://easybigwins.co.uk/admin/products/free-ps50-daily-draw-4",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "f40a98889ac2bc7390ffb4b8415f58865d1d34cb799644e997c510c273b32676",
+    "drand_seed_hash": "a9df2c4d3049a73e466783f5d24d3b27efc14112c941dcc561afebde28b63224ae3de43ede350124222d8e71aec87b59",
+    "client_seed": "1784189677204",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 142,
+    "max_tickets": 1000,
+    "combined_hash": "084684719d0d3590bb995b02700940abf41ade9d1f01d4b130dc808bd50f43e2",
+    "result": "89",
+    "external_round_id": "30462107",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T08:14:37.000000Z",
+    "revealed_at": "2026-07-16T08:14:45.000000Z"
+}
