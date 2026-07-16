@@ -1,0 +1,22 @@
+{
+    "round_id": "ed67be7a-15d6-494f-aebe-55b8f5ec77e3",
+    "draw_title": "TEST🎱 CASH BONANZA",
+    "competition_url": "https://topdogprizes.com/admin/products/test-cash-bonanza",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "fd5976d8f66f02ded02b730cf30879f82d7c88319fd79a5ae4a06d8a761364d6",
+    "drand_seed_hash": "b81696fcd8da597c345788cdc648263febbc95fd798acdecab0fe75847c5443e6fad0d8ca77a8bce2411b0747b8ef57c",
+    "client_seed": "1784191669538",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17,
+    "max_tickets": 99000,
+    "combined_hash": "8cc34aa42a0cee2a5535e40a174f073ad99f4a776750c0ccfdbcc62c3e754fb8",
+    "result": "5149",
+    "external_round_id": "30462771",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T08:47:49.000000Z",
+    "revealed_at": "2026-07-16T08:47:57.000000Z"
+}
