@@ -1,0 +1,22 @@
+{
+    "round_id": "5988a71f-8f77-47d6-b8e5-a944de3760ea",
+    "draw_title": "🦗 Hyundai 17\"/43cm 139cc Electric-start Self-propelled Petrol Roller Lawnmower 🦗",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/hyundai-1743cm-139cc-electric-start-self-propelled-petrol-roller-lawnmower",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b00b8efc959b5079ff9201f8749fc022927aaed803619968305c300d8479c0ec",
+    "drand_seed_hash": "8fcc423074175630983ae19205ba2c2780b1db6ffd8b5562653ed07eea261d8c38f10425ef7f55c603ec90c11ae37da6",
+    "client_seed": "1784229434625",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 750,
+    "max_tickets": 750,
+    "combined_hash": "66b212accc2629924e7abf2c9d08b1b9c4346545eb5faa0070b427b7105c5acd",
+    "result": "471",
+    "external_round_id": "30475359",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T19:17:14.000000Z",
+    "revealed_at": "2026-07-16T19:17:21.000000Z"
+}
