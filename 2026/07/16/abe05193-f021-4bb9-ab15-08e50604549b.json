@@ -1,0 +1,22 @@
+{
+    "round_id": "abe05193-f021-4bb9-ab15-08e50604549b",
+    "draw_title": "Thursday Doe - Win £35 Cash!",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/thursday-doe-win-ps35-cash-3",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "1b8dbd7e7f275f5d4d5fb6d6d2a39d5e4923319a6d15b2b08246d13e1685eb98",
+    "drand_seed_hash": "8143e38536dce90f0096bd5541165d6809d1397fb875418230f051df7898dfbf86bccbbad5e77fdeb8d404eaedc5a5c9",
+    "client_seed": "1784228692998",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 150,
+    "combined_hash": "358507c6e3404313cebdf51741862609ecc3f99978c6f6c53b01f4044959efaf",
+    "result": "122",
+    "external_round_id": "30475112",
+    "processing_status": "completed",
+    "created_at": "2026-07-16T19:04:53.000000Z",
+    "revealed_at": "2026-07-16T19:05:00.000000Z"
+}
