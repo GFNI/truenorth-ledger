@@ -1,0 +1,22 @@
+{
+    "round_id": "37779568-05e2-4cab-80b3-f0edf4268f41",
+    "draw_title": "500 TICKETS FOR 48k WORLD CUP POT",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-48k-world-cup-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "8db70b83beb2d254e0d1a4c683ff16243c5647f948d1ee366a825a4aa35b99d6",
+    "drand_seed_hash": "a817496594d1d8be9dbd35551e1324bd9cb37f9a13d648719912d2a63ab0e48edd0798c2fa1a18c4cbc20161c5c71d1c",
+    "client_seed": "1784318458665",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1469,
+    "max_tickets": 5000,
+    "combined_hash": "ccf11738498414cb13546a3c66d23227ea93c3f3b8497580cedb48ee0999809b",
+    "result": "3325",
+    "external_round_id": "30505034",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:00:58.000000Z",
+    "revealed_at": "2026-07-17T20:01:06.000000Z"
+}
