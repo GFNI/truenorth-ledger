@@ -1,0 +1,22 @@
+{
+    "round_id": "5fe47801-0c66-42d2-bd8e-d338862e6414",
+    "draw_title": "Fit Bit Versa 4",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/fit-bit-versa-4",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "d587f7eff7d677a344a4a4d1ef8b0214567282dfbad0845ac783b192796bd2c5",
+    "drand_seed_hash": "aff8b7ef132db2a2b773c685b24c8c4556df0441fbb83508378c4c8631928c0f89dc0852c12781669cc108c4634f3381",
+    "client_seed": "1784318364302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 255,
+    "max_tickets": 500,
+    "combined_hash": "0547326589bbb077517f6ff2b80f8505c50f16971af71cc4d64c5c6d9597505b",
+    "result": "298",
+    "external_round_id": "30505002",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:59:24.000000Z",
+    "revealed_at": "2026-07-17T19:59:30.000000Z"
+}
