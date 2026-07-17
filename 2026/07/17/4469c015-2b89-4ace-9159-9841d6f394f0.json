@@ -1,0 +1,22 @@
+{
+    "round_id": "4469c015-2b89-4ace-9159-9841d6f394f0",
+    "draw_title": "Whack-A-Mole £6K",
+    "competition_url": "https://a9competitions.co.uk/admin/products/whack-a-mole-ps6k-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "4a6784f29fa3245abdfaa4e4eb163d34129bd8c5ca3afd3497e36937969025ac",
+    "drand_seed_hash": "a9b7e455919a42e1d33606d78a3f5921ee7883e5166d9a87ede402d8cb4b5ca39e9ed11b6c5cc29530237c7b07f11770",
+    "client_seed": "1784320246035",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2939,
+    "max_tickets": 11999,
+    "combined_hash": "927463011bf8371261d6b45109f1ee7d9cf315593b0607334224d4cecb7e6820",
+    "result": "5064",
+    "external_round_id": "30505630",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:30:46.000000Z",
+    "revealed_at": "2026-07-17T20:30:54.000000Z"
+}
