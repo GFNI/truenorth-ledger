@@ -1,0 +1,22 @@
+{
+    "round_id": "2a720de5-ccfe-4d26-921b-043a35dcd28e",
+    "draw_title": "£50 CREDIT | 5 WINNERS OF £10 CREDIT",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ps50-credit-5-winners-of-ps10-credit",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "1cc4bd12b0b9913f140491f97aa4a1a79bbffc3a101fba2bd782e5f9d4c7ddac",
+    "drand_seed_hash": "8104d8b3ee2880768fa3dd41e3d7ab12b471d47b26972e029db2b3f21d981817849a36e281da9b32e40a26ddf7095e8c",
+    "client_seed": "1784318765499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 607,
+    "max_tickets": 1499,
+    "combined_hash": "f47e8c26aabeb116f4e72ad36265bf7609e6e67e2eb6ee79d7987e233656cfe4",
+    "result": "1197",
+    "external_round_id": "30505136",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:06:05.000000Z",
+    "revealed_at": "2026-07-17T20:06:12.000000Z"
+}
