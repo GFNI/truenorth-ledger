@@ -1,0 +1,22 @@
+{
+    "round_id": "3ffd84a4-caec-44d5-b655-4b8e14ada551",
+    "draw_title": "CRACK THE SAFE",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/crack-the-safe",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "d7b1fa5b6d574d891f5264b223701ae25fc3e3906b4592382b5c32b9e4043386",
+    "drand_seed_hash": "b7be21e22b82d11aab5e406ace6e4070a0828d1859c8d91070d59e63e1fdfda3b2027fd19234c866911003f5408718c5",
+    "client_seed": "1784326250874",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3106,
+    "max_tickets": 105000,
+    "combined_hash": "2fdcc9f4da3d4f9d4b29d0bdf016c786b8b364769b04c51564cbc53dfe6895e1",
+    "result": "4808",
+    "external_round_id": "30507631",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T22:10:50.000000Z",
+    "revealed_at": "2026-07-17T22:10:57.000000Z"
+}
