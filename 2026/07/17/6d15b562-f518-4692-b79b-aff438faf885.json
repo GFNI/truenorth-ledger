@@ -1,0 +1,22 @@
+{
+    "round_id": "6d15b562-f518-4692-b79b-aff438faf885",
+    "draw_title": "30 Entries to Ninja/Shark Competition",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-to-above-ninjashark-comp",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "fdad3260e0fec06b462911bd0b610961c35d262693d51979014bcaf1088feb48",
+    "drand_seed_hash": "acbcb491975dda5a49eababed7c61260ab64c9d25f96bb1db7c46d0f6c5f1f1b74fb1821668b320d60c95605e36354b6",
+    "client_seed": "1784320263626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37,
+    "max_tickets": 180,
+    "combined_hash": "bd43d6237a1e9ee7777f9e99d5644f9786a1a6526bbd9287a1b9d91dcef1c94d",
+    "result": "146",
+    "external_round_id": "30505635",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:31:03.000000Z",
+    "revealed_at": "2026-07-17T20:31:09.000000Z"
+}
