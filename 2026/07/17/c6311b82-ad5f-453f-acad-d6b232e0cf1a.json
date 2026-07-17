@@ -1,0 +1,22 @@
+{
+    "round_id": "c6311b82-ad5f-453f-acad-d6b232e0cf1a",
+    "draw_title": "INVICTA BUNDLE - CASE, FLIGHTS & K FLEX",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/invicta-bundle-case-flights-k-flex",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "5027e5f14b7e41eeb7522edab0acda2f41e62d3a2eb0856dfc94839597422521",
+    "drand_seed_hash": "b69f0bc0425d6c58eee23e493b717ef018a6a575d14a4b0ab9fc1dae024501641d1e935be158ea2ae112e84f6882eaa6",
+    "client_seed": "1784318688813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13,
+    "max_tickets": 39,
+    "combined_hash": "68cae6cb043c565135f5de00add6f48a44380fb5143e6114310f44f711f82b7d",
+    "result": "8",
+    "external_round_id": "30505110",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:04:48.000000Z",
+    "revealed_at": "2026-07-17T20:04:54.000000Z"
+}
