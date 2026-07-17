@@ -1,0 +1,22 @@
+{
+    "round_id": "eccfa497-a1ef-4525-9d27-328b2bf9693e",
+    "draw_title": "Win this 6 pack of Bayliss and Harding Moisturising Hand Wash",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-this-6-pack-of-bayliss-and-harding-moisturising-hand-wash",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "e7c81d766d05ff6ab309ad5c1914b9bb58c7a50c7f0342b1922c4bacdbaa1643",
+    "drand_seed_hash": "8b545ee62a6d5c659814a4eed25e23a5f7aa29ff021ee0c5097ce2ca10237f08f4bcb752f92ad60b5f4605cb57cb938d",
+    "client_seed": "1784315454609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19,
+    "max_tickets": 50,
+    "combined_hash": "b63e6ec8bf9ac11c2388d4597950d73cfb46d64a7000dd3a29c7fc1a5d3a5a8e",
+    "result": "15",
+    "external_round_id": "30504032",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:10:54.000000Z",
+    "revealed_at": "2026-07-17T19:11:00.000000Z"
+}
