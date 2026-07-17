@@ -1,0 +1,22 @@
+{
+    "round_id": "5286c53f-eb7f-46d7-b7f0-09a70ee043ae",
+    "draw_title": "HUGE FOOD SHOP 🛒",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/huge-food-shop",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "c3c8eb1ba714a52da1fc66c13700968749bb57fa31d2beb883df30081427c1bb",
+    "drand_seed_hash": "ac83b2a0e453800b41c5233668238e2280cb58439d1a41b92172fec9602b15b8bf7a7d5e0f53607fc1a78a8759c61607",
+    "client_seed": "1784317285153",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "1a0f1e9eeab0f34b0b323c85a2f203f1147c0e157b5a243f5023d04a5b605758",
+    "result": "75",
+    "external_round_id": "30504643",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:41:25.000000Z",
+    "revealed_at": "2026-07-17T19:41:33.000000Z"
+}
