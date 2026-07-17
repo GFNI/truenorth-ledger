@@ -1,0 +1,22 @@
+{
+    "round_id": "a79b3932-a1e0-442c-ae54-6b8106cfb111",
+    "draw_title": "95K BUNTINGS *SUPER LOW ODDS*",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/95k-buntings-super-low-odds",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "063c6e9b7d27cdc8ed8c57e46d11df3717205dc8cbab087c7ff55fe9cd6cf87c",
+    "drand_seed_hash": "8d7d211b0e7982dcb635d97dc59cf1ff4a72be553731dffe964a1c31cbb69d21f53add2a03700db3c4eab3ce1fbdea7d",
+    "client_seed": "1784319310064",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 78,
+    "combined_hash": "ce24c5091fe4e2cab45609381b60f083fe43eae41df484cd6855cd65f420dbb8",
+    "result": "65",
+    "external_round_id": "30505318",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:15:10.000000Z",
+    "revealed_at": "2026-07-17T20:15:18.000000Z"
+}
