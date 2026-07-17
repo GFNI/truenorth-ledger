@@ -1,0 +1,22 @@
+{
+    "round_id": "0ed52e3c-db11-4c15-b445-37e4e9781986",
+    "draw_title": "Money Moles - 3 Winners of £100 + Instantly win up to £1500!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/money-moles-3-winners-of-ps100-instantly-win-up-to-ps1500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "6b46f98b2d44f4fad21be646ec30efe22e7b1c4c989d7d833869e2f575842cb8",
+    "drand_seed_hash": "aec4d6854b243ad927d329ef94896739f066c874d73092911e43476ca91f1e16cf187aa50e483e0b356625d34d42ddd8",
+    "client_seed": "1784316888579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18291,
+    "max_tickets": 130000,
+    "combined_hash": "e410ee20dd636f07426ae6e50fb19191dd54db2d7bf69a00d4dd2857f0cb95fe",
+    "result": "102805",
+    "external_round_id": "30504510",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:34:48.000000Z",
+    "revealed_at": "2026-07-17T19:34:54.000000Z"
+}
