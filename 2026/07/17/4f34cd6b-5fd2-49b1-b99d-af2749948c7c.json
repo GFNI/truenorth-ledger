@@ -1,0 +1,22 @@
+{
+    "round_id": "4f34cd6b-5fd2-49b1-b99d-af2749948c7c",
+    "draw_title": "£500 for 50p - July 26 #1",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps500-for-50p-july-26-1",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "b640921258302057afeba3836bba6e04b7e262d7e68d90ed767481461063b488",
+    "drand_seed_hash": "854860be9a946e2be99bbe3de92b71fa70b477d449c2d606935c9e7c050554d3840d8e4eec3d6df2d27eb34867199b6a",
+    "client_seed": "1784322660859",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 861,
+    "max_tickets": 1600,
+    "combined_hash": "4f795c3d3999079c40d8334307d2e92ee720ea0ddd174a168e8dad0da652f7a1",
+    "result": "144",
+    "external_round_id": "30506434",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T21:11:00.000000Z",
+    "revealed_at": "2026-07-17T21:11:06.000000Z"
+}
