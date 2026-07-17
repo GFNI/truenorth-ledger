@@ -1,0 +1,22 @@
+{
+    "round_id": "4bfa2dd3-458b-4047-b8da-ce12d30b271e",
+    "draw_title": "🥭 Wumpa Cash Drop 🥭",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/wumpa-cash-drop",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "31c8ee7a99a4662882bd63415e8273f4a4492893f78a825f3d8836c41a92ace3",
+    "drand_seed_hash": "83df214b63aa29d3f5cf4f8d3fa7c5c465dbaee192a885749ee8a9104a01d8c0deee0df5332c773e4ccdbaf310b3e9c6",
+    "client_seed": "1784318644200",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8502,
+    "max_tickets": 30000,
+    "combined_hash": "2febd244cd1ce9275fdc590f133583da6fc67f1634a9a1ae75508fffbe8c7932",
+    "result": "3456",
+    "external_round_id": "30505095",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:04:04.000000Z",
+    "revealed_at": "2026-07-17T20:04:09.000000Z"
+}
