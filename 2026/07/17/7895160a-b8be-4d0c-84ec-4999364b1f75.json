@@ -1,0 +1,22 @@
+{
+    "round_id": "7895160a-b8be-4d0c-84ec-4999364b1f75",
+    "draw_title": "72 Cans of Pepsi Max",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/72-cans-of-pepsi-max-2",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "54966a6bd573461001f32820c6ad12f7be5b3de4683137df91c983dac3ab3ffe",
+    "drand_seed_hash": "a49fe603975039efdcec83368e806fdd5b36202bc2ad020718d7491ad89d290995f1c53910d322d2ef59cb4141b0edd4",
+    "client_seed": "1784315466530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34,
+    "max_tickets": 100,
+    "combined_hash": "4923d19bd12cae7e3027af4f74dd3e732b07e09c7d3d41a8f8a1dfb7c620b3cc",
+    "result": "38",
+    "external_round_id": "30504036",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:11:06.000000Z",
+    "revealed_at": "2026-07-17T19:11:12.000000Z"
+}
