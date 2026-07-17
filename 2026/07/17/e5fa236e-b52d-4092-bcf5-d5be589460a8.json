@@ -1,0 +1,22 @@
+{
+    "round_id": "e5fa236e-b52d-4092-bcf5-d5be589460a8",
+    "draw_title": "The Price Is Right £500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/the-price-is-right-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "6dd2c911f3fad336bfb3b1628a3fb48116b2c2313358e77bf1d038f9b6a04605",
+    "drand_seed_hash": "a55b71f627f8201e41e2612cadc91ba9e00344a361736b4db5bf052179de4a780faf9a17d9253cc2e4e79655ad58f442",
+    "client_seed": "1784322774942",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 50000,
+    "combined_hash": "bf5f71048252087e331b164de852416b4ebdba3e8e770b4a8f5ac7619b49744d",
+    "result": "38944",
+    "external_round_id": "30506473",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T21:12:55.000000Z",
+    "revealed_at": "2026-07-17T21:13:03.000000Z"
+}
