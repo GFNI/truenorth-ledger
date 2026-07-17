@@ -1,0 +1,22 @@
+{
+    "round_id": "31593746-cff1-40a4-aba1-c40827ef6e76",
+    "draw_title": "FINS OF FORTUNE ETIAW",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/fins-of-fortune-etiaw-2",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "9f8299e035f4390afd29a69d53b9dd706756041e56373d697e60c4492c00cb56",
+    "drand_seed_hash": "832d8fa7c24be48448ca8b3f9545886782fa1b1d3780ffad12a9c6ab7af3a55868e8ed672a47adb1179d201a762e8967",
+    "client_seed": "1784319283209",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7881,
+    "max_tickets": 8000,
+    "combined_hash": "2ad4bac8540f69d80793704c434857c40afb9fa1ab61487a420ebcd0ac32835e",
+    "result": "7211",
+    "external_round_id": "30505309",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T20:14:43.000000Z",
+    "revealed_at": "2026-07-17T20:14:51.000000Z"
+}
