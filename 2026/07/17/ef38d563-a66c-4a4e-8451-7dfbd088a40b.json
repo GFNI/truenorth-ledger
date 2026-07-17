@@ -1,0 +1,22 @@
+{
+    "round_id": "ef38d563-a66c-4a4e-8451-7dfbd088a40b",
+    "draw_title": "Win this 60 pack of Mini Biscuits!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-this-60-pack-of-mini-biscuits",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "672ef57a9e949179348814b4791f3af39761c07f928b45419a70a23ea06187b2",
+    "drand_seed_hash": "84ac19239453859e6e4e34ec13ab13b1eac418f0136cce5c6becbf196d5d9d8c8c5027244a64ec004f2768e8d589a896",
+    "client_seed": "1784315460718",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 50,
+    "combined_hash": "f7cdb52ce5a94c690a67cb1628661197c4c0943e9b4e49a2a79c83c1f8927dc4",
+    "result": "48",
+    "external_round_id": "30504034",
+    "processing_status": "completed",
+    "created_at": "2026-07-17T19:11:00.000000Z",
+    "revealed_at": "2026-07-17T19:11:06.000000Z"
+}
