@@ -1,0 +1,22 @@
+{
+    "round_id": "1222d42f-8750-47c1-a1ab-c105e9b286e5",
+    "draw_title": "Ace 10 Darkrai",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-darkrai",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c2f053a5e4b34cd1135f220ce9b6ad9da4d9f09e70c41d7140b32dd7468117c2",
+    "drand_seed_hash": "8dd7396a08a7394947874c7d77e95e8a93433267bd631d99985bc48b068781fb27cba8e40219ae502e65f491395e44f0",
+    "client_seed": "1784409052382",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 247,
+    "max_tickets": 350,
+    "combined_hash": "b87d8b166e8430ecac1a60890ab5e975f87d8d17083c93b72261d3638bd0bf56",
+    "result": "341",
+    "external_round_id": "30535232",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T21:10:52.000000Z",
+    "revealed_at": "2026-07-18T21:11:00.000000Z"
+}
