@@ -1,0 +1,22 @@
+{
+    "round_id": "f44a612d-fec1-4e1b-9224-10706c708faf",
+    "draw_title": "Giant Kids Bean Bag or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/giant-kids-bean-bag-or-cash-3478",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2ba73dd47dda781db73c13b090a5ab36fbdf317c8c1658aead21d92da9ede75c",
+    "drand_seed_hash": "94083e53486abdeb979e2512ec67254e98f4ca5d6f2faafdcd1b0a4573a83c238ba453261d620f72eff1ec7cbae526ac",
+    "client_seed": "1784403504621",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "7cc21fc107566caf7831c3d7e1ad7406ae3f3293373b952406876b126c9258f6",
+    "result": "1593",
+    "external_round_id": "30533382",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T19:38:24.000000Z",
+    "revealed_at": "2026-07-18T19:38:30.000000Z"
+}
