@@ -1,0 +1,22 @@
+{
+    "round_id": "3708810e-0ae9-47ed-88b1-2620d9b4032c",
+    "draw_title": "🦈 Shark Chill Pill 💊",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/shark-chill-pill",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "336b2ae2009950f25b2c1558dcc49a575afe6e70349e0786f5d7bcca436243cd",
+    "drand_seed_hash": "8c5141052b11d5895342f9e0db89aa83021a5cfb7220e0e198676c734241f940a7018fa286b60285e9955e569c7f1ef6",
+    "client_seed": "1784404517538",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1300,
+    "max_tickets": 1300,
+    "combined_hash": "fd7c528c7c1ad61436d0a1da6e1a08858cefece334674d5b6e259f6b756bff3f",
+    "result": "690",
+    "external_round_id": "30533720",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T19:55:17.000000Z",
+    "revealed_at": "2026-07-18T19:55:24.000000Z"
+}
