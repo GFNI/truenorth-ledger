@@ -1,0 +1,22 @@
+{
+    "round_id": "d3d36a78-fcf6-4a92-a9ff-dedee4e3d834",
+    "draw_title": "£100 Supermarket Voucher - 3 Winners",
+    "competition_url": "https://chaotic.co.uk/competition/ps100-supermarket-voucher-3-winners",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b6c7db5d36f58fc4b9d25e50bf9f3e308cd507bb662b9f4a957983de1dbb85cd",
+    "drand_seed_hash": "aedd881d16172c18563f187124a9506f618117e5c788c5e834872e92083a01032e5ff7f96fb00d7d8595bfee30abcca9",
+    "client_seed": "1784404166241",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6817,
+    "max_tickets": 8000,
+    "combined_hash": "97424d752ebcd447b9260e62d93cd435571f3435397de3ece6ff9913008c0cf1",
+    "result": "5592",
+    "external_round_id": "30533603",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T19:49:26.000000Z",
+    "revealed_at": "2026-07-18T19:49:33.000000Z"
+}
