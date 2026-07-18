@@ -1,0 +1,22 @@
+{
+    "round_id": "037c647d-0cb3-4e83-a84d-c71669931a75",
+    "draw_title": "9ft Swimming Pool",
+    "competition_url": "https://ryscompetitions.com/admin/products/9ft-swimming-pool",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "3f41ec3520a3306c463f8f30575f0c29cd9f3b3a4e4d51fa8ef83d14828f1d73",
+    "drand_seed_hash": "83877477e36add69728d4d1660cf98f93dc96a84f57611658af16bf931941daaf1634dd1910657de59198342dae2f480",
+    "client_seed": "1784401866550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11256,
+    "max_tickets": 18750,
+    "combined_hash": "e1081303bd4eabbbab2e72957d93665f3db3bb83db95151db167f906050c15fa",
+    "result": "16606",
+    "external_round_id": "30532836",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T19:11:06.000000Z",
+    "revealed_at": "2026-07-18T19:11:12.000000Z"
+}
