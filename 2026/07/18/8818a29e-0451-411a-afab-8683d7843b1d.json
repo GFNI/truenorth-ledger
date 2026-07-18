@@ -1,0 +1,22 @@
+{
+    "round_id": "8818a29e-0451-411a-afab-8683d7843b1d",
+    "draw_title": "Foldable Treadmill or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/foldable-treadmill-or-cash-7253",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "af4017fc50daca286851e22fc61c48ae2412e84a4c86f8a2a1e4f189c886315d",
+    "drand_seed_hash": "b36dbe6ad7769c0b772110cfb6caf88f3e2834c2954fcac4919925fe20e14e68983dde9e9c57ea7c44905502f155ed3f",
+    "client_seed": "1784405189065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3013,
+    "max_tickets": 6500,
+    "combined_hash": "15d38b5282228779c36ec75c7b6d25712eab102c603e3e7e3290ba296767fcc2",
+    "result": "5254",
+    "external_round_id": "30533944",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T20:06:29.000000Z",
+    "revealed_at": "2026-07-18T20:06:36.000000Z"
+}
