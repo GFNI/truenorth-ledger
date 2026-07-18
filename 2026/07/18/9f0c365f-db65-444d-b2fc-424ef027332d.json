@@ -1,0 +1,22 @@
+{
+    "round_id": "9f0c365f-db65-444d-b2fc-424ef027332d",
+    "draw_title": "iPhone 17 Pro or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/iphone-17-pro-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "fbed851eff212bd409f3033f057f461ca4321094dc1a9ffeffbd9048dfce49b4",
+    "drand_seed_hash": "a148eab159bc72d8402ffa88043661b6580fd5882361f054d78eaf530e548ec108bd6a10886f9d78f4b0acee4114dc80",
+    "client_seed": "1784405285065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5981,
+    "max_tickets": 8000,
+    "combined_hash": "621859f850436c521aa1fef6f540f3fa9b9936498ed1da316abdcc7b7b9fc5cb",
+    "result": "4515",
+    "external_round_id": "30533976",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T20:08:05.000000Z",
+    "revealed_at": "2026-07-18T20:08:12.000000Z"
+}
