@@ -1,0 +1,22 @@
+{
+    "round_id": "aeccde85-ca41-4ba3-9529-28f20214675f",
+    "draw_title": "🎁 FREE AMAZON GIFT CARD 🎁",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/free-amazon-gift-card",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "c010e6e418560db2adb795525922886ce2e451a2ad0df71e4236b77294b44f23",
+    "drand_seed_hash": "874224bc02912cd35a805de0c21a7ca451800b241d720acf96509f37605bd4853e779260e53198b9d42a117b7ce8be35",
+    "client_seed": "1784368029307",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18,
+    "max_tickets": 50,
+    "combined_hash": "cb030d22aa40ee6c89f97d311f779023938a8afc1f97547f9a9123f68b312edf",
+    "result": "34",
+    "external_round_id": "30521557",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T09:47:09.000000Z",
+    "revealed_at": "2026-07-18T09:47:15.000000Z"
+}
