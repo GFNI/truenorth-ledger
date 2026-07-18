@@ -1,0 +1,22 @@
+{
+    "round_id": "7ba39481-9ffa-4692-83a4-bd186bfb96f7",
+    "draw_title": "Wackamole Wonga MINI GAME ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/wackamole-wonga-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "df881df4e42f84fdec307ab610886c66c49f977a01a690eded5a303ff3b7690b",
+    "drand_seed_hash": "a4040693dee7cbda3a5c3ce3e536475476d9cc65211019b16b057b1a4349656e857c962db2946157c9b9e0219fad8937",
+    "client_seed": "1784385769610",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "6c99ced1a75bb3445ccf34ee3e091130829e1a3c3dfd8bdff4331dfdcfe97c1e",
+    "result": "137",
+    "external_round_id": "30527471",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T14:42:49.000000Z",
+    "revealed_at": "2026-07-18T14:42:57.000000Z"
+}
