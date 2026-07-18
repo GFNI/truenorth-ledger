@@ -1,0 +1,22 @@
+{
+    "round_id": "db77cd9d-8cb1-46f7-af44-5add4d79e66b",
+    "draw_title": "Piggy Pot",
+    "competition_url": "https://chaotic.co.uk/competition/piggy-pot-4194",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c6784a5148514167940f1dedca39752cae5678c38db68d57dd7746b85e85e538",
+    "drand_seed_hash": "a35186e888d3fd26c686c35dc96fd4a3e5605a43e481789d959fbf8a3c0d2734cb281a20172e953490040d4caa8cc27d",
+    "client_seed": "1784403746248",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999999,
+    "max_tickets": 1999999,
+    "combined_hash": "9f9b1ce8241f874c12cec003de5be370469a1a24fe8d66737762046656923160",
+    "result": "190907",
+    "external_round_id": "30533463",
+    "processing_status": "completed",
+    "created_at": "2026-07-18T19:42:26.000000Z",
+    "revealed_at": "2026-07-18T19:42:33.000000Z"
+}
