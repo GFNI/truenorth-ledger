@@ -1,0 +1,22 @@
+{
+    "round_id": "7e6f06dd-06ea-4e2b-9511-383654a4dbc9",
+    "draw_title": "Connor's Goal-den Odds - 1 In 10 Wins!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/goalden-odds",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "1108d9d6e3164737ced0e38e0d2226979409808595e2fda3d8ef439e1657f60b",
+    "drand_seed_hash": "95b89d26fae833f15f1824bc2522a21eb4da906138a278393a1dccb7807f51bac853fb7bfb788a886b5ba6ba35b9fdaa",
+    "client_seed": "1784490400595",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65836,
+    "max_tickets": 300000,
+    "combined_hash": "e12231b7350854899baae17b497f972145bf5f61a4e20a83b67a4e9342ea0808",
+    "result": "250722",
+    "external_round_id": "30562347",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:46:40.000000Z",
+    "revealed_at": "2026-07-19T19:46:45.000000Z"
+}
