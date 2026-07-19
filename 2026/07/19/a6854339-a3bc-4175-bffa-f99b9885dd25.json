@@ -1,0 +1,22 @@
+{
+    "round_id": "a6854339-a3bc-4175-bffa-f99b9885dd25",
+    "draw_title": "JDM Performance Instant Win - £500K Prize Fund + £1,000 End Prize",
+    "competition_url": "https://dreambigcompetitions.com/admin/products/jdm-performance-instant-win-ps500k-prize-fund-ps1000-end-prize",
+    "operator": {
+        "name": "DREAM BIG GROUP UK LTD",
+        "website": "https://dreambigcompetitions.com",
+        "company_number": "NI725311"
+    },
+    "drand_server_seed": "d21eede7760dcb493883696a58922c2d4d79bc7a9f5926af8b82f3fb879ed385",
+    "drand_seed_hash": "a208bb64fe05c5b55599b022707d5eb25630d4d6f64c13df166a006f686619565fa0903644c37fb9bdffd0cae8fe8744",
+    "client_seed": "1784499046019",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 196782,
+    "max_tickets": 599999,
+    "combined_hash": "a9f3fafaff1ae9e3d0d48de289beb2413df1788de2aba989f95a1472aa803a0e",
+    "result": "557395",
+    "external_round_id": "30565230",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T22:10:46.000000Z",
+    "revealed_at": "2026-07-19T22:10:54.000000Z"
+}
