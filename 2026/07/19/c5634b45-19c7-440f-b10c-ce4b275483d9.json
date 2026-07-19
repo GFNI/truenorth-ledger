@@ -1,0 +1,22 @@
+{
+    "round_id": "c5634b45-19c7-440f-b10c-ce4b275483d9",
+    "draw_title": "WORLD CUP WONGA - 48 CASH WINNER",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/world-cup-wonga-48-cash-winner",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "9962f72026901d8bfc09337f5f74904dc2b58d7ea37b32ac7cc029675bd5a770",
+    "drand_seed_hash": "a3963e5c47a89a93b409c539c3ecefbb786ad2c50b4f4a8d1bb3ff435a5bbace526a6f38cc31d0c41d45517bf3052854",
+    "client_seed": "1784491879105",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1880,
+    "max_tickets": 293103,
+    "combined_hash": "84fcaf14d236880cd2afe6e7aa48765953032f2c76a76d3ea06b6aa7a274ff7a",
+    "result": "43813",
+    "external_round_id": "30562841",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:11:19.000000Z",
+    "revealed_at": "2026-07-19T20:11:27.000000Z"
+}
