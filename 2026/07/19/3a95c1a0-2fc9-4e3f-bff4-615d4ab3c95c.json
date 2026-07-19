@@ -1,0 +1,22 @@
+{
+    "round_id": "3a95c1a0-2fc9-4e3f-bff4-615d4ab3c95c",
+    "draw_title": "Hook a Duck - £2500 End Prize + 2 x £250 Neighbour Number Winners",
+    "competition_url": "https://speedcompetitions.co.uk/competition/hook-a-duck-ps2500-end-prize-2-x-ps250-neighbour-number-winners-7572",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "d32599254c3cd673746208d35f4a62ffde76f5d3747c9173bf5745624a881fea",
+    "drand_seed_hash": "ad6baf0fdf5e835c5666903914de0129d5e83add2b5cf2782607ca97c04d245b050226cb1d79dda4f2ad15fa952ac94d",
+    "client_seed": "1784490067781",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 420935,
+    "max_tickets": 429999,
+    "combined_hash": "b044e9b713ead231333b7f26b132d6492927b2a67d4a02c06090422eed421a7b",
+    "result": "275176",
+    "external_round_id": "30562237",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:41:07.000000Z",
+    "revealed_at": "2026-07-19T19:41:16.000000Z"
+}
