@@ -1,0 +1,22 @@
+{
+    "round_id": "a8d95b4a-9f91-46db-81e9-50163f1bc586",
+    "draw_title": "HIGH ROLLER £2,000 End Prize with Instants - July 26 #1",
+    "competition_url": "https://proprizes.co.uk/admin/products/high-roller-ps2000-end-prize-with-instants-july-26-1",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "090e3eb4b4bb3bb0ea946c78f50df4cfcb0bb5df7be07ff1d27f0c08c914a81a",
+    "drand_seed_hash": "95c38966d995f0c37ba846ee4574aa45e50671db343cf0da298f079ab51253ffd1d65b24f4c86c05f3a8e413496bc9ee",
+    "client_seed": "1784499522720",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 137,
+    "max_tickets": 350,
+    "combined_hash": "9461922208ccef1654598987d78a7a30cbbab6f871af9ed1f25ba012fb32bad9",
+    "result": "331",
+    "external_round_id": "30565388",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T22:18:42.000000Z",
+    "revealed_at": "2026-07-19T22:18:48.000000Z"
+}
