@@ -1,0 +1,22 @@
+{
+    "round_id": "c9bbecc5-d374-41ac-a545-91637d93041e",
+    "draw_title": "Grab A Grand For 9p - Over £200k In Prizes #3",
+    "competition_url": "https://speedcompetitions.co.uk/competition/grab-a-grand-for-9p-over-ps200k-in-prizes-3",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "b5e7ff4db214b48fcf8329272c467bd4ee84b321415f1f99d162d4ee4de0f355",
+    "drand_seed_hash": "a754cfb161c0ec49bd32b9fdd6c751152fa73aedb1a15913592feda809c7e7a7155a353f173641f490206b4b738c4187",
+    "client_seed": "1784489922568",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2902506,
+    "max_tickets": 3055555,
+    "combined_hash": "696480475b441240b0e20a562e4c2ce696738cd091ae2c1a0a427bd4d83c2af3",
+    "result": "1819090",
+    "external_round_id": "30562188",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:38:42.000000Z",
+    "revealed_at": "2026-07-19T19:38:48.000000Z"
+}
