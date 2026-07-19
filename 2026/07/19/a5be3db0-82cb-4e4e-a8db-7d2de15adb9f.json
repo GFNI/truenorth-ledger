@@ -1,0 +1,22 @@
+{
+    "round_id": "a5be3db0-82cb-4e4e-a8db-7d2de15adb9f",
+    "draw_title": "£100 ASDA or TESCO Voucher #2",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps100-asda-or-tesco-voucher-2",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "8f3ea673a4d70b14e3a8f3d3d668e69d80db1212ac6106e2e7f269dd18f1bdef",
+    "drand_seed_hash": "a4f12c252baae4aae414ffa12131885b36b1d3e8144665588899d7bf20181c89027af0d3c8a206d56de96088c6480c39",
+    "client_seed": "1784488013093",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "df7577d551e753a43987a95815bb2857915be655db7708a83d4c7d469ad9dff6",
+    "result": "168",
+    "external_round_id": "30561552",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:06:53.000000Z",
+    "revealed_at": "2026-07-19T19:07:00.000000Z"
+}
