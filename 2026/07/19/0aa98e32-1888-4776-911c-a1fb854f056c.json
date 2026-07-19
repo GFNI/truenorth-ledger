@@ -1,0 +1,22 @@
+{
+    "round_id": "0aa98e32-1888-4776-911c-a1fb854f056c",
+    "draw_title": "£50,000 Of Instants",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps50000-of-instants",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "c74208a72951fd360a99ec37c682bd328fe5354aa62097009a49c8c86aca17ec",
+    "drand_seed_hash": "a29f1e3e255311fc67e5de3a095c563f664555804d0a1b58ff245f86d99a4df40f241215ca8ba84fa698e5f5e71e4d85",
+    "client_seed": "1784491888810",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93349,
+    "max_tickets": 1000000,
+    "combined_hash": "7730426022b2b14d1516e6a835f8b6a4a8b94ef794b9db1f83e0f1f819b49c02",
+    "result": "950520",
+    "external_round_id": "30562844",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:11:28.000000Z",
+    "revealed_at": "2026-07-19T20:11:36.000000Z"
+}
