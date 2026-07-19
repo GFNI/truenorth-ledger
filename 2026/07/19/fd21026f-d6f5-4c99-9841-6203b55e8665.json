@@ -1,0 +1,22 @@
+{
+    "round_id": "fd21026f-d6f5-4c99-9841-6203b55e8665",
+    "draw_title": "£100 Primark Voucher",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps100-primark-voucher",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "11ca3efdb5084713f9fc1d5667ee9588884fdd3107a41adcd8a4bfeef1a5e4a6",
+    "drand_seed_hash": "81abb9a547463cfe2f6bd3710b8c504a22e079be0beead3a17068efa8c59eeb0c1aeee59681f475b86c4f240fe6167fc",
+    "client_seed": "1784488152817",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 180,
+    "max_tickets": 200,
+    "combined_hash": "e8fdc3f9d463dc84399b03eeb6b2e6fc3442f6f736b993a04c2c678946e321c7",
+    "result": "105",
+    "external_round_id": "30561598",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:09:12.000000Z",
+    "revealed_at": "2026-07-19T19:09:18.000000Z"
+}
