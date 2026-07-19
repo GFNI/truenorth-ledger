@@ -1,0 +1,22 @@
+{
+    "round_id": "9fa32c1f-f29a-4ea3-bdbd-c98f77a24a79",
+    "draw_title": "EPIC PIGGY POT FIND THE JACKPOT 6",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-piggy-pot-find-the-jackpot-6",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "afc7d75ad2fd29574167a4c2faa58278c6a336af50208c1af33673cfa0115a86",
+    "drand_seed_hash": "a043f891ece70f1c3056fbc9e3a55a8834e3cbbe1fd1f0f3c6d366e12d10bb6f8cd1ff74fe60b65cb5776e34cd9259cb",
+    "client_seed": "1784491530783",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7901,
+    "max_tickets": 12000,
+    "combined_hash": "008ebd4fdcb5d310e2a820581ef5ca4eef23c079928712a29e3b0366d5df0a64",
+    "result": "2721",
+    "external_round_id": "30562724",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:05:30.000000Z",
+    "revealed_at": "2026-07-19T20:05:36.000000Z"
+}
