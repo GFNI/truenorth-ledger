@@ -1,0 +1,22 @@
+{
+    "round_id": "362f18c4-4530-4805-8633-84e73053a8a9",
+    "draw_title": "Fishin For Fortunes",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/fishin-for-fortunes-4",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "bbab39951c824f3eedc357b8a95ced07803d3df894954f354be33436c8c33d05",
+    "drand_seed_hash": "99f9d66f709766cd316ecdc8d29cac0edf222ca2e17797d43326c37628b7fdda23f8aa841404a2e84bae2b79972f6d72",
+    "client_seed": "1784491896517",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5942,
+    "max_tickets": 70000,
+    "combined_hash": "6a378f3ef7bd5ec42ed9d9e1019d253af4292bf4e58662424fc2d004012eaff6",
+    "result": "63227",
+    "external_round_id": "30562846",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:11:36.000000Z",
+    "revealed_at": "2026-07-19T20:11:42.000000Z"
+}
