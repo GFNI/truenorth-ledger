@@ -1,0 +1,22 @@
+{
+    "round_id": "bcf853d9-e09b-41fc-a940-afcbce76d7d6",
+    "draw_title": "Shark Chill Pill | £100 Cash Alt",
+    "competition_url": "https://phatstax.co.uk/admin/products/shark-chill-pill-ps100-cash-alt",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "6561b207356849d4d9e04b58a4c5fcc3080e1eae2a29d2bf8ce1247ae05905f8",
+    "drand_seed_hash": "a090ad73eba9fea086fea23f0589a44c0327fea8167f9408caae1d2a28557953488169d8ed057a351e56f78768237f7b",
+    "client_seed": "1784490599328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 199,
+    "combined_hash": "8ccc608dcb283ed3fe69557462e51c23decd4fea44619dade275dcaca3f04db8",
+    "result": "129",
+    "external_round_id": "30562414",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:49:59.000000Z",
+    "revealed_at": "2026-07-19T19:50:06.000000Z"
+}
