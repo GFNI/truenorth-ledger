@@ -1,0 +1,22 @@
+{
+    "round_id": "a6edaec4-c159-4e22-8477-6dbee98d60c5",
+    "draw_title": "Retro Riches | £100 Main Prize | £4850 Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/retro-riches",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "4ce884294fbffb7ae0cc76da825974116176e3df3ed89c7cd08033aa21f8b72f",
+    "drand_seed_hash": "aeef2544b15f446d06eafa358811f09bac65c902ac745f90f4ccdde054c5491752d9a523e8847987de5b9204716052f1",
+    "client_seed": "1784491328854",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 180997,
+    "max_tickets": 353571,
+    "combined_hash": "39701f6dcbc87a333ed2f1a5ed18535c3c8049cbe09afbe05885c64c42421030",
+    "result": "339823",
+    "external_round_id": "30562657",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:02:08.000000Z",
+    "revealed_at": "2026-07-19T20:02:15.000000Z"
+}
