@@ -1,0 +1,22 @@
+{
+    "round_id": "de5711b6-1cb6-4f41-b5c1-6b422d87e4bb",
+    "draw_title": "Terrys Plinko!! Huge cash Instants and ticket bundles",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/terrys-plinko-huge-cash-instants-and-ticket-bundles",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "208ff3921315932960c144b2cbdbea532544d60d1b5ea909486178650212fd4f",
+    "drand_seed_hash": "b5f74f786129bff7b5e874a7e5e9bfc1addcd275c535a759675db8ba5af4d78e70d0f5cebd7f8b1121ecaf3149681172",
+    "client_seed": "1784486697017",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7543,
+    "max_tickets": 39840,
+    "combined_hash": "5e04d1f467aa134eb5eb95ea6afddcc344a7cfedc53285060accff4b473cefe0",
+    "result": "34047",
+    "external_round_id": "30561113",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T18:44:57.000000Z",
+    "revealed_at": "2026-07-19T18:45:03.000000Z"
+}
