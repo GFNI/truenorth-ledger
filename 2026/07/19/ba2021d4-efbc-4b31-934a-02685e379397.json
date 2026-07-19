@@ -1,0 +1,22 @@
+{
+    "round_id": "ba2021d4-efbc-4b31-934a-02685e379397",
+    "draw_title": "Deluxe Pan Set!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/deluxe-pan-set",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f54ecd35f83d1816afb4420368fea3d8d1fc96a00e8e7affe1a287ef81ecf679",
+    "drand_seed_hash": "b12b8a9480849a0f0961297dba2b1719118870a42fcef43b0c4dca6df2c0fcb9c5fbe6350db6d2c342a61654b0418773",
+    "client_seed": "1784488787656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87,
+    "max_tickets": 250,
+    "combined_hash": "ff4e6ad760f0d6c9dc0b5c3500503e8c1c0e26b1eaa129bd3b00f33fd2ea50b1",
+    "result": "230",
+    "external_round_id": "30561810",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:19:47.000000Z",
+    "revealed_at": "2026-07-19T19:19:54.000000Z"
+}
