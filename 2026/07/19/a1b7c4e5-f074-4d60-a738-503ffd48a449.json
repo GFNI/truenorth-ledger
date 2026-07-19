@@ -1,0 +1,22 @@
+{
+    "round_id": "a1b7c4e5-f074-4d60-a738-503ffd48a449",
+    "draw_title": "WESTLIFE CONCERT",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/westlife-concert",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "a746611bfdfd8ddba7ba74229d67ac1aedd9e4aae7efd0b8c05a1b421614e9b3",
+    "drand_seed_hash": "82153b0c7a3df88b3d8b788c675efa1b4ef05e375f03414a77879e3502b411cea4d820a8ad8d7bc74d0387cabe0d1d11",
+    "client_seed": "1784487852613",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 177,
+    "max_tickets": 350,
+    "combined_hash": "9361b60f89d64af9b9da96c1441d568e9c4dbbbe66308bb550f341b1298ee78a",
+    "result": "222",
+    "external_round_id": "30561498",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:04:12.000000Z",
+    "revealed_at": "2026-07-19T19:04:18.000000Z"
+}
