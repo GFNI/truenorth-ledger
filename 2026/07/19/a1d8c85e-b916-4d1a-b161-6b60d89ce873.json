@@ -1,0 +1,22 @@
+{
+    "round_id": "a1d8c85e-b916-4d1a-b161-6b60d89ce873",
+    "draw_title": "Afternoon Tea for 2 at Twenty Nineteen!",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/afternoon-tea-for-2-at-twenty-nineteen",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "94eaedf635529beb4ecd8558f1dffee09b7e09fd29a265cc3819528cb0b6842c",
+    "drand_seed_hash": "b747ed14c9c87378706c9e2a07b760346d8e97b815d7f2919a121827b4052fea34a0af1507dbcfe008b34728c2d312d6",
+    "client_seed": "1784488095066",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "595faba938bd5a1c8587ea058c57183f0bd0b5dab6ab2902c3715258ea3dfdec",
+    "result": "70",
+    "external_round_id": "30561579",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:08:15.000000Z",
+    "revealed_at": "2026-07-19T19:08:21.000000Z"
+}
