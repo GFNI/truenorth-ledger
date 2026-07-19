@@ -1,0 +1,22 @@
+{
+    "round_id": "4d2e331e-d1b1-4d31-8358-d8ed53fcd012",
+    "draw_title": "Harry Kane Panini Donruss Kaboom",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/harry-kane-panini-donruss-kaboom",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "433fea2fab1fc49226d2323861cdeece2b9b356c8c9d1e5abe45566054748b02",
+    "drand_seed_hash": "8bb1a061d149bf96803e4f4b2b4ca4dd21b630130749df6af4eafac89adf522dafb84918e704226a469029d033191f0e",
+    "client_seed": "1784484655789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23,
+    "max_tickets": 85,
+    "combined_hash": "457934cc9b13a8c8b822ec10550efcbeb12d4a24a580ced65e7d2516f3b225c4",
+    "result": "22",
+    "external_round_id": "30560433",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T18:10:55.000000Z",
+    "revealed_at": "2026-07-19T18:11:03.000000Z"
+}
