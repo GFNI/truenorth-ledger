@@ -1,0 +1,22 @@
+{
+    "round_id": "015ed2b2-ac96-4008-acdf-1771bcfc0d03",
+    "draw_title": "The World Cup Flag Hunt! Mystery Cash Prizes!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-world-cup-flag-hunt-mystery-cash-prizes",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "1a7de47d1888babc82bbf4419386871f104ba795a8d603fb380286b39144d8ee",
+    "drand_seed_hash": "a7b299ab07ecc55fba6b53924e9ddc055f8cd5d80a8d450edd2b1657bf913aa5ae6b6c12b19e6a543aef852aad74fdb6",
+    "client_seed": "1784495447964",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25995,
+    "max_tickets": 100000,
+    "combined_hash": "9bd1be5db2806765226bb36ee22f5dad77a19aa86e1d6b59845580c6299ab639",
+    "result": "86588",
+    "external_round_id": "30564030",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T21:10:48.000000Z",
+    "revealed_at": "2026-07-19T21:10:54.000000Z"
+}
