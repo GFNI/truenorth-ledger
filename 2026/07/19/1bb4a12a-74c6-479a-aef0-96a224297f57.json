@@ -1,0 +1,22 @@
+{
+    "round_id": "1bb4a12a-74c6-479a-aef0-96a224297f57",
+    "draw_title": "Jurassic Jackpot £2500 Main Prize #5",
+    "competition_url": "https://speedcompetitions.co.uk/competition/jurassic-jackpot-ps2500-main-prize-5",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "a3312e5b31df312504b8d9ddf699141aafba0aa1c951a91a94367cddc71f9820",
+    "drand_seed_hash": "b6289d8b6b970f09eaa1a20ee97486e72c2b9a5e224d7d8a43e8e9e33c56866a0e674931a7b1453a60a3f982136fb869",
+    "client_seed": "1784490133042",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 381696,
+    "max_tickets": 399999,
+    "combined_hash": "e662b6e03a97dbb7d3445f434a069f220bdc0e4d22916630c475630c06fe715c",
+    "result": "58680",
+    "external_round_id": "30562259",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:42:13.000000Z",
+    "revealed_at": "2026-07-19T19:42:21.000000Z"
+}
