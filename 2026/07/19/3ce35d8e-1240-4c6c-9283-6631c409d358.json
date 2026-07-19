@@ -1,0 +1,22 @@
+{
+    "round_id": "3ce35d8e-1240-4c6c-9283-6631c409d358",
+    "draw_title": "Shark Speed Style Pro Flex Hairdryer #2",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/shark-speed-style-pro-flex-hairdryer-2",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "cd41431c4491eedbc975188d9a0cf6900ab2af0ef8d7c3651ace8cdc284d1c5f",
+    "drand_seed_hash": "92b621830cc3591e24eedd0f6e1171c8b48f2fd823a88b0031f6ed3e5f7577f66ec68aef177e4cf6360887903183722c",
+    "client_seed": "1784488271733",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 213,
+    "max_tickets": 300,
+    "combined_hash": "eec26f61cfef14ef1fd1042c03e969e43baefeb23b7bc7853d8a4e3ce4455754",
+    "result": "251",
+    "external_round_id": "30561638",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:11:11.000000Z",
+    "revealed_at": "2026-07-19T19:11:18.000000Z"
+}
