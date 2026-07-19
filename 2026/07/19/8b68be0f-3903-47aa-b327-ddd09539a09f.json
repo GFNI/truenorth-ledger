@@ -1,0 +1,22 @@
+{
+    "round_id": "8b68be0f-3903-47aa-b327-ddd09539a09f",
+    "draw_title": "Pokémon Mega Evolution Booster Box + Instant Ticket Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-mega-evolution-booster-box-instant-ticket-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "e39c4ef88460537f38434e7f57e1e26d774433a1e0d48f78bf77d7a5d8d120f2",
+    "drand_seed_hash": "a477593be6629fa43f18d18891300254746dcdb0f94a1f49f1b24c6d1093628cc6816ee3dcabb3ba118223640c8c6eb6",
+    "client_seed": "1784495888676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 235,
+    "max_tickets": 1066,
+    "combined_hash": "ae3a836a0fb2ed0a7ce091820ba620548677ccddfceb5e2b8a8188f6ae22fa04",
+    "result": "299",
+    "external_round_id": "30564177",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T21:18:08.000000Z",
+    "revealed_at": "2026-07-19T21:18:15.000000Z"
+}
