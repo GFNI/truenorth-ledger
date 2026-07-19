@@ -1,0 +1,22 @@
+{
+    "round_id": "9b341d80-663e-460c-ace5-bc3bad2ca1dc",
+    "draw_title": "Heung-Min Son Panini Select Pitchside Auto",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/heung-min-son-panini-select-pitchside-auto",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "8ed4139fa5b3ba138793c966ca0a2e5dadd9c317ca251dde8402414e7f24cd87",
+    "drand_seed_hash": "99730ef45212fba7ce8ff57fdcca717837a23f4018e8a8a3e168ddd242ff93d742c2003729888952b652ee0a9240d6e9",
+    "client_seed": "1784484664125",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20,
+    "max_tickets": 100,
+    "combined_hash": "69c02c4bfd059081f2b3139f056492be5d37ab5fc512eb82a00194584d9991bc",
+    "result": "42",
+    "external_round_id": "30560436",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T18:11:04.000000Z",
+    "revealed_at": "2026-07-19T18:11:12.000000Z"
+}
