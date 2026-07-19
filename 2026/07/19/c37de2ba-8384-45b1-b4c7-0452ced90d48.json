@@ -1,0 +1,22 @@
+{
+    "round_id": "c37de2ba-8384-45b1-b4c7-0452ced90d48",
+    "draw_title": "JACKPOT JUNGLE CASH - £2,500 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/jackpot-jungle-2500",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "1621d266617faf7111e813fa7a421cd93274a7f3fcd2710cf9e83ae541422178",
+    "drand_seed_hash": "b7d172ba8484f9632fa5a9f080ab7c424ef2f9c56ce25ac2e002c4866b855bb177c6f9fe960f42ed5ee1e2e7f03a1912",
+    "client_seed": "1784493276663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 194555,
+    "max_tickets": 750000,
+    "combined_hash": "ac64fb354a49eea6f906042b29ad4feae2fe2fc7cd63fefd75c9a47ec19ea012",
+    "result": "417757",
+    "external_round_id": "30563306",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:34:36.000000Z",
+    "revealed_at": "2026-07-19T20:34:42.000000Z"
+}
