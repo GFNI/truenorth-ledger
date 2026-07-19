@@ -1,0 +1,22 @@
+{
+    "round_id": "6e5998a9-26eb-46ee-9e91-d14a706f2ea0",
+    "draw_title": "World Cup Whack A Mole 🏴󠁧󠁢󠁥󠁮󠁧󠁿😒 ON SALE!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/world-cup-whack-a-mole-on-sale",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "c6c660d98d27013e2ab9d8e1ab17f283af2f7bccbe6d118a9479ecc5e0e42aee",
+    "drand_seed_hash": "ad1a5b26c79c54381f5b0e821dd096d24ed1e4d51686fe03852fcf1dc62db52b36992dd7866e0348fd39f2cf9cd6cf11",
+    "client_seed": "1784491699844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11230,
+    "max_tickets": 72000,
+    "combined_hash": "9c8857f147e01df6fa0e7dd699316431b00d0fa97ad2ceba4731bdf2be9c42fe",
+    "result": "53661",
+    "external_round_id": "30562781",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:08:19.000000Z",
+    "revealed_at": "2026-07-19T20:08:27.000000Z"
+}
