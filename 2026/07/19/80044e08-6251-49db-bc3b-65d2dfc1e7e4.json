@@ -1,0 +1,22 @@
+{
+    "round_id": "80044e08-6251-49db-bc3b-65d2dfc1e7e4",
+    "draw_title": "puch maxi",
+    "competition_url": "https://retroshite.com/competition/puch-maxi-2",
+    "operator": {
+        "name": "Unit Road Creative LTD",
+        "website": "https://retroshite.com/",
+        "company_number": "SC818301"
+    },
+    "drand_server_seed": "a5be6bcd8d4fb2c2c77e276d5440b385d4c017e299c8295e63e5e4ce0469b2b3",
+    "drand_seed_hash": "8bc445892e9a6eae40cfb109b24dd77fdf1b38884c3b5bd50eed4c3e0cefcfc216165fe0aa10ec5267dd57980b269c74",
+    "client_seed": "1784490986443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1048,
+    "combined_hash": "a8cfb98740f007b8b14d1d9dbdaec6ac8fc09f55d28c0f980fc3d3ad58950a85",
+    "result": "793",
+    "external_round_id": "30562543",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T19:56:26.000000Z",
+    "revealed_at": "2026-07-19T19:56:36.000000Z"
+}
