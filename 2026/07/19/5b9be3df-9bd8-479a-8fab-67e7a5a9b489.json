@@ -1,0 +1,22 @@
+{
+    "round_id": "5b9be3df-9bd8-479a-8fab-67e7a5a9b489",
+    "draw_title": "WORLD CUP OF WINS - £1,000 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/world-cup-of-wins-ps1000-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "b13e79ce89c0b0829d9f5c3444e2a94156b54f38ada6aa622ceb3ee09b0b97ba",
+    "drand_seed_hash": "abeab00d415009355d4bfa61cb7cb4ff36e2eda19d6d2bb55d67d12dac835c8b22940e297f01963527c1c6864beea25c",
+    "client_seed": "1784493147110",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 262924,
+    "max_tickets": 1400000,
+    "combined_hash": "f3fb626ea7d43957435a0a65acddad89d7af37cfd471b58047ce4eb57208a749",
+    "result": "1180788",
+    "external_round_id": "30563263",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:32:27.000000Z",
+    "revealed_at": "2026-07-19T20:32:33.000000Z"
+}
