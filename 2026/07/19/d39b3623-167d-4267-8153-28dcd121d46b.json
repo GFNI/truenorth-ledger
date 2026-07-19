@@ -1,0 +1,22 @@
+{
+    "round_id": "d39b3623-167d-4267-8153-28dcd121d46b",
+    "draw_title": "⚽️WORLD CUP VAR, YOU KIDDING ME?! INSTANT WIN⚽️ (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/world-cup-var-you-kidding-me-instant-win-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "f956bc7b0110cb81d0eaa8cbe0be1f515e4422eb8a322a9e28fa50a25ca7bb08",
+    "drand_seed_hash": "b26b6b985cb6b06439c769f1001b7603a2cd411b7ed5017a90af6c8ef1d2fc87633d3b419aa5f24044160e2b01c0268a",
+    "client_seed": "1784491860756",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16691,
+    "max_tickets": 100000,
+    "combined_hash": "c0220a3fc54201fa225ec4c2be9fe65fc6e373fc86bc4b1897d99d1310521c28",
+    "result": "28865",
+    "external_round_id": "30562834",
+    "processing_status": "completed",
+    "created_at": "2026-07-19T20:11:00.000000Z",
+    "revealed_at": "2026-07-19T20:11:06.000000Z"
+}
