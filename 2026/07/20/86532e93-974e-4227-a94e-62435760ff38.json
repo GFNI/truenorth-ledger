@@ -1,0 +1,22 @@
+{
+    "round_id": "86532e93-974e-4227-a94e-62435760ff38",
+    "draw_title": "COWBOY CASH SHOOT OUT",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/cowboy-cash-shoot-out",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "dcd0c99110d7d5b324373cb395dd18a97d7729f5d52f21f41e3706bd8e4bda23",
+    "drand_seed_hash": "93a2d0c2cb473d5183a2b7eadfafbea2558131b05ca74ae61b87534b88ec54fd49b9b21086f1534e3ae58bcc076bad58",
+    "client_seed": "1784574936114",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9613,
+    "max_tickets": 60000,
+    "combined_hash": "66ce1d6de2f44370f1cdec19fc51af3e817f5ea11bd8e20f8a05bbf2c0e3c67c",
+    "result": "9927",
+    "external_round_id": "30590526",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:15:36.000000Z",
+    "revealed_at": "2026-07-20T19:15:42.000000Z"
+}
