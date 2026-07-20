@@ -1,0 +1,22 @@
+{
+    "round_id": "c9e28f07-dab0-4692-b40e-45bfe3a20104",
+    "draw_title": "RAINBOW RICHES",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/rainbow-riches",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "74bd4917712036ca164d7b1aad02e3d1a8467fa931198a7b6ece441a06268cbb",
+    "drand_seed_hash": "85449dd98d97665972558181bb8bcb9b26a7768202538bb6d2be927a4475610e7711a475a29322b994f04f5cd7f0829d",
+    "client_seed": "1784575122203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18016,
+    "max_tickets": 150000,
+    "combined_hash": "4ca60756bfbb4c77aa37292633b1f840bdc4ebe355dcbd1b78e88aa573caed2a",
+    "result": "41901",
+    "external_round_id": "30590588",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:18:42.000000Z",
+    "revealed_at": "2026-07-20T19:18:48.000000Z"
+}
