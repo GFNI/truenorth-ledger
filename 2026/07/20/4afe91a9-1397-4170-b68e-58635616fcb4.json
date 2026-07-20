@@ -1,0 +1,22 @@
+{
+    "round_id": "4afe91a9-1397-4170-b68e-58635616fcb4",
+    "draw_title": "Chaotic Random Unscramble",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-summer-unscramble-9726",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "9108113bebb28330faa5690e5257f691bf532fb75c45e8e75df899423d9d44af",
+    "drand_seed_hash": "81dd7c4f0af01a21db975bb771e27e302233c1298b8933bebfba1cb0d8db829d6dd86ba2fbe7e1ef529258185e2876ff",
+    "client_seed": "1784576827400",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "03af21e0f84d89652ad3c7f3724462ad48f83751e83ec2298104687982daf7d5",
+    "result": "3876",
+    "external_round_id": "30591157",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:47:07.000000Z",
+    "revealed_at": "2026-07-20T19:47:15.000000Z"
+}
