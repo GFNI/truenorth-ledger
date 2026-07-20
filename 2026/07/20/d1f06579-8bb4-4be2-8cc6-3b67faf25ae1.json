@@ -1,0 +1,22 @@
+{
+    "round_id": "d1f06579-8bb4-4be2-8cc6-3b67faf25ae1",
+    "draw_title": "Pinata Pay Day - Win Upto £200 Cash Instantly! 1 in 7 Chance To Win",
+    "competition_url": "https://ryscompetitions.com/admin/products/pinata-pay-day-win-upto-ps200-cash-instantly-1-in-7-chance-to-win",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "beaff7796475b03a2092f08871a75f2f1197e37f87b7dbc08b8ea6573760c9bc",
+    "drand_seed_hash": "a251121cda550cbdaee4c3fc49d7ed5d750f9f23a7f3e6d589d5db50759b29c82d08598f1e03e9992a198cd9ca6f58dd",
+    "client_seed": "1784574340162",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1989,
+    "max_tickets": 2000,
+    "combined_hash": "9f46b046885215ee64c6b5cc9657427e8cca96430462de444192f7ac9f5d9bc4",
+    "result": "1536",
+    "external_round_id": "30590328",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:05:40.000000Z",
+    "revealed_at": "2026-07-20T19:05:48.000000Z"
+}
