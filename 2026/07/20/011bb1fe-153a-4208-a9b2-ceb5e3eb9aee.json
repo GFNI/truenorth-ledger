@@ -1,0 +1,22 @@
+{
+    "round_id": "011bb1fe-153a-4208-a9b2-ceb5e3eb9aee",
+    "draw_title": "LG Washing Machine or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/lg-washing-machine-or-cash-7379",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "31231b71284ca64fc6acc65ec39b2228d29c4a7842850bd70b5fe4d0ef4a1253",
+    "drand_seed_hash": "a5870a19f84b7c7ae1e99c5390ed92bf64bee5b3b216e8ed7e4e9ab42e9080ea48c8ff02a986871f9e7de8b2d4ec6bd6",
+    "client_seed": "1784577187345",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1914,
+    "max_tickets": 3000,
+    "combined_hash": "9ad517623f82a490dca43438c28006e2eafa33772b4bf61a437f07d6f16b731c",
+    "result": "1179",
+    "external_round_id": "30591277",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:53:07.000000Z",
+    "revealed_at": "2026-07-20T19:53:15.000000Z"
+}
