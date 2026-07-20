@@ -1,0 +1,22 @@
+{
+    "round_id": "77792213-b594-491a-bf24-f45990608924",
+    "draw_title": "Musical Chairs 🪑",
+    "competition_url": "https://redlemonx.co.uk/admin/products/musical-chairs",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "bdf5ae83db936b8d8ce1855355e0f20524c23b45a873e938fc426b11355ad5d1",
+    "drand_seed_hash": "8e299d3a539101fae5ffc130eb3d02cba5aca547079c7938684a4458aff3f26de7d5a41654a0802604b2749c7d4dc3ba",
+    "client_seed": "1784574815542",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1680,
+    "max_tickets": 2500,
+    "combined_hash": "b5843b8fb6169fb7cefdd3c3860c358ba2057f859e251a0b79ce113d0804a8a7",
+    "result": "2486",
+    "external_round_id": "30590486",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:13:35.000000Z",
+    "revealed_at": "2026-07-20T19:13:42.000000Z"
+}
