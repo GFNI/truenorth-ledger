@@ -1,0 +1,22 @@
+{
+    "round_id": "0f8fac0f-59fc-4240-bee3-828e9ca6f882",
+    "draw_title": "Lavish Loot - 5 Main Winners + Instantly Win up to £1000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/lavish-loot-5-main-winners-instantly-win-up-to-ps1000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "4b972e8c5b302ec1eb7fb36933597fa98413501ecfc5dc93b1f0c4bda6054672",
+    "drand_seed_hash": "8a37c9dfe8654dcf6e324f67806a65894ac35e081b5ef7823e9d0e1cd606a498d38cbfccf07464d9af62938d854485e5",
+    "client_seed": "1784576439812",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11274,
+    "max_tickets": 100000,
+    "combined_hash": "0eb22c9390825969c04c5c916f4dc4737608178f8abdc8a805061cf86ccc0143",
+    "result": "79919",
+    "external_round_id": "30591027",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:40:39.000000Z",
+    "revealed_at": "2026-07-20T19:40:45.000000Z"
+}
