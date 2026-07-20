@@ -1,0 +1,22 @@
+{
+    "round_id": "7e461097-019d-42f0-be69-906d3cc97597",
+    "draw_title": "10p Cash Drops",
+    "competition_url": "https://winandgrin.co.uk/admin/products/10p-cash-drops",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "29495de4b7b95c58dc1868f45525def688ff63708e9186ec3c546fdf38176f45",
+    "drand_seed_hash": "8513aa3f1ffba0f386b0f12f1974cf1bcd0375ce55c8427d20da5205dabd07e2c33a1b5dde27d96a3ad3e6c8ec4dcaaf",
+    "client_seed": "1784576041096",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37639,
+    "max_tickets": 100000,
+    "combined_hash": "8bed8e9d130094ee20e0d8556cb6b8b7a6a8f6a82320b729c3ba03e041db5457",
+    "result": "89836",
+    "external_round_id": "30590895",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:34:01.000000Z",
+    "revealed_at": "2026-07-20T19:34:09.000000Z"
+}
