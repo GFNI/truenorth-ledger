@@ -1,0 +1,22 @@
+{
+    "round_id": "4ef35b95-46c9-4af3-be79-c8440023ad46",
+    "draw_title": "💷 Bounty's Cracking Cash Instants 💷",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bountys-cracking-cash-instants",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "08036c1548433b32e724c61321d00fad9e40d81ad955d1aadad40c5ac7797a4d",
+    "drand_seed_hash": "a34d447fe3a0b9fa4739dba67e8ece53ffdc355c179bc56431c3a56b4e746ec4a299458d2988b54a565aa0e5e988d2c4",
+    "client_seed": "1784581837398",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 273772,
+    "max_tickets": 892500,
+    "combined_hash": "546e43326727cd4d088f430d06dd03bda4c59f59a7633aa681a2b43b150e8380",
+    "result": "759957",
+    "external_round_id": "30592827",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T21:10:37.000000Z",
+    "revealed_at": "2026-07-20T21:10:45.000000Z"
+}
