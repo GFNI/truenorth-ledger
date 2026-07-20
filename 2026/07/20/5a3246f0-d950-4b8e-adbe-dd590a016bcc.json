@@ -1,0 +1,22 @@
+{
+    "round_id": "5a3246f0-d950-4b8e-adbe-dd590a016bcc",
+    "draw_title": "Waka Waka Mole - £100,000 Instant Wins",
+    "competition_url": "https://proprizes.co.uk/admin/products/waka-waka-mole-ps100000-instant-wins",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "16dd68862f030d54268c970a7419c620bbf61b5765dcf43f271779245406fc3a",
+    "drand_seed_hash": "998fa9d9a714582d121b4180a8cb82adbc0b02ee8cb42dedb027be6eb5e343cac7679468c7ef5c66763f4f321a7090ab",
+    "client_seed": "1784584644596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85696,
+    "max_tickets": 499999,
+    "combined_hash": "069b313f6ea10e0c727a8625ddfeb3eb9da47f418ef175ab7c1630f1c2f3a0e0",
+    "result": "217679",
+    "external_round_id": "30593762",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T21:57:24.000000Z",
+    "revealed_at": "2026-07-20T21:57:30.000000Z"
+}
