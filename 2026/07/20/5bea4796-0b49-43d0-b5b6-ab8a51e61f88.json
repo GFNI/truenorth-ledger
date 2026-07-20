@@ -1,0 +1,22 @@
+{
+    "round_id": "5bea4796-0b49-43d0-b5b6-ab8a51e61f88",
+    "draw_title": "Back Of The Net 🥅",
+    "competition_url": "https://redlemonx.co.uk/admin/products/back-of-the-net",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "424a7dfc4297b95f1d5f8e3df34e68d63cd28182d44c446930b4591faec864c3",
+    "drand_seed_hash": "ab8457344af34bc84178575a979f6a1a35bf9fdb18540ca145e240c39f30169086e4aaac4583450cca6d9a5b2961ab1c",
+    "client_seed": "1784575103831",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 440291,
+    "max_tickets": 500000,
+    "combined_hash": "4c6dec1b08e04c1c14d08f3a3286658f89b12d537b752e18ce49b9e317e4c63e",
+    "result": "479309",
+    "external_round_id": "30590582",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T19:18:23.000000Z",
+    "revealed_at": "2026-07-20T19:18:30.000000Z"
+}
