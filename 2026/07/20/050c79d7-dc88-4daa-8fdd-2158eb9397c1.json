@@ -1,0 +1,22 @@
+{
+    "round_id": "050c79d7-dc88-4daa-8fdd-2158eb9397c1",
+    "draw_title": "World Cup Watch Along! £250 End Prize",
+    "competition_url": "https://whiskyclubuk.com/admin/products/world-cup-watch-along-ps250-end-prize",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "4632bc5f41f1d9c89cbf3f7964f45b477e92eb9fe7d294d11c9db043a0f13656",
+    "drand_seed_hash": "85ef48c41e9440fccf562038ae86c39bd7a7ed3c39e1265a490eebb2593ae71c61f06491002cf145a0e5a96b0c49b599",
+    "client_seed": "1784569191126",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3424,
+    "max_tickets": 10999,
+    "combined_hash": "9142723f2c0741011f13159f46498f9f7a293c3be4302033ed91802b710408c9",
+    "result": "2531",
+    "external_round_id": "30588611",
+    "processing_status": "completed",
+    "created_at": "2026-07-20T17:39:51.000000Z",
+    "revealed_at": "2026-07-20T17:39:57.000000Z"
+}
