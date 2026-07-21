@@ -1,0 +1,22 @@
+{
+    "round_id": "643ad155-cbc2-47ee-8748-fbe2e15d62c1",
+    "draw_title": "Olympian Wins – £5,000 of Instant Cash + £200 End Prize!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/olympian-wins-ps5000-of-instant-cash-ps200-end-prize",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "0a5df25f42e3b9406e0678ca3e3de7ce6fba31147ab3c363740aa19ce2310143",
+    "drand_seed_hash": "b1efc2d0697fd97fe9d7e6da7f3ac754d4b770829e9484617ca8358a5189ab1801a855a4ce6ffab3003509319d1c37e4",
+    "client_seed": "1784637716191",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "a90400abb6058e5a9ea8014c672b30e783c2137a5c2ef13e11efa736487e2c81",
+    "result": "30",
+    "external_round_id": "30611453",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T12:41:56.000000Z",
+    "revealed_at": "2026-07-21T12:42:03.000000Z"
+}
