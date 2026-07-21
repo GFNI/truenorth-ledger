@@ -1,0 +1,22 @@
+{
+    "round_id": "b712faee-a1a9-401d-b5b5-63df9eafe9af",
+    "draw_title": "PANINI CARD + 2X £150 INSTANT WINS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/panini-card-2x-ps150-instant-wins",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "914dce791899fa6f5859c5bac0a09c11df9bd2f0f89b5ba3d9550d6e10d8872b",
+    "drand_seed_hash": "97775118917e1ec2ed9d3bfb6cec989a19e640a5544fd4a96337487ff2a4bab7e2e4cd947b2a63a73a5962dd58f56764",
+    "client_seed": "1784664651916",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5432,
+    "max_tickets": 49856,
+    "combined_hash": "51b61a1bae4d61a6fa29e257e3c0a2aea958c1715e229b7512911d9b327687d6",
+    "result": "48722",
+    "external_round_id": "30620431",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T20:10:51.000000Z",
+    "revealed_at": "2026-07-21T20:10:57.000000Z"
+}
