@@ -1,0 +1,22 @@
+{
+    "round_id": "a618bda4-65ec-4c92-84c9-73cea1d964e0",
+    "draw_title": "Silver Tempest ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/silver-tempest-etb",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "8a4c109184835870be793d8a5000e9412c000de7792e57c524e99edc80395f2c",
+    "drand_seed_hash": "a8ac2ff5fe24c6f1543c8e15fbbd563373bd081422b92dfd5d35080f99d5967c0503e08e3d81a6c3af382bf9a6a0cd56",
+    "client_seed": "1784664399824",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "811103391e32d16a95e84e9a0fa566bd97db9a6a5380d5043c78c30eb3dfb6fb",
+    "result": "152",
+    "external_round_id": "30620347",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T20:06:39.000000Z",
+    "revealed_at": "2026-07-21T20:06:45.000000Z"
+}
