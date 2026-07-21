@@ -1,0 +1,22 @@
+{
+    "round_id": "5f66bc1f-39bc-4e87-91e3-067235768b5d",
+    "draw_title": "Cheeks On Seats £1,000 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/cheeks-on-seats-ps1000-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "cbfb8688c213ab63b5ab665dc14ee015cd15d415439844abef156e6d0ccd3619",
+    "drand_seed_hash": "8aa35395a1cb16f3e5eaab1b7c603372ef67c0b141e14407bc2b2d88ff4fe24912edfe9931b2a1c30ca5d5823189dfea",
+    "client_seed": "1784632576825",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 176000,
+    "combined_hash": "162bb7d5d0172293e39b4388f9b0091d696d229192ddebdac18329c014c83550",
+    "result": "79127",
+    "external_round_id": "30609740",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T11:16:16.000000Z",
+    "revealed_at": "2026-07-21T11:16:34.000000Z"
+}
