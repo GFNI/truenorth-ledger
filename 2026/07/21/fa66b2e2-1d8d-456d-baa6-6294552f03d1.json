@@ -1,0 +1,22 @@
+{
+    "round_id": "fa66b2e2-1d8d-456d-baa6-6294552f03d1",
+    "draw_title": "Liverpool Vs Nottingham Forest Hospitality Tickets",
+    "competition_url": "https://ryscompetitions.com/admin/products/liverpool-vs-nottingham-forest-hospitality-tickets",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "8f7d5b501c5e49973366212b4bab9ff01bdb322e7a8c282a1f95faef1deb1b37",
+    "drand_seed_hash": "858f1aa39dc1a15452b90253ed3227b1dd9b04eb1ca4e66a0d2c666133101b93d85597705d0b785be80d6c36f7c705f8",
+    "client_seed": "1784664658561",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2657,
+    "max_tickets": 7500,
+    "combined_hash": "058df2897f5aba523fe02d3d31fcccc42c626fb428bbb94c775709e5043256aa",
+    "result": "1906",
+    "external_round_id": "30620434",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T20:10:58.000000Z",
+    "revealed_at": "2026-07-21T20:11:06.000000Z"
+}
