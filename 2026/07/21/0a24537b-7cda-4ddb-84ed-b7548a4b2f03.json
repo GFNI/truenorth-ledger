@@ -1,0 +1,22 @@
+{
+    "round_id": "0a24537b-7cda-4ddb-84ed-b7548a4b2f03",
+    "draw_title": "Ninja OR Ooni OR £275 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ninja-elec-bbq-or-ooni-volt-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "9993b7dcc2b7edf21040d0c4b540011dfc2648bc01f26a9626c74a4ec452ca0a",
+    "drand_seed_hash": "a8c61324b262e106171148b16a553eca38955f6c1c2ae21c3d871660ef70e8bfd1d13b04a20a442e61af195572520299",
+    "client_seed": "1784632396443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 600,
+    "combined_hash": "d54e5df77eda3bf09a9b76816186dc8fa9c77710d6136ae00b5a3e42f4014144",
+    "result": "182",
+    "external_round_id": "30609679",
+    "processing_status": "completed",
+    "created_at": "2026-07-21T11:13:16.000000Z",
+    "revealed_at": "2026-07-21T11:13:21.000000Z"
+}
