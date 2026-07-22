@@ -1,0 +1,22 @@
+{
+    "round_id": "88b7a13f-69a1-48a4-bda2-247cb9e21f5c",
+    "draw_title": "Warhammer Armageddon + Instant Ticket Wins! #3",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-armageddon-instant-ticket-wins-3",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "b557f5441957eebee080fb06c00f3a799a1b6aabb087efead73e14aa7a3dd087",
+    "drand_seed_hash": "a081ffc1b87d86cde56465475ad76148068373936820e4b4b1081bc530d5d9b27944a18b2bf14acd56cb7917675ad032",
+    "client_seed": "1784756415138",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 196,
+    "max_tickets": 1066,
+    "combined_hash": "d64b42b9de390740c606a4933bd54c60b564d9d6aa43327f938ba887842c8752",
+    "result": "1013",
+    "external_round_id": "30651019",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T21:40:15.000000Z",
+    "revealed_at": "2026-07-22T21:40:21.000000Z"
+}
