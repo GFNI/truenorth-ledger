@@ -1,0 +1,22 @@
+{
+    "round_id": "3132b4fe-5281-40e1-b374-da7d66528230",
+    "draw_title": "💷 £1,000 Guaranteed Cash Draw",
+    "competition_url": "https://theprizevault.co.uk/admin/products/ps1000-guaranteed-cash-draw",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "0fd5b95dc2fbec639afb48653b5504ddf39c52e8b85d4fcabab33de84fa182cf",
+    "drand_seed_hash": "a3e3fc0eeba50ab96d4bbe2a767634d4af21919ca25844bb0d5daa19e9e81f2318baa3c4c30afb029cbc82fd306bb668",
+    "client_seed": "1784747455182",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 1500,
+    "combined_hash": "4aa31d8ceea8624b26c3da0eb4061f7d7cfb4e8e385fa39cf4a4d93c6d276c27",
+    "result": "587",
+    "external_round_id": "30648032",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:10:55.000000Z",
+    "revealed_at": "2026-07-22T19:11:00.000000Z"
+}
