@@ -1,0 +1,22 @@
+{
+    "round_id": "768c45f5-33f7-4b21-b1c5-f8fb955d28cf",
+    "draw_title": "THE MYSTERY TREASURE CHEST! £150,000 OF INSTANT WINS FOR JUST 5P A TICKET",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/the-mystery-treasure-chest-ps150000-of-instant-wins-for-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "c03bcd6bde34396b216b179d532505ff258a8164b73507612bd366e48bd71c4e",
+    "drand_seed_hash": "b556e698b872d39acc471b5c2a256f6c2fdb719f0acf9897f427470f99c6eb4f97bf6e9f2e53572c41e4dcb50cb652c0",
+    "client_seed": "1784748644722",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104192,
+    "max_tickets": 7500000,
+    "combined_hash": "5dd19ec081e17884cabdc42dfce50829c06047e965b5ed13555573b77ddaa945",
+    "result": "6633758",
+    "external_round_id": "30648429",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:30:44.000000Z",
+    "revealed_at": "2026-07-22T19:30:53.000000Z"
+}
