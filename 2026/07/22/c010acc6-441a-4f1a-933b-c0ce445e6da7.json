@@ -1,0 +1,22 @@
+{
+    "round_id": "c010acc6-441a-4f1a-933b-c0ce445e6da7",
+    "draw_title": "Cash Carnival £1,500 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/cash-carnival-ps1500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "cea7c314c60617c054716305582afb5dac4f1a2ba4500118ff75cd741b5a58bc",
+    "drand_seed_hash": "8e73284ea8c6f959d740b7dca6dd8f726c48dc9c5d74142e1cbff1a4c90d77d0cdea7f9253f9864eba04dbeae279d050",
+    "client_seed": "1784755369040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 60000,
+    "combined_hash": "4cfe5b44eb196491cdc2b554e4af5a49c89017185f592a2655e4ecb0b3727bf0",
+    "result": "39565",
+    "external_round_id": "30650670",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T21:22:49.000000Z",
+    "revealed_at": "2026-07-22T21:22:54.000000Z"
+}
