@@ -1,0 +1,22 @@
+{
+    "round_id": "8b6cbe15-9bb7-4ad3-86d4-4ca970c9cf07",
+    "draw_title": "Dr Otek Complete Setup",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/dr-otek-complete-setup-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "5a2796d86aaf614e05ad6015a666e1572fc7ac3a3009eddb327d7338a316f121",
+    "drand_seed_hash": "8461866ba04bb4623c864f888d76c877c8341af19854f7fc477f6b29026080b8267cd29a53207f8286de33dc6d325de5",
+    "client_seed": "1784748370854",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 171,
+    "max_tickets": 400,
+    "combined_hash": "823497d9d19b52af1abee756bf5c627a987a8c709762efc21c4ebb5e3e5b3cc7",
+    "result": "51",
+    "external_round_id": "30648337",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:26:10.000000Z",
+    "revealed_at": "2026-07-22T19:26:18.000000Z"
+}
