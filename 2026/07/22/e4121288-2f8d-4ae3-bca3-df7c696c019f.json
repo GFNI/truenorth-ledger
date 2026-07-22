@@ -1,0 +1,22 @@
+{
+    "round_id": "e4121288-2f8d-4ae3-bca3-df7c696c019f",
+    "draw_title": "Handheld Fan!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/handheld-fan",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "43e305aae8214e2bc6cf21a829401fa0f64d1779c0b07a3021964da52068dcf6",
+    "drand_seed_hash": "b41e967a4f6cb6535cb6945fdde00175aab51fe27295897c39810080fa64a8d229d697d78ff04a82e04a7c39b871cecc",
+    "client_seed": "1784748238158",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87,
+    "max_tickets": 220,
+    "combined_hash": "c6b1deedb89ab8ec686d531f1d213d64f963c0d8e584528cf9556376f4a2d48c",
+    "result": "195",
+    "external_round_id": "30648294",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:23:58.000000Z",
+    "revealed_at": "2026-07-22T19:24:06.000000Z"
+}
