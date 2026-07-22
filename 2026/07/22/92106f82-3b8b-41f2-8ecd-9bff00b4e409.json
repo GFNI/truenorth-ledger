@@ -1,0 +1,22 @@
+{
+    "round_id": "92106f82-3b8b-41f2-8ecd-9bff00b4e409",
+    "draw_title": "£10,000 WHEN PIGS FLY",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps10000-when-pigs-fly",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "2d96e15209a704cefc18cd1297db1a467515b3744b65ef68808f8f60320f34f9",
+    "drand_seed_hash": "ad6feaf20239c51b207ca20ec11bbb051267dd2b47c3fc2cb4262611dc0bf0ea837b32457828cb3e488105e8f634e464",
+    "client_seed": "1784749164125",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33300,
+    "max_tickets": 250000,
+    "combined_hash": "ee2242252866402ce1a6ef88b3d72cb19f9ea98bea9ed7e777b9613195041542",
+    "result": "91311",
+    "external_round_id": "30648602",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:39:24.000000Z",
+    "revealed_at": "2026-07-22T19:39:30.000000Z"
+}
