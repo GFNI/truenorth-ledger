@@ -1,0 +1,22 @@
+{
+    "round_id": "cc291f59-df18-4ed9-8881-83bfe97b3284",
+    "draw_title": "Outta This World Cup!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/outta-this-world-cup",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "c8809cc087ac6c2f944f787eb910f4617c713cd669c7fa6e1d08c073e91a7a26",
+    "drand_seed_hash": "8de65fcf2ffb1bb288653042e90c04451816ee29170bf3d4e77295eb4c83341ed78145fc9ea91012e8c249e29d9768ba",
+    "client_seed": "1784747694484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9594,
+    "max_tickets": 19999,
+    "combined_hash": "d4288a8f56bdc9e66e52821b380e4aec84fcdb84316874f4924d18a787c16a49",
+    "result": "16724",
+    "external_round_id": "30648112",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:14:54.000000Z",
+    "revealed_at": "2026-07-22T19:15:00.000000Z"
+}
