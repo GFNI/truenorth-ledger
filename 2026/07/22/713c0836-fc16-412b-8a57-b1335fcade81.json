@@ -1,0 +1,22 @@
+{
+    "round_id": "713c0836-fc16-412b-8a57-b1335fcade81",
+    "draw_title": "£8,000 DINO DOSH",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps8000-dino-dosh",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "23b8b802c00dc02d2aa0d5dcb45e1c63e5cc0b0c573595db6a581f4a06b944d5",
+    "drand_seed_hash": "95199dffb1b80639497c2dd96b15760b92b73f7481d4e0f4a091d4cee925df93b0ec9c79ae89c1df4900aa9739fd8757",
+    "client_seed": "1784749243239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179716,
+    "max_tickets": 800000,
+    "combined_hash": "00b9bb8f3e77bcc8ec771089cecc25cf72c008a5d0ec4822b72079ed8b37b320",
+    "result": "244481",
+    "external_round_id": "30648629",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:40:43.000000Z",
+    "revealed_at": "2026-07-22T19:40:51.000000Z"
+}
