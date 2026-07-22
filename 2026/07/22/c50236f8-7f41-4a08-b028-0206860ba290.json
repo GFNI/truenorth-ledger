@@ -1,0 +1,22 @@
+{
+    "round_id": "c50236f8-7f41-4a08-b028-0206860ba290",
+    "draw_title": "Summer Holidays Snack Shop or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/summer-holidays-snack-shop-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d5a9cbd24aaab2f1888257ad35949566b90992a69cc8b718324482e043ed369c",
+    "drand_seed_hash": "b373311b9c1ceb844ae0f45f04bf7659a1289145257e0cd96e863d9d7efe37543e5faee4fb4c3e9ca08f95919667ec6e",
+    "client_seed": "1784749294593",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "b3a42c5b10d0e1548788f9378114579eda1c0ff46de055d8e922fa27a4dc8d04",
+    "result": "104",
+    "external_round_id": "30648646",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:41:34.000000Z",
+    "revealed_at": "2026-07-22T19:41:42.000000Z"
+}
