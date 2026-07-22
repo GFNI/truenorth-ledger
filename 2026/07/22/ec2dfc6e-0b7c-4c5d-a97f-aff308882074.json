@@ -1,0 +1,22 @@
+{
+    "round_id": "ec2dfc6e-0b7c-4c5d-a97f-aff308882074",
+    "draw_title": "PRIZE EVERY TIME - WEEKLY EDITION",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/prize-every-time-weekly-edition",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "9c767994c2b24745d65266ac85d287a42662f30b6dacce2b78ab567c6a6c4d31",
+    "drand_seed_hash": "a1eae817f9b82c8db69307db19534bff31cb4c78c4312873eff1dc119f3e16ffc7299bb30cf163f4f7689d21616bfac6",
+    "client_seed": "1784751069971",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 3499,
+    "combined_hash": "f172cdb5d7dd4d58214a8d8d2a717f45d099537b157582cff263510dc6bad02a",
+    "result": "2619",
+    "external_round_id": "30649238",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T20:11:10.000000Z",
+    "revealed_at": "2026-07-22T20:11:18.000000Z"
+}
