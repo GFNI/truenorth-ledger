@@ -1,0 +1,22 @@
+{
+    "round_id": "5b579901-6311-4902-87f4-2afca36e7e32",
+    "draw_title": "HARVEY'S 10p PLINKO!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/harveys-10p-plinko",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "89dc2e9db81c601d5434e5422031f56e91aa4704b6c9f44beeb8486738316092",
+    "drand_seed_hash": "99dca62a9d6d88c71ac8b2197adb5842a24663f3d80665391f4c74bc4a0e29407751717f28f2a08f227d00368a2587b5",
+    "client_seed": "1784754678785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47972,
+    "max_tickets": 140000,
+    "combined_hash": "076f75999a494763d9a1cc12d9ecf5d45526d18042d11fb6532d41394dcec6b9",
+    "result": "10184",
+    "external_round_id": "30650440",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T21:11:18.000000Z",
+    "revealed_at": "2026-07-22T21:11:24.000000Z"
+}
