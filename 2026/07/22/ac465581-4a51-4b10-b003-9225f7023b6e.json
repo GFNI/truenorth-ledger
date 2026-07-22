@@ -1,0 +1,22 @@
+{
+    "round_id": "ac465581-4a51-4b10-b003-9225f7023b6e",
+    "draw_title": "Topps Gold Bundesliga",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/topps-gold-bundesliga",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "2730b9a4affb762392eb07c5f0caed1704b5cd50451cf678672eb41785f9cd7f",
+    "drand_seed_hash": "947f01f5f511f27a43032ce97dffdd26b4eda4fa4661bbe228a6fecf8bfa393ef624a24b7e5d5ed27cb18f27d616fb9b",
+    "client_seed": "1784754637489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 162,
+    "max_tickets": 225,
+    "combined_hash": "1c7da80006b0e66ffbd52744699e330b65a80befd86a445dbd18d9f351bc90ff",
+    "result": "202",
+    "external_round_id": "30650427",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T21:10:37.000000Z",
+    "revealed_at": "2026-07-22T21:10:45.000000Z"
+}
