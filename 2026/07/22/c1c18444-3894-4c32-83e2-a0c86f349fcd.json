@@ -1,0 +1,22 @@
+{
+    "round_id": "c1c18444-3894-4c32-83e2-a0c86f349fcd",
+    "draw_title": "FREE TO ENTER £25 SITE CREDIT!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/free-to-enter-ps25-site-credit",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "c14f2964f50d2dc61157bb5769ad0df8f2384a1f39c4715a4090caf7d98502bd",
+    "drand_seed_hash": "b341d509056ab511ade73f342f2e362b86abb434f05fc9a720ba2893661ce8957834069a69f15b2879ed748fd86cc355",
+    "client_seed": "1784749241008",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 216,
+    "max_tickets": 1000,
+    "combined_hash": "0a7c58955ec85812133ccfb5a9f3517f5b8cab5b85ecdb95758b8c71230d86ce",
+    "result": "107",
+    "external_round_id": "30648628",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:40:41.000000Z",
+    "revealed_at": "2026-07-22T19:40:48.000000Z"
+}
