@@ -1,0 +1,22 @@
+{
+    "round_id": "34e95266-e044-4c48-96c8-b8273a9920f4",
+    "draw_title": "Ninja CREAMi Deluxe",
+    "competition_url": "https://expcomps.com/admin/products/ninja-creami-deluxe",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "7ac4285d1a186edda30a8a0ef14c242214d1fdfad17f58499bd8ac74398f3eae",
+    "drand_seed_hash": "b7d73b909812ec40934016f00f854925cc769f484887ed18363d69af54be75339779bb8c5c8850ef06e8ac6df0caca59",
+    "client_seed": "1784751063787",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 192,
+    "max_tickets": 649,
+    "combined_hash": "92cd072c1f76393bba7896f1f93c7fecefa90a3a5037ed8f96b10bd16f3a1ee1",
+    "result": "209",
+    "external_round_id": "30649235",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T20:11:03.000000Z",
+    "revealed_at": "2026-07-22T20:11:09.000000Z"
+}
