@@ -1,0 +1,22 @@
+{
+    "round_id": "e04bf150-aa8b-47f9-b8ef-56cb781cc0d2",
+    "draw_title": "£200 One4All Gift Card",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps200-one4all-gift-card-with-10-x-ps50s",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "13940e27db75596d33bf79cccf0f1880b384c15c1074c0c044c01ae2e42812de",
+    "drand_seed_hash": "94cbe2682f40eafc824a0eeed06a5f8da4b70699fba4bbf5f61492a275acbb133ae473661b07c1918477222238e62ad0",
+    "client_seed": "1784755147490",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2200,
+    "combined_hash": "b55b6054a38af4b15b76315aa368c8344bdda78287dc79bd1a44ca62d68bbdb6",
+    "result": "78",
+    "external_round_id": "30650596",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T21:19:07.000000Z",
+    "revealed_at": "2026-07-22T21:19:17.000000Z"
+}
