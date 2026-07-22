@@ -1,0 +1,22 @@
+{
+    "round_id": "94050e93-7080-4855-9ff3-8666a28c393c",
+    "draw_title": "5p Flash Cash - Win up to £500! 🔥",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/5p-flash-cash-win-up-to-ps500",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "902a7e7a28150fd5e527f030a86a5067be5b84ab384afad19c8b2f49e8d29686",
+    "drand_seed_hash": "8025f95c8b23808dc027b736974618ce203946e69a659645c90cc3939510f83c3645dcede5c09ce86ae5313ebce4cd67",
+    "client_seed": "1784747489835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131312,
+    "max_tickets": 499999,
+    "combined_hash": "b8d8980149e61a1a6d51a1e45d54b5414e3cd371fed45be08c376147bf5f8cf9",
+    "result": "294222",
+    "external_round_id": "30648044",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:11:29.000000Z",
+    "revealed_at": "2026-07-22T19:11:38.000000Z"
+}
