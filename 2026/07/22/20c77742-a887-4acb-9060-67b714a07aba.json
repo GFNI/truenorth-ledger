@@ -1,0 +1,22 @@
+{
+    "round_id": "20c77742-a887-4acb-9060-67b714a07aba",
+    "draw_title": "£20 Site Credit",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ps20-site-credit-8",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f552cc2c74e6a919f512879b0e1bc243e1ddf43737a6e3a18d553f69bf6cc521",
+    "drand_seed_hash": "b0166bc7182f4b014f05027ba50e4dae645aeb3c4878b3beeaa884094749f2aa0dd0844cd3e715e2d95208b54bf56675",
+    "client_seed": "1784748169794",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 80,
+    "combined_hash": "aa95624a0435d9d858e275c793618329314db5b14269d189889ef0e61360ab80",
+    "result": "27",
+    "external_round_id": "30648271",
+    "processing_status": "completed",
+    "created_at": "2026-07-22T19:22:49.000000Z",
+    "revealed_at": "2026-07-22T19:22:57.000000Z"
+}
