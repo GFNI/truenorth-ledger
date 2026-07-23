@@ -1,0 +1,22 @@
+{
+    "round_id": "c949886a-87c2-4737-9beb-e77a8ca92b4a",
+    "draw_title": "Every Scratch Wins MINI GAME ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/every-scratch-wins-mini-game-3",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "dbee417971f62f4929ac547fe40fc88011f53237a35381af65c5edcfaec87941",
+    "drand_seed_hash": "98a2ac60c43546dd3668f8839be29198b110562a94d37968948df940b6f5b39697d28907a4f8af9994d025678f4f6758",
+    "client_seed": "1784836238084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 240,
+    "max_tickets": 240,
+    "combined_hash": "2dd66967205d93b6393fd082d5dc761a02d6ff6609e63a59b3ba1d8b244bba63",
+    "result": "78",
+    "external_round_id": "30677627",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:50:38.000000Z",
+    "revealed_at": "2026-07-23T19:50:45.000000Z"
+}
