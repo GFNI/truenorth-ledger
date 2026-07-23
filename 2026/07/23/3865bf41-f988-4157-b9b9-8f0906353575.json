@@ -1,0 +1,22 @@
+{
+    "round_id": "3865bf41-f988-4157-b9b9-8f0906353575",
+    "draw_title": "Barnyard Bingo - Win Upto £2,000 Cash - 1 in 5 Chance To Win",
+    "competition_url": "https://ryscompetitions.com/admin/products/barnyard-bingo-win-upto-ps2000-cash-1-in-5-chance-to-win",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "a6039cc74d5f27a7acbfccf47d42c2db0711796cfecfb53405f3c9bdfd6497b7",
+    "drand_seed_hash": "a70c32855eb1c11918b964c96edfb58d309d12067a7c916110e8947e970d3030a91b763ee1dbd58b0250884987084aa1",
+    "client_seed": "1784836934406",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 187345,
+    "max_tickets": 249999,
+    "combined_hash": "26cd4a81459e363a8a80ecda5176c7523cba355381f1452c2cebd014f848a763",
+    "result": "171723",
+    "external_round_id": "30677859",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T20:02:14.000000Z",
+    "revealed_at": "2026-07-23T20:02:21.000000Z"
+}
