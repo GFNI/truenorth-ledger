@@ -1,0 +1,22 @@
+{
+    "round_id": "1f1f1ed3-a362-4348-ae44-ee87f3c10b0d",
+    "draw_title": "Ace 10 Leafeon GG35",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-leafeon-gg35",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "e62ac708d0b1a3d5137bc9a1c2ca03f96c1f8df0a9d4b246ed43ade0fb8fcf35",
+    "drand_seed_hash": "ae2856638128851b95f055ca7b7f2d2c1587e54eaab7c5ebe96e32138fc9a8e765f80b5010650420d3e55a8c07aea0e1",
+    "client_seed": "1784841042637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 167,
+    "max_tickets": 250,
+    "combined_hash": "8a694cb78949ca41441cb661d9bd911d1a2128106b2037f8065d453e6944e0f0",
+    "result": "33",
+    "external_round_id": "30679228",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T21:10:42.000000Z",
+    "revealed_at": "2026-07-23T21:10:48.000000Z"
+}
