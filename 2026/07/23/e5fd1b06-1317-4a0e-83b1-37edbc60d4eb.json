@@ -1,0 +1,22 @@
+{
+    "round_id": "e5fd1b06-1317-4a0e-83b1-37edbc60d4eb",
+    "draw_title": "Shereen Things 🙋🏽‍♀️",
+    "competition_url": "https://redlemonx.co.uk/admin/products/shereen-things",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "b35647400581c2817e65dc888d1b7ea59022400f913836755f24c5cfec2b1995",
+    "drand_seed_hash": "aa5f272194edadb0ff5b01abc506f61d6774464d73472ef4d4949bb7c72fb24c50acf30e86317148c59e37c0057ee7b1",
+    "client_seed": "1784834586633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30000,
+    "max_tickets": 30000,
+    "combined_hash": "92b492fcf0fe55ea4ab6d7e411c9273363a5983da1cbc6dd3733e6e832bc296a",
+    "result": "2915",
+    "external_round_id": "30677076",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:23:06.000000Z",
+    "revealed_at": "2026-07-23T19:23:12.000000Z"
+}
