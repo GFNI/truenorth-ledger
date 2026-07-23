@@ -1,0 +1,22 @@
+{
+    "round_id": "b7000ed7-3329-4637-8116-d5f6ce7d553d",
+    "draw_title": "🦆DEREK THE DUCK & HIS PENNY LUCK - INSTANT WIN🦆 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/derek-the-duck-his-penny-luck-instant-win-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "5db0e5e5bd2ba3b0633d00bfef742287a161b218ecc68e849aca54188806a3f6",
+    "drand_seed_hash": "877c3d76a3a6b4852c20166cb200d3f11cb3fa0681cc0e7d64666cb71884e2feb78bcc8bb9511affc0c0412a29bbf5d3",
+    "client_seed": "1784817157328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000000,
+    "max_tickets": 1000000,
+    "combined_hash": "4b5d9a97104a9976053badab1cc4619554d6f25a84f74e0c67f7698c56079001",
+    "result": "476044",
+    "external_round_id": "30671267",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T14:32:37.000000Z",
+    "revealed_at": "2026-07-23T14:32:45.000000Z"
+}
