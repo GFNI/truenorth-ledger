@@ -1,0 +1,22 @@
+{
+    "round_id": "fc1a56fa-70a1-4567-ac06-5aa376ecf3ae",
+    "draw_title": "WIN A PAIR OF MX, ENDURO OR TRIALS TYRES",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-pair-of-mx-enduro-or-trials-tyres",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "12d2217b1170f736030823c0d339e00993e1f30fab815144a877865b8500d9d9",
+    "drand_seed_hash": "9401ef709f39330fc5281e0bc2943aed2eaf354198a242b80b1ca34b3ee7b70f39ccbd7fbd7a5e801ae03ee1e7868d81",
+    "client_seed": "1784833872771",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 128,
+    "max_tickets": 200,
+    "combined_hash": "d551eb6a1b808bf32420d5c6c005eb96e1b868106867eb8b76e496d018c7f285",
+    "result": "6",
+    "external_round_id": "30676838",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:11:12.000000Z",
+    "revealed_at": "2026-07-23T19:11:18.000000Z"
+}
