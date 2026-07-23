@@ -1,0 +1,22 @@
+{
+    "round_id": "2cf5da53-3f3f-401f-99ed-06421cdf5024",
+    "draw_title": "🪅 Bounty's Bashing Instant Wins 🪅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bountys-bashing-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c9b8463af93ffe51e237dc9d673bd9a9310e019bdbc3cb6b08142c2ff196c905",
+    "drand_seed_hash": "8700c2ea8c5c4879ced5a71834bb1046fa2e186ca028d675be658c35b51dfba7ee4f07526ad2affe21fbd01010d8f93f",
+    "client_seed": "1784837437034",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94393,
+    "max_tickets": 938060,
+    "combined_hash": "c2ccc5f7a1752e2c0c6f3a0d850e6718f9330463dc2489b6946c602f2dd9ff07",
+    "result": "391503",
+    "external_round_id": "30678027",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T20:10:37.000000Z",
+    "revealed_at": "2026-07-23T20:10:45.000000Z"
+}
