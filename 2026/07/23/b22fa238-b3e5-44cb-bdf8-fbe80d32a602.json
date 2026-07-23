@@ -1,0 +1,22 @@
+{
+    "round_id": "b22fa238-b3e5-44cb-bdf8-fbe80d32a602",
+    "draw_title": "Takeaway Thursday!",
+    "competition_url": "https://redlemonx.co.uk/admin/products/takeaway-thursday-3",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "51e9a2beebe31d4a36aa99fdc66499d21fa22ae3a4627a021b6e31b0cb7d301b",
+    "drand_seed_hash": "a9abe6c2de669d4d55abc6b157e4fa7c575d8e852914d5fd599a0ff0353dfebb497073aae76272ac9615a740b1b4991f",
+    "client_seed": "1784827540468",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 75,
+    "combined_hash": "179f4dda09cc77ead3fc2384fe8328c9870897df5aa880d5b5176221108d8cc4",
+    "result": "13",
+    "external_round_id": "30674728",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T17:25:40.000000Z",
+    "revealed_at": "2026-07-23T17:25:48.000000Z"
+}
