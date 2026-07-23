@@ -1,0 +1,22 @@
+{
+    "round_id": "5be9ea42-012c-4b75-8cac-7525f80127de",
+    "draw_title": "WIN A GOPRO HERO13!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-gopro-hero13",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "749eff0cfc1294573643c51d2189d051b23c43ae4070d479468d884d9239ca5c",
+    "drand_seed_hash": "b223809f43965213bdcf0ef8a01ba279e3266181e7ee3aeac95ed87561df0828dcdf5d81dcf2e360ec847550dab18d44",
+    "client_seed": "1784833878481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 138,
+    "max_tickets": 299,
+    "combined_hash": "b429337664ea829235c6e0c62e1f147950890035c9075d0ab2f94ba1a52babe3",
+    "result": "223",
+    "external_round_id": "30676840",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:11:18.000000Z",
+    "revealed_at": "2026-07-23T19:11:24.000000Z"
+}
