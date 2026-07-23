@@ -1,0 +1,22 @@
+{
+    "round_id": "c6987a08-d6b8-4c15-aa10-57d6163efe16",
+    "draw_title": "JD Gift Card MINI GAME ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/jd-gift-card-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "52100902f926012c5dd493f46a8b8e6140c15530032146dbdb434b6b0a5cc6de",
+    "drand_seed_hash": "b16759af0d7c4a89583e7f20bd27bd9f0799a0488f0d67ee714f90dd098556d544acb1dcc6187e5d33ffe7a2e55af6fb",
+    "client_seed": "1784811097494",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "aff1c359f84bec32086f5620131e19b15bfd8e1a4fa15d1f894cff0e824503f1",
+    "result": "16",
+    "external_round_id": "30669247",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T12:51:37.000000Z",
+    "revealed_at": "2026-07-23T12:51:45.000000Z"
+}
