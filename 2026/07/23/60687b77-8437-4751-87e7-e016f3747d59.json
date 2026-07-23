@@ -1,0 +1,22 @@
+{
+    "round_id": "60687b77-8437-4751-87e7-e016f3747d59",
+    "draw_title": "£2,000 Cash + 10 x £200 Cash Instant Wins",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps2000-cash-10-x-ps200-cash-instant-wins",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "64ee393f79cc76a33aabade99690e2436c62ee3d285f3a95163ebdb463943692",
+    "drand_seed_hash": "b4e257fefb93f30575d6c23da2bcd12432511b2b9cfc9cee810c0a8c151f2d41c48a398ef7b8bf738635cfbe085ae9a2",
+    "client_seed": "1784837502185",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 224432,
+    "max_tickets": 400000,
+    "combined_hash": "d5a83648d9a54c7dcb9eb39a6103d23c1877ae5f14026221f5a58392ebfcb14a",
+    "result": "341718",
+    "external_round_id": "30678048",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T20:11:42.000000Z",
+    "revealed_at": "2026-07-23T20:11:48.000000Z"
+}
