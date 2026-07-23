@@ -1,0 +1,22 @@
+{
+    "round_id": "d8a5c671-5b40-45d1-90e8-614fb5f00188",
+    "draw_title": "£500 Ticket Bundle into Disneyland Competition #2",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps500-ticket-bundle-into-disneyland-competition-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "070925eec42d54c2fac5050c97212bb218b35b457f80f3c4c1c67ad6a30c8541",
+    "drand_seed_hash": "8c98bf1abcd29d937a6a0357c0fb349c6858dafd831ed523c148ec8a35b1dbf0a7847a434c0b081ed316eda80949f7ae",
+    "client_seed": "1784833853110",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 250,
+    "combined_hash": "370eb066d8b9b3e08691d6b6fa90dcf7800abec5893a6231325e384d20717c65",
+    "result": "8",
+    "external_round_id": "30676832",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:10:53.000000Z",
+    "revealed_at": "2026-07-23T19:11:00.000000Z"
+}
