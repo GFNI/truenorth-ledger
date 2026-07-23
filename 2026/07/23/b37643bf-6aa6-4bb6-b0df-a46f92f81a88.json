@@ -1,0 +1,22 @@
+{
+    "round_id": "b37643bf-6aa6-4bb6-b0df-a46f92f81a88",
+    "draw_title": "💰 £20K 💰",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps20k",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "588042b9214b55c58a6e8dba6dd6bc00c5ed470f831faa7149ac1abd41565756",
+    "drand_seed_hash": "b67eefd8df9bf24a0a3675972778dea1d804c75246591b0cc9bbd81cee91e210d242e65a3afe53fd163456dca76c157d",
+    "client_seed": "1784834874423",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30810,
+    "max_tickets": 30810,
+    "combined_hash": "444cc2a80a020ae8aac24ce535e61bae6e1f88f3911da69eb8eedf66b64623e6",
+    "result": "20847",
+    "external_round_id": "30677172",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T19:27:54.000000Z",
+    "revealed_at": "2026-07-23T19:28:00.000000Z"
+}
