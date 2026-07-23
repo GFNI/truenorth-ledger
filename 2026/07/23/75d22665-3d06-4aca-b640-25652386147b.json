@@ -1,0 +1,22 @@
+{
+    "round_id": "75d22665-3d06-4aca-b640-25652386147b",
+    "draw_title": "WIN 30 TICKETS ON THE SUPER SPECIAL SHERCO! (DRAW 6)",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-30-tickets-on-the-super-special-sherco-draw-6",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "f737bcf9e901526224e4520796f106efde74d0c65d80aa6d4057dab1de138b6f",
+    "drand_seed_hash": "a88073a8708757ea7c3417357f18348555c59ce6ffa493e84f4dd3d7413ca51d5c3f8263684a8436ec4c12d8f8d5f2f6",
+    "client_seed": "1784833000264",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 300,
+    "combined_hash": "814c6daff26c6bbbb8da2a960deaa9f1ad7df02a0406fdd0773e7325dcb4f4ff",
+    "result": "10",
+    "external_round_id": "30676548",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T18:56:40.000000Z",
+    "revealed_at": "2026-07-23T18:56:48.000000Z"
+}
