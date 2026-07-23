@@ -1,0 +1,22 @@
+{
+    "round_id": "a607b833-5c43-4ac2-bb30-307c171f30c3",
+    "draw_title": "Summer Shenanigans MINI GAME ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/summer-shenanigans-mini-game-3",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "d67ab3777655b5917864bd7d751eff519ed881bb4843769fed1108bec3fd4b02",
+    "drand_seed_hash": "84ae0e0ab5cd847d34fe8fee04606301f2bda2c873f8d27e7c5353a3a3c9c4e7c9beed7efc9e60b177472cfb391e6371",
+    "client_seed": "1784840556999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "06c7ff9d20a4d42f94e8ec54acba3efc6dc54117fee2baf4fadb39314f2bb5b9",
+    "result": "43",
+    "external_round_id": "30679067",
+    "processing_status": "completed",
+    "created_at": "2026-07-23T21:02:37.000000Z",
+    "revealed_at": "2026-07-23T21:02:45.000000Z"
+}
