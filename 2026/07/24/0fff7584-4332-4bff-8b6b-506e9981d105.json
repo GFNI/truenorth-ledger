@@ -1,0 +1,22 @@
+{
+    "round_id": "0fff7584-4332-4bff-8b6b-506e9981d105",
+    "draw_title": "LOGO LOOT SLASH",
+    "competition_url": "https://winandgrin.co.uk/admin/products/logo-loot-slash-2",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "c590e6da14ed07fd4cb5dc46c87dff0d5b967de4acb46c9a11d914ef987561ae",
+    "drand_seed_hash": "a9aa37c2a660f425fbdfd33f5c398e056844df665ff91d1e8685ade765573fc2206cd0a31707fd775bdd75a35f196cf8",
+    "client_seed": "1784923634575",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2810,
+    "max_tickets": 5000,
+    "combined_hash": "907610aaff25e2776b0bdc95ee71f5b3a0f37216fb2efd13f4d457fcfcaffc63",
+    "result": "649",
+    "external_round_id": "30706759",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:07:14.000000Z",
+    "revealed_at": "2026-07-24T20:07:21.000000Z"
+}
