@@ -1,0 +1,22 @@
+{
+    "round_id": "9251ace5-8420-49f9-87d5-5a5f59e36a6a",
+    "draw_title": "Slots Of Fun -  £5k in instant wins",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/slots-of-fun-ps5k-in-instant-wins-3",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "4acdad406c5f77870a40a772a7fcca02d87fac13ec2ce4c2e5ac5ce73df18d30",
+    "drand_seed_hash": "9230fd50f84d3da77fb1669b31507f3946730e2a905ad9ce473ee0749d472b12419a528bfb5204bd633e904932806bf1",
+    "client_seed": "1784931036582",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7727,
+    "max_tickets": 30000,
+    "combined_hash": "82dca3457442f68228d10e7bb40b29820c074d6ff83769bdb6dc53672a53fc0d",
+    "result": "16723",
+    "external_round_id": "30709226",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T22:10:36.000000Z",
+    "revealed_at": "2026-07-24T22:10:42.000000Z"
+}
