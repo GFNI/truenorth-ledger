@@ -1,0 +1,22 @@
+{
+    "round_id": "557d051d-f835-4817-967e-45e08e65e60e",
+    "draw_title": "OMNI SCORING SYSTEM",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/omni-scoring-system",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "a1f2e48c1c0e78f7608002b862953ddcfa46fd2d9e719b56df5c40a86cafd70a",
+    "drand_seed_hash": "adb28392469beadb7b78583643589feaa8c9a0d29b9cf0361c2d65ab963c23bf2a7f92cdb07602ddec923f910bb0d1eb",
+    "client_seed": "1784923386263",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 294,
+    "max_tickets": 501,
+    "combined_hash": "637b71dbb389e2e7dcafab96943c02e86e1dbabd58064610a1e2b9c94c8ee37c",
+    "result": "363",
+    "external_round_id": "30706676",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:03:06.000000Z",
+    "revealed_at": "2026-07-24T20:03:12.000000Z"
+}
