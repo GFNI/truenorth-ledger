@@ -1,0 +1,22 @@
+{
+    "round_id": "dd440390-1e04-47d4-8898-193921c7bcb5",
+    "draw_title": "💰🪜 Cash Ladder 💰🪜",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/cash-ladder",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "1d54509169a3f5b77cded2033659bf4983704788c1c35ca616680c5e1e634b93",
+    "drand_seed_hash": "ae8f9cd3a410ce79d974573db3ce3ca6b1118629657ecf5d01d5d45a8f569d83eb0cf5c6d5cd8c3382543e0a2c1e88f4",
+    "client_seed": "1784929122999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 470,
+    "max_tickets": 2000,
+    "combined_hash": "90c432f6c2f3618e52e8f132b72e1536f6f823f62aa74654fcb90aa76e2692ac",
+    "result": "257",
+    "external_round_id": "30708589",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T21:38:43.000000Z",
+    "revealed_at": "2026-07-24T21:38:51.000000Z"
+}
