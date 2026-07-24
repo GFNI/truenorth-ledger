@@ -1,0 +1,22 @@
+{
+    "round_id": "616be3fc-98a9-4802-8dc1-2a6a08c3d415",
+    "draw_title": "Ninja/Shark Instant Win Bonanza",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ninjashark-instant-win-bonanza",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "ec6f621711d6317dfa7ff0ad1a5afe0e8c8f5455c4b20c3d84f551565f7ee8f3",
+    "drand_seed_hash": "abed0a62c3353bd086a650ccc0c8828894c669723e2d66a6eeab52636e402219ccdf24da433a5315c20bf8624cb04164",
+    "client_seed": "1784925034830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1939,
+    "max_tickets": 6500,
+    "combined_hash": "18040f2d4e1c449add113fae2c92ab256f243ee40dd4b748ce1503ec80db5e84",
+    "result": "2309",
+    "external_round_id": "30707226",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:30:34.000000Z",
+    "revealed_at": "2026-07-24T20:30:42.000000Z"
+}
