@@ -1,0 +1,22 @@
+{
+    "round_id": "200ec89e-b416-4d68-9fc0-23f9d6321e55",
+    "draw_title": "PICK YOUR OWN 95KS - CHOICE OF WEIGHT",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/pick-your-own-95ks-choice-of-weight",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "65b6748ca8964d4904ee65bcaa599fe790c2155dd6593d9aa7d9fdc4f34c4b34",
+    "drand_seed_hash": "a712098dd5aa716343ea32e7a96c48771ad1bba7dace8786b5ae6f419c75d14a58a85f788f620f9fa55142cfb53de89b",
+    "client_seed": "1784922893531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 301,
+    "combined_hash": "944d7a6891047fa03ac416a1dae089f3815529f6107877d7e9a54f014fdc64a4",
+    "result": "210",
+    "external_round_id": "30706512",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T19:54:53.000000Z",
+    "revealed_at": "2026-07-24T19:55:00.000000Z"
+}
