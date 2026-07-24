@@ -1,0 +1,22 @@
+{
+    "round_id": "633bae00-39a0-42bc-ab48-daa8bf3f1e10",
+    "draw_title": "GRAB A FREE £20!!",
+    "competition_url": "https://krazed.co.uk/admin/products/free-competition-5",
+    "operator": {
+        "name": "Krazed Entertainment Ltd",
+        "website": "https://krazed.co.uk",
+        "company_number": "16956100"
+    },
+    "drand_server_seed": "f3ee2c782e3587130e4b5f23dccbf1287ed0f38e215d3872270b9c5300403f42",
+    "drand_seed_hash": "93b41cc3cdb8db083c9392455544fb8de114961b61c43b8ff56ccb7bc12ade34bf878ad08a877d453ecd3f80d12fc41d",
+    "client_seed": "1784916146556",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135,
+    "max_tickets": 200,
+    "combined_hash": "40f7db0efef95bd7f64182be5ea58d25a563dfb3fe206a7515e3590a9d179b2c",
+    "result": "105",
+    "external_round_id": "30704263",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T18:02:26.000000Z",
+    "revealed_at": "2026-07-24T18:02:33.000000Z"
+}
