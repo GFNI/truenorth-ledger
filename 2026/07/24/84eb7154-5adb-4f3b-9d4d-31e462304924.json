@@ -1,0 +1,22 @@
+{
+    "round_id": "84eb7154-5adb-4f3b-9d4d-31e462304924",
+    "draw_title": "2P or not 2P",
+    "competition_url": "https://winandgrin.co.uk/admin/products/2p-or-not-2p-2",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "f20bf5f63ef4ec146d4bef5f53c0cf8cd35cc2b61b1564f057b1eeeed9ddbcf3",
+    "drand_seed_hash": "81b46aae9d3da21138bf92824efe6991c02899d9e66998225951f1a4dc036cd7e087a13f39de8f49ae85016e42d24788",
+    "client_seed": "1784923528638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500000,
+    "max_tickets": 500000,
+    "combined_hash": "8a98a47ad1e7417d47396793b4946a150c8083d8432a730082d0599edff2516d",
+    "result": "107307",
+    "external_round_id": "30706724",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:05:28.000000Z",
+    "revealed_at": "2026-07-24T20:05:36.000000Z"
+}
