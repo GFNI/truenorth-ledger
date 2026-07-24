@@ -1,0 +1,22 @@
+{
+    "round_id": "9111a983-7538-4a37-a25a-74e91c55aa5e",
+    "draw_title": "£333 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps333-cash-for-3p",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d21cb8c93b7cc73556c08d74946c6bdeb79ee8c2c5461394aa96bb0b46dd3b20",
+    "drand_seed_hash": "99ebce7e9ca3359922478a1bae09fe1a4d49aa3a0d2f2a7888da4747a1a1a190e68824c76aa5898be1fc1589ce1adb49",
+    "client_seed": "1784927824604",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500000,
+    "combined_hash": "1ba007fa6cca2aed12de1d7711052631796a21b66c3c68fc03725a0cf94f021b",
+    "result": "303740",
+    "external_round_id": "30708155",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T21:17:04.000000Z",
+    "revealed_at": "2026-07-24T21:17:14.000000Z"
+}
