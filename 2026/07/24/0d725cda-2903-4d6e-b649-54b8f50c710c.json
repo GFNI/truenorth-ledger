@@ -1,0 +1,22 @@
+{
+    "round_id": "0d725cda-2903-4d6e-b649-54b8f50c710c",
+    "draw_title": "Captain Clover - Every Ticket Wins!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/captain-clover",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "06c2691575e726704785ca934b18ddd55cad55b7525017ba5c7a6dba250cc7fe",
+    "drand_seed_hash": "87923f93c2f4dace84cd344884bbe1eb6cf1da8c8c9f3d2630783adccdc6eeebdba1a3e4dfb905b1743f92de7876a483",
+    "client_seed": "1784924812174",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16053,
+    "max_tickets": 44444,
+    "combined_hash": "816193784c6356f972ec8ebcb7a7d2f4786d02e43bf9c7014a46c084fba9acb5",
+    "result": "11570",
+    "external_round_id": "30707152",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:26:52.000000Z",
+    "revealed_at": "2026-07-24T20:27:00.000000Z"
+}
