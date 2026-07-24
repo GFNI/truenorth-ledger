@@ -1,0 +1,22 @@
+{
+    "round_id": "c216a924-11dc-4856-b5ea-f0cbca99815f",
+    "draw_title": "£500 CASH - LOW ODDS",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ps500-cash-low-odds",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "27264eda8839ed5f9a2bdb6d22e352a2a1558f27b1dc58c4deb0a0c269b33275",
+    "drand_seed_hash": "ae54b54c4487d1fa60a86186ec859cd616059803acc4e075971efff2ac48f9a41284e50a3dbb3af2bb31a70787114e48",
+    "client_seed": "1784923555373",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 129,
+    "combined_hash": "34276c8bb8c81ce96f1910a3e0292d8a3c323dc979b0e1dcefdd28ddfb17192b",
+    "result": "69",
+    "external_round_id": "30706733",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T20:05:55.000000Z",
+    "revealed_at": "2026-07-24T20:06:03.000000Z"
+}
