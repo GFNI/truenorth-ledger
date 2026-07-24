@@ -1,0 +1,22 @@
+{
+    "round_id": "a9361682-dc1a-46eb-aef5-c3bbe3a5f34d",
+    "draw_title": "£650 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ring-toss-ps650-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "adcec414bc125f4bf89d3dc7509b8c931c8fc05fae50b435e3dfff069c981da6",
+    "drand_seed_hash": "82d01308df3f97e7326ff00a9f8a36d5cbe5513544204252a74c9d681763a452400c4b886089a89cc0cb26c780f8aaaa",
+    "client_seed": "1784927940470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 12000,
+    "combined_hash": "0d67e4787af86baeff451f93a3cc0dac6a8e7070bfa9cfad1cb791d08ce3c367",
+    "result": "6510",
+    "external_round_id": "30708194",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T21:19:00.000000Z",
+    "revealed_at": "2026-07-24T21:19:09.000000Z"
+}
