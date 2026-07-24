@@ -1,0 +1,22 @@
+{
+    "round_id": "5f043d21-019e-41d2-b18a-f1d7cfec7519",
+    "draw_title": "£650 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ring-toss-ps650-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d5de1ea2661b08a8637c2332162fff6f307d13cc6928d37ea31b6b3e53900c94",
+    "drand_seed_hash": "99e5c11153bf009005ced091e11782053e929d021befad2b2a9cdd6f481991bcb3bce6e059e890a2b51fbb6827faff9c",
+    "client_seed": "1784927963646",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 12000,
+    "combined_hash": "4b4e933f2f91fffb53f285add32f2696e1c576865760f436436c61c715fb4e10",
+    "result": "10444",
+    "external_round_id": "30708202",
+    "processing_status": "completed",
+    "created_at": "2026-07-24T21:19:23.000000Z",
+    "revealed_at": "2026-07-24T21:19:30.000000Z"
+}
