@@ -1,0 +1,22 @@
+{
+    "round_id": "87ea7043-2948-47cd-abd5-87642ba707cf",
+    "draw_title": "Saturday Night Takeaway",
+    "competition_url": "https://ecnicompetitions.com/admin/products/saturday-night-takeaway-3",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "fa84b7ef68d1901e12104d0e5ad7c24c496f899da492d5e45ec3d17e68a072fa",
+    "drand_seed_hash": "a2cf3c04f8de9cbe9d07972de11781f0186bdf6cb4420f426c69b478dd846aef6bb47e8ba62f050cfaef88c9f4727ff4",
+    "client_seed": "1784988637250",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 828,
+    "max_tickets": 1000,
+    "combined_hash": "e249d34d7e1892c8de80c8e11f3e698e2c06f83178b2b4c09f3a7f7f6ddbb8b5",
+    "result": "643",
+    "external_round_id": "30728427",
+    "processing_status": "completed",
+    "created_at": "2026-07-25T14:10:37.000000Z",
+    "revealed_at": "2026-07-25T14:10:45.000000Z"
+}
