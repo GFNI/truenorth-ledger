@@ -1,0 +1,22 @@
+{
+    "round_id": "ae1c3ba1-1b58-4c22-b23f-f39cb59e599f",
+    "draw_title": "WIN 4 PANINI SHINY CARDS + £50 INSTANT WIN",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/win-4-panini-shiny-cards-ps50-instant-win",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "ca125573a51c3d17f76742f07844e2bf569e59e97be256c7b336810a3cb96e50",
+    "drand_seed_hash": "a8f30255d4d880199ed1df39cc3aa657c3808e2e3c4dbf4dbba8a2bf9ec4ed6410c7968d57368643d02282d41f2cd12b",
+    "client_seed": "1785010249326",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 2500,
+    "combined_hash": "78a3dcaea81c896acdc594fc2b74521e5e837723138af1a69cb3a967875336de",
+    "result": "353",
+    "external_round_id": "30735631",
+    "processing_status": "completed",
+    "created_at": "2026-07-25T20:10:49.000000Z",
+    "revealed_at": "2026-07-25T20:10:57.000000Z"
+}
