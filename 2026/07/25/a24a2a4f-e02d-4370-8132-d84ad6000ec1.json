@@ -1,0 +1,22 @@
+{
+    "round_id": "a24a2a4f-e02d-4370-8132-d84ad6000ec1",
+    "draw_title": "🍀 FOUR LEGGED FORTUNE 🍀",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/four-legged-fortune",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "e53ec5a342c9b3204b43df8d17057207f1fdb8a0f07be28fecb8c78821998192",
+    "drand_seed_hash": "b5729293126cf1f98465c1418a57f3a2e8db6a847b23e9e76e9048ab141e1f771c21bbd881631f21705ee422ad473ac2",
+    "client_seed": "1785000436605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5150,
+    "max_tickets": 9999,
+    "combined_hash": "4d0e966b45e64e957ab3759be302d8ffc46fd4689ef14a607cc03a0b0e9dee1e",
+    "result": "6691",
+    "external_round_id": "30732360",
+    "processing_status": "completed",
+    "created_at": "2026-07-25T17:27:16.000000Z",
+    "revealed_at": "2026-07-25T17:27:24.000000Z"
+}
