@@ -1,0 +1,22 @@
+{
+    "round_id": "c97aaecb-7f54-49a5-b67e-0740f9039aef",
+    "draw_title": "£350 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/the-penny-pot-ps350-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "5023dbb3258bbb3eee635f4897678363e63abdddeb48459a14f960a0d7ea7726",
+    "drand_seed_hash": "989cb2c2d3df0a29b3642debf5951d3b9acececbe6c28ef3c40b147e94411ecf22472b52cabd3517f9111b451eb70fce",
+    "client_seed": "1785075959651",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 550000,
+    "combined_hash": "0bb6cb1653c539314a2208ecaac5082d28a329a17a5de446d087bf9aff1debbe",
+    "result": "199164",
+    "external_round_id": "30757534",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T14:25:59.000000Z",
+    "revealed_at": "2026-07-26T14:26:09.000000Z"
+}
