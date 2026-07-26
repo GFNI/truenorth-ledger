@@ -1,0 +1,22 @@
+{
+    "round_id": "8c9ae79b-5d85-4989-8a66-61af66931ccf",
+    "draw_title": "THE TICKET BOOTH: WIN Dram & A Grand Entries",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-ticket-booth-win-dram-a-grand-entries",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "8bf4bfda03d84b06eceaa58bcc7d9d7208732ade8c8f67545aac89deaa2efa97",
+    "drand_seed_hash": "aef39c19f6986567b6b733723a2e77548dd9404d7866779590175ca482b46262f30779b97742bd8b9987cf8b936b5aa0",
+    "client_seed": "1785099637047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18468,
+    "max_tickets": 20000,
+    "combined_hash": "d9c74632fc944624c9a103704cdce7c57329a6e2b4cb893f3070c7a3abe09d2e",
+    "result": "19482",
+    "external_round_id": "30765427",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T21:00:37.000000Z",
+    "revealed_at": "2026-07-26T21:00:45.000000Z"
+}
