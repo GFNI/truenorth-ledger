@@ -1,0 +1,22 @@
+{
+    "round_id": "d2e96eaf-6198-456b-a0f7-6f5f51aa2f17",
+    "draw_title": "Jellycat Instants & £250 Shopping Spree End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/jellycat-instants-ps250-shopping-spree-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "06ad153d7e62d44e1b088ae388c3e743317d426f99d8658b2f082af8867cd800",
+    "drand_seed_hash": "a14597e84ac61e19a4ddfbacbbfb9582ecfb0436fa0e0bb59675d56b63064fee6526f87fa1bbbc1f009d4f6a9c3c2247",
+    "client_seed": "1785095022227",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24224,
+    "max_tickets": 34816,
+    "combined_hash": "863655467adaacd12d06e427cc91a3daade7a4be67b71e0295f5f230acf886d2",
+    "result": "5767",
+    "external_round_id": "30763888",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:43:42.000000Z",
+    "revealed_at": "2026-07-26T19:43:48.000000Z"
+}
