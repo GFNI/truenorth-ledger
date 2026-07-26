@@ -1,0 +1,22 @@
+{
+    "round_id": "a9cd21d2-1628-4c61-b67f-aa9a65e5c907",
+    "draw_title": "WIN £300 CASH!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/win-ps300-cash",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "89e57697db3ed0b6990b48a1ba27f43ba258b473c95be48e2147ba3a85d20326",
+    "drand_seed_hash": "931da200b92e716544f5ebd4a65493bef8018ed65c58206a7617e101fada445efad57221924ba35dd4a112e99149f4f3",
+    "client_seed": "1785096349476",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1772,
+    "max_tickets": 2000,
+    "combined_hash": "eefcfc7efe474a62d035a58fccb1c8cb02241431dd899af9ce5da4a27f1a80ca",
+    "result": "1039",
+    "external_round_id": "30764331",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:05:49.000000Z",
+    "revealed_at": "2026-07-26T20:05:57.000000Z"
+}
