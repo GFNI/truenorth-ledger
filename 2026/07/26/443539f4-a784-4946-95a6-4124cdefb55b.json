@@ -1,0 +1,22 @@
+{
+    "round_id": "443539f4-a784-4946-95a6-4124cdefb55b",
+    "draw_title": "Dragon Majesty ETB + Instant Wins!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/dragon-majesty-etb-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "315d1c45fee5aec2ed08ac523950c55984efc411bdc2327cbef62e71b64316af",
+    "drand_seed_hash": "a9b8e72426331cece7104c0fc8ef1afcd0bdb510290a7ba88dd572af12b0c63c6f56ddf98877f006efa513e912811ba8",
+    "client_seed": "1785094813165",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6037,
+    "max_tickets": 18000,
+    "combined_hash": "8dcaab2f2d228fdd66e9bb796c53d4b7da7d0b53f0fddab19b179d1d635795bb",
+    "result": "11662",
+    "external_round_id": "30763819",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:40:13.000000Z",
+    "revealed_at": "2026-07-26T19:40:21.000000Z"
+}
