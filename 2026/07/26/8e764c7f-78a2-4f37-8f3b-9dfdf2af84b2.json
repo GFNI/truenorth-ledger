@@ -1,0 +1,22 @@
+{
+    "round_id": "8e764c7f-78a2-4f37-8f3b-9dfdf2af84b2",
+    "draw_title": "€100 Giveaway",
+    "competition_url": "https://primecompetitions.com/admin/products/eur100-giveaway-3",
+    "operator": {
+        "name": "Prime Competitionz Limited",
+        "website": "https://primecompetitions.eu",
+        "company_number": "14920535"
+    },
+    "drand_server_seed": "cdbf6dcb3d29b6590e46a0a000b6cc36c8e2083fe019d77f7538d0350555f746",
+    "drand_seed_hash": "aa28597f83dda04be8c99ab78f7787698a0af77075a4a94ae57c5ac2fbb6885dd0afe1c114364f5c6159623982f31998",
+    "client_seed": "1785107494642",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3859,
+    "max_tickets": 5000,
+    "combined_hash": "f9cd79acc34c9911bd77895b082e817f3fdf21bc80eeadc72260bf573ace3c13",
+    "result": "3738",
+    "external_round_id": "30768046",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T23:11:34.000000Z",
+    "revealed_at": "2026-07-26T23:11:42.000000Z"
+}
