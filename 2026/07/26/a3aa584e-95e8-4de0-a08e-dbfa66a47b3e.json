@@ -1,0 +1,22 @@
+{
+    "round_id": "a3aa584e-95e8-4de0-a08e-dbfa66a47b3e",
+    "draw_title": "Ninja Blast!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ninja-blast-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "b288a21313284be7424fef4a3bff4dc3d41ab6c938efa74654140b77a29aa555",
+    "drand_seed_hash": "976730617e3ad56ccf3e6b1c2cd7e0439f09e3d1a9d944bafe66fb8a175adf58962b2840ebb54be4ba1d51b3421607df",
+    "client_seed": "1785093758435",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62,
+    "max_tickets": 180,
+    "combined_hash": "ba687331cf3a20830094bd9537b34e05b113c9f506ca5fadf33c8116ea49e90a",
+    "result": "35",
+    "external_round_id": "30763467",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:22:38.000000Z",
+    "revealed_at": "2026-07-26T19:22:45.000000Z"
+}
