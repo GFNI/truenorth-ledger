@@ -1,0 +1,22 @@
+{
+    "round_id": "1b20ddfb-521a-49e1-9c37-731f286bce7c",
+    "draw_title": "INVICTA CASH STORM - WIN UPTO £1000",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/invicta-cash-storm-win-upto-ps1000",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "38328ecc4e413356379b2e2488ab8bdf09f2373ccefc84da3f4a6a012859f595",
+    "drand_seed_hash": "a77e865bf4fab822e3a1d31f1495e051182fe4650175f8b077f47c0ab1f964f6c92cb2264b26f8801e2e17e6d12a9f07",
+    "client_seed": "1785096643300",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1623,
+    "max_tickets": 400000,
+    "combined_hash": "44ae579643e7d02fba7d5edb4ff1c8fa2f626bf6765794a7e110e1991f29de06",
+    "result": "328645",
+    "external_round_id": "30764428",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:10:43.000000Z",
+    "revealed_at": "2026-07-26T20:10:48.000000Z"
+}
