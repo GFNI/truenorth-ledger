@@ -1,0 +1,22 @@
+{
+    "round_id": "8b1549bf-98c9-4c27-9a73-f852158fe0b1",
+    "draw_title": "Warhammer Two Squads of Choice – Low Odds Sunday #55",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-two-squads-of-choice-low-odds-sunday-55",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "5a5668be0f1f658cc05b2603fd365f50bf5191dab2f2bff15b00c11c443b1a18",
+    "drand_seed_hash": "b1a9156ea2578ebbf53c39201aa051d1b52cd58d96002dc31ca393c448c1f0ec451b695bc8334ef56bd1167d143ac523",
+    "client_seed": "1785100507839",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "e843116cab92ee86ea97ca282aa5b2b67f340cdfdb25a733f55c557a79d8a9c0",
+    "result": "25",
+    "external_round_id": "30765717",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T21:15:07.000000Z",
+    "revealed_at": "2026-07-26T21:15:15.000000Z"
+}
