@@ -1,0 +1,22 @@
+{
+    "round_id": "3095c2df-1c57-4686-a2a1-6829d91b2708",
+    "draw_title": "1 In 2 Chance £150",
+    "competition_url": "https://ogcompetitions.co.uk/lists/1-in-2-chance-ps150-cash-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2d9e836b1d464b21455ef941a642477e4d201c26e5dc11d3653c3d5e7ab779b7",
+    "drand_seed_hash": "8907758ed018c7ebdda3964e31499ec5b46f0e0eb74ed7856b391995c2c6d3f1a7c76b4f6ab6fb2614b54557604805ab",
+    "client_seed": "1785075862020",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2000,
+    "combined_hash": "f2314e7cd64151cded2015a5207abc733e6a5e33561c3f306c24ebe25a91c6e8",
+    "result": "1379",
+    "external_round_id": "30757501",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T14:24:22.000000Z",
+    "revealed_at": "2026-07-26T14:24:31.000000Z"
+}
