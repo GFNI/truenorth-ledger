@@ -1,0 +1,22 @@
+{
+    "round_id": "982ece09-1de9-4710-b44d-24cb302c8eeb",
+    "draw_title": "Call The Cops!!!! 1 in 10 a winning ticket! End prize £999",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/call-the-cops-1-in-10-a-winning-ticket-end-prize-ps999",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "971fe8d6ab1705af2c092a7b140e1c06529bbaa2d49e11d7a035241158b2a051",
+    "drand_seed_hash": "82e376a01ae094ed6c8b5e4bfcd4bc0393b9690bf65f494d4460e84d7746051134b917db63d5837b6d8c3784a7f3decb",
+    "client_seed": "1785091307128",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1605,
+    "max_tickets": 9999,
+    "combined_hash": "82f142441cf3641c7a95326a053b0377a5183000b0d25ed5fa1416eb5a64bffc",
+    "result": "2426",
+    "external_round_id": "30762650",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T18:41:47.000000Z",
+    "revealed_at": "2026-07-26T18:41:54.000000Z"
+}
