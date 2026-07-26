@@ -1,0 +1,22 @@
+{
+    "round_id": "e4ef7089-dbfb-4177-bab9-948f30ffcb35",
+    "draw_title": "Win A Dyson Supersonic Nural Hair Dryer!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/win-a-dyson-supersonic-nural-hair-dryer",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "91bc543cdd67809968e795e0ecc8a3a29adaecf74b63a31a064583c62f3bebe6",
+    "drand_seed_hash": "8f42c3f0b80ece1dca917e0a326bf236718fad13255f9b54066100cd01b2ccb27dfec4e5e718e67495f3b1356918e7ab",
+    "client_seed": "1785096220206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 293,
+    "max_tickets": 700,
+    "combined_hash": "7fb85eea7c205327ea7c02e2b49c6136f3f63ebb1b0ad34febc6f1e29574e69f",
+    "result": "460",
+    "external_round_id": "30764288",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:03:40.000000Z",
+    "revealed_at": "2026-07-26T20:03:48.000000Z"
+}
