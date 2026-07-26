@@ -1,0 +1,22 @@
+{
+    "round_id": "4f6ac063-d7f8-404a-8ffc-8b5f394507c8",
+    "draw_title": "£100 WINNERS CHOICE GIFT VOUCHER",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/ps100-winners-choice-gift-voucher",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "c2a23e9de1ed720ffcfb4587e7d82856f49ec44d6d15629d5a259fabbed13592",
+    "drand_seed_hash": "8006c39b37b9ba7ec1a6938158674da6e7e489f1adfeca5ce99b54cd5c75e74931603d7b0f7a447cf39f325988b1e6b5",
+    "client_seed": "1785098092570",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 999,
+    "combined_hash": "253dfad09c01ed9719b665496bd3f276b3358ab0d14fddd716fccdef7b1cfd34",
+    "result": "152",
+    "external_round_id": "30764912",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:34:52.000000Z",
+    "revealed_at": "2026-07-26T20:35:00.000000Z"
+}
