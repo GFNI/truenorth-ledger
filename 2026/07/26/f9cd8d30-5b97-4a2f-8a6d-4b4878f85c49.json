@@ -1,0 +1,22 @@
+{
+    "round_id": "f9cd8d30-5b97-4a2f-8a6d-4b4878f85c49",
+    "draw_title": "Danny's Gems!! Huge cash Instants and ticket bundles",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/dannys-gems-huge-cash-instants-and-ticket-bundles",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "7d71808376b84801352ee77e08079ca15392097b67d1b0094770acc9fb9601d9",
+    "drand_seed_hash": "a8b81cea4f3c83a1fa9bef953b1d68db36e72a9254a85089d765f6ccc494f94d73684bfbc7aa9d07c2ad572185017ffe",
+    "client_seed": "1785091113536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5119,
+    "max_tickets": 39840,
+    "combined_hash": "153e193a766253af0451ca3f17d25bff3274cb259a7cf7df8e1d4988d3e1ea1e",
+    "result": "7382",
+    "external_round_id": "30762585",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T18:38:33.000000Z",
+    "revealed_at": "2026-07-26T18:38:39.000000Z"
+}
