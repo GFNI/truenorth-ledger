@@ -1,0 +1,22 @@
+{
+    "round_id": "1266cb7a-801a-418f-ae34-8b931132fde4",
+    "draw_title": "Scratch The Surface DELUXE",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/scratch-the-surface-deluxe-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "0fb940f79465aaa806392783f5e7a81946d95c5fb99afa47169b59c1eb604493",
+    "drand_seed_hash": "b21abeea54117cff4858348c691f7db2a2682f45b8c183bf6ada2c24be7bd18b0a33450871a7feebfe0d445f4150d6f1",
+    "client_seed": "1785093132921",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4035,
+    "max_tickets": 12500,
+    "combined_hash": "380262431e42d7fadfa28b891d429fcbd500ac96a5f449b9656ad179c955268b",
+    "result": "9069",
+    "external_round_id": "30763258",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:12:12.000000Z",
+    "revealed_at": "2026-07-26T19:12:18.000000Z"
+}
