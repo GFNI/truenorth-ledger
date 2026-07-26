@@ -1,0 +1,22 @@
+{
+    "round_id": "191772c9-32d8-47e9-9a83-eb7123e75a12",
+    "draw_title": "Orks Winfest",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/orks-winfest",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "6c7b2d114aded87289135f1086a9bfd150551368a8155576e1cc8284ee3900f3",
+    "drand_seed_hash": "95e0333d1d5b1da2ab44f9ebe9bb47d59778ec07a783fcbaa47526660d74adcec1ac0fdb6b01909181209aa603e848d9",
+    "client_seed": "1785094751958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1974,
+    "max_tickets": 4000,
+    "combined_hash": "0b2622108fa1f9a881ebe4f38f3598346b044bbe0a8294ae1e7438dfd876baf4",
+    "result": "1420",
+    "external_round_id": "30763798",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:39:12.000000Z",
+    "revealed_at": "2026-07-26T19:39:18.000000Z"
+}
