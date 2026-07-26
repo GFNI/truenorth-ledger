@@ -1,0 +1,22 @@
+{
+    "round_id": "528eb4c4-e6d5-44bb-a613-4d0996d6ed93",
+    "draw_title": "Meta Your Match",
+    "competition_url": "https://getluckycompetitions.co.uk/admin/products/meta-your-match",
+    "operator": {
+        "name": "Get Lucky Promotions Ltd",
+        "website": "https://get-lucky.rafflex.uk",
+        "company_number": "16790915"
+    },
+    "drand_server_seed": "d46ca04e52a2f5736c724a64ef0c71bcfb83a547f4407085aed8e6b6dae080a9",
+    "drand_seed_hash": "91e04922d2468961ff93e5327dcbed161aeb5fe2c494f02552991aff1b1eb18aa16f079bde030c1b8d1b82de909cfbaf",
+    "client_seed": "1785096937178",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 200,
+    "combined_hash": "957b5c7d5612060934baaefdf9fab09b1c27e5dd9988239c3f6d64419f94ab8f",
+    "result": "150",
+    "external_round_id": "30764527",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:15:37.000000Z",
+    "revealed_at": "2026-07-26T20:15:45.000000Z"
+}
