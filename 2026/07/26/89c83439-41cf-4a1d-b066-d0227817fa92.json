@@ -1,0 +1,22 @@
+{
+    "round_id": "89c83439-41cf-4a1d-b066-d0227817fa92",
+    "draw_title": "DRAM & A GRAND! Whisky PLUS £1k!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/dram-a-grand-whisky-plus-ps1k",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "5a65609a30cb0a14996546494cdbe84267528940fc4096f2260fb7a716717b22",
+    "drand_seed_hash": "aca15371fb4df3a3921ac0387bb679213ce73bdae11d0e6fe1e86108fa608e661274f065e3096541c54540a856eb3a64",
+    "client_seed": "1785100356598",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2192,
+    "max_tickets": 4000,
+    "combined_hash": "31e5122a90bbdaf76589af52e8ab0a8599e5fcf9c3df702837179f2c4f8ed8bf",
+    "result": "1394",
+    "external_round_id": "30765666",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T21:12:36.000000Z",
+    "revealed_at": "2026-07-26T21:12:42.000000Z"
+}
