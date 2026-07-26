@@ -1,0 +1,22 @@
+{
+    "round_id": "9eaf82d3-453c-4330-9a22-b1de3c3c012f",
+    "draw_title": "🐟 FINTASTIC FREEBIE! 🐟",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/fintastic-freebie",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "a65491436ac5f143ff8d0fb94976077fa89e3421f0c0dbfd33c234b8906386b4",
+    "drand_seed_hash": "b2cbc61d6a2e77e8b7de0020941f9ae6fad7b43c1c3334c2fed1e0cb2b0f51a0c4c768b3218dca87061fd4f1d1155b4f",
+    "client_seed": "1785089441246",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 60,
+    "combined_hash": "0ec15da9e4c16a4df86b5edd102afe6facc63c7947175561d336b5304729df61",
+    "result": "35",
+    "external_round_id": "30762028",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T18:10:41.000000Z",
+    "revealed_at": "2026-07-26T18:10:48.000000Z"
+}
