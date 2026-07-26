@@ -1,0 +1,22 @@
+{
+    "round_id": "b07a3d26-dc6f-45ed-982f-9814294196b9",
+    "draw_title": "All the Threes",
+    "competition_url": "https://a9competitions.co.uk/admin/products/all-the-threes",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "50286ffe5767f652bb658f8bddcb60ec2abf5b6144ada7dc748f9e75262fc9c1",
+    "drand_seed_hash": "b1bbed689d54e7f02363aa5398ed9587ede6d568736f9fbb269af599688330e4b211f392454d700b0d96ed2a84eb3e83",
+    "client_seed": "1785098059084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2619,
+    "max_tickets": 19999,
+    "combined_hash": "8cb4239b1a0b9435cb987661636ae69c962aa6c29e015caf49a137981c9ae67d",
+    "result": "18607",
+    "external_round_id": "30764900",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:34:19.000000Z",
+    "revealed_at": "2026-07-26T20:34:24.000000Z"
+}
