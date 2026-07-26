@@ -1,0 +1,22 @@
+{
+    "round_id": "223a3727-2b23-4349-8519-1727ca4b9d23",
+    "draw_title": "Miss DIOR Silky Body Mist - Free to Enter",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/miss-dior-silky-body-mist-free-to-enter",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "ee71cc66bfc38c4105b1e21ea7e55f5d270b6b1abad435a86d6ebcd2db7d8b07",
+    "drand_seed_hash": "843f25ad68ddcc6005215596414b1599c18b042d02b8dce2e5185a5da252df0fc4b5ea4e6d77837de2a96aab9184a686",
+    "client_seed": "1785093109828",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 500,
+    "combined_hash": "0aa1e88c7a561d45a79391f23d94155dd5168b9187a48375f8331acd8a8d7df4",
+    "result": "319",
+    "external_round_id": "30763251",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:11:49.000000Z",
+    "revealed_at": "2026-07-26T19:11:57.000000Z"
+}
