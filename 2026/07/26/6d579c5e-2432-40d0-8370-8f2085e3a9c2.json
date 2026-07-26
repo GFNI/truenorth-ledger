@@ -1,0 +1,22 @@
+{
+    "round_id": "6d579c5e-2432-40d0-8370-8f2085e3a9c2",
+    "draw_title": "Necrons Host Battleforce",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/necrons-host-battleforce",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "4ae0768e4c0fb912aea541fe4c31b111ff7dfd6f8a5223175a659727391226bd",
+    "drand_seed_hash": "90a46e65ff5ef104927f4ba7e0b99022d523273379f6e4bdac1d27b51c1cd8c2713d913f2f8707ee9b7ed6415f70f647",
+    "client_seed": "1785094594134",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600,
+    "max_tickets": 600,
+    "combined_hash": "3766a2f9f936a9a36ebcd8f7870823edc0ac86297a1d627103d4bf09e7b0738b",
+    "result": "584",
+    "external_round_id": "30763746",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T19:36:34.000000Z",
+    "revealed_at": "2026-07-26T19:36:42.000000Z"
+}
