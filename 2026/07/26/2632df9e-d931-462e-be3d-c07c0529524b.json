@@ -1,0 +1,22 @@
+{
+    "round_id": "2632df9e-d931-462e-be3d-c07c0529524b",
+    "draw_title": "PENNY PLINKO 26/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/penny-plinko-2607",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "2595703d7102b2e9c0609a2b8fb6827ec10eedf4bb78f1df5b905f9c59a5c4ed",
+    "drand_seed_hash": "ac3083f6a837045134c4cc47120bbc1999c601d32e095f4d9e65fa132df94094f5856537734bbbbba374a91c41a1007e",
+    "client_seed": "1785099972185",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 817340,
+    "max_tickets": 2500000,
+    "combined_hash": "5f74164b2877d9b4d8d467c3107f99e122909f8eecbaefd5dd35da791c9d0109",
+    "result": "2262784",
+    "external_round_id": "30765538",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T21:06:12.000000Z",
+    "revealed_at": "2026-07-26T21:06:18.000000Z"
+}
