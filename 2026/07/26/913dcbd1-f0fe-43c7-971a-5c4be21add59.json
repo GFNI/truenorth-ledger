@@ -1,0 +1,22 @@
+{
+    "round_id": "913dcbd1-f0fe-43c7-971a-5c4be21add59",
+    "draw_title": "Money Bags | £50 Main Prize",
+    "competition_url": "https://phatstax.co.uk/admin/products/money-bags-ps50-main-prize",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "3e223fa737578c3c25ad5fa42e57c3f27732aeae96055c403109a32026898a6b",
+    "drand_seed_hash": "b146e816210ba16de13c2749291948de1d2e05edb41b0725c8778ccc23f77960407a6b872ac592b9697717da30ca8cae",
+    "client_seed": "1785096157196",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 662,
+    "max_tickets": 2000,
+    "combined_hash": "d859360a44bed86f53ddfcf08b27ded08a9066dd7106f6ba9744c74e3c7b9439",
+    "result": "105",
+    "external_round_id": "30764267",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T20:02:37.000000Z",
+    "revealed_at": "2026-07-26T20:02:45.000000Z"
+}
