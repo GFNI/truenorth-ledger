@@ -1,0 +1,22 @@
+{
+    "round_id": "4d2c4d0f-992e-40b9-a4da-0032ce7d9df0",
+    "draw_title": "Super Sunday (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/super-sunday",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8a4dcc2e655d241ae676288bc4cd224ff26b39c3cc632eedde9e644b5e64ce8b",
+    "drand_seed_hash": "aaf733fc5400e59fb101e2593780474d10cc89fee392cc4b96bbea5eee836f290a91d7d8522ae9dce511db1519962479",
+    "client_seed": "1785075567349",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "fe083abc3fc104f10abc019e0cc95aaed8689a63acdd3235fab93f26bebb56f0",
+    "result": "399",
+    "external_round_id": "30757403",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T14:19:27.000000Z",
+    "revealed_at": "2026-07-26T14:19:33.000000Z"
+}
