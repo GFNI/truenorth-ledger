@@ -1,0 +1,22 @@
+{
+    "round_id": "a252b239-4cc3-4408-928e-e6ea99eeeda6",
+    "draw_title": "Gyeon Car Care Kit",
+    "competition_url": "https://ecnicompetitions.com/admin/products/gyeon-car-care-kit",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "a0e374fe23452f91c411071798d9d1c7e6b535a2b8f708970299afe088952822",
+    "drand_seed_hash": "8893113d3488a11cda6ebb190cd4e0526607ec1fffd63faa9ddc1b9bc11ddd572d44bef8294013de407c15889602538c",
+    "client_seed": "1785100402250",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1944,
+    "max_tickets": 3000,
+    "combined_hash": "a7ace6d88b865d48afa93b9ed986a6737bfb4fd71f6333954c3e6b88c9f64878",
+    "result": "2136",
+    "external_round_id": "30765682",
+    "processing_status": "completed",
+    "created_at": "2026-07-26T21:13:22.000000Z",
+    "revealed_at": "2026-07-26T21:13:30.000000Z"
+}
