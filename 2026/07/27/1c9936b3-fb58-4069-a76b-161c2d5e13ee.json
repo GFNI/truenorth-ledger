@@ -1,0 +1,22 @@
+{
+    "round_id": "1c9936b3-fb58-4069-a76b-161c2d5e13ee",
+    "draw_title": "LOUIS VUITTON TAG ME POUCH👜",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/louis-vuitton-tag-me-pouch",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "b5b16f8d40ec6a436b8ff82d7a2fb18d55418b5250f2ac7493663955c3b27156",
+    "drand_seed_hash": "81f50c20f46c381635deaa9e5053a9f6682efe3ad63f52b2e880f9ef8905ea84fd1d2a3dd2e0ffd93d43a03050a6ed55",
+    "client_seed": "1785181925815",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "9c7ace3e17525ddf026f8ceeff97f363568e7387316402655bf50f4855c2da81",
+    "result": "2197",
+    "external_round_id": "30792856",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:52:05.000000Z",
+    "revealed_at": "2026-07-27T19:52:12.000000Z"
+}
