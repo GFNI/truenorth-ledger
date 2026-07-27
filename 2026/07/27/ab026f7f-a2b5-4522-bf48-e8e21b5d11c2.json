@@ -1,0 +1,22 @@
+{
+    "round_id": "ab026f7f-a2b5-4522-bf48-e8e21b5d11c2",
+    "draw_title": "🏡 £400 Ikea Spends 🏡",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps400-ikea-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e460007dc4caf5e43cebfba80cb59bbd5c7bf99a155d3d7f5bb30cbe7187af14",
+    "drand_seed_hash": "8c88c62ddc8d1a04034b99001ef415225c76302366de1426112746ea41e7003190d298ac265baee8114423f29ff3e395",
+    "client_seed": "1785175818394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 742,
+    "max_tickets": 820,
+    "combined_hash": "40a184402f2ad49d23748b677d7c727be509cbbeb4ecd052292d43abb6f5c25c",
+    "result": "237",
+    "external_round_id": "30790820",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T18:10:18.000000Z",
+    "revealed_at": "2026-07-27T18:10:24.000000Z"
+}
