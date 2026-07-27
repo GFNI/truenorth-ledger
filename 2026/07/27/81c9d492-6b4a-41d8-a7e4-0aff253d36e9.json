@@ -1,0 +1,22 @@
+{
+    "round_id": "81c9d492-6b4a-41d8-a7e4-0aff253d36e9",
+    "draw_title": "Prize Plinko V2",
+    "competition_url": "https://jetcomps.co.uk/admin/products/prize-plinko-v2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "304f75839a43ca38b0da6bdd7bd93a0f62fa9ff19ac115cb98133448e8c2a362",
+    "drand_seed_hash": "94e12af0528ca923ff3e652986ea98d58314f86485b67b1d5e9636f0072bb04d3a54d3794baa3339b1518c2db0ad0848",
+    "client_seed": "1785178835490",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "e30d67305b744c126fa6decd65e028cbd3271e4634350990b0e5f8a49a686c1e",
+    "result": "132",
+    "external_round_id": "30791826",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:00:35.000000Z",
+    "revealed_at": "2026-07-27T19:00:42.000000Z"
+}
