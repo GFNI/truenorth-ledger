@@ -1,0 +1,22 @@
+{
+    "round_id": "58ddea5b-6f3e-46ea-8f1f-ee5b8bccb4b6",
+    "draw_title": "George's Ice Cream Hut",
+    "competition_url": "https://chaotic.co.uk/competition/georges-ice-cream-hut-8771",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d0ab721028826c1a3032f58ee9ff0e749d89f164000a35f3bbddd1e036389d24",
+    "drand_seed_hash": "89766a0843fad514f8fa70bb03eee0888c376b5c66ed58d47d77e7c78a68288d27909be23b9c2726ae7879198ecbe964",
+    "client_seed": "1785181431484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 750000,
+    "max_tickets": 750000,
+    "combined_hash": "7ba9465cb40b9b496c4154d37c388c32166d70f51c7ee580768a5ed0b4376e48",
+    "result": "134780",
+    "external_round_id": "30792691",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:43:51.000000Z",
+    "revealed_at": "2026-07-27T19:43:57.000000Z"
+}
