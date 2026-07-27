@@ -1,0 +1,22 @@
+{
+    "round_id": "abcf41f9-61df-4e37-b351-13e8569745e1",
+    "draw_title": "Win a Victron Bundle!!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-victron-bundle-3822",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "e265dc03379ef9c646e9429329f7d8301fa99e22fa5cb4ab2ea7dbfd9ec96a9c",
+    "drand_seed_hash": "a47cd5a6945753450ef326602267b7a7c06ec439112b8d0b66fb49afbf6a037e60dec2a24d21a40a2e9cc9217495c63e",
+    "client_seed": "1785182873046",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4475,
+    "max_tickets": 5899,
+    "combined_hash": "3e14025790b3375eb86ec179d6ac5a6f8b5fedf5861ca5350110408dbeebb6a7",
+    "result": "5204",
+    "external_round_id": "30793172",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:07:53.000000Z",
+    "revealed_at": "2026-07-27T20:08:00.000000Z"
+}
