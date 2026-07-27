@@ -1,0 +1,22 @@
+{
+    "round_id": "ea8668c0-9c78-49dc-8958-13e06a4f8207",
+    "draw_title": "🎉 POPPING CASH INSTANT WINS 🎉",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/popping-cash-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d197698e21277a6ab929bb2107c84c3b3bd185fc54508736f49d66e6d8ca9148",
+    "drand_seed_hash": "aa3c2ccd3f067b0b0f48ceac3d0032617b88c774a9670a7f440cf36cb161fb225e1135865c5a56595ac9b709ccaf5fa2",
+    "client_seed": "1785183034913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 192216,
+    "max_tickets": 745000,
+    "combined_hash": "7644bc92580d33c48dfbc12f8df568cd80fb98fc28cbe309177146bc1b3f44f4",
+    "result": "331831",
+    "external_round_id": "30793226",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:10:34.000000Z",
+    "revealed_at": "2026-07-27T20:10:42.000000Z"
+}
