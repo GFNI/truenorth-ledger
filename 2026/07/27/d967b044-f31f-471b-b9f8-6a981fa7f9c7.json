@@ -1,0 +1,22 @@
+{
+    "round_id": "d967b044-f31f-471b-b9f8-6a981fa7f9c7",
+    "draw_title": "SPIN TO WIN 🏆",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/spin-to-win",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "3b4220b706d4d6855f2f7abc1c99f1d3539971d7a42d625ec30b98a65c8ed07f",
+    "drand_seed_hash": "97d1d6b7ab3af1c3d97f82e14bef1d4f2acf60935672992d8577a7b9b322fceabd024eedc98ae29f9eaded5638ade458",
+    "client_seed": "1785182042055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13800,
+    "max_tickets": 13800,
+    "combined_hash": "f3b750ba9af38977f504d9515091f56ef8e80fc0ec5124b5ec48f30809fcab3d",
+    "result": "348",
+    "external_round_id": "30792895",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:54:02.000000Z",
+    "revealed_at": "2026-07-27T19:54:09.000000Z"
+}
