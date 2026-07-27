@@ -1,0 +1,22 @@
+{
+    "round_id": "229766e4-3622-4574-9d6f-314a638e73ce",
+    "draw_title": "🪮 NEW GHD HAIR BUNDLE 🪮",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-ghd-hair-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "44270370d7babe89934ef5ea75f17714970e7d184f2f8ad15f4860b0560d8a13",
+    "drand_seed_hash": "a436e0dc7abf5b338955a33b03de5db5d69401eb62aa68573c33b9f6b1295091702ac584ba008500e9ba57d2784dbdba",
+    "client_seed": "1785176340947",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 808,
+    "max_tickets": 1175,
+    "combined_hash": "a62df67b55a156542e6c4c6da34668aef5f76b507c571e2520fe9bc821b287c6",
+    "result": "1086",
+    "external_round_id": "30790995",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T18:19:01.000000Z",
+    "revealed_at": "2026-07-27T18:19:09.000000Z"
+}
