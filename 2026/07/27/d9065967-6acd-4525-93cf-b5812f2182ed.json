@@ -1,0 +1,22 @@
+{
+    "round_id": "d9065967-6acd-4525-93cf-b5812f2182ed",
+    "draw_title": "CHAOTIC SUMMER DROP – MYSTERY PRIZE BOXES",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-summer-drop-mystery-prize-boxes",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "fffb8a1816663976191ed9e21ee3fc34a4f79e0fcb356e62270d5ff637fac54f",
+    "drand_seed_hash": "97a6af6a63427c05db80cf6599ad2a283252ecff050e1f9d1584bf55699ce33f6afddfd758397556e958f47c39a52993",
+    "client_seed": "1785182751336",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "d53aeecf13b6180497daf9a2ecc399ec6df59822b3a62eb52955c8b45fb13ba6",
+    "result": "342",
+    "external_round_id": "30793131",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:05:51.000000Z",
+    "revealed_at": "2026-07-27T20:05:57.000000Z"
+}
