@@ -1,0 +1,22 @@
+{
+    "round_id": "ca4a9d9b-ad93-4846-b84f-ce6c250ce13f",
+    "draw_title": "Power up instant win comp!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/power-up-instant-win-comp-3",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "7c29a66144ba7d6c4cd71c2a0df0e06e728c0068a82c0efee9dd443bc0b216b4",
+    "drand_seed_hash": "b11ba021f54a15d47694d598998c4b3dd2cb85aa98e18f436503c6a134e46274ee2e5f2ec1f06d4d002baf3a4047eea6",
+    "client_seed": "1785180387678",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4347,
+    "max_tickets": 5199,
+    "combined_hash": "f39764b9453217f5c46d303f34f5acb5f5c3bb738c05211635158e2060cef888",
+    "result": "2924",
+    "external_round_id": "30792343",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:26:27.000000Z",
+    "revealed_at": "2026-07-27T19:26:33.000000Z"
+}
