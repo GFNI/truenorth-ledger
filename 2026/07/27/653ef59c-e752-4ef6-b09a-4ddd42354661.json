@@ -1,0 +1,22 @@
+{
+    "round_id": "653ef59c-e752-4ef6-b09a-4ddd42354661",
+    "draw_title": "Gods Of Thunder",
+    "competition_url": "https://jetcomps.co.uk/admin/products/gods-of-thunder",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "edd14308aae44fdf10ebea0552fcbeef4091076782b4c6b872ca284766bbc238",
+    "drand_seed_hash": "9337313c58e1b8cf33ed0899c77d6d813decf25590a27104e7471b2be02ecedfdfcb8340c1eea08c692cb73d062905b6",
+    "client_seed": "1785181855656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 107761,
+    "max_tickets": 201300,
+    "combined_hash": "b7ac65278289d82eb6e18ffab2eaf78115fa55da6e36de956b43b44c7923271e",
+    "result": "106876",
+    "external_round_id": "30792832",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:50:55.000000Z",
+    "revealed_at": "2026-07-27T19:51:00.000000Z"
+}
