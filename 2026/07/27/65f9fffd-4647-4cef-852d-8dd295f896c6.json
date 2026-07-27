@@ -1,0 +1,22 @@
+{
+    "round_id": "65f9fffd-4647-4cef-852d-8dd295f896c6",
+    "draw_title": "Spill the beans instant win comp!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/spill-the-beans-instant-win-comp",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "b235f32c306129597ed330979b11858ca1e57f8f08689f7162593d5c92eb239b",
+    "drand_seed_hash": "8dea4e50cc67a1ffff2d8461249af53c8b1d7ac9ce940065fd4ca3e3663772432b83cf098def1eba2d2001be3ce4982c",
+    "client_seed": "1785180211616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22239,
+    "max_tickets": 39999,
+    "combined_hash": "152dfa8a3d38b7a726d358e7cc663648185e60450c02a13605c2f80dec6e58aa",
+    "result": "29642",
+    "external_round_id": "30792285",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:23:31.000000Z",
+    "revealed_at": "2026-07-27T19:23:39.000000Z"
+}
