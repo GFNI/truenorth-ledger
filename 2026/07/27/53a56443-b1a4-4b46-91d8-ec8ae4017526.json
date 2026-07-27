@@ -1,0 +1,22 @@
+{
+    "round_id": "53a56443-b1a4-4b46-91d8-ec8ae4017526",
+    "draw_title": "*SIGNED* LUKE LITTLER ULTIMATE CARD",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/signed-luke-littler-ultimate-card",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "18265f3c91e26c96ae81b06284c4bbebb8a8a5e845c6d892876490f145ba7bc2",
+    "drand_seed_hash": "aefaaf2a6b655366689b31b2b2c9419afd3a340e214b0cbefaf58b7db4e08601a5b82429d00525888d329665f1a08183",
+    "client_seed": "1785183066473",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18,
+    "max_tickets": 45,
+    "combined_hash": "71606b4dae33ef67848892718c35bc6faf45e57691508096f5aabd1a4fd29c5d",
+    "result": "19",
+    "external_round_id": "30793236",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:11:06.000000Z",
+    "revealed_at": "2026-07-27T20:11:12.000000Z"
+}
