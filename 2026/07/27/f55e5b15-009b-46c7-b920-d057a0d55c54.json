@@ -1,0 +1,22 @@
+{
+    "round_id": "f55e5b15-009b-46c7-b920-d057a0d55c54",
+    "draw_title": "Win a Summer Adventure Bundle!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-summer-adventure-bundle-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "c5150ac9930f8ed6cbaa7b5cbc49bd9007e437c07606800e1ed52fef75fe4690",
+    "drand_seed_hash": "a58de023257de67ed177dfd46e72aa07b29127bf675f3218412293865aad2a9cda50fbba02081b2c3c52b0090cb2ce8f",
+    "client_seed": "1785181262882",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 815,
+    "max_tickets": 899,
+    "combined_hash": "e71c1336021d4a3933b2a1d90716346042359c9abe0054b1996066bccec6258a",
+    "result": "893",
+    "external_round_id": "30792635",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T19:41:03.000000Z",
+    "revealed_at": "2026-07-27T19:41:09.000000Z"
+}
