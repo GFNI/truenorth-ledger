@@ -1,0 +1,22 @@
+{
+    "round_id": "5e54bbe5-e003-4445-be05-a45772b4f3e3",
+    "draw_title": "10 WINNERS OF £6.91 CREDIT",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/10-winners-of-ps691-credit",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "56edd28a672ed81b346ca9219fc5d90b57b7b9a525cab996acf600f61267fd06",
+    "drand_seed_hash": "96107b492ab51cacb4a2a8b089019ab18bb2b328e2e27d2159135616009b874b7c441d2159728aeaa81a1494c882cb4b",
+    "client_seed": "1785183096505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21,
+    "max_tickets": 100,
+    "combined_hash": "beeb78a27d5ae37f590bc8205e1a716cdb77b7173749bfadce053788c2d85564",
+    "result": "63",
+    "external_round_id": "30793246",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:11:36.000000Z",
+    "revealed_at": "2026-07-27T20:11:42.000000Z"
+}
