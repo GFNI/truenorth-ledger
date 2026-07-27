@@ -1,0 +1,22 @@
+{
+    "round_id": "daff061c-5274-4bba-929f-2fc60e4e8119",
+    "draw_title": "*LIMITED EDITION* THIBAULT TRICOLE CARD",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/limited-edition-thibault-tricole-card",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "dd92591e7e497075f5341e01746c7a781a06804d73f28558c5f2551bc3a8ae2f",
+    "drand_seed_hash": "b684d6d3638cb5f5bc5c77ac60f1106e0363cd6e3253a1cfad8f0a7d03a5bf71a6849c43dcdcff292c0290ba2d8c009e",
+    "client_seed": "1785183084430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13,
+    "max_tickets": 99,
+    "combined_hash": "3bd06f7627a415892b0375115be686002a9421629b0bc2fc3e453ccb333d1870",
+    "result": "95",
+    "external_round_id": "30793242",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T20:11:24.000000Z",
+    "revealed_at": "2026-07-27T20:11:30.000000Z"
+}
