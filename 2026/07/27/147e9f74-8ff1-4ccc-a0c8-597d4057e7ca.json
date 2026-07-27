@@ -1,0 +1,22 @@
+{
+    "round_id": "147e9f74-8ff1-4ccc-a0c8-597d4057e7ca",
+    "draw_title": "SCHOOL’S OUT - WEEK 2",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/schools-out-week-2",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "847db5716c17ab35093fcc90b448e3eb787b982097b5534f036d7cc1f011244e",
+    "drand_seed_hash": "b79224f354730ec763c42f2438abab7d9c4fb80df8a44c7502c2546ef86ae7492cf74a0a5237ad7b691e0a78ad4a9c3f",
+    "client_seed": "1785143801053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 150,
+    "combined_hash": "cf6960de9ea1be9e884745a80220e6f00be13e5ffa1d188c00325877b88cb0d0",
+    "result": "46",
+    "external_round_id": "30780148",
+    "processing_status": "completed",
+    "created_at": "2026-07-27T09:16:41.000000Z",
+    "revealed_at": "2026-07-27T09:16:48.000000Z"
+}
