@@ -1,0 +1,22 @@
+{
+    "round_id": "28cb9583-dde5-4e12-8e4e-1ef81490800c",
+    "draw_title": "🪩 POOL PARTY! 🪩",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/pool-party",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "bea0215cde1d59c1bd57593b9d4dd8d69b56e2709da6e64318e6118fc086768e",
+    "drand_seed_hash": "a6a63b86896f7c7de1893e2bdfece6011a150ca76a41ff7972068c046f9a90dad7c83be6ff4b35837fca1b9a8ce16975",
+    "client_seed": "1785262444492",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6290,
+    "max_tickets": 30000,
+    "combined_hash": "5224b319a0cd6c27122344a9d7cd240207d215b696e33cf9391128c9bd443306",
+    "result": "10643",
+    "external_round_id": "30819696",
+    "processing_status": "completed",
+    "created_at": "2026-07-28T18:14:04.000000Z",
+    "revealed_at": "2026-07-28T18:14:12.000000Z"
+}
