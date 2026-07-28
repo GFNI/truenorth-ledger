@@ -1,0 +1,22 @@
+{
+    "round_id": "859310b3-6202-4937-a0c3-a31beb12dd9a",
+    "draw_title": "✨SUMMER SPARKLES✨",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/summer-sparkles",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "92bd7749df15037dc361343713edd3838d16d95e05ca1df452d5f08c6f7acb35",
+    "drand_seed_hash": "a2c03319702afaff21dec65290ee85dd5db0b6c589e3dbc7d3249fa25028427f4dfe68f15c3348511b07662bc9455e65",
+    "client_seed": "1785262664365",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5794,
+    "max_tickets": 13000,
+    "combined_hash": "759f1c984cf9f3dc574d64c94ea60cb218b9d4d1f3348c2309e6623bd6958ab9",
+    "result": "8662",
+    "external_round_id": "30819769",
+    "processing_status": "completed",
+    "created_at": "2026-07-28T18:17:44.000000Z",
+    "revealed_at": "2026-07-28T18:17:51.000000Z"
+}
