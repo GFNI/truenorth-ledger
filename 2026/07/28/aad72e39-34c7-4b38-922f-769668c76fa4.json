@@ -1,0 +1,22 @@
+{
+    "round_id": "aad72e39-34c7-4b38-922f-769668c76fa4",
+    "draw_title": "Free Draw - £30 Tesco Voucher",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-ps30-tesco-voucher",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "cc22374bb556136438bee732a648fae47910a79af89b027c11fb56a572558c72",
+    "drand_seed_hash": "8e3aa02746c62a5b1eebeaeabeb681ae265cb0c3b45cda57553d72d25af1e7eea14cfd4388e7f6238df4fc0325c1249f",
+    "client_seed": "1785265837426",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146,
+    "max_tickets": 300,
+    "combined_hash": "723d113cd9c0b8d4e25696ac05a4f4c2fa15f67d3a065decc2d2b9ea5823876d",
+    "result": "103",
+    "external_round_id": "30820827",
+    "processing_status": "completed",
+    "created_at": "2026-07-28T19:10:37.000000Z",
+    "revealed_at": "2026-07-28T19:10:45.000000Z"
+}
