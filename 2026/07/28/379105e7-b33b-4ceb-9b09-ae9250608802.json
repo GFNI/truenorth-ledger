@@ -1,0 +1,22 @@
+{
+    "round_id": "379105e7-b33b-4ceb-9b09-ae9250608802",
+    "draw_title": "WIN £250 OF JELLYCAT JACKPOT ENTRIES",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/win-ps250-of-jellycat-jackpot-entries",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "25e7c6b21ef0ed01df79d46fc224ec443b6c72e7b1279916e579b361839b320a",
+    "drand_seed_hash": "825f67d26680c142dd022c9c1196dc8fed0fd5cea7a173b8c558ea18e0aaac29921ab2e4c9363fb9a792a21bf5c2a15c",
+    "client_seed": "1785269436242",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 200,
+    "combined_hash": "639d960c2a1af3978b20e126e9898b58ebc9efc4c8b39c3527e674f4e6f3afa7",
+    "result": "84",
+    "external_round_id": "30822026",
+    "processing_status": "completed",
+    "created_at": "2026-07-28T20:10:36.000000Z",
+    "revealed_at": "2026-07-28T20:10:42.000000Z"
+}
