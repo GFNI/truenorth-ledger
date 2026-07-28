@@ -1,0 +1,22 @@
+{
+    "round_id": "3e5441eb-e64f-4a8c-85bb-83aaf96d7c48",
+    "draw_title": "🍉 PICNIC ROYALE 🍉",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/picnic-royale",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "48e2d8a831ed58990651a59448c8c5259c1705d02444153c65b92f7f4a334a57",
+    "drand_seed_hash": "b157f18b046dfd12efe0306273ce45cee6faf4e97eb4523abf276a43324fcfc601ab1d725fcf9375200614139234379a",
+    "client_seed": "1785262831931",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13403,
+    "max_tickets": 49999,
+    "combined_hash": "9888d0b8d41985563e967780dad591bf08b83799817b8f0a296d5fd423269287",
+    "result": "36215",
+    "external_round_id": "30819825",
+    "processing_status": "completed",
+    "created_at": "2026-07-28T18:20:32.000000Z",
+    "revealed_at": "2026-07-28T18:20:39.000000Z"
+}
