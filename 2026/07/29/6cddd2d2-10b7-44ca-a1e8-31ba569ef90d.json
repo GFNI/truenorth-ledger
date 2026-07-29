@@ -1,0 +1,22 @@
+{
+    "round_id": "6cddd2d2-10b7-44ca-a1e8-31ba569ef90d",
+    "draw_title": "Nintendo Switch 2 Bundle or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/nintendo-switch-2-bundle-or-cash-7460",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "bb698e70b398f1e92987bdaed16684511e622867e737ccb90b9bdd23c2f7adfe",
+    "drand_seed_hash": "90cc79e4e141931ef828bfe3a452b11f06dc13699f314a5edbf759de42089c5b2fce1dbadff8d3b12b656ab21d5c5403",
+    "client_seed": "1785354992866",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 90,
+    "combined_hash": "3400e227b69f9b3b8edbcec128890b1931d701a0dbd8ed626a4c214945170d65",
+    "result": "63",
+    "external_round_id": "30850545",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:56:32.000000Z",
+    "revealed_at": "2026-07-29T19:56:39.000000Z"
+}
