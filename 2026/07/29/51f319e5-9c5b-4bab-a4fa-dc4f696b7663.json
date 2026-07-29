@@ -1,0 +1,22 @@
+{
+    "round_id": "51f319e5-9c5b-4bab-a4fa-dc4f696b7663",
+    "draw_title": "Golden Duck Hunt",
+    "competition_url": "https://easybigwins.co.uk/admin/products/golden-duck-hunt-4",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "cf637e3ac5ff827d0f80453bd93c304b307b6a2fea3ac75ee9d6d67678206355",
+    "drand_seed_hash": "a0a509a2e7bf4bc9b7758d17c141cf3a175dadcb300f72b90128a312b1949a80e8be692b71832c40a95232cea61ffbc1",
+    "client_seed": "1785357385475",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7500,
+    "max_tickets": 7500,
+    "combined_hash": "f309c68fb4e1b5780ab88c6142208884bbd05e128a39ff80741052466c033358",
+    "result": "564",
+    "external_round_id": "30851343",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T20:36:25.000000Z",
+    "revealed_at": "2026-07-29T20:36:33.000000Z"
+}
