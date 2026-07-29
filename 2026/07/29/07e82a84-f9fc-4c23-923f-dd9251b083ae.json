@@ -1,0 +1,22 @@
+{
+    "round_id": "07e82a84-f9fc-4c23-923f-dd9251b083ae",
+    "draw_title": "ITS OUR 1ST BIRTHDAY!",
+    "competition_url": "https://ecnicompetitions.com/admin/products/its-our-1st-birthday",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "b03e0f8952a1274846201b6984f9ab4ae34f017705fa668734e8c7acceedff63",
+    "drand_seed_hash": "943956468d2e01aaca6e428ce290c8640c2d5e1ac5216fbce899ac6f19f255a4e7979964110daa196cefaff13bd0264e",
+    "client_seed": "1785356130499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 100,
+    "combined_hash": "50f4ba340adf8996ce61faff1ad268a6fa7cdcef1916d734296a2e05b75374a4",
+    "result": "73",
+    "external_round_id": "30850924",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T20:15:30.000000Z",
+    "revealed_at": "2026-07-29T20:15:36.000000Z"
+}
