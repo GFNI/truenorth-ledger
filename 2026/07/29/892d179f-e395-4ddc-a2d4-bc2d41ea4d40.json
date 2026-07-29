@@ -1,0 +1,22 @@
+{
+    "round_id": "892d179f-e395-4ddc-a2d4-bc2d41ea4d40",
+    "draw_title": "Warhammer Vile Vectorium Battleforce + Instant Ticket Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-vile-vectorium-battleforce-instant-ticket-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0027e899b2064bffbfca4002baa8214a2ab905a5818ba9b302ec970250d8f071",
+    "drand_seed_hash": "94c00bbdcf61245324d69d3cfe71c808f3b377259f54dfcfb5652d751f4a3f8d794c5e3b7fb86ec0e32f4f4ab7e22417",
+    "client_seed": "1785360940303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 184,
+    "max_tickets": 1066,
+    "combined_hash": "c44f4139a59976964a9a68b8e14e6ff202c4ce9b69e1089ba3b366de63cc2cef",
+    "result": "445",
+    "external_round_id": "30852528",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:35:40.000000Z",
+    "revealed_at": "2026-07-29T21:35:48.000000Z"
+}
