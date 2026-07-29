@@ -1,0 +1,22 @@
+{
+    "round_id": "e2adfff2-8021-40d3-b17e-ca176f7d58a3",
+    "draw_title": "Summer Holidays Splash Pad",
+    "competition_url": "https://chaotic.co.uk/competition/summer-holidays-splash-pad",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5ac3a6cee0b89c1e32cb266bf8ec6dd011adb24d7bb750121b2570e88aaae8b6",
+    "drand_seed_hash": "a59edfeba22d24cf8a8a15ae936f96448be7dc1df066191df682dcb9d4af9c223fa69bbdd70bd02aad59041cd3a626aa",
+    "client_seed": "1785353730364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "1579bc4f090f5f4163764224d5924955b22dcce77e19a29b14ddc34ec9d4c27d",
+    "result": "830",
+    "external_round_id": "30850124",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:35:30.000000Z",
+    "revealed_at": "2026-07-29T19:35:36.000000Z"
+}
