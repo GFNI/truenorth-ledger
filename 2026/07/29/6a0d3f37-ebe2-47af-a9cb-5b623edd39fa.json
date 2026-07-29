@@ -1,0 +1,22 @@
+{
+    "round_id": "6a0d3f37-ebe2-47af-a9cb-5b623edd39fa",
+    "draw_title": "Cops and Robbers",
+    "competition_url": "https://chaotic.co.uk/competition/cops-and-robbers-2747",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "3bb2bb2a6ec8e127ffa8dda770eb869e042c8c69a3ef7e8500274bce4bdecaa6",
+    "drand_seed_hash": "99d4f342be6caf861d4c6e65cd9e9a970468d5b66b1490066cdccfb6acf2eb8fd57740ba59acb51d6fd0edc5e7ae722c",
+    "client_seed": "1785354706399",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "b7e1ff6e3df42758db8b3d49f0eb868f30cb54da3671d091e10a4e0d3dfc11ce",
+    "result": "265086",
+    "external_round_id": "30850450",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:51:46.000000Z",
+    "revealed_at": "2026-07-29T19:51:54.000000Z"
+}
