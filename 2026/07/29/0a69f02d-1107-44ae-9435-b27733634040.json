@@ -1,0 +1,22 @@
+{
+    "round_id": "0a69f02d-1107-44ae-9435-b27733634040",
+    "draw_title": "£75,000 INSTANT WINNER FOR JUST 10P A TICKET - END PRIZE IPAD!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps75000-instant-winner-for-just-10p-a-ticket-end-prize-ipad",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "d1becff2d4b5c0c566f9bdcc566e9defde4b583c3dffe0d930bdb026551387e0",
+    "drand_seed_hash": "8c43c4423cd4a19dc627bda7d2087291657963503948c3529ab7884fea4597135a5f4cd92cbac180bbf6f6e2a3e5233d",
+    "client_seed": "1785354209328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50722,
+    "max_tickets": 1600000,
+    "combined_hash": "0f863a5a99e9732915435b33c949db49db3c3ff3c9881fa89f6123d170369787",
+    "result": "184848",
+    "external_round_id": "30850284",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:43:29.000000Z",
+    "revealed_at": "2026-07-29T19:43:36.000000Z"
+}
