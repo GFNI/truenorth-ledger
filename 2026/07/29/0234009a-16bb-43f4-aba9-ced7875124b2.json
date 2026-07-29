@@ -1,0 +1,22 @@
+{
+    "round_id": "0234009a-16bb-43f4-aba9-ced7875124b2",
+    "draw_title": "🔨 WACKA WACKA - Win up to £1,000",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/wack-a-mole",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "ba3bb5e7bac4a11a934bca799e0bb2e488d78f3f96c2d4190918fdb18ab6e036",
+    "drand_seed_hash": "98ee582c4c3056a920ab79024b87862b7bbc91050594679b2a6a82266b2771abc422e1e58d73fea088eae1a27945cf25",
+    "client_seed": "1785348637748",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46993,
+    "max_tickets": 400000,
+    "combined_hash": "13f82c2d1016baa83f907aded827e16224e4314509f676866c0f35c94062e19f",
+    "result": "321812",
+    "external_round_id": "30848427",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T18:10:37.000000Z",
+    "revealed_at": "2026-07-29T18:10:45.000000Z"
+}
