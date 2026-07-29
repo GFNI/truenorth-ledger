@@ -1,0 +1,22 @@
+{
+    "round_id": "02fc2fdc-2cc4-4b4f-be98-797cfbecf242",
+    "draw_title": "Mud Kitchen Play Set or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/mud-kitchen-play-set-or-cash-8968",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "7856e0c0166320ffd51e7a35b3caa6e584c8b10f2c7d009c7216cca3f500cdf5",
+    "drand_seed_hash": "b2691921237b4fd3a868255955f261bd306230233157f52e832a82e1ca4d118821c9382e321bc149057b8c18909bb481",
+    "client_seed": "1785355326391",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "c58e4c2b482b7c2cfa4f8e96ce0321b98dd987fd2c900bc0c56782afe54801f4",
+    "result": "74",
+    "external_round_id": "30850656",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T20:02:06.000000Z",
+    "revealed_at": "2026-07-29T20:02:12.000000Z"
+}
