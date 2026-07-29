@@ -1,0 +1,22 @@
+{
+    "round_id": "f5d47921-0336-45c4-9ba2-bc78bbf7d52d",
+    "draw_title": "SUMMER HOLIDAY SURVIVAL FOOD SHOP 4",
+    "competition_url": "https://chaotic.co.uk/competition/summer-holiday-survival-food-shop-4",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "789c0afce6776d3f5acbe0e839e88a64c08f3d5d7dcecdd5c59d833961528448",
+    "drand_seed_hash": "b3862bad24ff3093c8a336591f5eff51c94b8d8eae5e066bfee49b58f7f9f5cab8a767b980f5c24d01e79a24add1ea5b",
+    "client_seed": "1785353918890",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "2d7301781563fa3fbb216206c493f980d5fef1d74396d02cfcd7b5bff084d582",
+    "result": "942",
+    "external_round_id": "30850187",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:38:38.000000Z",
+    "revealed_at": "2026-07-29T19:38:45.000000Z"
+}
