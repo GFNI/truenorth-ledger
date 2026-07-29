@@ -1,0 +1,22 @@
+{
+    "round_id": "441a8adb-8c48-40d5-91d1-5be820d297cc",
+    "draw_title": "King Kong £20,000 Cash",
+    "competition_url": "https://proprizes.co.uk/admin/products/king-kong-ps20000-cash",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "28d9be7e6b00c642cc5d88d3571555fea2a3495999dbd4799d97061816bd8def",
+    "drand_seed_hash": "8141b63606045ab06a7a8179c1283b8ad4b5f128a5d19b47ade1e94fee3fb605aa71caa35a9e84e72459e14dcd597a44",
+    "client_seed": "1785360273829",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6645,
+    "max_tickets": 12499,
+    "combined_hash": "75e62b19761ef030b22b055274240b05dc53918b27231a2455b34d45295a737b",
+    "result": "3733",
+    "external_round_id": "30852305",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:24:33.000000Z",
+    "revealed_at": "2026-07-29T21:24:39.000000Z"
+}
