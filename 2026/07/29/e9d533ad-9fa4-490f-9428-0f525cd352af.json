@@ -1,0 +1,22 @@
+{
+    "round_id": "e9d533ad-9fa4-490f-9428-0f525cd352af",
+    "draw_title": "The Safe Cracker!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/the-safe-cracker",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "f5a76a8cee83dec11a64a5effde99492f264386550d16d31d78f9f5093f03a88",
+    "drand_seed_hash": "886f23f82650e43a69e78708f26da73d3718fef458fcddb425b53ec2942d347d00690075887a7d8d28d2b24a2634a81b",
+    "client_seed": "1785351996559",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74999,
+    "max_tickets": 74999,
+    "combined_hash": "da9d63dd30a01607b97e72b7ac10f67adeae67b890fcf551765923234dd52705",
+    "result": "42735",
+    "external_round_id": "30849546",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:06:36.000000Z",
+    "revealed_at": "2026-07-29T19:06:42.000000Z"
+}
