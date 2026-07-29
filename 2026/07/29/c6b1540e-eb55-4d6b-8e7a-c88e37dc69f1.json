@@ -1,0 +1,22 @@
+{
+    "round_id": "c6b1540e-eb55-4d6b-8e7a-c88e37dc69f1",
+    "draw_title": "£25 Payday Top-Up! (Autodraw)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/ps25-payday-top-up-autodraw",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "b4c87335ac59b922faa04d8ca40e735527051a8c9aec2b666ec9e6e1dcce4d06",
+    "drand_seed_hash": "a49add6bd32ae31ad2e50232795b205c4b5ef377279b003ecdaf2c853272a56c7d5f38c1a12d144f65c84c13eb8bfe96",
+    "client_seed": "1785319834528",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 173,
+    "max_tickets": 625,
+    "combined_hash": "232a91f3ef572910920470588566e0ee48f77e9286e4b0c2c1f55eb03897428f",
+    "result": "121",
+    "external_round_id": "30838826",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T10:10:34.000000Z",
+    "revealed_at": "2026-07-29T10:10:42.000000Z"
+}
