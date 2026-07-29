@@ -1,0 +1,22 @@
+{
+    "round_id": "ae396a13-f280-4228-881c-4cd40e9685a3",
+    "draw_title": "Sage Espresso machine Barista Express",
+    "competition_url": "https://expcomps.com/admin/products/sage-espresso-machine-barista-express",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "3454d104c765117d9cb5f16f76f86e6e3354947084d833ae34f26b110c9e1f51",
+    "drand_seed_hash": "97d46ad483608f14cf631d2ee4a4e8c0a953a484ad110cbc4d5477687820a9ee2fb1ffaee00a425c0a47a07b61de3609",
+    "client_seed": "1785359446097",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 345,
+    "max_tickets": 1099,
+    "combined_hash": "2fe628b56755f28775055b252ec0e46ddd806a3ba9429880272dc4708ccfcc10",
+    "result": "529",
+    "external_round_id": "30852030",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:10:46.000000Z",
+    "revealed_at": "2026-07-29T21:10:54.000000Z"
+}
