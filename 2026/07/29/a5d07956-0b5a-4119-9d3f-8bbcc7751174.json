@@ -1,0 +1,22 @@
+{
+    "round_id": "a5d07956-0b5a-4119-9d3f-8bbcc7751174",
+    "draw_title": "Cash After Dark",
+    "competition_url": "https://chaotic.co.uk/competition/cash-after-dark-8913",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "04603e578e9946c8968a86705284d23875fdb2218a72d690cd854717c1932fb6",
+    "drand_seed_hash": "a18c4123dfc9234875f3db4a1621bfd526ad61f3d30eef3bf9f2c65b39a6db55fcfad1efc40508b9e9f2051522ef90f7",
+    "client_seed": "1785354536236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "4c44885b62860252b1be20ae604c6759b4fe5e5422cf8372cc21e39bd5731f6c",
+    "result": "1037",
+    "external_round_id": "30850393",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:48:56.000000Z",
+    "revealed_at": "2026-07-29T19:49:03.000000Z"
+}
