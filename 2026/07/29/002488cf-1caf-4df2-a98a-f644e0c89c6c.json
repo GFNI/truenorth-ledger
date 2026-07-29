@@ -1,0 +1,22 @@
+{
+    "round_id": "002488cf-1caf-4df2-a98a-f644e0c89c6c",
+    "draw_title": "One Piece Packs To Rip! — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/one-piece-packs-to-rip-low-odds-wednesday-4",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "a67cc5750684910809ba186971ed006072aeb0c5936c869a88e93e2c1c3dbb59",
+    "drand_seed_hash": "83750be964055fab6781f952e4bc4cc903f5ba22158a7d802db74dc46b49c640a825c971de4926a9b709dd323f98e8e0",
+    "client_seed": "1785359767741",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 150,
+    "combined_hash": "caa135351ab673c27a5ad8e3c9885aa5ebbe9f60fddfffd15fda684fc8769263",
+    "result": "125",
+    "external_round_id": "30852137",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:16:07.000000Z",
+    "revealed_at": "2026-07-29T21:16:15.000000Z"
+}
