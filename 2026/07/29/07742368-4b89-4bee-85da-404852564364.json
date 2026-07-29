@@ -1,0 +1,22 @@
+{
+    "round_id": "07742368-4b89-4bee-85da-404852564364",
+    "draw_title": "Sony XM6 Headphones",
+    "competition_url": "https://expcomps.com/admin/products/sony-xm6-headphones",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "e9645fb737536a9b7c86961eb1f0579a93676a75fa0aa30687a3cb8bf77e81ca",
+    "drand_seed_hash": "92dc4429842af0ba4ec0c8b4c1ea05aafb1ca3891fedc9362b02edb0bfdd165b16eaed00f550abd463e14e5e1151c2ea",
+    "client_seed": "1785358537539",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 290,
+    "max_tickets": 649,
+    "combined_hash": "61702461a2dadc081cbce9ef7c7bcf3dd207fa6ae52d135500307d2a3d260ed4",
+    "result": "132",
+    "external_round_id": "30851727",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T20:55:37.000000Z",
+    "revealed_at": "2026-07-29T20:55:45.000000Z"
+}
