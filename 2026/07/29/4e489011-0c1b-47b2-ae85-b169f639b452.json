@@ -1,0 +1,22 @@
+{
+    "round_id": "4e489011-0c1b-47b2-ae85-b169f639b452",
+    "draw_title": "FREE DAILY EVERY TICKET WINS! £25 MAIN PRIZE 29/07",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/free-daily-every-ticket-wins-ps25-main-prize-2907-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "9010d6a00bf14dac02064fa28718d4b33ef0512a5028b5524037e503e12d3a9e",
+    "drand_seed_hash": "80db59c72391303a8cb16107ebb4faf614d3d2ea1594b86ac0ef3ae24306baec9b4ea8a2f83cf877cf57d8408df40586",
+    "client_seed": "1785364836690",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 89,
+    "max_tickets": 500,
+    "combined_hash": "1dc95be18d8eb8aaef0d02dce76f8c1bb5712a897b8496f5670b3b5e9e036fe1",
+    "result": "362",
+    "external_round_id": "30853826",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T22:40:36.000000Z",
+    "revealed_at": "2026-07-29T22:40:42.000000Z"
+}
