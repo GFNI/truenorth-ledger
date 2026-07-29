@@ -1,0 +1,22 @@
+{
+    "round_id": "8fd96401-6ddf-47ec-9452-899cc544e8af",
+    "draw_title": "Pokémon Pitch Black Booster Box + Instant Ticket Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-pitch-black-booster-box-instant-ticket-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "b841fdc9dd03eea159a83fc44b54bcc26db3ee29124464ae0c58c69a7272214b",
+    "drand_seed_hash": "b3dceb021c9a8e5c4446f600af8fc3486aefb6e387a948d2fd77bdff89314cfabfbc0015348d29ec185d08e2e5d06e20",
+    "client_seed": "1785360659727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 208,
+    "max_tickets": 1066,
+    "combined_hash": "a44b4d531ef67b0dd15cbeda664a6aa675df7f4dca2d44f2a1ea9415aaaabe6a",
+    "result": "595",
+    "external_round_id": "30852434",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:30:59.000000Z",
+    "revealed_at": "2026-07-29T21:31:06.000000Z"
+}
