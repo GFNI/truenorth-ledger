@@ -1,0 +1,22 @@
+{
+    "round_id": "ed3c25be-b42a-4a46-ae37-ebe3913bc319",
+    "draw_title": "The Shopping List! Pick your prize!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-shopping-list-pick-your-prize",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "bc9e52e9304e9d313206b0848127ce37abc8233013eb1c6e51528c7121b8e2a0",
+    "drand_seed_hash": "adb5fd2b7a953a87dd6f02d94c9094c75c2c17766f1dfc33738552e3ae55fc29b3423762d45f5c8b4182242fba775e75",
+    "client_seed": "1785359484657",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 711,
+    "max_tickets": 2299,
+    "combined_hash": "10820b52795e3cb08c71e92ddef2a9cc1bc3f40eb3b6b73f8f875173d2d74e51",
+    "result": "1037",
+    "external_round_id": "30852042",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T21:11:24.000000Z",
+    "revealed_at": "2026-07-29T21:11:30.000000Z"
+}
