@@ -1,0 +1,22 @@
+{
+    "round_id": "66191cf0-4820-4a36-b79a-dcdaf384056c",
+    "draw_title": "Lego Botanicals Chrysanthemum",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/lego-botanicals-chrysanthemum",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "6fa34ef2a1496b7e9ff89cbad4a052d7da78350b6f0dceedbf60ffd291f2c298",
+    "drand_seed_hash": "b734d99d1ad0693d1e690f88b331beed2fc7ce8b92805dc7b1b65aa544912fe3d850846714d77169d041c341ac3e5c4e",
+    "client_seed": "1785352697835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 300,
+    "combined_hash": "f17403263eff0c4f4a4769cb34a080424946a002a8338fc92fd7b75eb9ce1ba6",
+    "result": "54",
+    "external_round_id": "30849780",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:18:17.000000Z",
+    "revealed_at": "2026-07-29T19:18:24.000000Z"
+}
