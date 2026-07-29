@@ -1,0 +1,22 @@
+{
+    "round_id": "da936c31-4e63-47d3-8026-77c72f20622a",
+    "draw_title": "Pop Your Cherry",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/pop-your-cherry",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "53bd022a8e43c1560bc71dc5dc422f72322930106d740f55f984f7b0900fa0e9",
+    "drand_seed_hash": "b42aafd675b330efe50fe26a6b2fc188af4bd08e76a7a0a88bb73cfb5b4443b35efdf9a70b30da414920d92be687d46a",
+    "client_seed": "1785352258475",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1124,
+    "max_tickets": 9999,
+    "combined_hash": "118b9cbf928e6db5f454c0bca4e27e3322eb01c77a7a5f39ad6fd6fde6461383",
+    "result": "8976",
+    "external_round_id": "30849634",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:10:58.000000Z",
+    "revealed_at": "2026-07-29T19:11:06.000000Z"
+}
