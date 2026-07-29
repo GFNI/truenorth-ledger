@@ -1,0 +1,22 @@
+{
+    "round_id": "efccfa51-72a2-44a8-8a63-b2f2764e272b",
+    "draw_title": "MYSTERY PRIZES! PICK YOUR NUMBER",
+    "competition_url": "https://whiskyclubuk.com/admin/products/mystery-prizes-pick-your-number",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "92417988661728764933b04473923622afeba49e5b5bb277f916baa77ed4fb41",
+    "drand_seed_hash": "af0b78e8d8c37679be02b52dd4e191d30b20d5dbae0a08f592a0da6cc16320a8905ec8b29e9a4492f9c59ce637b4deec",
+    "client_seed": "1785364239139",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 442,
+    "max_tickets": 700,
+    "combined_hash": "ffc6fd67a03a0cf0b46c6831d0faa67f587780d67ab806583b6cba483e04037b",
+    "result": "600",
+    "external_round_id": "30853627",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T22:30:39.000000Z",
+    "revealed_at": "2026-07-29T22:30:45.000000Z"
+}
