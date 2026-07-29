@@ -1,0 +1,22 @@
+{
+    "round_id": "78f08166-6849-49dd-b183-3f1d0262247b",
+    "draw_title": "Daily Mustang Ticket Bundle - £100 Worth Of Tickets End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/daily-mustang-ticket-bundle-ps100-worth-of-tickets-end-prize-11",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "802341027bff707287c66af8a722ddeddce44930ad18c7034e8bede2132d6b8f",
+    "drand_seed_hash": "8b75cc6fe101b5b23509fb3371f26dc09a572a9b3a4ad08cb8082e070f2f244dd6a7c44ec9f6dd8e2afcd8f3cccd963e",
+    "client_seed": "1785355836943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4317,
+    "max_tickets": 15000,
+    "combined_hash": "39133091bcb2a85be7015af12a198f13a7a4a8c486a6cc93dd8ced0fc93efe8e",
+    "result": "11970",
+    "external_round_id": "30850827",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T20:10:37.000000Z",
+    "revealed_at": "2026-07-29T20:10:45.000000Z"
+}
