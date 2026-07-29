@@ -1,0 +1,22 @@
+{
+    "round_id": "3c1a9b9e-cecf-4555-87e5-cdf3a9ac491f",
+    "draw_title": "BUZZY BEES £6,000 BINGO 🐝",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/buzzy-bees-ps6000-bingo",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "34c122752e29e43267e24befccf1518fb816e9e8af1f4051e78209072ef59a6f",
+    "drand_seed_hash": "b1c8c5bbbb9457ca8055fdc9420b4e071ff54a593c1dce7d69fca5bb3ccbb785a4252ea2662754dbd117d5ef87a33a94",
+    "client_seed": "1785354277036",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39274,
+    "max_tickets": 100000,
+    "combined_hash": "994b14af6502714cdbe96af2e69b31e0ac68a116dcc5a9e828da41bf3454912a",
+    "result": "42874",
+    "external_round_id": "30850307",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:44:37.000000Z",
+    "revealed_at": "2026-07-29T19:44:45.000000Z"
+}
