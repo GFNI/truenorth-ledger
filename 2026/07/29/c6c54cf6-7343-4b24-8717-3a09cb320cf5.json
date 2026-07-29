@@ -1,0 +1,22 @@
+{
+    "round_id": "c6c54cf6-7343-4b24-8717-3a09cb320cf5",
+    "draw_title": "Win 50 Tickets Into The Whack a Mole £1000 Cash Competition!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-50-tickets-into-the-whack-a-mole-ps1000-cash-competition",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "5578ede913657595a2430ce5cc1c70befa3877117829c527ee25f4d71a0d2e67",
+    "drand_seed_hash": "86b0ef377cb5630b63e5a52ebefa5850e2d5eb1c7c81ef929746c2ca128c581b533f57727cd6eaa0a0db3fa6b9535e34",
+    "client_seed": "1785352251571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 244,
+    "max_tickets": 500,
+    "combined_hash": "d36d6d5397fae357f0b560c4e7579a541991a5d528093218232ea6c99a5f5126",
+    "result": "468",
+    "external_round_id": "30849631",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:10:51.000000Z",
+    "revealed_at": "2026-07-29T19:10:57.000000Z"
+}
