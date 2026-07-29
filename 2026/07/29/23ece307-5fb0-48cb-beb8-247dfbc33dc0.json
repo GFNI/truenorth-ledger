@@ -1,0 +1,22 @@
+{
+    "round_id": "23ece307-5fb0-48cb-beb8-247dfbc33dc0",
+    "draw_title": "£300,000 MEGA INSTANT WINNER! WIN UP TO £5000 FOR JUST 25P!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps300000-mega-instant-winner-win-up-to-ps5000-for-just-25p",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "76671d3bc2009215743ef6783340760d111dba9a7f8bb55707e76fa486fa0fc4",
+    "drand_seed_hash": "a786caf60c68cedffef1b4029d0bc17c80d2b98717693477d661706a7538b3554536ab21f6ba78b848604e32aa809c87",
+    "client_seed": "1785354089894",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201805,
+    "max_tickets": 2000000,
+    "combined_hash": "aeeda4a7126dc27260328d4a0f66d74e1185a336923955815144f2e33616d6b1",
+    "result": "603823",
+    "external_round_id": "30850244",
+    "processing_status": "completed",
+    "created_at": "2026-07-29T19:41:29.000000Z",
+    "revealed_at": "2026-07-29T19:41:36.000000Z"
+}
