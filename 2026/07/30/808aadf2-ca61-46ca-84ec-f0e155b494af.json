@@ -1,0 +1,22 @@
+{
+    "round_id": "808aadf2-ca61-46ca-84ec-f0e155b494af",
+    "draw_title": "Enchanted Prizes - Low Odds Just 1610 Tickets - 2x Main Draw Prize Winners of £100 Each - £1.49 a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/enchanted-prizes-low-odds-just-1610-tickets-2x-main-draw-prize-winners-of",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "f8cc1d2f5ab80f74a025735bd1443c80c9e855305f353474b957949a38a100be",
+    "drand_seed_hash": "93994ff3ea72b135b8a8d77eac33081e29854c39cb07347df79fc35b280aed70c72c5a349637f96d56440265713a70e9",
+    "client_seed": "1785435235246",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 856,
+    "max_tickets": 1610,
+    "combined_hash": "eb5173233b3a0d5423351bc566858a34d29a6dbd935fa00262a8eb53a6c6424a",
+    "result": "412",
+    "external_round_id": "30877293",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:13:55.000000Z",
+    "revealed_at": "2026-07-30T18:14:03.000000Z"
+}
