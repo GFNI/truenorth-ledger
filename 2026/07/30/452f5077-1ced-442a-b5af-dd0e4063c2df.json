@@ -1,0 +1,22 @@
+{
+    "round_id": "452f5077-1ced-442a-b5af-dd0e4063c2df",
+    "draw_title": "Free Draw - £25 Electric Top Up",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-ps25-electric-top-up",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "579c30b7101d68fab58685f76ab278351281ff2017da0e954ac1cc78f02d110d",
+    "drand_seed_hash": "ac7e7d4d88a13af053b7e7a9248316a346ac026fe31e1b06e986b38faf36ab43d993ccddb0ef84699f40f8f62a11802f",
+    "client_seed": "1785438674464",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 122,
+    "max_tickets": 400,
+    "combined_hash": "9558a5e121d272a6558f81c6ebda581bb8a47b8306d73d1ced1207fa1a8a44ed",
+    "result": "118",
+    "external_round_id": "30878438",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:11:14.000000Z",
+    "revealed_at": "2026-07-30T19:11:18.000000Z"
+}
