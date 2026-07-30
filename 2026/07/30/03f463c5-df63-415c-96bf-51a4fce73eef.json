@@ -1,0 +1,22 @@
+{
+    "round_id": "03f463c5-df63-415c-96bf-51a4fce73eef",
+    "draw_title": "BEACH BINGO",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/beach-bingo",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "1b97909ccb73517c07889a45e92b724f9be21c369838fe2e8b2f6c22a91829ea",
+    "drand_seed_hash": "ac421af4ff7c1fbff89e445759c557715521a58928009f25472120cc1f3c7bc87efd30d6cf9d45cba7cd6cf59fe59278",
+    "client_seed": "1785434829761",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153958,
+    "max_tickets": 300000,
+    "combined_hash": "97ca8138b1b9965f314baa8f6cd8d45f7a1ab5387d09ab12620fe92b32389d9c",
+    "result": "30104",
+    "external_round_id": "30877157",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:07:09.000000Z",
+    "revealed_at": "2026-07-30T18:07:15.000000Z"
+}
