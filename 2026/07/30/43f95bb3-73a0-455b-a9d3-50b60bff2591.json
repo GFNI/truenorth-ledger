@@ -1,0 +1,22 @@
+{
+    "round_id": "43f95bb3-73a0-455b-a9d3-50b60bff2591",
+    "draw_title": "CRACK THE GOLD BANK VAULT – WIN £50 INSTANTLY",
+    "competition_url": "https://gbtester.rafflex.uk/admin/products/crack-the-gold-bank-vault-win-ps50-instantly-3",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://gbtester.rafflex.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "11ea19efcdfad87313d3c6fcc3378c3f9d14654d03873312d4fff0102d27b18a",
+    "drand_seed_hash": "87f4bad3994a681006938d9b56f7dd9f5a6cafe86e65a12aec7537585d7e04ad124e05a4882210c12547bf1c9cdba645",
+    "client_seed": "1785416021647",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "08d97267b8f338726c5c77859d1718769091b62bb63caa8a7a2f813471c0df41",
+    "result": "3",
+    "external_round_id": "30870888",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T12:53:41.000000Z",
+    "revealed_at": "2026-07-30T12:53:48.000000Z"
+}
