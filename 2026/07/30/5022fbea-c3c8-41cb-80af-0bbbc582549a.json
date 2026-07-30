@@ -1,0 +1,22 @@
+{
+    "round_id": "5022fbea-c3c8-41cb-80af-0bbbc582549a",
+    "draw_title": "Ry's Prize Plinko - £5,000 End Prize",
+    "competition_url": "https://ryscompetitions.com/admin/products/rys-prize-plinko-ps5000-end-prize",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "64be2729590bfbc1d9ab0a26317c2f902c56371609796caa0a18df0cc96af9a3",
+    "drand_seed_hash": "b9d00ebb9fe6b377b8dbe5e7393b215e1b2e1e5a76b770bcef585d3613d9cb4d585b476fec27bedec174166124f91f3f",
+    "client_seed": "1785442297292",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 442008,
+    "max_tickets": 800000,
+    "combined_hash": "c1044f0ea07c1e3f39b4271267f3a66d73242c205a9a99725aeb0969d6a244c2",
+    "result": "59586",
+    "external_round_id": "30879647",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T20:11:37.000000Z",
+    "revealed_at": "2026-07-30T20:11:45.000000Z"
+}
