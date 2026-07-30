@@ -1,0 +1,22 @@
+{
+    "round_id": "f34a249f-efc8-4147-9e08-d89224f19bcb",
+    "draw_title": "The BIG Cashcade",
+    "competition_url": "https://getluckycompetitions.co.uk/admin/products/the-big-cashcade",
+    "operator": {
+        "name": "Get Lucky Promotions Ltd",
+        "website": "https://get-lucky.rafflex.uk",
+        "company_number": "16790915"
+    },
+    "drand_server_seed": "9e314e02f8302d7486c91c557b9b0a0bf2c5cf2e2f647893bf193b4448ab75bc",
+    "drand_seed_hash": "9852405fda12273d7b0b9e13c977f40375595d3d4ac03502199c8d67a8b940f76e2d376531748d5e0b23ee593cb39b1e",
+    "client_seed": "1785445553283",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1164,
+    "max_tickets": 2500,
+    "combined_hash": "3ebc24df4a05e13b306415e21c529ac26303ded9e7f693d375cdec0a926453ad",
+    "result": "1655",
+    "external_round_id": "30880732",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T21:05:53.000000Z",
+    "revealed_at": "2026-07-30T21:06:00.000000Z"
+}
