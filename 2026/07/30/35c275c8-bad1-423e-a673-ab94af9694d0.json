@@ -1,0 +1,22 @@
+{
+    "round_id": "35c275c8-bad1-423e-a673-ab94af9694d0",
+    "draw_title": "WIN AU VODKA FULL FLAVOUR COLLECTION",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-au-vodka-full-flavour-collection",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "565ae7597e72eba399f9636525171051a0cb589e0dbb4ad31aa36ef5d31cfcf4",
+    "drand_seed_hash": "84174486ecd1f96b6d08459c589cf3feac39b85bef5a036b1bc68b410b239ad255c1a82241e84fb99aeda8243c0f73f0",
+    "client_seed": "1785434989164",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131,
+    "max_tickets": 299,
+    "combined_hash": "f7a65806df1f91754ceb63dc2c9ac434ada3dcb5b49a6007476b29573078e761",
+    "result": "205",
+    "external_round_id": "30877211",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:09:49.000000Z",
+    "revealed_at": "2026-07-30T18:09:57.000000Z"
+}
