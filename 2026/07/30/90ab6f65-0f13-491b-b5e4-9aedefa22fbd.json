@@ -1,0 +1,22 @@
+{
+    "round_id": "90ab6f65-0f13-491b-b5e4-9aedefa22fbd",
+    "draw_title": "👚 £500 PRIMARK SPENDS👖",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-primark-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4960fcdd17e4010891a54278b0288105cd5ceca4de1dce0327404f7eec9e6322",
+    "drand_seed_hash": "b7fa1384537ea8985c40673c636efc5f1e0c466ad15f3943c6a938cc65f153f337d6c298839940888878e19665086480",
+    "client_seed": "1785439150874",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1030,
+    "max_tickets": 1030,
+    "combined_hash": "17ddce6297ca20c69aa224c85edd0de20029eaa066fb9c2f88dd45f9123dbb0c",
+    "result": "984",
+    "external_round_id": "30878598",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:19:10.000000Z",
+    "revealed_at": "2026-07-30T19:19:18.000000Z"
+}
