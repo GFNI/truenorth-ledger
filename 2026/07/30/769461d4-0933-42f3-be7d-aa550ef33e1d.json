@@ -1,0 +1,22 @@
+{
+    "round_id": "769461d4-0933-42f3-be7d-aa550ef33e1d",
+    "draw_title": "pop ducks",
+    "competition_url": "https://jetcomps.co.uk/admin/products/popducks",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "94d52c8c60b003afb0ec67de1e8d6f5867cecc99468a67e15ae0a4cc5981e796",
+    "drand_seed_hash": "91d6a33b87b1805c79db89a1829c16c2d53d2a01d07f5a076b941d0e968c50cc9a0a41978a49ce0c20707e90b528031d",
+    "client_seed": "1785437746994",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30716,
+    "max_tickets": 46499,
+    "combined_hash": "5eda7916149cc33f0000c8014311329c2c56d32ca1b6b5aa6a5bf5640b65a290",
+    "result": "24120",
+    "external_round_id": "30878130",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:55:47.000000Z",
+    "revealed_at": "2026-07-30T18:55:54.000000Z"
+}
