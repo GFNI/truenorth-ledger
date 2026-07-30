@@ -1,0 +1,22 @@
+{
+    "round_id": "e16cd243-98c6-4bd7-bc86-7fac11296926",
+    "draw_title": "🎁£100 Supermarket Freebie!🎁",
+    "competition_url": "https://optimisedodds.com/admin/products/ps100-supermarket-freebie-2",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "a0cea6480dba686b93db7131cb68ae5bddc552b049dccd8af1035a91c4dfa74a",
+    "drand_seed_hash": "a7a508e9be8826b41ae46fa4f18b078618ed6f78fe654ad200eb268ec597b7b4fde8ac218bff936d522dcdfbac898f3b",
+    "client_seed": "1785445852686",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 115,
+    "combined_hash": "9e16ea68ec4f1c5b52fa191312266cdb3800f8255472354e631b662f5e7c8e73",
+    "result": "79",
+    "external_round_id": "30880832",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T21:10:52.000000Z",
+    "revealed_at": "2026-07-30T21:11:00.000000Z"
+}
