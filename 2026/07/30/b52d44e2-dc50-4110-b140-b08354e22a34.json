@@ -1,0 +1,22 @@
+{
+    "round_id": "b52d44e2-dc50-4110-b140-b08354e22a34",
+    "draw_title": "🪙Britannia 10g Gold Bullion Minted Bar🪙",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/britannia-10g-gold-bullion-minted-bar",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7a4b80753a14a2c254ca696b6833c5e823db600f6e59bfa4e6d9c8f88d6a9560",
+    "drand_seed_hash": "8ee22e6517a3a54f1b6afa7b1b391c5ff7cc7c757beffb9e0e2c2eec776d3d6ef334aff756ceb9e35bb8c75387fc5def",
+    "client_seed": "1785439301489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1510,
+    "max_tickets": 1790,
+    "combined_hash": "3a7ff2f58f7ff67d0911d5af6a6a78761cd7ee6b98d4ef99ff4b780bbf82a64d",
+    "result": "413",
+    "external_round_id": "30878648",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:21:41.000000Z",
+    "revealed_at": "2026-07-30T19:21:48.000000Z"
+}
