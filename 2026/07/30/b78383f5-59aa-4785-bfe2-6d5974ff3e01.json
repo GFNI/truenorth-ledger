@@ -1,0 +1,22 @@
+{
+    "round_id": "b78383f5-59aa-4785-bfe2-6d5974ff3e01",
+    "draw_title": "£200 RANDOM TICKET BUNDLE #1",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/ps200-random-ticket-bundle-1",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "29a9896e9f6b189d7d01919edcc0050804bdcd42bee7469129ebe5758664961f",
+    "drand_seed_hash": "ada18303d577c795822a031a89a9d5a82f188e56f6bb3225831e8e86a9b08fe468b50d922bfcb25ef931dccd94359a4d",
+    "client_seed": "1785442245131",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65,
+    "max_tickets": 300,
+    "combined_hash": "80683e028cfebdb599aa868b57fd9d4301e9020a89842f07839022ac2fad6a35",
+    "result": "117",
+    "external_round_id": "30879629",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T20:10:45.000000Z",
+    "revealed_at": "2026-07-30T20:10:51.000000Z"
+}
