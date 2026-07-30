@@ -1,0 +1,22 @@
+{
+    "round_id": "6f0f3eb3-9c10-4235-858a-b699da064adf",
+    "draw_title": "SNAKES ALIVE 55",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/snakes-alive-55",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "25289d11576b5cc0aca0d19add7cff429884639a1acbce2a6a8c0fa2f792023a",
+    "drand_seed_hash": "8e25b9f567782087463626cafad20f56818404258929748c8e3151cd91f3a498be8c3af64294b3821b50f7883024d990",
+    "client_seed": "1785440727204",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5396,
+    "max_tickets": 9999,
+    "combined_hash": "95cd2458dd6a5ec1bceb262f6e5bc0562b167e192c588b90680886f414ee4d8a",
+    "result": "4829",
+    "external_round_id": "30879123",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:45:27.000000Z",
+    "revealed_at": "2026-07-30T19:45:33.000000Z"
+}
