@@ -1,0 +1,22 @@
+{
+    "round_id": "03ac5e48-6b9f-459a-8eb4-0fdd9ba9327d",
+    "draw_title": "flash the cash merch bundle",
+    "competition_url": "https://flashthecash.co.uk/product/flash-the-cash-merch-bundle-win-a-hoody-and-water-bottle-for-just-50p/",
+    "operator": {
+        "name": "Flash The Cash LTD",
+        "website": "https://flashthecash.co.uk",
+        "company_number": "NI740773"
+    },
+    "drand_server_seed": "0f49e3322986dffad658663649136848c03a20640febdec027dfd8b9438cf7ec",
+    "drand_seed_hash": "a473cdf497f1d783abf71deaad902508347e47a441774d516ed5c74617b7641e5b24d10edd04366615ad295f89f940cc",
+    "client_seed": "1785437481695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200,
+    "combined_hash": "bb849b60328cd56c1a588e304d31b559c4006122ecdac88a1e8a697e56b0f287",
+    "result": "196",
+    "external_round_id": "30878041",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:51:21.000000Z",
+    "revealed_at": "2026-07-30T18:51:31.000000Z"
+}
