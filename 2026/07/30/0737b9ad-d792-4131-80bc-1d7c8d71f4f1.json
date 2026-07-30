@@ -1,0 +1,22 @@
+{
+    "round_id": "0737b9ad-d792-4131-80bc-1d7c8d71f4f1",
+    "draw_title": "Andrex 72",
+    "competition_url": "https://jetcomps.co.uk/admin/products/andrex-72-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "32633dc8c7aa79b93059ff39a7ff7315ca2dfdc160203ee757c11e0c234576e5",
+    "drand_seed_hash": "b8436b7bf1ecb6d0135384fd5b3a5d43c9eb79140a04b4e90c42ecf3b171f5594adf9061123ddb32606abbb2121c9f15",
+    "client_seed": "1785439430705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1562,
+    "max_tickets": 2475,
+    "combined_hash": "b9a6df2c541bb137dfa8ebd7e91db678b9f97d51b7c39bb14d53a6e0aaba9f12",
+    "result": "1789",
+    "external_round_id": "30878691",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:23:50.000000Z",
+    "revealed_at": "2026-07-30T19:23:57.000000Z"
+}
