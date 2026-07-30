@@ -1,0 +1,22 @@
+{
+    "round_id": "868d253c-b78b-48d3-9de1-3a8d3c65c912",
+    "draw_title": "The Daily Vault 🔐",
+    "competition_url": "https://theprizevault.co.uk/admin/products/the-daily-vault-5",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "bfd6b70a0eb88771fb02b2faf8d4ac3648908d1f43e025dcdcdb4b59a8b91440",
+    "drand_seed_hash": "aa1321595e55bebd50ee891707421564c59783f774bbe3ab33d02fdfb0ed9ad217155805cde8aa1c5fea61aba876fd00",
+    "client_seed": "1785438678802",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 200,
+    "combined_hash": "76cc832c22adcbd80c46c9e763bfd92b8baf13dde95a669fbad9c2c591a070d1",
+    "result": "63",
+    "external_round_id": "30878440",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:11:18.000000Z",
+    "revealed_at": "2026-07-30T19:11:24.000000Z"
+}
