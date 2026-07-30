@@ -1,0 +1,22 @@
+{
+    "round_id": "575969bb-6c3d-4250-b579-d9d8cbd6fee4",
+    "draw_title": "Deans Bundles Bazaar MINI GAME ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/deans-bundles-bazaar-mini-game-4",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "c86dd2bbcd388678b8f65cb6fca393ace4067ed85a603aca0ea1f5fb9353b714",
+    "drand_seed_hash": "aa57f68f5a4e9ab79e628d59bf9dd1f12ec365f21f0658cf6eb534abc5126adfe2e2705d4949d5908ba7805ae8e77cb4",
+    "client_seed": "1785441344894",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "245cac3b50ec5fb1e82d4c27227e84f0e7097fb00082da6c8d8b33b09cf7b8d1",
+    "result": "75",
+    "external_round_id": "30879329",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:55:44.000000Z",
+    "revealed_at": "2026-07-30T19:55:51.000000Z"
+}
