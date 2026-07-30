@@ -1,0 +1,22 @@
+{
+    "round_id": "44a587b8-eda2-4c4e-b9f9-f7f833a3e357",
+    "draw_title": "🍨 Ninja CREAMi Scoop and Swirl Ice Cream Machine 🍨",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-creami-scoop-and-swirl-ice-cream-machine",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "dfdf08fa3443ace9c72ff577044eaea6f06eab513c155167f91e1a5d8c4c6f6f",
+    "drand_seed_hash": "9215a806d8135159ba24b1b746eef5408741cb71483230805f7164d0eb7ee877453ff574c6dc7ef20e575480de779f4a",
+    "client_seed": "1785439358913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 780,
+    "max_tickets": 780,
+    "combined_hash": "e760074c7e6ee5f77c2dcd055fa2c79575832a38d113c6974503802b926734a7",
+    "result": "36",
+    "external_round_id": "30878667",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T19:22:38.000000Z",
+    "revealed_at": "2026-07-30T19:22:45.000000Z"
+}
