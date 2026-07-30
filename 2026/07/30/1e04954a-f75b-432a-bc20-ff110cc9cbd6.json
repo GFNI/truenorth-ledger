@@ -1,0 +1,22 @@
+{
+    "round_id": "1e04954a-f75b-432a-bc20-ff110cc9cbd6",
+    "draw_title": "HUGE BLOSSOM CHERRY BUNNY JELLYCAT",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/huge-blossom-cherry-bunny-jellycat",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "7dfed8034265a1dadc5fb77f8a70146cc39bf66d695c3d986d73547af8af79ed",
+    "drand_seed_hash": "a4892b3dc24bee2677f0b900a2d966282ad22cc3114a01d57ba85e8b04089309f9dd3e147676ec180bc8acb6b9eba202",
+    "client_seed": "1785436905472",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 199,
+    "max_tickets": 199,
+    "combined_hash": "67a17eec1a7a1414fc41f67250e476995da2220ee3bfc28cf48bc65cdc8dbf56",
+    "result": "132",
+    "external_round_id": "30877849",
+    "processing_status": "completed",
+    "created_at": "2026-07-30T18:41:45.000000Z",
+    "revealed_at": "2026-07-30T18:41:51.000000Z"
+}
