@@ -1,0 +1,22 @@
+{
+    "round_id": "dbbc5048-9a24-4cb5-9ff4-16bbfae23254",
+    "draw_title": "Drop the Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/drop-the-doe-plinko",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "5eb1222fb85460a3adcdcd35d8a20a16cd4bd7ae9198c4c2ccbafde3dd49c23e",
+    "drand_seed_hash": "aaffdc581e4a8d1bd89b02dbfab7b1ff77e269b8726b2d1ba48a3f7f2e413c886fcd45bf5939081b6e41fa46d461a3ae",
+    "client_seed": "1785525157346",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1240,
+    "max_tickets": 3800,
+    "combined_hash": "afb2dea456a07e2952a68311d41a91092f8ac69694759e056e7f3cbc8a6124d9",
+    "result": "160",
+    "external_round_id": "30907267",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:12:37.000000Z",
+    "revealed_at": "2026-07-31T19:12:45.000000Z"
+}
