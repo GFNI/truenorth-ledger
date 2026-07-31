@@ -1,0 +1,22 @@
+{
+    "round_id": "f650920b-c2d5-47dd-b58d-371fd6413471",
+    "draw_title": "Extra Doe Pot Smash + £50 end prize",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/extra-doe-pot-smash-ps50-end-prize-2",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "076183c38ac2431b0af7f60cf5b049f10bfa50274eff79fa5b250092a52dc307",
+    "drand_seed_hash": "b03c2bc87d4fea4e94a0127a638ebb8ebe15c746739ab7eb5acb1eb30956fd04b8df264bc7d8ce13d94a80b9b5adaa29",
+    "client_seed": "1785525165541",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 429,
+    "max_tickets": 1150,
+    "combined_hash": "fa3e4d04b11357fc818d17efd168c934ab6a4b109c81bdf3a1efbbded10306da",
+    "result": "709",
+    "external_round_id": "30907269",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:12:45.000000Z",
+    "revealed_at": "2026-07-31T19:12:51.000000Z"
+}
