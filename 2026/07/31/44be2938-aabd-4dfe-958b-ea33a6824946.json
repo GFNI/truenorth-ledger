@@ -1,0 +1,22 @@
+{
+    "round_id": "44be2938-aabd-4dfe-958b-ea33a6824946",
+    "draw_title": "The £35,000 Credit Instant Win + £500 Credit Auto End Draw No.2",
+    "competition_url": "https://theprizeplay.com/admin/products/the-ps35000-credit-instant-win-ps500-credit-auto-end-draw-no2",
+    "operator": {
+        "name": "The Prize Play Competitions Ltd",
+        "website": "https://theprizeplay.com",
+        "company_number": "15112995"
+    },
+    "drand_server_seed": "2541fa105423fbb96c563889ea781a253b95f4f0141306250d8156a3fd144a3a",
+    "drand_seed_hash": "856bc424a082316e37f9e393ba1fb0caf09a9bb4eeede0401bde68453c989a59969805fe9db25764ec06a001d883d3bd",
+    "client_seed": "1785525081700",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 975,
+    "max_tickets": 100000,
+    "combined_hash": "df8b62da42d485d44dacca7ec3d15bf279abf8bae87e916eb330a4aff08e2a98",
+    "result": "91424",
+    "external_round_id": "30907241",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:11:21.000000Z",
+    "revealed_at": "2026-07-31T19:11:27.000000Z"
+}
