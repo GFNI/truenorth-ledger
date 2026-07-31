@@ -1,0 +1,22 @@
+{
+    "round_id": "fc19cebb-d600-4859-9cce-8889103ee6c9",
+    "draw_title": "Win £1000 + Instant Wins up to £250!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/win-ps1000-instant-wins-up-to-ps250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "2ad0f81bb99fbdeb36ea296eaf51f33a2be8a8b245a1f728d589241c4ce882e0",
+    "drand_seed_hash": "97d2e403a57b5dea1bc838b36660a2e22633ce8c2f54f13e51086143dca85215a7fad1cf8249249a054c98b3f151f5da",
+    "client_seed": "1785526450344",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3566,
+    "max_tickets": 8000,
+    "combined_hash": "c63de674916dad4d0b695f300113e3477624f3062cd5c9576818af127877ba55",
+    "result": "6151",
+    "external_round_id": "30907698",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:34:10.000000Z",
+    "revealed_at": "2026-07-31T19:34:18.000000Z"
+}
