@@ -1,0 +1,22 @@
+{
+    "round_id": "5e10b502-3608-4936-acd6-b80294d1d49a",
+    "draw_title": "Epic Toy Story 50K Slots",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-toy-story-50k-slots",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e2c27ad69117d52231d30f5cfbff1e263d08ee37cef2769f36c8989b06e5a90a",
+    "drand_seed_hash": "8aa52ebbc2070aadcd4235f4b12cdde8c06dfd786612fc320db6bc9c8dfba8591cbfcf8fb75b30ef0f12531827c6579f",
+    "client_seed": "1785532046109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11666,
+    "max_tickets": 200000,
+    "combined_hash": "bae42f8f94d6ff3a7fd2851233ea7279e837d9b101387f02a61c00964197f6a9",
+    "result": "80635",
+    "external_round_id": "30909563",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T21:07:26.000000Z",
+    "revealed_at": "2026-07-31T21:07:33.000000Z"
+}
