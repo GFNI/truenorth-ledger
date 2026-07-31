@@ -1,0 +1,22 @@
+{
+    "round_id": "ed1c56b8-6ecc-4b9f-a681-1f65a4d77c87",
+    "draw_title": "WIN A FREE FAMILY PASS TO THE URBAN TRIAL! See world class riders up close in the midlands!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-free-family-pass-to-the-urban-trial-see-world-class-riders-up-close",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "0d8e536ae2961e6f3da9b3a7ea1c333acd83f04d45100443758433614d61abd2",
+    "drand_seed_hash": "a322900d20503a1b50e742094de996952c92c0d4cbbb62dfd29db3b09cb6ccfdc123cb779b8c83d4dae7bf60eb8bbbdb",
+    "client_seed": "1785528684572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 68,
+    "max_tickets": 999,
+    "combined_hash": "4b1b8afef08fcdc3493e9a70dd29d8053c46cab2bc63d0c2d8c03f08f126e555",
+    "result": "558",
+    "external_round_id": "30908442",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:11:24.000000Z",
+    "revealed_at": "2026-07-31T20:11:30.000000Z"
+}
