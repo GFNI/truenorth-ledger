@@ -1,0 +1,22 @@
+{
+    "round_id": "e6b6555d-0d56-41fe-8e7f-58db77ac0c6e",
+    "draw_title": "TARGET JAPAN - INSTANT WIN",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/target-japan-instant-win",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "517444c71a2f5394d0d15dc941047d8a812cbadfc7cb5bf7709783180e377235",
+    "drand_seed_hash": "80ba0dfc15d28000f9ff8f763629e66f95afaa3d1353c3e50376d903d81530c7ae1b6420a8a5c866abbeb9189afd5cd7",
+    "client_seed": "1785528664038",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 226,
+    "max_tickets": 19999,
+    "combined_hash": "c00b23cdb58d75d4867b1fff5a398d0987c1026c9da36a767c794b2f3727e8ed",
+    "result": "18138",
+    "external_round_id": "30908436",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:11:04.000000Z",
+    "revealed_at": "2026-07-31T20:11:12.000000Z"
+}
