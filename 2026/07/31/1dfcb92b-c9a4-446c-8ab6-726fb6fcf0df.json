@@ -1,0 +1,22 @@
+{
+    "round_id": "1dfcb92b-c9a4-446c-8ab6-726fb6fcf0df",
+    "draw_title": "The 2p Lucky Dip",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-2p-lucky-dip",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "99e4bddd6e4b3ad40ad2704507eecfd3f2588e2c92cf1db8d022b2eec97d162a",
+    "drand_seed_hash": "9640d8831286e03370eadc3609c66f50a7df419e68fa6682d03b92e783fb9bfb485605081bc07f5cb22a86e682cfa8f6",
+    "client_seed": "1785540518084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 249057,
+    "max_tickets": 750000,
+    "combined_hash": "6d88d9a5c18504800e1b58e9a18b6b320952278a5a0d3ef1a96a851f54a26229",
+    "result": "746878",
+    "external_round_id": "30912387",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T23:28:38.000000Z",
+    "revealed_at": "2026-07-31T23:28:45.000000Z"
+}
