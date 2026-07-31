@@ -1,0 +1,22 @@
+{
+    "round_id": "faaab009-c860-43a3-833f-ea9dbbae43a7",
+    "draw_title": "Ascended Heroes Collection Box x 3",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ascended-heroes-collection-box-x-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "3cdf5551888b43508177ac6d3c49cc224a6748297ef3140d4da60b45d55bfeea",
+    "drand_seed_hash": "b0024c464ad8c184171450337b409dfdef246f16508a34b8b9f8e4abaa5a084d5f47b66b510a1eab5f9f7517273a4d19",
+    "client_seed": "1785532242694",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 300,
+    "combined_hash": "e24004ba92ac949b412d6bddfca07c88b4ee003fa9a63e0a3e1aa654f3dd5f71",
+    "result": "31",
+    "external_round_id": "30909628",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T21:10:42.000000Z",
+    "revealed_at": "2026-07-31T21:10:48.000000Z"
+}
