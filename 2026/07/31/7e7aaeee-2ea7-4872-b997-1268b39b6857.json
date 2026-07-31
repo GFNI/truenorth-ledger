@@ -1,0 +1,22 @@
+{
+    "round_id": "7e7aaeee-2ea7-4872-b997-1268b39b6857",
+    "draw_title": "🧊Plinko Pond 🕹️ - £500 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/plinko-pond-ps500-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "f6dd13351e91b2b8335ecb653a59cc521956f6ae9c4f16d60997951461a7c2b9",
+    "drand_seed_hash": "8fd919741a57c4c84f0123c593df99130512c501ce95fe23ab569a69b37e212cabe227aba3be5d8ed68407b92e84063e",
+    "client_seed": "1785532257906",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 133401,
+    "max_tickets": 1100000,
+    "combined_hash": "f0163099d6e5891f0789501f3d2a828e84385972a11f4658f5220d8ac34a8bfa",
+    "result": "465649",
+    "external_round_id": "30909633",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T21:10:57.000000Z",
+    "revealed_at": "2026-07-31T21:11:03.000000Z"
+}
