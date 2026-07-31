@@ -1,0 +1,22 @@
+{
+    "round_id": "ae2225f4-4504-45d1-8901-241666e5a625",
+    "draw_title": "Just for YOU! (DRAW #16)",
+    "competition_url": "https://fireprizes.co.uk/admin/products/just-for-you-draw-16",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "9ffb571d41c0377ab5031e845676a537b914c19f34f2ffb52f2b7833839d1e98",
+    "drand_seed_hash": "86c16a4d3616275de34217ceeeb2b9b3e8a1e636e63879db41318b13b40891f9ce54ae4a5c0d4d6eedf653c156eb0b9a",
+    "client_seed": "1785539445537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6863,
+    "max_tickets": 1000000,
+    "combined_hash": "34b61c1a8ca655065340b0c06a3371eeaee4108fc6851e6d17f71a111153c477",
+    "result": "89269",
+    "external_round_id": "30912029",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T23:10:45.000000Z",
+    "revealed_at": "2026-07-31T23:10:51.000000Z"
+}
