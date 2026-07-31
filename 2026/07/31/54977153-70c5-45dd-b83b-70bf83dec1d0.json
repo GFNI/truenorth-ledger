@@ -1,0 +1,22 @@
+{
+    "round_id": "54977153-70c5-45dd-b83b-70bf83dec1d0",
+    "draw_title": "Smash & Grab",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/smash-grab",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "4da1554cc276b2f4be6143425602aa3d936e526adc340108f5a39adfa44ace4f",
+    "drand_seed_hash": "97d274b1030ce189797b7323f9e35e66a535af2bdf40a53da296a0137c3884fe1d147155687cc9bf2fe1869e002e7e6a",
+    "client_seed": "1785535838991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17860,
+    "max_tickets": 110000,
+    "combined_hash": "cfaeacf038a4b01aa4fd486dc012ac8acb63a3579cd3c619fb89a02143e3aad9",
+    "result": "78784",
+    "external_round_id": "30910827",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T22:10:39.000000Z",
+    "revealed_at": "2026-07-31T22:10:45.000000Z"
+}
