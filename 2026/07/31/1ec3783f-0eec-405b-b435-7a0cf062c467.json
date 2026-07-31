@@ -1,0 +1,22 @@
+{
+    "round_id": "1ec3783f-0eec-405b-b435-7a0cf062c467",
+    "draw_title": "🐸FREDDO FIVES - INSTANT WIN🐸 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/freddo-fives-instant-win-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "67094961a9a9c1e60745758ebd99fa383763aa98011c8ad1aa282a297443ce83",
+    "drand_seed_hash": "b55282337dfd8b2b6e52bebd71a703a79bf562525213679b605f147ca72999d654ed4c7f1fa0a032d9fa302abbb31db7",
+    "client_seed": "1785528643009",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 568928,
+    "max_tickets": 800000,
+    "combined_hash": "a3cd049ca74e66000be952d9d697caf1801ef336e3eb97285974fa969b205e25",
+    "result": "760484",
+    "external_round_id": "30908429",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:10:43.000000Z",
+    "revealed_at": "2026-07-31T20:10:51.000000Z"
+}
