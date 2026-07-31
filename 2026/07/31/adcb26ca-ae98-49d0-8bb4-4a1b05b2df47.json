@@ -1,0 +1,22 @@
+{
+    "round_id": "adcb26ca-ae98-49d0-8bb4-4a1b05b2df47",
+    "draw_title": "Wonka Golden Ticket Every Ticket Wins",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/wonka-golden-ticket-every-ticket-wins",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2caa9354cc0684734089cef1bc7f7262edb63b878fe392be35c7c6bb3abbc4d8",
+    "drand_seed_hash": "b542ce3e7fdebb9df7c61ac8a3df2e25107b83182583190257d8f0e87f9eb1bf9eebe92b07d16b1dc043da5c55c463d5",
+    "client_seed": "1785531870446",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3735,
+    "max_tickets": 30000,
+    "combined_hash": "90276ff5eb767f3c2f6d716551de8d680b01b8cd9b1f8899756d03e38e8191a6",
+    "result": "22545",
+    "external_round_id": "30909504",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T21:04:30.000000Z",
+    "revealed_at": "2026-07-31T21:04:36.000000Z"
+}
