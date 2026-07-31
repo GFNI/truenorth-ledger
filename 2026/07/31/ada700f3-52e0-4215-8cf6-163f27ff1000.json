@@ -1,0 +1,22 @@
+{
+    "round_id": "ada700f3-52e0-4215-8cf6-163f27ff1000",
+    "draw_title": "Mega Slots! £100 Cash End Prize Plus Instant Wins!",
+    "competition_url": "https://skrcompetitions.co.uk/admin/products/mega-slots-ps100-cash-end-prize-plus-instant-wins",
+    "operator": {
+        "name": "SKR Competitions",
+        "website": "https://skrcompetitions.co.uk",
+        "company_number": "17230850"
+    },
+    "drand_server_seed": "edf320de29227ca832fac470b2533efab4a0b53abbaf0a4b03b76a8a2acd5a56",
+    "drand_seed_hash": "827571487bf5f97324354c794f05010f8f55713c8844f86a0d5ba89e99ea92d73640a41f9956ab9fa1463070de1e24dc",
+    "client_seed": "1785528679537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 210,
+    "max_tickets": 10000,
+    "combined_hash": "ee1fd0e3400acd076edce5c9213165be35950d052b88c74c38385b99a521f2f5",
+    "result": "7695",
+    "external_round_id": "30908440",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:11:19.000000Z",
+    "revealed_at": "2026-07-31T20:11:24.000000Z"
+}
