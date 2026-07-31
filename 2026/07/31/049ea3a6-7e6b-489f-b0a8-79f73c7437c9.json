@@ -1,0 +1,22 @@
+{
+    "round_id": "049ea3a6-7e6b-489f-b0a8-79f73c7437c9",
+    "draw_title": "Take Your Pick Hydro 01, 02 or 03",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/take-your-pick-hydro-01-02-or-03-2",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "9baab3c00a7e69acf06ad790c8d43df0b5b8392cbcfcb1ff6d29cb6f1b1a4928",
+    "drand_seed_hash": "993cb92b4d8b8ea4d26e98843d062d2dc0ad3e462fcea5f6c6813f035cd00a15c0494ef7138dfccb53f586fb460b8f7f",
+    "client_seed": "1785525057542",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 300,
+    "combined_hash": "ecae58d47440538cb3be9964b139d762a8b0e2412b9cbb23cbfdf34d8c521618",
+    "result": "141",
+    "external_round_id": "30907233",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:10:57.000000Z",
+    "revealed_at": "2026-07-31T19:11:03.000000Z"
+}
