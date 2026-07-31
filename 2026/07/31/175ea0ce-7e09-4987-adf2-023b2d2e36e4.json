@@ -1,0 +1,22 @@
+{
+    "round_id": "175ea0ce-7e09-4987-adf2-023b2d2e36e4",
+    "draw_title": "Under The Sea Slots",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/under-the-sea-slots",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "918362ce3cb41081bb2b002835784bd7a25baa7432e8e2832fa471ae47c512d3",
+    "drand_seed_hash": "a1c0e9a0658e326144b83fcbfd141d24baaea93e2032e8232107b48a2ea30d79227f7ca79b3668403fd8d9631d5b5d8d",
+    "client_seed": "1785525064491",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3801,
+    "max_tickets": 39999,
+    "combined_hash": "658b78d0d9bbcdaa798a37815d931807cbc28a36c4433dbfe4db7b7f97312fe9",
+    "result": "8375",
+    "external_round_id": "30907236",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:11:04.000000Z",
+    "revealed_at": "2026-07-31T19:11:12.000000Z"
+}
