@@ -1,0 +1,22 @@
+{
+    "round_id": "bc60d9eb-2810-4e97-a690-d93dfe8571a8",
+    "draw_title": "Bonk Machine £500 END PRIZE",
+    "competition_url": "https://a9competitions.co.uk/admin/products/bonk-machine-ps500-end-prize-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "9c416ac299f89e668c6324d8ec6d24e452d385f05e96d74da24809b2fdab979f",
+    "drand_seed_hash": "9059d8b1064d14758b8e59e5c91fedf19286ed737d433fc7847c8d10371363cadb11a680bc60ca470e3129dadfbfd129",
+    "client_seed": "1785530043277",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16539,
+    "max_tickets": 80000,
+    "combined_hash": "16241dfe18846f24aa1ece2172b0156ab9e2786ebb0819c55f383123be79f2ec",
+    "result": "42647",
+    "external_round_id": "30908895",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T20:34:03.000000Z",
+    "revealed_at": "2026-07-31T20:34:09.000000Z"
+}
