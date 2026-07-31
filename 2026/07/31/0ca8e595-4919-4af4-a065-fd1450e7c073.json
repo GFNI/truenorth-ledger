@@ -1,0 +1,22 @@
+{
+    "round_id": "0ca8e595-4919-4af4-a065-fd1450e7c073",
+    "draw_title": "WIN! THE NEW SHOT ZEN TURBO POINT DARTS INSTANT + END PRIZE!! *LIVE DRAW*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-the-new-shot-zen-turbo-point-darts-instant-end-prize-live-draw",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "15b032d2567e5d0bd4cc3f26d8557e8ff704d8bef6245437112b145e5d2f71d4",
+    "drand_seed_hash": "8e68dac5f4b9fe1bb34a62a53814519ed2579bbfb9769f5154ccb3abfaba89da1971155f3b076eb95da2406c91b1ed43",
+    "client_seed": "1785525945653",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 108,
+    "max_tickets": 1999,
+    "combined_hash": "eb8a9a7b021f0cc62776bc87f213c6963b5da9a583bd430dab87ea85f0c5ec88",
+    "result": "1057",
+    "external_round_id": "30907529",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T19:25:45.000000Z",
+    "revealed_at": "2026-07-31T19:25:53.000000Z"
+}
