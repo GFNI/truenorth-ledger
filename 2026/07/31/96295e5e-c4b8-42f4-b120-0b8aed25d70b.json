@@ -1,0 +1,22 @@
+{
+    "round_id": "96295e5e-c4b8-42f4-b120-0b8aed25d70b",
+    "draw_title": "FRIDAY CASH DASH SLOTS! £1K MAIN PRIZE! WIN UP TO £500 INSTANTLY!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/friday-cash-dash-slots-ps1k-main-prize-win-up-to-ps500-instantly",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "cd6b7080a7f2f1bfba8c20a092bf4e0261ca78cda5b4f6ed449eb35fc9190e77",
+    "drand_seed_hash": "925029f886642475505f7df1fb5b73ce1794edc833f87f3d9c64e85f49c28897515c7a7663349da69c90b8ccd33d6695",
+    "client_seed": "1785532249272",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25323,
+    "max_tickets": 110000,
+    "combined_hash": "84fba9f6d061fd1c18a288c645dcbd71f07059bd886449d7157a6296e57efd79",
+    "result": "25109",
+    "external_round_id": "30909631",
+    "processing_status": "completed",
+    "created_at": "2026-07-31T21:10:49.000000Z",
+    "revealed_at": "2026-07-31T21:10:57.000000Z"
+}
