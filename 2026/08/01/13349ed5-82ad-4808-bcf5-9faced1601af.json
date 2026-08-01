@@ -1,0 +1,22 @@
+{
+    "round_id": "13349ed5-82ad-4808-bcf5-9faced1601af",
+    "draw_title": "Chaotic On The Moon",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-on-the-moon-2616",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e4d2bd97c8f4855c74f1e824438c8510e36d6f35454fbca9a808d1bafd8ac1a6",
+    "drand_seed_hash": "b4ef94976d353e9659df1ed685489b37594bc97648784b686ae7beddede5448bc3a4e063f6ef212138323f7850d187ca",
+    "client_seed": "1785614094297",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "890ca99a186d349313d4f9900ff144e34fdb885310edfe1ade4cf4e77f57fb14",
+    "result": "58",
+    "external_round_id": "30936912",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T19:54:54.000000Z",
+    "revealed_at": "2026-08-01T19:55:00.000000Z"
+}
