@@ -1,0 +1,22 @@
+{
+    "round_id": "b3354486-f233-4de3-9e74-e1356b6650c1",
+    "draw_title": "£100 Food Shop or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/ps100-food-shop-or-cash-3811",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ec5be8d5d3f46e3c7b0aef79c94f1c2dc099d1388ea526d8bad2f8a6b7f9d094",
+    "drand_seed_hash": "b7c476ecfd48cadec4b697e5c9745fb98fc4107c0ca765bedc1295af0b904960f343f48f2965ec2491dd4ce20e691cd8",
+    "client_seed": "1785614409429",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4500,
+    "max_tickets": 4500,
+    "combined_hash": "0afba83a3faea742f0254902c8c253215372006bfecb8915da6b1592fa0a8a68",
+    "result": "2843",
+    "external_round_id": "30937017",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T20:00:09.000000Z",
+    "revealed_at": "2026-08-01T20:00:15.000000Z"
+}
