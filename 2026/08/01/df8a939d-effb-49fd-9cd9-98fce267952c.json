@@ -1,0 +1,22 @@
+{
+    "round_id": "df8a939d-effb-49fd-9cd9-98fce267952c",
+    "draw_title": "Balls Bingo",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/balls-bingo",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "1bf1661e6ddac5e8fed1a4eda4d78536bfbb94c91ff139d6a8c79b5ae123cb8e",
+    "drand_seed_hash": "a958ce59fc232872a5cdf33cc12612ea4a333a5e982270d4d77739a2f31dda2694568e9e2340f63e4cbab2cceb373c65",
+    "client_seed": "1785611440189",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4094,
+    "max_tickets": 49494,
+    "combined_hash": "c3be3394dc66d3ed42c82b520860066e4eb62f789d54d358d721661d8de6bbd6",
+    "result": "38556",
+    "external_round_id": "30936028",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T19:10:40.000000Z",
+    "revealed_at": "2026-08-01T19:10:48.000000Z"
+}
