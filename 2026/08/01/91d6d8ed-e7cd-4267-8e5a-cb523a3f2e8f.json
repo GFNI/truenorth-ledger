@@ -1,0 +1,22 @@
+{
+    "round_id": "91d6d8ed-e7cd-4267-8e5a-cb523a3f2e8f",
+    "draw_title": "🔴NEW SUPER SATURDAY £10K",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-super-saturday-ps10k",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "bb5002eb7c0e33295780dd56be52412b25738889413755a5fbef9633f2128831",
+    "drand_seed_hash": "8d41c4d30fd4f003e611bca666d5951120d978ec124420c25e5bfbf326aaab7d7977d188f6ba40d95ddfa4f6bef6afeb",
+    "client_seed": "1785615797329",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75000,
+    "max_tickets": 75000,
+    "combined_hash": "cc87204cddea9049f4116ae547206567ae7b72a10b944679f65ab580501b5810",
+    "result": "25333",
+    "external_round_id": "30937480",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T20:23:17.000000Z",
+    "revealed_at": "2026-08-01T20:23:24.000000Z"
+}
