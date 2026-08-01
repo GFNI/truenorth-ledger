@@ -1,0 +1,22 @@
+{
+    "round_id": "4c7d9373-26d5-4468-8388-0bcb92317e0e",
+    "draw_title": "Summer Holidays Stay Hydrated Bundle",
+    "competition_url": "https://chaotic.co.uk/competition/summer-holidays-stay-hydrated-bundle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "378aad551977d479eedfb5d0358fc965c22d19683b4ec3639872ac92fd77da89",
+    "drand_seed_hash": "b8979db9a7b879fb2d6b7ca53482aaac0d717defbb4b03767713a10d0691bd3deb20757c11fde94506e096c549becb07",
+    "client_seed": "1785613028461",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "a90a038c511416c9a199aefe320562db72c434d4a1c83f49d2c73faa05030abf",
+    "result": "578",
+    "external_round_id": "30936557",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T19:37:08.000000Z",
+    "revealed_at": "2026-08-01T19:37:15.000000Z"
+}
