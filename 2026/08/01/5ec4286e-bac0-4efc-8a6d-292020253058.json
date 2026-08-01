@@ -1,0 +1,22 @@
+{
+    "round_id": "5ec4286e-bac0-4efc-8a6d-292020253058",
+    "draw_title": "GEM TESTER",
+    "competition_url": "https://gbtester.rafflex.uk/admin/products/tester123",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://gbtester.rafflex.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c76cd1705cd2fc375f0a25847d704cbf6e7be8c81161a9980848da971ea68fcc",
+    "drand_seed_hash": "96d023332277803c498bfb1abfc3c8952c51a269e8eec92d18847ff276e589ef40b7028cb5da1cf68ba9973ac3c227b3",
+    "client_seed": "1785579439090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "9b306bcc0c8573bbb8da3ec774050b51d81ed1c1de0f3b398543d7238db58d02",
+    "result": "10",
+    "external_round_id": "30925361",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T10:17:19.000000Z",
+    "revealed_at": "2026-08-01T10:17:27.000000Z"
+}
