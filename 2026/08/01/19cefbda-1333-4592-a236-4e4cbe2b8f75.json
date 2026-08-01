@@ -1,0 +1,22 @@
+{
+    "round_id": "19cefbda-1333-4592-a236-4e4cbe2b8f75",
+    "draw_title": "£20,000 OF PRIZES TO BE WON INSTANTLY - 3P TO ENTER! 01/08",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps20000-of-prizes-to-be-won-instantly-3p-to-enter-0108",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "74e7a373937ad6bb4665603dbaa11c53a7cd1e9973da5f278715608604f058d1",
+    "drand_seed_hash": "a4018fe8aebfcd4e3d0df62abf619699b4d3c6a15ee9a1d0bae3eb19257d156f1744c1e7d04b27567050ab1ee38338e0",
+    "client_seed": "1785624045576",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 219867,
+    "max_tickets": 1500000,
+    "combined_hash": "817c11e0bf097fe1b9bdbe529ef29c2596410b0b675771c71d468b88ac3c5f2d",
+    "result": "242370",
+    "external_round_id": "30940229",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T22:40:45.000000Z",
+    "revealed_at": "2026-08-01T22:40:51.000000Z"
+}
