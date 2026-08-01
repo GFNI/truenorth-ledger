@@ -1,0 +1,22 @@
+{
+    "round_id": "82133bf6-5efa-4751-82de-0d9d66cd6755",
+    "draw_title": "First Partner Illustration Collection Series 2 (LOW ODDS) #1 - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/first-partner-illustration-series-2-collection-low-odds-3-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "407b64b57b8e01936c6e4e7396fcc380218ec4df87cb5db4e200c0252130722c",
+    "drand_seed_hash": "b60abdd781d734d3f7280ee8716649ccc32a4cd9f5f6f006e5ed8aaefa7ba25c843b66ade3baf4b58ec0f81cbdf25bd6",
+    "client_seed": "1785611469499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 70,
+    "combined_hash": "23d8db92cb6c322bccba4e3f0f40bfc3b68c300797f205c65587dc3ab3a5d885",
+    "result": "42",
+    "external_round_id": "30936037",
+    "processing_status": "completed",
+    "created_at": "2026-08-01T19:11:09.000000Z",
+    "revealed_at": "2026-08-01T19:11:15.000000Z"
+}
