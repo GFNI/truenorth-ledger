@@ -1,0 +1,22 @@
+{
+    "round_id": "d2f04ca8-701f-4e22-8878-e4009c47d53c",
+    "draw_title": "PENGUIN PENNIES - £250 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/penguin-pennies",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "c6613cac0d7c12c857b3b78414f3e33246ce081e67276d63e0facc1b62badfa4",
+    "drand_seed_hash": "af33f1ac690b7c64433c47ea93a59e367d3ef7a1cc331804c4e0059a541153f9c6642282164eadbe17bc264ffcc1390b",
+    "client_seed": "1785702405712",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 326644,
+    "max_tickets": 640000,
+    "combined_hash": "2f0130123dff7819395e27912db3388208994f8b60778628aaef7c530ed1bdd2",
+    "result": "495920",
+    "external_round_id": "30966349",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:26:45.000000Z",
+    "revealed_at": "2026-08-02T20:26:51.000000Z"
+}
