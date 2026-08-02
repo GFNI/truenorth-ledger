@@ -1,0 +1,22 @@
+{
+    "round_id": "8a0abba4-4cf4-401e-a6c3-cec95b700eb2",
+    "draw_title": "SUPER SEVENS CASH DROP",
+    "competition_url": "https://easybigwins.co.uk/admin/products/super-sevens-cash-drop",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "1d168f66239e776681c0a89643c15c8aabdf1985eae022f681907ec4484e3ebd",
+    "drand_seed_hash": "90ab1fbbd5d78af1beb0b8c21ae3c309a4b416dfa50e1050096ebd51059e66c4c0d6b59cd18536c5e5151e2c779a34fe",
+    "client_seed": "1785702499402",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58885,
+    "max_tickets": 250000,
+    "combined_hash": "9d069d036543c1d34891b5463711389acd7f722353bac520b15a4f496231b045",
+    "result": "122494",
+    "external_round_id": "30966381",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:28:19.000000Z",
+    "revealed_at": "2026-08-02T20:28:27.000000Z"
+}
