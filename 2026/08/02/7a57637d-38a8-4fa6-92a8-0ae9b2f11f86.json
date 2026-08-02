@@ -1,0 +1,22 @@
+{
+    "round_id": "7a57637d-38a8-4fa6-92a8-0ae9b2f11f86",
+    "draw_title": "£1000 Tax Free for 10p",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/ps1000-tax-free-for-10p",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "870cc4702f6b8badaed21724ceeec647a734ca4a8ea887d3aaf6c5e2171c3733",
+    "drand_seed_hash": "b981da5c997de344ef6963438cb66bf9595bffbbed61d6eed6a256e002d239f14059f93eb223a6fa9dfc93c90ea6d25f",
+    "client_seed": "1785696418529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10286,
+    "max_tickets": 20000,
+    "combined_hash": "9a224b9c43f8e47d4c792a157ec808b60548ede5812b268d9641d0c6abc23bcc",
+    "result": "9755",
+    "external_round_id": "30964353",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T18:46:58.000000Z",
+    "revealed_at": "2026-08-02T18:47:03.000000Z"
+}
