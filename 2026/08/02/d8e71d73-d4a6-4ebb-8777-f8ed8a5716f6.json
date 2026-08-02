@@ -1,0 +1,22 @@
+{
+    "round_id": "d8e71d73-d4a6-4ebb-8777-f8ed8a5716f6",
+    "draw_title": "Tip Top Topps",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/tip-top-topps",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "a87770b5fdcdafa054bb2fb41d0d40a42d21bee47d9e5dae99b6d895d0814226",
+    "drand_seed_hash": "a6922f8b88ec477ca00a293a347fac8d9fe7050e45b8beae12faa63a3b733a27c842fdb9ca7d3e1c0f1f02347105e962",
+    "client_seed": "1785699609850",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3939,
+    "max_tickets": 8000,
+    "combined_hash": "52749f9641690faa548338e0c5567b1789c8af5046768edc50e7fd564b454661",
+    "result": "403",
+    "external_round_id": "30965417",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:40:09.000000Z",
+    "revealed_at": "2026-08-02T19:40:15.000000Z"
+}
