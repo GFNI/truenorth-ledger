@@ -1,0 +1,22 @@
+{
+    "round_id": "21e1372f-665d-4f3f-9958-79feb9a58440",
+    "draw_title": "BIG MUSTANG BUNDLES - 2000 Entries End Prize *AUTODRAW*",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/big-mustang-bundles-2000-entries-end-prize-autodraw",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "d3686038d40b197bb33b873a07bcb8622ac3cb615384eb9d7b9c4c9542286898",
+    "drand_seed_hash": "ac6624bd152a7dcd32ac7c373d9a88fcbd350a5614eb1a2f156d1dc0aba64da524f10436a8237a2937ff0c0fb2ce1cb2",
+    "client_seed": "1785696040537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 221070,
+    "max_tickets": 285000,
+    "combined_hash": "66fd9c0cd9c3bc1873a09c1966aa8088170abb577781bc482703ae9ee0b02ebc",
+    "result": "145079",
+    "external_round_id": "30964228",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T18:40:40.000000Z",
+    "revealed_at": "2026-08-02T18:40:48.000000Z"
+}
