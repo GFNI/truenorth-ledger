@@ -1,0 +1,22 @@
+{
+    "round_id": "3988f6ce-96e5-4daf-b181-a69b043d53ae",
+    "draw_title": "✨ Dean’s Bundles Bazaar ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/deans-bundles-bazaar",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "56a7d932125a588bd48fe93169a69143d60511a67d6958cfbb001b7d0de126a5",
+    "drand_seed_hash": "8af12e2c66e47a0ac93a6de984fa02caa412e5ae9550ed5d5deb6aa609f1e883bfb83de500ebd99392248f0f49985047",
+    "client_seed": "1785700937266",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "655d05bd303ff0ec37c5473b963312f4b1bafc6a7fa8d21a38adfa774c8181d2",
+    "result": "1414",
+    "external_round_id": "30965860",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:02:17.000000Z",
+    "revealed_at": "2026-08-02T20:02:24.000000Z"
+}
