@@ -1,0 +1,22 @@
+{
+    "round_id": "160ac13f-1a4e-4425-abdc-0dec99650b1f",
+    "draw_title": "POTS OF GOLD",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/pots-of-gold",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "c1438ea4bbfcf71406ede46f11a5362896cec3f92a3568e591cd17835785c662",
+    "drand_seed_hash": "8dab3b43e09eaba6e35964e8c5d5ad50309109b4e4e8a22f1a6c4c4ba890f1bca78d89a7a156022dfe5bc7aae45920be",
+    "client_seed": "1785701469468",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38085,
+    "max_tickets": 76000,
+    "combined_hash": "9144eeae986d35db24cbfac4efba434d622cde159ee70d2387c3dde753013431",
+    "result": "34706",
+    "external_round_id": "30966037",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:11:09.000000Z",
+    "revealed_at": "2026-08-02T20:11:15.000000Z"
+}
