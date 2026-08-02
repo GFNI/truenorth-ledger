@@ -1,0 +1,22 @@
+{
+    "round_id": "06220f6f-254e-4f2b-b366-27e10ddaa858",
+    "draw_title": "Pokemon Prismatic Evolutions Super Premium Collection with instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/pokemon-prismatic-evolutions-super-premium-collection-with-instants",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "824bb37d77ac8da9fbf9e1f968b53a8c256369f2d4a9b6018382cc838af98184",
+    "drand_seed_hash": "b9fede4c8d42777b7cb656220213768dd906d5e24352cb8c19f6f048b062508cdabe6cddaf4cf4ed187e9df840061f20",
+    "client_seed": "1785696279112",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3551,
+    "max_tickets": 6000,
+    "combined_hash": "27ac20835b03e79488fd89a70fe0ddc958e0c303532341dc5cc55c132f4055f7",
+    "result": "2520",
+    "external_round_id": "30964307",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T18:44:39.000000Z",
+    "revealed_at": "2026-08-02T18:44:45.000000Z"
+}
