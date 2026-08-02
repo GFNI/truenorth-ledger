@@ -1,0 +1,22 @@
+{
+    "round_id": "8a07f651-4f1d-483a-9b42-4b8e3d3cc543",
+    "draw_title": "DAYDREAM DROP - WIN UP TO £500 INSTANTLY",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/daydream-drop-win-up-to-ps500-instantly",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "e4dc29bca3af159ea88d8dee5789ca292c36e76373c29c25d1e6b4634b66bcad",
+    "drand_seed_hash": "a9550c902a5b2eb87c17082f5513f53037da1bc91d78790ece3112d72717f3ec83cc4588b7404ea8f8034d6f828e776a",
+    "client_seed": "1785701879594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46959,
+    "max_tickets": 115000,
+    "combined_hash": "b66c55d546bf56117768e4dcf8c2a33fa2e3112e7cdd6a5f33ed0be920a0ab94",
+    "result": "399",
+    "external_round_id": "30966174",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:17:59.000000Z",
+    "revealed_at": "2026-08-02T20:18:06.000000Z"
+}
