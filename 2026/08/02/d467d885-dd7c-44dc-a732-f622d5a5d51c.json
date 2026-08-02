@@ -1,0 +1,22 @@
+{
+    "round_id": "d467d885-dd7c-44dc-a732-f622d5a5d51c",
+    "draw_title": "25K Tappin Point",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-tappin-point",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0a921dbd69f313f69a08c7bf8187a5153c64081ed5c8ceeed4368aacd74ff4f6",
+    "drand_seed_hash": "b9df15d99a5dcca44536a7a5cc91008f11a77a5c535e9d9a26d1c5f87f18e32dc281fa51bcae6fa85cb72e140eb92a3d",
+    "client_seed": "1785699937452",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28165,
+    "max_tickets": 200000,
+    "combined_hash": "27a9e3807d9799a77383a88e9425c961bd5cd9b374467ace61a987bbce841452",
+    "result": "3624",
+    "external_round_id": "30965527",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:45:37.000000Z",
+    "revealed_at": "2026-08-02T19:45:45.000000Z"
+}
