@@ -1,0 +1,22 @@
+{
+    "round_id": "de6ad79f-5ebc-4d75-89f0-bde923220b1f",
+    "draw_title": "M66 1080p DRONE",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/m66-1080p-drone",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7df69b8bcea1b30a8422f88801983f2f8a40b7843b810d817dc0259e8f9682bc",
+    "drand_seed_hash": "8795a5b76a8554832791e6a5bf590021c57e80ec987034b3af7ebaf1d656b8dff3028842ec70eb515df60eeb68018f8e",
+    "client_seed": "1785698800826",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98,
+    "max_tickets": 250,
+    "combined_hash": "36b4121de0897d6cb523af92ffc7c4e5c0628f855090604fa836ce6ac536c734",
+    "result": "47",
+    "external_round_id": "30965148",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:26:40.000000Z",
+    "revealed_at": "2026-08-02T19:26:48.000000Z"
+}
