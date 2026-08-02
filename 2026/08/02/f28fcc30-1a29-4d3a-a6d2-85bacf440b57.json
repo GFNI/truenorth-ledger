@@ -1,0 +1,22 @@
+{
+    "round_id": "f28fcc30-1a29-4d3a-a6d2-85bacf440b57",
+    "draw_title": "£1000 LOW ODDS",
+    "competition_url": "https://speedcompetitions.co.uk/competition/ps1000-low-odds",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "c8d1b172ece6315f365a9b374fdac043104837aed69a22e3b58b3ee752244fb0",
+    "drand_seed_hash": "90ee8b6cd269c54729ffd736ef1ea30b90c862f1a58602b99608cf4e1a6370b198f41cd0191479b13d9d35c07bf13c76",
+    "client_seed": "1785699813140",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 42,
+    "combined_hash": "cfd460a8bad032bff41bf9df7b155eb83dfb373ded1e0d830e8d79eca32bb79a",
+    "result": "30",
+    "external_round_id": "30965485",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:43:33.000000Z",
+    "revealed_at": "2026-08-02T19:43:39.000000Z"
+}
