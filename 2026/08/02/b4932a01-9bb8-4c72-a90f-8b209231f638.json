@@ -1,0 +1,22 @@
+{
+    "round_id": "b4932a01-9bb8-4c72-a90f-8b209231f638",
+    "draw_title": "Cash Drop - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-drop-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "4d520fa0624b905148192579434374c8cf0c84dc33c398f10253dc6aa5805b42",
+    "drand_seed_hash": "a9bb59d6a705e220656fa7858ee7df33904f826eccca0688c399b53ba90bdb0bb7dff214ccf36dfd857a63f96df887d8",
+    "client_seed": "1785699691256",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "2afcd9e61a3982993049c642a762c1916a2b8b41560c80253188f00a25dfb7f0",
+    "result": "45547",
+    "external_round_id": "30965445",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:41:31.000000Z",
+    "revealed_at": "2026-08-02T19:41:39.000000Z"
+}
