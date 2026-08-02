@@ -1,0 +1,22 @@
+{
+    "round_id": "c8d72dde-ebef-415a-ae66-4299ae12901d",
+    "draw_title": "Ford Mustang GT 5.0 OR £27,500!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ford-mustang-gt-50-or-ps27500",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "4955890c4788f3caeed80e65eb83301d0f9bc3ab57b6dff31099840e8e1ad287",
+    "drand_seed_hash": "ace05a0e1c4a2f26f2199b39c050f01630ffbab51715c9bc8a32dc6328ed4e6d04eb63f643a85fedc59ec98ad4be5a77",
+    "client_seed": "1785700220422",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 276439,
+    "max_tickets": 480000,
+    "combined_hash": "cce294f87a506dea509980748da79a01ac43e9969ccbc93d2192d050a08e21a9",
+    "result": "266957",
+    "external_round_id": "30965621",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:50:20.000000Z",
+    "revealed_at": "2026-08-02T19:50:27.000000Z"
+}
