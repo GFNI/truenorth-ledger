@@ -1,0 +1,22 @@
+{
+    "round_id": "cb4600b5-e762-4829-a727-86e6daa7d8c7",
+    "draw_title": "Landmark Day Out for Family of 4!",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/landmark-day-out-for-family-of-4",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "d4f99c160e876b22a68e0fe0d07f2d3a1de57aa7cb63f27746b439fa2fe85d50",
+    "drand_seed_hash": "97a9a3a08768b82cc00518dd4f57e2dee5c87209f827487b3c10ac71796ad919ab13dc6536770397a55711795a60224c",
+    "client_seed": "1785697845598",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 225,
+    "max_tickets": 300,
+    "combined_hash": "935c2996214af7f4201f0e85983ca44616734bfc92fad37c3a06e88633d8e5dc",
+    "result": "176",
+    "external_round_id": "30964829",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:10:45.000000Z",
+    "revealed_at": "2026-08-02T19:10:51.000000Z"
+}
