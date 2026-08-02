@@ -1,0 +1,22 @@
+{
+    "round_id": "69aa7489-25bc-4453-b984-79e6fc93dfb7",
+    "draw_title": "£150 Aesthetic Voucher",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps150-aesthetic-voucher",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "1c26d0c342f4e49f7248e5bbe9b40bcb0a88bcc74bb54642b7f2a9f03883e539",
+    "drand_seed_hash": "916d167bbde2207d947c9e6d764713332f548b5f72e2d6ad89998baaa43e1a996f5a7519cad76131c6dfc5f291d94517",
+    "client_seed": "1785697808033",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 200,
+    "combined_hash": "38a06f0711b20dfba4717fd2a8fd02eacc6a99830e7f7f5fda4b5fc1574a4635",
+    "result": "25",
+    "external_round_id": "30964817",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:10:08.000000Z",
+    "revealed_at": "2026-08-02T19:10:15.000000Z"
+}
