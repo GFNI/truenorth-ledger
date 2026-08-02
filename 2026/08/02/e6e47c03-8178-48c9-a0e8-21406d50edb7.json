@@ -1,0 +1,22 @@
+{
+    "round_id": "e6e47c03-8178-48c9-a0e8-21406d50edb7",
+    "draw_title": "The Greatest Show - 3 x £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/the-greatest-show-3-x-ps250-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "96fd645bc8658f49088b4426950993de7a75e5e73a98540bda65abd257d2f64c",
+    "drand_seed_hash": "b0e4471a16cdfb98daa6309db2e2bf462e267bbdc9ef1938348b36165e9543fa446f33288d28360293b7700292cfb5e3",
+    "client_seed": "1785699614388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67553,
+    "max_tickets": 163300,
+    "combined_hash": "d91a863eb9efecd7ae566a55ea34fa53c5b9b96bfe0331f205d61f8e486477ab",
+    "result": "100190",
+    "external_round_id": "30965419",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T19:40:14.000000Z",
+    "revealed_at": "2026-08-02T19:40:21.000000Z"
+}
