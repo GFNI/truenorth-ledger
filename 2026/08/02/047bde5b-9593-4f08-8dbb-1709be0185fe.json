@@ -1,0 +1,22 @@
+{
+    "round_id": "047bde5b-9593-4f08-8dbb-1709be0185fe",
+    "draw_title": "Camel Cash | FREE ENTRY | £50 Cash Draw",
+    "competition_url": "https://phatstax.co.uk/admin/products/camel-cash-free-entry-ps50-cash-draw",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "aadae1825de97e902c82f0feaef7b889737688a48a90badbe008b0a7d951fbe8",
+    "drand_seed_hash": "861053ffc239fbad39f5ddef7d56daf9885be750959f1d671445133eadda904281e3954d7ebb3b0064d6cc1f8f584319",
+    "client_seed": "1785701003592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 200,
+    "combined_hash": "e90e2a90852c42d461fd32646a0d497a52429ab22b6041af8c00d18d28012a55",
+    "result": "34",
+    "external_round_id": "30965882",
+    "processing_status": "completed",
+    "created_at": "2026-08-02T20:03:23.000000Z",
+    "revealed_at": "2026-08-02T20:03:30.000000Z"
+}
