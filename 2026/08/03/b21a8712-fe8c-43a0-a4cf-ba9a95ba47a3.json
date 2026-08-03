@@ -1,0 +1,22 @@
+{
+    "round_id": "b21a8712-fe8c-43a0-a4cf-ba9a95ba47a3",
+    "draw_title": "Bootin Scootin £600 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/bootin-scootin-instants-ps600-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "a92fffead26dc7da37dff87ae0faa94d9b5073cde4bb0e45a71ee1555d883a38",
+    "drand_seed_hash": "b0a4993c96ffe2ada30476a5ac1a2852e0cdf4ddf3df309bcf21c09c2db09d0a770d27d2299db3524f4b4936ec030157",
+    "client_seed": "1785792716981",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 277750,
+    "combined_hash": "3fc45a41d686017528dfc689cb3b64c9d7adc49dce24ef711a87d48dd676fefd",
+    "result": "188270",
+    "external_round_id": "30996453",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T21:31:56.000000Z",
+    "revealed_at": "2026-08-03T21:32:03.000000Z"
+}
