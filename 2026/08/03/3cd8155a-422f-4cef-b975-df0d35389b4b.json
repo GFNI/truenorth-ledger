@@ -1,0 +1,22 @@
+{
+    "round_id": "3cd8155a-422f-4cef-b975-df0d35389b4b",
+    "draw_title": "🐺RISK IT OR BANK IT🎁",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/risk-it-or-bank-it",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "e72568ac42e02a3698d8731ad8f0ab0117397ddddf9ee469d38b693f71ac39f7",
+    "drand_seed_hash": "b3167bbf619b813cb242118443bad5b749fd9a3834a7bd8d439378fb16b7173b4b6edb899a7232efcee6c7fc00f2840b",
+    "client_seed": "1785788315841",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "295c5b8a0978957528bb75915aabd6dde595308ff95ff5983c203e8675c7841c",
+    "result": "3178",
+    "external_round_id": "30994986",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T20:18:35.000000Z",
+    "revealed_at": "2026-08-03T20:18:42.000000Z"
+}
