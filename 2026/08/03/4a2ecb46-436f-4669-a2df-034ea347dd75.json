@@ -1,0 +1,22 @@
+{
+    "round_id": "4a2ecb46-436f-4669-a2df-034ea347dd75",
+    "draw_title": "Penny Pleaser!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/penny-pleaser",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "da9475d7549501398d619f73bfa7c8fa2f9a24d1e43ed930283b17271e5dbb20",
+    "drand_seed_hash": "8d741903cc06c25b0ae429e77783aa0110c87b5085cea558c3021a109326fe7aad4a4302b2de2fdc6aee5205024dce01",
+    "client_seed": "1785790274913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 953468,
+    "max_tickets": 1000000,
+    "combined_hash": "1d3e9e96c2729791a1c5349bf28a11b189b12a26f94987bd64b6069d3e40ce70",
+    "result": "952990",
+    "external_round_id": "30995639",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T20:51:14.000000Z",
+    "revealed_at": "2026-08-03T20:51:21.000000Z"
+}
