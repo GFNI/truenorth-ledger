@@ -1,0 +1,22 @@
+{
+    "round_id": "1e2cdb98-c793-4193-b7e8-4713048af5c3",
+    "draw_title": "Mabie Farm Park",
+    "competition_url": "https://ogcompetitions.co.uk/lists/10-x-winners-mabie-farm-park-family-day-passes",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2670228a06e5cc6859c7a272aedb0170254cc23e98fb91664f49816750f5783a",
+    "drand_seed_hash": "b56bf531840434f242011a8713774e4dc66b6e7e762165eb2896759ec37bc59cacf79e4f907f23b23c47748f360f5a13",
+    "client_seed": "1785791928714",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 750,
+    "combined_hash": "5c744057bd429cbade5e8556317afa832cd278cbf53208cf947a7f53e805f45c",
+    "result": "135",
+    "external_round_id": "30996190",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T21:18:48.000000Z",
+    "revealed_at": "2026-08-03T21:18:58.000000Z"
+}
