@@ -1,0 +1,22 @@
+{
+    "round_id": "c2e14850-e8d6-42f7-9355-c39311388cb7",
+    "draw_title": "Winning Lines",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/winning-lines",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "94fc41f5a159f713a9abd7e2e130514806b80c7173c311dcac22e10412b5ddc5",
+    "drand_seed_hash": "a61b7b1d991130251b2f32b9bed597f1ffa2e05b99a79e8dff6117380f20a89d3a8899beda151358863e35bf1cfde9d8",
+    "client_seed": "1785787851810",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 396254,
+    "max_tickets": 1200000,
+    "combined_hash": "37812c1f39237c291ac4c0ab02bf011c242361104c460d9e88009c56eedbcac0",
+    "result": "1010360",
+    "external_round_id": "30994831",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T20:10:51.000000Z",
+    "revealed_at": "2026-08-03T20:10:57.000000Z"
+}
