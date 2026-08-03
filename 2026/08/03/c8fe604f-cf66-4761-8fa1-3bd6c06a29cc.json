@@ -1,0 +1,22 @@
+{
+    "round_id": "c8fe604f-cf66-4761-8fa1-3bd6c06a29cc",
+    "draw_title": "Ace 10 Charizard 183",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-charizard-183",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "763de8e9c080529836db98000a20f9204df64313a53d412f9e9a33ec717498bf",
+    "drand_seed_hash": "a0483b06d856b20c100b26b85df6060e8ec622358e4f0df9ab50aa24ee5d7033b9d32fb849087f28054f13320667fe1f",
+    "client_seed": "1785791435467",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 195,
+    "max_tickets": 240,
+    "combined_hash": "d57e74671c3878c130084d98c465f0c23b8b226dffc59a994445b73845dfa227",
+    "result": "214",
+    "external_round_id": "30996026",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T21:10:35.000000Z",
+    "revealed_at": "2026-08-03T21:10:42.000000Z"
+}
