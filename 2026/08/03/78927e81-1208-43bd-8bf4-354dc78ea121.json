@@ -1,0 +1,22 @@
+{
+    "round_id": "78927e81-1208-43bd-8bf4-354dc78ea121",
+    "draw_title": "The Raffle Kings Riches!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/the-raffle-kings-riches",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "e8487b34f0fccffe7b1be4262587bdf33d7bfa72c02cae0c565814178afdaff0",
+    "drand_seed_hash": "b1d91c88268d60fdb25d03792fc68bfc7a2ae2bf9671d88d7fa70cb28544d6a3082d0369dd6bc59b8ada6d6c476971b3",
+    "client_seed": "1785784569654",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 375999,
+    "max_tickets": 375999,
+    "combined_hash": "11e3a88c78a8ff0aa1bbca03836b7811e8e445d50ba47da32ba18685008f7fe9",
+    "result": "108694",
+    "external_round_id": "30993737",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:16:09.000000Z",
+    "revealed_at": "2026-08-03T19:16:15.000000Z"
+}
