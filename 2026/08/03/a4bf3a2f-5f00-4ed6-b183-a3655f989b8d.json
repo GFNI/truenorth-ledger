@@ -1,0 +1,22 @@
+{
+    "round_id": "a4bf3a2f-5f00-4ed6-b183-a3655f989b8d",
+    "draw_title": "Lucky Leprechaun £3,000 Pot Drop - £200 End Prize",
+    "competition_url": "https://proprizes.co.uk/admin/products/lucky-leprechaun-ps3000-pot-drop-ps200-end-prize",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "89cacd9fee90daff1ce0cd536eda3d68fb37094b1ec85cec20b7eaf3bc37b67f",
+    "drand_seed_hash": "b3a26a61b90960a9d2cf037bb120793bfda81b170b89c3c3ea0b499724e9c0c35fc775190668ad42c74e551471b9e664",
+    "client_seed": "1785792254098",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14057,
+    "max_tickets": 40000,
+    "combined_hash": "7bae2041a298adcb26c3c3cd213acfc00cd29f8ce0064de5d35200498d3a304f",
+    "result": "20860",
+    "external_round_id": "30996299",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T21:24:14.000000Z",
+    "revealed_at": "2026-08-03T21:24:21.000000Z"
+}
