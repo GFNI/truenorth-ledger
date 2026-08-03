@@ -1,0 +1,22 @@
+{
+    "round_id": "109d8003-5b37-4ab0-a00f-5596f89f773d",
+    "draw_title": "3p Money Madness",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/3p-money-madness",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "8d9fff5794ba5d76d9102e922f2004c49c3f369809f6d148bfb125c64079adaf",
+    "drand_seed_hash": "a2dd4d29777a2a81bc971d1c59616d252b59aaee70d7e9ec65e2b1a233619c9ff63ba38b79e962271ff157948e6619d9",
+    "client_seed": "1785792336845",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 371263,
+    "max_tickets": 400000,
+    "combined_hash": "0fb43d76964f6fb865c0fa2ab4961436e513879bc5c153c1a838548eb284ae02",
+    "result": "155280",
+    "external_round_id": "30996326",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T21:25:36.000000Z",
+    "revealed_at": "2026-08-03T21:25:42.000000Z"
+}
