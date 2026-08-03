@@ -1,0 +1,22 @@
+{
+    "round_id": "ab8ad40e-9f06-43bd-8f61-ab006dc9ff8b",
+    "draw_title": "KER-LOOT CASH BOXES",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/ker-loot-cash-boxes",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "ae13fe712db6dffce7e1c72be56b44e65d967938860958cf3fc075dbd7bf58da",
+    "drand_seed_hash": "8f7520922836eb442983da94d3bf5a9e03a652be0f6be47e0af1a77729713ce7101c611b2154bea3b2afc3d306ea1431",
+    "client_seed": "1785784477252",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6854,
+    "max_tickets": 35000,
+    "combined_hash": "95908779cd9c210920177234d89c962506eba1891a596802ba4ab779821edb11",
+    "result": "2510",
+    "external_round_id": "30993707",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:14:37.000000Z",
+    "revealed_at": "2026-08-03T19:14:45.000000Z"
+}
