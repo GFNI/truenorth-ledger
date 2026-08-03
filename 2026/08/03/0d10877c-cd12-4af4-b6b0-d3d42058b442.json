@@ -1,0 +1,22 @@
+{
+    "round_id": "0d10877c-cd12-4af4-b6b0-d3d42058b442",
+    "draw_title": "👑 KING'S RANSOM – Claim The Crown!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/kings-ransom",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "21c2f2ad9a341a5af51a2fc24f3126573086f72620d004c79f18c4d189ad6daf",
+    "drand_seed_hash": "97d51c567109cbb2a8a8521eddd638d09856648fe2b18f8f6e186414a19f5c9b5a7f492a3fa9d3d530fba282ea3e2178",
+    "client_seed": "1785780635870",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2483,
+    "max_tickets": 2500,
+    "combined_hash": "61521cdcf7633a2738d46eb978424c8917e119fab002a5584de9b4911edd081b",
+    "result": "1118",
+    "external_round_id": "30992426",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T18:10:35.000000Z",
+    "revealed_at": "2026-08-03T18:10:42.000000Z"
+}
