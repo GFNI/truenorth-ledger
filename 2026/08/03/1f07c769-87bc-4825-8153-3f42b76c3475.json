@@ -1,0 +1,22 @@
+{
+    "round_id": "1f07c769-87bc-4825-8153-3f42b76c3475",
+    "draw_title": "🥩 £500 Miller & Carter Gift Card 🥩",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-miller-carter-gift-card-8",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ebd04c0492544c993143bb03bc83c7d137c1b4b6ad0c981ad28266fb3afcb95b",
+    "drand_seed_hash": "ad1e789d2f62e91cd1e952980c667a8b480c1e7f533b68740c96039cc4e3a77f8dc859dbc3e1719486bfe2e38c30ca8a",
+    "client_seed": "1785780311095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 990,
+    "max_tickets": 990,
+    "combined_hash": "c1928fde1b08d81449289e66f1d9508148190dc01ea19244d2f2763980fcc79e",
+    "result": "840",
+    "external_round_id": "30992317",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T18:05:11.000000Z",
+    "revealed_at": "2026-08-03T18:05:15.000000Z"
+}
