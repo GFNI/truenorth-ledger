@@ -1,0 +1,22 @@
+{
+    "round_id": "b73580df-0117-4b83-a664-44dc92192431",
+    "draw_title": "Chaotic Cowgirls",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-cowgirls-6276",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ea6aea4e5d7ea22689cd13c38f2215f00d1316b108c4a403bb85c51bbe01f7d3",
+    "drand_seed_hash": "b1297edf2cd3756fa856a197113c040a646c98e60bfc5156c21a7399869d92c01dbc9e74e4f6798b842d9de688999bdf",
+    "client_seed": "1785787948040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "355aebc10f24d15a846af45ce648697cefe9b24c614dce9468457c34f310c438",
+    "result": "226742",
+    "external_round_id": "30994864",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T20:12:28.000000Z",
+    "revealed_at": "2026-08-03T20:12:36.000000Z"
+}
