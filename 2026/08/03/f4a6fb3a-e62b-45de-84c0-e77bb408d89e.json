@@ -1,0 +1,22 @@
+{
+    "round_id": "f4a6fb3a-e62b-45de-84c0-e77bb408d89e",
+    "draw_title": "GEM LINK CASH GRAB",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/gem-link-cash-grab",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "869eef8fcaee66c33329a7c6d13033aac90e23299202dd7f3c57761ece640bbd",
+    "drand_seed_hash": "85b3725bbc5c4ac7844b9f54144d8445c2077c8812a5b6fc7aedcee10d11cad97c5f7a4225f10f66ec6dea8e0c816e60",
+    "client_seed": "1785784536052",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5220,
+    "max_tickets": 50000,
+    "combined_hash": "7994bd32f5e22fcf39135b3d4f1f6f46e1932a911ead29d81cd5b63d2d7417a1",
+    "result": "35114",
+    "external_round_id": "30993726",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:15:36.000000Z",
+    "revealed_at": "2026-08-03T19:15:42.000000Z"
+}
