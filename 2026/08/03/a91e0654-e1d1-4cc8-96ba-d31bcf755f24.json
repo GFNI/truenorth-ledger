@@ -1,0 +1,22 @@
+{
+    "round_id": "a91e0654-e1d1-4cc8-96ba-d31bcf755f24",
+    "draw_title": "Every Other Spin Wins",
+    "competition_url": "https://jetcomps.co.uk/admin/products/every-other-spin-wins-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "565712b76be7adcd8f8e608ba9720faa38a951deb4875db102ada8421180ef25",
+    "drand_seed_hash": "85f6993fbcc15884e676c772cd0367ae9a3ba80115b335e46db1ce3e6f9204a0577a6eb52415cfc418f40c33e8f47ae1",
+    "client_seed": "1785785506615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2985,
+    "max_tickets": 4000,
+    "combined_hash": "cf0891cb8a07c13544979e51afccac9887d117b96d7e0930032d91fe667476f8",
+    "result": "3824",
+    "external_round_id": "30994050",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:31:46.000000Z",
+    "revealed_at": "2026-08-03T19:31:54.000000Z"
+}
