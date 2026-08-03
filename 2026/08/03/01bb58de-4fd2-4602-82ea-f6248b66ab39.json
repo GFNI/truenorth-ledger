@@ -1,0 +1,22 @@
+{
+    "round_id": "01bb58de-4fd2-4602-82ea-f6248b66ab39",
+    "draw_title": "£50 WORTH OF SCRATCHCARDS",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/ps50-worth-of-scratchcards",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "ad073daaff9b64ad14f51e9002dd4bf7835e048ff20b8bec097eba6a673c4b37",
+    "drand_seed_hash": "b51b0b8641c8c668dab03eb631b879ef216dda1d7697f9ae9c7ddf9e92c37970b4a33107ea8d634308a31d9930ef8b01",
+    "client_seed": "1785784246695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 591,
+    "max_tickets": 1800,
+    "combined_hash": "14b1e1a743a34e42d86d2cad646dbbfee4a3940984eddcadeb0fe1cf87c601ce",
+    "result": "5",
+    "external_round_id": "30993629",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:10:46.000000Z",
+    "revealed_at": "2026-08-03T19:10:51.000000Z"
+}
