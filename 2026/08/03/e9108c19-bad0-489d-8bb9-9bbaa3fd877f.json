@@ -1,0 +1,22 @@
+{
+    "round_id": "e9108c19-bad0-489d-8bb9-9bbaa3fd877f",
+    "draw_title": "Midweek Break | West Wales",
+    "competition_url": "https://r3competitions.co.uk/admin/products/midweek-break-west-wales",
+    "operator": {
+        "name": "R3 Competitions owned by R3 Security Group Ltd",
+        "website": "https://r3competitions.co.uk",
+        "company_number": "17094443"
+    },
+    "drand_server_seed": "49829f064a704d359ccf17922ddda315fe301819660bad60f3efc67a56ee5d3f",
+    "drand_seed_hash": "aacf1ae6204407c8d52a7b49b7c8e1bf16aadfdc09d7cc78de0ed01a8cc3aebd77a4b87b363de045bcdfc0b2cd47ae8d",
+    "client_seed": "1785787844036",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6,
+    "max_tickets": 1000,
+    "combined_hash": "baff15e09410378aceef182531d1d269d1189080e87f6f507bd01c09bb8485b8",
+    "result": "107",
+    "external_round_id": "30994829",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T20:10:44.000000Z",
+    "revealed_at": "2026-08-03T20:10:51.000000Z"
+}
