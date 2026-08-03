@@ -1,0 +1,22 @@
+{
+    "round_id": "3fafc7eb-e988-4ed0-8554-079df8b05f6c",
+    "draw_title": "Sour Sleuth 🍋",
+    "competition_url": "https://redlemonx.co.uk/admin/products/sour-sleuth-2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "16089485d5988011803ba6754bbfd0994edaa33e46e8dad2bb3c6b6ce1b33e1c",
+    "drand_seed_hash": "93f20ad52e8e5702f1fd07e0b7f86d36ef4f0802558e67207ee61154b3cefc8feb306e191ba3533fa2dd652e3cdbe9e2",
+    "client_seed": "1785784554501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5714,
+    "max_tickets": 10888,
+    "combined_hash": "51757262cc2475d852da1c48cef1d168c8629a46b63c524239c053bdd7e845cf",
+    "result": "2258",
+    "external_round_id": "30993732",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:15:54.000000Z",
+    "revealed_at": "2026-08-03T19:16:00.000000Z"
+}
