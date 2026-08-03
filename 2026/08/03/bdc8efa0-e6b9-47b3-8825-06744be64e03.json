@@ -1,0 +1,22 @@
+{
+    "round_id": "bdc8efa0-e6b9-47b3-8825-06744be64e03",
+    "draw_title": "Win Maggie the Mercedes+ £2000 cash!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-maggie-the-mercedes",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "4eb0150f922faefce5cc319eb467375a8573bdd641e449f3bdd087a15132bc4b",
+    "drand_seed_hash": "ab4c55ee6d9c4367d6df9e8a7f70933d146b68774e1dfcf1a6f7ed155fd684eb1d1acbd05ae16c84d231020de59c5bec",
+    "client_seed": "1785786372219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13000,
+    "max_tickets": 13000,
+    "combined_hash": "12c5af4fd84e11f426ec99e5710c0b61bed47be278835c386037531e2621121a",
+    "result": "12315",
+    "external_round_id": "30994338",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T19:46:12.000000Z",
+    "revealed_at": "2026-08-03T19:46:18.000000Z"
+}
