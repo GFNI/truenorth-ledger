@@ -1,0 +1,22 @@
+{
+    "round_id": "ea7a5754-3080-4c55-8bff-0a5c7ec0d561",
+    "draw_title": "Monday Munchies 🛒",
+    "competition_url": "https://redlemonx.co.uk/admin/products/monday-munchies-4",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "eec6033d74d9be2558a04f6327bc5df39d459e5d837ccf85e2b10a07bae0629d",
+    "drand_seed_hash": "a01fb23b8fc173c0f12f08df21a8306d0f6c728d939cdfcb5a19c945772f46ed7be32077841df64a27533fe9820d740f",
+    "client_seed": "1785777039206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62,
+    "max_tickets": 100,
+    "combined_hash": "1665a9c55a85e20b5a29bcaa015d8887d105fb701a87be0108309b9606a03bd8",
+    "result": "15",
+    "external_round_id": "30991227",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T17:10:39.000000Z",
+    "revealed_at": "2026-08-03T17:10:45.000000Z"
+}
