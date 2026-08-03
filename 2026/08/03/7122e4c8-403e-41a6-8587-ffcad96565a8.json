@@ -1,0 +1,22 @@
+{
+    "round_id": "7122e4c8-403e-41a6-8587-ffcad96565a8",
+    "draw_title": "FREE TO ENTER £60 SITE CREDIT BOOSTER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/free-to-enter-ps60-site-credit-booster-2",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "f635085747b17f2e94815a5572e7cc582fe90d10c0879ca23ebd77ad5c7a4872",
+    "drand_seed_hash": "a5cf36b739876aa7ae3fdf307b023d6774545fffcdfd6360308df194a9634f6d36e4e23556a678ebaee28d2b6d310bde",
+    "client_seed": "1785741051528",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 723,
+    "max_tickets": 2000,
+    "combined_hash": "a1327a4d0770314ee50ff41cf7545cc0c056d88d4b75bef12c8851cf8a3fa101",
+    "result": "1986",
+    "external_round_id": "30979231",
+    "processing_status": "completed",
+    "created_at": "2026-08-03T07:10:51.000000Z",
+    "revealed_at": "2026-08-03T07:10:57.000000Z"
+}
