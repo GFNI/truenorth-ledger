@@ -1,0 +1,22 @@
+{
+    "round_id": "16df376f-50db-4948-98ec-7aa63e31446b",
+    "draw_title": "TICKETS into our £250 Food Shop 🛒",
+    "competition_url": "https://www.winwithob.com/admin/products/tickets-into-our-ps250-food-shop",
+    "operator": {
+        "name": "WinWithOB",
+        "website": "https://www.winwithob.com",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "0839f0afce984718fbe4c97a85fdefeba08b3e6bea6308b7c8366bc0c33410d3",
+    "drand_seed_hash": "8ffe4f46832ad1a3ae1fe5103dd865bb56e2da28b94ecfb871ed947077bad8e941dc49e01ef8a835a0cd2c6e545ddd4e",
+    "client_seed": "1785874253693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7,
+    "max_tickets": 50,
+    "combined_hash": "53226877849b924c9026ff38ce8e1698ca6f918321b6cb3318495769bad897ea",
+    "result": "36",
+    "external_round_id": "31023632",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T20:10:53.000000Z",
+    "revealed_at": "2026-08-04T20:11:00.000000Z"
+}
