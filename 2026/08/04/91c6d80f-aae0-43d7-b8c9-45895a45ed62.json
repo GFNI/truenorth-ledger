@@ -1,0 +1,22 @@
+{
+    "round_id": "91c6d80f-aae0-43d7-b8c9-45895a45ed62",
+    "draw_title": "Pokemole Dugrtio",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/pokemole-dugrtio",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "e472411e50c74c89f26301804ba9f9a44e006565eab1eb6beda4c3659a8c4cb3",
+    "drand_seed_hash": "8bf8a7b9195e2122077e3e03707580ffb72cb30de87e7572e1e2d56acda41d7719b0dd3af9b0f9555dcb2e9e515393d7",
+    "client_seed": "1785850437288",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 205361,
+    "max_tickets": 569500,
+    "combined_hash": "dce047e6835efc97bfe4e8f1ccdedc7f52979a714c41c60fba3a5f8b27ab2a41",
+    "result": "551801",
+    "external_round_id": "31015693",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T13:33:57.000000Z",
+    "revealed_at": "2026-08-04T13:34:03.000000Z"
+}
