@@ -1,0 +1,22 @@
+{
+    "round_id": "ef9fac1b-6993-41ea-b43c-2f4b8af5f6a5",
+    "draw_title": "MINI DRAW - WIN 100 TICKETS INTO THE OP-13 BOOSTER BOX OR £300 CASH COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-100-tickets-into-the-op-13-booster-box-or-ps300-cash-comp",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "7d0c47fd69697f7c0825fba94d8f06d045cdd4cafe273bd51b4798c8ffe8f0ff",
+    "drand_seed_hash": "8bd524d67bf2734c5f37d3241647de5ebdb8a42b07d2bee6ee6fb13196aa5a93ee997388355ac50a1a9fedf2baef4a6e",
+    "client_seed": "1785884442316",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 190,
+    "max_tickets": 300,
+    "combined_hash": "d51b1a4566e7cfac79cb998e79bd456456eeee8e644e67285f1035d5b61263a4",
+    "result": "66",
+    "external_round_id": "31027028",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T23:00:42.000000Z",
+    "revealed_at": "2026-08-04T23:00:48.000000Z"
+}
