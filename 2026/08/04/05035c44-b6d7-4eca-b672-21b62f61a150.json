@@ -1,0 +1,22 @@
+{
+    "round_id": "05035c44-b6d7-4eca-b672-21b62f61a150",
+    "draw_title": "1998 Toyota Starlet Glanza V",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/1998-toyota-starlet-glanza-v",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "50048a861e3b05d394f1af75ce173e25988aab736985ffbd937d974195e01bd2",
+    "drand_seed_hash": "89c361ff726a9d95d47878085be090f35be25f75293725ae13a02a81b7aa8cb79d5c72189a5b914e62a29327ed6fe0e5",
+    "client_seed": "1785874070702",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2892,
+    "max_tickets": 6000,
+    "combined_hash": "3df1876a99504258623d08752d5f70d3294f63f6e8f20e29f93ecac523645d47",
+    "result": "2014",
+    "external_round_id": "31023571",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T20:07:50.000000Z",
+    "revealed_at": "2026-08-04T20:07:57.000000Z"
+}
