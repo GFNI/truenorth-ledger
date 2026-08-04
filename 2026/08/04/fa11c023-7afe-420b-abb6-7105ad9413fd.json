@@ -1,0 +1,22 @@
+{
+    "round_id": "fa11c023-7afe-420b-abb6-7105ad9413fd",
+    "draw_title": "✏️SCHOOLS OUT!✏️",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/schools-out",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "34bf9b9be603451c11578d2591c3cb037e276d5201b2b7406573a83775bb8957",
+    "drand_seed_hash": "a662f668391f1d8c5d7c98c4297f084fa701015dca40c9fb2f44daa37db3d8526f4da473e78810c881622ea34445fbf2",
+    "client_seed": "1785866818670",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1426,
+    "max_tickets": 6000,
+    "combined_hash": "0fd34ffa02df350741e7b21611d1e00444953c583725a25e8ec30ef9a6692f40",
+    "result": "3376",
+    "external_round_id": "31021154",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T18:06:58.000000Z",
+    "revealed_at": "2026-08-04T18:07:06.000000Z"
+}
