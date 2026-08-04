@@ -1,0 +1,22 @@
+{
+    "round_id": "37113572-7dc5-4b09-a504-aca8d0ffb8e8",
+    "draw_title": "🌭WHAT A BANGER!🌭",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/what-a-banger",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "63728ed93d90340581639d6ee677562e09fc6fdda35f7eb5f6355c4d5bdc70e6",
+    "drand_seed_hash": "8f62dd891982288e4e8922d76dc9f0b5784fdad6dc41d32462da7f4e6def35b1c8d2a91ae7973190ce32e298d4a473b7",
+    "client_seed": "1785866760390",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16924,
+    "max_tickets": 75000,
+    "combined_hash": "ad23bbc146e2630cf2abaf7e8b6ae8a1d561ed6b6c2170f71bcd00a16be94803",
+    "result": "67054",
+    "external_round_id": "31021134",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T18:06:00.000000Z",
+    "revealed_at": "2026-08-04T18:06:06.000000Z"
+}
