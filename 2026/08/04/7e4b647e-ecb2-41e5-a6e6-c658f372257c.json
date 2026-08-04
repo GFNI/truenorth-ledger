@@ -1,0 +1,22 @@
+{
+    "round_id": "7e4b647e-ecb2-41e5-a6e6-c658f372257c",
+    "draw_title": "Sonic Wins - Emerald City Gems",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/sonic-wins-emerald-city-gems",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "d25fee55b47f62c5d679b7b800b7f2b74c2757b6001b8497cf306f2b0d2df7fb",
+    "drand_seed_hash": "b650778488110e94b71b02ab7447ef6523f832b7f8d5351367d6111e6bbae84d7f89ec2cf36f41a2346a18e09e5eeec8",
+    "client_seed": "1785850338777",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 211084,
+    "max_tickets": 727375,
+    "combined_hash": "afb5a55c19b6c365ed61090bedfe1a41bc4e5a1581557c67c4efe7c26ec8f214",
+    "result": "690824",
+    "external_round_id": "31015660",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T13:32:18.000000Z",
+    "revealed_at": "2026-08-04T13:32:24.000000Z"
+}
