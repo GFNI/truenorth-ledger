@@ -1,0 +1,22 @@
+{
+    "round_id": "8a442573-de1e-4082-aa89-eb5b4116aedd",
+    "draw_title": "Free Draw - Pick Your Treat!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-pick-your-treat",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "3ca194a9b6a3b7709fb84c08168da52a09fd007b79aede8c105139729dd94720",
+    "drand_seed_hash": "88d5fdaa97490795b61fbd9d49d7fb1cb4aecb95a4063af942caa2348c1745f70e4ab4f73ac20d7d6e44996b48e42f89",
+    "client_seed": "1785870641693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 158,
+    "max_tickets": 500,
+    "combined_hash": "41ba5b2851de5ba297fc0db905ea97843c81d28392e06860085bdf35ffb40f53",
+    "result": "98",
+    "external_round_id": "31022428",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T19:10:41.000000Z",
+    "revealed_at": "2026-08-04T19:10:48.000000Z"
+}
