@@ -1,0 +1,22 @@
+{
+    "round_id": "03d6471d-6e2a-4025-8d67-35d2f0e737bb",
+    "draw_title": "Tuesday Treat 🩷",
+    "competition_url": "https://redlemonx.co.uk/admin/products/tuesday-treat-4",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "12de584b9162780d5d56e09e0a5491648ca1dbf5697f8e3366a705d17fe6a14f",
+    "drand_seed_hash": "b362d7f69422862d3ceb468d391a72eb26b543e66f8059eda20a273ee8848562454e822c00de6fe5a6f1cad058a688da",
+    "client_seed": "1785863444143",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38,
+    "max_tickets": 100,
+    "combined_hash": "827c0d5820ac6e1f33769feb417dfad682959c54d612e3a50a949ac40ecbd3f8",
+    "result": "51",
+    "external_round_id": "31020029",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T17:10:44.000000Z",
+    "revealed_at": "2026-08-04T17:10:51.000000Z"
+}
