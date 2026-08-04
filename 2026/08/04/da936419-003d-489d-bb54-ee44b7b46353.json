@@ -1,0 +1,22 @@
+{
+    "round_id": "da936419-003d-489d-bb54-ee44b7b46353",
+    "draw_title": "Diddy Kong Pop",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/diddy-kong-pop",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "869eef5e6549fdcf14159d4b0e5cbc9adb86324f95aed56e34816f5aaf01279f",
+    "drand_seed_hash": "aee517245f685662e2a30b7c09031b178f948695efb18d56a140ca5c75231c5759c77eba135ece4c1f521156861b3332",
+    "client_seed": "1785850229918",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 596595,
+    "max_tickets": 805750,
+    "combined_hash": "ddbfd7d3775cd9dc58909d11326abd083b23e65721a2678b85abc6d4421d7285",
+    "result": "774434",
+    "external_round_id": "31015624",
+    "processing_status": "completed",
+    "created_at": "2026-08-04T13:30:30.000000Z",
+    "revealed_at": "2026-08-04T13:30:36.000000Z"
+}
