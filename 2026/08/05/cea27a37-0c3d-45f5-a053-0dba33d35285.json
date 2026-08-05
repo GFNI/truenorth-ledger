@@ -1,0 +1,22 @@
+{
+    "round_id": "cea27a37-0c3d-45f5-a053-0dba33d35285",
+    "draw_title": "Rainbow Riches",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/rainbow-riches",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "292ce6c20833e9b87a09fa50349ce678d666fe8732578b46e816e21b555cb946",
+    "drand_seed_hash": "99c57793050ade73cac5d8204ad4657f32eebeb17c969f3c38be80eb9aedd1fa9db20715add07e3e20c05afb19c096b5",
+    "client_seed": "1785964719034",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22249,
+    "max_tickets": 84000,
+    "combined_hash": "c1afe41312613b9de8a5da4e84dc264fcae80551915cbe407aa6ccd1e45803bb",
+    "result": "22306",
+    "external_round_id": "31053787",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:18:39.000000Z",
+    "revealed_at": "2026-08-05T21:18:45.000000Z"
+}
