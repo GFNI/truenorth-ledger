@@ -1,0 +1,22 @@
+{
+    "round_id": "c0041d97-3663-4500-aa3c-1e52146e32a4",
+    "draw_title": "LIVERPOOL VS NOTTINGHAM FORREST - 29TH OF AUGUST",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/liverpool-vs-nottingham-forrest-29th-of-august",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "fa6bb2d4952ce627f5cd5bc8a0f14d5b5ab5560720edfd9fd65679b0e5269771",
+    "drand_seed_hash": "831818bb235b14a8b04a5af5fe46eb5a3cd1a6fdb2508b7f369bea7ea6c0194d5f0050e98c4dc3f59653116a64b59df1",
+    "client_seed": "1785963939553",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 209,
+    "max_tickets": 495,
+    "combined_hash": "b1c1ba74470ff0c48c8cbd4b5bc4be5334b8e0ecbe12c98e85f728b1ad63334a",
+    "result": "118",
+    "external_round_id": "31053527",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:05:39.000000Z",
+    "revealed_at": "2026-08-05T21:05:45.000000Z"
+}
