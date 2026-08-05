@@ -1,0 +1,22 @@
+{
+    "round_id": "163ed00e-90c9-461f-bb3e-63aff73d83a3",
+    "draw_title": "Summer Holidays Sensory Play Bin",
+    "competition_url": "https://chaotic.co.uk/competition/summer-holidays-sensory-play-bin-6969",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "59e5a30c00166feb9851948552e094de9c96cf8c801004f0f758b1b5a2c24b5b",
+    "drand_seed_hash": "b6799cd2bc832f0f67efd0ecf0cc58dfb5b8ed3571caf2de9a1aad80cbdab2e72335b688a340192148ae3d514f26e260",
+    "client_seed": "1785958631503",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "bba8bfdcf6384c36d5284bf02ef3131bca468c8b2c82c8f7abf2284a8cca1643",
+    "result": "92",
+    "external_round_id": "31051758",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:37:11.000000Z",
+    "revealed_at": "2026-08-05T19:37:18.000000Z"
+}
