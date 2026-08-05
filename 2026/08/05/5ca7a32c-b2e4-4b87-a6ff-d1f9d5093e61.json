@@ -1,0 +1,22 @@
+{
+    "round_id": "5ca7a32c-b2e4-4b87-a6ff-d1f9d5093e61",
+    "draw_title": "WIN 30 TICKETS ON THE 2027 Beta X-Trainer",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-30-tickets-on-the-2027-beta-x-trainer",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "25819c958f917d7f4a9cbf1a26a18acab572bffcff9176566da91d50f154d25d",
+    "drand_seed_hash": "8b5e62f3dfd847b10ff795f776194c1ab0c7c9bdb54c3eb8530da5dcd3d21709efe2a84e3b051f761a62605765afd7f0",
+    "client_seed": "1785954279825",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "2a95efeea552bea3c26ebef8adf4497af7f1beaa90e86a89b146fde0568f422e",
+    "result": "99",
+    "external_round_id": "31050307",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T18:24:39.000000Z",
+    "revealed_at": "2026-08-05T18:24:45.000000Z"
+}
