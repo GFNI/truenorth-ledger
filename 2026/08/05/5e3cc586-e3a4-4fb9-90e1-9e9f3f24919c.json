@@ -1,0 +1,22 @@
+{
+    "round_id": "5e3cc586-e3a4-4fb9-90e1-9e9f3f24919c",
+    "draw_title": "Plinko Payday",
+    "competition_url": "https://winandgrin.co.uk/admin/products/plinko-payday",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "5b74ee20b61334740a9e6ba9c8da740ad5661c64adb41a2c7c5ee5d0367032ed",
+    "drand_seed_hash": "b972768931dc7da1ce16b56f56716a24eedc9ce8fe47e8d2ac6955c491b0acf302d782f238d0560a9345ad6258c4799b",
+    "client_seed": "1785957395905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11627,
+    "max_tickets": 12500,
+    "combined_hash": "e13a5e01f381743596c4dac33f1872eec51292e575c4c990aad766d9bb4cddff",
+    "result": "2674",
+    "external_round_id": "31051346",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:16:35.000000Z",
+    "revealed_at": "2026-08-05T19:16:42.000000Z"
+}
