@@ -1,0 +1,22 @@
+{
+    "round_id": "e9c015d9-cd0e-423c-92e1-d2178dd51df2",
+    "draw_title": "The Goblet Of Giveaways",
+    "competition_url": "https://getluckycompetitions.co.uk/admin/products/the-goblet-of-giveaways",
+    "operator": {
+        "name": "Get Lucky Promotions Ltd",
+        "website": "https://get-lucky.rafflex.uk",
+        "company_number": "16790915"
+    },
+    "drand_server_seed": "7d58ec033861cb8e528bbde0c5434d3494c7ffa78009779f622e7cf5f97ecce4",
+    "drand_seed_hash": "a8ebe65114ca1524ea2df79975248af403e1d85eb401b74a9ffbbba9813eeacf7e251039d1511c9db43f22b52ec6d697",
+    "client_seed": "1785971376950",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 389,
+    "max_tickets": 2200,
+    "combined_hash": "28ff922fc4ab95cbe572e06ebf0e5176725c16c8607b034fc95aea0d5ce29e4e",
+    "result": "529",
+    "external_round_id": "31056007",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T23:09:37.000000Z",
+    "revealed_at": "2026-08-05T23:09:45.000000Z"
+}
