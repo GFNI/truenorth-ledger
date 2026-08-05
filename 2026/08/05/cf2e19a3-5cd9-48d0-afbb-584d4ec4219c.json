@@ -1,0 +1,22 @@
+{
+    "round_id": "cf2e19a3-5cd9-48d0-afbb-584d4ec4219c",
+    "draw_title": "PokéPAYOUT: 151 EDITION!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/pokepayout-151-edition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "dffd0061c07b87455938cf30b1a8ebaeff2f1bec694f50ba5d9ee3dba4a138d7",
+    "drand_seed_hash": "8b4c18a50c2c80e07440804762bd434cf3e299acc0e0968e039bc22b83c479d9b891f6fe3c581764254dd0026922e5fc",
+    "client_seed": "1785964264069",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43976,
+    "max_tickets": 75000,
+    "combined_hash": "68dc9170088663d04a71813b1a0d67d227eb4ed10b6b92feecac1cc7465480b9",
+    "result": "32337",
+    "external_round_id": "31053636",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:11:04.000000Z",
+    "revealed_at": "2026-08-05T21:11:12.000000Z"
+}
