@@ -1,0 +1,22 @@
+{
+    "round_id": "09e9dc11-94bb-4603-a91d-463a0da294ad",
+    "draw_title": "Quackers for Cash",
+    "competition_url": "https://chaotic.co.uk/competition/quackers-for-cash-9833",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "1cb251074fd3c430893a1de069f5dfb349a3a89c80d5ac787333a483d783da94",
+    "drand_seed_hash": "a1359635677f1da17f37ad5f53137927ec28582f6b959b0fb1c593fec278e42644947cfd21e56a68b283e50f2bd0139b",
+    "client_seed": "1785959174225",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999999,
+    "max_tickets": 1999999,
+    "combined_hash": "198db2942bf3ec75f8517eab4c008a1731210439e48c697806e3cd6243445473",
+    "result": "730745",
+    "external_round_id": "31051939",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:46:14.000000Z",
+    "revealed_at": "2026-08-05T19:46:21.000000Z"
+}
