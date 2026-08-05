@@ -1,0 +1,22 @@
+{
+    "round_id": "f86e84dd-c6f2-45af-9f67-743089178a19",
+    "draw_title": "CASH INVADERS PLINKO!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/cash-invaders-plinko",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "66dd55efd69592e33711a4657b525f8f90ca07471cb88677db2b3a5557a684bc",
+    "drand_seed_hash": "8428898abc508d74efe99b62052655d1f651174d0502b166fef8ff2e7b159518337be31b9d275562ebe564024b3df579",
+    "client_seed": "1785964272509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69715,
+    "max_tickets": 279999,
+    "combined_hash": "175982c650b6d572bf64ab7ca92212b27a7d603278ab6d0ba1d1588e06eeb929",
+    "result": "123150",
+    "external_round_id": "31053638",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:11:12.000000Z",
+    "revealed_at": "2026-08-05T21:11:18.000000Z"
+}
