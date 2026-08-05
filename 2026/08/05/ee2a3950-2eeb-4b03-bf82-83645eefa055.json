@@ -1,0 +1,22 @@
+{
+    "round_id": "ee2a3950-2eeb-4b03-bf82-83645eefa055",
+    "draw_title": "£200 Food Shopping Voucher",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps200-food-shopping-voucher-2",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "bf853b76c87439db5aa5f172f9aafa6a4dc45176f58ca36ba3ee552facc0206a",
+    "drand_seed_hash": "8ecab6ba97ad74aba96ffc9331f2174aba2273006a4de3422893f96989f5022008f3235431d5c96b917e668d45bc1085",
+    "client_seed": "1785957519135",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "3cc2517c9b74d23ea7cb4d02e02388ad6a6a2a4c7f835d5b498877a8233668c4",
+    "result": "925",
+    "external_round_id": "31051387",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:18:39.000000Z",
+    "revealed_at": "2026-08-05T19:18:45.000000Z"
+}
