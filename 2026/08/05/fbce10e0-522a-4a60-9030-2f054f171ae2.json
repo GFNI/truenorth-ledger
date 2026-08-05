@@ -1,0 +1,22 @@
+{
+    "round_id": "fbce10e0-522a-4a60-9030-2f054f171ae2",
+    "draw_title": "Shark Chill Pill or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/shark-chill-pill-or-cash-9267",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "af72b1acdf38856858a3095dfd97dd61efafe5bdcb437128d89c3f183296a052",
+    "drand_seed_hash": "881fa7cfa9f872e91dd9edfd3f96da6e6ba1bcf44de52a203cb727e82307910fdcdfc2232fd924bea8ae8f1e8bd712c8",
+    "client_seed": "1785959662046",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12000,
+    "max_tickets": 12000,
+    "combined_hash": "fad29d0581dc05e35dcd3d1f2db0c2913aee13d938085fb348d6d07fba921338",
+    "result": "5243",
+    "external_round_id": "31052102",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:54:22.000000Z",
+    "revealed_at": "2026-08-05T19:54:30.000000Z"
+}
