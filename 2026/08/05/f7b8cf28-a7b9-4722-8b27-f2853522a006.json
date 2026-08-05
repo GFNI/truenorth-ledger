@@ -1,0 +1,22 @@
+{
+    "round_id": "f7b8cf28-a7b9-4722-8b27-f2853522a006",
+    "draw_title": "2p Money Madness",
+    "competition_url": "https://ecnicompetitions.com/admin/products/2p-money-madness-2",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "c3988661d6244a5efc6b942fee304f52c710c36ef7186875c9f872339d4a0461",
+    "drand_seed_hash": "99bf26d435f2fd67935cd515bab655f969e30a6f6a67f9810051d2108b4a372e7148ba47625b303de456aad93a11266c",
+    "client_seed": "1785957051609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 147027,
+    "max_tickets": 549999,
+    "combined_hash": "dad9f98ea936588391a6ea6ce70d48aa77b9110a0aef6eceb99ddad5343e67dd",
+    "result": "193268",
+    "external_round_id": "31051231",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:10:51.000000Z",
+    "revealed_at": "2026-08-05T19:10:57.000000Z"
+}
