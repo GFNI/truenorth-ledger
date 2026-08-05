@@ -1,0 +1,22 @@
+{
+    "round_id": "94505eed-ad5f-49ed-9106-9a5e4c57c4b4",
+    "draw_title": "World Cup Slots",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/world-cup-slots",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "3e25dd1855e2018c72ffa80249cb42aa79b82fd282d423fcd0e595238a98136f",
+    "drand_seed_hash": "8105203f4c9156ed622b3fd8f8c0bc7fd980fbf00bc98b4754df9b880d24017b0e20263975bbf7e7768dc9f45e16c463",
+    "client_seed": "1785922409525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35328,
+    "max_tickets": 36000,
+    "combined_hash": "3deb45c140402b383842cb4c2899662e8c73c8240d53039c77d4022dc23fb5f0",
+    "result": "28894",
+    "external_round_id": "31039684",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T09:33:29.000000Z",
+    "revealed_at": "2026-08-05T09:33:36.000000Z"
+}
