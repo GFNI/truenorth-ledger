@@ -1,0 +1,22 @@
+{
+    "round_id": "c4224612-d1f7-4e82-9e23-5bd9e00e0744",
+    "draw_title": "£150 Tesco Gift Card",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-tesco-gift-card-with-instants-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "23afa08b132c0b5f203e72d46fc89ea4577aad26896701c6d740459791856cee",
+    "drand_seed_hash": "98f1d2ddcb160d21891219155985ef8d833eb95c76c7c8ddf598205e3bf275f463d60e96fe39b9115db0c6e3cba65374",
+    "client_seed": "1785964939733",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "5b8806fd0ff29c13da7ee03abaa1915faf146bc9668ad8a9f5d323b76efc1996",
+    "result": "12",
+    "external_round_id": "31053861",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:22:19.000000Z",
+    "revealed_at": "2026-08-05T21:22:29.000000Z"
+}
