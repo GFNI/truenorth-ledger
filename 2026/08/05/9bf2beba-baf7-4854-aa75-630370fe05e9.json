@@ -1,0 +1,22 @@
+{
+    "round_id": "9bf2beba-baf7-4854-aa75-630370fe05e9",
+    "draw_title": "Mystery Box - Win A Mystery Prize ✨ 📦  Daily Draw",
+    "competition_url": "https://topdogprizes.com/admin/products/mystery-box-win-a-mystery-prize-daily-draw",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "0aae05a96a28b80794697cdfd2487a8589eb3bd8718024e6afc6a0db627ac7de",
+    "drand_seed_hash": "8aaba6f6774641eea3e79e86f143af791f6ad5a390ca7472a78d2b2c42d5d83d3a319a329e38e1f607498c5a1561e477",
+    "client_seed": "1785964255071",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3634,
+    "max_tickets": 15999,
+    "combined_hash": "49ff941b10673b266466ab54ec435ba3947b343c5e079ed334f56a065d1b2037",
+    "result": "10437",
+    "external_round_id": "31053633",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T21:10:55.000000Z",
+    "revealed_at": "2026-08-05T21:11:03.000000Z"
+}
