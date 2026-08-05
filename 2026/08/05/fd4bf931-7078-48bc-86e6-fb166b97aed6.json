@@ -1,0 +1,22 @@
+{
+    "round_id": "fd4bf931-7078-48bc-86e6-fb166b97aed6",
+    "draw_title": "Marti’s BINGOing Mad!!!",
+    "competition_url": "https://winandgrin.co.uk/admin/products/martis-bingoing-mad",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "d075728282d7367b59ec3feb24be4bb391cda9cd63780e1c58bf80215f75e856",
+    "drand_seed_hash": "900c8b0bf32c3507e5eba0f7387d12eacb1ad73f239f4e629fe4157068f4a76f7eca8ec256ae4d88f36cbd314523e014",
+    "client_seed": "1785957558981",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5436,
+    "max_tickets": 10000,
+    "combined_hash": "9349d83d3a122f380b0546a7a54737466a22f3a08f7a71d376ca30d6b7347db8",
+    "result": "4788",
+    "external_round_id": "31051401",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:19:19.000000Z",
+    "revealed_at": "2026-08-05T19:19:27.000000Z"
+}
