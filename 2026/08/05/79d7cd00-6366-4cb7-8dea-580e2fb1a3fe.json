@@ -1,0 +1,22 @@
+{
+    "round_id": "79d7cd00-6366-4cb7-8dea-580e2fb1a3fe",
+    "draw_title": "Portable Tyre Inflator",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/portable-tyre-inflator-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "fa8737c36b2437bd79687fb46424b7c64394b91ce1e13241709903e1f8a59a53",
+    "drand_seed_hash": "b515286036e0d8974a899f1012a27bee9c1b8a85d90d9b066df0d8ae58ddb84987908870caf3edca3650b2970947acf7",
+    "client_seed": "1785958167761",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 120,
+    "combined_hash": "db808ddbc571eb9e1a39e173a991af8e42fdd2632da96ec4aa5c7e78e1fcbad8",
+    "result": "108",
+    "external_round_id": "31051603",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:29:27.000000Z",
+    "revealed_at": "2026-08-05T19:29:33.000000Z"
+}
