@@ -1,0 +1,22 @@
+{
+    "round_id": "d9277a69-afd6-4c3f-a9d7-5386db54515e",
+    "draw_title": "NEW BED ANY SIZE ANY COLOUR PLUS £10,000 INSTANT WINS",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/new-bed-any-size-any-colour-plus-ps10000-instant-wins",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "107e6267e529972e9815c42a14ba762952a2bec46d1d252ace1e4f925872eff5",
+    "drand_seed_hash": "a72b49280f4370e85fb304e93281c1f72a9e09e7d86b12c5c4cc80827a04f9a0aa4b2285939b5366ae2aa56be1b2890a",
+    "client_seed": "1785958546565",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21912,
+    "max_tickets": 600000,
+    "combined_hash": "e625af66bee99398f4edb721123c77938b0172f38b2dfabe487b9f63edf3106e",
+    "result": "154535",
+    "external_round_id": "31051730",
+    "processing_status": "completed",
+    "created_at": "2026-08-05T19:35:46.000000Z",
+    "revealed_at": "2026-08-05T19:35:54.000000Z"
+}
