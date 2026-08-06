@@ -1,0 +1,22 @@
+{
+    "round_id": "575a60a2-ff65-4b96-82a0-3b5f72b655bb",
+    "draw_title": "Ultimate BuzzBallz - Mixed 12-Pack! (Autodraw)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/ultimate-buzzballz-mixed-12-pack-autodraw",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "0709e0608c3b9b306698d528db093d5e632684deb8efdb49189bc541f004727f",
+    "drand_seed_hash": "b01c1601496509df0d423348b433904d934ef1a9afcdd9ccd37afc85c968b78dc2f5d514c8860496c3ee55289d8bc2be",
+    "client_seed": "1786043451582",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1327,
+    "max_tickets": 8500,
+    "combined_hash": "67b562a074076f58e4773d277e8302690d5466d0365121f064bb16050e08fe58",
+    "result": "4028",
+    "external_round_id": "31080031",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:10:51.000000Z",
+    "revealed_at": "2026-08-06T19:10:57.000000Z"
+}
