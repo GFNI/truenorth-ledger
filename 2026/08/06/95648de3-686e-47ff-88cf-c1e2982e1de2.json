@@ -1,0 +1,22 @@
+{
+    "round_id": "95648de3-686e-47ff-88cf-c1e2982e1de2",
+    "draw_title": "£5,250 Family Holiday",
+    "competition_url": "https://jetcomps.co.uk/admin/products/5250-family-holiday",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "0689c468370b744a3c036ddf5c85cf76187b6244538c782a7d324dea4daad768",
+    "drand_seed_hash": "9857afa526d9ff05b67282f6b11c65522a281e49e0e3b9992e39e7707cc001843ef1250e90eb221d3a26bfb79aa3b0b6",
+    "client_seed": "1786045035066",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105557,
+    "max_tickets": 279000,
+    "combined_hash": "eb22b21ae935dad661ddd96114eb4b918ece2e2f07a23e8d2eafbb93febb766f",
+    "result": "86964",
+    "external_round_id": "31080559",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:37:15.000000Z",
+    "revealed_at": "2026-08-06T19:37:21.000000Z"
+}
