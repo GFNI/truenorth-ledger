@@ -1,0 +1,22 @@
+{
+    "round_id": "192e1b43-c107-4cb4-8bce-88fcf9382728",
+    "draw_title": "Ace 10 Snorlax",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-snorlax",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "a2703420d93998599b7d2439e3d02e9ebefcf77551a68a852930abb8fc27515b",
+    "drand_seed_hash": "b9a9626f7df4449394788ddeb9785dc5ad098bee0c31589042004e0f2848c146f07e66bc070bb1db915f3ddde5e3d384",
+    "client_seed": "1786050641205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143,
+    "max_tickets": 300,
+    "combined_hash": "674e2fc0412a5b2371d5bcc55638d5b5422c8b0a5a80c8ae54766b2d01f84650",
+    "result": "136",
+    "external_round_id": "31082428",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T21:10:41.000000Z",
+    "revealed_at": "2026-08-06T21:10:48.000000Z"
+}
