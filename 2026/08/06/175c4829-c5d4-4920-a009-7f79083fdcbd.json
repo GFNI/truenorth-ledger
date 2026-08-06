@@ -1,0 +1,22 @@
+{
+    "round_id": "175c4829-c5d4-4920-a009-7f79083fdcbd",
+    "draw_title": "WIN £150 VOUCHER OF YOUR CHOICE",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps150-voucher-of-your-choice",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "299f5881ecce72c3284952a4314bdae4dc90f3b02761481f580aa605c2d06c02",
+    "drand_seed_hash": "b1b762ba70e7b711b62e64f9527b3add9742b67c20aca6d70e94420ae944b5d418470d590a4858e2a2dde47f94616877",
+    "client_seed": "1786039496378",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 147,
+    "max_tickets": 250,
+    "combined_hash": "6237f40ec7f99908cd8684cca98cce32ac063c8cdf697d80c339718f65d2977c",
+    "result": "237",
+    "external_round_id": "31078713",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T18:04:56.000000Z",
+    "revealed_at": "2026-08-06T18:05:03.000000Z"
+}
