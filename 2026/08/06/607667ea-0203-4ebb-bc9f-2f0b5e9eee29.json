@@ -1,0 +1,22 @@
+{
+    "round_id": "607667ea-0203-4ebb-bc9f-2f0b5e9eee29",
+    "draw_title": "📺 £400 CURRY'S SPENDS 📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps400-currys-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "5ff04b3338619fd445b22248d8f817ab7ddb9fe788cb7d46053510b9d4f3adc7",
+    "drand_seed_hash": "aa5b58bf1c914f7a6af0eb2a4130d8ba9a247c59851c7e95aff8bc46303910215e4c8ce421bd3977f2ad58e89624923d",
+    "client_seed": "1786043465126",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 885,
+    "max_tickets": 885,
+    "combined_hash": "8c3f94b231a5cea37b1466d2a186635029aaa90a1f9f1cb6cda521b14dfcd698",
+    "result": "515",
+    "external_round_id": "31080036",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:11:05.000000Z",
+    "revealed_at": "2026-08-06T19:11:12.000000Z"
+}
