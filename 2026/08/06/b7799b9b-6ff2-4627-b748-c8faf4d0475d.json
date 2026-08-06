@@ -1,0 +1,22 @@
+{
+    "round_id": "b7799b9b-6ff2-4627-b748-c8faf4d0475d",
+    "draw_title": "Alien Invasion - Instant Reveal - Find Aliens to Win Cash Prizes - £100 Main Draw Prize - 7p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/alien-invasion-instant-reveal-find-aliens-to-win-cash-prizes-ps100-main",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "b0ba9f8365d1bf706145e783760b4cd39c3d2debb5c840a7dc3ec488109cbec5",
+    "drand_seed_hash": "a753f79cb89e64742f1bd98d80a389ddfc4865fe86f2ecc1de9d1385f83f464916862ede57ccdc7c0c015a8efdbc370a",
+    "client_seed": "1786039766164",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11511,
+    "max_tickets": 65800,
+    "combined_hash": "fa3dfe5e8c5f48929b1abc20776b47fd044814a6ffdbf2d81436718e437605ca",
+    "result": "44315",
+    "external_round_id": "31078803",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T18:09:26.000000Z",
+    "revealed_at": "2026-08-06T18:09:33.000000Z"
+}
