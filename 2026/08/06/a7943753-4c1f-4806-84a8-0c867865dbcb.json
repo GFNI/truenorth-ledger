@@ -1,0 +1,22 @@
+{
+    "round_id": "a7943753-4c1f-4806-84a8-0c867865dbcb",
+    "draw_title": "BINGO BLITZ 🤩",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/bingo-blitz",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "366609c5fffadc36f91e0128e325f07872d2641424ea250efe9c9b3fc4549f12",
+    "drand_seed_hash": "b5764c62417f9f6801fa07b6880f5658671575eb8039c0f524c928bcec888e8995bc322282e8c4c34ed35e857965df2a",
+    "client_seed": "1786048147187",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19406,
+    "max_tickets": 72000,
+    "combined_hash": "dceef7361c554f3e3833912abd56f22fc12d624c6b06e435bf5c184fb1cf9f4c",
+    "result": "42205",
+    "external_round_id": "31081597",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T20:29:07.000000Z",
+    "revealed_at": "2026-08-06T20:29:15.000000Z"
+}
