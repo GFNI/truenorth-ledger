@@ -1,0 +1,22 @@
+{
+    "round_id": "e64a02f4-3057-4fb2-9ee1-90dcb60a4b99",
+    "draw_title": "Ninja Woodfire Outdoor Oven, Artisan Pizza Maker and BBQ Smoker with Stand & Cover🍖",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-woodfire-outdoor-oven-artisan-pizza-maker-and-bbq-smoker-with-stand-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "2d8ea6a8df9a049a212c26e4b08fdf070b0faa05d0cddd7e8db36fffa69f08de",
+    "drand_seed_hash": "a7c06d5435fda05d262ecc5864eea5ac0f22b0ce195a773376e34eebe9fc625833af6b912d3ad6344bc0f5a39859806b",
+    "client_seed": "1786043223600",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1025,
+    "max_tickets": 1025,
+    "combined_hash": "ed028c0568fa66f1890fa2e821bd81f12e68fab13d1e3ded5ff4c24ded384102",
+    "result": "70",
+    "external_round_id": "31079955",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:07:03.000000Z",
+    "revealed_at": "2026-08-06T19:07:09.000000Z"
+}
