@@ -1,0 +1,22 @@
+{
+    "round_id": "90739932-e9cb-45ef-8e1b-409b4034447a",
+    "draw_title": "£250 Worth of Fam Hol Tickets",
+    "competition_url": "https://jetcomps.co.uk/admin/products/250worthoftickets",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "ac6a0cfbc2a3958838f7bcca3f05319d555c05c06d07e0ee0c2444d2c762ec68",
+    "drand_seed_hash": "ab562ac138229a1668d7a35272fee9bdbcd1bace29dc1b79682582ff06577dd2203db1ee0459b0a3ebdf10804265d7be",
+    "client_seed": "1786035933645",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32500,
+    "max_tickets": 32500,
+    "combined_hash": "d4e6f59e4fd7d06c9d89836bd14ce2349dbebfe811bc8f13ff91a312693ceb06",
+    "result": "30541",
+    "external_round_id": "31077525",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T17:05:33.000000Z",
+    "revealed_at": "2026-08-06T17:05:39.000000Z"
+}
