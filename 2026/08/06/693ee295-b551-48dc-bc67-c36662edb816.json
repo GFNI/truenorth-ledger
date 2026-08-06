@@ -1,0 +1,22 @@
+{
+    "round_id": "693ee295-b551-48dc-bc67-c36662edb816",
+    "draw_title": "CHAOTIC SUMMER DROP - SPLASH ZONE DROP",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-summer-drop-splash-zone-drop",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "dd6bdfda6e7a5734876c1e3d54ea7c257934a1de46edf15189b50e5b1794aa07",
+    "drand_seed_hash": "b990f408821a8dbbd6cdbc18db8db99a4d3c3bad3ac953174512e84150be2fa552e20f206b11a9a1f9b9c11fbffe14b3",
+    "client_seed": "1786019916844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "0cfd11ac3bd2e518d38648cb4761c92dc1b8cf85025113cff35c355de08acc59",
+    "result": "45",
+    "external_round_id": "31072186",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T12:38:36.000000Z",
+    "revealed_at": "2026-08-06T12:38:42.000000Z"
+}
