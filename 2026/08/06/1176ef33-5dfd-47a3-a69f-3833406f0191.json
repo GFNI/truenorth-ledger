@@ -1,0 +1,22 @@
+{
+    "round_id": "1176ef33-5dfd-47a3-a69f-3833406f0191",
+    "draw_title": "Win £25 worth of tickets into Alien Invasion - 5p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-ps25-worth-of-tickets-into-alien-invasion-5p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "39292877333e73db543cfa9c768ee8c5961d92a9315e2b9c2a84b90f06def438",
+    "drand_seed_hash": "90fcb7ed5044b61417889be357944958696e3698ed1514d6f101cd39cb8e1fa5d9ab5307c9ea4aa8c27fb53543afcf66",
+    "client_seed": "1786032642107",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 328,
+    "max_tickets": 700,
+    "combined_hash": "5aae55c5ce9f602e32d9714f7dae19878b83a69d18dd3bfd1fa4f69caa1ab22c",
+    "result": "447",
+    "external_round_id": "31076428",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T16:10:42.000000Z",
+    "revealed_at": "2026-08-06T16:10:48.000000Z"
+}
