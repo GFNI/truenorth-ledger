@@ -1,0 +1,22 @@
+{
+    "round_id": "5007ec68-d2a3-48a3-8396-2c86db985257",
+    "draw_title": "🛒 £750 Supermarket Spree 🛒",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps750-supermarket-spree",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e2c2a48f1a3daa952399b9c193a61eabb25ea4f650beda82b495cf2070f7bec1",
+    "drand_seed_hash": "9266064f19d35304e99f6673bd0ee729ac5f97b9b31b29f084b91a68f7c8615d18c7e6b3cbd9ef4851f7bf72bf762d66",
+    "client_seed": "1786043605589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1250,
+    "max_tickets": 1250,
+    "combined_hash": "c3da8f821c24441c3266ea7db774c59e39bdd7fe9228cea6c5795fc5202a51d1",
+    "result": "732",
+    "external_round_id": "31080083",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:13:25.000000Z",
+    "revealed_at": "2026-08-06T19:13:33.000000Z"
+}
