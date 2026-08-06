@@ -1,0 +1,22 @@
+{
+    "round_id": "d8ab30f1-e79c-4d62-b864-a3eee3067d77",
+    "draw_title": "WIN £1250 CASH + INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps1250-cash-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "cef3d5d9c1e21bb66c87fc8a8a15a4c1189b3673c9ff31b66b7a0ff62699f628",
+    "drand_seed_hash": "90132e1ad74248a76f182952d3b1e30de73b8e803e53965cf7ed1c4146c54f0a82249fe45ccd73e2776e4e98233b5093",
+    "client_seed": "1786039747474",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2839,
+    "max_tickets": 2999,
+    "combined_hash": "364f049993a2df7788d7c35bdb0858b96cf6bebbd3757a6b12e76a949ddbecc5",
+    "result": "1488",
+    "external_round_id": "31078797",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T18:09:07.000000Z",
+    "revealed_at": "2026-08-06T18:09:15.000000Z"
+}
