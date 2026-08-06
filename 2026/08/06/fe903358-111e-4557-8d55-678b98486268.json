@@ -1,0 +1,22 @@
+{
+    "round_id": "fe903358-111e-4557-8d55-678b98486268",
+    "draw_title": "Whack A Mole",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/whack-a-mole",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "7a72081c79070fdcdd4bc8f5daab817b0cf53d4f6cfc0d663527c0fc31ff1d22",
+    "drand_seed_hash": "8dee7541d64f649f9034effafe5c49aaa46e959649242e80dda82c39236f1b0e7b56c894c4e20f5ec279f8e7b6788b9b",
+    "client_seed": "1786014738856",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21796,
+    "max_tickets": 36000,
+    "combined_hash": "ae808b9bc2bd6ebe119968079f9606998dcf64f28e5175d2324815883ee802d7",
+    "result": "6927",
+    "external_round_id": "31070460",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T11:12:18.000000Z",
+    "revealed_at": "2026-08-06T11:12:24.000000Z"
+}
