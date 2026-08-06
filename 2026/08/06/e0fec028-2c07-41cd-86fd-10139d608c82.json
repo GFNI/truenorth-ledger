@@ -1,0 +1,22 @@
+{
+    "round_id": "e0fec028-2c07-41cd-86fd-10139d608c82",
+    "draw_title": "NO PROFIT ODD BOOSTER BUNDLES",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/no-profit-odd-booster-bundles",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "b1cd4e5ca2742cc0e737011563ed2b9c53912e261a2b88a1bc325ff834fceb6a",
+    "drand_seed_hash": "8bb6ce494474a98de77f92695adbbed6a8449a7cfcdd558cc30af9970615a6e74df2dfdf2762275d92de9b944e2da954",
+    "client_seed": "1786048603417",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 348,
+    "max_tickets": 3000,
+    "combined_hash": "a23bae9707cae6f2485408ba027f6c01c3eb0e57e93ec6c2b29d8a214bd52031",
+    "result": "1147",
+    "external_round_id": "31081749",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T20:36:43.000000Z",
+    "revealed_at": "2026-08-06T20:36:51.000000Z"
+}
