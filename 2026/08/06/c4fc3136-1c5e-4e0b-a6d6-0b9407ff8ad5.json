@@ -1,0 +1,22 @@
+{
+    "round_id": "c4fc3136-1c5e-4e0b-a6d6-0b9407ff8ad5",
+    "draw_title": "£234 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps234-for-4p-with-instant-wins",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "202828f961a4dc02b144f08923849bc9165adbc66ad4fb85c73cadea6c5147f4",
+    "drand_seed_hash": "a66f7d69f0356d24109e7332b776ba8a1679d0a75975457b98dad0ff72dfb18582a994f4c707169938a3ea3e70176981",
+    "client_seed": "1786051030438",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 262500,
+    "combined_hash": "a7d511022332da181336fb6da2b26f4d7cbeb866ad4d0d42c62b5bc5c6923369",
+    "result": "73240",
+    "external_round_id": "31082558",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T21:17:10.000000Z",
+    "revealed_at": "2026-08-06T21:17:18.000000Z"
+}
