@@ -1,0 +1,22 @@
+{
+    "round_id": "ef203d58-0252-41e8-bb46-2e3268c8abb9",
+    "draw_title": "WIN A GRAND! For 50p!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-grand-for-50p",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "5ff04b3338619fd445b22248d8f817ab7ddb9fe788cb7d46053510b9d4f3adc7",
+    "drand_seed_hash": "aa5b58bf1c914f7a6af0eb2a4130d8ba9a247c59851c7e95aff8bc46303910215e4c8ce421bd3977f2ad58e89624923d",
+    "client_seed": "1786043466676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2515,
+    "max_tickets": 3999,
+    "combined_hash": "c31166835333871eb7ffa6c3b2f2fd3890ca0f6e98794e654e5d89aeca66cca5",
+    "result": "3779",
+    "external_round_id": "31080036",
+    "processing_status": "completed",
+    "created_at": "2026-08-06T19:11:06.000000Z",
+    "revealed_at": "2026-08-06T19:11:12.000000Z"
+}
