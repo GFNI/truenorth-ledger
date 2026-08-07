@@ -1,0 +1,22 @@
+{
+    "round_id": "20817104-d790-4612-8ea5-97e4930c6d94",
+    "draw_title": "1 In 10 Chance To Win",
+    "competition_url": "https://ryscompetitions.com/admin/products/1-in-10-chance-to-win",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "5ef68fc7afd90811ecb43ded7c224c424a3c1fa64141587792f610e1177589d6",
+    "drand_seed_hash": "9770f453bc4a2acdf1b7ae41e48581b309c20b802317bfeb3a012b26542fa128727ba38ea6182ed1fa854225d65c7b2d",
+    "client_seed": "1786136262918",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "2bfc105a1f2440da9d7c68bec8b9e7228170797f8fff4f27858a6452176ea453",
+    "result": "4572",
+    "external_round_id": "31110968",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:57:42.000000Z",
+    "revealed_at": "2026-08-07T20:57:48.000000Z"
+}
