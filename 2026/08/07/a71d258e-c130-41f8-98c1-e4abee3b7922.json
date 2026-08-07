@@ -1,0 +1,22 @@
+{
+    "round_id": "a71d258e-c130-41f8-98c1-e4abee3b7922",
+    "draw_title": "WONGA WONDERLAND",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/wonga-wonderland",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "17565fe785bc479218f0b720c5f63f8d0b405954c34a5fb5748c2ad47b3ef587",
+    "drand_seed_hash": "82d86f646ffeee0c107159433a1e8b6ba3262465b4cca6b75091d514acc9408ad5a9f7b77f41adae3b1f3d96ae7f44cb",
+    "client_seed": "1786134148936",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189452,
+    "max_tickets": 399999,
+    "combined_hash": "f36ebc1c0178e83bce998e833bfa75a15ad90890b92370da3f12a26ab45e50ef",
+    "result": "112425",
+    "external_round_id": "31110264",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:22:28.000000Z",
+    "revealed_at": "2026-08-07T20:22:36.000000Z"
+}
