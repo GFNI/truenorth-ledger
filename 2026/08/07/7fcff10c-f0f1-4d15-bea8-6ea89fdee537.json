@@ -1,0 +1,22 @@
+{
+    "round_id": "7fcff10c-f0f1-4d15-bea8-6ea89fdee537",
+    "draw_title": "Launch Week Draw!",
+    "competition_url": "https://thecommunityvault.co.uk/admin/products/launch-week-draw",
+    "operator": {
+        "name": "The Community Vault LTD",
+        "website": "https://thecommunityvault.rafflex.uk",
+        "company_number": "NI740353"
+    },
+    "drand_server_seed": "8d04b8f5c19eeb4845c6732286e9af7188aea72a1d4b467a96deb71fe75d1aa6",
+    "drand_seed_hash": "8ef5d08118a4961106586653d75f3b885cc7c11447c2785033f4eeb43c205ebfe451c65e366fb631e3830c23d728f0d8",
+    "client_seed": "1786132914979",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2745,
+    "max_tickets": 10000,
+    "combined_hash": "5b36a3c6663067b82c3298c32de6a7d00cf7230c14ed9c49f1b257b7246a2ac2",
+    "result": "5052",
+    "external_round_id": "31109853",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:01:55.000000Z",
+    "revealed_at": "2026-08-07T20:02:03.000000Z"
+}
