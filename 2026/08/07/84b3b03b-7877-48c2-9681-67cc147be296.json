@@ -1,0 +1,22 @@
+{
+    "round_id": "84b3b03b-7877-48c2-9681-67cc147be296",
+    "draw_title": "Duck Hunt 20K Instant Win Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/duck-hunt-20k-instant-win-pot-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "cbcd858ca2285d2ae7ceafc5f03ce45dccb3e45ba782845f85291028f628882e",
+    "drand_seed_hash": "8925257628fdb57a9c197d7340f190b96dfaab032fb2cef8fba299148681260fdd97a61efa4715663bd5cb233baf8ec6",
+    "client_seed": "1786134745317",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7414,
+    "max_tickets": 45000,
+    "combined_hash": "52d8dc298056a9969e84aae7b7fa180b9c6d8bed264cb6e4b465db12773abf3b",
+    "result": "24155",
+    "external_round_id": "31110463",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:32:25.000000Z",
+    "revealed_at": "2026-08-07T20:32:33.000000Z"
+}
