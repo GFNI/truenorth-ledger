@@ -1,0 +1,22 @@
+{
+    "round_id": "100ec02f-3374-499d-891c-1e5436dd0019",
+    "draw_title": "📚WIN £400 BACK TO SCHOOL SPENDS - NON PROFIT COMPETITION📚 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/win-ps400-back-to-school-spends-non-profit-competition-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "4148e5f2a1a6d43b60982a75a21ea52123ed532a2643f78a16f0611f37ec84b3",
+    "drand_seed_hash": "90decc9b0de3b869e333d624cd07af7ddff4c2c7ebd6d5180b677c8140fef976f9b68307b1c2a4de4208b9e9ab7042f6",
+    "client_seed": "1786133460587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 308,
+    "max_tickets": 400,
+    "combined_hash": "94c9756e1cc7899f8ab9082e7e3748977d4d0a867c2d3749f5a16eb7c694b36c",
+    "result": "277",
+    "external_round_id": "31110034",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:11:00.000000Z",
+    "revealed_at": "2026-08-07T20:11:06.000000Z"
+}
