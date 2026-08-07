@@ -1,0 +1,22 @@
+{
+    "round_id": "a605d67c-aa9e-4dba-99d8-3018856bd06f",
+    "draw_title": "Pinky Panther",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/pinky-panther",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "4ce4c760f0c45cc61db9299c813ee48d4deb94b6c11d9a066a845a9b70ffe637",
+    "drand_seed_hash": "88db5b58f1201abb3dc5143224411542ae6677f1e6e144bda28ceead147e5fe3253d09b5f798da0bdd59abd74f706425",
+    "client_seed": "1786140642364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1942,
+    "max_tickets": 150000,
+    "combined_hash": "2a248f6cc75047572f1eafc268a4fedc5a5440a13172f1a449c3fe9e322b5941",
+    "result": "20235",
+    "external_round_id": "31112428",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T22:10:42.000000Z",
+    "revealed_at": "2026-08-07T22:10:48.000000Z"
+}
