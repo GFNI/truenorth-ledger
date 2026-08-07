@@ -1,0 +1,22 @@
+{
+    "round_id": "48ac026c-3d2f-4235-a01b-098750f4067e",
+    "draw_title": "£100 JD GIFT CARD",
+    "competition_url": "https://geardowncompetitions.com/admin/products/100-jd-gift-card",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "0769337a909b5cafac4bc4b35ab7d4d379c263c5442ce41839ae546c2eb87ef1",
+    "drand_seed_hash": "850735a3424bd8d7e6c8b2a78425b6347ca6dfccdf357cace8199dd814242048a8e7f919d5efb2ddc7c6487a9f58824f",
+    "client_seed": "1786107062927",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 863,
+    "max_tickets": 1999,
+    "combined_hash": "8ea921d839f8139f83065c2bf612b197b73d6d143c7d5d7c3ed00490575c9887",
+    "result": "700",
+    "external_round_id": "31101235",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T12:51:03.000000Z",
+    "revealed_at": "2026-08-07T12:51:09.000000Z"
+}
