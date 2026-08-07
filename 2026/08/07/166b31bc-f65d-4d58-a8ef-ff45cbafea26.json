@@ -1,0 +1,22 @@
+{
+    "round_id": "166b31bc-f65d-4d58-a8ef-ff45cbafea26",
+    "draw_title": "FREE JD CARD LOADED WITH £100 FREE",
+    "competition_url": "https://windropcompetitions.com/admin/products/free-jd-card-loaded-with-ps100-free",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "e3cf013feed3fa87ab2d6de3fd11b15ce3b108c4532048698cb21ed9c6215d71",
+    "drand_seed_hash": "b42e08062a776c1927f905c9cb53e7bd64c8972a768e83d15d94592d5de1f1b121744d867df62f710e64edd269cb2ff3",
+    "client_seed": "1786134710311",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "7cf58b8ec481741150c18adf9b851291f709ea532cb5942f7760ee6b9f94d486",
+    "result": "21",
+    "external_round_id": "31110451",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:31:50.000000Z",
+    "revealed_at": "2026-08-07T20:31:57.000000Z"
+}
