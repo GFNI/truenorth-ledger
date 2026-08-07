@@ -1,0 +1,22 @@
+{
+    "round_id": "4ef74414-5a5e-4425-902f-8d6bb54be42f",
+    "draw_title": "PAC-MAN PLINKO",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/pac-man-plinko-2",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "080a3345d57107f2c734ec5d7e4440a22c752147716b682a0e35bac546e87e0e",
+    "drand_seed_hash": "8eb6816b7274777d650624541877de78d0d8c3c683ae1c1eb1c73e1582772757ec17f934d533c7f4e91735a8831c7eba",
+    "client_seed": "1786133949701",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 202839,
+    "max_tickets": 499999,
+    "combined_hash": "9e5318a96789882f68890a4036627ff25deaf55f90e925b444b129411e21747a",
+    "result": "449448",
+    "external_round_id": "31110197",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:19:09.000000Z",
+    "revealed_at": "2026-08-07T20:19:15.000000Z"
+}
