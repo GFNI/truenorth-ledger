@@ -1,0 +1,22 @@
+{
+    "round_id": "3601df6f-918e-495a-89ed-797368fc7b84",
+    "draw_title": "Pocket Plinko",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/pocket-plinko",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "85c4298b447bcd7ea9c16cffdcc4ebcb4f7ffea5c5eb1888b002b7586db2afa8",
+    "drand_seed_hash": "855a4867e1091a5e6cc834ba40f2e959caa18d71ed1e59c2d7d0b69334173670a3951e85c4eebc3d849aefaf8f286a7b",
+    "client_seed": "1786140648612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17820,
+    "max_tickets": 350000,
+    "combined_hash": "662d81df4aecc9f69ee06dbf9eccdb588e8515b8be6ce4f4fe4f501444589395",
+    "result": "234935",
+    "external_round_id": "31112430",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T22:10:48.000000Z",
+    "revealed_at": "2026-08-07T22:10:54.000000Z"
+}
