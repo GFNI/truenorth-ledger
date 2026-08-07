@@ -1,0 +1,22 @@
+{
+    "round_id": "b3a66aa8-e69b-4527-9ad0-a17f192ab1c7",
+    "draw_title": "PLAY YOUR CARDS RIGHT WITH DIBBY",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/play-your-cards-right-with-dibby",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "9d6fc62d94a863b5e9773007e06eb42e4af029d76683b9a91d38034a50f7f492",
+    "drand_seed_hash": "a2c1ba5dd9a35d674248483dcce000327e18b6da319bec95b5032077c2b7e1c16e4d09ddde30ee6b142ecd1bbff19575",
+    "client_seed": "1786134874687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5291,
+    "max_tickets": 16000,
+    "combined_hash": "a6c3384ebf9a73ee38f29b72b517d0b66901891a868ead2abfc0dff6602b116e",
+    "result": "6951",
+    "external_round_id": "31110506",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T20:34:34.000000Z",
+    "revealed_at": "2026-08-07T20:34:42.000000Z"
+}
