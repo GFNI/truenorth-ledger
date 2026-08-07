@@ -1,0 +1,22 @@
+{
+    "round_id": "51492d06-63aa-4b0f-9ba8-41dd22f8cd9e",
+    "draw_title": "60 Entries to BMW",
+    "competition_url": "https://a9competitions.co.uk/admin/products/60-entries-to-bmw-4",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "c02aabefab3ab3478de6755e38ccfea4363049204c29b7f9c99487be46e12b45",
+    "drand_seed_hash": "8d02e29a3814b9f6df3b3d92eefe293bcdfddf5144ce0fbcf6e449e61f828a1a733ff1f99c913df421fbbdc86c11f5ec",
+    "client_seed": "1786125285769",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 120,
+    "combined_hash": "cec242a9755a707feb4e79cdb0200a14f382bcd29ade9bbbecfadbfb0367986e",
+    "result": "111",
+    "external_round_id": "31107309",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T17:54:45.000000Z",
+    "revealed_at": "2026-08-07T17:54:51.000000Z"
+}
