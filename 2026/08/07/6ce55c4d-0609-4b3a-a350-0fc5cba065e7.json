@@ -1,0 +1,22 @@
+{
+    "round_id": "6ce55c4d-0609-4b3a-a350-0fc5cba065e7",
+    "draw_title": "Chaotic Open the Box - Round 29",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-open-the-box-round-29",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "0df70227c8c493b0522907411a9cb6f63cf63073ea24e8fe4730a6d5838b7853",
+    "drand_seed_hash": "ad684584b8f2606246eca402e6cde3fafd80fac27b3ec40dfefe46451a9696a5c0bced409b21f1977d2e02862fb2fe5f",
+    "client_seed": "1786100822652",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "492aaf37326759b4667a2ddc668582e87bdf04b9d16e395cdf72fee413a3f259",
+    "result": "2506",
+    "external_round_id": "31099155",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T11:07:02.000000Z",
+    "revealed_at": "2026-08-07T11:07:09.000000Z"
+}
