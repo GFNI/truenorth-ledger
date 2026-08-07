@@ -1,0 +1,22 @@
+{
+    "round_id": "cc668363-959d-4d19-a1c6-dba3ddbbbe18",
+    "draw_title": "Ultimate Plug and Play Sim Racing setup",
+    "competition_url": "https://gridchance.co.uk/competition/m",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "791c364b5ed3f8a75f685db6013deedd5c0c2b2bd4c8dfbd49415e72b4b474ce",
+    "drand_seed_hash": "b8ac5bfd527320a9c756a6c936529d72b033361ca30c0893bd43c73ca7738360ec42f296cf9cad1bee768660dadd1b4f",
+    "client_seed": "1786130224067",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 780,
+    "max_tickets": 1999,
+    "combined_hash": "40f8e94e8bf4f5a8db684df4ee611ebdaaf8fa04683c8790c6161fde1ddb2c1c",
+    "result": "598",
+    "external_round_id": "31108955",
+    "processing_status": "completed",
+    "created_at": "2026-08-07T19:17:04.000000Z",
+    "revealed_at": "2026-08-07T19:17:13.000000Z"
+}
