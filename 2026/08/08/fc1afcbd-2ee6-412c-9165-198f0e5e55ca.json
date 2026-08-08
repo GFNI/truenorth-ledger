@@ -1,0 +1,22 @@
+{
+    "round_id": "fc1afcbd-2ee6-412c-9165-198f0e5e55ca",
+    "draw_title": "Beer Dispenser Bundle or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/beer-dispenser-bundle-or-cash-4363",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "9db03d02c736f2fc300b12984037fe1936ba8786dbc13a6761dfb13332c44c48",
+    "drand_seed_hash": "92917cc025f8e199b6ead2f4f428b0345ce8e4b93283053b9799d9121ba982133897beeb847e6de2c408443dd65f57ed",
+    "client_seed": "1786218846860",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 202,
+    "max_tickets": 275,
+    "combined_hash": "17df63b92c837e87cd799b9284760c20d21bcf2ef2e3ed3fbf437e7bfc4206cd",
+    "result": "111",
+    "external_round_id": "31138496",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T19:54:06.000000Z",
+    "revealed_at": "2026-08-08T19:54:12.000000Z"
+}
