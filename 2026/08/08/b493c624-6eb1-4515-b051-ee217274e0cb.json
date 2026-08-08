@@ -1,0 +1,22 @@
+{
+    "round_id": "b493c624-6eb1-4515-b051-ee217274e0cb",
+    "draw_title": "Scarlet & Violet 151 Booster Bundle #1 - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/scarlet-violot-151-booster-bundle-1-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "36afdea2d2d8249b5c654105d16c1b123919ee7800b7ff5a608d2ffe121e2982",
+    "drand_seed_hash": "92a45e88951c51955f24ff93fe5bbf9bed36c5affefaaa743fc3affe2161b6463d8e31277d6c067b47315897f11ba165",
+    "client_seed": "1786216257477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 128,
+    "max_tickets": 385,
+    "combined_hash": "cb80c50bd81449d4a4e6349696ecafd1b8cb0133f3a6f589dfec1fde845c3ddc",
+    "result": "260",
+    "external_round_id": "31137633",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T19:10:57.000000Z",
+    "revealed_at": "2026-08-08T19:11:03.000000Z"
+}
