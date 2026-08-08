@@ -1,0 +1,22 @@
+{
+    "round_id": "0bb8369e-ab66-4620-b694-a341995d1e31",
+    "draw_title": "THE WHEEL OF HEARTS",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/the-wheel-of-hearts",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "52dac1982abde4551529ff0068af9d6b1306ce68e0f831cce6667dafb1673073",
+    "drand_seed_hash": "a327f91b6e941dd39afdf01e798f1cab3eaf84594fa75298bcdfb968e4099c2b0ccb8f1bd10b4e356202c7682d6142b2",
+    "client_seed": "1786220874887",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3925,
+    "max_tickets": 3999,
+    "combined_hash": "e105f1fde6230c74706c634130606b47be2733ae341dba7e9fa87ad43fbb95ad",
+    "result": "704",
+    "external_round_id": "31139172",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T20:27:54.000000Z",
+    "revealed_at": "2026-08-08T20:28:00.000000Z"
+}
