@@ -1,0 +1,22 @@
+{
+    "round_id": "c9813ecb-e44d-4f33-ba0e-8c6318a12ba1",
+    "draw_title": "3 Prosecco Bottles",
+    "competition_url": "https://www.luxeprizes.co.uk/game/43",
+    "operator": {
+        "name": "LuxePrizes",
+        "website": "https://luxeprizes.co.uk/",
+        "company_number": "17320411"
+    },
+    "drand_server_seed": "43ad46f452bfaf54387494c438da93eda1e79c82c81bc567dc9e9be83affb242",
+    "drand_seed_hash": "85c6eaeeb20c5b75123fd4f60c926b7eaf862227959fdebfbe46bc54b071deb26c233d568549a748f72fb82ba8a6bce2",
+    "client_seed": "1786210665065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 30,
+    "combined_hash": "172cd463480c4241d00c4703be62990cb3cd2ca826dc4e003bd637ef1d0d2e42",
+    "result": "4",
+    "external_round_id": "31135769",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T17:37:45.000000Z",
+    "revealed_at": "2026-08-08T17:37:54.000000Z"
+}
