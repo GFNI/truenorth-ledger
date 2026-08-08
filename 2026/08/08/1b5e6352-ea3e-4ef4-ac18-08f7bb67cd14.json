@@ -1,0 +1,22 @@
+{
+    "round_id": "1b5e6352-ea3e-4ef4-ac18-08f7bb67cd14",
+    "draw_title": "Box of 66 Walkers or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/box-of-66-walkers-or-cash-8688",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c8fc7c8f4f3dcfe50221bdb672b1065fbc655ab671ff130ecff66197f8ffa119",
+    "drand_seed_hash": "a95ff9b677c2f4e4a5feaa5f1a2047997c6bd887525eae3195284fa80157097da310116198d3d7ad80362e30b570bd16",
+    "client_seed": "1786217739071",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1804,
+    "max_tickets": 2750,
+    "combined_hash": "e8d6b20beae827358e7ceb86f54443717fd3564833a02986e8f838d21eedbef6",
+    "result": "2301",
+    "external_round_id": "31138127",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T19:35:39.000000Z",
+    "revealed_at": "2026-08-08T19:35:45.000000Z"
+}
