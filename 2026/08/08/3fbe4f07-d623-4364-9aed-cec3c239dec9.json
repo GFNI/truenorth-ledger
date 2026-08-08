@@ -1,0 +1,22 @@
+{
+    "round_id": "3fbe4f07-d623-4364-9aed-cec3c239dec9",
+    "draw_title": "WIN £100 CASH!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps100-cash-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "633f91acd66f66bfb395e5c1e3d17f3df16cf743cf1288a26f135c9a1c787a31",
+    "drand_seed_hash": "a994525505ab1c7bb9b34411622b6706ec022693e3d677d106f565be73e6e42c501cba4ed5cb02fef9096c6dcc6c8033",
+    "client_seed": "1786218040394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 173,
+    "max_tickets": 250,
+    "combined_hash": "ae66c58343b93e33a05b6c14f711b5d8632b1365970a15fe6aeb28415c3e4076",
+    "result": "175",
+    "external_round_id": "31138227",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T19:40:40.000000Z",
+    "revealed_at": "2026-08-08T19:40:45.000000Z"
+}
