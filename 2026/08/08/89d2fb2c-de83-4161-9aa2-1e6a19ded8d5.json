@@ -1,0 +1,22 @@
+{
+    "round_id": "89d2fb2c-de83-4161-9aa2-1e6a19ded8d5",
+    "draw_title": "Lucky number 7",
+    "competition_url": "https://winandgrin.co.uk/admin/products/lucky-number-7",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "4abe8c0e8c099a913cbfd28ebba2223e52a691196417578be55dbfbc4d6460ed",
+    "drand_seed_hash": "a6abfa08b6c1dafaef2334ca3f2f2c486a873d5f36aabf06d5d30cb3f227e3635942f49d75ea434b8ef99ceb0a49ca10",
+    "client_seed": "1786220141629",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146324,
+    "max_tickets": 300000,
+    "combined_hash": "41eb49105db5c2320048694d2826d930d11ab880dfbfb6865ee9818fbce7ac95",
+    "result": "279810",
+    "external_round_id": "31138928",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T20:15:41.000000Z",
+    "revealed_at": "2026-08-08T20:15:48.000000Z"
+}
