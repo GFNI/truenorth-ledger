@@ -1,0 +1,22 @@
+{
+    "round_id": "a2ced808-c105-4b21-af91-10f6259f8820",
+    "draw_title": "Test 1 to 30",
+    "competition_url": "https://www.luxeprizes.co.uk",
+    "operator": {
+        "name": "LuxePrizes",
+        "website": "https://luxeprizes.co.uk/",
+        "company_number": "17320411"
+    },
+    "drand_server_seed": "e608d5815126c78b03fd60ef500578fe03126466d8a78c6e052a8d915a281dbd",
+    "drand_seed_hash": "976b0423c0d710ae6541f5abf7057b698b831eff66e9335bf626c6fe3bc1bde2a97ca19986033b29c7700833cbb9ef6f",
+    "client_seed": "1786205639264",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 30,
+    "combined_hash": "562adb1a92bfcd85cd82de235129ea02276dba38ac3317495d3a1e96df092df8",
+    "result": "29",
+    "external_round_id": "31134093",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T16:13:59.000000Z",
+    "revealed_at": "2026-08-08T16:14:08.000000Z"
+}
