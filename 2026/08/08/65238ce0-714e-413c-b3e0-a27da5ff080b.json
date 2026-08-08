@@ -1,0 +1,22 @@
+{
+    "round_id": "65238ce0-714e-413c-b3e0-a27da5ff080b",
+    "draw_title": "Pokemon Center 30th Celebration ETB #1 - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/pokemon-center-30th-celebration-etb-1-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "761eb8399ca1f02e84a15a4dc909f04cf6a41b7880692b1379d8ae3854a12c65",
+    "drand_seed_hash": "b5e42690c6859e0d6f8cbb1f5f90ee51a454ae0791b97586a95ee3d7fc053e5594f2337584b70e0fc1a66c0ac953d0a2",
+    "client_seed": "1786201839473",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "6a6eb26ce0392ee7b6eb8e50e656e1d2fd533fc218aaa2c568193e88d2f9f98b",
+    "result": "3",
+    "external_round_id": "31132827",
+    "processing_status": "completed",
+    "created_at": "2026-08-08T15:10:39.000000Z",
+    "revealed_at": "2026-08-08T15:10:45.000000Z"
+}
