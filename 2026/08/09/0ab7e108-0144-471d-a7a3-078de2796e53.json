@@ -1,0 +1,22 @@
+{
+    "round_id": "0ab7e108-0144-471d-a7a3-078de2796e53",
+    "draw_title": "£200 for 2p",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ps200-for-2p",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "89b3a873abbd65c3f498206be46cc93b46c8c7b43e90399c81a620ac21c9c178",
+    "drand_seed_hash": "99c9e6c85a456a5892d59eb76058a2aa6b270bbbdfcbc332d9e799231c66b79b559676a13ffc87b8385823455dc57e5d",
+    "client_seed": "1786306099355",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12897,
+    "max_tickets": 20000,
+    "combined_hash": "77313268ed126afb11937b4dcb34544265892ae5209c00cc2b78508508ac1359",
+    "result": "19928",
+    "external_round_id": "31167581",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:08:19.000000Z",
+    "revealed_at": "2026-08-09T20:08:27.000000Z"
+}
