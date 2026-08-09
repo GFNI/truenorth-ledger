@@ -1,0 +1,22 @@
+{
+    "round_id": "68e0f5d3-e1f5-4fd0-96e9-936d4d3cb9ff",
+    "draw_title": "Mercedes-Benz GLC 250 4MATIC AMG Line Premium or £10,000",
+    "competition_url": "https://easybigwins.co.uk/admin/products/mercedes-benz-glc-250-4matic-amg-line-premium-or-ps10000",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "9bfcc8785437f40641bb2fd4ee6c027bfb0818faad1ac6eef1560fb02169a0af",
+    "drand_seed_hash": "a1619e9ae9de9bbf9cd21cb148bd1d3d8b500e50d1bae9dc500281e9aeae11e7ebae9b94cf8d2f17ce180d5050075919",
+    "client_seed": "1786307376510",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179051,
+    "max_tickets": 980000,
+    "combined_hash": "d5540b8ab42f3b92ceadae20ad6b72992ddb57a870abe9bce6da760fd9f2ae1b",
+    "result": "258422",
+    "external_round_id": "31168006",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:29:36.000000Z",
+    "revealed_at": "2026-08-09T20:29:42.000000Z"
+}
