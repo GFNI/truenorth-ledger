@@ -1,0 +1,22 @@
+{
+    "round_id": "c5fad227-5fdf-4297-afa7-9b0dc734102d",
+    "draw_title": "Cash and the Furious - £500 Draw Day Prize",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/cash-and-the-furious-ps500-draw-day-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "43333c6e110f93ee8045ebd0e7586ad7c92a3ce547d576a35c99927bbe4c02c4",
+    "drand_seed_hash": "ac4f1d3107e5221fc0b88291b91e09a5b900b82bc2729c24cbf3786b5029cad6c0970aaa03310839760348d96a65a762",
+    "client_seed": "1786306240708",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4502,
+    "max_tickets": 99999,
+    "combined_hash": "873d3e52694077ca6b8fd4fed2672d9669f8cd512dc2b1d80150b195c2134a77",
+    "result": "24494",
+    "external_round_id": "31167628",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:10:40.000000Z",
+    "revealed_at": "2026-08-09T20:10:48.000000Z"
+}
