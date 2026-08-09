@@ -1,0 +1,22 @@
+{
+    "round_id": "0a20de93-c649-4c48-9833-b56a12365022",
+    "draw_title": "RAPID FIRE - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/rapid-fire",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "4adddf01b4fe16d836d9794336d50b0cedd5dad583460345383d2a9a2ef44d8f",
+    "drand_seed_hash": "a8d23f3860f4eebd5b93b5384e3c82fd17f35679bbaf0bf25135a7bae7058d3d45b214be2885ec5d635ab8400712a685",
+    "client_seed": "1786305161912",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 144603,
+    "max_tickets": 250000,
+    "combined_hash": "57720a017c7d7a0436564448ea3afadde3351ce320abe08ad6233ecdf56c3820",
+    "result": "211848",
+    "external_round_id": "31167268",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:52:41.000000Z",
+    "revealed_at": "2026-08-09T19:52:48.000000Z"
+}
