@@ -1,0 +1,22 @@
+{
+    "round_id": "1bf97103-ce9b-47fc-a83a-fecaf02ccb18",
+    "draw_title": "WIN A TRIP TO GILLHAMS THAILAND FOR 2 PEOPLE + PLUS FLIGHTS! 🎣✈️",
+    "competition_url": "https://clutchcomps.com/admin/products/win-a-trip-to-gillhams-thailand-for-2-people-plus-flights",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "142664df869bb1ff2dbbbe830bae9a2eb6a6a6f5f6865ebfdd84aceefcc6c354",
+    "drand_seed_hash": "a200ebab66af8e3f380c512bbd89bcb7b3d5f95a3e44c5a5001c1659b6250edd916dd47db12726ec367bc9e95f64fb97",
+    "client_seed": "1786306622762",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22548,
+    "max_tickets": 34000,
+    "combined_hash": "0abb51ff55fb34a56c431a2e230fc46d397e0655eb76cf39183075fc55445824",
+    "result": "22379",
+    "external_round_id": "31167755",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:17:02.000000Z",
+    "revealed_at": "2026-08-09T20:17:09.000000Z"
+}
