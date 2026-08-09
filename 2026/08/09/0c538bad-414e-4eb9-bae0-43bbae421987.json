@@ -1,0 +1,22 @@
+{
+    "round_id": "0c538bad-414e-4eb9-bae0-43bbae421987",
+    "draw_title": "WIN AN ANDREW IRWIN, MET FONACAB MERCH BUNDLE FOR JUST 99P",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/win-an-andrew-irwin-met-fonacab-merch-bundle-for-just-99p",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "471bc6b6f08fc04e75cb8d6f143235381960cbbdb3d966c35fb3447b2257dd03",
+    "drand_seed_hash": "9004ddb5063178c1314079f5e7cd13d18937cb07f8011e722e5fb2d435fd88c53d2314ba7d855cbe90a3dcd1f9cf5a4a",
+    "client_seed": "1786305523344",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 444,
+    "max_tickets": 500,
+    "combined_hash": "3c3b10ca6e43b76ee32657cae615ba8708df9945264ffd02307293211b1367b2",
+    "result": "373",
+    "external_round_id": "31167389",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:58:43.000000Z",
+    "revealed_at": "2026-08-09T19:58:51.000000Z"
+}
