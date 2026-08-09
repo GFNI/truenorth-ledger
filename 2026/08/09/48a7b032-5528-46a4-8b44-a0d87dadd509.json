@@ -1,0 +1,22 @@
+{
+    "round_id": "48a7b032-5528-46a4-8b44-a0d87dadd509",
+    "draw_title": "PLINKO ☄️£750 Jackpot!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/plinko-ps750-jackpot",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "30a02dee8357f3548204fdb5b5a21d28c48842727674ca31c69dbf487373b395",
+    "drand_seed_hash": "904616318dee90ca7c1cdc55effd47ee33c461d1e88dbfefc40ad8bec4f95d3956bdb68415afd59d49ef8dff5963a39a",
+    "client_seed": "1786306008965",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 258842,
+    "max_tickets": 420000,
+    "combined_hash": "3c5273f7d3a272027baaa1a58602ba49b2a9ade08983d25990e518d1165d5476",
+    "result": "250045",
+    "external_round_id": "31167550",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:06:48.000000Z",
+    "revealed_at": "2026-08-09T20:06:54.000000Z"
+}
