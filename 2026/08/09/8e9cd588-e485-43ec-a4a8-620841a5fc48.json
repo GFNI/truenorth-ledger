@@ -1,0 +1,22 @@
+{
+    "round_id": "8e9cd588-e485-43ec-a4a8-620841a5fc48",
+    "draw_title": "Duck Duck Goose - £222 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/duck-duck-goose",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "f83d83dff0d82318fdd3736b85e1fd18fbb07053c6111a44f9f2fc7e5da5fa36",
+    "drand_seed_hash": "8e1c523cf5938e5fc225f74b15a626136af2055a398eef942cd8e8f3990760e6c717d6f2a93215975d0dc193e70b658c",
+    "client_seed": "1786304977507",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21788,
+    "max_tickets": 22222,
+    "combined_hash": "e852702c0447f94967d588a241308cf3be2a60539927658d554fcbac3449a649",
+    "result": "10661",
+    "external_round_id": "31167207",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:49:37.000000Z",
+    "revealed_at": "2026-08-09T19:49:45.000000Z"
+}
