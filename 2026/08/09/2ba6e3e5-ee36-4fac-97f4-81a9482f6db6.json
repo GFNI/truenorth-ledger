@@ -1,0 +1,22 @@
+{
+    "round_id": "2ba6e3e5-ee36-4fac-97f4-81a9482f6db6",
+    "draw_title": "£2000 FOR 2P! LOW PRICE BIG PRIZE!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps2000-for-2p-low-price-big-prize",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "6415138b02a306b2af8127d795c3cec59f9c2b7ecb01fc5fc024b9360f2cfc5d",
+    "drand_seed_hash": "ae533b61e14d95fc4ec80ff40c48df3cffb4b6b71f34c439b5903a25c09738e8ee0fef7fefa94eb5bc6ac1d58db7a5de",
+    "client_seed": "1786305852734",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65117,
+    "max_tickets": 200000,
+    "combined_hash": "dd6d49f85913ae59b67edbca2e6726f572af00b9b747fb78c06faaad21981837",
+    "result": "161822",
+    "external_round_id": "31167498",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:04:12.000000Z",
+    "revealed_at": "2026-08-09T20:04:18.000000Z"
+}
