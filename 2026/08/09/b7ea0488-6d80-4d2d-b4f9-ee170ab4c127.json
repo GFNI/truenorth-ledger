@@ -1,0 +1,22 @@
+{
+    "round_id": "b7ea0488-6d80-4d2d-b4f9-ee170ab4c127",
+    "draw_title": "BMW 1 Series M Sport Shadow Edition",
+    "competition_url": "https://a9competitions.co.uk/admin/products/bmw-1-series-m-sport-shadow-edition",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "07dedf819a907d4b5103526fd5a027d318b684d272a6fb36750060cd3255f794",
+    "drand_seed_hash": "b83718fe742d4ef246028a2b2f5bf682b2152268544b4b032402606054c29243dbbbe0bed16f95b1293e955bacd6c3c9",
+    "client_seed": "1786307621408",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10851,
+    "max_tickets": 22500,
+    "combined_hash": "3c3a1c1a26e670616748de069ba7396717557f1916171415cf4674ce973fb680",
+    "result": "5033",
+    "external_round_id": "31168088",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:33:41.000000Z",
+    "revealed_at": "2026-08-09T20:33:48.000000Z"
+}
