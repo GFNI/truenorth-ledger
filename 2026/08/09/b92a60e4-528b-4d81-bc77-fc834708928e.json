@@ -1,0 +1,22 @@
+{
+    "round_id": "b92a60e4-528b-4d81-bc77-fc834708928e",
+    "draw_title": "30 Entries to Summer Holiday Bonanza",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-to-summer-holiday-bonanza",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "cbce1ad849b112af2ae03065a154d9313a837b431da361cc716c747faae4841f",
+    "drand_seed_hash": "a23d41166e690c711a09efaa2594628ddfc4883a41f0ff1a9e33622a7ccf81487f0465380adfc2c24d1608881f1841e1",
+    "client_seed": "1786307537413",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143,
+    "max_tickets": 170,
+    "combined_hash": "6f71fb5f5594a01f7cc3eb74d84709fc6c1b9faf313bf9958dd111df99c4e67a",
+    "result": "146",
+    "external_round_id": "31168060",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:32:17.000000Z",
+    "revealed_at": "2026-08-09T20:32:24.000000Z"
+}
