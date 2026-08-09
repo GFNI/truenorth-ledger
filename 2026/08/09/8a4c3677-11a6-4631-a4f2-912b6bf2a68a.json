@@ -1,0 +1,22 @@
+{
+    "round_id": "8a4c3677-11a6-4631-a4f2-912b6bf2a68a",
+    "draw_title": "Detector Drop!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/detector-drop",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "2972cff8d87cf5726e26f103b8de9f37cec3ac4103110ce732d08feb1275deac",
+    "drand_seed_hash": "b555b2ebda69b739c915781b11b49d3dc9a89a167fc085006f9bf5bbdc6bf05566f560732e088cb424fe61ee55c79ee6",
+    "client_seed": "1786306264969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6302,
+    "max_tickets": 20000,
+    "combined_hash": "58757e673fc0f5a5e958d60dffac3bf18276bb00c58e8ba7c4e22c45b582761f",
+    "result": "825",
+    "external_round_id": "31167635",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:11:04.000000Z",
+    "revealed_at": "2026-08-09T20:11:09.000000Z"
+}
