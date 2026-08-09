@@ -1,0 +1,22 @@
+{
+    "round_id": "edcc5b68-e184-4198-add4-1658e579db56",
+    "draw_title": "£100 SPORTS DIRECT OR SMYTHS VOUCHER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps100-sports-direct-or-smyths-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "ba20a178dd117e90137731547d3181dbf54df354fcbed277d9522ac12f106e92",
+    "drand_seed_hash": "ace653a7aa3e9374c8d8dadd10976e53d890a96515d9cbc87c9719090368f8b0f36e268b95a9c0bea1553cfed511561c",
+    "client_seed": "1786305744436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 312,
+    "max_tickets": 400,
+    "combined_hash": "eb7d91dce8c75401da2793023cfed1a02cc1308d838f76d6b229fd80d86d3275",
+    "result": "76",
+    "external_round_id": "31167462",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:02:24.000000Z",
+    "revealed_at": "2026-08-09T20:02:30.000000Z"
+}
