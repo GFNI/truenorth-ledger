@@ -1,0 +1,22 @@
+{
+    "round_id": "0ff820ee-e584-47e7-86d5-0571b29cb76d",
+    "draw_title": "DEUS II Master",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/deus-ii-master-8269",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "52d8df4b1acc14133a12f0a7d6d03c51cbeef626414153c38cb9d7fe605b2d00",
+    "drand_seed_hash": "a2c386a2a138572d79b1bde7c5e3c1d47a2e1381cc09c355f6c809613be394d969c07469b0662f21963d36ec280b13f5",
+    "client_seed": "1786304166053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 330,
+    "max_tickets": 700,
+    "combined_hash": "8a5a7b014c54f7a1aa146ddf0b9fef3b0545d10187291ed21c7d3e89e6c9647f",
+    "result": "123",
+    "external_round_id": "31166936",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:36:06.000000Z",
+    "revealed_at": "2026-08-09T19:36:12.000000Z"
+}
