@@ -1,0 +1,22 @@
+{
+    "round_id": "06af15e4-788d-4102-afec-6983aaf392fd",
+    "draw_title": "£500 CASH 💰",
+    "competition_url": "https://ecnicompetitions.com/admin/products/ps500-cash-2",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "2fe5c89f284968c6719187f6b25183518b64c0bb420484389f5bc8c0c8bb40c4",
+    "drand_seed_hash": "abe0cd032c9b1269c193ade3c8b11fa31fc42e725321ee7175fe3ddf0c0e2d7c1b82279a61f72ecf6a481945713980d4",
+    "client_seed": "1786310276991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3364,
+    "max_tickets": 10000,
+    "combined_hash": "5c42fd3dbe5996ff76039edef0403d52455c038351b6dde6c4c548c1e3297bcc",
+    "result": "7773",
+    "external_round_id": "31168973",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T21:17:57.000000Z",
+    "revealed_at": "2026-08-09T21:18:03.000000Z"
+}
