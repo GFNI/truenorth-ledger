@@ -1,0 +1,22 @@
+{
+    "round_id": "ad21bde4-4efe-4d6c-9894-6ad44ed26ae0",
+    "draw_title": "Khorne Daemonkin BattleForce #2",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/khorne-daemonkin-battleforce-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "96e6c1d1e35f4b7ad06986d8219d5d539affcc450afcc873866def2688de2c7f",
+    "drand_seed_hash": "80687b3d073f853ff2cfa8f7009ad9cbeba0f065a7d2e393e45d911e29f4c866a7c220fa994521d675b6c106fd1250c2",
+    "client_seed": "1786304058710",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 303,
+    "max_tickets": 600,
+    "combined_hash": "e52a560258b4af7a3d83b102ac01cfc5d428623af7fef50c151a1a3d1c8bd9ef",
+    "result": "510",
+    "external_round_id": "31166900",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:34:18.000000Z",
+    "revealed_at": "2026-08-09T19:34:24.000000Z"
+}
