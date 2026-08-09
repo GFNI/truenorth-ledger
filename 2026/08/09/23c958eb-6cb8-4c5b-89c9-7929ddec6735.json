@@ -1,0 +1,22 @@
+{
+    "round_id": "23c958eb-6cb8-4c5b-89c9-7929ddec6735",
+    "draw_title": "£100 FOR FREE! 💷🔥",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps100-for-free-2",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "5f4318d6790e55b9562b05a45b238f8da73d8036bbc40927451997900b31e293",
+    "drand_seed_hash": "89f699057529e479c9269cf2e699cc8f2a56b1c58eb33291935437b3fdec9d1d712e860dd86ec709b9072a1fcfc1b249",
+    "client_seed": "1786302641896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74,
+    "max_tickets": 600,
+    "combined_hash": "6908d653fdcd8961f3d0988ce5704f6778f6608303d3f54dc652fac4ac3673f0",
+    "result": "186",
+    "external_round_id": "31166428",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:10:41.000000Z",
+    "revealed_at": "2026-08-09T19:10:48.000000Z"
+}
