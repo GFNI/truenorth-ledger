@@ -1,0 +1,22 @@
+{
+    "round_id": "4d445b0d-3ee3-476d-8522-9bb2c4b2f2ee",
+    "draw_title": "JELLYCAT JACKPOT INSTANT WINS - 111 PLUSHIES TO FIND",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jellycat-jackpot-instant-wins-111-plushies-to-find",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "17ec887f92d8cc3462a881b73f692518f50e628f03d4d91d5492143d31d2f48d",
+    "drand_seed_hash": "81d49b9dea741c087777ce715e55e385d3a85359046af136e5c19851f5559edce4fa79d629d5ffc8c8b36ac38542bb25",
+    "client_seed": "1786306500032",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26748,
+    "max_tickets": 29999,
+    "combined_hash": "25e2717fd2b7d3db0afbf9667d437b217ebcebf21bc65b07f202d5cc6009f644",
+    "result": "21168",
+    "external_round_id": "31167714",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:15:00.000000Z",
+    "revealed_at": "2026-08-09T20:15:06.000000Z"
+}
