@@ -1,0 +1,22 @@
+{
+    "round_id": "130b9ef9-597b-47c8-8129-30fd23c136b6",
+    "draw_title": "LOCKER LOOT",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/locker-loot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7afcfdae26d49000c1713613cff899df3222a0aa80e88f2e2d7119bb9a26fb69",
+    "drand_seed_hash": "ac2e6cc2dcd42d85aafaed4834c6aca7dce14921da0faed40e20e209c54738f589fdc16b5f1ad748b4f5a465e29e774a",
+    "client_seed": "1786306709679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7895,
+    "max_tickets": 22000,
+    "combined_hash": "c06ef6fa8c80393a4ef9f4537212ce744c325c3b04e6382e46cb065e049b5ffa",
+    "result": "6209",
+    "external_round_id": "31167784",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:18:29.000000Z",
+    "revealed_at": "2026-08-09T20:18:36.000000Z"
+}
