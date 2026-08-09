@@ -1,0 +1,22 @@
+{
+    "round_id": "8fe4451e-c25c-45fb-8289-21f1f1029842",
+    "draw_title": "SUPERSTOCK MEGA SCRATCHCARD! SUPER LOW ODDS, BIG WINS!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/superstock-mega-scratchcard-super-low-odds-big-wins",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "99d6c1b52a99a5fd58494f1b3c77a777e248c9253087dedf00abbe24ca597821",
+    "drand_seed_hash": "abeee94edb6f41a1c954467846236af36ad549cd007bd776ae93c206d7a8c69168bb0d8954909cde5a42b4ca493c73a0",
+    "client_seed": "1786304439516",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 531,
+    "max_tickets": 1000,
+    "combined_hash": "dcd5fc5233ae1eb62b5a2c67f831adbdebbf171c442441b4d3f71ce87f6845b6",
+    "result": "533",
+    "external_round_id": "31167027",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:40:39.000000Z",
+    "revealed_at": "2026-08-09T19:40:45.000000Z"
+}
