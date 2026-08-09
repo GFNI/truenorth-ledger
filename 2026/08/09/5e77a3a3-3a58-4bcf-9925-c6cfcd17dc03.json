@@ -1,0 +1,22 @@
+{
+    "round_id": "5e77a3a3-3a58-4bcf-9925-c6cfcd17dc03",
+    "draw_title": "Minelab Pro-Gold Panning Kit",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/minelab-pro-gold-panning-kit",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "32d1a5833b01bafe0326892f15de78ede7cd69e20fcbb970fa79b0601aefef0e",
+    "drand_seed_hash": "b30c4293b6e002459ff315108ada2d2f70f683ccb188f5618f8864ce48c92ce17659005d1f0bed761a17427dd5cd25b4",
+    "client_seed": "1786303514504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 200,
+    "combined_hash": "5f0f3f747567b0afa2006eb51284c480cc563ebf29ab350de16aaec002424e3b",
+    "result": "160",
+    "external_round_id": "31166719",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:25:14.000000Z",
+    "revealed_at": "2026-08-09T19:25:21.000000Z"
+}
