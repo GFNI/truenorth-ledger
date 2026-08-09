@@ -1,0 +1,22 @@
+{
+    "round_id": "a6f68099-5f97-4bcc-900c-7f66ea3c4ae2",
+    "draw_title": "Plinko Bonus Buy ~ETIAW ✨",
+    "competition_url": "https://redlemonx.co.uk/admin/products/plinko-bonus-buy-etiaw-2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "2ea79d1656c6bd35d792fb67e60fe699466bc61a471f095f448ec1aeec19893b",
+    "drand_seed_hash": "aba29c0ec81a74c1888cacb1e0cfa18382bba582239115714c4863b4e123eca8e8fb4a05c79cd300e8c4a40d68c82c8c",
+    "client_seed": "1786306301720",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "97a06d59dac17969a98c0ecb982d774f113ae60389e00b135d9fa4da5677fe72",
+    "result": "60",
+    "external_round_id": "31167648",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:11:41.000000Z",
+    "revealed_at": "2026-08-09T20:11:48.000000Z"
+}
