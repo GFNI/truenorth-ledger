@@ -1,0 +1,22 @@
+{
+    "round_id": "e473b602-3c76-4aa6-a7e2-84ebfee4c38f",
+    "draw_title": "500 TICKETS FOR 50K CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-50kcash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "6415138b02a306b2af8127d795c3cec59f9c2b7ecb01fc5fc024b9360f2cfc5d",
+    "drand_seed_hash": "ae533b61e14d95fc4ec80ff40c48df3cffb4b6b71f34c439b5903a25c09738e8ee0fef7fefa94eb5bc6ac1d58db7a5de",
+    "client_seed": "1786305852121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2358,
+    "max_tickets": 2500,
+    "combined_hash": "88824cc37fc95c3c738cf49e59e3981dfaa181cbcd68e738345db2535c265f53",
+    "result": "1273",
+    "external_round_id": "31167498",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T20:04:12.000000Z",
+    "revealed_at": "2026-08-09T20:04:18.000000Z"
+}
