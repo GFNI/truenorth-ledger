@@ -1,0 +1,22 @@
+{
+    "round_id": "3a2a17dc-2a6d-44fa-80cd-e8f79417414f",
+    "draw_title": "Vault Fever — Smash the Piñata! 🪅",
+    "competition_url": "https://theprizevault.co.uk/admin/products/vault-fever-smash-the-pinata",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "2e735868b4e817ea33b3132c25f8276beb76cf9b57dfbc394bc28631022b9202",
+    "drand_seed_hash": "90ac8137663592379e2c839aa425203af3b8c3a61482879788b543c720c4e0c4f4cd50ffaa300afe64edd521c98b6426",
+    "client_seed": "1786302657711",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 552,
+    "max_tickets": 700,
+    "combined_hash": "9761c29e73bc9f514507bbbd4a817000a715bad5fbb5958192666a102a5e3981",
+    "result": "596",
+    "external_round_id": "31166433",
+    "processing_status": "completed",
+    "created_at": "2026-08-09T19:10:57.000000Z",
+    "revealed_at": "2026-08-09T19:11:03.000000Z"
+}
