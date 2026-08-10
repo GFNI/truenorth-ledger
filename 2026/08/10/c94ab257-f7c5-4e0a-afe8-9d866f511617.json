@@ -1,0 +1,22 @@
+{
+    "round_id": "c94ab257-f7c5-4e0a-afe8-9d866f511617",
+    "draw_title": "Henry Hoover!",
+    "competition_url": "https://jetcomps.co.uk/admin/products/henry-hoover",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "397f2e73cd6db7501feab240e0df994d370c263d12012b904301ea980745c650",
+    "drand_seed_hash": "b1d97094311b5030a470161b3c8b487984eab3408417d4c1c5c32c63dec2d655de4eb5175738cb9633f4326bfc8c1dd0",
+    "client_seed": "1786390518392",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1051,
+    "max_tickets": 2720,
+    "combined_hash": "5863e93c7f5f4f39ac70f4ee4e2cdf39e43db9a26193941c6eb4b66236d355e1",
+    "result": "2521",
+    "external_round_id": "31195720",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:35:18.000000Z",
+    "revealed_at": "2026-08-10T19:35:24.000000Z"
+}
