@@ -1,0 +1,22 @@
+{
+    "round_id": "eef543bd-4f7b-4597-b2a3-111393c27fc3",
+    "draw_title": "Hexclad Cookware Set or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/hexclad-cookware-set-or-cash-5478",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "aef332d0224badd3f5edd339c2a833a015edea729449c2b890ab5bd9ff52cdf4",
+    "drand_seed_hash": "a4037d7ac4c48b1499636d80a1a3cce3ed467307533de013f4f93a1be3390c318c1189207bc1d602a123632124acd9b1",
+    "client_seed": "1786391965377",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 834,
+    "max_tickets": 1299,
+    "combined_hash": "fb3b72b558aa52ea34670876ead9108b66b29dd11747b1dd96ba28fa4501bce8",
+    "result": "222",
+    "external_round_id": "31196203",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:59:25.000000Z",
+    "revealed_at": "2026-08-10T19:59:33.000000Z"
+}
