@@ -1,0 +1,22 @@
+{
+    "round_id": "be216142-a3a9-4158-ad46-abc387df8026",
+    "draw_title": "Gator Gold",
+    "competition_url": "https://chaotic.co.uk/competition/gator-gold-1182",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "85019b8e145844e4b4db4d7e5bf9ab05d3b3df4a856e1c9c18740b9f1b879d98",
+    "drand_seed_hash": "95afeabd395f285749df9e9512b45240adac0cc7c7f6b01ecfecc5fc4f6cd785c98b6516227c4cc080efefb3e0231c10",
+    "client_seed": "1786391015394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "08d002e47e84f857fefa6392f1994486f34b50d5522d1fb464224cb8c7e131b5",
+    "result": "14577",
+    "external_round_id": "31195886",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:43:35.000000Z",
+    "revealed_at": "2026-08-10T19:43:42.000000Z"
+}
