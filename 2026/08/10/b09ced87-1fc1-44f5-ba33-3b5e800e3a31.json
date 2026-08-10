@@ -1,0 +1,22 @@
+{
+    "round_id": "b09ced87-1fc1-44f5-ba33-3b5e800e3a31",
+    "draw_title": "£150 Primark Gift Card",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-primark-gift-card-with-instants-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "cf0a6dd0d0ef34fc1ad6648b431130ae385c7bf5bc9a8dd2dc1e5208b7c1ffe4",
+    "drand_seed_hash": "9065e2656f6eba3b01849fbeec240d74143f9e004b3af50d90f341780b41aab8ad59f133a31534dc21460db60ff65cda",
+    "client_seed": "1786396975055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "3d624b4c509078ac406e6464d7dccd910d1d6eb48a4696978a688cc37f6dba91",
+    "result": "246",
+    "external_round_id": "31197873",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T21:22:55.000000Z",
+    "revealed_at": "2026-08-10T21:23:04.000000Z"
+}
