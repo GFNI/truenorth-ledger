@@ -1,0 +1,22 @@
+{
+    "round_id": "9806736d-1fe6-4a11-a921-32596a7f48a4",
+    "draw_title": "Say My Name 🗣️",
+    "competition_url": "https://redlemonx.co.uk/admin/products/say-my-name",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "99c1d1cf5a94e961dac3cd5f07b4e8304ee7842738fcf7a6a2a0a08c41df0be2",
+    "drand_seed_hash": "a2bed00eff0572a3b2fa6ab34ed900cddcdb0c54e219f5bb51fa8a21defaefda72914b4c08ccf6c47e97b4b134c9f60d",
+    "client_seed": "1786392044456",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2818,
+    "max_tickets": 6000,
+    "combined_hash": "8632a8252d6cfb1f64e6a996b097def3ec689fd2b9295334ceb884c79d340ffc",
+    "result": "3975",
+    "external_round_id": "31196229",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T20:00:44.000000Z",
+    "revealed_at": "2026-08-10T20:00:51.000000Z"
+}
