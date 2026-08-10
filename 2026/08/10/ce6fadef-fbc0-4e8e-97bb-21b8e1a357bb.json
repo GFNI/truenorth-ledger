@@ -1,0 +1,22 @@
+{
+    "round_id": "ce6fadef-fbc0-4e8e-97bb-21b8e1a357bb",
+    "draw_title": "BBQ Grill Trolley or cash",
+    "competition_url": "https://chaotic.co.uk/competition/bbq-grill-trolley-or-cash-1795",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e2d807f597b48fc815af08527a204c7b69592926f387ad10346efe2e4b04327d",
+    "drand_seed_hash": "a02d8ce0aec9deb3dcbb226eec34df5c4151eaabe622758f7641a5956531589b3923d5712eb2dd420991d2f46433c1fb",
+    "client_seed": "1786393460095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "83926142c77a06a08087b4dfd4f1b2fc21240158d58456ba7774bafd725da1bb",
+    "result": "756",
+    "external_round_id": "31196701",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T20:24:20.000000Z",
+    "revealed_at": "2026-08-10T20:24:27.000000Z"
+}
