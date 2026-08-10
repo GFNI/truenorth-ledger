@@ -1,0 +1,22 @@
+{
+    "round_id": "05115d68-fb80-4afc-84ca-29eeeeaed06d",
+    "draw_title": "Lavender Cottage Playhouse or cash",
+    "competition_url": "https://chaotic.co.uk/competition/lavender-cottage-playhouse-or-cash-2929",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5d0d2b9cd7bf7bc9a85328e92acf6975416c3699847b908a1e108d6dc4cc43d0",
+    "drand_seed_hash": "927765280a6b0422c7def2b79336ebc8ea2b885c738edaa38050e458f3c3bd6e7cce742bd2f73a1b89ff4c1d4857330d",
+    "client_seed": "1786391860347",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 239,
+    "max_tickets": 300,
+    "combined_hash": "d2db45af064852d530811c923baa9b69de268f215d7c8055a5b61aedfa9f79f9",
+    "result": "59",
+    "external_round_id": "31196168",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:57:40.000000Z",
+    "revealed_at": "2026-08-10T19:57:48.000000Z"
+}
