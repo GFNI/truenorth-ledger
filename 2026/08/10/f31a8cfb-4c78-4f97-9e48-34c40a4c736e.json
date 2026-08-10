@@ -1,0 +1,22 @@
+{
+    "round_id": "f31a8cfb-4c78-4f97-9e48-34c40a4c736e",
+    "draw_title": "SAMSUNG QN80H 55\" Neo QLED 4K Mini LED Vision AI Smart TV 2026 📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-qn80h-55-neo-qled-4k-mini-led-vision-ai-smart-tv-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "a5da0e65df805f275c146d7499daa133f75d9b99db6f77d806ca943a26ec7162",
+    "drand_seed_hash": "aaafecca1cf0fa2835ccb6218fe151aebfbd77f59c203ea1da87ade8543a19b0903130e0896d1f4bd4a552dd913ee40a",
+    "client_seed": "1786388778305",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1650,
+    "max_tickets": 1650,
+    "combined_hash": "6697204170849c8408cd0056016944c905879b4ffdd5ff230f5f1a3f55caa9f1",
+    "result": "201",
+    "external_round_id": "31195140",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:06:18.000000Z",
+    "revealed_at": "2026-08-10T19:06:24.000000Z"
+}
