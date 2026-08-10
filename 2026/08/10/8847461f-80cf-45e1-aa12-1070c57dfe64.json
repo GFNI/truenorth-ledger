@@ -1,0 +1,22 @@
+{
+    "round_id": "8847461f-80cf-45e1-aa12-1070c57dfe64",
+    "draw_title": "OOOCHA £100K 🔥",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ooocha-ps100k",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b57ba1bf614c113339c0dad29d671147824e6941798775b16bdf28749c3e4036",
+    "drand_seed_hash": "b43c077cd77aa29aeb753c11c6ccd1f037383a789f9c25f4d8d991e3cc3baa0f47b93406178715575e04fef781cb4b54",
+    "client_seed": "1786389712640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 160000,
+    "max_tickets": 160000,
+    "combined_hash": "b6c21fb8ab2168a512fcf1ac39b5c60f10981f1d354e5592bb8427abb4296d25",
+    "result": "129207",
+    "external_round_id": "31195452",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:21:52.000000Z",
+    "revealed_at": "2026-08-10T19:22:00.000000Z"
+}
