@@ -1,0 +1,22 @@
+{
+    "round_id": "62501d29-c713-4055-a5dc-207411fe4ac7",
+    "draw_title": "£333 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/three-blind-mice",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "b5c48713b1981781d448f86ccdc7973a7a86e7666514594a62cda001908b6d73",
+    "drand_seed_hash": "abdd805e0e54c524db4bc35a3402f25bffc823b15cae00589a1c96a1a66105c89dd02152d8d430017e2ec32293266f44",
+    "client_seed": "1786397234254",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200000,
+    "combined_hash": "8bc23419c09ecb56b4e427ab3404e118bc1d13b4e60db694b05aa93dd3a388de",
+    "result": "88076",
+    "external_round_id": "31197959",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T21:27:14.000000Z",
+    "revealed_at": "2026-08-10T21:27:23.000000Z"
+}
