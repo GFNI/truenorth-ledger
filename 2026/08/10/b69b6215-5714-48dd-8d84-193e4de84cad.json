@@ -1,0 +1,22 @@
+{
+    "round_id": "b69b6215-5714-48dd-8d84-193e4de84cad",
+    "draw_title": "500 X ENTRIES - CRACK THE VAULT",
+    "competition_url": "https://geardowncompetitions.com/admin/products/500-x-entries-crack-the-vault-2",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "38903a542255d3768c3250686a2a2e7eb9286b2448d2972ab7533b3b9b5e0f1d",
+    "drand_seed_hash": "aedc138496862f1a8aefb65f77c74890bcc586bfb4d57167bcae9f91f53150a640cfac569f8dd097bc80eb6ba6b7fc23",
+    "client_seed": "1786396254928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1777,
+    "max_tickets": 1999,
+    "combined_hash": "dbbf1ea7bb75a46309b51b3de045d6cdb03b4d45296cfdf96ea29b01c52941c7",
+    "result": "874",
+    "external_round_id": "31197632",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T21:10:55.000000Z",
+    "revealed_at": "2026-08-10T21:11:00.000000Z"
+}
