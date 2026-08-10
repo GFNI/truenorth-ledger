@@ -1,0 +1,22 @@
+{
+    "round_id": "7885b28c-989e-4a29-a2d2-75fbd929b3a6",
+    "draw_title": "Outdoor Portable Pizza Oven or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/outdoor-portable-pizza-oven-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "12126fa515a2463042693cd05cb878d3478b0690f84f70af4208b4f2875e8d1c",
+    "drand_seed_hash": "a7b058594b8a15407af11c4d7cdfc92cdf16549e02256caf45f8fce1138e2425dd9ba1fe4e675df063c9f73922a3cac6",
+    "client_seed": "1786393413021",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "4fcd066bafb7c2db6724789d06b925249270438b213524f7063dbb240934bc1e",
+    "result": "388",
+    "external_round_id": "31196685",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T20:23:33.000000Z",
+    "revealed_at": "2026-08-10T20:23:39.000000Z"
+}
