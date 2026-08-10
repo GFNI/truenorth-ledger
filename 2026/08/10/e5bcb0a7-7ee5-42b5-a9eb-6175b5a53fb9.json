@@ -1,0 +1,22 @@
+{
+    "round_id": "e5bcb0a7-7ee5-42b5-a9eb-6175b5a53fb9",
+    "draw_title": "Ruby's Tuppenny Slots - £200 Main Draw + Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/rubys-tuppenny-slots-ps200-main-draw-instant-wins",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "7210ae8ab4c3df1ea4dac633696611ea823cfd2f795e6baa0c0f6ad42c2dbef2",
+    "drand_seed_hash": "a9e85d919bb98e6f2d6e1db626442a97bd0fe94f424b5467175ea821e5952f75f0ce0a973c728a56551d0eb037140ba4",
+    "client_seed": "1786390446773",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 117675,
+    "max_tickets": 325000,
+    "combined_hash": "15c9661da8d6910166723b1fde8a930b8f2fad9fb8c2295d08aa0c810aadcbc4",
+    "result": "250414",
+    "external_round_id": "31195696",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:34:06.000000Z",
+    "revealed_at": "2026-08-10T19:34:12.000000Z"
+}
