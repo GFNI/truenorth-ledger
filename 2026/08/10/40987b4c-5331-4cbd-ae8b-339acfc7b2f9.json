@@ -1,0 +1,22 @@
+{
+    "round_id": "40987b4c-5331-4cbd-ae8b-339acfc7b2f9",
+    "draw_title": "NINJA SLUSH MACHINE",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/ninja-slush-machine",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "3677ebcd993d4bc62f3a235fbc6bd16903b35a27624c0dc9bb6c7095466fc95b",
+    "drand_seed_hash": "87b78ab14e66d4ebd379bdd6d31e3e9b7b8069710c935281981e70a6bff10a7042b3235da23a3b7edc57b60e1b32897f",
+    "client_seed": "1786389682046",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "bff0dc2e2caedfdd0d99cb1c4c69ce5ebd75b18d9bb373b7d9fe85d6b0b46508",
+    "result": "11488",
+    "external_round_id": "31195442",
+    "processing_status": "completed",
+    "created_at": "2026-08-10T19:21:22.000000Z",
+    "revealed_at": "2026-08-10T19:21:30.000000Z"
+}
