@@ -1,0 +1,22 @@
+{
+    "round_id": "3f32a7c0-de7a-4628-8e78-aa5abc903e71",
+    "draw_title": "TUES - £50 CASH, FREE ENTRY",
+    "competition_url": "https://windropcompetitions.com/admin/products/tues-ps50-cash-free-entry",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "a6cd9b5d93d249b21969d391c3f97b8686edafb2d195c9f41ebf81ba870df24d",
+    "drand_seed_hash": "a759f2e408a42f053a4a53bc96892b767469d58efda99528c5816d320e2fe540f98d5feac045abcd059ad1d381540c10",
+    "client_seed": "1786474509839",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "4d30fea2136282cdeb7c7f5a20e5fb9d21db7a9bf0a37a5ef9c45135a086f837",
+    "result": "2",
+    "external_round_id": "31223717",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T18:55:09.000000Z",
+    "revealed_at": "2026-08-11T18:55:15.000000Z"
+}
