@@ -1,0 +1,22 @@
+{
+    "round_id": "31242e3f-6a44-4289-801f-4f9fd9cd1ef3",
+    "draw_title": "Mini for Summer Fun Comp",
+    "competition_url": "https://hiphipprizehub.com/admin/products/mini-for-summer-fun-comp",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "e5494656b22cad1d467abc772f5b32002cae5645c909e39f971987fde2e7a01e",
+    "drand_seed_hash": "8b527270580392f6fd69976bbd8fc375b1b0e466284350e81f9f3f019adf090397e5279d5e659eb5299d2329b3e02da5",
+    "client_seed": "1786428939699",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135,
+    "max_tickets": 135,
+    "combined_hash": "8923007ddc8c7d1520963673cad3b92aff74d34346039887a5ccd4ed00456607",
+    "result": "88",
+    "external_round_id": "31208527",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T06:15:39.000000Z",
+    "revealed_at": "2026-08-11T06:15:45.000000Z"
+}
