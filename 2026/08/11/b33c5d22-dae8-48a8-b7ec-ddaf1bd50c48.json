@@ -1,0 +1,22 @@
+{
+    "round_id": "b33c5d22-dae8-48a8-b7ec-ddaf1bd50c48",
+    "draw_title": "ANUBIS RELIC 1oz HAND-POURED FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/anubis-relic-1oz-hand-poured-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "1de9a9e78c07f5b000f9a277dfc52493229d28a2a7337019d1fa25fd6ed8d946",
+    "drand_seed_hash": "ab817b1a0af6d21d7ea015d3fe672a3a699a62da4def28ca36427a9967f143c6e8d2cbc135ca2c9a57dc35f6cfbaf65c",
+    "client_seed": "1786488942326",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 109,
+    "max_tickets": 150,
+    "combined_hash": "dbc8bae5dbfa88a4e61908a8172af3ef0625bc45473c14ee4f98296a657b62ec",
+    "result": "130",
+    "external_round_id": "31228528",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T22:55:42.000000Z",
+    "revealed_at": "2026-08-11T22:55:48.000000Z"
+}
