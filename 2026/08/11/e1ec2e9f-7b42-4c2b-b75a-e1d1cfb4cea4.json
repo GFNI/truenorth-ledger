@@ -1,0 +1,22 @@
+{
+    "round_id": "e1ec2e9f-7b42-4c2b-b75a-e1d1cfb4cea4",
+    "draw_title": "Trakker Sanctuary Retention Sling V2 – Drawn Live",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/trakker-sanctuary-retention-sling-v2-drawn-live",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "647c7f2f20b3e4f1919474755a6b93de3daaef69ab0f78d6d0f1ad08cc2246b7",
+    "drand_seed_hash": "a1901f644760f3acd6330bbddace57fe19fefb7227d55ac7e126894feac3eb79541c6c100c319b46b071ff97371a0716",
+    "client_seed": "1786482657579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 278,
+    "max_tickets": 589,
+    "combined_hash": "0b9b516b0b6b1e16a893aceb557558e3a9b46e24166610b121ed63ff5cbfdda9",
+    "result": "243",
+    "external_round_id": "31226433",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T21:10:57.000000Z",
+    "revealed_at": "2026-08-11T21:11:03.000000Z"
+}
