@@ -1,0 +1,22 @@
+{
+    "round_id": "bdbff19e-8bb2-4911-a83c-eda1acfd822b",
+    "draw_title": "🍬Amazing Sweet Treats🍬",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/amazing-sweet-treats",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "dc5e154a9ba19b046952f041616b9edb7bc15f800c04c90f40869253ccd6d856",
+    "drand_seed_hash": "81029ec2f03dd891d1e63f8b9c770980fb8ed589cce873360ec346cac1d64523f760f9facf4c1bf4d9e30fe6d2669753",
+    "client_seed": "1786475254734",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 200,
+    "combined_hash": "bee9519396872a758a3b452ca734722dead9d56a2e7df205d4dd919b5163e09c",
+    "result": "7",
+    "external_round_id": "31223966",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:07:34.000000Z",
+    "revealed_at": "2026-08-11T19:07:42.000000Z"
+}
