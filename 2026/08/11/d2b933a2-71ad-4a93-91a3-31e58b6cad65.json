@@ -1,0 +1,22 @@
+{
+    "round_id": "d2b933a2-71ad-4a93-91a3-31e58b6cad65",
+    "draw_title": "£500 For £1 + Instants AUG26 #3",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps500-for-ps1-instants-aug26-3",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "621e3593bcd36a9a8364863c0af3bb6500e6ad479a226beb1328afb75617341a",
+    "drand_seed_hash": "8ff44cd20a18c11919948ccba545844f5c9e328b2b1f77596303abadb2f57020fb0466be5bd64572d54439f5c5a98486",
+    "client_seed": "1786483246561",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 860,
+    "max_tickets": 2250,
+    "combined_hash": "f0ed913fb22976bfdaf593349fe0fec62216b7e351b8c9cd522e701ae8ea4b8b",
+    "result": "1241",
+    "external_round_id": "31226630",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T21:20:46.000000Z",
+    "revealed_at": "2026-08-11T21:20:54.000000Z"
+}
