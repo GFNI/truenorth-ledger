@@ -1,0 +1,22 @@
+{
+    "round_id": "3fbf0a21-97c3-48fe-bf03-6d0e5ab93acc",
+    "draw_title": "£100,000 Cash Grab - Instant Win All Cash Competition",
+    "competition_url": "https://theprizeplay.com/admin/products/ps100000-cash-grab-instant-win-all-cash-competition",
+    "operator": {
+        "name": "The Prize Play Competitions Ltd",
+        "website": "https://theprizeplay.com",
+        "company_number": "15112995"
+    },
+    "drand_server_seed": "56c3d38313c02fa382322e8a427d6d3f4261542aa77561f60de941ca1e277f07",
+    "drand_seed_hash": "8ac777a110052d65409f942e9372a57fefdca8b6f8df24029d42511ea091ff4540c6dcaa22e8b24c73b93c42997ce865",
+    "client_seed": "1786475508743",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2746,
+    "max_tickets": 100000,
+    "combined_hash": "4880d97ad1e08c82ae4f56a6b990567eb452fbbf3cb33d34247f35264b574d7b",
+    "result": "74505",
+    "external_round_id": "31224050",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:11:48.000000Z",
+    "revealed_at": "2026-08-11T19:11:54.000000Z"
+}
