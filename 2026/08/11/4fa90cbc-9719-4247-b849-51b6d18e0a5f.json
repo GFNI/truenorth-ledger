@@ -1,0 +1,22 @@
+{
+    "round_id": "4fa90cbc-9719-4247-b849-51b6d18e0a5f",
+    "draw_title": "Pocket Change Payday!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/pocket-change-payday",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "102c0649a02db881357ad8b84162da94f0f8084c785ce4b3b6cc56bbebdd5bc7",
+    "drand_seed_hash": "99a5f7ab8e39c25a3f070591be189e188f537f2f3b0d410ac79ca54f5c8973751eb026e33bd21f9feccaf8a9536d1810",
+    "client_seed": "1786475137996",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 628999,
+    "max_tickets": 628999,
+    "combined_hash": "716897bd72edecc97d04c66de90d740b2f052f0c1aed9928e7b8c5378a777b4d",
+    "result": "597554",
+    "external_round_id": "31223927",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:05:38.000000Z",
+    "revealed_at": "2026-08-11T19:05:45.000000Z"
+}
