@@ -1,0 +1,22 @@
+{
+    "round_id": "7b781e53-bc39-4c63-9705-3c5547303ccd",
+    "draw_title": "THE ULTIMATE JACKPOT SPINS! £500 END PRIZE! 4895 INSTANT WINS!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/the-ultimate-jackpot-spins-ps500-end-prize-4895-instant-wins",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "9bf2d7da018b66d7e9b01feec42d16973335487586b20470019af1157ab0e7a3",
+    "drand_seed_hash": "b6376149e5f0b1885e999bb97169428bc463fc5ebdc2b70da31552a978534bf9514bea79fb7c0caa99950da6432b0c7d",
+    "client_seed": "1786476988134",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 385417,
+    "max_tickets": 1865000,
+    "combined_hash": "5efa3bf57442ed1bff44a1103d055b5033f0c3166985d17c343a836d1696e821",
+    "result": "158639",
+    "external_round_id": "31224544",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:36:28.000000Z",
+    "revealed_at": "2026-08-11T19:36:36.000000Z"
+}
