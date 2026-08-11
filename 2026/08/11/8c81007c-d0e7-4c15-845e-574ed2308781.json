@@ -1,0 +1,22 @@
+{
+    "round_id": "8c81007c-d0e7-4c15-845e-574ed2308781",
+    "draw_title": "£20K Whack A Mole",
+    "competition_url": "https://geardowncompetitions.com/admin/products/20k-whack-a-mole",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "455bbca5267f08204a721b78362cb7785badc337b80c05315402b6081e48c256",
+    "drand_seed_hash": "a4901c142ece4251c3d776af22eb25c72ac1fe942a9171e22e242482a5dfb2334c6d01b23b4167845ce737f01db19d61",
+    "client_seed": "1786479637775",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3217,
+    "max_tickets": 17500,
+    "combined_hash": "4f0b8a736c00b33e2b26da71c87e482c1f2c79e926f5ffad32f3dac831b0d662",
+    "result": "4204",
+    "external_round_id": "31225427",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T20:20:37.000000Z",
+    "revealed_at": "2026-08-11T20:20:45.000000Z"
+}
