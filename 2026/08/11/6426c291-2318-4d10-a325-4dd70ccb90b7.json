@@ -1,0 +1,22 @@
+{
+    "round_id": "6426c291-2318-4d10-a325-4dd70ccb90b7",
+    "draw_title": "250 Aguila 9mm 124GR #3",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/250-aguila-9mm-124gr-3",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "eb43ce06065edd0be0554aa8e54d1ba6dd86fdd4018ae98a5051830c6baeb2d4",
+    "drand_seed_hash": "8629aed408329dccb07814086874391514bc207f42644fb960bb4c8d44dd982a1d140f704c4c81ae1af25e2fc3af0d9a",
+    "client_seed": "1786480418765",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 239,
+    "max_tickets": 3000,
+    "combined_hash": "9a72178e3d0858b14cdf327abf65b3cfb0634a024f150de18aa12adb84f22309",
+    "result": "2339",
+    "external_round_id": "31225687",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T20:33:38.000000Z",
+    "revealed_at": "2026-08-11T20:33:45.000000Z"
+}
