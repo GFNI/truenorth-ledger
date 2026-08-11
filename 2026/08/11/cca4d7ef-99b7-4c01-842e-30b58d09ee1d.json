@@ -1,0 +1,22 @@
+{
+    "round_id": "cca4d7ef-99b7-4c01-842e-30b58d09ee1d",
+    "draw_title": "Fox Frontier II Bivvy – AUTO DRAWN",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/fox-frontier-ii-bivvy-auto-drawn",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "f5b04e7652622233cd9efd8f4c94f016f4c5cfcad34797ea53f5615ac08d686c",
+    "drand_seed_hash": "9031b10464260347433c9d356f363dad95fc494a4cc9f83eda26cfaad456549884f0fbe79ad2de1b5ac64ea2567d88b5",
+    "client_seed": "1786475466562",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9158,
+    "max_tickets": 21778,
+    "combined_hash": "16e9496d3b68bda4b60a0dd0d3b379ef9c2757cf082143330c3cd701efcc233d",
+    "result": "5189",
+    "external_round_id": "31224036",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:11:06.000000Z",
+    "revealed_at": "2026-08-11T19:11:12.000000Z"
+}
