@@ -1,0 +1,22 @@
+{
+    "round_id": "daf2fb11-2fef-4c2a-8186-7425e620b64f",
+    "draw_title": "£50 Scratch Card Bundle",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps50-scratch-card-bundle",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "176bfd45c669aef8cacecd3fb7b8a4a35dcf5065ae162033824c15c40b78a45c",
+    "drand_seed_hash": "a5831d2d05685bd8568596c303ebf619210cbad2a606a8ff980c2879f97d7f1cbb76abde46037245581520f29d98a4a8",
+    "client_seed": "1786475115534",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "970de9ecb2760190c34545511ff126a107df76fea2d94c6611fd22594515fef0",
+    "result": "44",
+    "external_round_id": "31223919",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:05:15.000000Z",
+    "revealed_at": "2026-08-11T19:05:21.000000Z"
+}
