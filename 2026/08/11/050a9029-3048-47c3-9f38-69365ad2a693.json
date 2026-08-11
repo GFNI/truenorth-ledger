@@ -1,0 +1,22 @@
+{
+    "round_id": "050a9029-3048-47c3-9f38-69365ad2a693",
+    "draw_title": "☀️FREE EVERY TICKET IS A WINNER ☀️ (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/free-every-ticket-is-a-winner-autodraw-2",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "7e0dd8421ee555e5c019ef3fbc307bb554b1db10bb4213b351e395a5c920a9de",
+    "drand_seed_hash": "90f83f9dbdab6dfe500b4a2c3123943d8e11b39de08df771db1d840fa987bc824c9a4c9c0a98ced9303d3ae8249aa3c1",
+    "client_seed": "1786475484996",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 225,
+    "max_tickets": 3000,
+    "combined_hash": "324125c86486569a4e6f94783a9f15a84ef5cae9ade4f31f8ac47e411b7384e9",
+    "result": "2723",
+    "external_round_id": "31224043",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T19:11:25.000000Z",
+    "revealed_at": "2026-08-11T19:11:33.000000Z"
+}
