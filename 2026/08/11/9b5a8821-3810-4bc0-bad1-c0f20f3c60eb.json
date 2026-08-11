@@ -1,0 +1,22 @@
+{
+    "round_id": "9b5a8821-3810-4bc0-bad1-c0f20f3c60eb",
+    "draw_title": "150 X ENTRIES - Whack A Mole",
+    "competition_url": "https://geardowncompetitions.com/admin/products/150-x-entries-whack-a-mole",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "27caf3818246cb495b1b1c5a47e238764b3068c5b71c35ee5943453030b9c3f1",
+    "drand_seed_hash": "82303b62e9ed62ff03a75f096cf6325d10b6dc2018cb2da3f72e94bd2ea80ef01a8fa6ec87b9acaa762a56f05a6f4bf2",
+    "client_seed": "1786471858342",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 989,
+    "max_tickets": 2999,
+    "combined_hash": "d0cf7fe39aaf84e64f66ec7bcbd6c2443e8c15e5a152452176d2841ac66d0784",
+    "result": "997",
+    "external_round_id": "31222834",
+    "processing_status": "completed",
+    "created_at": "2026-08-11T18:10:58.000000Z",
+    "revealed_at": "2026-08-11T18:11:06.000000Z"
+}
