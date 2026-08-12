@@ -1,0 +1,22 @@
+{
+    "round_id": "bebf8e49-2a15-4677-905e-a6ee00f2a067",
+    "draw_title": "£500 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/duck-duck-goose",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "9d3285a296435023aa95282ee37e96097149cc10ce0fcecc907458cc01c85191",
+    "drand_seed_hash": "9521d9000d318c842e10509c61d8b8fc1be8a5534809055692b61c709efa634138ed5ac83d7c54655e863a84a2dc3649",
+    "client_seed": "1786569519060",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 29000,
+    "combined_hash": "a3435ef55a9c809228b4fe2a641d9257d914726ecc10a713db1dfe5f5701a96b",
+    "result": "16620",
+    "external_round_id": "31255387",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T21:18:39.000000Z",
+    "revealed_at": "2026-08-12T21:18:48.000000Z"
+}
