@@ -1,0 +1,22 @@
+{
+    "round_id": "7b714f99-ce7e-47bf-a8a8-b84c11f54761",
+    "draw_title": "Water Filter + 6 Filters!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/water-filter-6-filters",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "142e689c750bf58834137933ce8959f5159e0468e2d7b2f9a8574a3d23574edc",
+    "drand_seed_hash": "a5bf8fd49f7763062c0ddd3d3ab96cf9fb7b4c38329c1c771b39819538699f604f2f64d52bc34295fb1dbc693e17ce12",
+    "client_seed": "1786562556781",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 250,
+    "combined_hash": "ed70e2ad6ca5d660b98ae22618e8884fa27d6831c0d1e256cac54b120f64743a",
+    "result": "164",
+    "external_round_id": "31253066",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:22:36.000000Z",
+    "revealed_at": "2026-08-12T19:22:42.000000Z"
+}
