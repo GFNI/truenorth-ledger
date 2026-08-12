@@ -1,0 +1,22 @@
+{
+    "round_id": "53feac47-0a30-4dd8-a160-d5d8db53a642",
+    "draw_title": "£100 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/a-dime-a-dozen-12-x-ps100s",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "cccd932a336a3369a4a672695947f791c97f4956ac4d5c18a83225a7bc081b67",
+    "drand_seed_hash": "8cdf97f2b7a50a91993cb0a20aedb52f318dabb09c227e887f181d1f92de1bdee3e1c5c539752702a377792d652d2a4a",
+    "client_seed": "1786569418852",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 905,
+    "combined_hash": "d128eee6fa3fee38080fe9441060f31addb491d8038b7e85f3b676da64fa0c05",
+    "result": "253",
+    "external_round_id": "31255353",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T21:16:58.000000Z",
+    "revealed_at": "2026-08-12T21:17:08.000000Z"
+}
