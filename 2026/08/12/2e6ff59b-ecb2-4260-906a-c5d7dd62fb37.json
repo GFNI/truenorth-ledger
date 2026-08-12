@@ -1,0 +1,22 @@
+{
+    "round_id": "2e6ff59b-ecb2-4260-906a-c5d7dd62fb37",
+    "draw_title": "🍏🤖 Apple or Android... the choice is yours! 🍏🤖",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/apple-or-android-the-choice-is-yours",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "36dd46370fdb0c3c03614b6908e8eb0445f29cec2ebcc24ec5bffa686fa32941",
+    "drand_seed_hash": "b85d73ad3886d8496c0282eab752e9ac72c04ae450fbb01bcb4f11b503cb438373df872fd0fe2062f8931054c8329906",
+    "client_seed": "1786558383334",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12905,
+    "max_tickets": 50000,
+    "combined_hash": "604308178205a4aef1ca95c4c027535f8839340e1acfb9de27105b6e3fe6112f",
+    "result": "17505",
+    "external_round_id": "31251675",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T18:13:03.000000Z",
+    "revealed_at": "2026-08-12T18:13:09.000000Z"
+}
