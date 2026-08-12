@@ -1,0 +1,22 @@
+{
+    "round_id": "d1c653cc-dc27-49fe-8614-4da98fc2449d",
+    "draw_title": "TREASURE & FORTUNE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/treasure-fortune",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "815f6800c7fd38e2bc7b36b3c1d98bdd7955bc0e5273725f89c703fed201988e",
+    "drand_seed_hash": "998901e22f0dc225b10f68244d4d1e746884e2a0412befa0ea68580b315dc30a994ff9c5916994051ac787790f152550",
+    "client_seed": "1786566718300",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 182666,
+    "max_tickets": 2000000,
+    "combined_hash": "e1193aec49c240f474ae6f74364636c9cb9cf2fec20a6d2c2e8d5d1c3384f4cd",
+    "result": "1230690",
+    "external_round_id": "31254454",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T20:31:58.000000Z",
+    "revealed_at": "2026-08-12T20:32:06.000000Z"
+}
