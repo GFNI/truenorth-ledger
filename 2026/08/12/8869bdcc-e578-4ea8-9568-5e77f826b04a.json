@@ -1,0 +1,22 @@
+{
+    "round_id": "8869bdcc-e578-4ea8-9568-5e77f826b04a",
+    "draw_title": "ULTRA LOW ODDS! Old Pulteney 30 Year Old!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/ultra-low-odds-old-pulteney-30-year-old",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "140fa2e2f3c66d68025af0dcb8ceb67d1f3f04c606cd0f18defc1093d9265688",
+    "drand_seed_hash": "aaf1195176aabab7b05ef36452b7ad37fef8fb11ec59213f2161f662fbcbc4063491053930d820f32df2d3c0f06e6ff0",
+    "client_seed": "1786569066713",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116,
+    "max_tickets": 140,
+    "combined_hash": "204b4f309aa726f8fb3f4215a8abf43b13d891b969657dab728c9945c49d30bd",
+    "result": "105",
+    "external_round_id": "31255236",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T21:11:06.000000Z",
+    "revealed_at": "2026-08-12T21:11:12.000000Z"
+}
