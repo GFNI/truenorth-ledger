@@ -1,0 +1,22 @@
+{
+    "round_id": "bfdb5c5d-d7d1-4aaf-aead-a6adee003527",
+    "draw_title": "7 NIGHT ALL INCLUSIVE MYSTERY HOLIDAY",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/7-night-all-inclusive-mystery-holiday",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "b16e527034b402effc9d4dcff74c7460812752b76c575cf42e0dd0eafd98a8e7",
+    "drand_seed_hash": "a3765cad58ed73723673696f675ce05b67f3255e7875d88405fae3df97d9dc2148b296adbf0998bf742d3389058d20cc",
+    "client_seed": "1786563411749",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5356,
+    "max_tickets": 10000,
+    "combined_hash": "9093c701b58696b27e155382a097281f12aefaaa0715f0aadfa54e750d79bb28",
+    "result": "6657",
+    "external_round_id": "31253351",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:36:51.000000Z",
+    "revealed_at": "2026-08-12T19:36:57.000000Z"
+}
