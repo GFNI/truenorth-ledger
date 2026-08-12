@@ -1,0 +1,22 @@
+{
+    "round_id": "23dcfd4e-620d-47a9-adde-3c15292ae447",
+    "draw_title": "🎁 Marv's Marvalous Bundle 🎁",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/marvs-marvalous-bundle",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "b7735d2b91ad1b46023ec9f0b9aebdd577609f6c2453ad059c970cb7d3eba8da",
+    "drand_seed_hash": "ad6c870c6e7130dd9cde538cb113d9275a409680f65efc1b27c928e04775e63b5b2216c4af4f873839ece108f8ff5d50",
+    "client_seed": "1786558318023",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8185,
+    "max_tickets": 25000,
+    "combined_hash": "2be2c78bb278e00463db23be377b8a09457596d391a70295e3af2861f661ad8a",
+    "result": "7588",
+    "external_round_id": "31251654",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T18:11:58.000000Z",
+    "revealed_at": "2026-08-12T18:12:06.000000Z"
+}
