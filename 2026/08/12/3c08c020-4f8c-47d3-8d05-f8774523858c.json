@@ -1,0 +1,22 @@
+{
+    "round_id": "3c08c020-4f8c-47d3-8d05-f8774523858c",
+    "draw_title": "EVERY BALL WINS PLINKO!",
+    "competition_url": "https://easybigwins.co.uk/admin/products/every-ball-wins-plinko",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "29afa8d8f360724c56e2f898f949f02e633126e3f0acabcf31f4aaaaa4052a7e",
+    "drand_seed_hash": "a0519dcb06b0c743dc98d9865d1ce276434e80c94a3fc898f644b11515f44d267b68993b4c7953a00966b305059c2e1a",
+    "client_seed": "1786566792569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24887,
+    "max_tickets": 99999,
+    "combined_hash": "3bc2b7962c1f4c9879c6958b4dff8a113052257ffee2b955e0b2843f9a009a56",
+    "result": "50498",
+    "external_round_id": "31254478",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T20:33:12.000000Z",
+    "revealed_at": "2026-08-12T20:33:18.000000Z"
+}
