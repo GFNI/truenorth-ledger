@@ -1,0 +1,22 @@
+{
+    "round_id": "dce1e2b4-21ee-467f-addd-f80cbcbea55d",
+    "draw_title": "500 x Tickets Into Dizzy Donkey",
+    "competition_url": "https://ogcompetitions.co.uk/lists/500-x-tickets-into-dizzy-donkey",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2c454c51569ab39087bba1f31f27faba32981930b15f10d387ef0afc41b12821",
+    "drand_seed_hash": "ae352a1363d096c9b012f0808f5254a0ddcd59678d2b73d1666097d9a776f45650129e935cb7bd2b60fbec699531b901",
+    "client_seed": "1786569332436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200,
+    "combined_hash": "c09cd4caf652821c92a910231a60bddc55b260e73f1a8f443a39100106f1fac2",
+    "result": "193",
+    "external_round_id": "31255325",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T21:15:32.000000Z",
+    "revealed_at": "2026-08-12T21:15:41.000000Z"
+}
