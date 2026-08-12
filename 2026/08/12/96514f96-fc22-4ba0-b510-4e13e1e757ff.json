@@ -1,0 +1,22 @@
+{
+    "round_id": "96514f96-fc22-4ba0-b510-4e13e1e757ff",
+    "draw_title": "£1 PLINKO - EVERY TICKET WINS 12/08",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps1-plinko-every-ticket-wins-1208",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "34ec809fb377c3f36e20764eeca6a738031e643d3606c2e9baca7639d8e9dbd5",
+    "drand_seed_hash": "b192e6e60bbc47647c08e95d90a0350c18de462b9448be2631e361d5894038c095dc0bf2472d8552000a24f7c1540d3c",
+    "client_seed": "1786568718881",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5344,
+    "max_tickets": 10000,
+    "combined_hash": "c5c6c531299bf636733b6dc2c35a1c442bb065ce64ddf45169efdf52aea47e7b",
+    "result": "5062",
+    "external_round_id": "31255120",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T21:05:18.000000Z",
+    "revealed_at": "2026-08-12T21:05:24.000000Z"
+}
