@@ -1,0 +1,22 @@
+{
+    "round_id": "c5a38d74-7da1-416a-b7e9-38ad1f367a23",
+    "draw_title": "5oz AZTEC CALENDAR FINE SILVER ROUND",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/5oz-aztec-calendar-fine-silver-round",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "53cba902dbb50dcac89f26c8ad27f76df9dbe916cf0981b867263fef0fa39a96",
+    "drand_seed_hash": "b2fe354da6fd5dbbf192fb3fd396e9b1594959882a266aad97ebb85ee482656126aaefade6b953833260c6a3f9f82f5b",
+    "client_seed": "1786575354506",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 535,
+    "max_tickets": 750,
+    "combined_hash": "b2dcc75be874c68418066a9ade80503faa9fa6c38c3ad5009028738303165c57",
+    "result": "569",
+    "external_round_id": "31257332",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T22:55:54.000000Z",
+    "revealed_at": "2026-08-12T22:56:00.000000Z"
+}
