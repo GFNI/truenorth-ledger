@@ -1,0 +1,22 @@
+{
+    "round_id": "0fde51ff-287b-4db2-88c9-7b0dc730ad2a",
+    "draw_title": "CASH BUILDER – £5K of Instant Cash + 3 x £100 End Prizes!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/cash-builder-ps5k-of-instant-cash-3-x-ps100-end-prizes",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "00f3aa3728fae61e1f53174fc36c9c4447844053a51688498b7a63eda1879b16",
+    "drand_seed_hash": "99ea7e3b740e0066315ae09bdc507264d8a2d8a235761256f91acd828cef081ca2a16174d7b1f29fd48eb7a0c72e7fec",
+    "client_seed": "1786561635579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66381,
+    "max_tickets": 80000,
+    "combined_hash": "e4425c173a40468a9ad832ab0fb6b01444bf64ce62265a74a8de7ac2af237e21",
+    "result": "2405",
+    "external_round_id": "31252759",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:07:15.000000Z",
+    "revealed_at": "2026-08-12T19:07:21.000000Z"
+}
