@@ -1,0 +1,22 @@
+{
+    "round_id": "12c36a47-3480-46a6-803f-0cdc75b90ea0",
+    "draw_title": "Lego Botanicals Lucky Bamboo",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/lego-botanicals-lucky-bamboo",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "5f7a824f9bc2c2d586e1b1260ff68df0afe3d69709a727c2856fbc0d7ca70811",
+    "drand_seed_hash": "a775baeac3b6cf4e27303d959395020a43caa94c49d288cf9e816687ac91b59f791261902b5f88e330433f52359110ef",
+    "client_seed": "1786562778021",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 250,
+    "combined_hash": "50944e70a54a131c2c97f33720615fcd91c6d62bc833969502f90ee2aa97ad94",
+    "result": "219",
+    "external_round_id": "31253140",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:26:18.000000Z",
+    "revealed_at": "2026-08-12T19:26:24.000000Z"
+}
