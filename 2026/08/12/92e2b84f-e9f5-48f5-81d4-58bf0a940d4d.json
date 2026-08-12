@@ -1,0 +1,22 @@
+{
+    "round_id": "92e2b84f-e9f5-48f5-81d4-58bf0a940d4d",
+    "draw_title": "Rechargeable Smart Scales",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/rechargeable-smart-scales-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "a1cfbd8140b8cb39eecceba16b908dc6c257e51cb76acdeb5ce9a6f6e84329e7",
+    "drand_seed_hash": "a2a891ee8d6e83b0ec26f7518dfd0ac8d71883e34e41ea5dd87fbf1d0e2148826bbd38fdacb69a80f0e41659da939076",
+    "client_seed": "1786562472527",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51,
+    "max_tickets": 300,
+    "combined_hash": "8c13982b8961d73c5e8fe51c1c2f23bd5141d3206a86de37eb9d83bedd92d54b",
+    "result": "265",
+    "external_round_id": "31253038",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:21:12.000000Z",
+    "revealed_at": "2026-08-12T19:21:18.000000Z"
+}
