@@ -1,0 +1,22 @@
+{
+    "round_id": "d283b4c2-771c-4a45-b4d0-731b57a057a9",
+    "draw_title": "WEDS - £50 CASH, FREE ENTRY!",
+    "competition_url": "https://windropcompetitions.com/admin/products/weds-ps50-cash-free-entry",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "19a2a02dbde9e1494512d0605ff86b6868d804a7fd775dd91e9bd2f854de93f4",
+    "drand_seed_hash": "88fbd64255456110e3be84d55424b962533a45ee409b60e0f8c76260c3a2770e1734a6865579a6eb6076fb313e8a2aec",
+    "client_seed": "1786562443924",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "5da019f0965c9bb56cca351cc21381b40616afa24f0e228e349d2d47fdad476a",
+    "result": "94",
+    "external_round_id": "31253029",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:20:44.000000Z",
+    "revealed_at": "2026-08-12T19:20:51.000000Z"
+}
