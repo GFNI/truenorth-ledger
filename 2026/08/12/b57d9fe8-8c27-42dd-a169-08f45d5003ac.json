@@ -1,0 +1,22 @@
+{
+    "round_id": "b57d9fe8-8c27-42dd-a169-08f45d5003ac",
+    "draw_title": "KARCHER INSTANT WINNER PLUS £75,000 INSTANT WINS FOR JUST 5P A TICKET",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/karcher-instant-winner-plus-ps75000-instant-wins-for-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "5be3973c3d8feb3fd8d6e59fa90fcde1cb6a6617702033ab50d2c286e863993a",
+    "drand_seed_hash": "aa107e65c6f5d1babaa5fba7a86b1f0ca1d1398d1abca3ad15460174912ee58bc365122fbc20f4737ae973548876bb80",
+    "client_seed": "1786563351726",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125092,
+    "max_tickets": 3000000,
+    "combined_hash": "3683f124bfb8fd3b939799e614a3056b6b76ebb379dab5de7e23d6bccf9fa4b4",
+    "result": "1807543",
+    "external_round_id": "31253331",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:35:51.000000Z",
+    "revealed_at": "2026-08-12T19:35:57.000000Z"
+}
