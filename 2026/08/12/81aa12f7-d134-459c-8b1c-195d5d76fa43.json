@@ -1,0 +1,22 @@
+{
+    "round_id": "81aa12f7-d134-459c-8b1c-195d5d76fa43",
+    "draw_title": "A Full Box of Boosts!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/a-full-box-of-boosts",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "5b22b418a85eee80268fab5eb88570abf7b0955924f63552cd736859fb8b1be6",
+    "drand_seed_hash": "ac3136051b8a2a994744daa15881a5fb0eed87231ef4d2035d72ecd1882262a836fe928e1f251804a139c1fdf5caff9b",
+    "client_seed": "1786562822205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 250,
+    "combined_hash": "8c44a4c0a565106ebc193bc4d8e41e2c7c9fe18f41dbfb7b6dbabf566dd5986e",
+    "result": "175",
+    "external_round_id": "31253155",
+    "processing_status": "completed",
+    "created_at": "2026-08-12T19:27:02.000000Z",
+    "revealed_at": "2026-08-12T19:27:09.000000Z"
+}
