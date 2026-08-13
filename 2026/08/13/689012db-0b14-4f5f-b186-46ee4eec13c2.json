@@ -1,0 +1,22 @@
+{
+    "round_id": "689012db-0b14-4f5f-b186-46ee4eec13c2",
+    "draw_title": "THE CALEDONIA GAMES - INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/the-caledonia-games-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "f837ffabd2cb6e7d7df3d8256cf236869e6dfb4a2b8de70b2ddd595d1ac45c65",
+    "drand_seed_hash": "b2b218520d734cd14a9262825e139880dfea89bf11333e38b87bde47471f62d00dc5f504e2447f417d62256ed879ba6b",
+    "client_seed": "1786644939210",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16532,
+    "max_tickets": 54999,
+    "combined_hash": "3a8c337808b35601817e0e2c1cfe9c131360283aed52762840d1bb3f8352d692",
+    "result": "50821",
+    "external_round_id": "31280527",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T18:15:39.000000Z",
+    "revealed_at": "2026-08-13T18:15:45.000000Z"
+}
