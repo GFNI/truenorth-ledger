@@ -1,0 +1,22 @@
+{
+    "round_id": "2e3e828e-479a-4e29-a235-1aa0fd0564cb",
+    "draw_title": "🏆Audi A3 S Line Sportback 35 TFSI🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/audi-a3-s-line-sportback-35-tfsi",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0dd37ee6390a37eb1207c60a769acd77f2f21fc66725902abd52169410a4cd30",
+    "drand_seed_hash": "a9e60fe00c4d3ad1ce359873d969b10b5cfc2e1a54ae59244db180a1ed9eabc3eba222212fe156b26d1d134b91534ac2",
+    "client_seed": "1786649116840",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22336,
+    "max_tickets": 28000,
+    "combined_hash": "1022abbd2032466ddabed94805a7e505a15d7433a4d631a2fbfbb5d8b54741f5",
+    "result": "21201",
+    "external_round_id": "31281920",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T19:25:16.000000Z",
+    "revealed_at": "2026-08-13T19:25:24.000000Z"
+}
