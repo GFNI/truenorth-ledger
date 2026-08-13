@@ -1,0 +1,22 @@
+{
+    "round_id": "4801bec4-bdc5-467e-b2a7-926191266a62",
+    "draw_title": "Crab Race 🦀🏁",
+    "competition_url": "https://jetcomps.co.uk/admin/products/crab-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "b201ebd1646d2f87336552fc500548651cec0f00a67e8c85ad4e79bac7af8dc4",
+    "drand_seed_hash": "88b45142e4e57cb3bb72f2e1161c492a54db8b77d50f75041e398b554d24013ba2630a1d32d85af90f0452031fd21743",
+    "client_seed": "1786648250416",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19600,
+    "max_tickets": 39050,
+    "combined_hash": "f0a493fb174aac0031f96ebb8b5247e583005641a420b8b0b775adfac3f1d884",
+    "result": "37983",
+    "external_round_id": "31281631",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T19:10:50.000000Z",
+    "revealed_at": "2026-08-13T19:10:57.000000Z"
+}
