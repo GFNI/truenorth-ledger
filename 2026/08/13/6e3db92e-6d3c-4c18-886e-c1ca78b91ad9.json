@@ -1,0 +1,22 @@
+{
+    "round_id": "6e3db92e-6d3c-4c18-886e-c1ca78b91ad9",
+    "draw_title": "£5K Pop the Birthday Balloon",
+    "competition_url": "https://geardowncompetitions.com/admin/products/5k-pop-the-birthday-balloon",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e235a12f3fc63f7b3e0a4646495a58434c48a77f2273e9bf2c6db7959143d1ab",
+    "drand_seed_hash": "8f585bf2f2bc402db76b9ba9511e6836b8f344870631b5457e2e0ef9f5ef656b0251d4dc245d9fb005996f3fdb3b2a8d",
+    "client_seed": "1786652220928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54695,
+    "max_tickets": 199999,
+    "combined_hash": "795317710681959fc68b23e16f3536c831330d5c77c71daee03df0bba5bb7c5c",
+    "result": "163592",
+    "external_round_id": "31282954",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T20:17:01.000000Z",
+    "revealed_at": "2026-08-13T20:17:06.000000Z"
+}
