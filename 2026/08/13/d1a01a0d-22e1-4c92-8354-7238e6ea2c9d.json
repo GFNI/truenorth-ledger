@@ -1,0 +1,22 @@
+{
+    "round_id": "d1a01a0d-22e1-4c92-8354-7238e6ea2c9d",
+    "draw_title": "SAMSUNG U8000H 85\" Crystal UHD 4K HDR Smart TV 2026 📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-u8000h-85-crystal-uhd-4k-hdr-smart-tv-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "12c00889c41cc09fcf09401baaa6266630521f80ce528e70e0239415954ba7f7",
+    "drand_seed_hash": "a2d2b27936e9eb9a00bbdc102f991ea397248b379e92736d7674c4ad8c7a67b6b502e8efe47249f988d527357811243a",
+    "client_seed": "1786648756222",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1725,
+    "max_tickets": 1725,
+    "combined_hash": "308dc7287c2da4d30a4f8e0132d375ade73f513c29f5772246dbe1807f54100a",
+    "result": "399",
+    "external_round_id": "31281800",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T19:19:16.000000Z",
+    "revealed_at": "2026-08-13T19:19:24.000000Z"
+}
