@@ -1,0 +1,22 @@
+{
+    "round_id": "4a87dde7-de66-4722-a79d-7d9a22b085ff",
+    "draw_title": "SAMSUNG Galaxy Tab S10 Lite 10.9\" Tablet - 256 GB, Grey🩶",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-galaxy-tab-s10-lite-109-tablet-256-gb-grey",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "81a0178eae566770ab65630d69309eb85c31e8b1efa6c83c5c6d65d2561f98d1",
+    "drand_seed_hash": "8031f38bdbc3e8009ad54f7c1e98647849dd46be3813b16328e70d7dc3eb7204ccdb0e18aa282fc67d66b45146c9cd75",
+    "client_seed": "1786648594579",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 896,
+    "max_tickets": 1175,
+    "combined_hash": "e611a06701ed4d9102585e0c79cbe749e94ffc5a11c9a47e582512b351ff430a",
+    "result": "666",
+    "external_round_id": "31281746",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T19:16:34.000000Z",
+    "revealed_at": "2026-08-13T19:16:42.000000Z"
+}
