@@ -1,0 +1,22 @@
+{
+    "round_id": "58f565e6-ab7e-45fe-88fc-40ff5ce9b1fb",
+    "draw_title": "3 WINNERS OF A £100 SUPERMARKET VOUCHER + INSTANT WINS",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/3-winners-of-a-ps100-supermarket-voucher-instant-wins-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "a9005ca5bc52a69d5fbaa3c28498779395710a550175f457eab057d5411deae2",
+    "drand_seed_hash": "b03753ab171932822cd70ac21d634d683fcff9aed5030911c44d29c0d1083074f1f533694e4847bb5dcb9d5ae7d6b8f6",
+    "client_seed": "1786656265853",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8012,
+    "max_tickets": 17499,
+    "combined_hash": "d048a12bc3fe5920d07ca476a7a1fc3681299937107f889094e3881117e4fa02",
+    "result": "7055",
+    "external_round_id": "31284303",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T21:24:25.000000Z",
+    "revealed_at": "2026-08-13T21:24:33.000000Z"
+}
