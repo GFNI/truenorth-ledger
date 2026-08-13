@@ -1,0 +1,22 @@
+{
+    "round_id": "b07e066b-2a1d-41b3-a761-729d8388bfa7",
+    "draw_title": "Win a USWE Raw 8 Hydration pack!!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-uswe-raw-8-hydration-pack",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "49d8f164d577e3cb6629f688652a0bb7621e920afa437a67f00ef6dce0441096",
+    "drand_seed_hash": "876c0b42bd010421c3bac091bda5623b9609c4fb5dcfd16e7ce8684f6b5cc750e025d15a9f248d1f6e9e90873acb9129",
+    "client_seed": "1786635053853",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "c476cfe40c61588175dee4f9adbd4048a0b0956a90fc19fb7e81a5540f0e3d92",
+    "result": "5",
+    "external_round_id": "31277232",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T15:30:53.000000Z",
+    "revealed_at": "2026-08-13T15:31:00.000000Z"
+}
