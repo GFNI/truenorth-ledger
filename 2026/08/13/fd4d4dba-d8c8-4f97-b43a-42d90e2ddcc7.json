@@ -1,0 +1,22 @@
+{
+    "round_id": "fd4d4dba-d8c8-4f97-b43a-42d90e2ddcc7",
+    "draw_title": "NINJA KETTLE AND TOASTER SET",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ninja-kettle-and-toaster-set",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "c43c323f0c5bac2492574077efc93e378f56e6f9526c19e9634bc31737c616c9",
+    "drand_seed_hash": "a9d99e6e57e6e2995ac1a3c548f3c1836ab7405c34975751c8e0bc9a7140335facfd08001ef304e11853f9feed0f4c48",
+    "client_seed": "1786652107331",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2009,
+    "max_tickets": 3333,
+    "combined_hash": "a4c7863cb2482c40dda0cd1b90039ce51d232b6c60d18adbf040c3cedd95d323",
+    "result": "783",
+    "external_round_id": "31282917",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T20:15:07.000000Z",
+    "revealed_at": "2026-08-13T20:15:15.000000Z"
+}
