@@ -1,0 +1,22 @@
+{
+    "round_id": "8f90f8df-a4f7-441b-bbf6-0eba246b38d5",
+    "draw_title": "£1,000 CASH",
+    "competition_url": "https://r3competitions.co.uk/admin/products/1000-cash",
+    "operator": {
+        "name": "R3 Competitions owned by R3 Security Group Ltd",
+        "website": "https://r3competitions.co.uk",
+        "company_number": "17094443"
+    },
+    "drand_server_seed": "b58b83bb65ce11a61729f67a97d6385927b218439368b21e388b11e523bda57a",
+    "drand_seed_hash": "831fc08ea5c7037d881d9976e78ee573e6b689535c3c80f49199e87024bf8ea2b7823d8e1625da183dfb191ab8611060",
+    "client_seed": "1786651876744",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 2000,
+    "combined_hash": "4e1acda4b105dec52c6e9a90d324846c437cae0106ecba007948b8378ac1eb23",
+    "result": "1039",
+    "external_round_id": "31282840",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T20:11:16.000000Z",
+    "revealed_at": "2026-08-13T20:11:24.000000Z"
+}
