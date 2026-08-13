@@ -1,0 +1,22 @@
+{
+    "round_id": "0a208e24-4c77-4c8c-b093-9dfb0a26b358",
+    "draw_title": "Summer Snack Attack! 🍫☀️",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/summer-snack-attack2",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "46ebaa2e00481661b2d01e616d7247a7024e46ebad5cb453e1a0d094fe472914",
+    "drand_seed_hash": "b793245ee260fa3e5fa356f5a419153ea7c9ba25125eaa7d4f5fa1b10e47527d8250ce88c06191cebf4576deebde0c3d",
+    "client_seed": "1786648149933",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97,
+    "max_tickets": 150,
+    "combined_hash": "45a282b0f911ef2e998309c76014d401e5f3eb919d5ae25d27010325d72ef53f",
+    "result": "88",
+    "external_round_id": "31281598",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T19:09:10.000000Z",
+    "revealed_at": "2026-08-13T19:09:18.000000Z"
+}
