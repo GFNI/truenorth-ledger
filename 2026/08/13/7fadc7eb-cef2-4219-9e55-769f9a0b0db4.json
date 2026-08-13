@@ -1,0 +1,22 @@
+{
+    "round_id": "7fadc7eb-cef2-4219-9e55-769f9a0b0db4",
+    "draw_title": "TopDog Treasure Drop - Win Amazing Prizes For FREE!",
+    "competition_url": "https://topdogprizes.com/admin/products/topdog-treasure-drop-win-amazing-prizes-for-free-2",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "9144bb1d1abaf5f3947a2a38e51ec548e0e745449a6be7d2f8716d9c0d11119b",
+    "drand_seed_hash": "a61c4c6f3f9934466782def425a931bc32087ab3bb5912f040c404fcf479a3d4480f5d21fb8cfc4d5c130506081bcad1",
+    "client_seed": "1786655466801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5216,
+    "max_tickets": 19999,
+    "combined_hash": "4e49c645d45c7620ad732437186181373485d7a5586455cda0ee52a819c3a521",
+    "result": "1333",
+    "external_round_id": "31284036",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T21:11:06.000000Z",
+    "revealed_at": "2026-08-13T21:11:12.000000Z"
+}
