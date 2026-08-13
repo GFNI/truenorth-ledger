@@ -1,0 +1,22 @@
+{
+    "round_id": "b7f050fe-5b2e-4b7f-9777-e9ea888bf831",
+    "draw_title": "£200 Worth of Tickets into Tudor Black Bay Competition #5",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps200-worth-of-tickets-into-tudor-black-bay-competition-5",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "6f82057ac49f391ebceb5beba02402e4f39e7588559a8449609b737536085f7d",
+    "drand_seed_hash": "b592017c61832be15eadb77bf5a4223dcfb71c7a0816fc5ab64ac587ab71c6a9a1177a8e877e1e6d3dc56d4fd84eb105",
+    "client_seed": "1786630253227",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 178,
+    "max_tickets": 200,
+    "combined_hash": "2e5ce6147fdc1f08a00c236f52834dc9876efa9d51ec0afa81e93a77435dfc47",
+    "result": "199",
+    "external_round_id": "31275632",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T14:10:53.000000Z",
+    "revealed_at": "2026-08-13T14:11:00.000000Z"
+}
