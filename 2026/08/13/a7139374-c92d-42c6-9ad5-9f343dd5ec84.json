@@ -1,0 +1,22 @@
+{
+    "round_id": "a7139374-c92d-42c6-9ad5-9f343dd5ec84",
+    "draw_title": "TUDOR Black Bay 58 GMT 39mm Automatic Watch",
+    "competition_url": "https://proprizes.co.uk/admin/products/tudor-black-bay-58-gmt-39mm-automatic-watch",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "460e06d4df9f6f6f61d40bbece77095a0e31cdf3372ee83a56deb6be49bbb396",
+    "drand_seed_hash": "ad4e06d5902b9315257f31585b13e3061f37f40aa5d5cf3710552e1eae1fc0a53c59136870488c48c78e08faf51c971a",
+    "client_seed": "1786654607149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1379,
+    "max_tickets": 1695,
+    "combined_hash": "d27d36b8905486dc71d193b1cc254c1a56de30f68365c3c4482cce6d55783b91",
+    "result": "649",
+    "external_round_id": "31283750",
+    "processing_status": "completed",
+    "created_at": "2026-08-13T20:56:47.000000Z",
+    "revealed_at": "2026-08-13T20:56:54.000000Z"
+}
