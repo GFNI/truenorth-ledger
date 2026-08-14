@@ -1,0 +1,22 @@
+{
+    "round_id": "9e9a3dc0-e982-4b34-b2a8-b0e675fd8dc7",
+    "draw_title": "£5,500 -Summer Hoiiday Bonanza",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps5500-summer-hoiiday-bonanza",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "79ea779bba7be0d31426abcdbfb9770b45f82fedfc43620053b87cdcdd54fd4e",
+    "drand_seed_hash": "82d6c68d4524ec52cf990e01140e73a9aaf2262f56353bfd51531ae7e34e30c72fd464785855efae8e6053d99d8c5c1d",
+    "client_seed": "1786739449754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1797,
+    "max_tickets": 3700,
+    "combined_hash": "082da1c9209f606b7a9766b545ea2740c5afc3bac37c04b4d6edceceaa1b216c",
+    "result": "2741",
+    "external_round_id": "31312031",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T20:30:49.000000Z",
+    "revealed_at": "2026-08-14T20:30:57.000000Z"
+}
