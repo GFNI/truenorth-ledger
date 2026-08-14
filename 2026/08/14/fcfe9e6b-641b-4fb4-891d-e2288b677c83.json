@@ -1,0 +1,22 @@
+{
+    "round_id": "fcfe9e6b-641b-4fb4-891d-e2288b677c83",
+    "draw_title": "£50  Gift Card of Choice 💕1p a ticket💕 AUTO DRAWN",
+    "competition_url": "https://hiphipprizehub.com/admin/products/ps50-gift-card-of-choice-1p-a-ticket-auto-drawn",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "14d228649981c5006b41a079faad143a279a02005d837b8bd29ab51ad2b9909d",
+    "drand_seed_hash": "b44cc3539716dfbc92ff9648f2bef6c4a755e0cea4dde7233d6cc018e9cd18e90840fc2c769d2192202cf7177894eabe",
+    "client_seed": "1786698413274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "1fc66c545ef92e56c8c4fd2b55bf3068ff2043af43efba3cce69c26e8c7fe665",
+    "result": "4752",
+    "external_round_id": "31298352",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T09:06:53.000000Z",
+    "revealed_at": "2026-08-14T09:07:00.000000Z"
+}
