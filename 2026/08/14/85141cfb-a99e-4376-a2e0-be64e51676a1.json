@@ -1,0 +1,22 @@
+{
+    "round_id": "85141cfb-a99e-4376-a2e0-be64e51676a1",
+    "draw_title": "£10,000 WEEKLY WINS PLUS - £250 SC END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/ps10000-weekly-wins-plus-ps250-sc-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "049d5cbb1418822d1145ba26e7f9508a571640b122aa9c2aa2aeac820b3f0e6d",
+    "drand_seed_hash": "84b07202036790dc5a8c69310b5e41f90a2dee99b177bebbb15b808eb0b54c4435798f061e7ec198b90071148787bec8",
+    "client_seed": "1786741851595",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25151,
+    "max_tickets": 300000,
+    "combined_hash": "404b3711d24cfd6005078cefbe5633b5accf5fcba3803c504ecf77f114337dc2",
+    "result": "236417",
+    "external_round_id": "31312831",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:10:51.000000Z",
+    "revealed_at": "2026-08-14T21:10:57.000000Z"
+}
