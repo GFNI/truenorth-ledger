@@ -1,0 +1,22 @@
+{
+    "round_id": "aa22696f-af22-46c3-a6da-8f3cefbd08fa",
+    "draw_title": "Win £300 For 3p 💰 Daily Draw - Friday",
+    "competition_url": "https://topdogprizes.com/admin/products/win-ps300-for-3p-daily-draw-friday-6",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "da23d506a147b59dd586712c1359c316ddccbcd9d3c82d022e405c19f7f4dcb3",
+    "drand_seed_hash": "8d147dd79eaeb070afb8ed2779724bd94f62ea39c11052b3d4746efc69034e304751dad2c51922b3328738a14e98aabd",
+    "client_seed": "1786741887834",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5087,
+    "max_tickets": 19999,
+    "combined_hash": "6a63f14f1c978d3a4058e4ba161a61993daf46f9cc998789ba55e9d1f46a0014",
+    "result": "6755",
+    "external_round_id": "31312843",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:11:27.000000Z",
+    "revealed_at": "2026-08-14T21:11:33.000000Z"
+}
