@@ -1,0 +1,22 @@
+{
+    "round_id": "2c666a2e-024e-4a97-8ff7-e25584dca99d",
+    "draw_title": "🚀 GALAXY RUSH 2 – Win £250 Instantly!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/galaxy-rush2",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "996e3f1a3d37afb3bb5b7c7853e10177cba4d1062697908fe5543fb3f3ce2743",
+    "drand_seed_hash": "b47deae60591fb55ce64239e959ed4ca3573d642ae0c717066caa6ae05ab1549136e6dc8862172caf602616d89f138e9",
+    "client_seed": "1786731048146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23326,
+    "max_tickets": 25000,
+    "combined_hash": "e04a7b159e5c9dfe7679c34985a05a276c6f150d427a747b740918329265f615",
+    "result": "1633",
+    "external_round_id": "31309230",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T18:10:48.000000Z",
+    "revealed_at": "2026-08-14T18:10:54.000000Z"
+}
