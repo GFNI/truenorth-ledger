@@ -1,0 +1,22 @@
+{
+    "round_id": "24ad3bb9-9b77-4f4f-bf0d-2810c874ec3f",
+    "draw_title": "WIN £1000 | ONLY 75 ENTRIES 🤩",
+    "competition_url": "https://expcomps.com/admin/products/win-ps1000-only-75-entries",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "4aca5e2c46f404d4fbf7e83a77e5bc212c53d1a140dd8b24d65af826acddc8c5",
+    "drand_seed_hash": "b82d5687cc7c278ae435cdf8f728d71f1c7fbc05c8821ca5fe5e5dee4e12f6f59aaf005f2a0823129f4d0fd8d1a7682f",
+    "client_seed": "1786743647631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 75,
+    "combined_hash": "77048ec2989e0ec6f3e7a028969d4fceedc951ef90f2e0ec5a09736d35a1890f",
+    "result": "10",
+    "external_round_id": "31313430",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:40:47.000000Z",
+    "revealed_at": "2026-08-14T21:40:54.000000Z"
+}
