@@ -1,0 +1,22 @@
+{
+    "round_id": "e8c7fb0f-c6d5-4258-a715-2a37801d1c9e",
+    "draw_title": "Win 20x 5G Gold Bar Tickets - Draw 1",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-5g-gold-bar-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "85011e557ef6b197f8ae2abf0a6f5cd96d58e5c720e87b97b110a9cba88916c1",
+    "drand_seed_hash": "abe92b22cee09331893bbd05538845f7cd29e0e6c6564eafc9e86064aef9614de21a39e2b6b3da205314d98880b00367",
+    "client_seed": "1786737593345",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 69,
+    "combined_hash": "a99f78dcce6fb638a9b26f53947e42444f98504a6b210ab9a8f31e07b42da826",
+    "result": "54",
+    "external_round_id": "31311412",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T19:59:53.000000Z",
+    "revealed_at": "2026-08-14T20:00:00.000000Z"
+}
