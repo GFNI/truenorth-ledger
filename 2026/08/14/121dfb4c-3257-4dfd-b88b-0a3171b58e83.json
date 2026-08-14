@@ -1,0 +1,22 @@
+{
+    "round_id": "121dfb4c-3257-4dfd-b88b-0a3171b58e83",
+    "draw_title": "2P INSTANT WIN GAMES - £100 SC END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/2p-instant-win-games-ps100-sc-end-draw-4",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "2deb3d7e37102fd0af65c481b31b900a7df5a1876ae27aefce8df27db2125a8e",
+    "drand_seed_hash": "9947dee579d5de3253c521e91d1283035ee2e2143ca2cd4ca0a6ec834669d228509f8f12b7fcae4b6bac57c26e34e2d3",
+    "client_seed": "1786741863564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135234,
+    "max_tickets": 999999,
+    "combined_hash": "332006bfd064b05d7ba44ebc9f0324a78f1b2950a357a3adcdaa381a868608f6",
+    "result": "852920",
+    "external_round_id": "31312835",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:11:03.000000Z",
+    "revealed_at": "2026-08-14T21:11:09.000000Z"
+}
