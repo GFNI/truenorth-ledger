@@ -1,0 +1,22 @@
+{
+    "round_id": "b50976ca-43e4-47de-a1ee-8e5c5f9e3cff",
+    "draw_title": "25K Epic Plinko",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-epic-plinko-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "8abeafe37e85ad8487b25ca99c32ff775c29dfbfe5276c7c8305e14943c42d6e",
+    "drand_seed_hash": "884f84859d1ba2227ab78f59eaa5c618adbbee52d84e2a322d4a937eb4a16f9414533c0f4ffbf868c4e88e3305a80773",
+    "client_seed": "1786738029363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2231,
+    "max_tickets": 50000,
+    "combined_hash": "74356604033e395f2f8f07a8da6e7ad31501ba7b47940880fe4f3cb839f9a5f9",
+    "result": "7221",
+    "external_round_id": "31311557",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T20:07:09.000000Z",
+    "revealed_at": "2026-08-14T20:07:15.000000Z"
+}
