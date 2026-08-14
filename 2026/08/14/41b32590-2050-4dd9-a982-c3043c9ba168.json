@@ -1,0 +1,22 @@
+{
+    "round_id": "41b32590-2050-4dd9-a982-c3043c9ba168",
+    "draw_title": "JELLYCAT LITTLES INSTANT WINS - 22 TO FIND",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jellycat-littles-instant-wins-22-to-find",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "15057d8ce32a84041e434949c76cc81bc1eb1cdd763c837db68ac4b292e48edd",
+    "drand_seed_hash": "8185af1e3aa62c149d83c33b4870fd1cf3c37fc32ccdd13aac4b83de3ab44c16c51f233597b03193dad5063ad97aa2fc",
+    "client_seed": "1786689592836",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1111,
+    "max_tickets": 1111,
+    "combined_hash": "0d888b335a729f81fa9e3a752bb0a81a152f43d1d6f72448e7846652dd27e539",
+    "result": "1059",
+    "external_round_id": "31295412",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T06:39:52.000000Z",
+    "revealed_at": "2026-08-14T06:40:00.000000Z"
+}
