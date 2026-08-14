@@ -1,0 +1,22 @@
+{
+    "round_id": "60372ef6-9cbb-41f3-9f48-6ef71f5ff434",
+    "draw_title": "Apple AirPods Pro 3 Noise Cancelling Earbuds",
+    "competition_url": "https://expcomps.com/admin/products/apple-airpods-pro-3-noise-cancelling-earbuds",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "c27574a78108056d80e10d37c076d9717d51d5a91755ec9947681f16348d4253",
+    "drand_seed_hash": "80192be9bdfad0cb6a33b518e395f747bc713e1cc50a75efef8ad776daed5098fad46d7b52da6a6ee77d96fd0ad3c561",
+    "client_seed": "1786743660680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 152,
+    "max_tickets": 499,
+    "combined_hash": "d426b057701c622353bde06bf6a098be17556b07315d494f34a10b711c6298cd",
+    "result": "289",
+    "external_round_id": "31313434",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:41:00.000000Z",
+    "revealed_at": "2026-08-14T21:41:06.000000Z"
+}
