@@ -1,0 +1,22 @@
+{
+    "round_id": "649ac337-efeb-401b-b56c-19a895071b23",
+    "draw_title": "iPhone 17 Pro Max - Choose Your Colour",
+    "competition_url": "https://expcomps.com/admin/products/iphone-17-pro-max-choose-your-colour",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "000e3e190475b57f90ebae45ae4b0a1a33f48e32b70664c5261c19a555e90cf8",
+    "drand_seed_hash": "8351ced82cd068459b862898d5884d3a5414a2d096cf33ae366bbc2c10c37cea66745fae4d7ac88d82e8590b4cdf336f",
+    "client_seed": "1786743654608",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 278,
+    "max_tickets": 699,
+    "combined_hash": "c0ed523bf6a4a4348c20b4715238e00cfabc6eb8fa5622b052ade807beffeb75",
+    "result": "538",
+    "external_round_id": "31313432",
+    "processing_status": "completed",
+    "created_at": "2026-08-14T21:40:54.000000Z",
+    "revealed_at": "2026-08-14T21:41:00.000000Z"
+}
