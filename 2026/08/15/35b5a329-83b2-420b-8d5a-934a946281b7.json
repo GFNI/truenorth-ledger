@@ -1,0 +1,22 @@
+{
+    "round_id": "35b5a329-83b2-420b-8d5a-934a946281b7",
+    "draw_title": "Disco Fever",
+    "competition_url": "https://chaotic.co.uk/competition/disco-fever",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "2954c6984f9e29c63f6cccb3a0c9779c777b92a7e3a1c069f790cd448be76a93",
+    "drand_seed_hash": "88a0b464b5a3585b92d7d26211758188f04902fa4d028c7660cad817c5837399cff4b84773536db8fc733e46086a4377",
+    "client_seed": "1786823639372",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4999,
+    "max_tickets": 4999,
+    "combined_hash": "105c91f31512000fecd75fba16ad7df58748f8340096e7a12a37fcd05cbf6256",
+    "result": "2218",
+    "external_round_id": "31340094",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T19:53:59.000000Z",
+    "revealed_at": "2026-08-15T19:54:06.000000Z"
+}
