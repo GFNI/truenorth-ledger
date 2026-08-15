@@ -1,0 +1,22 @@
+{
+    "round_id": "d964db3b-901c-457a-8040-d674d3adfcaf",
+    "draw_title": "TARGET OMNI",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/target-omni",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "fc96f6b3f0d9e3bbcc0dac49ae90c05038d3ed6842282c1706a4d8b6d7a5c6d4",
+    "drand_seed_hash": "8acaf79921b2131edd4412db913a3609989ea57d796313a05d111d327e0a4a62a87ad83959b9201b7fd16e462ca9298e",
+    "client_seed": "1786787129668",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10016,
+    "max_tickets": 24750,
+    "combined_hash": "d15368f220ca384aaf8c5783bc8c87b197d483c47cc624e41c72b993eb92dd29",
+    "result": "3474",
+    "external_round_id": "31327924",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T09:45:29.000000Z",
+    "revealed_at": "2026-08-15T09:45:36.000000Z"
+}
