@@ -1,0 +1,22 @@
+{
+    "round_id": "ed2b1fd5-2461-4bbb-a5f0-bfefa06337a9",
+    "draw_title": "Chaoss Castle",
+    "competition_url": "https://chaotic.co.uk/competition/chaoss-castle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b6c75a24c9d2318c93cc97a61c46da40c4779ef7713cbaf0402c673fc6b3a2f4",
+    "drand_seed_hash": "8196b4fec19b5b16e9fb7c48681c8e47b8a1f551b414eb449e0c81863c24c910db201dc45fb4a3d3498869da76116b7f",
+    "client_seed": "1786824337905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "e834840b1ba8cd3adf17d5ab461411b7ce1530aacec94e377348fe2dc597c0fb",
+    "result": "3673",
+    "external_round_id": "31340327",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T20:05:37.000000Z",
+    "revealed_at": "2026-08-15T20:05:45.000000Z"
+}
