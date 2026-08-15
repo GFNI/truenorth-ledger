@@ -1,0 +1,22 @@
+{
+    "round_id": "e34e7478-3fc8-48e1-ba0b-2cd9eb6a7ae7",
+    "draw_title": "Udder Chaoss",
+    "competition_url": "https://chaotic.co.uk/competition/udder-chaoss",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "6032678c675af1831ccd5ebc51f0d71bde0ce6a7f9ad87deaf2d06ec20a8ff55",
+    "drand_seed_hash": "8ff70fe7a4414a9980871b6af57a4646c026b06ae5d0fe37e1a1faa13178714bdc6e1de5f44878208869f004cfe8ef3d",
+    "client_seed": "1786823782488",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6999,
+    "max_tickets": 6999,
+    "combined_hash": "421d811858c9e331838bc20a7b1f22127e39831491ba639b93c2e398368f2360",
+    "result": "558",
+    "external_round_id": "31340142",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T19:56:22.000000Z",
+    "revealed_at": "2026-08-15T19:56:30.000000Z"
+}
