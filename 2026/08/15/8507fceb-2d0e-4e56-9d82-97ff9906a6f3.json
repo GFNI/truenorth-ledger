@@ -1,0 +1,22 @@
+{
+    "round_id": "8507fceb-2d0e-4e56-9d82-97ff9906a6f3",
+    "draw_title": "CHAOTIC SUMMER DROP - THEME / WATER PARK DROP",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-summer-drop-theme-water-park-drop",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "4f8cbf928abc58e6f9d4fbf7ecaf21a4303c8fa65db85a0ef610803b56b8eae2",
+    "drand_seed_hash": "a5387bd2f942f4c0a5892404e6804d7da9776975824334d8ec2a09571d6eaa9549bbfdadde060b4c4f7a1f480de32c64",
+    "client_seed": "1786822980845",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "1973c150b0edaf743361aaa796aed887a463198d4b72f423d07ab3babcf80599",
+    "result": "194",
+    "external_round_id": "31339874",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T19:43:00.000000Z",
+    "revealed_at": "2026-08-15T19:43:06.000000Z"
+}
