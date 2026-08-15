@@ -1,0 +1,22 @@
+{
+    "round_id": "bca14be6-6f61-411f-9440-35dd8d493d2e",
+    "draw_title": "Monkey Business",
+    "competition_url": "https://chaotic.co.uk/competition/monkey-business-6894",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ec8bbdb7377774c28e32900163a6b5b09cd3d5c28bcb20b117dc8dd54c91310a",
+    "drand_seed_hash": "ae27e3031efccd361545e206df2526a768d23585ef57a83116b78726d13ce303cbd64d3b0b2d53d205b011d2f8f7d108",
+    "client_seed": "1786824627359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "28dddf5e5092b8e9c3868b3c94edb162a384cecf00d45bdb21e5e3847c15ac7c",
+    "result": "229449",
+    "external_round_id": "31340423",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T20:10:27.000000Z",
+    "revealed_at": "2026-08-15T20:10:33.000000Z"
+}
