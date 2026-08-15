@@ -1,0 +1,22 @@
+{
+    "round_id": "f65f7c5e-2722-4bd6-81b3-358f2e84d4cc",
+    "draw_title": "Dinosaur Dollars - Every Ticket Wins!",
+    "competition_url": "https://ryscompetitions.com/admin/products/dinosaur-dollars-every-ticket-wins",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "458f5d0142caf9cfea0c4042aa926f7a7c59eb92ea0a9bf360a779b25bb66400",
+    "drand_seed_hash": "af091ec0e4ccc3fa35b9363f7e09fe3c3c133a70474ce9ba1a3a6a5fafa0c1cfaee4365818eb6bf4762a5422456a08e3",
+    "client_seed": "1786813639733",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 781,
+    "max_tickets": 1000,
+    "combined_hash": "3d5a30c6fab71ee8ede59214e9d11dbcc0988153d8e961b0dadd324263e2334f",
+    "result": "598",
+    "external_round_id": "31336761",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T17:07:19.000000Z",
+    "revealed_at": "2026-08-15T17:07:27.000000Z"
+}
