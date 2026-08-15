@@ -1,0 +1,22 @@
+{
+    "round_id": "4eac8291-8aa0-423e-b20f-2504b7503e0b",
+    "draw_title": "AZTEC CALENDAR 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/aztec-calendar-1oz-fine-silver-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "44e465c5cdd2e628fe5054ba79a9a38976ca8e86174e82cdde3e898e1c348a92",
+    "drand_seed_hash": "99674b0aa13a1c1522881200c4a5da173d373b97f224fd8b3409a8576741418c263335bbc02d9b9721a739efe06e4ffb",
+    "client_seed": "1786834557496",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 150,
+    "combined_hash": "bb5b1b16daaef5090b7b5b9a85f4a14537eb9f22e7f0066059a9aa1135f4f04b",
+    "result": "58",
+    "external_round_id": "31343733",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T22:55:57.000000Z",
+    "revealed_at": "2026-08-15T22:56:03.000000Z"
+}
