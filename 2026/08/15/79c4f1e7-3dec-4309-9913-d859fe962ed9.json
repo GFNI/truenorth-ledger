@@ -1,0 +1,22 @@
+{
+    "round_id": "79c4f1e7-3dec-4309-9913-d859fe962ed9",
+    "draw_title": "Hot Shot Slots #55",
+    "competition_url": "https://fireprizes.co.uk/admin/products/hot-shot-slots-55",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "a317a9cc443e08ebcc75bdf1d4c3772b9953a062baab913ee0f482a93091d7bc",
+    "drand_seed_hash": "a58d917a24ed55f37978e394ff5e45ab5ac797d625c6f0afd2fe40cbff16668d9c730a3bfcd0032ba292308c0767c0c3",
+    "client_seed": "1786835446508",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31,
+    "max_tickets": 1444,
+    "combined_hash": "183a14a08f4318c82c40bb65d80d2559066500178ad7c1f341d7dfa09c484008",
+    "result": "437",
+    "external_round_id": "31344030",
+    "processing_status": "completed",
+    "created_at": "2026-08-15T23:10:46.000000Z",
+    "revealed_at": "2026-08-15T23:10:54.000000Z"
+}
