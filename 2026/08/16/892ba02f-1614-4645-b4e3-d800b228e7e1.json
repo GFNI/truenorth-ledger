@@ -1,0 +1,22 @@
+{
+    "round_id": "892ba02f-1614-4645-b4e3-d800b228e7e1",
+    "draw_title": "£100 Scratchcard INSTANT WINS - £100 AUTODRAW END PRIZE",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/ps100-scratchcard-instant-wins-ps100-autodraw-end-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "122db53f36da15de84d9945bf282c763309485df7a2e73b808f4f2ee14acda40",
+    "drand_seed_hash": "b674f509bc73b4989a854b14e8d43dfb22624c52a21b24ee61cd19442a58eef900c271972bb9ec3e2c805c8bbeed7135",
+    "client_seed": "1786911054677",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3120,
+    "max_tickets": 99999,
+    "combined_hash": "d072d3f2dac652c929c1021d3fb08f14f96f933eea6f7269a9b1aa8dc645dddf",
+    "result": "84500",
+    "external_round_id": "31369232",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:10:54.000000Z",
+    "revealed_at": "2026-08-16T20:11:00.000000Z"
+}
