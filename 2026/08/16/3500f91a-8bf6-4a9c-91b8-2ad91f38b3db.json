@@ -1,0 +1,22 @@
+{
+    "round_id": "3500f91a-8bf6-4a9c-91b8-2ad91f38b3db",
+    "draw_title": "2024 TUDOR BLACK BAY CHRONO \"PINK\" DIAL AKA INTER MIAMI",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-tudor-black-bay-chrono-pink-dial-aka-inter-miami",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "6eedce63a92b17e0e89d4a2cfa27428113f6cc6cccbf47700215ddfa127f02e1",
+    "drand_seed_hash": "94786b5fc62bc2274ca87a006f80d123265570d0b3d547480b9b1ddfd5a57f04dbb9ada62890587a45ce99b939c58b6a",
+    "client_seed": "1786910648299",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2770,
+    "max_tickets": 7500,
+    "combined_hash": "33e59525fae9ad8331bd92def2275f8a55437ca8c9e4067f3f9a27f8116a01b5",
+    "result": "3032",
+    "external_round_id": "31369097",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:04:08.000000Z",
+    "revealed_at": "2026-08-16T20:04:15.000000Z"
+}
