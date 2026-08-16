@@ -1,0 +1,22 @@
+{
+    "round_id": "91136231-afd0-4aeb-a14e-75da6e7ca63b",
+    "draw_title": "Tropical Drop - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/tropical-drop-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "445688d6db52ad404aadb548935fc8ead2fd478a5d37f01a84ccbaab90ea2f92",
+    "drand_seed_hash": "a6f6bd708d26373622ef8a80c857e285942806c67da40151e8b9d8016f27487c5e181f79b013a9377ac6241b389c5455",
+    "client_seed": "1786909236512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 374571,
+    "max_tickets": 399999,
+    "combined_hash": "85446c7d39770e96b307d14978db8d3aa094aca13ceb67bcae7bef4551f1808d",
+    "result": "252690",
+    "external_round_id": "31368626",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:40:36.000000Z",
+    "revealed_at": "2026-08-16T19:40:42.000000Z"
+}
