@@ -1,0 +1,22 @@
+{
+    "round_id": "cc4f92fc-a1d0-4e7a-ae3b-97bcd0c063bb",
+    "draw_title": "PENNY PRINCE - £500 END PRIZE + WIN UPTO £1K INSTANTLY!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/penny-prince",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "3aea9462adf959103c1b2329ec0c08dde68294491daac8fff5baa8087ca9ed40",
+    "drand_seed_hash": "a84c9d6969224bf0eecb7951b8850b98466a33767ab3632343b406eade14938934f7cf3d12d5c4081642ef1f2f7489f4",
+    "client_seed": "1786909604771",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1087542,
+    "max_tickets": 2000000,
+    "combined_hash": "b65f6bcba3dc42ea97590f62e34b08afc9e51827d60c6c43d3a8eb5f9a314bc5",
+    "result": "811703",
+    "external_round_id": "31368749",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:46:44.000000Z",
+    "revealed_at": "2026-08-16T19:46:51.000000Z"
+}
