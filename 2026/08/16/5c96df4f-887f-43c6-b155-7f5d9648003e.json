@@ -1,0 +1,22 @@
+{
+    "round_id": "5c96df4f-887f-43c6-b155-7f5d9648003e",
+    "draw_title": "WIN A 5oz LEO BRITANNICVS FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/win-a-5oz-leo-britannicvs-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "d88db6a062f5599a8ee4c12e3ba4b90f00704c2fa71146d40790e8237dbc41df",
+    "drand_seed_hash": "b337e86ab9693ef75dc95142fde67385e5e2f481ca4761bdb7082a654624a81439a8d0dc320ddce5232a49495dd5ad2b",
+    "client_seed": "1786920951566",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 628,
+    "max_tickets": 750,
+    "combined_hash": "1fea7dff2d7820d182ca27bc344c85859f60a84991d1e3497a6b14655b92cbd5",
+    "result": "16",
+    "external_round_id": "31372531",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T22:55:51.000000Z",
+    "revealed_at": "2026-08-16T22:55:57.000000Z"
+}
