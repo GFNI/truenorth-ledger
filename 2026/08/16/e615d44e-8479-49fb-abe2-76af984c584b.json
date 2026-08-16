@@ -1,0 +1,22 @@
+{
+    "round_id": "e615d44e-8479-49fb-abe2-76af984c584b",
+    "draw_title": "WIN A £50 JD VOUCHER!! 16/08",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps50-jd-voucher-1608",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "2baa210c2df062a947ed4ea8ed2af25ec93a5d4f1fbde39b12762d743126ff27",
+    "drand_seed_hash": "91a9a29eacdc0f4ed02c96d0a65abb93ed07806eda094794d7418984d5801ef479e03819e1d5ed7a2d61a8a5077d928b",
+    "client_seed": "1786914258881",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 236,
+    "max_tickets": 250,
+    "combined_hash": "3d2fed36f9813ec08853ae0211a1a809502964c41b7fb3322df5616a0a7ba071",
+    "result": "40",
+    "external_round_id": "31370300",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T21:04:18.000000Z",
+    "revealed_at": "2026-08-16T21:04:24.000000Z"
+}
