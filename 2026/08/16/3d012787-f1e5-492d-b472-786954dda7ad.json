@@ -1,0 +1,22 @@
+{
+    "round_id": "3d012787-f1e5-492d-b472-786954dda7ad",
+    "draw_title": "£250 Back to school voucher",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/ps250-back-to-school-voucher",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "8f8140f66f23b3103dc19b197e5584799062326adce049ec8c6c2aa09ae6f07b",
+    "drand_seed_hash": "8f061ebdc41ca8c8be5625eec82ad1c0777671c0ba25359e617b4a049f12066e78e8fab52f061782f836f9b6329e9dd7",
+    "client_seed": "1786905788443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5671,
+    "max_tickets": 30000,
+    "combined_hash": "bfc2ffafe3a5e30a9601f6fc9952bea1873dfde23e39d3194ddb44649875319c",
+    "result": "24336",
+    "external_round_id": "31367477",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T18:43:08.000000Z",
+    "revealed_at": "2026-08-16T18:43:15.000000Z"
+}
