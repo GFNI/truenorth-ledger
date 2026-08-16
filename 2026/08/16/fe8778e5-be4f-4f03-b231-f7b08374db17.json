@@ -1,0 +1,22 @@
+{
+    "round_id": "fe8778e5-be4f-4f03-b231-f7b08374db17",
+    "draw_title": "Self Emptying Hoover!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/self-emptying-hoover-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "336cbf15b484aa0205f9fdefb62691c6d1c7307b0b0d9db593cf2052129f9ffd",
+    "drand_seed_hash": "9830751ee86799929d318f310be1bdbf6a2d945450b4c103e82f970fdd9c06e44a3ef6d3b902835f7c2f7bc67fee3bfe",
+    "client_seed": "1786907897989",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 200,
+    "combined_hash": "547a50c3c6159d33119720dd1af9f96df910f1310e29b7e0ce61c4961298dac6",
+    "result": "117",
+    "external_round_id": "31368180",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:18:18.000000Z",
+    "revealed_at": "2026-08-16T19:18:24.000000Z"
+}
