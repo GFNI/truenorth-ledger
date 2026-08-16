@@ -1,0 +1,22 @@
+{
+    "round_id": "de5118cb-bed8-4fa8-b820-db2782a4e43e",
+    "draw_title": "30K EPIC CHILLI SLOTS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/30k-epic-chilli-slots",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e09b660139220abd4334f1da26a68f3469d5a077e620d40bccdcf419802d803f",
+    "drand_seed_hash": "aaf28657366b244a9bcabae2ea156902f3a37954c5162c90c8b9c61731f458c90e87dc0019a0cf388e379654105b0bd3",
+    "client_seed": "1786910944770",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12905,
+    "max_tickets": 200000,
+    "combined_hash": "1b5b4a469da37cde39f7bf7961dab4ad6c97b567d0e7d594eea0b5c3b110a981",
+    "result": "78108",
+    "external_round_id": "31369195",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:09:04.000000Z",
+    "revealed_at": "2026-08-16T20:09:09.000000Z"
+}
