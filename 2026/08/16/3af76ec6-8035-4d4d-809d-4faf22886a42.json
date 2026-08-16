@@ -1,0 +1,22 @@
+{
+    "round_id": "3af76ec6-8035-4d4d-809d-4faf22886a42",
+    "draw_title": "WIN A £50 VOUCHER FOR THE GROUSE!! 16/08",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps50-voucher-for-the-grouse-1608",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "b51cda6ad96d18034c11e4a44bf5e50dbbadeb2ace6b0ee4111473b3c952e8c5",
+    "drand_seed_hash": "847ac344084ac4edb156e90b19fc6f501c317e5e2c6ec7904c37b68c772f866b576fb22e4878072d56622fbc4744ee33",
+    "client_seed": "1786914293970",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 223,
+    "max_tickets": 250,
+    "combined_hash": "6fcc1fd2511b5ee5d67a5c3d056bac6e99f7cb9e22e4b42095663b479d0ebbc6",
+    "result": "62",
+    "external_round_id": "31370312",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T21:04:54.000000Z",
+    "revealed_at": "2026-08-16T21:05:00.000000Z"
+}
