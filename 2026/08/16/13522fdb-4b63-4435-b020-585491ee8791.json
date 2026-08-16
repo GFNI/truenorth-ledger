@@ -1,0 +1,22 @@
+{
+    "round_id": "13522fdb-4b63-4435-b020-585491ee8791",
+    "draw_title": "40 X ENTRIES - LOW ODDS £1,000 CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/40-x-entries-low-odds-ps1000-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "874b93d3a0e2a05470f4d2fe5520bdc30e831aaaf83845523f9f7e27a3daed6d",
+    "drand_seed_hash": "b3e7907a80dd49d03b71636b372095bcdcbe7d9176842b71e115a406d47f9f128179f6fb9d0159b018eb4103f000c8c5",
+    "client_seed": "1786914658039",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1196,
+    "max_tickets": 1999,
+    "combined_hash": "b4b8875bff7e92e7d1ef356b1393dd9f081fcbdb689a7f872d0c9786fdc2d808",
+    "result": "1495",
+    "external_round_id": "31370434",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T21:10:58.000000Z",
+    "revealed_at": "2026-08-16T21:11:06.000000Z"
+}
