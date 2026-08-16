@@ -1,0 +1,22 @@
+{
+    "round_id": "d20baa95-9179-4e0d-8545-3091069ad2ec",
+    "draw_title": "25K BACK TO THE FUTURE",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-back-to-the-future",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "4d34d99a7b1268a5dd566a4ff1aadf98d4214c7f274bfe9a0c05af99d76db19a",
+    "drand_seed_hash": "90b44a254c68231b86d5b3bae538c4a6da2ce8e342dadd1449591aafdc557308632991b0dd721961efabb7384d3a1718",
+    "client_seed": "1786911175424",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11061,
+    "max_tickets": 100000,
+    "combined_hash": "88c35a83f0105099f4f77c014dba0082a04958f9e9cb4f8d6f4cbb80816da77c",
+    "result": "63593",
+    "external_round_id": "31369273",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:12:55.000000Z",
+    "revealed_at": "2026-08-16T20:13:03.000000Z"
+}
