@@ -1,0 +1,22 @@
+{
+    "round_id": "031a83a8-3ef1-43b9-a116-a696b9619614",
+    "draw_title": "Bangers & Cash £10K + Instant Wins!",
+    "competition_url": "https://phatstax.co.uk/admin/products/bangers-cash-ps10k-instant-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "77a5b9378d839b4cc8f3e400437720852b8925cb5cc7930c4e97791cf6f7ef09",
+    "drand_seed_hash": "87c09d39a4fd33d83fc369a204cdaaec284fbf531b046a0013e3533f1f5b9f9ba4338b28a10a9b03978a936033c14081",
+    "client_seed": "1786910700178",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81109,
+    "max_tickets": 187500,
+    "combined_hash": "2f49b5549d5069c107e9fa15793ffea41b349a69e67fee752b09325ca74e7b65",
+    "result": "104396",
+    "external_round_id": "31369114",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:05:00.000000Z",
+    "revealed_at": "2026-08-16T20:05:06.000000Z"
+}
