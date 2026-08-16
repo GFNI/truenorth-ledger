@@ -1,0 +1,22 @@
+{
+    "round_id": "54f97b0a-d2dc-4219-afd6-7a6ad9de9f1a",
+    "draw_title": "£700 for 7p",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ps700-for-7p",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "76f89e55aef3db2e976d3787770888fe7b9c1605dfc7f7cf59999382d103397b",
+    "drand_seed_hash": "966b272db1e865534fdf0f5422cd0056d4b10c5ff050dd3fd61187e5c7bad587bc9b91edc3ebf9f62b74b299b22b287a",
+    "client_seed": "1786911220431",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12227,
+    "max_tickets": 20000,
+    "combined_hash": "36f9e0688d4e1d356844434c1ce0500f16566e03b0e33ab3ce4e643d45dbc137",
+    "result": "14327",
+    "external_round_id": "31369288",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:13:40.000000Z",
+    "revealed_at": "2026-08-16T20:13:48.000000Z"
+}
