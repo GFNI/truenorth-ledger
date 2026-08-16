@@ -1,0 +1,22 @@
+{
+    "round_id": "f8d4eeb9-1d3b-4f66-a144-0ae02009fb69",
+    "draw_title": "Cold Hard Cash | £100 Main Prize",
+    "competition_url": "https://phatstax.co.uk/admin/products/cold-hard-cash-ps100-main-prize",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "1a339f62ce60ff50babc97f4a71e6477dc6d389a5405cd62d4d9e07091f34a07",
+    "drand_seed_hash": "875d0d68d73ad248e2461398a04d8b46956b59283774b78d15eac821576b22e20fbec80b036aabfafeb1822289c6ca5b",
+    "client_seed": "1786910591485",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 355,
+    "max_tickets": 800,
+    "combined_hash": "31f330f3fa68433b9cc652e4abe95e337fba1fdb0327ed509d6f9a66f9508644",
+    "result": "274",
+    "external_round_id": "31369078",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:03:11.000000Z",
+    "revealed_at": "2026-08-16T20:03:18.000000Z"
+}
