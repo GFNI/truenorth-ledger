@@ -1,0 +1,22 @@
+{
+    "round_id": "2b673a6f-c16f-4920-b635-efab6ec457dd",
+    "draw_title": "The Legend Of Cubone!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/the-legend-of-cubone",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "24e446eb8ea56ec44ce2de37cffc94331e934e17a0309150564676f012b6a8b5",
+    "drand_seed_hash": "abcf9d3362f109acb55f28450fb0422ba7d20c09dd88ed5780d85edeab102a5becbcd84eeb3dba10735a3df5855fb314",
+    "client_seed": "1786909553634",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3635,
+    "max_tickets": 9000,
+    "combined_hash": "e16a9bd762e8b0049843e32775628bf7ab106aff281191e7e8d12340c342d39d",
+    "result": "6882",
+    "external_round_id": "31368732",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:45:53.000000Z",
+    "revealed_at": "2026-08-16T19:46:00.000000Z"
+}
