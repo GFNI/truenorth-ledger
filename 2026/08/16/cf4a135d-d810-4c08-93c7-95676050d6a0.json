@@ -1,0 +1,22 @@
+{
+    "round_id": "cf4a135d-d810-4c08-93c7-95676050d6a0",
+    "draw_title": "Summer Holidays Food Shop £200",
+    "competition_url": "https://a9competitions.co.uk/admin/products/summer-holidays-food-shop-ps200",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "4515e3cdbb5db70cf5f26384f1f90fa9fb035cf570c301d8ecc3695627f72947",
+    "drand_seed_hash": "85d00c5a839f4892db1c1c17fb5c642478d46465ebd79d052379cf2a053ffef5698094f77dd36cb7c1a065edf5b2edaa",
+    "client_seed": "1786912478274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 262,
+    "max_tickets": 375,
+    "combined_hash": "94b39a3523ffcc47b1f0da7ba446f7544284e879e7c3530be5d24e6d350c0995",
+    "result": "340",
+    "external_round_id": "31369707",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:34:38.000000Z",
+    "revealed_at": "2026-08-16T20:34:45.000000Z"
+}
