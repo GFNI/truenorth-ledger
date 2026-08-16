@@ -1,0 +1,22 @@
+{
+    "round_id": "7481e34f-63ff-43a3-8df1-9be33ed2e7f5",
+    "draw_title": "Solar Security Cameras",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/solar-security-cameras",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "cdd7de189273c6aa5dbdad0e75606c6dd173d85d76a3be86668b8e177677a5af",
+    "drand_seed_hash": "b73676b1cc6c3d5932b456cc79285ec3848661df09cdd128539f5ff7a0a6974fa3fb3b55d8dfde1cb5cd4bd9d388a0bc",
+    "client_seed": "1786908125943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 220,
+    "combined_hash": "83db94b621bf4d486df5be87d60212419100715330fccbc5b1ff187119dfc832",
+    "result": "116",
+    "external_round_id": "31368256",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T19:22:06.000000Z",
+    "revealed_at": "2026-08-16T19:22:12.000000Z"
+}
