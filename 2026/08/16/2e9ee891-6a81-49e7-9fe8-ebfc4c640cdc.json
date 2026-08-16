@@ -1,0 +1,22 @@
+{
+    "round_id": "2e9ee891-6a81-49e7-9fe8-ebfc4c640cdc",
+    "draw_title": "EVERY TICKET IS A WINNER! WIN UP TO £500 INSTANTLY",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/every-ticket-is-a-winner-win-up-to-ps500-instantly",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "bc2edae2b032d34b131e49bd1898c535d67340f39f7b0a33be1be5f9ba2e786c",
+    "drand_seed_hash": "84deba4112d4993d5950f77fcb1fb1418a50c14794479fb1ad7833996d9a10892242c85684193c75710d80879f2b8c40",
+    "client_seed": "1786911822356",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1618,
+    "max_tickets": 5000,
+    "combined_hash": "3ff4a125c93d7f75b5064af73b044f5c8cd0d737387ad4cd6736215d03f522ad",
+    "result": "816",
+    "external_round_id": "31369488",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:23:42.000000Z",
+    "revealed_at": "2026-08-16T20:23:48.000000Z"
+}
