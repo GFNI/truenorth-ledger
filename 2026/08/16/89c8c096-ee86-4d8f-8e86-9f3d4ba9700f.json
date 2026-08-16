@@ -1,0 +1,22 @@
+{
+    "round_id": "89c8c096-ee86-4d8f-8e86-9f3d4ba9700f",
+    "draw_title": "1 Gram Gold Bar - FIRE ODDS",
+    "competition_url": "https://fireprizes.co.uk/admin/products/1-gram-gold-bar-fire-odds",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "c4d0a1386200b1bea9899d2be253a06579a734db61ad24b6a3679bf896facd05",
+    "drand_seed_hash": "821de4a1856ee12f660f9e7bba5f49e8c8dd6237f5d5a43238149b737a6d9efc6d66bb57d1209459da8bcbb69c6f8144",
+    "client_seed": "1786912417528",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52,
+    "max_tickets": 69,
+    "combined_hash": "fefb633232b51c30c4d0f99f09bee137916d25487edb8961be735d4859ada03a",
+    "result": "52",
+    "external_round_id": "31369687",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:33:37.000000Z",
+    "revealed_at": "2026-08-16T20:33:45.000000Z"
+}
