@@ -1,0 +1,22 @@
+{
+    "round_id": "6b4a359b-3fcb-4b3e-8aa4-6e1a35db3676",
+    "draw_title": "THE VOUCHER VAULT",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/the-voucher-vault",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "8a24c1c293f0a561aa8a506936b9c72cd93c3c68ea510b891dd0cf9dc5c8e230",
+    "drand_seed_hash": "b774bd160b02f09e1ff0f98cee1a37f8ba6988e55cc123688c090d93a10873d5eae1518f7017935fc7b5e525b526d8e3",
+    "client_seed": "1786911706596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4944,
+    "max_tickets": 6499,
+    "combined_hash": "d0835e9a3deec5617def0394f5f7f305a0803dafbf0dd5699920544681fa1d3f",
+    "result": "1398",
+    "external_round_id": "31369450",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:21:46.000000Z",
+    "revealed_at": "2026-08-16T20:21:54.000000Z"
+}
