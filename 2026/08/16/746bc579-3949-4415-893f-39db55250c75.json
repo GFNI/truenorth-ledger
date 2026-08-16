@@ -1,0 +1,22 @@
+{
+    "round_id": "746bc579-3949-4415-893f-39db55250c75",
+    "draw_title": "£50 FREE TAKE AWAY NIGHT! 🍔 🍕",
+    "competition_url": "https://clutchcomps.com/admin/products/ps50-free-take-away-night-2",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "9e4951252d8fa54045bc94fbc9f57a26a3b243defe2eb754463543f951eaaeb0",
+    "drand_seed_hash": "aef68064928d13f1d03aefa5118f4aba8b358269d7b862e4d18677e41ac16c737a1cda462246511abc1ba067fb8aab05",
+    "client_seed": "1786910764161",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 96,
+    "max_tickets": 200,
+    "combined_hash": "abaebd802156937a82fa89edafbceaea0aacf6da4a7cb984c15619da744e040f",
+    "result": "68",
+    "external_round_id": "31369136",
+    "processing_status": "completed",
+    "created_at": "2026-08-16T20:06:04.000000Z",
+    "revealed_at": "2026-08-16T20:06:12.000000Z"
+}
