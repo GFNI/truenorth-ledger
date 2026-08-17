@@ -1,0 +1,22 @@
+{
+    "round_id": "4b09f07d-96dd-474f-9064-ec80496c79fd",
+    "draw_title": "Win a Maxxair Fan+Maxxshade!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-maxxair-fanmaxxshade-1240",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "eb8ff1edffcfd112de41c1dce24fbac5fead5ffa1c5cc654b40da1f315c8fa34",
+    "drand_seed_hash": "835b1ae3d12e283a5bb1a9c68ebef06945c7457d898c63f264be92225ca87528d352e466a9cadc992a87320812a07fc7",
+    "client_seed": "1786995097547",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 540,
+    "max_tickets": 699,
+    "combined_hash": "2075a158d6816253abd0ed24adc9fe6ab9d89914cc73e9eee69f032f24469fa0",
+    "result": "579",
+    "external_round_id": "31397247",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:31:37.000000Z",
+    "revealed_at": "2026-08-17T19:31:45.000000Z"
+}
