@@ -1,0 +1,22 @@
+{
+    "round_id": "4d417929-c544-4a1b-82a4-c1db08c49c2d",
+    "draw_title": "Leprechauns Luck",
+    "competition_url": "https://chaotic.co.uk/competition/leprechauns-luck-4637",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e37a062f07d2798c9c4ab50bb5cf1a9a4d075cb77143fd34517406195fd45587",
+    "drand_seed_hash": "94ef1c2b72b35d79350afe7331beab01ab749d29a38b6167235a6c74b89bca0ce7252b8701ea0288de0533656f13916d",
+    "client_seed": "1786995416768",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "4a184c6c92ed17054992e70e0dea7afe31cf09617f36302547a1892898023766",
+    "result": "1283",
+    "external_round_id": "31397353",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:36:56.000000Z",
+    "revealed_at": "2026-08-17T19:37:03.000000Z"
+}
