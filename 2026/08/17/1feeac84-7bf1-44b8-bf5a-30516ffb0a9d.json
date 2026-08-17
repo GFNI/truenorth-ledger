@@ -1,0 +1,22 @@
+{
+    "round_id": "1feeac84-7bf1-44b8-bf5a-30516ffb0a9d",
+    "draw_title": "2026 1 OZ LUNAR HORSE SILVER COIN",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/2026-1-oz-lunar-horse-silver-coin-2",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "0d15aecded891d1b812ff328ae3b074e612de16ce477bc7efbc81d507c7eb209",
+    "drand_seed_hash": "8033feaf7db48e7c630320989b06c3fb893f7a3332af329accd04411e3730d95a06888443e84263f9730e785966b947f",
+    "client_seed": "1786993773810",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 190,
+    "max_tickets": 1299,
+    "combined_hash": "4ee3938e5ccd48cf0cdc82c59c6e229cd89f5a593f497c953a800e0396987ca6",
+    "result": "115",
+    "external_round_id": "31396805",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:09:33.000000Z",
+    "revealed_at": "2026-08-17T19:09:39.000000Z"
+}
