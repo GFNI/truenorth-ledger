@@ -1,0 +1,22 @@
+{
+    "round_id": "fbf0088f-f95d-49ed-9cd1-343a6fcdc8e0",
+    "draw_title": "HUNTING HUNDREDS",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/hunting-hundreds",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "87182f98ad8d54e9efdf30d7ddafeeff038275e7ea4abf7beb7d4c2d2ba97b81",
+    "drand_seed_hash": "b264e907a04e89d5db3e2b1056a7bf423907b0314fd201a15f6e2cbda1059ffcb00ecc29f1078d5d7113df4b6ae77262",
+    "client_seed": "1786993959309",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2465,
+    "max_tickets": 18000,
+    "combined_hash": "e0928540af4acc69c3840f54913286b3295c9af6c13b716f02ce7aa6497534c5",
+    "result": "11713",
+    "external_round_id": "31396867",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:12:39.000000Z",
+    "revealed_at": "2026-08-17T19:12:45.000000Z"
+}
