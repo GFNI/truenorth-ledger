@@ -1,0 +1,22 @@
+{
+    "round_id": "dea3bbca-c6dd-45ce-8a2c-b93e2b435c51",
+    "draw_title": "MINI DRAW - WIN 100 TICKETS INTO THE MAIN COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-100-tickets-into-the-main-comp",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "0feca8b7e56b16ec9a2a84a76dd990d25f58aeaf50a48dfacb403cdac7fbf942",
+    "drand_seed_hash": "963fac2f03797e8084835c82b49fae517eabf85eb56aaa94d4515bf79253beb6b82e4a683f6f864a3d15e2bf46805ced",
+    "client_seed": "1787007644637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16,
+    "max_tickets": 50,
+    "combined_hash": "d7478e3cdb07006a0916355fdcc74f0e0ac2b8dc4a02b6367c139e3378c3df02",
+    "result": "14",
+    "external_round_id": "31401429",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T23:00:44.000000Z",
+    "revealed_at": "2026-08-17T23:00:51.000000Z"
+}
