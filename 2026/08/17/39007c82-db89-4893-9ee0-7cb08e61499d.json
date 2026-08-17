@@ -1,0 +1,22 @@
+{
+    "round_id": "39007c82-db89-4893-9ee0-7cb08e61499d",
+    "draw_title": "PS5 Bundle⚫",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps5-bundle-20",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9b17c3540351dd040e07a4a0944d79a736ccaa4b40e03c3347647a9ddf809617",
+    "drand_seed_hash": "86750987f53b396eddb1ddd0c4fa69904bbfc95857bbced2e559dd45f88124f594a012a78903dfe51060c2fb949c3737",
+    "client_seed": "1786993477333",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 909,
+    "max_tickets": 1075,
+    "combined_hash": "44ae3ac7e9200a20d66dd4392e2c8361ff07d1104f1cb5712bfd90f3d8d113e3",
+    "result": "210",
+    "external_round_id": "31396707",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:04:37.000000Z",
+    "revealed_at": "2026-08-17T19:04:45.000000Z"
+}
