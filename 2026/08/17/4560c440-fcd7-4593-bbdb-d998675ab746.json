@@ -1,0 +1,22 @@
+{
+    "round_id": "4560c440-fcd7-4593-bbdb-d998675ab746",
+    "draw_title": "WIN AN ELECTRIC GO KART🛞",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/win-an-electric-go-kart",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "c9a7f68792697c59ee92167ce37f539bc172b2b2ed3dd30b17f68f3c80d1bf7c",
+    "drand_seed_hash": "a3c9ed5244b9b36b7326d083b6ddcd5e9c18175ab894f8a86cadd20c12844510997718ce8803cb8fcfc68663f4a33b1d",
+    "client_seed": "1786997464499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 425,
+    "max_tickets": 425,
+    "combined_hash": "7f101b29d9041543c1c7d7585503bba07e949e0e59dd2564d58824ea1a275213",
+    "result": "127",
+    "external_round_id": "31398036",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T20:11:04.000000Z",
+    "revealed_at": "2026-08-17T20:11:12.000000Z"
+}
