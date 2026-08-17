@@ -1,0 +1,22 @@
+{
+    "round_id": "273731f6-d8a7-4dfb-ae52-00643caf1c1c",
+    "draw_title": "Chaotic Arcade",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-arcade-7309",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "194b7904dfbf0c0e351a6154fe4a10deb56b367afc6fe03b08dab5da6f68dd6f",
+    "drand_seed_hash": "a4dfe052629d604e5d14f2a52790f5255bf7b82042557c26b060cec72840b71fe11214110bc725f4f4fcd55506b3ccb4",
+    "client_seed": "1786995574428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "a622f0102c65600fe725e410bedbb8f7779e3681144181182a3d937c6a7eba9d",
+    "result": "72967",
+    "external_round_id": "31397406",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:39:34.000000Z",
+    "revealed_at": "2026-08-17T19:39:42.000000Z"
+}
