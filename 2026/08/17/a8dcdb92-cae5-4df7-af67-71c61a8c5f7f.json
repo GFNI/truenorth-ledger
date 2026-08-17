@@ -1,0 +1,22 @@
+{
+    "round_id": "a8dcdb92-cae5-4df7-af67-71c61a8c5f7f",
+    "draw_title": "Win a DJI Mini 5 pro drone!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-dji-mini-5-pro-drone-5",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "df25b141cda28da170c6bde9dcd053abe5157cd7e5722470c6b9fdd150968a57",
+    "drand_seed_hash": "b10bbb123605a2cb5b6be19e8e5bffa54a571932ca57afa88b5bce5e8b4ed052dce5101f95227bfddfb5a184cd960389",
+    "client_seed": "1786996147831",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2299,
+    "max_tickets": 2299,
+    "combined_hash": "16b5de905033f93965672e14c78ab39c7c214999721ac211148950f9ce9b4462",
+    "result": "160",
+    "external_round_id": "31397597",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:49:07.000000Z",
+    "revealed_at": "2026-08-17T19:49:15.000000Z"
+}
