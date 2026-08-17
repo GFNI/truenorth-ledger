@@ -1,0 +1,22 @@
+{
+    "round_id": "2d9abc02-8c57-468f-826f-2d0e49fc9a06",
+    "draw_title": "SILVERTOWNE MINT USA BUFFALO 1oz .999 FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/silvertowne-mint-usa-buffalo-1oz-999-fine-silver-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "8b8e26541d333b141712bb1c6f2ceb9cfa029e3be1ae4d73a9a0702a42bbd9f0",
+    "drand_seed_hash": "8d3a34e93f1f391c2a35390a720af69d4fa1dc906dfac6e30e160e39906bdac239c15f2bcaa97afdfbd95e648adb3e84",
+    "client_seed": "1787009757492",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 150,
+    "combined_hash": "651bf98c5a372c6174bc5a376661e0a1fe68a84092dcfe5d278c442af0a1c2b3",
+    "result": "68",
+    "external_round_id": "31402133",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T23:35:57.000000Z",
+    "revealed_at": "2026-08-17T23:36:03.000000Z"
+}
