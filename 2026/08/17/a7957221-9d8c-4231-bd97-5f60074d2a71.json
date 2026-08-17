@@ -1,0 +1,22 @@
+{
+    "round_id": "a7957221-9d8c-4231-bd97-5f60074d2a71",
+    "draw_title": "£10,000 CASH POT",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps10000-cash-pot",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "f802b5d9841e9f881e7d055ec1695d995a070bc1bef5ffd58699f91c6333da3c",
+    "drand_seed_hash": "a817e7668831272266bb93b259ebbf63a46bfedcc51804451717d3fc1eccf409315417b2d11aa9fbc9b75cfc10e7e747",
+    "client_seed": "1787001386149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5054,
+    "max_tickets": 10000,
+    "combined_hash": "2922ec6c7ede88003d1f061d21e257142a7ce9a123523256d8f3147595ff9644",
+    "result": "4570",
+    "external_round_id": "31399343",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T21:16:26.000000Z",
+    "revealed_at": "2026-08-17T21:16:33.000000Z"
+}
