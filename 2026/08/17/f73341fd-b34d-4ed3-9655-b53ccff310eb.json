@@ -1,0 +1,22 @@
+{
+    "round_id": "f73341fd-b34d-4ed3-9655-b53ccff310eb",
+    "draw_title": "Penny Fortune",
+    "competition_url": "https://jetcomps.co.uk/admin/products/penny-fortune",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "b8d4659e37d4e6eddabd7e68c0b6ab8da8a608cd90b1722e6761b8cba011c68c",
+    "drand_seed_hash": "8dea12c6b4347f5ad3e68f57dd11bab2287c11f9483427fe044f6d08167991b299098b2357beb99897a3c67953af09b0",
+    "client_seed": "1786994899532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 900553,
+    "max_tickets": 999999,
+    "combined_hash": "10afd5df64b41431c81c1f547bb5940cf21c5eabd92941cc35ca77da43a452d8",
+    "result": "326908",
+    "external_round_id": "31397181",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:28:19.000000Z",
+    "revealed_at": "2026-08-17T19:28:27.000000Z"
+}
