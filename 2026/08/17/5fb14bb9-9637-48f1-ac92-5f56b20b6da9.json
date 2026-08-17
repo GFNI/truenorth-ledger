@@ -1,0 +1,22 @@
+{
+    "round_id": "5fb14bb9-9637-48f1-ac92-5f56b20b6da9",
+    "draw_title": "CHEEKY WINS FOR 10P",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/cheeky-wins-for-10p",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "205aa7d584dbadecd27cb043d6ac80f10c44eb3d7936c479ab9d8578e1621b12",
+    "drand_seed_hash": "89abe32ef5ddcd9b820b3b033c797ffd311e211f83796941d97b767be8627275b87e9794408e2afa297046438064fef6",
+    "client_seed": "1786993828245",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3952,
+    "max_tickets": 40000,
+    "combined_hash": "56df4817fb21431200cba5993610ba9284d3152058124f3e12687702d6e1868e",
+    "result": "11735",
+    "external_round_id": "31396824",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:10:28.000000Z",
+    "revealed_at": "2026-08-17T19:10:36.000000Z"
+}
