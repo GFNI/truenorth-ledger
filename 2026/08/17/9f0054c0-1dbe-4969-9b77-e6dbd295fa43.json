@@ -1,0 +1,22 @@
+{
+    "round_id": "9f0054c0-1dbe-4969-9b77-e6dbd295fa43",
+    "draw_title": "🔑 The Golden Key Hunt ⭐",
+    "competition_url": "https://ohanacomps.com/admin/products/the-golden-key-hunt",
+    "operator": {
+        "name": "Ohana Competitions Ltd",
+        "website": "https://ohanacomps.com",
+        "company_number": "SC891635"
+    },
+    "drand_server_seed": "fb6d1507f77ddf54c1fa412c70acb13e2fd72d562a71579aaf309e7a478467e7",
+    "drand_seed_hash": "a07e4862b93afb535d004121f244af29fe297824a22de3fd42da96a93e86be9d36baaa05ad802332305360b2bcbe0cea",
+    "client_seed": "1786995645097",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 361,
+    "max_tickets": 5000,
+    "combined_hash": "9b053f3e6f210852a6c119c9d41e78e7dacfa629e8d93aa0a54dd99557894c75",
+    "result": "2596",
+    "external_round_id": "31397429",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:40:45.000000Z",
+    "revealed_at": "2026-08-17T19:40:51.000000Z"
+}
