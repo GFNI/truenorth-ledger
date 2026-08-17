@@ -1,0 +1,22 @@
+{
+    "round_id": "e7a94e67-4fa6-42ba-9720-a70a031ac000",
+    "draw_title": "SPEND £1 ON THE SITE AND ENTER THIS COMPETITION FOR FREE",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/spend-ps1-on-the-site-and-enter-this-competition-for-free",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "117627d75c89467d88ae8267031f10bc389732dbcdbf92ad80366618cda4801d",
+    "drand_seed_hash": "89f91e1c42d5203910477f6b2689d45828e7b0dc7041123c19aba5dbe07530f51723e8d421294c26e14fd89fd0cb69d9",
+    "client_seed": "1786993719712",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21,
+    "max_tickets": 100,
+    "combined_hash": "4c1f80796075f36d6a95dab900a4f4b870ea5c61dc66ab51339e0d9163a12b3f",
+    "result": "57",
+    "external_round_id": "31396787",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:08:39.000000Z",
+    "revealed_at": "2026-08-17T19:08:45.000000Z"
+}
