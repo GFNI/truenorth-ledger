@@ -1,0 +1,22 @@
+{
+    "round_id": "62de9563-58d6-4b64-b88f-e91a1e720405",
+    "draw_title": "Win a festival trolley!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-festival-trolley",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "fb37bf32fb53519184d78b211ded9ff807b4eeb49ce3ebfba7e4440593f16fd5",
+    "drand_seed_hash": "b44ceee6be559750d1886dcefeef6a35966c6fcb6ba1dabf71aff9931fb0c21931ce0515112e79cb6d8d117b9df6f5fa",
+    "client_seed": "1786994377326",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 729,
+    "max_tickets": 729,
+    "combined_hash": "d730c42920e92e32b6930c09ebf062b104f7177fac17a23c827d5c3fdb562bc2",
+    "result": "597",
+    "external_round_id": "31397006",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:19:37.000000Z",
+    "revealed_at": "2026-08-17T19:19:42.000000Z"
+}
