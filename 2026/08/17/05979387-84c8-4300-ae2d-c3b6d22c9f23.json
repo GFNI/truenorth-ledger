@@ -1,0 +1,22 @@
+{
+    "round_id": "05979387-84c8-4300-ae2d-c3b6d22c9f23",
+    "draw_title": "🪅 Dean’s Bundle Bash 🪅",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/deans-bundle-bash",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "2ab4b2010a555a8eada630c3cd9caaacfcd8061249120c70d4f152204e09d02a",
+    "drand_seed_hash": "8b0c8e84afbd80274c2b56d00b33f12a7c19ca443b4a459c20e28fcee395e6edcfd94f4c0d4369f15855184b85842759",
+    "client_seed": "1786996980732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "e3dae0d888d6384a203c9a483a4a8124077ba0ac85f62b614a60eb0bb069b2df",
+    "result": "256",
+    "external_round_id": "31397874",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T20:03:00.000000Z",
+    "revealed_at": "2026-08-17T20:03:06.000000Z"
+}
