@@ -1,0 +1,22 @@
+{
+    "round_id": "6ae1bfa1-7b01-49af-92d1-7e9de241d845",
+    "draw_title": "The Gr8 Escape 🏦",
+    "competition_url": "https://redlemonx.co.uk/admin/products/the-gr8-escape",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "2b1bdb28313e9c9edb1f99a95d66fcadfff7beb18d9e52b014eec83fd1879417",
+    "drand_seed_hash": "af37556306e53d72eac65b388619c46fc6ee70d1352672c535b7bc9cc85350dbb0e7a084c271afab9935c46493a76fde",
+    "client_seed": "1786993752886",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14226,
+    "max_tickets": 44000,
+    "combined_hash": "99ba5c41cc19588aa4cb4f26f9bbdb658fd5d7eae8726595eeadba0187cb4b5b",
+    "result": "28122",
+    "external_round_id": "31396798",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:09:12.000000Z",
+    "revealed_at": "2026-08-17T19:09:18.000000Z"
+}
