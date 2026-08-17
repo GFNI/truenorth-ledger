@@ -1,0 +1,22 @@
+{
+    "round_id": "e098398c-616a-4f78-9c46-e828a2fcedea",
+    "draw_title": "£1,000 at Currys",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps1000-to-spend-at-currys",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "fe5276e72bfd45faff73cafaad1252612062f50c33c7f994a6ecb2a8b72488ac",
+    "drand_seed_hash": "b3956bcc9af1204d9154f6f6e41ff007cd14f60f814b75aae408218f010ec67916b76760d7d44d785ac82d518c82236a",
+    "client_seed": "1787001302875",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1505,
+    "combined_hash": "1b6c56f65bf739c90225893bd3ec935771ac958b71125a2a1ac57f74de5e65ad",
+    "result": "983",
+    "external_round_id": "31399315",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T21:15:03.000000Z",
+    "revealed_at": "2026-08-17T21:15:14.000000Z"
+}
