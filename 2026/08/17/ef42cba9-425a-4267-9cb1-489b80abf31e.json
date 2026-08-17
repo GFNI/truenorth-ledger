@@ -1,0 +1,22 @@
+{
+    "round_id": "ef42cba9-425a-4267-9cb1-489b80abf31e",
+    "draw_title": "📦 £500 AMAZON SPENDS 📦",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-amazon-spends-5",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "eb58e1acbf8a20e26bb1ffd630b46c56d01a182c40cc76d6a56bec8908f9872a",
+    "drand_seed_hash": "a57cc8768a01dc2215bab6dd847c6f266bc6d6223b057f1b36f3b56be3aae80a8478f03eb56a13f6d9e8f3ce36cb097a",
+    "client_seed": "1786993267285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1060,
+    "max_tickets": 1060,
+    "combined_hash": "c480c8d8ba7313010f037695958d8820c799a311a05acb3013921a63cc037d53",
+    "result": "881",
+    "external_round_id": "31396637",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:01:07.000000Z",
+    "revealed_at": "2026-08-17T19:01:15.000000Z"
+}
