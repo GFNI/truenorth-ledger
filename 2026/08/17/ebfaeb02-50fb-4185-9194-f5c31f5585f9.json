@@ -1,0 +1,22 @@
+{
+    "round_id": "ebfaeb02-50fb-4185-9194-f5c31f5585f9",
+    "draw_title": "🔥BOUNTY ERUPTING INSTANT WIN🔥",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bounty-erupting-instant-win",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f2604c6498b07b7b14522598f9e32700cdd705846db9245caa827af7826a999e",
+    "drand_seed_hash": "8483e98e6cf1acc595f0a979739be73f4ce966ae8950c02ee708d8054400afe718dafff4ca46c88bb6692bf0728882d8",
+    "client_seed": "1786997445218",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 161173,
+    "max_tickets": 639000,
+    "combined_hash": "ccd593c282f355ef52bfb04152d3e6d76ff8e0b78626e39e2ab041cd8f2001ca",
+    "result": "456429",
+    "external_round_id": "31398029",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T20:10:45.000000Z",
+    "revealed_at": "2026-08-17T20:10:51.000000Z"
+}
