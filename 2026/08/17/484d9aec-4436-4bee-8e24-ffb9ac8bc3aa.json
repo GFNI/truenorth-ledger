@@ -1,0 +1,22 @@
+{
+    "round_id": "484d9aec-4436-4bee-8e24-ffb9ac8bc3aa",
+    "draw_title": "Iphone Bundle📱⌚",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/iphone-bundle-12",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "080973d95e54c9ca8d7d1c1d5a1d61f30b59aaa79f6dedae33c9ca09577e3d8d",
+    "drand_seed_hash": "b615408489fd63fa1a4802d1e74d5930ca1776447d3b1db00451cfc6926cceed11c1f6c7dd96eacda19ea6156287b112",
+    "client_seed": "1786993354843",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4272,
+    "max_tickets": 6000,
+    "combined_hash": "77ac0b3088d4831ce6f76d6f4dee9946e96b96ceb557ebf200f2e8d2dc1629ef",
+    "result": "1416",
+    "external_round_id": "31396666",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:02:34.000000Z",
+    "revealed_at": "2026-08-17T19:02:42.000000Z"
+}
