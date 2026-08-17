@@ -1,0 +1,22 @@
+{
+    "round_id": "d4b14943-9773-4681-b750-1fac73abf923",
+    "draw_title": "PINATA PARTY",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/pinata-party",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "02a5bc57c86ab0b58460d3006965d21140cdea74c0954ed7a89ca36b13801b78",
+    "drand_seed_hash": "84a5f75a5768ddfceb6e2120700e033ea5b3949d489c7bf4dcb2ff473c74e23e4887e713dec7a77ab5173c679dbbec0a",
+    "client_seed": "1786994008730",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1637,
+    "max_tickets": 25000,
+    "combined_hash": "dc9f7ac003076524e98a1aef3e7c2a67db7c4ee0a8f6b9567c8ffbfd425bc7a3",
+    "result": "11789",
+    "external_round_id": "31396884",
+    "processing_status": "completed",
+    "created_at": "2026-08-17T19:13:28.000000Z",
+    "revealed_at": "2026-08-17T19:13:36.000000Z"
+}
