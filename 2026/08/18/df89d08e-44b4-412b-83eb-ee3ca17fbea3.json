@@ -1,0 +1,22 @@
+{
+    "round_id": "df89d08e-44b4-412b-83eb-ee3ca17fbea3",
+    "draw_title": "Cash Pinata - £500 End Prize",
+    "competition_url": "https://ryscompetitions.com/admin/products/cash-pinata-ps500-end-prize",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "619c75e41a5014ac1266fc2ef6bdd5093a393743db93f972198f3518a55fe00a",
+    "drand_seed_hash": "8a4df53d9e7d570a1f747ca386440f2b4f2d1581df70ee4ea69dd2f28718e275f1f3f982f8433ab8dfd6d8f84e9f4d09",
+    "client_seed": "1787083860807",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27729,
+    "max_tickets": 195000,
+    "combined_hash": "46fd77400cf018c2b0a5ff4865eb06877801bfcf1ee4da244454478f59eab5a1",
+    "result": "135447",
+    "external_round_id": "31426834",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T20:11:00.000000Z",
+    "revealed_at": "2026-08-18T20:11:06.000000Z"
+}
