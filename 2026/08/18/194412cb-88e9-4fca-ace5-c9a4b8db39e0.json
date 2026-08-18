@@ -1,0 +1,22 @@
+{
+    "round_id": "194412cb-88e9-4fca-ace5-c9a4b8db39e0",
+    "draw_title": "Buster's Ultimate Catch - £50,000 In Instant wins",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-ultimate-catch-ps50000-in-instant-wins",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "51028837bc44c0a9e54b1cb1964609b4ee5e1dd74f6868bed9f6fc7952cb7197",
+    "drand_seed_hash": "86a3f80fc68a5bed502bf444f7d555dbb34e99121ec26dcbe83c67553f7ac14e60873c13b25210f04ba55006d350e42f",
+    "client_seed": "1787080241323",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25951,
+    "max_tickets": 179999,
+    "combined_hash": "d08f902ba2b7fafba21a73f3b2baa940f983ce2b52ec655a9e91272ad8a1375d",
+    "result": "98349",
+    "external_round_id": "31425628",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T19:10:41.000000Z",
+    "revealed_at": "2026-08-18T19:10:48.000000Z"
+}
