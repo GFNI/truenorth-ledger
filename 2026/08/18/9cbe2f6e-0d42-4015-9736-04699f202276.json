@@ -1,0 +1,22 @@
+{
+    "round_id": "9cbe2f6e-0d42-4015-9736-04699f202276",
+    "draw_title": "🌌 POP THE GALAXY RETURNS – Win up to £2,000",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/pop-the-galaxy-returns",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "c224093bca22a942622ffd0e2d6612c9421620454456c74403984fb7b946193a",
+    "drand_seed_hash": "add970cd87d1f3c5bb715ae2f7eb444c14ac3e472fd2236b1cb7790716bb4988a71950659817eb27df8447931f9094c9",
+    "client_seed": "1787076647489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14752,
+    "max_tickets": 150000,
+    "combined_hash": "8e6527223d59f38d2b3d45060a6626c4403d210563c4f32a329ac2ea985f553b",
+    "result": "7247",
+    "external_round_id": "31424430",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T18:10:47.000000Z",
+    "revealed_at": "2026-08-18T18:10:54.000000Z"
+}
