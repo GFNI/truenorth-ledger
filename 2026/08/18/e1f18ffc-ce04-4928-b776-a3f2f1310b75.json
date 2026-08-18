@@ -1,0 +1,22 @@
+{
+    "round_id": "e1f18ffc-ce04-4928-b776-a3f2f1310b75",
+    "draw_title": "1886 QUEEN VICTORIA YOUNG HEAD FULL GOLD SOVEREIGN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1886-queen-victoria-young-head-full-gold-sovereign",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "ceaffe57201e1b2546c3c61db8f65a1b4e8c80ead2618e971e54bcb33af55200",
+    "drand_seed_hash": "a0e52a869b0af1d163f1e63662475117c680df06d814fa3215daa05fe59126859a4d45f8d914dc1d0e238d83a3ad046e",
+    "client_seed": "1787083710392",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 879,
+    "max_tickets": 1500,
+    "combined_hash": "bfd2713a6dab2620cae98c71406bb1f8b61137e93b80bb0ff91626d2f8167e5a",
+    "result": "48",
+    "external_round_id": "31426784",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T20:08:30.000000Z",
+    "revealed_at": "2026-08-18T20:08:36.000000Z"
+}
