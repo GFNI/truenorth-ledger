@@ -1,0 +1,22 @@
+{
+    "round_id": "27cf6e0e-bfa5-47a8-a5a5-bc677b4ff551",
+    "draw_title": "LOW ODDS - £1,000 TAX FREE CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/low-odds-ps1000-tax-free-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "fd485b697b378ea0c503b25f08435ac67bca45dbfa743a5110075ed2bcff80bc",
+    "drand_seed_hash": "907d387e575ab05bf2fdef68ddb1da3d467e515050c0daa4105ee0e417cda4750048eae508cff903e361a40f37e9a22c",
+    "client_seed": "1787084296845",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 599,
+    "max_tickets": 599,
+    "combined_hash": "f872e1e2e4a99e08871afe1d97cc02180414921c7f9a9287a381ed4a7bbd3d3f",
+    "result": "83",
+    "external_round_id": "31426980",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T20:18:16.000000Z",
+    "revealed_at": "2026-08-18T20:18:24.000000Z"
+}
