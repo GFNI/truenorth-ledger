@@ -1,0 +1,22 @@
+{
+    "round_id": "e6e9d32f-02e8-4e3a-be90-f9a91278078f",
+    "draw_title": "100G NADIR 999.9 FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/100g-nadir-9999-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "33be1e1a13519d6c38224c5400c01eb5e03a238e787fa0181d24963099eb8015",
+    "drand_seed_hash": "b494155056c3371703bb0829e0d2258a8a0de079a0c012e91272cdd86cec91d65ad54df1aa36057cfe32ed42b2b10349",
+    "client_seed": "1787093760638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 250,
+    "combined_hash": "846415eb0037f10c9f3456a295ce97d40c95ea0a6e1b5a4520136d20fe6dc5e9",
+    "result": "249",
+    "external_round_id": "31430134",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T22:56:00.000000Z",
+    "revealed_at": "2026-08-18T22:56:06.000000Z"
+}
