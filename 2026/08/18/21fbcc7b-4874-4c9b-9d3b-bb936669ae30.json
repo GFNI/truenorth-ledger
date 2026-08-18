@@ -1,0 +1,22 @@
+{
+    "round_id": "21fbcc7b-4874-4c9b-9d3b-bb936669ae30",
+    "draw_title": "World Cup Scratch",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/world-cup-scratch",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "eaf7311c253ace268d4d511400c654ac7845f5d8fd8b7c2d4b40a239287e7615",
+    "drand_seed_hash": "857a21ec6179dcf52800412f484d3a51ee70f0b200ca746844f6d2df860da3a91036c5649ac17af7149287a9e877c8ea",
+    "client_seed": "1787056685752",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 365485,
+    "max_tickets": 530000,
+    "combined_hash": "17fc360301398e6c92081bddf04bc99bfc783d460a935e4c1dc40a731b85ac93",
+    "result": "405128",
+    "external_round_id": "31417776",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T12:38:05.000000Z",
+    "revealed_at": "2026-08-18T12:38:12.000000Z"
+}
