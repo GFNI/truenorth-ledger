@@ -1,0 +1,22 @@
+{
+    "round_id": "e67cafc2-e8fb-4a6c-b84b-472b85e942e2",
+    "draw_title": "EPIC PIGGY POT 22 JACKPOT £7012",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-piggy-pot-22-jackpot-ps7012-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f725e26b011de2178258f1e3e7c3b572fac39ad7fdc0ead0ab6bfabf15358c53",
+    "drand_seed_hash": "8c7a93ca70716e3277ec2e79d70031c31a26094a1c879354b52efa50be495a996c34a3e5a04b4590305806fb030a0941",
+    "client_seed": "1787060207940",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10232,
+    "max_tickets": 13000,
+    "combined_hash": "aceef7706d7fb00a0ec5e9fb856c79921ffd3b79081540989197d4fc116708d6",
+    "result": "685",
+    "external_round_id": "31418950",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T13:36:48.000000Z",
+    "revealed_at": "2026-08-18T13:36:54.000000Z"
+}
