@@ -1,0 +1,22 @@
+{
+    "round_id": "0c7178e0-c823-4f94-9d79-737fc29ccdfb",
+    "draw_title": "You Choose - Free Competition",
+    "competition_url": "https://hiphipprizehub.com/admin/products/you-choose-free-competition",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "133b1875ab279b2a2af78cecdbbbbe1e0beb25d3fba2415574f88e20c75a29a0",
+    "drand_seed_hash": "80f0237112ef6249128feae94146640bc7ec3325f821e2061faab6a0191cdbe05dc99a87dbdebad6291d9b45854ecce5",
+    "client_seed": "1787084747248",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 600,
+    "combined_hash": "02a60a1b31f3010833e2f192aa6cb2eb0272aaccc341db40a18520d755e653e1",
+    "result": "491",
+    "external_round_id": "31427130",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T20:25:47.000000Z",
+    "revealed_at": "2026-08-18T20:25:54.000000Z"
+}
