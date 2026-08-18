@@ -1,0 +1,22 @@
+{
+    "round_id": "3ed13bae-2f2b-4def-9d68-78fe0ec1dc4d",
+    "draw_title": "🌈WINKO!🌈",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/winkoo",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "8be8d6e5e4c39d38e9d7bb3fec5ace6ec158f3a7c4d56f5ecaeb53c1eed56cba",
+    "drand_seed_hash": "a269ec4b2f0e254829f6318d16dfc7f00cdd6397e496778ee3c8a21b9428bb1463fbaddda9e0ef96cbd922845737ec21",
+    "client_seed": "1787076722229",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8973,
+    "max_tickets": 79000,
+    "combined_hash": "a669daf60db1d94bf2b5dd361905d989d916e45e45746f8755dedd9483cf50e9",
+    "result": "13031",
+    "external_round_id": "31424455",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T18:12:02.000000Z",
+    "revealed_at": "2026-08-18T18:12:09.000000Z"
+}
