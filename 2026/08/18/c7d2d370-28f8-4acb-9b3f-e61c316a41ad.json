@@ -1,0 +1,22 @@
+{
+    "round_id": "c7d2d370-28f8-4acb-9b3f-e61c316a41ad",
+    "draw_title": "99 Red Balloons - Win up to £1,000 Instantly",
+    "competition_url": "https://proprizes.co.uk/admin/products/99-red-balloons-win-up-to-ps1000-instantly",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "4e11d5e96c0f2444779918492c6cbc8aa89d8d2ba97ca71d6d095a1a3b1277e4",
+    "drand_seed_hash": "b3cceeb2a818ef746db82f07117e436083aa964c4561048c761d7c761684275116a92d13d2922b3f4b36c4e429971bbd",
+    "client_seed": "1787087453126",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34629,
+    "max_tickets": 999999,
+    "combined_hash": "46173fadf8db0c2f5b40bdf25099903740cbe7722c4abd62cab0d2a0457dc763",
+    "result": "596001",
+    "external_round_id": "31428032",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T21:10:53.000000Z",
+    "revealed_at": "2026-08-18T21:11:00.000000Z"
+}
