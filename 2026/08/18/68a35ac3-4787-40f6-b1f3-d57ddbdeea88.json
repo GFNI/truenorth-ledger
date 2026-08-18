@@ -1,0 +1,22 @@
+{
+    "round_id": "68a35ac3-4787-40f6-b1f3-d57ddbdeea88",
+    "draw_title": "£200 SITE CREDIT",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps200-site-credit",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "a51dafb325b2e2c499ea3ae02498dc6654a6103bb7b7e40e659feef1b86d1a44",
+    "drand_seed_hash": "923fe7a28c12c241fda56f87a723bcdc0702d64af532d019cc1e494968bd29c1ee9851a4566c52f3151a9c60e19c965a",
+    "client_seed": "1787076655189",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 590,
+    "max_tickets": 1999,
+    "combined_hash": "c22ea0002378152684a77032b8bf27c4317a0de1fe289fd4aaaadbe3dbd36126",
+    "result": "982",
+    "external_round_id": "31424433",
+    "processing_status": "completed",
+    "created_at": "2026-08-18T18:10:55.000000Z",
+    "revealed_at": "2026-08-18T18:11:03.000000Z"
+}
