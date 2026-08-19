@@ -1,0 +1,22 @@
+{
+    "round_id": "1adacd4a-902a-48b0-94f9-90bf5af8235b",
+    "draw_title": "Win 100 Tickets Into the Pokémon £1,000 Ascended Heroes Mega! — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/win-100-tickets-into-the-pokemon-ps1000-ascended-heroes-mega-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "a3504c2dca16bd4597d42670470d7ebcc30a040d192dceec7a9fe91a0998bfc3",
+    "drand_seed_hash": "8785f51539fb9e7f8deda1318c8d313fe0e84296afe56a405e3e4f1af5fb15d5d4ab82c6dd046bf22fdde736c511e0e4",
+    "client_seed": "1787173886564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48,
+    "max_tickets": 100,
+    "combined_hash": "2f39dd18f8e95f8f06e4a9b77bf8120d9e5f1f5b75f32303315bd2cb7c98b893",
+    "result": "80",
+    "external_round_id": "31456843",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:11:26.000000Z",
+    "revealed_at": "2026-08-19T21:11:33.000000Z"
+}
