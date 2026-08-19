@@ -1,0 +1,22 @@
+{
+    "round_id": "eafb8d64-a101-42e1-a2b2-f48b2a54d752",
+    "draw_title": "£25 Lush voucher",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/ps25-lush-voucher",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "7214497d89ce9dc7eaf8dd4666d4104902833e982646454cba623ed0e26389ba",
+    "drand_seed_hash": "8bb9a2737c81ffc33aa54833094e8047754b16aabb0d7057d3f769d4de24d455a98db149b59728a022375cb466ef303d",
+    "client_seed": "1787170251833",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 29,
+    "max_tickets": 79,
+    "combined_hash": "78c67a7c527482b855fdfba91d44af05dcf267a8df7e2be78814f8da8cf67f7a",
+    "result": "53",
+    "external_round_id": "31455631",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:10:51.000000Z",
+    "revealed_at": "2026-08-19T20:10:57.000000Z"
+}
