@@ -1,0 +1,22 @@
+{
+    "round_id": "b4cf28b4-4f4d-4470-9398-db1f1af589d7",
+    "draw_title": "Win this PERFECTDRAFT Pro Beer Machine or £200!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-this-perfectdraft-pro-beer-machine-or-ps200",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "0b7552c8f3245aac06a0dbbe95f72c71380844a1313eeea2963b1077f0a7c21b",
+    "drand_seed_hash": "92346f84c657d8782c8b774d3c4565cdadfda1beb6475cdcfb56466bb57a35c877611e61c6756ccf69c29026cc36f734",
+    "client_seed": "1787166626903",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 149,
+    "max_tickets": 500,
+    "combined_hash": "228b6d6be023eb3552d1ace6c87496952518fa0424184e2e9ffc7ab1da809cba",
+    "result": "155",
+    "external_round_id": "31454423",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:10:26.000000Z",
+    "revealed_at": "2026-08-19T19:10:33.000000Z"
+}
