@@ -1,0 +1,22 @@
+{
+    "round_id": "0993086f-2553-4bb7-a3d0-1c690bd874b2",
+    "draw_title": "WIN NOTHING. Test",
+    "competition_url": "https://championwin.rafflex.uk/admin/products/win-nothing-test/edit",
+    "operator": {
+        "name": "Champion Win Competitions Ltd",
+        "website": "https://championwin.rafflex.uk/",
+        "company_number": "16303779"
+    },
+    "drand_server_seed": "556a1311442195ab74cc4efac1d7ca8347fd5f49e518a4ace392a4f1e051b575",
+    "drand_seed_hash": "aab311a403d62cf65361e99f74979fcd1cee35f65dccaffa7ebe11b3da0440ca714b3112ddb635f65e0ca032b0a57cbf",
+    "client_seed": "1787118417167",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 10,
+    "combined_hash": "2787416554796b91de8584fad1854990bad39b8e7d6d021cc19e011680ea07bd",
+    "result": "6",
+    "external_round_id": "31438353",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T05:46:57.000000Z",
+    "revealed_at": "2026-08-19T05:47:07.000000Z"
+}
