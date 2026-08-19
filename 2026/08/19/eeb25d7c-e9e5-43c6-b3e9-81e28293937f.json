@@ -1,0 +1,22 @@
+{
+    "round_id": "eeb25d7c-e9e5-43c6-b3e9-81e28293937f",
+    "draw_title": "£100,000 Poker Instant Wins - Win UP TO £2,500!!!",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps100000-poker-instant-wins-win-up-to-ps2500",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "62053c434890a8675868982b6bd7d09b81f9f3569aa7c8e93538257f6bb39db3",
+    "drand_seed_hash": "a6bac788033bad6b6190b84d208568050cf53687e9c188c1dd0ea5d776d19ded78da9db1a7e1b4805664729b8defcd3e",
+    "client_seed": "1787173845017",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83490,
+    "max_tickets": 600000,
+    "combined_hash": "de0ff8806a40808dbf4b11d92101dd6db3d2af25033549dbbdb607e2fed3c2ba",
+    "result": "140639",
+    "external_round_id": "31456829",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:10:45.000000Z",
+    "revealed_at": "2026-08-19T21:10:51.000000Z"
+}
