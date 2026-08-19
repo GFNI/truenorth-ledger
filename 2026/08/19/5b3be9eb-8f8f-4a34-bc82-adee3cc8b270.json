@@ -1,0 +1,22 @@
+{
+    "round_id": "5b3be9eb-8f8f-4a34-bc82-adee3cc8b270",
+    "draw_title": "2023 RED ARROWS 1/10oz GOLD PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-red-arrows-110oz-gold-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "f7cd9b448d5dd5bcad32281fd55c6c7575f33cd5febe961a8c559fffeaee637c",
+    "drand_seed_hash": "85b0ed911e8d7096a0c71664060a8b0b3929ae99f1aa15dae399695f27655d749aeb807d2f217d274b4f025aeebbf00b",
+    "client_seed": "1787180151486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 545,
+    "max_tickets": 1000,
+    "combined_hash": "1a1a480b1f7c5e58aeba97407154ac4e344d9861da1c059ca54c7dd3ff5dba4f",
+    "result": "651",
+    "external_round_id": "31458931",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T22:55:51.000000Z",
+    "revealed_at": "2026-08-19T22:55:57.000000Z"
+}
