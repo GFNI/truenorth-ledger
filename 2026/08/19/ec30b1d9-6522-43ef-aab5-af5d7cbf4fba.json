@@ -1,0 +1,22 @@
+{
+    "round_id": "ec30b1d9-6522-43ef-aab5-af5d7cbf4fba",
+    "draw_title": "POP IT LIKE IT'S HOT! – £6K of Instant Wins + £1K End Prize!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/pop-it-like-its-hot-ps6k-of-instant-wins-ps1k-end-prize",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "a4701b0b026d35f283dcb4b2b8f9fd151be69af436d82b0967d02df00c8a97ea",
+    "drand_seed_hash": "b39d5ba32470d55cab6f1ebb6a8229245f4a641d2b883b6671ccc16b3751f5da067cbf08f36289143a532ce714de9769",
+    "client_seed": "1787166784537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7140,
+    "max_tickets": 11000,
+    "combined_hash": "b3342f76ccbc97a93b0bf98147db89c99bc3936b0865696f96413c9dc2201754",
+    "result": "172",
+    "external_round_id": "31454476",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:13:04.000000Z",
+    "revealed_at": "2026-08-19T19:13:12.000000Z"
+}
