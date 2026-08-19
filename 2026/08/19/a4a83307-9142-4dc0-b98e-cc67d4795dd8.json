@@ -1,0 +1,22 @@
+{
+    "round_id": "a4a83307-9142-4dc0-b98e-cc67d4795dd8",
+    "draw_title": "Plinko Ball Drop",
+    "competition_url": "https://ecnicompetitions.com/admin/products/plinko-ball-drop-2",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "8d617844f0c65f3917480308a653a0fcb71a91f5341e9541cb665b6dd7866674",
+    "drand_seed_hash": "97f0246eecf12e0aca957b5e245ef46c9c637b2e944264ec203f09cd9cb4886eac600687a9a48a6516b543a4c35b9dbe",
+    "client_seed": "1787166044429",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7499,
+    "max_tickets": 7499,
+    "combined_hash": "2a3fdd710f5b4d1c2a529ec9cdf77f8c8afe41632e8f7ccd5ff7f4a3d3c92e98",
+    "result": "7278",
+    "external_round_id": "31454229",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:00:44.000000Z",
+    "revealed_at": "2026-08-19T19:00:51.000000Z"
+}
