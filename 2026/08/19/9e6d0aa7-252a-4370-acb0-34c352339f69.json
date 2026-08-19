@@ -1,0 +1,22 @@
+{
+    "round_id": "9e6d0aa7-252a-4370-acb0-34c352339f69",
+    "draw_title": "Back To School",
+    "competition_url": "https://ecnicompetitions.com/admin/products/back-to-school",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "16ad69553a1a432edcc84ae0818aecf5569c0644cec6adf98430075c59451dd7",
+    "drand_seed_hash": "94531d891046e2f43d2f09700f8b3b927d2228a4c4e68f0ee32985f3489013dc280decf2ae932e67b507bb3cd2f433ea",
+    "client_seed": "1787170283506",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2739,
+    "max_tickets": 2999,
+    "combined_hash": "dd5ce815b306c51e98ff9b97f11cdec6a8804721edb4ab170953eeb9e66a70d6",
+    "result": "1219",
+    "external_round_id": "31455642",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:11:23.000000Z",
+    "revealed_at": "2026-08-19T20:11:30.000000Z"
+}
