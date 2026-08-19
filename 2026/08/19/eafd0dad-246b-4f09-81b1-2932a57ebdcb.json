@@ -1,0 +1,22 @@
+{
+    "round_id": "eafd0dad-246b-4f09-81b1-2932a57ebdcb",
+    "draw_title": "Win This Back To School Set!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-this-back-to-school-set",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "6bb4f1f910591beebdaed00b4df3848f7c66010c9536fd6cf4ace8a1cbaba2d2",
+    "drand_seed_hash": "97e5a86ed904ab69ff7c650cc471372d2a8cb6025f61730e5b809417f8174999f9fdd0c9c75bf8aedb271a7cf58ddf21",
+    "client_seed": "1787166645030",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 86,
+    "max_tickets": 400,
+    "combined_hash": "5d60732e158d6cbe6f48673db5d89f2b921847a8dc6f57bd0bf2246a8e258f7b",
+    "result": "46",
+    "external_round_id": "31454429",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:10:45.000000Z",
+    "revealed_at": "2026-08-19T19:10:51.000000Z"
+}
