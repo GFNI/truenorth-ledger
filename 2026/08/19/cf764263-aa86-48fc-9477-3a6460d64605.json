@@ -1,0 +1,22 @@
+{
+    "round_id": "cf764263-aa86-48fc-9477-3a6460d64605",
+    "draw_title": "The £20 Gamble",
+    "competition_url": "https://chaotic.co.uk/competition/the-ps20-gamble-2836",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "7bd40d1b578c950bf2ab8199294f615e91e4aa6c4fbdb8bc5890a3ede6f8e0ea",
+    "drand_seed_hash": "83bd023e3a96009fe5b8250b5d20263aab35f81dfc1f2e2eafa4369142fc19996e92c77f00a3411840add18fdd1451dc",
+    "client_seed": "1787169111922",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "5fb6674afa5faeb8ef310729e795f24b98678fee5fc2e8102b2b8c6fe2467bbe",
+    "result": "880",
+    "external_round_id": "31455251",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:51:52.000000Z",
+    "revealed_at": "2026-08-19T19:51:57.000000Z"
+}
