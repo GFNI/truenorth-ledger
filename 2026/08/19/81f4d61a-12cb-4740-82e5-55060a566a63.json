@@ -1,0 +1,22 @@
+{
+    "round_id": "81f4d61a-12cb-4740-82e5-55060a566a63",
+    "draw_title": "JELLYCAT INSTANT WINS",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/jellycat-instant-wins",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "993e76d18a65564a40405f85c6210b22049e5f60cf37ae330c3b706abbc64c7f",
+    "drand_seed_hash": "9651ae17a3980c2ab47238c0a83bdef8ea8ce2e0e575942593af1ac5963c73ff9c6b54b28d70fec3d0db765b16554e10",
+    "client_seed": "1787168192428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "99832f58636ebbff9b6f33cba9c4fbea604c233932485f7f96a3bd752ea00377",
+    "result": "890",
+    "external_round_id": "31454945",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:36:32.000000Z",
+    "revealed_at": "2026-08-19T19:36:39.000000Z"
+}
