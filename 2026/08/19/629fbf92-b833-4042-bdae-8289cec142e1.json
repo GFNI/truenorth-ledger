@@ -1,0 +1,22 @@
+{
+    "round_id": "629fbf92-b833-4042-bdae-8289cec142e1",
+    "draw_title": "KRISTIAN HOOD AND HIS BAND OF MERRY MEN £150,000 INSTANT WINNER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/kristian-hood-and-his-band-of-merry-men-ps150000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "a8cf13cd4ca7a07d4bafee64aa11435018c8bc9cebd886c97798176285722719",
+    "drand_seed_hash": "b585999521de398c69b9386eef6b8eecb54c730c522922f22d82df70b59c9862ab31a103907ed55503f4fb631cc47647",
+    "client_seed": "1787169600951",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136200,
+    "max_tickets": 6000000,
+    "combined_hash": "a681c76403dd216b82d6c452e24964fc02e139dd0a2e96229ea4f38a3b09fafb",
+    "result": "4796455",
+    "external_round_id": "31455415",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:00:01.000000Z",
+    "revealed_at": "2026-08-19T20:00:09.000000Z"
+}
