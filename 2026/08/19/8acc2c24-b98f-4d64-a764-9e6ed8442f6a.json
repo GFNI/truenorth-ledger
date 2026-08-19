@@ -1,0 +1,22 @@
+{
+    "round_id": "8acc2c24-b98f-4d64-a764-9e6ed8442f6a",
+    "draw_title": "Win 100 Tickets Into the £1,000 Fund Your Hobby Mega! — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/win-100-tickets-into-the-ps1000-fund-your-hobby-mega-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0731682a0a4b946c6d09da3c9ee482f19fedb72174470facce9c9aae75133d7e",
+    "drand_seed_hash": "8b9fd11212aec54fc9beabd332ab84c5ecfa844930bc1dac44c5a7b0b8c734925d3c04d5ee7723e9c146b6adf1520860",
+    "client_seed": "1787174392953",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 100,
+    "combined_hash": "3928a9da5b9465958a970f014bb40358b199220b0c63bf53abd2a168b9efaa4e",
+    "result": "70",
+    "external_round_id": "31457011",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:19:52.000000Z",
+    "revealed_at": "2026-08-19T21:19:57.000000Z"
+}
