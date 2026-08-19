@@ -1,0 +1,22 @@
+{
+    "round_id": "ce2bfcf2-b049-46c9-acab-2ea158b1a021",
+    "draw_title": "WIN A £50 SMYTHS VOUCHER!! (2 WINNERS)",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps50-smyths-voucher-2-winners",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "82821e9dcf53569edc23ff49fd1a34cb9a1f42c70befb97985ba702155695efb",
+    "drand_seed_hash": "ad715c0936050080f8f110314a5346637c07b4feace67dfacf588b45f148aef886038be901bc8a29e9b042692ecfe8d2",
+    "client_seed": "1787173409328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 191,
+    "max_tickets": 250,
+    "combined_hash": "2fad655fb080dbaad032e8cd9e96d61b0a80aa77e977f23b849d5ddc7e0ec392",
+    "result": "242",
+    "external_round_id": "31456684",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:03:29.000000Z",
+    "revealed_at": "2026-08-19T21:03:36.000000Z"
+}
