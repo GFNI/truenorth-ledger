@@ -1,0 +1,22 @@
+{
+    "round_id": "7fa972e1-4304-48d4-8383-76a87b705c1e",
+    "draw_title": "PAMP SUISSE 100G FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/pamp-suisse-100g-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "6aa2688d23473c3f9c742cb227046a45f96fa7cc0433bc2e768d61c2565f7e04",
+    "drand_seed_hash": "97b6c995f0381d41cf1f4d8df902f63dd1892b77dafea0a0531d5117688b0787d3a2c54cdb9bea22a20f61efcc5b7e21",
+    "client_seed": "1787180145602",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 172,
+    "max_tickets": 250,
+    "combined_hash": "4d8d23a0146832c89caf4e159ae725196e854b46ae8ab8662b44965691b5691e",
+    "result": "244",
+    "external_round_id": "31458929",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T22:55:45.000000Z",
+    "revealed_at": "2026-08-19T22:55:51.000000Z"
+}
