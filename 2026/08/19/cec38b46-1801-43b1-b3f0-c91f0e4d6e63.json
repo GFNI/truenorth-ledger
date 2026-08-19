@@ -1,0 +1,22 @@
+{
+    "round_id": "cec38b46-1801-43b1-b3f0-c91f0e4d6e63",
+    "draw_title": "The Macallan Distil Your World Hong Kong! LOW ODDS!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-macallan-distil-your-world-hong-kong-low-odds",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "375f5692759f97d52648e505c64efd184f8043dfdd83c58993926fc3c0273a80",
+    "drand_seed_hash": "ade54b9c2407ebe44f3caa3c792c3cbaaefb7050ef225b1013c4e5b4484285b6796ad86c656b6497808a1e4c44a7fe8c",
+    "client_seed": "1787173860713",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3677,
+    "max_tickets": 4999,
+    "combined_hash": "25ffe0895b3759347cd26b440d5c4847da18ea6930d847c779064175ced9fa43",
+    "result": "1711",
+    "external_round_id": "31456834",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:11:00.000000Z",
+    "revealed_at": "2026-08-19T21:11:06.000000Z"
+}
