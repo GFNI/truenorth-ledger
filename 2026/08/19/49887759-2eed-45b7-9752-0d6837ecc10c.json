@@ -1,0 +1,22 @@
+{
+    "round_id": "49887759-2eed-45b7-9752-0d6837ecc10c",
+    "draw_title": "Bluetooth Boom Speaker",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/bluetooth-boom-speaker-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f1aec3afba60c384636d779ee54ebf1c4d2fc7b302ad4a72bf33a1a9cfda1a96",
+    "drand_seed_hash": "a801dc5073e2011602b64c8834ca3ebeba3d671a40396720c3f70289bd5e02d9d877828593720308efe04e8edd0ad23b",
+    "client_seed": "1787166696509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31,
+    "max_tickets": 150,
+    "combined_hash": "a3a24b96f54dc20036b6b31b05d3d5ff599fd183f07110376a7afc5b841549d1",
+    "result": "86",
+    "external_round_id": "31454446",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:11:36.000000Z",
+    "revealed_at": "2026-08-19T19:11:42.000000Z"
+}
