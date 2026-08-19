@@ -1,0 +1,22 @@
+{
+    "round_id": "1efeefe7-f01b-4352-971c-575d1f438db4",
+    "draw_title": "PENNY SAFE CRACKER - 1P INSTANT WINS - £250 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/penny-safe-cracker-1p-instant-wins-ps250-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "aa87fac78546207105e858871676bfc28600f3144c37073c52b057c5afc366bb",
+    "drand_seed_hash": "aaefeb80c074f908e4cbda05b99f1d8f045b91eb18b9492300c9f24066136af6dfefc7e7fd2d53a9018f127015dad23d",
+    "client_seed": "1787170893594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 341923,
+    "max_tickets": 640000,
+    "combined_hash": "81adbf4859eb364bf8dc8ab9e95243d5261157d527f52a925a2f5f1fd3fe88de",
+    "result": "41346",
+    "external_round_id": "31455845",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:21:33.000000Z",
+    "revealed_at": "2026-08-19T20:21:39.000000Z"
+}
