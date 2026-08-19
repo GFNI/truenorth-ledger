@@ -1,0 +1,22 @@
+{
+    "round_id": "14c7c1eb-7a94-4cf7-8789-4909250b9cc5",
+    "draw_title": "20,000mAh Power Bank!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/20000mah-power-bank-4461",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f92fd549b28f79d44648ff8e83c287f3bb2570cab8446cc4ad648f22fde9d2c8",
+    "drand_seed_hash": "a8b6c3fda9784e7c673612be1d07dfc1f1fe10a0f13d27eb5d68fbd9a46f4401f0584d8a84da1b1be51fa6b736d2c77e",
+    "client_seed": "1787166676068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 180,
+    "combined_hash": "8832c2637dbb602c396ca4f81ef081703ab10e21ec3907effd9c3feaf235ffea",
+    "result": "165",
+    "external_round_id": "31454440",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:11:16.000000Z",
+    "revealed_at": "2026-08-19T19:11:24.000000Z"
+}
