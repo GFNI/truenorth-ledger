@@ -1,0 +1,22 @@
+{
+    "round_id": "3524fbc4-7256-4c80-a97f-02ee4f2ec44f",
+    "draw_title": "Win 100 Tickets Into the £1,000 Warhammer Mega! — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/win-100-tickets-into-the-ps1000-warhammer-mega-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "556850d7f0f079c83d40b589ded78cfcf17a6e33d6c59628ba79d33aaa0e447f",
+    "drand_seed_hash": "adf3e19bbbdf62b82b855efdc9cb5c9b9826e794d1c2d04e0a85905a163fa0bec8ae7cfa6b9f8fe494d20be907a89f5c",
+    "client_seed": "1787174155305",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 100,
+    "combined_hash": "4042129c435f0b9f0eb2a4bc394f350f757bbe51595d170e11c4fc4762d74330",
+    "result": "5",
+    "external_round_id": "31456933",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T21:15:55.000000Z",
+    "revealed_at": "2026-08-19T21:16:03.000000Z"
+}
