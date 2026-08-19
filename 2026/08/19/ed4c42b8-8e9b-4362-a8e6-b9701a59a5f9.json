@@ -1,0 +1,22 @@
+{
+    "round_id": "ed4c42b8-8e9b-4362-a8e6-b9701a59a5f9",
+    "draw_title": "Win this Pokemon Pitch Black Elite Trainer Box - ULTRA LOW TICKETS",
+    "competition_url": "https://prizeforge.co.uk/admin/products/win-this-pokemon-pitch-black-elite-trainer-box-ultra-low-tickets",
+    "operator": {
+        "name": "PrizeForge",
+        "website": "https://prizeforge.co.uk",
+        "company_number": "17154643"
+    },
+    "drand_server_seed": "2d04e27716dffcffba17aaade8b5a5974615d2ff34836e1ae79d7349bb53497b",
+    "drand_seed_hash": "8311b35efcb08250763a95f308695836df8355101b1747b6631676ea3dab3be51317872c90bda869911936f64a988b3a",
+    "client_seed": "1787169670318",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 88,
+    "combined_hash": "54d75282b48cb363aea0ef9a345b01f37092324b63d86623afdef65e10ac1528",
+    "result": "61",
+    "external_round_id": "31455438",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:01:10.000000Z",
+    "revealed_at": "2026-08-19T20:01:18.000000Z"
+}
