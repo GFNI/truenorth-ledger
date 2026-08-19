@@ -1,0 +1,22 @@
+{
+    "round_id": "4713b1a0-6f9e-40d4-aec0-fb595c5061fb",
+    "draw_title": "10 Tickets To The 4 Epic Prizes Comp",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/10-tickets-to-the-4-epic-prizes-comp",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "ebfb117b47e9f6a169ebd252672c338bb6c1e107adb439e88f12498a3ba8005d",
+    "drand_seed_hash": "b0aa3840bc4372f639e9bc368923e80779687dd8c455ccb1a7718a5c1a8d741c1f0ca7767d2da3d1d4d9c94162735286",
+    "client_seed": "1787172275763",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32,
+    "max_tickets": 1000,
+    "combined_hash": "fef66911566884a47a198a78f1fffe58ac86e7d413c53a5d29097b531810a1ed",
+    "result": "183",
+    "external_round_id": "31456306",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T20:44:35.000000Z",
+    "revealed_at": "2026-08-19T20:44:42.000000Z"
+}
