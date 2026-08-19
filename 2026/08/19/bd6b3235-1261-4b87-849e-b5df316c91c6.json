@@ -1,0 +1,22 @@
+{
+    "round_id": "bd6b3235-1261-4b87-849e-b5df316c91c6",
+    "draw_title": "£100 for a penny! Autodraw Wednesday",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ps100-for-a-penny-autodraw-wednesday-4",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "739f853c7c727095e8ffa4ee2ce3ef00e35136d33060092445e758cb23690027",
+    "drand_seed_hash": "9462028270a1be78a41b6a45073bc10b31607d0cb2ed2f7310bfcac473f9a423ef200317f1435bb6c28bbf7ac33efef4",
+    "client_seed": "1787166660998",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13215,
+    "max_tickets": 20000,
+    "combined_hash": "e0f7156e88e1f45480f9050e71fac62afcae5f0afb0048986f2a7012082f046e",
+    "result": "13473",
+    "external_round_id": "31454435",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:11:01.000000Z",
+    "revealed_at": "2026-08-19T19:11:09.000000Z"
+}
