@@ -1,0 +1,22 @@
+{
+    "round_id": "3c28d187-04c5-4040-9d6d-adaa121f4ab6",
+    "draw_title": "Lego Botanicals Mini Orchid",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/lego-botanicals-mini-orchid",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "1d570b1860fe0eb474c9a04d34191f4201ae0175504b47e0aeae1e65d465620b",
+    "drand_seed_hash": "86d1358f2b62f7b4e80d72b110eda184b7c8edbbbba47977d87da036580e5d09d5c37b43b563b4aaf93c62a8e3999e8a",
+    "client_seed": "1787166702521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 300,
+    "combined_hash": "8a01f3edcf51ccfe2198983a6504392473e348eb08255f6553604bc77bb4cae0",
+    "result": "35",
+    "external_round_id": "31454448",
+    "processing_status": "completed",
+    "created_at": "2026-08-19T19:11:42.000000Z",
+    "revealed_at": "2026-08-19T19:11:48.000000Z"
+}
