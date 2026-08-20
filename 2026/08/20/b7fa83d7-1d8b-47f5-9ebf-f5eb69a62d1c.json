@@ -1,0 +1,22 @@
+{
+    "round_id": "b7fa83d7-1d8b-47f5-9ebf-f5eb69a62d1c",
+    "draw_title": "✂️ FLYMO UltraLife 800 Cordless Robot Lawn Mower ✂️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/flymo-ultralife-800-cordless-robot-lawn-mower-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1e2f5e585d634b5823b78261c6793c81381859c4f71d2b1a5aba8925290b7891",
+    "drand_seed_hash": "96825f0f1407623b30ce45b2230945ba4aeea08c3ac8cb0f9c9b28aab5d436d8f2ee1e1a21c73d6c96d610711db55805",
+    "client_seed": "1787253291818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1052,
+    "max_tickets": 1435,
+    "combined_hash": "56c17b242fc02df3bbacb0f39825dcf3b5b9e096181dff95721c1492991ae6e7",
+    "result": "994",
+    "external_round_id": "31483311",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:14:51.000000Z",
+    "revealed_at": "2026-08-20T19:14:57.000000Z"
+}
