@@ -1,0 +1,22 @@
+{
+    "round_id": "c38f3c62-66ad-48a9-81be-95e99f733bec",
+    "draw_title": "12 Golden Cases",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/12-golden-cases",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "b05f9c7f48d2fb0620fc325992e8b65b36cad05416d61f08df522d06763cfa78",
+    "drand_seed_hash": "89557a111b2ddee3bab40f1f6a55f8428d60a5b34c879e9b61687d4a1e09b4f13e30d8bd2f3e647cfe5228c5f7fee64d",
+    "client_seed": "1787236784680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4444,
+    "max_tickets": 4444,
+    "combined_hash": "74c47cefaa5f4bf22f303569b1515424b434c9c20bd2849e04b57db08977851d",
+    "result": "4325",
+    "external_round_id": "31477809",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T14:39:44.000000Z",
+    "revealed_at": "2026-08-20T14:39:51.000000Z"
+}
