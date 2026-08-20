@@ -1,0 +1,22 @@
+{
+    "round_id": "e14de11c-c5ab-4caa-b352-5a36d7bed848",
+    "draw_title": "Win A 24 Pack Of Monster Energy Ultra Strawberry Dreams",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-24-pack-of-monster-energy-ultra-strawberry-dreams",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "9d5e08acd1bd8d1fe77926213fa79cc4ca3d537e47a1d7de66613216f14156f4",
+    "drand_seed_hash": "a983d449221e958879e870962f46f2730ddef43fec423e089ea393f856f54079e0d63822b8bffe879c331032a0e3a446",
+    "client_seed": "1787252959790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 470,
+    "max_tickets": 800,
+    "combined_hash": "114a83ede5c16ab15b595b3271dcbe3ae43172a3fa7d2f5d9fbc8263ac8656d4",
+    "result": "370",
+    "external_round_id": "31483201",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:09:19.000000Z",
+    "revealed_at": "2026-08-20T19:09:27.000000Z"
+}
