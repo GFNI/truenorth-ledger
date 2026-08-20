@@ -1,0 +1,22 @@
+{
+    "round_id": "d623f7f4-4496-467b-adc7-2605d7e7f409",
+    "draw_title": "🎄 3 Night Xmas Market Trip to Krakow for 2 with Wieliczka Salt Mine Tour 🎄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/3-night-xmas-market-trip-to-krakow-for-2-with-wieliczka-salt-mine-tour",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "63ca4d396d58a8fa835483bf32b8b1f33c364d58b2592137e0bd59f69407e182",
+    "drand_seed_hash": "819bb4b5b571b2a4a330b9bffbe06150dd8b3219ab95413cabe3aeb465d17ff98ad40cf0e211ae7b4c70dc9f5339dcf6",
+    "client_seed": "1787252573766",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2200,
+    "max_tickets": 2200,
+    "combined_hash": "46a11c286684211932f2ae08f31d5e240048e4939662f3c335d2740107653357",
+    "result": "335",
+    "external_round_id": "31483072",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:02:53.000000Z",
+    "revealed_at": "2026-08-20T19:03:00.000000Z"
+}
