@@ -1,0 +1,22 @@
+{
+    "round_id": "c864bb90-e92d-44cf-9c96-81c6fae9a3e1",
+    "draw_title": "WIN JELLYCAT DUSKY BLUE BASHFUL BUNNY",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/win-jellycat-dusky-blue-bashful-bunny",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "182bafd62b2d984a0764e3e0ef9965619af58a44343ca2a823fdafe42e02901e",
+    "drand_seed_hash": "abb22d3c369e0427b1980c6654074c8d8f5e84043ebaa0b3b8678a4e1473c832658130850b2814fce35ed7452cef3887",
+    "client_seed": "1787256660631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135,
+    "max_tickets": 299,
+    "combined_hash": "46a4c763477838328be8b256781dbc0336b2cb948cf3a23a4aeb68297ab7e954",
+    "result": "59",
+    "external_round_id": "31484434",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T20:11:00.000000Z",
+    "revealed_at": "2026-08-20T20:11:06.000000Z"
+}
