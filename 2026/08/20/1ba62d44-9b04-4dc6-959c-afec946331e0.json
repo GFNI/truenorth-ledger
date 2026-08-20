@@ -1,0 +1,22 @@
+{
+    "round_id": "1ba62d44-9b04-4dc6-959c-afec946331e0",
+    "draw_title": "Lucky Reels Slots Game - £600 Cash Jackpot - £150 Main Draw Prize - 4p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/lucky-reels-slots-game-ps600-cash-jackpot-ps150-main-draw-prize-4p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "961f008d63b48c82737fa65be71693a0b2920b976fab2a9b2b7615e43ffda44a",
+    "drand_seed_hash": "a030621ef1a788dd0c7e5edc6ee41fbe7224d090a34c8f6520501030622be7775ebf9ad183eaf4e9566d9c1142b593b0",
+    "client_seed": "1787249383830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36993,
+    "max_tickets": 112500,
+    "combined_hash": "608a4203dd46327603c353ec6347b9f570d39d57b90449021b2b3cae4e6a01e7",
+    "result": "17449",
+    "external_round_id": "31482009",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T18:09:43.000000Z",
+    "revealed_at": "2026-08-20T18:09:51.000000Z"
+}
