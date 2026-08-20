@@ -1,0 +1,22 @@
+{
+    "round_id": "3a081a59-0e3f-4785-a034-f63b69049701",
+    "draw_title": "JURASSIC CASH🦖💸",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/jurassic-cash",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "8f230c666efea7d41e228a65fd8759998dc697f6d9599cd514800fdfa7909f40",
+    "drand_seed_hash": "8961ef4fe62c11c9b7f3ea26a145225609d06568f21a5dcc098ce1bac2de6c0ec42a200b94728c1a63f8764de5625106",
+    "client_seed": "1787254518389",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 222222,
+    "max_tickets": 222222,
+    "combined_hash": "d64eb547b2cc55ca19fc7206f5a24fe3d9d91e81b93eec1525d471e09d6883ae",
+    "result": "176849",
+    "external_round_id": "31483720",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T19:35:18.000000Z",
+    "revealed_at": "2026-08-20T19:35:24.000000Z"
+}
