@@ -1,0 +1,22 @@
+{
+    "round_id": "9e9e573a-1c2c-40dd-ae3b-126042914a9d",
+    "draw_title": "SAFE CRACKER - INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/safe-cracker-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "91cfd7c38c116a95c651357273dd494ab9edcf0bb25752a973529057cddf6954",
+    "drand_seed_hash": "b64eb245e6e83896444777ff92b3d94a4394a323356ade78033157cf2d0a89783f931b9f951ac09410e5ac67b9164153",
+    "client_seed": "1787249451726",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 282701,
+    "max_tickets": 479999,
+    "combined_hash": "371adaa6eecd03399f572e53e23668fefa30596d22b5306ca4404ddd11e4f964",
+    "result": "437247",
+    "external_round_id": "31482031",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T18:10:51.000000Z",
+    "revealed_at": "2026-08-20T18:10:57.000000Z"
+}
