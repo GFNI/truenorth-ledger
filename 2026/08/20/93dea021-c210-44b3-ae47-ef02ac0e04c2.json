@@ -1,0 +1,22 @@
+{
+    "round_id": "93dea021-c210-44b3-ae47-ef02ac0e04c2",
+    "draw_title": "1.50CT NATURAL DIAMOND STUD EARRINGS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/150ct-natural-diamond-stud-earrings",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "bc03eb5baca924132c81554c24d72609a161fad500b0c7752ec181f650111de9",
+    "drand_seed_hash": "a8387eb591e9a565983be075dfb5d23d8b9ba4df27698c71305ecbdbfd38452ea9f57637f0f9a9541bb3c8ec11c5005c",
+    "client_seed": "1787256454091",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 624,
+    "max_tickets": 1500,
+    "combined_hash": "21524b30560c0fa64baa6cc4feec285ac181d700fdd5be6cf7b5e2236859b76a",
+    "result": "1094",
+    "external_round_id": "31484366",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T20:07:34.000000Z",
+    "revealed_at": "2026-08-20T20:07:42.000000Z"
+}
