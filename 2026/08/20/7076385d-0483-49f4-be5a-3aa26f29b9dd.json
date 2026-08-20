@@ -1,0 +1,22 @@
+{
+    "round_id": "7076385d-0483-49f4-be5a-3aa26f29b9dd",
+    "draw_title": "FIRE ODDS MINI DRAW 20/08/2026",
+    "competition_url": "https://fireprizes.co.uk/admin/products/fire-odds-mini-draw-20082026",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "717d950d7a3bbb8c744c3503ee57201738ce07e247fa7e497feefc1d1f515cd5",
+    "drand_seed_hash": "8e4c589fc6f81dca3be7cc2d0e8873c202a2739af5bb44b09b30e4e6f38e6926a0d0d410be97e9b6e1c328db075ae780",
+    "client_seed": "1787267446878",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 155,
+    "combined_hash": "d6305822f7e51ff71964201d3976fb6656da006beb9f6bb4d5d7a2f2e54dac4b",
+    "result": "110",
+    "external_round_id": "31488030",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T23:10:46.000000Z",
+    "revealed_at": "2026-08-20T23:10:54.000000Z"
+}
