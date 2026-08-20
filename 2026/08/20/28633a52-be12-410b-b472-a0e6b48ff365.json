@@ -1,0 +1,22 @@
+{
+    "round_id": "28633a52-be12-410b-b472-a0e6b48ff365",
+    "draw_title": "50 / 50 EVERY OTHER TICKET IS A WINNER - 3 MAIN WINNERS OF £100 CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/50-50-every-other-ticket-is-a-winner-3-main-winners-of-ps100-cash",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "2370745c011022bc2e6c7e36558cebcefc6e62f21109d88853f685e46347f7ca",
+    "drand_seed_hash": "9759d04db7ea314de8c9da2b1dec74e6bf9e5d64c0355c06548a3c5940a74cdb8023488fd32a5bfa9ffa482bc2dd33c0",
+    "client_seed": "1787260023223",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1248,
+    "max_tickets": 3000,
+    "combined_hash": "9d5fc85112f9ae900d9bd591516045310cc4674cd8d3592b741ede17f8744282",
+    "result": "174",
+    "external_round_id": "31485555",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T21:07:03.000000Z",
+    "revealed_at": "2026-08-20T21:07:09.000000Z"
+}
