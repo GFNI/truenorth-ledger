@@ -1,0 +1,22 @@
+{
+    "round_id": "edc77fa7-a599-49bb-990d-19a011f46b67",
+    "draw_title": "🌞 HEATWAVE MELTDOWN – Cool Cash Up For Grabs!",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/heatwave-meltdown",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "3e2130e6ca000e09dfd54eb1238425462d7511f395c7f77dd5a9f82821237e84",
+    "drand_seed_hash": "91ab063222c0da43d47fb6be6ff2c942ca6156bb507772752f17f2a4d23a51c9331636f1100d0476c876e82f52bb230c",
+    "client_seed": "1787231447658",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38792,
+    "max_tickets": 180000,
+    "combined_hash": "0c2fbd2ac3fd4ab887df002b546ce176703e9440a1e1df13e48437f506e8430a",
+    "result": "101421",
+    "external_round_id": "31476030",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T13:10:47.000000Z",
+    "revealed_at": "2026-08-20T13:10:54.000000Z"
+}
