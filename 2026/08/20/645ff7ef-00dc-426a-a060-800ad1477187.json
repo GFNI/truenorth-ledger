@@ -1,0 +1,22 @@
+{
+    "round_id": "645ff7ef-00dc-426a-a060-800ad1477187",
+    "draw_title": "EVERY TICKET WINS - BALLOON POP",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/every-ticket-wins-balloon-pop",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "56bcd5286d89ea6887ada5c54dc13e6e43f3834de46d1231969f0c7040038831",
+    "drand_seed_hash": "922cd42c0251d5db8150b99d075b65ff7d6b6f1608d5ddf3651494b7cbe1ab9cc181f53f99c3190a0f50faa30566bcef",
+    "client_seed": "1787249457633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3741,
+    "max_tickets": 32000,
+    "combined_hash": "73b53cf91516a7c8d08486c3df64c6a8d54ce42a09514af297671d536b649992",
+    "result": "1396",
+    "external_round_id": "31482033",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T18:10:57.000000Z",
+    "revealed_at": "2026-08-20T18:11:03.000000Z"
+}
