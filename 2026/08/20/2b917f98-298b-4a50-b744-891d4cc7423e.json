@@ -1,0 +1,22 @@
+{
+    "round_id": "2b917f98-298b-4a50-b744-891d4cc7423e",
+    "draw_title": "📦 THE BIG RED BOX DROP – Mystery Cash Wins",
+    "competition_url": "https://boltcompetitions.co.uk/admin/products/the-big-red-box-drop-mystery-cash-wins",
+    "operator": {
+        "name": "Bolt Competitions Ltd",
+        "website": "https://boltcompetitions.co.uk",
+        "company_number": "16639194"
+    },
+    "drand_server_seed": "6665268d8ad4ea02f7d01efceddca0c80fd82d7a54cfe5a645c7e998e7cc288d",
+    "drand_seed_hash": "a724ad3ca6a1b5a799444eea6516f48c6372f026961355875ca619d9c7c32e06a805c1568d27c60979e1941656052edf",
+    "client_seed": "1787235046204",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4033,
+    "max_tickets": 30000,
+    "combined_hash": "7c56fac2e3aa176766724866fc829f277f1792cec6f2a79baa4cafc82d2976ee",
+    "result": "16045",
+    "external_round_id": "31477230",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T14:10:46.000000Z",
+    "revealed_at": "2026-08-20T14:10:54.000000Z"
+}
