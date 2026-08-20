@@ -1,0 +1,22 @@
+{
+    "round_id": "4c41513f-ac58-491c-8709-a564973ee2a3",
+    "draw_title": "HEADS OR TAILS - WIN UP TO £500 INSTANTLY!",
+    "competition_url": "https://geardowncompetitions.com/admin/products/heads-or-tails-win-up-to-500-instantly",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "8e048737ee43fc8928afc033137e23c432230bc093acff7738f062073aff64b3",
+    "drand_seed_hash": "818f936ad359202c68080fbbd2717a8c3e8b0170a762b3ce4b75311c68d9778c5affd6402a72d999cfd17dd938f40450",
+    "client_seed": "1787257637299",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4233,
+    "max_tickets": 26999,
+    "combined_hash": "76ecaeea73c2525af4c0a2cd720549e0c62da8e24e49ad3f1f475296b8467928",
+    "result": "14175",
+    "external_round_id": "31484760",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T20:27:17.000000Z",
+    "revealed_at": "2026-08-20T20:27:24.000000Z"
+}
