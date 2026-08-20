@@ -1,0 +1,22 @@
+{
+    "round_id": "30fe62cf-a539-4bc5-b970-e32666c726e3",
+    "draw_title": "WIN A BADASS BAKES GIFT VOUCHER FOR £100",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/win-a-badass-bakes-gift-voucher-for-ps100",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "7a14048a5ec7c57f9dd4d7770fb5098c280a8b8147b459897904637f1ae150bd",
+    "drand_seed_hash": "87123229a5474d0acadae198858ae9c260823ffa64e9500844caada96c57f026165b5e6fcc7a493120712a9bd1379f18",
+    "client_seed": "1787256654880",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53,
+    "max_tickets": 200,
+    "combined_hash": "d4d18a8891e44f82a457c57f3d2d2b8ccea9cb4f5aeaa47ec2bc2d000e5d9bc9",
+    "result": "61",
+    "external_round_id": "31484432",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T20:10:54.000000Z",
+    "revealed_at": "2026-08-20T20:11:00.000000Z"
+}
