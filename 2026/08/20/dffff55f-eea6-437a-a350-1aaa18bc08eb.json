@@ -1,0 +1,22 @@
+{
+    "round_id": "dffff55f-eea6-437a-a350-1aaa18bc08eb",
+    "draw_title": "Win a Kumu Clothing Bundle - Hoody, Tshirt & Cap or Mix and Match up to the value of £100 - 3p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-kumu-clothing-bundle-hoody-tshirt-cap-or-mix-and-match-up-to-the",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "36078a20b9e98d019fb5da09a56fa0325dbcb1badad938457405c8bbfa7130f2",
+    "drand_seed_hash": "aa0dce15dd80cd916bde10dfe7f0296bcf3abf977e5a806794edffb61e475182042c2c306f8d115fa4e3d1cbfa07b2db",
+    "client_seed": "1787246377742",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4415,
+    "max_tickets": 33000,
+    "combined_hash": "dc0fe765d71f22b6f67f6197a7601f536fa8abe31d4a239b49e1b5d7f3e4eb54",
+    "result": "10693",
+    "external_round_id": "31481007",
+    "processing_status": "completed",
+    "created_at": "2026-08-20T17:19:37.000000Z",
+    "revealed_at": "2026-08-20T17:19:45.000000Z"
+}
