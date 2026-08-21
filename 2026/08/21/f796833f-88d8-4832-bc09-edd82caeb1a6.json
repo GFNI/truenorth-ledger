@@ -1,0 +1,22 @@
+{
+    "round_id": "f796833f-88d8-4832-bc09-edd82caeb1a6",
+    "draw_title": "The £10K Prize Drop",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-ps10k-prize-drop",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "43c79af5ad76cd65a1a33e8db3746404bf18bea3127863612513b9361fa080ba",
+    "drand_seed_hash": "b0b96c8094b57f5d7ae58195bdf1545b619db2d5a15c63466e47c2297fa32c62c30137bb4e49b537917f36ffbf68cc40",
+    "client_seed": "1787343065014",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 381904,
+    "max_tickets": 1000000,
+    "combined_hash": "8c45e6db2195ae69ed87fb611bcd4fda1e62c17bea3d02350700629427b7ba16",
+    "result": "301389",
+    "external_round_id": "31513236",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:11:05.000000Z",
+    "revealed_at": "2026-08-21T20:11:12.000000Z"
+}
