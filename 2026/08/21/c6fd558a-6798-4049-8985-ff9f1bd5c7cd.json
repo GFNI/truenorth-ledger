@@ -1,0 +1,22 @@
+{
+    "round_id": "c6fd558a-6798-4049-8985-ff9f1bd5c7cd",
+    "draw_title": "🔴ODDS BOOSTER - 200 BMW ENTRIES & 200 AUDI ENTRIES #2",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-200-bmw-entries-200-audi-entries-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fcc83c52ecd39c704a95ab10da382cfccd246bbfa9379cd6e7118191db4116bb",
+    "drand_seed_hash": "b0b3e68ae40201ee230be2468406dccdee8e31c19ca5f8fd581adad7ac680208c1d09e3a621e1aa2e6bbfb068042a665",
+    "client_seed": "1787334886000",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1200,
+    "max_tickets": 1200,
+    "combined_hash": "09f336ada8f41d4e3b84b78cb7eab3e26bf00f40a0787f7359208fa75f04f624",
+    "result": "330",
+    "external_round_id": "31510510",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T17:54:46.000000Z",
+    "revealed_at": "2026-08-21T17:54:54.000000Z"
+}
