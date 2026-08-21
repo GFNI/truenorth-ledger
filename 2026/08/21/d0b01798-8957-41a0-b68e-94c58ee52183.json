@@ -1,0 +1,22 @@
+{
+    "round_id": "d0b01798-8957-41a0-b68e-94c58ee52183",
+    "draw_title": "£200 Free Entry",
+    "competition_url": "https://ogcompetitions.co.uk/lists/free-ps200-cash-5",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "241403f5d2d153655c2e064d0683a170063d5c00a24b234174621c700f5cf1c1",
+    "drand_seed_hash": "875000bb7ba0acc5f242fb29263d0e79cdac63b0084ebcbfb04e28cc8099372be55239f372c8f0969475df05f1cbb928",
+    "client_seed": "1787346989129",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 600,
+    "combined_hash": "bdce338598bb74b671b8e85db6f646b44beef1ea44f7107f5d3e4e83f7234e10",
+    "result": "190",
+    "external_round_id": "31514544",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T21:16:29.000000Z",
+    "revealed_at": "2026-08-21T21:16:38.000000Z"
+}
