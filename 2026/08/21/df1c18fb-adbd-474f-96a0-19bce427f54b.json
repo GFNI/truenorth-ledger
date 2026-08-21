@@ -1,0 +1,22 @@
+{
+    "round_id": "df1c18fb-adbd-474f-96a0-19bce427f54b",
+    "draw_title": "👛💷 WHAT’S IN YOUR WALLET? 💷👛",
+    "competition_url": "https://hiphipprizehub.com/admin/products/whats-in-your-wallet",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "8c1d8127bb01d08ad3462cf7ae11eee6a5aa540a9f1f9786e13e2a521be42c9c",
+    "drand_seed_hash": "881d464411eb14c7b624c6f1879cc05c491bc531ae8b08057f70d2309e75ba535fbcf20ba6a7ce9202b1035c826f8f5a",
+    "client_seed": "1787340916024",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "a4bad0ccd82895e7d3db8b5211610a4890b59f155df2b65103c5c69ccca708ce",
+    "result": "1333",
+    "external_round_id": "31512520",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T19:35:16.000000Z",
+    "revealed_at": "2026-08-21T19:35:24.000000Z"
+}
