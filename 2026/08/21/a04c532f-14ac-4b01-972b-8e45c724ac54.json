@@ -1,0 +1,22 @@
+{
+    "round_id": "a04c532f-14ac-4b01-972b-8e45c724ac54",
+    "draw_title": "£250 CASH - LOW ODDS!",
+    "competition_url": "https://windropcompetitions.com/admin/products/ps250-cash-low-odds",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "b5a0dad97f8ee94c711fd0c0e43f87a6d0775965696e81580295fb72119b56ce",
+    "drand_seed_hash": "a0c06d10665fa1fc189b56bf7da53123cf76840b0ac88b688a62c5d31eeefc71cb60974e7adcb8b9af157bbaaae4fa0b",
+    "client_seed": "1787343136941",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 111,
+    "max_tickets": 150,
+    "combined_hash": "b2fc42d38552c6e4c54e21dde24a1161160df861e366aad9f36dc2449a18a5dd",
+    "result": "93",
+    "external_round_id": "31513260",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:12:17.000000Z",
+    "revealed_at": "2026-08-21T20:12:24.000000Z"
+}
