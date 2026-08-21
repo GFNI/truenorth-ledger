@@ -1,0 +1,22 @@
+{
+    "round_id": "b264f943-c979-4149-ab39-9d20e4a00fe9",
+    "draw_title": "£500 per week until christmas",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps500-per-week-until-christmas",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "5853934009542b039b4735ccc15b97671cc28d9b034c4714f3ea28878cb5eca6",
+    "drand_seed_hash": "ad684b9050ad5d2658518082ac0f949c16bc6aad20ea6c08aa782e8bf50f25bf52cd136591fa60836bb9c042c71f1e3e",
+    "client_seed": "1787343411666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20312,
+    "max_tickets": 48000,
+    "combined_hash": "58f809eda05836f35f94e2c6610e305d2b4003368a1ff7c91cb38240bf10291e",
+    "result": "5593",
+    "external_round_id": "31513351",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:16:51.000000Z",
+    "revealed_at": "2026-08-21T20:16:57.000000Z"
+}
