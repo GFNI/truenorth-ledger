@@ -1,0 +1,22 @@
+{
+    "round_id": "e7860739-16b6-40c2-86c3-266add6dfb03",
+    "draw_title": "Epic Bingo 10k 25p",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-bingo-10k-25p-12",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e4ea1ae77e55ed1b44e292c75b824d828a9870bd3f8d6653fdae9aeb1173aea0",
+    "drand_seed_hash": "b336ce4265b2605d73a29c6fa2503b2542baf8e1e8f832c4ddaefa018815338e1070b809673d7fb736e65c4fad5c29d5",
+    "client_seed": "1787342466707",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15838,
+    "max_tickets": 80000,
+    "combined_hash": "827c7e16c77637a7ddf806ebd6d93dab8fbb1ffa9cd898fb14f3221397412685",
+    "result": "28163",
+    "external_round_id": "31513036",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:01:07.000000Z",
+    "revealed_at": "2026-08-21T20:01:12.000000Z"
+}
