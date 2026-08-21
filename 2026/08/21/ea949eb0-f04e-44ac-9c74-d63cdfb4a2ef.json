@@ -1,0 +1,22 @@
+{
+    "round_id": "ea949eb0-f04e-44ac-9c74-d63cdfb4a2ef",
+    "draw_title": "🟢 Penny Plinko 🟢",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/penny-plinko",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "6f50ec82d34a4603824239cfa12e467001d6a3bcf4088bd8fc9a2334cfb71e27",
+    "drand_seed_hash": "aca5eab85e0372fea01f859316c506758697623301d89214796371ea8e079540aa3b0ac86d740bcddb1587f8e77294b2",
+    "client_seed": "1787342681041",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125000,
+    "max_tickets": 125000,
+    "combined_hash": "ad385ce08d271f81312542a08c23026e1600a40dfcafe059d9bb850f98602bb6",
+    "result": "15206",
+    "external_round_id": "31513108",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:04:41.000000Z",
+    "revealed_at": "2026-08-21T20:04:48.000000Z"
+}
