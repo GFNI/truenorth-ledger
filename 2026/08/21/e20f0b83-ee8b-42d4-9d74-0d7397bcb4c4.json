@@ -1,0 +1,22 @@
+{
+    "round_id": "e20f0b83-ee8b-42d4-9d74-0d7397bcb4c4",
+    "draw_title": "50 x Lottery Tickets",
+    "competition_url": "https://ogcompetitions.co.uk/lists/50-x-lottery-tickets-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "105a44c315a02b56a3f35c5281b7d5e16f7d1925b8da1a38027b321473787517",
+    "drand_seed_hash": "9974e4b4c40ecc591fbf570c4127b2ca82f3c90fada70ad427d3fa6c80be9122f7f80beb22e9200e6203add03eadf1c7",
+    "client_seed": "1787346732258",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 250,
+    "combined_hash": "b73cd2e083e44e186298ca6ba35b6db2d383f86ee2be1664bb7c8177986f0b8b",
+    "result": "238",
+    "external_round_id": "31514458",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T21:12:12.000000Z",
+    "revealed_at": "2026-08-21T21:12:21.000000Z"
+}
