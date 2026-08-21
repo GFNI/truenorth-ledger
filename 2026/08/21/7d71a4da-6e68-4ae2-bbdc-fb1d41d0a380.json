@@ -1,0 +1,22 @@
+{
+    "round_id": "7d71a4da-6e68-4ae2-bbdc-fb1d41d0a380",
+    "draw_title": "2025 FALKLAND ISLANDS ROSE RYAL 5oz FINE SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2025-falkland-islands-rose-ryal-5oz-fine-silver-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "f8909a93a66b43f7d5501d82dfba247ca55acaaeee7b50843643c8e0e384ebab",
+    "drand_seed_hash": "a44fa5e738e6a0b7edb70acec1274926333723cefed8f5b8bf46c7d08a37995d41299a39f7bb80062f992d72257eb5ec",
+    "client_seed": "1787352959783",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 527,
+    "max_tickets": 750,
+    "combined_hash": "12a87e9f70ff0908bba4529141d376aeaeb8b7d9b7402480149482def3d9e695",
+    "result": "157",
+    "external_round_id": "31516533",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T22:55:59.000000Z",
+    "revealed_at": "2026-08-21T22:56:03.000000Z"
+}
