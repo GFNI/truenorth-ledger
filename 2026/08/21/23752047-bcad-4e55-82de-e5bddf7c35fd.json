@@ -1,0 +1,22 @@
+{
+    "round_id": "23752047-bcad-4e55-82de-e5bddf7c35fd",
+    "draw_title": "25K Crash Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-crash-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "bffd551bbd1dd016de63bd50e2d7598ea424b7bdb10d60d1be922b5b5768dbc4",
+    "drand_seed_hash": "b06f6222f01b1d6c5c56bde1b715f59eb7badb7b98e87e8451d063c7e1eaf9f771b79e71a2e3f3a7888a4096e6066ec1",
+    "client_seed": "1787343113739",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16312,
+    "max_tickets": 200000,
+    "combined_hash": "1f8eec6c84bf22d01b22991a19db45616a57c93da8d49fab7b92529e175157ec",
+    "result": "42208",
+    "external_round_id": "31513251",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:11:53.000000Z",
+    "revealed_at": "2026-08-21T20:11:57.000000Z"
+}
