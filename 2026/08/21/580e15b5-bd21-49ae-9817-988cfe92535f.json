@@ -1,0 +1,22 @@
+{
+    "round_id": "580e15b5-bd21-49ae-9817-988cfe92535f",
+    "draw_title": "£100 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/2p-win-fall-ps100-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "0fed8a1bb3351eca53ee3db462dc29fe0f249487e4a779b973ef9228f1cdfc5f",
+    "drand_seed_hash": "923eb5b45e7bd05cfb88854e48c08302fdd51351e9b41e24b8d74af69a743d0b38faa334c2ff28d8be79f264eebd054e",
+    "client_seed": "1787346886698",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100000,
+    "combined_hash": "bd278acec592efb948856a0314e7b6838156b7534ca083ed862c9aba54dc562d",
+    "result": "60638",
+    "external_round_id": "31514509",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T21:14:46.000000Z",
+    "revealed_at": "2026-08-21T21:14:51.000000Z"
+}
