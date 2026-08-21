@@ -1,0 +1,22 @@
+{
+    "round_id": "51cd49d8-74c2-45b5-a3f6-9193a91ec53a",
+    "draw_title": "Pennies To Prizes",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/pennies-to-prizes",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "929ced804adbb7386e59b28a23a51377e3116b75e4590b063e672f1e61bb7cb0",
+    "drand_seed_hash": "ac9505c13d340f4936f4e619f5e370152b183a3e14099bb07c82849eb00344d649d4a26bd0401a0e699e43ee94b0647a",
+    "client_seed": "1787343072740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 429098,
+    "max_tickets": 1500000,
+    "combined_hash": "a2f569a0af20c65dbe19dc090d3a470f37d3a6968ff80ec0bba3632451394f06",
+    "result": "298723",
+    "external_round_id": "31513238",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:11:12.000000Z",
+    "revealed_at": "2026-08-21T20:11:18.000000Z"
+}
