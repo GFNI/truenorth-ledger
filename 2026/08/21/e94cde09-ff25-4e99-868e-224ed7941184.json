@@ -1,0 +1,22 @@
+{
+    "round_id": "e94cde09-ff25-4e99-868e-224ed7941184",
+    "draw_title": "👇 The Claw Machine - £400 Draw + Instantly Grab up to £2000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/claw-machine",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "abdbc0e7e7b2c3e95c7ad2c15a3202499cdf7d4dbf76d3cc0fe5bff1c7fffbf6",
+    "drand_seed_hash": "b702e6dbd4a3d1c2adf2227f82d2dd7fb33f908bc1b08efe678cec4880c99c4da2ffaeca22c3e72e45a83265597741e2",
+    "client_seed": "1787340907146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3285,
+    "max_tickets": 25000,
+    "combined_hash": "ec5c79682427e61dfd1ef57d38cb6f97d3269de91c2c0a2e7fbc5405cc32a968",
+    "result": "9109",
+    "external_round_id": "31512517",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T19:35:07.000000Z",
+    "revealed_at": "2026-08-21T19:35:15.000000Z"
+}
