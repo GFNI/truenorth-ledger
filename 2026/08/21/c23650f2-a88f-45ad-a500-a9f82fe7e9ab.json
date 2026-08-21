@@ -1,0 +1,22 @@
+{
+    "round_id": "c23650f2-a88f-45ad-a500-a9f82fe7e9ab",
+    "draw_title": "scroll of ra testing",
+    "competition_url": "https://chaotic-build.getfoundni.co.uk/competition/scroll-of-ra-testing",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "12ac9905f2784b7d4f61985ba8b7b5d56ccde2d0329b502a71040c7bf08d7fb9",
+    "drand_seed_hash": "a430ea6a0703963d14e85e966bf2bf4ae3c802a5b56fa774b589b6fd9cee08c058531a6dd93618a9282d0646f8e6dd5e",
+    "client_seed": "1787303156570",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1355,
+    "max_tickets": 100000,
+    "combined_hash": "0202553618ef784a92389bc307eb01b24d27a81df05ac5d3135bb977335c374c",
+    "result": "40739",
+    "external_round_id": "31499933",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T09:05:56.000000Z",
+    "revealed_at": "2026-08-21T09:06:03.000000Z"
+}
