@@ -1,0 +1,22 @@
+{
+    "round_id": "1d3706c8-ca32-47b4-b8f0-0fac4f04aacb",
+    "draw_title": "Free Draw - Back to School Essentials",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-back-to-school-essentials",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "64c22b923bf5f8984573912ce682fda5d2d112661354a9640f4e3c4a80d19079",
+    "drand_seed_hash": "8bd4db2786d09e41747f2b34bca1dfba7fc60caca3364c67fb1d3ed1c425514ddd9684e3dc1408cd240bc1af89d325c1",
+    "client_seed": "1787343056221",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 200,
+    "combined_hash": "296df283ef28cd57e6a7cb77e23529eba2644abc5f8a884ed4f6b81af74f959d",
+    "result": "154",
+    "external_round_id": "31513233",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:10:56.000000Z",
+    "revealed_at": "2026-08-21T20:11:03.000000Z"
+}
