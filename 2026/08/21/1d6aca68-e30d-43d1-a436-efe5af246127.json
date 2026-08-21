@@ -1,0 +1,22 @@
+{
+    "round_id": "1d6aca68-e30d-43d1-a436-efe5af246127",
+    "draw_title": "Fruity Friday 🍇",
+    "competition_url": "https://redlemonx.co.uk/admin/products/fruity-friday2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "1fb5ee93d51de80fc092369287787ec87806b9c9b1674f5a6e117ba74ff8aa57",
+    "drand_seed_hash": "a1fcdd493cf08c61e433049961352f87d47e54ca98f85f485f34f51474d99d71badfaa2a01b34a7633b10d441d9fed6b",
+    "client_seed": "1787332250011",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32,
+    "max_tickets": 75,
+    "combined_hash": "3758e544cff0c7c6b336bf491d97f6298c4f5d9dc6ec81e8f1355ac7803b8946",
+    "result": "66",
+    "external_round_id": "31509631",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T17:10:50.000000Z",
+    "revealed_at": "2026-08-21T17:10:57.000000Z"
+}
