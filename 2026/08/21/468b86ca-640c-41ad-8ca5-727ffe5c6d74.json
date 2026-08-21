@@ -1,0 +1,22 @@
+{
+    "round_id": "468b86ca-640c-41ad-8ca5-727ffe5c6d74",
+    "draw_title": "Win GlenGlassaugh 15 Year Old",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenglassaugh-15-year-old",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "6fa8f0a9741623a39aa5361bc2b39afc7bed39aa0d9b4e97a2140f9a13772b81",
+    "drand_seed_hash": "b1fe5d027d2cf8e609923b68a0f7169b6530e81eb340943c288dc3b44174e95718d8c484ebd6d6f5328000e368d41624",
+    "client_seed": "1787346654920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 325,
+    "max_tickets": 449,
+    "combined_hash": "3f8b93fc0cedec65c90b97253fac6553648e3d7bec7a9d3d0eea99ad139db91e",
+    "result": "123",
+    "external_round_id": "31514432",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T21:10:55.000000Z",
+    "revealed_at": "2026-08-21T21:11:00.000000Z"
+}
