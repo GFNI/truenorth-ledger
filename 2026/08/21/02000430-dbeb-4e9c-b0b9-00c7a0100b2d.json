@@ -1,0 +1,22 @@
+{
+    "round_id": "02000430-dbeb-4e9c-b0b9-00c7a0100b2d",
+    "draw_title": "EPIC MEGA CASH WHEEL",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-mega-cash-wheel-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2c9a0f5beb67cb68e006ec0a2fb80b8109d34ac0a091df5a0f5de5de5065313f",
+    "drand_seed_hash": "84ecc3f327339637966ae5f80b1f1e9991c8f164ccb1bf8bd114b9ab99c4938a183d95ab044036cf83bdcb9b6d2e8c82",
+    "client_seed": "1787342606851",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17371,
+    "max_tickets": 120000,
+    "combined_hash": "78dcca1e94dfdb3c0f75d68b57fca3ea0b2d0c8e988d672b19e349ea41d0121c",
+    "result": "11193",
+    "external_round_id": "31513083",
+    "processing_status": "completed",
+    "created_at": "2026-08-21T20:03:26.000000Z",
+    "revealed_at": "2026-08-21T20:03:33.000000Z"
+}
