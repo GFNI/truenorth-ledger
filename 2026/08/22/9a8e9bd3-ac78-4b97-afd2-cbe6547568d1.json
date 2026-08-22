@@ -1,0 +1,22 @@
+{
+    "round_id": "9a8e9bd3-ac78-4b97-afd2-cbe6547568d1",
+    "draw_title": "Lucky 7s - Prize Every Time Edition",
+    "competition_url": "https://chaotic.co.uk/competition/lucky-7s-prize-every-time-edition",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "781c8c0c1ed85d5d1a2df7d01e4fcbdf9206c1b6426145b69ee502bc847c1ee6",
+    "drand_seed_hash": "88b1e0e1401ab80ef479741fc22b44ea75017321312520669226627fd5b9cf166a63d41087a8569b0aabaf331140eeea",
+    "client_seed": "1787428246585",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 29999,
+    "max_tickets": 29999,
+    "combined_hash": "e67046c7362cf3f010fd10c6fac64570d026ef17c962c2dba54de72f77903721",
+    "result": "13853",
+    "external_round_id": "31541630",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T19:50:46.000000Z",
+    "revealed_at": "2026-08-22T19:50:54.000000Z"
+}
