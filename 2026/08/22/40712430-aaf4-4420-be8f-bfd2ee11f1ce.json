@@ -1,0 +1,22 @@
+{
+    "round_id": "40712430-aaf4-4420-be8f-bfd2ee11f1ce",
+    "draw_title": "Win Balvenie Portwood 21 Year Old + Instant wins",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-balvenie",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "1ecda5a74b08fd87bae2ddc314291fd582acbb45f833afef86a4615927944155",
+    "drand_seed_hash": "b65dba88d3b9024a9abb5a4ac9bca44aebd4f26570345b9b20ce12785bd40caa4113883159184e5a260acace8ee801d1",
+    "client_seed": "1787434844201",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 238,
+    "max_tickets": 499,
+    "combined_hash": "a61e77cedab4f7c27786b11fa77e83033a9b3187895ae36659312e643e921406",
+    "result": "336",
+    "external_round_id": "31543829",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T21:40:44.000000Z",
+    "revealed_at": "2026-08-22T21:40:51.000000Z"
+}
