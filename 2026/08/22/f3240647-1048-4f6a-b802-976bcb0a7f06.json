@@ -1,0 +1,22 @@
+{
+    "round_id": "f3240647-1048-4f6a-b802-976bcb0a7f06",
+    "draw_title": "COCA-COLA® 5oz FINE SILVER STRUCK BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/coca-cola-5oz-fine-silver-struck-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "164a40abc84296d4742ee594649bf52fb0337d851c6837ef73587cb7d65401f3",
+    "drand_seed_hash": "819c0eed95d48491af8018f20119c0d2bf0a87c49348cf85fb2c47526bc7262ed194d39ab2b93491ce2e6440a9e43b92",
+    "client_seed": "1787439346302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 450,
+    "max_tickets": 750,
+    "combined_hash": "ef65ad1fa771cacfb17d631e2c3da7496dd0caa4a2692fccdbaeffb0acd02ec1",
+    "result": "20",
+    "external_round_id": "31545330",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T22:55:46.000000Z",
+    "revealed_at": "2026-08-22T22:55:54.000000Z"
+}
