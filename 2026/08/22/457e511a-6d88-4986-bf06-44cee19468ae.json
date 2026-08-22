@@ -1,0 +1,22 @@
+{
+    "round_id": "457e511a-6d88-4986-bf06-44cee19468ae",
+    "draw_title": "50TH ANNIVERSARY OF THE UNIVERSAL DECLARATION OF HUMAN RIGHTS – SILVER €5 COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/50th-anniversary-of-the-universal-declaration-of-human-rights-silver-eur5",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "fced9b32ac1840ddbc9d52a7928d24c2c6fbef631d7df8e8367d91149b105c00",
+    "drand_seed_hash": "840cfd30e7cf00c968301e275160541e3c450cc90f385bcc89b2b4280d2eac17f290e8acaf2fd1d83d4bdfb24fff8539",
+    "client_seed": "1787439354553",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48,
+    "max_tickets": 150,
+    "combined_hash": "18173ac87fd9f51b42dc61dd9e0cb291b9021a9758e207bded5effb1774246b6",
+    "result": "51",
+    "external_round_id": "31545332",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T22:55:54.000000Z",
+    "revealed_at": "2026-08-22T22:56:00.000000Z"
+}
