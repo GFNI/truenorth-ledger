@@ -1,0 +1,22 @@
+{
+    "round_id": "31bb2096-995b-4d64-a497-9f985d5eaf8b",
+    "draw_title": "SPIN THE WHEEL £25,000 INSTANT WINS",
+    "competition_url": "https://proprizes.co.uk/admin/products/spin-the-wheel-ps25000-instant-wins-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "95b6807f133839d2a43e7b7a5844e6c65af7fdb000cc92b25f8be92ac002f3c0",
+    "drand_seed_hash": "b0408f4a7d109f9ef7cf5c959dc7fb86deb5e181bad553ebe22516b33b9c9e96d925e96eb888f621bb96e3c94557c5e1",
+    "client_seed": "1787433053320",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33037,
+    "max_tickets": 92750,
+    "combined_hash": "d9992e723430491341531041ef92bfdd57252fc652c36ab316937d81aff75842",
+    "result": "90916",
+    "external_round_id": "31543232",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T21:10:53.000000Z",
+    "revealed_at": "2026-08-22T21:11:00.000000Z"
+}
