@@ -1,0 +1,22 @@
+{
+    "round_id": "2ce04354-131d-4e4d-8ed7-45914cc74772",
+    "draw_title": "£5K SATURDAY NIGHT OUT CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-saturday-night-out-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "ffa5fad7e26368e28078e5fed10606b6f7916ac1f7246fed9e9bf7f0ea00b930",
+    "drand_seed_hash": "91dcf95a55bcdf1b74efbcb3c791cc4977b1381ab021cac544f4efa6882cfe5647961f5f50ddbaca3432bc3bde7774d2",
+    "client_seed": "1787436643853",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 834,
+    "max_tickets": 3999,
+    "combined_hash": "f7063238cca25ce69ad26d9f61ca1d2b2b2b4994307ef5a72e8dd67559b68133",
+    "result": "2439",
+    "external_round_id": "31544429",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T22:10:43.000000Z",
+    "revealed_at": "2026-08-22T22:10:51.000000Z"
+}
