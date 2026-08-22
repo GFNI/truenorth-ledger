@@ -1,0 +1,22 @@
+{
+    "round_id": "61b5bb74-02d1-498a-8c6c-f3c0aa5f0ad7",
+    "draw_title": "ETB BONANZA! #3 INSTANT WIN - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/etb-bonanza-3-instant-win-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "61de43e04b1c172021594588462962ae4dc9b373646f2f1ffb02c7cddbe0ed6a",
+    "drand_seed_hash": "8c23112150a637ed195ac7dd7589716edf24e890b01c92bc3447079c55eafd52044130a97da2973bdb7a2e3049eb7587",
+    "client_seed": "1787425872578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8115,
+    "max_tickets": 22950,
+    "combined_hash": "bf5e86a5e224526b59be2c2f8e6d819c0d65e364e0b5aefab1124ff5e81f3959",
+    "result": "4920",
+    "external_round_id": "31540838",
+    "processing_status": "completed",
+    "created_at": "2026-08-22T19:11:12.000000Z",
+    "revealed_at": "2026-08-22T19:11:18.000000Z"
+}
