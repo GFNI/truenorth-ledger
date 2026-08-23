@@ -1,0 +1,22 @@
+{
+    "round_id": "b5246b83-2711-49f1-ba43-4a2d99decb7c",
+    "draw_title": "Wack-A-Win - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/wack-a-win-ps250-end-prize",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e3240e0b70dee1195e05c1876bf09f33a48ec6e4f8b9ae927c633aae24aa2a85",
+    "drand_seed_hash": "8bdbfed12b3f3796a6ce843f6aeb45c92576c3f16b4fd9be2cbe669aa03d0509821192f5a2b04bd71c3441e958cb4ad1",
+    "client_seed": "1787513771978",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16148,
+    "max_tickets": 35000,
+    "combined_hash": "9b73ec5e1ede564afd9aefcf15e08778c4cc484608a85a141b6cc1f95fde5f61",
+    "result": "19396",
+    "external_round_id": "31570138",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:36:12.000000Z",
+    "revealed_at": "2026-08-23T19:36:18.000000Z"
+}
