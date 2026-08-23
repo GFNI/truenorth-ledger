@@ -1,0 +1,22 @@
+{
+    "round_id": "36b47016-d066-4f27-92ca-87aa73516857",
+    "draw_title": "Clean Girl Comp!",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/clean-girl-comp",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "843ccc602ff26e5c5f108fdc28465c003b8ffe4f39fff064921aaf1903166b6f",
+    "drand_seed_hash": "86a43b599de55a0bd82d191cd448917584ac85a5f4b291c0eb9c6f4f4e18c0b5be075e788cd1e731988141a37726f487",
+    "client_seed": "1787505050591",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51,
+    "max_tickets": 1000,
+    "combined_hash": "8becfd8bb78f3ece9e53e23be0dcd60bff5eea00ca034b688f9b0185a7d54a0d",
+    "result": "188",
+    "external_round_id": "31567231",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T17:10:50.000000Z",
+    "revealed_at": "2026-08-23T17:10:57.000000Z"
+}
