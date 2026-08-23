@@ -1,0 +1,22 @@
+{
+    "round_id": "5d8edca6-482d-4004-8f0f-f584557f7766",
+    "draw_title": "🏴‍☠️ One Piece PRB-02 The Best Vol. 2 Booster Box + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/one-piece-prb-02-the-best-vol-2-booster-box-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0f1648ee8670a08199b84a49025aa7d8a62b728d8a78cc187440328fdb39b674",
+    "drand_seed_hash": "979e5c96504852e415616851551576387c91d3b036e336b0da9233abf52c33cf1e47e4b4b6ef85f51ad8e9280254605c",
+    "client_seed": "1787520364366",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 265,
+    "max_tickets": 1066,
+    "combined_hash": "0a7c718541a5f25b2f4624d559d507fc2ab478d38fcc625d7996b215d2af7b7e",
+    "result": "247",
+    "external_round_id": "31572336",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T21:26:04.000000Z",
+    "revealed_at": "2026-08-23T21:26:12.000000Z"
+}
