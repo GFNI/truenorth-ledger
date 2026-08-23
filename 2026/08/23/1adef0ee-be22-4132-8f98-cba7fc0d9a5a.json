@@ -1,0 +1,22 @@
+{
+    "round_id": "1adef0ee-be22-4132-8f98-cba7fc0d9a5a",
+    "draw_title": "Plouise Bundle",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/plouise-bundle",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "fbdaaaf600e2bd384aff96d4a312fe076355b50c97cd6e8b83d62754b650645c",
+    "drand_seed_hash": "89c6aaf950dbf7172bd8084c43e0610f5430e931e5e4a42b64ef1bbb4987e03d5000874e4f2b8d3e84f375a0b0d70bad",
+    "client_seed": "1787508656066",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24,
+    "max_tickets": 200,
+    "combined_hash": "44b3bef581cb3ea5e6b14bce67f0611969b037791e5db0a50a452d7d2691a6d8",
+    "result": "53",
+    "external_round_id": "31568433",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T18:10:56.000000Z",
+    "revealed_at": "2026-08-23T18:11:03.000000Z"
+}
