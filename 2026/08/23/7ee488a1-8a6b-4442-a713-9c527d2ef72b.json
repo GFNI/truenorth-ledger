@@ -1,0 +1,22 @@
+{
+    "round_id": "7ee488a1-8a6b-4442-a713-9c527d2ef72b",
+    "draw_title": "Audi RSQ3 + Instant Wins",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/audi-rsq3-instant-wins",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "cb2573682a3880bb667efb9bf5b5007ebd6ba49b97a494a0b5bfcd7982d647e5",
+    "drand_seed_hash": "967da2ba7d6a59912a63a0880cc1d3ede5552b62075ba0167040145f8c54a70fe7bb959edc37a3b57a78bdfbb857aa1a",
+    "client_seed": "1787516598453",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63679,
+    "max_tickets": 90000,
+    "combined_hash": "9f211c85c86730f1078ed4060242f5210d1003f55c93d2a7c2f0f062a0134b56",
+    "result": "43344",
+    "external_round_id": "31571080",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:23:18.000000Z",
+    "revealed_at": "2026-08-23T20:23:24.000000Z"
+}
