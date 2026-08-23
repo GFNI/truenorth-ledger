@@ -1,0 +1,22 @@
+{
+    "round_id": "6779697d-f91e-4322-b6db-8aeecdaacdff",
+    "draw_title": "Nuclear Prize bingo. Tech, Tickets, Toys and plenty more",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/nuclear-prize-bingo-tech-tickets-toys-and-plenty-more-2",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "2d4be2827718f39348d3696bc0e450e2dcc324674d4e3e9ffbc0ba73ffb9848f",
+    "drand_seed_hash": "8fbc65054fee654d755b0cce17900fc4147db4ded2349a42b196467b0357c9d140466b40f2caafa183c8f13703d26ddb",
+    "client_seed": "1787510708224",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1939,
+    "max_tickets": 60000,
+    "combined_hash": "9f052f3605bf446c84fe54154322cc39b97a594710eab9b6998c18f23d5f4a53",
+    "result": "51296",
+    "external_round_id": "31569117",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T18:45:08.000000Z",
+    "revealed_at": "2026-08-23T18:45:15.000000Z"
+}
