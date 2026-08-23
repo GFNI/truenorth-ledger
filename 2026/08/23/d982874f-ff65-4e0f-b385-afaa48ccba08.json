@@ -1,0 +1,22 @@
+{
+    "round_id": "d982874f-ff65-4e0f-b385-afaa48ccba08",
+    "draw_title": "Piñata Payout - £250 End Prize",
+    "competition_url": "https://expcomps.com/admin/products/pinata-payout-ps250-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "5e56976d40b1faac09fe7531be7d0ac26ce289fc43ea4428db30c414f2c57c15",
+    "drand_seed_hash": "88279e8c54902ed8831c1c1552f2772a591896bd088293612ee162691f0e03e9f1a7d0099eab0b8787e33c0c24027e18",
+    "client_seed": "1787521257547",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3196,
+    "max_tickets": 25000,
+    "combined_hash": "293081c2831bbd22eacf939557e198d30e9dfe6b4eea2b8b98bca17b14de066a",
+    "result": "21378",
+    "external_round_id": "31572633",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T21:40:57.000000Z",
+    "revealed_at": "2026-08-23T21:41:03.000000Z"
+}
