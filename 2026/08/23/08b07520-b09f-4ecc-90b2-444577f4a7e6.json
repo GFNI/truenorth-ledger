@@ -1,0 +1,22 @@
+{
+    "round_id": "08b07520-b09f-4ecc-90b2-444577f4a7e6",
+    "draw_title": "FREE TO ENTER PRIZE EVERY TIME",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/free-to-enter-prize-every-time",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "09f69e9d911b9b371a9acfd14dc4119a1b4752d4e700e789bc4fe0c4261a7b32",
+    "drand_seed_hash": "a488842531d000e42c16dc70b23b42153cc61ffb8fa8a8695d67498bac1c18ad57d3f200ee1a255aa45a01fa9af1650d",
+    "client_seed": "1787476243747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 50,
+    "combined_hash": "03902313eff845be555415fb6d3a8d4d3927715b4e0b443e3695cf2d81d00065",
+    "result": "32",
+    "external_round_id": "31557629",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T09:10:43.000000Z",
+    "revealed_at": "2026-08-23T09:10:51.000000Z"
+}
