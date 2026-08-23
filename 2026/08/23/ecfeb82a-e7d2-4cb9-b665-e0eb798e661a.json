@@ -1,0 +1,22 @@
+{
+    "round_id": "ecfeb82a-e7d2-4cb9-b665-e0eb798e661a",
+    "draw_title": "KIMS ICE CREAM HUNT - WIN UPTO £1,000 INSTANTLY",
+    "competition_url": "https://easybigwins.co.uk/admin/products/kims-ice-cream-hunt-win-upto-ps1000-instantly",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "d928dbacdd7c9736cf82686ec4f6c36b43fe2a81e4e4f4518c0e7f37c892f279",
+    "drand_seed_hash": "b0c94ccf3d2e730e09fc6738c27c6a5d78ec3cdee646fac0e07ad798d0b705740d7f1a977456312e720185391d63ec10",
+    "client_seed": "1787517235293",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 166508,
+    "max_tickets": 414000,
+    "combined_hash": "3faec89b9224e8cf80ab93a6b7a39b304be5a18631b7ef745dbb3b73b48de4e1",
+    "result": "38288",
+    "external_round_id": "31571293",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:33:55.000000Z",
+    "revealed_at": "2026-08-23T20:34:03.000000Z"
+}
