@@ -1,0 +1,22 @@
+{
+    "round_id": "9e0c0b20-5914-45ce-b5e3-8acc62e15c1b",
+    "draw_title": "EOAW FOR FREE!",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/eoaw-for-free",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "529f173c67f91bde39f054db61a55841a272d55ef8c5f83168f30d88850b7e6d",
+    "drand_seed_hash": "871b4770f49fcc79b9ba3595df5a2d846b512f9f4eb8e6f83c561696dac0e097269798f2463a559c58876ac33e8baa9c",
+    "client_seed": "1787512272626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 75,
+    "combined_hash": "94b207d2a591453c86fb0a648bbab09d509666984b96c0b7f440b6271e18722a",
+    "result": "4",
+    "external_round_id": "31569638",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:11:12.000000Z",
+    "revealed_at": "2026-08-23T19:11:18.000000Z"
+}
