@@ -1,0 +1,22 @@
+{
+    "round_id": "74702544-fbd4-4039-b8a8-5b208c0fe4db",
+    "draw_title": "SUMMER INSTANT CASH CHAOS - £20,000 OF INSTANT WINS!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/summer-instant-cash-chaos-ps20000-of-instant-wins",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "70c290a22d2a59bb6dcf404a00eaea7291fc2fd8aecbcb374c9860df8284fd15",
+    "drand_seed_hash": "94e0d5c8ee0ceb4289bd5a7f71aea455bdb368db2ccd6b071a6502c53b25bd42282ccfa00820c28922c10022a851bd37",
+    "client_seed": "1787514151918",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1792,
+    "max_tickets": 13400,
+    "combined_hash": "cd1d1413fc92defe35dd53a701dc284c3d490d5f6666c33b368a897b880e48bb",
+    "result": "13054",
+    "external_round_id": "31570264",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:42:31.000000Z",
+    "revealed_at": "2026-08-23T19:42:36.000000Z"
+}
