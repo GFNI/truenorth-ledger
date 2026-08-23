@@ -1,0 +1,22 @@
+{
+    "round_id": "8c130382-e333-40f6-b5a3-524679af0513",
+    "draw_title": "LEGO The going merry pirate ship",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/lego-the-going-merry-pirate-ship",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "bc4818bf4127d511a219314de36b6d3f9e7d0bdbb000bbe2cdee7a2c11a9ea85",
+    "drand_seed_hash": "b7274b352cec43f75d41d7de8d57a1da668b358b7b47001ae2cef696c989d52dc2e04fa8d59b163594a26afef528f27e",
+    "client_seed": "1787513846067",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 464,
+    "max_tickets": 800,
+    "combined_hash": "46d7cd8d7d9175f4992620acf20daed9e8728a08d54b7089d574fee0d28ce596",
+    "result": "647",
+    "external_round_id": "31570163",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:37:26.000000Z",
+    "revealed_at": "2026-08-23T19:37:33.000000Z"
+}
