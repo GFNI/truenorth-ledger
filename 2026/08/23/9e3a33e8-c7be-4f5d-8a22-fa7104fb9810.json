@@ -1,0 +1,22 @@
+{
+    "round_id": "9e3a33e8-c7be-4f5d-8a22-fa7104fb9810",
+    "draw_title": "Ninja BlendBOSS | Choose Your Colour Too!",
+    "competition_url": "https://expcomps.com/admin/products/ninja-blendboss",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "ed20981b68b82c15e8b9ec93ff762efbf251a6f2df3273a0fc94fb96f2a1c133",
+    "drand_seed_hash": "a40c16a2a17e0b0dcca8c75b2e8420f7831ff15107755bad5f2609e74c27bd9024d756b4e4f61475e0147baa4eb1eff5",
+    "client_seed": "1787521272557",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44,
+    "max_tickets": 179,
+    "combined_hash": "b343d69dde6274a0d7108a9c7135baed557768ac56fe28a6ce65aac24e60808d",
+    "result": "166",
+    "external_round_id": "31572638",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T21:41:12.000000Z",
+    "revealed_at": "2026-08-23T21:41:18.000000Z"
+}
