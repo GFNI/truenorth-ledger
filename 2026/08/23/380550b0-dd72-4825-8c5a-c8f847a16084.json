@@ -1,0 +1,22 @@
+{
+    "round_id": "380550b0-dd72-4825-8c5a-c8f847a16084",
+    "draw_title": "CKG Round Shovel",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ckg-round-shovel-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c1d7c1c9ced143ae489456cdfac8d4cc3b1e80eed0300d0ae5404e807418ad62",
+    "drand_seed_hash": "b959ab201afb6642e24f47a84b08baebfce3d63d4c922b30c9f50a075879148a54154a18174820e745dca2f82770758c",
+    "client_seed": "1787512678123",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 150,
+    "combined_hash": "d7c2bd30e7b79e61eddc8b3e4131a6c8ef82c5b24850d384075cbcc9830aa88c",
+    "result": "2",
+    "external_round_id": "31569774",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:17:58.000000Z",
+    "revealed_at": "2026-08-23T19:18:06.000000Z"
+}
