@@ -1,0 +1,22 @@
+{
+    "round_id": "7dabd357-eb2c-4b3b-8800-6bbf1ea78b9f",
+    "draw_title": "EPIC PIGGY POT 24 JACKPOT £8456",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/epic-piggy-pot-24-jackpot-ps8456",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "59c85a070dfa24d231a55e11b9a9f59ef129b959b3fa4f5c886b553b619d9673",
+    "drand_seed_hash": "a4c8262a5b3bedbe6048ac8d7f0d3ced4046dc1b769b211231cf2725b2063c0121e4120ca4c4a139b96c35aef34d709b",
+    "client_seed": "1787514474379",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "b3c2aba106da9771db098465c15363ff40aa6d91ef494d625333e56d872290f6",
+    "result": "13276",
+    "external_round_id": "31570372",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:47:54.000000Z",
+    "revealed_at": "2026-08-23T19:48:00.000000Z"
+}
