@@ -1,0 +1,22 @@
+{
+    "round_id": "2ee950c1-2300-4696-b1d7-9d73e3b5232c",
+    "draw_title": "LOSER'S ONLY COMPETITION - WIN £100 CASH!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/losers-only-competition-win-ps100-cash",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "5cefd71ac7dbbe02d9c9c8fd6aa508046245d0e7a8858bd828cd240063ce5206",
+    "drand_seed_hash": "87f2e4da531366c919a67700cc54027803b831b857d2cc5675cf4700e4040ffdaafdf1634821c3294de17b0f3ba62663",
+    "client_seed": "1787519134868",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4313,
+    "max_tickets": 5000,
+    "combined_hash": "a0e252b63812cb4c4cbbd94dc9895f7640e09d12937f044c7398382e65dcfde2",
+    "result": "281",
+    "external_round_id": "31571926",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T21:05:34.000000Z",
+    "revealed_at": "2026-08-23T21:05:42.000000Z"
+}
