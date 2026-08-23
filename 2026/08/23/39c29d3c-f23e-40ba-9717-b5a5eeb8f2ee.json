@@ -1,0 +1,22 @@
+{
+    "round_id": "39c29d3c-f23e-40ba-9717-b5a5eeb8f2ee",
+    "draw_title": "CLOUD 9 CASH",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/cloud-9-cash",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "ad9130ac9c587b2bd028cc5b87565e889f05b79c3ff8edada1a9bfaa2ee8fe87",
+    "drand_seed_hash": "8e89b3019d6e88d989f3fc3eb1688eae9558a9a5f399bd331c082a5918200679a0002c9045f5469273e0bd836e6c298d",
+    "client_seed": "1787515968325",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2202,
+    "max_tickets": 11111,
+    "combined_hash": "4730b23762075b9a7a51e80919bd034c1bd4e51d07c37428590a33602f8c381f",
+    "result": "659",
+    "external_round_id": "31570870",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:12:48.000000Z",
+    "revealed_at": "2026-08-23T20:12:54.000000Z"
+}
