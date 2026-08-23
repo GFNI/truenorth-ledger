@@ -1,0 +1,22 @@
+{
+    "round_id": "546e62fa-a779-44f2-a72f-81eee3865f23",
+    "draw_title": "Connors Cash Cow - 2 x £250 End Prizes",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/connors-cash-cow-2-x-ps250-end-prizes",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e574e24a254b073824c41f1230fdf1a4a8174f0c653ce3f620663684103b005b",
+    "drand_seed_hash": "a9d2126ed4d387da0641e58fa9166d77138b06c2ba40f5cd3731c6eac0fd2a610cf7b04b7f40e7391a54e736e79e13e3",
+    "client_seed": "1787514049729",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 292495,
+    "max_tickets": 700000,
+    "combined_hash": "be709dc10dcdaaf5fc11a2319d2222e1f84c1940966b2bb84fd18ffbc5b995d3",
+    "result": "320703",
+    "external_round_id": "31570231",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T19:40:49.000000Z",
+    "revealed_at": "2026-08-23T19:40:57.000000Z"
+}
