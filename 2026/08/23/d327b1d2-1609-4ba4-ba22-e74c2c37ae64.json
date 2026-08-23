@@ -1,0 +1,22 @@
+{
+    "round_id": "d327b1d2-1609-4ba4-ba22-e74c2c37ae64",
+    "draw_title": "£1000 For Only 99p",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps1000-for-only-99p",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "734ed0b45ae64c99acbf7df8b944cd86b4f88edee1dca01d4b428eff894851dd",
+    "drand_seed_hash": "ab926fbfd05d2a5f90fcd3f8065991379f950b753df6dee8bdd1592e867b6cbe90dcb7f514be63e645a52f773651973c",
+    "client_seed": "1787517196472",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 913,
+    "max_tickets": 1500,
+    "combined_hash": "e695aae43091cbf2a8f9fa3823ea134a222ebe269d4b2c45779ec5f62c804e85",
+    "result": "1243",
+    "external_round_id": "31571280",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:33:16.000000Z",
+    "revealed_at": "2026-08-23T20:33:24.000000Z"
+}
