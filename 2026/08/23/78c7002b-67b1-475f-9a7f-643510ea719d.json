@@ -1,0 +1,22 @@
+{
+    "round_id": "78c7002b-67b1-475f-9a7f-643510ea719d",
+    "draw_title": "Squids In | £100 Cash Draw | 10p",
+    "competition_url": "https://phatstax.co.uk/admin/products/squids-in",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "54dfdcbdd1b9bdedc481f51895019e96c14c5bf263b537008585cfa00cb35425",
+    "drand_seed_hash": "96e50618cf9fb738923a175e37f24d7ccff2e2b8fec1cfb214c4ed64a8543bce3bdab0496b1f24e28dbc0bf892426a9f",
+    "client_seed": "1787515511919",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 932,
+    "max_tickets": 1500,
+    "combined_hash": "e3c691dd9d36de5641d85c2da80021e7135b5d59503752771b27832ba8f82e92",
+    "result": "372",
+    "external_round_id": "31570718",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:05:12.000000Z",
+    "revealed_at": "2026-08-23T20:05:18.000000Z"
+}
