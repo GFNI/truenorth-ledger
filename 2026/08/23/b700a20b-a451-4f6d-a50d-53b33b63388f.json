@@ -1,0 +1,22 @@
+{
+    "round_id": "b700a20b-a451-4f6d-a50d-53b33b63388f",
+    "draw_title": "CASH CASCADES 💸 + £200 END DRAW! 💰",
+    "competition_url": "https://clutchcomps.com/admin/products/cash-cascades-ps200-end-draw",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "c3864051d65b1bbf15f968404d33d3fefb37b3cf841352a616326bda737cdf50",
+    "drand_seed_hash": "b54bf755dc6f012ac02281066c4d605db17c3f56708d2e39f4082227a259c819d6ef3ca6316c782b343e44e44728be23",
+    "client_seed": "1787515643631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28722,
+    "max_tickets": 40500,
+    "combined_hash": "2eaa9bb9501b35f27f207e78c974f6abbe5db5dbf0f98964b49333f0830ea000",
+    "result": "22607",
+    "external_round_id": "31570762",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:07:23.000000Z",
+    "revealed_at": "2026-08-23T20:07:30.000000Z"
+}
