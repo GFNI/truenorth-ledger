@@ -1,0 +1,22 @@
+{
+    "round_id": "4473bb5e-4f11-4ce1-ab3b-781fb972bf19",
+    "draw_title": "Gem Hunter | £1950 In Instant Wins | £50 Main Draw",
+    "competition_url": "https://phatstax.co.uk/admin/products/gem-hunter",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "35d3d7bdf808ca3b553c3a4f1d757b718c485ed2fc2c98b2ab72367b8a588641",
+    "drand_seed_hash": "abf5dec9c1d897f1acf92d360573b8883e7f2bdda2fe06113696ef772055b3bb45ef94183baadeacf0e8e055f993aaff",
+    "client_seed": "1787515408470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105240,
+    "max_tickets": 299999,
+    "combined_hash": "7b04e1727ba2b1e6cdfa4f99960bcfac52df3380f1edb2b306bb17911cbbd2a7",
+    "result": "155796",
+    "external_round_id": "31570684",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:03:28.000000Z",
+    "revealed_at": "2026-08-23T20:03:36.000000Z"
+}
