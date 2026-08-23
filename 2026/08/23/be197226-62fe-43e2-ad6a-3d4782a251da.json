@@ -1,0 +1,22 @@
+{
+    "round_id": "be197226-62fe-43e2-ad6a-3d4782a251da",
+    "draw_title": "Bonkers Bundles - £500 Ticket Bundle End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/bonkers-bundlz",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "20f9bc557b1f9a56f3b70e98f21cf61e59850298b6ad45762f68f7999cd73ead",
+    "drand_seed_hash": "aba5b63e8183ba6af086070cfd70c95c6ef828ff65181d569c7bb814c369d84491f3905b8e507b3f0b119fad5ac7fcd2",
+    "client_seed": "1787510451705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28735,
+    "max_tickets": 103460,
+    "combined_hash": "925f03ef41a42d4818e448a83ff8c89a1464a4060fb12ac583aa1f7c70344486",
+    "result": "73019",
+    "external_round_id": "31569031",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T18:40:51.000000Z",
+    "revealed_at": "2026-08-23T18:40:57.000000Z"
+}
