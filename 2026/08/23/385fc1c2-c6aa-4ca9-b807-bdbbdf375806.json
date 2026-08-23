@@ -1,0 +1,22 @@
+{
+    "round_id": "385fc1c2-c6aa-4ca9-b807-bdbbdf375806",
+    "draw_title": "Dragon Dosh | £250 Top Instant Win | £50 Main Prize",
+    "competition_url": "https://phatstax.co.uk/admin/products/dragon-dosh",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "0046c8aeb4024445b22251ec77554de3d28c35f9531df8e1d5541876e5b571a0",
+    "drand_seed_hash": "92f914717f3012dbd6ac8f8997e724bf61457a6f454a5a9719b0edd63b70709661948f19d80ea88f52be67db1dd55b18",
+    "client_seed": "1787515610512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22294,
+    "max_tickets": 62999,
+    "combined_hash": "e507d2e3fc6b4b12e36000df65eea9f522094af6cca12cb971031ae7fe40a1ff",
+    "result": "43284",
+    "external_round_id": "31570751",
+    "processing_status": "completed",
+    "created_at": "2026-08-23T20:06:50.000000Z",
+    "revealed_at": "2026-08-23T20:06:57.000000Z"
+}
