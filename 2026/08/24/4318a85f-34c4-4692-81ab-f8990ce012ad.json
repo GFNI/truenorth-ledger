@@ -1,0 +1,22 @@
+{
+    "round_id": "4318a85f-34c4-4692-81ab-f8990ce012ad",
+    "draw_title": "SAMSUNG Series 9 AI Home AI Energy 9kg 1400 Spin Smart Washing Machine - Dark Silver",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-series-9-ai-home-ai-energy-9kg-1400-spin-smart-washing-machine",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "984ab31ed388c341b62afc4980472b9be146010352a01e4849eebaf2ab3ec85f",
+    "drand_seed_hash": "90a5a86e227edd6b9be39af4f39dab7d7e1901538db51b8eb4a94e4cc8dcfbcff58826265228da72f488f04659b40cfc",
+    "client_seed": "1787599179048",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1256,
+    "max_tickets": 2000,
+    "combined_hash": "3203c7bab174bf7e62701b729e97bd24af2c577d0bedbd100aa62cb3c2bee39f",
+    "result": "659",
+    "external_round_id": "31598607",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:19:39.000000Z",
+    "revealed_at": "2026-08-24T19:19:45.000000Z"
+}
