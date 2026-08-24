@@ -1,0 +1,22 @@
+{
+    "round_id": "ac31961a-96fc-4496-9821-866dfa71da7d",
+    "draw_title": "Class Act 📚",
+    "competition_url": "https://redlemonx.co.uk/admin/products/class-act",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "6290c651501dd48698e325a682dbbe421c913b48aff72946aa57efabbf468f78",
+    "drand_seed_hash": "83294467d1b820d545307cce0335a4a2836afcecd8a85957d13b044c12699c613c50cf3c3fab41981bcd225339fbe92f",
+    "client_seed": "1787598659229",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105,
+    "max_tickets": 500,
+    "combined_hash": "3311ef9efbfc7fd0cf22cc7755a432dec4d7f73235ff9df509505e7d0fef0d10",
+    "result": "136",
+    "external_round_id": "31598434",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:10:59.000000Z",
+    "revealed_at": "2026-08-24T19:11:06.000000Z"
+}
