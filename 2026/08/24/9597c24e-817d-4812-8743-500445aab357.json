@@ -1,0 +1,22 @@
+{
+    "round_id": "9597c24e-817d-4812-8743-500445aab357",
+    "draw_title": "Manic Monday (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/manic-monday-20",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "c0b68f6c2b3ea39ddab454b13fb20c9fc0d1d4d1bed1d33040790da04939b61f",
+    "drand_seed_hash": "8488db484cb35b8cf35379074550b47affd31630f2dbde282109b46aa34cc04af6c55276b9a5a87bb52835dad0eb188f",
+    "client_seed": "1787605936710",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "5f9e6c1d4794a7bb34114617c4b0f9c61725e55009b20987259093f8f89bdf86",
+    "result": "96",
+    "external_round_id": "31600859",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T21:12:16.000000Z",
+    "revealed_at": "2026-08-24T21:12:21.000000Z"
+}
