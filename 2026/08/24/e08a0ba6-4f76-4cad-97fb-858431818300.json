@@ -1,0 +1,22 @@
+{
+    "round_id": "e08a0ba6-4f76-4cad-97fb-858431818300",
+    "draw_title": "£100 TAX FREE CASH FOR 1P",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps100-tax-free-cash-for-1p",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "4b7928d27b4a2115397a7d11204082c6896b613adbba4a22df27791905002096",
+    "drand_seed_hash": "8414d17188b6bac3213f10cc78aac318f6ec7455e674eda59be509fca8dd80e67a15996879bee69e07854889061083b4",
+    "client_seed": "1787605849067",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15196,
+    "max_tickets": 25000,
+    "combined_hash": "7c6238d203b01b39794d7cd2e55fd0b2a8a7339a532340604245c19e96739b0b",
+    "result": "10589",
+    "external_round_id": "31600831",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T21:10:49.000000Z",
+    "revealed_at": "2026-08-24T21:10:57.000000Z"
+}
