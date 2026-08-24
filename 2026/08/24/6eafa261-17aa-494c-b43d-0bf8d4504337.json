@@ -1,0 +1,22 @@
+{
+    "round_id": "6eafa261-17aa-494c-b43d-0bf8d4504337",
+    "draw_title": "🛒 £750 SUPERMARKET SHOPPING 🛒",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps750-supermarket-shopping-7",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4c7422ad83fb8346a1e754c46c5f9eb56432e9ab26f6c1d1a89dddbc798646a9",
+    "drand_seed_hash": "b81216887cb61d65b0a185d53a1914096d6f80b2e0567c52a56b191f514c02a8e8a60d5bc1328fff6dc2c703f5d49ac2",
+    "client_seed": "1787598727867",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1295,
+    "max_tickets": 1295,
+    "combined_hash": "99d659220b961b3f2be6437a2ea132bb5702d0f57b53f0204fcfb5984d08d902",
+    "result": "431",
+    "external_round_id": "31598457",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:12:07.000000Z",
+    "revealed_at": "2026-08-24T19:12:15.000000Z"
+}
