@@ -1,0 +1,22 @@
+{
+    "round_id": "d11214d5-3863-4179-8781-f91804acb943",
+    "draw_title": "Milwaukee M18 FPP7A-503B 18V Fuel Cordless 7 Piece Kit with 3x 5.0Ah Batteries",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/milwaukee-m18-fpp7a-503b-18v-fuel-cordless-7-piece-kit-with-3x-50ah",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7b149b93ac2dc9400b4c5d51d43a9b1246dff12986ea578da87ec531d95b610f",
+    "drand_seed_hash": "a92f9b5c83720ba48d05893fa06bab0362604165ec6f11594474d2ccb75d8f31766a970e652085e41f6b5abb215f7201",
+    "client_seed": "1787599012197",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1700,
+    "max_tickets": 1700,
+    "combined_hash": "af548289e721dcccfad0bf6c10251e2ae2472b78b7fdab9af1d7e313e510c3b5",
+    "result": "952",
+    "external_round_id": "31598552",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:16:52.000000Z",
+    "revealed_at": "2026-08-24T19:17:00.000000Z"
+}
