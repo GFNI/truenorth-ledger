@@ -1,0 +1,22 @@
+{
+    "round_id": "798c88e5-4d10-443f-b72b-9e96273bf5fd",
+    "draw_title": "Volcano Cash! (Autodraw)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/volcano-cash-autodraw1",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "781f55aecbc0353ad7e33f0d22bb634f26c9675e9ce0147d204bd5437865267b",
+    "drand_seed_hash": "b87ce984d30579be7a3146d04aeb92c791e140d7c4245d0f943b0dd425df7a31fb5850532e991a25649d1afbe993237f",
+    "client_seed": "1787598643066",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14212,
+    "max_tickets": 525000,
+    "combined_hash": "75029501abd1f83c6a8e0a08db5cf526e4b51eddde2f90fd85f6ed08912c3bfc",
+    "result": "292710",
+    "external_round_id": "31598429",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:10:43.000000Z",
+    "revealed_at": "2026-08-24T19:10:51.000000Z"
+}
