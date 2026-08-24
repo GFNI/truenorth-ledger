@@ -1,0 +1,22 @@
+{
+    "round_id": "b5b2a10a-d866-4139-93d7-7174b8dbd61d",
+    "draw_title": "Life's a Beach!  - SCRATCH CARD",
+    "competition_url": "https://ohanacomps.com/admin/products/lifes-a-beach-scratch-card-3",
+    "operator": {
+        "name": "Ohana Competitions Ltd",
+        "website": "https://ohanacomps.com",
+        "company_number": "SC891635"
+    },
+    "drand_server_seed": "e4d9d9a7b86d96ead101033a5991f6bd3e8c8a5bb18a51d642d2556c526b68ac",
+    "drand_seed_hash": "8c9dc4c779f8c48b0e58ce2a5f11e8d3e3a17a76f2402a1e895ba7ad39652a63a27eb7a3127c165c2417c612c181d298",
+    "client_seed": "1787600446291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 470,
+    "max_tickets": 2800,
+    "combined_hash": "3c518c027d5b64d7218bd4b7e00fc30a1b801b6f4e1234ac181902473c4cdeda",
+    "result": "2669",
+    "external_round_id": "31599030",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T19:40:46.000000Z",
+    "revealed_at": "2026-08-24T19:40:54.000000Z"
+}
