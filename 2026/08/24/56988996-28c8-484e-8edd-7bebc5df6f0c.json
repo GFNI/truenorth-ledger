@@ -1,0 +1,22 @@
+{
+    "round_id": "56988996-28c8-484e-8edd-7bebc5df6f0c",
+    "draw_title": "£400 Stanley Website",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps400-spend-on-stanley-website",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "672b87c3fb825f60cbd2dcf807ceed1d7ee46dfa9f408deb29814861f6c79222",
+    "drand_seed_hash": "b1f932947cd74755b4cfa35406cef1e252e78f675c62384e6f0995c9c8fb2e868c5a32fb23d49f01742d2bdb382d48a1",
+    "client_seed": "1787606194893",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 800,
+    "combined_hash": "dde924b356c7438bb0deda3c4d0ef5a64d07f584db95e9600d34effb874533d0",
+    "result": "30",
+    "external_round_id": "31600945",
+    "processing_status": "completed",
+    "created_at": "2026-08-24T21:16:34.000000Z",
+    "revealed_at": "2026-08-24T21:16:44.000000Z"
+}
