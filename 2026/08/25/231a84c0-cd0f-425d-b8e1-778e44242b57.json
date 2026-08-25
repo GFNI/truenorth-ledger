@@ -1,0 +1,22 @@
+{
+    "round_id": "231a84c0-cd0f-425d-b8e1-778e44242b57",
+    "draw_title": "WIN 50 TICKETS INTO OUR £100,000 MAIN PRIZE DRAW! NO2.",
+    "competition_url": "https://lockoscompetitions.com/admin/products/win-50-tickets-into-our-ps100000-main-prize-draw-no2",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "61d1f664e09ebd4f8c2a94964a17d020a68658813a8daba2da706a7670fd8c2c",
+    "drand_seed_hash": "b319e4639219fb33dadeb85eb67b311a3de0061c6045242e2be4762cb88a745777402a08380ba7671281a583f477bc94",
+    "client_seed": "1787685052986",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 192,
+    "max_tickets": 250,
+    "combined_hash": "5a6f35dfca5a1401bd5bb696776ca7ed717348c8c8dd03b55ced201d10eeedc7",
+    "result": "83",
+    "external_round_id": "31627232",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T19:10:53.000000Z",
+    "revealed_at": "2026-08-25T19:11:00.000000Z"
+}
