@@ -1,0 +1,22 @@
+{
+    "round_id": "37c0317e-7156-4095-a768-10adbbaf1ad4",
+    "draw_title": "£15K ANGEL NUMBERS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/15k-angel-numbers",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e993555278029d37f3e28ead87f6e0c1307afca9a6d0a801be6b394f322eb03e",
+    "drand_seed_hash": "b5911055dfdd14c33f5723a3e0f30fd4cf1504eb64d314b74afac1e1a13b5e1644bb7f01dbcbd2d4c90af7b9bbed10d3",
+    "client_seed": "1787688600917",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10509,
+    "max_tickets": 55555,
+    "combined_hash": "71fb9023eafed0d59ab27312f73e7f507ba3bc6b6da4b1003b50071c802deae5",
+    "result": "43414",
+    "external_round_id": "31628414",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T20:10:00.000000Z",
+    "revealed_at": "2026-08-25T20:10:06.000000Z"
+}
