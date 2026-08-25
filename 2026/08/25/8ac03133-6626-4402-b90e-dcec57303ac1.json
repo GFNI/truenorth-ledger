@@ -1,0 +1,22 @@
+{
+    "round_id": "8ac03133-6626-4402-b90e-dcec57303ac1",
+    "draw_title": "2024 WINSTON CHURCHILL GOLD PROOF SOVEREIGN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-winston-churchill-gold-proof-sovereign",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "bde599e58e04bf403220ddc8c4ed792113ba6bb0456894cf3813ecca5ba38216",
+    "drand_seed_hash": "941216b3a6b5536ade9be4cba5d68fa3149d69a0f5bcc33705cf36ed807ce400ffa71c3f716477d489ae4105b611dd23",
+    "client_seed": "1787688284776",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 864,
+    "max_tickets": 1250,
+    "combined_hash": "0d5275a4578cc43ed701ad0708852720f64caa60060e44b6066f168a385b68f7",
+    "result": "892",
+    "external_round_id": "31628309",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T20:04:44.000000Z",
+    "revealed_at": "2026-08-25T20:04:51.000000Z"
+}
