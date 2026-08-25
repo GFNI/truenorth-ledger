@@ -1,0 +1,22 @@
+{
+    "round_id": "4fadf29a-4cac-4161-8dcd-60b4b2f083ae",
+    "draw_title": "🍿 POPCORN HUNT! 🍿",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/popcorn-hunt",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "3006f56b924fb3c5b832f441e42dbef1e15fd81d0e023eb29a1e1b5caf2fc87b",
+    "drand_seed_hash": "94653aa2794518d2c0de389dcd48908d6dd386de0c117e2648769a82dd2ce91bac36fb583187889896de73d626bae88e",
+    "client_seed": "1787681601664",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7502,
+    "max_tickets": 53994,
+    "combined_hash": "4d74e5f4782d58a9d0652377a6f0d786d61184fdd156adda286210ce198ec767",
+    "result": "4792",
+    "external_round_id": "31626081",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T18:13:21.000000Z",
+    "revealed_at": "2026-08-25T18:13:27.000000Z"
+}
