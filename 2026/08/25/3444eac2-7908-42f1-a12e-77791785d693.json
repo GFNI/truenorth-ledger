@@ -1,0 +1,22 @@
+{
+    "round_id": "3444eac2-7908-42f1-a12e-77791785d693",
+    "draw_title": "NEEDOH ADVENT CALENDAR - INSTANT WINS AND ADVENT END PRIZE",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/needoh-advent-calendar-instant-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "a1ad5bd1f6f6dcef1255124638d452eb0a16654045769b12f63b9ccf89ffecfe",
+    "drand_seed_hash": "aca1d38ef8ef385140529c5881918e155325d4fb6139fd8b39aa36674f7fa565c01da678fff902f6978dfc6876b10e0d",
+    "client_seed": "1787688649754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 367,
+    "max_tickets": 499,
+    "combined_hash": "45bccce47512aaba0ce0f6586926a8d29edc09b18c7237929fa74edb54be56dc",
+    "result": "420",
+    "external_round_id": "31628431",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T20:10:49.000000Z",
+    "revealed_at": "2026-08-25T20:10:57.000000Z"
+}
