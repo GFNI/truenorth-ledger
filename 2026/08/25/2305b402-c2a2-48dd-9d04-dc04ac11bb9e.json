@@ -1,0 +1,22 @@
+{
+    "round_id": "2305b402-c2a2-48dd-9d04-dc04ac11bb9e",
+    "draw_title": "♣️ FULL HOUSE FRENZY ♣️",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/full-house-frenzy",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "b1f3f17cae116b7f60d07e60e68d3bf9be0fcca9d8fb3b2e2ef9320508ebf4a1",
+    "drand_seed_hash": "9331d0295c73785fea8ed334059e9054c158abd323218a58c645ab212dec64e475320b01bcc33a0507f17a48a09fc2f2",
+    "client_seed": "1787681540061",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48078,
+    "max_tickets": 199999,
+    "combined_hash": "d39ee1aa0f91c340f56f15e93cdd07928a03dc083dc7ec1c37c97ceeb03acc21",
+    "result": "127314",
+    "external_round_id": "31626061",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T18:12:20.000000Z",
+    "revealed_at": "2026-08-25T18:12:27.000000Z"
+}
