@@ -1,0 +1,22 @@
+{
+    "round_id": "a913b881-3148-4e58-8f88-96459870eb48",
+    "draw_title": "£1 PRIZE EVERY TIME! £500 END PRIZE! 94,000+ PRIZES!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/ps1-prize-every-time-ps500-end-prize-94000-prizes",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "cf11539dae19154fde460854f9675c68cd9d4ee250742ac28f96ed8ab3398818",
+    "drand_seed_hash": "82ce6d818ba32b24d46790eb659226270c434e74217b9e07f4962004d2e82fe15c886eb3864f335d7c4eb6ec6967a350",
+    "client_seed": "1787690788103",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16343,
+    "max_tickets": 94065,
+    "combined_hash": "7e75d05e9ee61734a38e68cb2b423aac30ef875db5398aa74e5a3feeb8ba6e97",
+    "result": "80721",
+    "external_round_id": "31629144",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T20:46:28.000000Z",
+    "revealed_at": "2026-08-25T20:46:36.000000Z"
+}
