@@ -1,0 +1,22 @@
+{
+    "round_id": "2cb53ae7-b032-4729-94fa-23421e72340f",
+    "draw_title": "Fish In Barrel 2",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/fish-in-barrel-2",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "b01e772802a1e81b89bff0bba49a576f15cc6cc3714f5acf39cbc3de556c35cc",
+    "drand_seed_hash": "98c94dc6622df283db9bc46d3cf97ae53f616480851aed437d47f646d42ccde5fbdca113dd93ae8429825b57ffbacd5b",
+    "client_seed": "1787685060932",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12952,
+    "max_tickets": 97979,
+    "combined_hash": "67b243aa56e10e426e27d89fa8f3e76f0f692f8c5a206d7e7a4996965437362e",
+    "result": "83538",
+    "external_round_id": "31627235",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T19:11:01.000000Z",
+    "revealed_at": "2026-08-25T19:11:09.000000Z"
+}
