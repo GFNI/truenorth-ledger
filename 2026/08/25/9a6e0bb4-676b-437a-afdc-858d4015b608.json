@@ -1,0 +1,22 @@
+{
+    "round_id": "9a6e0bb4-676b-437a-afdc-858d4015b608",
+    "draw_title": "Cheap as Chips!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/cheap-as-chips",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "333186a01eb7b825fdae060b4f99811180588f55625c4792ea3db7a875760332",
+    "drand_seed_hash": "93413a2f441a62d036bb4bc0fc6f9d350e52614b5e28e797b9edfdf40c632d01c3dd0a5c3161aaf8d26c5a4b767472d2",
+    "client_seed": "1787684816119",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 419999,
+    "max_tickets": 419999,
+    "combined_hash": "746421b32540f970efeaad67fff9506a83be14bcf6ad9cc72110492e2699f826",
+    "result": "217224",
+    "external_round_id": "31627153",
+    "processing_status": "completed",
+    "created_at": "2026-08-25T19:06:56.000000Z",
+    "revealed_at": "2026-08-25T19:07:03.000000Z"
+}
