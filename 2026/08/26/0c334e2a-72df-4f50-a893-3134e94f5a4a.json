@@ -1,0 +1,22 @@
+{
+    "round_id": "0c334e2a-72df-4f50-a893-3134e94f5a4a",
+    "draw_title": "5P BINGO - £500 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/5p-bingo-ps500-end-prize-3",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "06a5b3ffde062d90fb6e3d5adc4ec51d5b28e81e2b95c827547b83587c2b109a",
+    "drand_seed_hash": "8a769db3fecf8222ebeba42c2ad9e057114f3287639707bacb76e9b136382fd9d3c35dd1e306fe3e75273d7e5a08e7cb",
+    "client_seed": "1787776383429",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77459,
+    "max_tickets": 100000,
+    "combined_hash": "136dbe5e28fee6323d6f55ee66fa2e545f78f79fed558aa8ec86207e201ab3c8",
+    "result": "38068",
+    "external_round_id": "31657675",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T20:33:03.000000Z",
+    "revealed_at": "2026-08-26T20:33:09.000000Z"
+}
