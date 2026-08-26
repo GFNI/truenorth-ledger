@@ -1,0 +1,22 @@
+{
+    "round_id": "fd90baf5-d032-4080-9181-f18755c5a546",
+    "draw_title": "Cash Invaders",
+    "competition_url": "https://chaotic.co.uk/competition/cash-invaders",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e684e06605110ff85e9c2e0d921b5ad4315d0f5a415631835d45b436c3f340c8",
+    "drand_seed_hash": "b2a7fe46af32f3137116ad16de425ba4aff7ac26a19a4a7cb756840c97db5fa5e1f54c69317d55dd8237ad77b0a08927",
+    "client_seed": "1787773323250",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600000,
+    "max_tickets": 600000,
+    "combined_hash": "265a3f97f7138905369da6bc52566d3d4ab972e330c8f8693d093c901abf1222",
+    "result": "111463",
+    "external_round_id": "31656655",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:42:03.000000Z",
+    "revealed_at": "2026-08-26T19:42:09.000000Z"
+}
