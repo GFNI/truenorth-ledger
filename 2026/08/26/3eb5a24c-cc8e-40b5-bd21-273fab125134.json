@@ -1,0 +1,22 @@
+{
+    "round_id": "3eb5a24c-cc8e-40b5-bd21-273fab125134",
+    "draw_title": "£150 Dunelm",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-dunelm-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "27d8c1657d9c1394f6a2f57ffee68df557a399058f572f2f4d26a6c3924823c8",
+    "drand_seed_hash": "97586454787464617708a49e05d490b009b6b30eb31a719fa6db7c29c3102024a4f34b7a53d8a001dbda9c8e5d1db292",
+    "client_seed": "1787779020777",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "90f16aead681039d2ef0ba3b1dbb1985769e3909577ebebfd7d0dd5174465b74",
+    "result": "1",
+    "external_round_id": "31658554",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:17:00.000000Z",
+    "revealed_at": "2026-08-26T21:17:10.000000Z"
+}
