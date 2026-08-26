@@ -1,0 +1,22 @@
+{
+    "round_id": "9bb2a507-329b-409e-ad63-646e2667a98a",
+    "draw_title": "💳 Arctic Marv's Site Credit Bonanza 💳",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/arctic-marvs-site-credit-bonanza",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "f641eba6045c3e45dd241a8d13f63a0bb9d09c9bf34ca70a8ab36e6a9226ffa6",
+    "drand_seed_hash": "93bf8dac16f7d0717d9472a4aa6d6a9f5249259d7621692bb99887ae2e448a1ec380c560cf8b49349d55f5035cc83677",
+    "client_seed": "1787767328943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43736,
+    "max_tickets": 550000,
+    "combined_hash": "743e6f01b889b1d922686a30970909f4f3a850c310d6dc0e517395e68acac067",
+    "result": "417701",
+    "external_round_id": "31654657",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T18:02:09.000000Z",
+    "revealed_at": "2026-08-26T18:02:15.000000Z"
+}
