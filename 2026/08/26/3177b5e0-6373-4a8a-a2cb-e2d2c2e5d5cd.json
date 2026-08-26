@@ -1,0 +1,22 @@
+{
+    "round_id": "3177b5e0-6373-4a8a-a2cb-e2d2c2e5d5cd",
+    "draw_title": "A Full Box of Lion Bars",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/a-full-box-of-lion-bars",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "037d0bea172e096c2083433e029b1e80d937b37ebb69fd7647a2f09ddbc6837b",
+    "drand_seed_hash": "9865f42390e2aafff02473c14f9dd47c015b08a7c18bb026f2348d9f959def893324eedf92fcf9ff643f1d2973c94513",
+    "client_seed": "1787772503134",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 150,
+    "combined_hash": "02da293c736dd587aeefe15e6c7847b77a611976d6b21ce11af054de0c8bbe9f",
+    "result": "97",
+    "external_round_id": "31656382",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:28:23.000000Z",
+    "revealed_at": "2026-08-26T19:28:30.000000Z"
+}
