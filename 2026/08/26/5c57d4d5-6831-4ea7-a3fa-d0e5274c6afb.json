@@ -1,0 +1,22 @@
+{
+    "round_id": "5c57d4d5-6831-4ea7-a3fa-d0e5274c6afb",
+    "draw_title": "WIN 6 MONTHS FOOD SHOPPING + INSTANT WINS",
+    "competition_url": "https://easybigwins.co.uk/admin/products/win",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "267075491aebbf503bb23d652fc8a2064f346d80445921697c19a2085998b849",
+    "drand_seed_hash": "ab14701538df0ae417c9aa589ae43d6e4a4bea2d55343eeb0550020a26df1845e32061414e157da387a98dfefa8f5dfa",
+    "client_seed": "1787776923499",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63765,
+    "max_tickets": 232999,
+    "combined_hash": "10ef6a9886b17fe67c4e544b80ec64a21c28b5581907d520185a92828c054d4f",
+    "result": "213823",
+    "external_round_id": "31657855",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T20:42:03.000000Z",
+    "revealed_at": "2026-08-26T20:42:09.000000Z"
+}
