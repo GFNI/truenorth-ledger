@@ -1,0 +1,22 @@
+{
+    "round_id": "5a203d4c-bed6-4d04-b979-134e67082a77",
+    "draw_title": "Topps UCC Gold 2025/26",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/topps-ucc-gold-202526",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "6ad28992cba4ecea1256ce96505c994e561d4d05bf13166ffec8d8d6d0357493",
+    "drand_seed_hash": "8c5172f8d27ff818a667e66c187fc38ebacf8805c0da5cbda86442143b58561d478dd9a6064ca5827d2d09aa5de91a33",
+    "client_seed": "1787778648697",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 230,
+    "max_tickets": 400,
+    "combined_hash": "8c29086e712b39e84e64bc96e59fb36178b662b37ee7e068b2d552147e704903",
+    "result": "285",
+    "external_round_id": "31658430",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:10:48.000000Z",
+    "revealed_at": "2026-08-26T21:10:54.000000Z"
+}
