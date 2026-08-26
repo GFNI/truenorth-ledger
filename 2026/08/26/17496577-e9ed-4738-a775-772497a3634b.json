@@ -1,0 +1,22 @@
+{
+    "round_id": "17496577-e9ed-4738-a775-772497a3634b",
+    "draw_title": "Bingo",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/bingo",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "b2b702976e57b27837452eb47827c2073db1546a14a1e5568bf1b26d93a7c686",
+    "drand_seed_hash": "ae797c3c69da03e4090c1f5e8b57fd3e67efeab7768afae27de0728f3b4f434bdcdd037c3b01bb9a23da1006b0a43a80",
+    "client_seed": "1787741942686",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248779,
+    "max_tickets": 595000,
+    "combined_hash": "e8d35c5a4ba6623cec300d1e8ab4b3d872864b7e62397dc0dcb6c5e66cb0b92c",
+    "result": "568001",
+    "external_round_id": "31646195",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T10:59:03.000000Z",
+    "revealed_at": "2026-08-26T10:59:09.000000Z"
+}
