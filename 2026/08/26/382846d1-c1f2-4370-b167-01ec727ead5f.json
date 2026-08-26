@@ -1,0 +1,22 @@
+{
+    "round_id": "382846d1-c1f2-4370-b167-01ec727ead5f",
+    "draw_title": "Free £50 Smyths Voucher",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/free-ps50-smyths-voucher",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "5d6bd7c7e04a61856a07bd643587fb44d3da10e7d583dbc589e5ac62be5ab6bb",
+    "drand_seed_hash": "b643cfc683213d5f829c896d5f411ce158bc8906eaad9972af6e743157742e72248e3e5b2054aeb0884c0989329b7c41",
+    "client_seed": "1787772886787",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 200,
+    "combined_hash": "2dcfa6d5eed97e85afb9094c2ac6ae2011e99f7bfd02188b07b6d00050744369",
+    "result": "22",
+    "external_round_id": "31656509",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:34:46.000000Z",
+    "revealed_at": "2026-08-26T19:34:51.000000Z"
+}
