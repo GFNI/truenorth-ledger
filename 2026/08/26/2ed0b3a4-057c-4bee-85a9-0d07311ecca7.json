@@ -1,0 +1,22 @@
+{
+    "round_id": "2ed0b3a4-057c-4bee-85a9-0d07311ecca7",
+    "draw_title": "BINGO BANK – WIN £1,000 INSTANTLY!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/bingo-bank-win-ps1000-instantly",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "f21225ca88eef1dd1c4e5c400fb2ee36b708e983944fd12ac68ac4463c50354e",
+    "drand_seed_hash": "834a2444a87e4517c038eee373f256a9d3ffce579d8c151f396edff4ad147022af58b6a3137d0b699ef8fa49ca97bc83",
+    "client_seed": "1787771273140",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25493,
+    "max_tickets": 25500,
+    "combined_hash": "9410f88dab29a6eff5a52270a2d474951e23c99b4a4c263a5839ad2c645bfdae",
+    "result": "17129",
+    "external_round_id": "31655972",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:07:53.000000Z",
+    "revealed_at": "2026-08-26T19:08:00.000000Z"
+}
