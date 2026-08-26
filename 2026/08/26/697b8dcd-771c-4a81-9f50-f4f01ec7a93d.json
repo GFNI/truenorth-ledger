@@ -1,0 +1,22 @@
+{
+    "round_id": "697b8dcd-771c-4a81-9f50-f4f01ec7a93d",
+    "draw_title": "PINATA CASH SMASH!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/pinata-cash-smash",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "96df1c8b3660cdef5033858e6808c9ac24895f75b24e0bb06bf44e431071cc32",
+    "drand_seed_hash": "81a325fd6d66b73515cc17c0e680eac25c7ee6bcff53558e747b64ba7c37597f85ad5e9548b5f1cc1553b4b6da0b5ff7",
+    "client_seed": "1787778690978",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5010,
+    "max_tickets": 33333,
+    "combined_hash": "9c2fdaf2dbe4d59b183476e8e5c419398c409bf07ee3bf437576f4982a9896af",
+    "result": "26053",
+    "external_round_id": "31658445",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:11:31.000000Z",
+    "revealed_at": "2026-08-26T21:11:39.000000Z"
+}
