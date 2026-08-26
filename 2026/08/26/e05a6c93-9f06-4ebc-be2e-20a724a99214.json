@@ -1,0 +1,22 @@
+{
+    "round_id": "e05a6c93-9f06-4ebc-be2e-20a724a99214",
+    "draw_title": "Quick £500 for 1p #11",
+    "competition_url": "https://speedcompetitions.co.uk/competition/quick-ps500-for-1p-11",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6f07e889afe7b3ffec86aa61918e6d4062a2dbc8de083ad49e94a82c4239d354",
+    "drand_seed_hash": "800b4ffecd13c448579ea03c060433b953fd084ff20988dcda5653268c20adc12021202ad8069f9e0e21ed2ecb28675c",
+    "client_seed": "1787772987769",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62499,
+    "max_tickets": 62499,
+    "combined_hash": "b6820bf5594964500b75736f2ffb70a5f9bd372e6fa7b2a17181340dc5fdb542",
+    "result": "50558",
+    "external_round_id": "31656543",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:36:27.000000Z",
+    "revealed_at": "2026-08-26T19:36:33.000000Z"
+}
