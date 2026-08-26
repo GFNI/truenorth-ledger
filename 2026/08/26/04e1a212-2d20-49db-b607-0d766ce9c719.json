@@ -1,0 +1,22 @@
+{
+    "round_id": "04e1a212-2d20-49db-b607-0d766ce9c719",
+    "draw_title": "Win £25 worth of tickets into Sonik Intelx 3 Rod Pod + Instant Wins - 10p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-sonik-intelx-3-rod-pod-instant-wins-10p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "e4be1c8c0812b6a4651db70239a5243f741d8899615bee925dca3fd6af337822",
+    "drand_seed_hash": "b6ba28dd9452a69effd900b378cd1e7d6c582f21995a66da18432db568f1e7af3a63f2f1e7ac8b4ba89deffe6255d246",
+    "client_seed": "1787764266803",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110,
+    "max_tickets": 350,
+    "combined_hash": "baaa2cfa6a2384c000ddff60e590689ed74a50cbbfdd2798f196b5f3cad49a4a",
+    "result": "141",
+    "external_round_id": "31653636",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T17:11:06.000000Z",
+    "revealed_at": "2026-08-26T17:11:12.000000Z"
+}
