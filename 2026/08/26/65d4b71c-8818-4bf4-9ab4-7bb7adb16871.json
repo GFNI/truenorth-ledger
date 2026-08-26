@@ -1,0 +1,22 @@
+{
+    "round_id": "65d4b71c-8818-4bf4-9ab4-7bb7adb16871",
+    "draw_title": "£500 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/high-five-ps500-cash-ps50-for-runners-up",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "aca61a7280db44618dea38a700fdb17ea1f1acd50e93863758349a14c3861310",
+    "drand_seed_hash": "a15d03490145511f20992fa468ff68ed2bac234e8a8641035d7c4858b5e06fd99d2a90b37de0eacaa06b4f9f8dfd920f",
+    "client_seed": "1787779110650",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 115000,
+    "combined_hash": "0c6e61886c930c8f9e0e65d2d70859ae15a4c74f59bbfd88e46952dc5fd9255c",
+    "result": "46541",
+    "external_round_id": "31658584",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:18:30.000000Z",
+    "revealed_at": "2026-08-26T21:18:40.000000Z"
+}
