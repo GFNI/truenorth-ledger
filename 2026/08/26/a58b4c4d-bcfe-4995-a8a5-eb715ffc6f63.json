@@ -1,0 +1,22 @@
+{
+    "round_id": "a58b4c4d-bcfe-4995-a8a5-eb715ffc6f63",
+    "draw_title": "MINI DRAW - WIN 100 TICKETS INTO THE MEGA CHARIZARD POKEMON CARD OR £500 COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-100-tickets-into-the-mega-charizard-pokemon-card-or-ps500-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "095a1c509765d44b6752391a2b537cbb35d3a0ac6f3857dc21afdf44c783e63d",
+    "drand_seed_hash": "a1cd4851294aa6d9457832dc2da8b22841d23940e190341b14b2e1b66d8ce71b1cbd31f8998cdc4e1bdb3daab52e89b8",
+    "client_seed": "1787785245558",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 214,
+    "max_tickets": 300,
+    "combined_hash": "4e8b9684f309b058b404d2fb3c0d8495eacaa757fc36c694a8caba17176ef89b",
+    "result": "275",
+    "external_round_id": "31660629",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T23:00:45.000000Z",
+    "revealed_at": "2026-08-26T23:00:51.000000Z"
+}
