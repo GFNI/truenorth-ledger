@@ -1,0 +1,22 @@
+{
+    "round_id": "94cad0ca-fddf-4a24-955f-16ee801bd448",
+    "draw_title": "ODDS BOOSTER - 1,000 Tickets - 5x Winners of £2,500 #2",
+    "competition_url": "https://proprizes.co.uk/admin/products/odds-booster-1000-tickets-5x-winners-of-ps2500-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "d23c643a723aa17c1ae36c0f479d3c12a799ec93a3ecc3f082c744c38284f204",
+    "drand_seed_hash": "aa5d07319039987911c731af8e7911499e493c71438a1cb637cbb035e93bb70f69065ccfaa686506b6979040eb4b3cbf",
+    "client_seed": "1787776246387",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "4a8d25a5c5c3a1ad977c6d43295f2ee0835f427eb6da717907448f7896384e07",
+    "result": "143",
+    "external_round_id": "31657629",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T20:30:46.000000Z",
+    "revealed_at": "2026-08-26T20:30:51.000000Z"
+}
