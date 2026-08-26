@@ -1,0 +1,22 @@
+{
+    "round_id": "6eb02f26-9311-4c43-a1e6-904207be885a",
+    "draw_title": "£500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/high-five-ps500-cash-ps50-for-runners-up",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "791137b7845e9ac5548b33d1433afcf3839b19f026434e49b654add2139ceecc",
+    "drand_seed_hash": "9289ed90297a449442bc70ddff72e146ddf4cf5a0144666891540e68134d8d0117c0d99c1880ee7c0c118599ef67dd3d",
+    "client_seed": "1787779140621",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 115000,
+    "combined_hash": "8e84a00632a5b3aaec67699e7bae9a9806eb43b003acf5dabc8e106105ef938f",
+    "result": "92991",
+    "external_round_id": "31658594",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:19:00.000000Z",
+    "revealed_at": "2026-08-26T21:19:07.000000Z"
+}
