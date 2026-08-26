@@ -1,0 +1,22 @@
+{
+    "round_id": "7af905a3-5b53-40a1-bd02-dfab29870086",
+    "draw_title": "Win £100's Worth of Tickets Into the One Piece OP-05 Competition! — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/win-ps100s-worth-of-tickets-into-the-one-piece-op-05-competition-low-odds-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "5bba959d4d95da1873f52aca113404cfa6ad603751bd1728b7c75c18c41b81bf",
+    "drand_seed_hash": "9436ad3a57eec91e459f67ea0954b0aa5b526fa3f5e9e4014bdc672d0487c34444d4bedac0aeae130a4cae75176cf0ed",
+    "client_seed": "1787778732515",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 100,
+    "combined_hash": "24917fcfcc8836b0748f10418d6be8607ce9c64794af2afe73f66d9467c85437",
+    "result": "41",
+    "external_round_id": "31658458",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:12:12.000000Z",
+    "revealed_at": "2026-08-26T21:12:18.000000Z"
+}
