@@ -1,0 +1,22 @@
+{
+    "round_id": "312bec7e-692f-42da-a3b4-645abcf4a39a",
+    "draw_title": "0.25g TAVEX FINE GOLD BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/025g-tavex-fine-gold-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "5c937d6a1977f39bd95d0bb4925027f2ec16c44c836b4628f977dadc1989f488",
+    "drand_seed_hash": "99abbb14ed9cfd84afb93659985a8a2b8f190604eed2a8aee8d4461566d015b75690868f404f240c8207c06a816d115b",
+    "client_seed": "1787784954609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 100,
+    "combined_hash": "87e9c929e4a1aedd6ccb82e9a1e19ff8913bb659d5c893a6df54dd99b8aa0c5e",
+    "result": "76",
+    "external_round_id": "31660532",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T22:55:54.000000Z",
+    "revealed_at": "2026-08-26T22:56:00.000000Z"
+}
