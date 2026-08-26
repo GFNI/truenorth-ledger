@@ -1,0 +1,22 @@
+{
+    "round_id": "5880ce83-81c5-4418-a0be-7595f6961210",
+    "draw_title": "🎱 £11,000 BINGO DROP 🎱",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/ps11000-bingo-drop",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "f4e8b6ac107d58d23d82a9eff281b7edf52abfdc17e3c9f03ce2582c501ba978",
+    "drand_seed_hash": "a52a8a82ba3cc272cbb7c49e990a38d8b95d9296b66ec24f97afdc4acba966b6959372fdad07b37bb0ff3ed0a6d66a83",
+    "client_seed": "1787774853296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 192475,
+    "max_tickets": 500000,
+    "combined_hash": "3b100844ee28ff10f458f45d940da8d92ee441e2a8e0213d6ca0a77481dde695",
+    "result": "379132",
+    "external_round_id": "31657165",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T20:07:33.000000Z",
+    "revealed_at": "2026-08-26T20:07:39.000000Z"
+}
