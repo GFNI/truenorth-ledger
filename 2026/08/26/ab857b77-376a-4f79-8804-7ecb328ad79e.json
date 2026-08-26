@@ -1,0 +1,22 @@
+{
+    "round_id": "ab857b77-376a-4f79-8804-7ecb328ad79e",
+    "draw_title": "Beach Bounty - £2500 End Prize #2",
+    "competition_url": "https://speedcompetitions.co.uk/competition/beach-bounty-ps2500-end-prize-2",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "8740f2fbed6022e34c3c6976cb95ef15a48486f6f66c962e09c0561b2e168de3",
+    "drand_seed_hash": "8512f52f5d1a3dba765bd51c859b695551b26c122eecb883ae0ff0686c5f1480f3733e4a601f76157843d5b33ebcbb9b",
+    "client_seed": "1787773091871",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399999,
+    "max_tickets": 399999,
+    "combined_hash": "e06eebec858e7c92ca6ad9b5eccd6aa92a76a1408598e7c086e90e442be13a67",
+    "result": "62258",
+    "external_round_id": "31656578",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:38:11.000000Z",
+    "revealed_at": "2026-08-26T19:38:18.000000Z"
+}
