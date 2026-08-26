@@ -1,0 +1,22 @@
+{
+    "round_id": "50b8c13a-43f8-4dd1-a352-19a890695e06",
+    "draw_title": "Win Glenfiddich 16 YO Aston Martin No 2 + Instant wins",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenfiddich-16",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "a60c1297dde3c69faf3d2634c684e1f40f5acac69e488778149c1d764b95a9cc",
+    "drand_seed_hash": "a86619e69e5189cea7f79465372ba6e4184d729bf0f8ced327680a04fb46b0799b0eaf5a1ebece5e7f079172e255d007",
+    "client_seed": "1787778654738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 508,
+    "max_tickets": 509,
+    "combined_hash": "7886fdebb83df54a5676f6802c8b8debb800eae53c18bb3809a40cf0c3b0be05",
+    "result": "221",
+    "external_round_id": "31658432",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T21:10:54.000000Z",
+    "revealed_at": "2026-08-26T21:11:00.000000Z"
+}
