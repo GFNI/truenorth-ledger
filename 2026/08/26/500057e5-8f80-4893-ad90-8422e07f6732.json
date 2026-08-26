@@ -1,0 +1,22 @@
+{
+    "round_id": "500057e5-8f80-4893-ad90-8422e07f6732",
+    "draw_title": "Car Jump Start Kit",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/car-jump-start-kit",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d780faa92201cbd77ce63027c2c209479c0316761c3b1d571ca328e2558c52f6",
+    "drand_seed_hash": "8d7ae57860aa848019376553af718b1cd6e0ab7c3f39595bb6fe7a869b8ffc8c00f9988ddb9f5428213a5cd9043a34c9",
+    "client_seed": "1787772341819",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 250,
+    "combined_hash": "cf9044c866a0e0d758f1f5349e66bfc63b7663e3961bd0f9d538490e8f6b96a9",
+    "result": "220",
+    "external_round_id": "31656328",
+    "processing_status": "completed",
+    "created_at": "2026-08-26T19:25:41.000000Z",
+    "revealed_at": "2026-08-26T19:25:48.000000Z"
+}
