@@ -1,0 +1,22 @@
+{
+    "round_id": "9ab705a7-2a41-4468-a4d7-c460121c5a43",
+    "draw_title": "💫 Spin That Wheel Cash Instants 💫",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/spin-that-wheel-cash-instants",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "6818c16b840856e4f68688a4696987007121979bbcdabaf54a52f7cb1f7113bc",
+    "drand_seed_hash": "b5862d19672f308f236ae60b569ebbb46c0d644e451c2b7c4f1b1968c76622dcacec11f4f0acaa33ac8c2a06de166564",
+    "client_seed": "1787861447000",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150489,
+    "max_tickets": 924000,
+    "combined_hash": "e3c861b121750f5300caf2843406113a337289580f8748cf953d47079b3426fd",
+    "result": "695652",
+    "external_round_id": "31686030",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T20:10:47.000000Z",
+    "revealed_at": "2026-08-27T20:10:54.000000Z"
+}
