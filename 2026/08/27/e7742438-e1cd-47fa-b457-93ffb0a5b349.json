@@ -1,0 +1,22 @@
+{
+    "round_id": "e7742438-e1cd-47fa-b457-93ffb0a5b349",
+    "draw_title": "Fiesta Heatwave",
+    "competition_url": "https://jetcomps.co.uk/admin/products/fiesta-heatwave2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "1a02c92005e0da276563c35d752c353ae7190c755ea50d50d8f592d323b37d87",
+    "drand_seed_hash": "92f80ea50ee63039ea5f6f29e966a8bf7d603eb1a7d3deba2a4940d6f560f01d4d0a526651d2181a4b8f7ac678c42d9d",
+    "client_seed": "1787859424913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16182,
+    "max_tickets": 51413,
+    "combined_hash": "b7fbbed6802ae5e1f7beb8ba8533292e8af6efdabe39a271b98833f76d7cebae",
+    "result": "23116",
+    "external_round_id": "31685356",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:37:05.000000Z",
+    "revealed_at": "2026-08-27T19:37:12.000000Z"
+}
