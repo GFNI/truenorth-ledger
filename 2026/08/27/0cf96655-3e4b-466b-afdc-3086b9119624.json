@@ -1,0 +1,22 @@
+{
+    "round_id": "0cf96655-3e4b-466b-afdc-3086b9119624",
+    "draw_title": "2017 AFRICAN LION 1oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2017-african-lion-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "9270610204aaae462980cb2cf4b0e1e128af8eee8aab9abb9292f241a2ec2e1f",
+    "drand_seed_hash": "a2dab1b9910a4430821540a244366d37162a391c59e3d2eceeb1e9893b82573a993cc14ec6cf2b662f16f35002f0a232",
+    "client_seed": "1787871357625",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 150,
+    "combined_hash": "ff68a67f1b046d77ff86c4e681180de2da831e77feabb0ac04451489f9aff2a7",
+    "result": "38",
+    "external_round_id": "31689333",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T22:55:57.000000Z",
+    "revealed_at": "2026-08-27T22:56:03.000000Z"
+}
