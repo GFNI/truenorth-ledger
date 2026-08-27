@@ -1,0 +1,22 @@
+{
+    "round_id": "63b53880-53a1-4f0f-a781-01915a37c662",
+    "draw_title": "WIN A SET OF APPLE AIR PODS 4 WITH ACTIVE NOISE CANCELLING",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-set-of-apple-air-pods-4-with-active-noise-cancelling",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "c90bc21a03be838add1ba41e2c3c17d60d26126327cec3ced3d9d5c9f5081068",
+    "drand_seed_hash": "91da31e0fe5311af47e5d9919fea711bb3d747dea7371fd3d68fcbeeb3b0602afbad13c7e0b4e34c0dab27c656964bcb",
+    "client_seed": "1787864933501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 90,
+    "combined_hash": "62ad969357a5e0112328eb1954c57a861615e1ecb9e9bb6943ce799c22c52c69",
+    "result": "89",
+    "external_round_id": "31687192",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T21:08:53.000000Z",
+    "revealed_at": "2026-08-27T21:09:00.000000Z"
+}
