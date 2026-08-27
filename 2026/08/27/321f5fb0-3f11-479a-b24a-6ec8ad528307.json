@@ -1,0 +1,22 @@
+{
+    "round_id": "321f5fb0-3f11-479a-b24a-6ec8ad528307",
+    "draw_title": "🇬🇧 THE GREAT BRITISH GETAWAY - WIN £1,000 PLUS 300 INSTANT WINS ☔️",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/the-great-british-getaway-win-ps1000-plus-300-instant-wins",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "3e630900690b6b5ae220c25f45ade384385cec03ee41956c98b04c47a04bbdaf",
+    "drand_seed_hash": "8babd360a8d35da577e4343574bcb2d486160a6a2b763005b7d06502c6b2fea1d628bdfcd5f5f14197a19bb99dabff32",
+    "client_seed": "1787857964228",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5663,
+    "max_tickets": 42999,
+    "combined_hash": "7792e829da9a4c64c4d789883f0261b759940b26229ba19a1b08d65b8fcee35c",
+    "result": "31055",
+    "external_round_id": "31684869",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:12:44.000000Z",
+    "revealed_at": "2026-08-27T19:12:51.000000Z"
+}
