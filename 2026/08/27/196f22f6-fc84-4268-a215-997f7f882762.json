@@ -1,0 +1,22 @@
+{
+    "round_id": "196f22f6-fc84-4268-a215-997f7f882762",
+    "draw_title": "Penny Plinko - Plinko Game - Over £1600 in Prizes - £125 Main Draw Prize - 1p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/penny-plinko-plinko-game-over-ps1600-in-prizes-ps125-main-draw-prize-1p-a",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "b1933c8b88b08c9e3e2a559e0b6fa812a81e292f5a9a85e92670aa8f953ae002",
+    "drand_seed_hash": "92fa0b40f068d666ec6709dff709e5cb0f1f70157a00f4c2443387fed8b20dc5314e1e1d58fd79c95f55dbefa5a87507",
+    "client_seed": "1787854715135",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 124990,
+    "max_tickets": 450000,
+    "combined_hash": "8f432a468a4d08f021a3121d2369419d019f2b31a97f340dfd4557ab7600ee88",
+    "result": "424928",
+    "external_round_id": "31683786",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T18:18:35.000000Z",
+    "revealed_at": "2026-08-27T18:18:42.000000Z"
+}
