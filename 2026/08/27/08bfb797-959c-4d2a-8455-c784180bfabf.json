@@ -1,0 +1,22 @@
+{
+    "round_id": "08bfb797-959c-4d2a-8455-c784180bfabf",
+    "draw_title": "25 × 1oz FINE SILVER BRITANNIAS + 10 INSTANT WIN SILVER COINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/25-1oz-fine-silver-britannias-10-instant-win-silver-coins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "db25c5263adaf41b3474c4e44906f69eb0601d34bd5e8a9d99bf982336c3ed25",
+    "drand_seed_hash": "a4eeb98cc2a12426115a03e580a3a41ec06cc5478dda1d39c088a2419b41c79c57bf35edb6f1b5695c1aa43257efd979",
+    "client_seed": "1787861260069",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 934,
+    "max_tickets": 2000,
+    "combined_hash": "d5162c4d74da43d52525868937e804892331dc8af942ffe7caa64814a8cc7d3d",
+    "result": "1062",
+    "external_round_id": "31685968",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T20:07:40.000000Z",
+    "revealed_at": "2026-08-27T20:07:48.000000Z"
+}
