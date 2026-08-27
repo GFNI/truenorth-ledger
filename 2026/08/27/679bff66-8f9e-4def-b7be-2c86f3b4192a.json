@@ -1,0 +1,22 @@
+{
+    "round_id": "679bff66-8f9e-4def-b7be-2c86f3b4192a",
+    "draw_title": "DOUBLE OR NOTHING SITE CREDIT #9",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/double-or-nothing-site-credit-9",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "f69e7a72845f6c9808c8fa7fd330cc28fac9bb139327779629baac94c5949435",
+    "drand_seed_hash": "9592ff69602e96f0fd84b6a8d68119511b15de6a88aeca7212fa17024ae5bceb64d06d5352b87339fdee3d3866797551",
+    "client_seed": "1787853792775",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "9497b7d374f01054b75afc58cd15c21e74a0f5707f0ddcf7208177b91dfe17ff",
+    "result": "69",
+    "external_round_id": "31683478",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T18:03:12.000000Z",
+    "revealed_at": "2026-08-27T18:03:18.000000Z"
+}
