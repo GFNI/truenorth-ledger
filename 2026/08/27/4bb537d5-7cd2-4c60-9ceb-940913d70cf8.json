@@ -1,0 +1,22 @@
+{
+    "round_id": "4bb537d5-7cd2-4c60-9ceb-940913d70cf8",
+    "draw_title": "2010 AUSTRALIAN KOOKABURRA 1oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2010-australian-kookaburra-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "d53ab48830246e8571fd7e76e3856fefc061d87962c56d9f15884077a6363390",
+    "drand_seed_hash": "839054aad450c13cdb0d2a708e749e4e01924fb47b69dfdd8a6c60e47cc018c58f359ca3548f8dadaa024d263ec1f0f8",
+    "client_seed": "1787871364646",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 95,
+    "max_tickets": 150,
+    "combined_hash": "4c73a3118fd86f7bb948d730f6231a59ba9c1ab8353bb76e5ca4cea2ab170049",
+    "result": "57",
+    "external_round_id": "31689336",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T22:56:05.000000Z",
+    "revealed_at": "2026-08-27T22:56:12.000000Z"
+}
