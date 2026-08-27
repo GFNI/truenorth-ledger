@@ -1,0 +1,22 @@
+{
+    "round_id": "abfcd389-a4a4-464b-a760-abb7135c71dd",
+    "draw_title": "APPLE Watch Ultra 3 Cellular - 49 mm Black Titanium Case with Black Titanium Milanese Loop, Medium⌚",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-watch-ultra-3-cellular-49-mm-black-titanium-case-with-black-titanium",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "49f912f697c0898fe3c52d96a69e7cc8adc66976b41ffba247cb6cc490db3bb3",
+    "drand_seed_hash": "b19be851136c6660ddfe61d7b60af440b3c22b3a358640fc5d267f34bd40336e7cd9b82ddecdeeeb93759b61071a54e8",
+    "client_seed": "1787857442414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1038,
+    "max_tickets": 1375,
+    "combined_hash": "270534d6640b66be3745a1dae5cce5c6f552aa60d5087ca1b56804dd463ea7e4",
+    "result": "416",
+    "external_round_id": "31684695",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:04:03.000000Z",
+    "revealed_at": "2026-08-27T19:04:09.000000Z"
+}
