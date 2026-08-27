@@ -1,0 +1,22 @@
+{
+    "round_id": "eaa10006-8064-45d2-b0a8-e3f393cda2f7",
+    "draw_title": "👗 £500 Fashion Spends 👗",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-fashion-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d4ba0a202d1d4e6b9a2cb0959125af4f9b26e0847f1d8aae7197abb76603dab1",
+    "drand_seed_hash": "87f045e4de5f54d5b47b91cd0cf6a9c07a72d6528e31bf329e8c84c84083d3fe985053d6f1ffef2cf2adae14df91da99",
+    "client_seed": "1787857566947",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 576,
+    "max_tickets": 925,
+    "combined_hash": "09e6188b64cfd261d0e2b67e343af71c3e08d007e823303abc28fb0d898ed73a",
+    "result": "778",
+    "external_round_id": "31684736",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:06:06.000000Z",
+    "revealed_at": "2026-08-27T19:06:12.000000Z"
+}
