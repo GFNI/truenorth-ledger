@@ -1,0 +1,22 @@
+{
+    "round_id": "5ad19e95-ca97-41af-ade0-dedd1bffa28e",
+    "draw_title": "1.5KG SILVER TREASURE CHEST",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/15kg-silver-treasure-chest",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3cd5e73c686a91ee291af69c20a348fe91d135577bdb94781bae19d5b265d4a2",
+    "drand_seed_hash": "82b9a05761787b968edbfb235435aa2bc304f67ee571b22953219bcedf7f9d5361b9e69f7328d1ca70235eb5e33f68c2",
+    "client_seed": "1787861348993",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1903,
+    "max_tickets": 3000,
+    "combined_hash": "fb226ef42a806553ffec6ff3edab03a006168cdb03cf97c7382d471f5377f355",
+    "result": "2620",
+    "external_round_id": "31685997",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T20:09:09.000000Z",
+    "revealed_at": "2026-08-27T20:09:15.000000Z"
+}
