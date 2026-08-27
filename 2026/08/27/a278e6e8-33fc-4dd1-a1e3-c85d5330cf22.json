@@ -1,0 +1,22 @@
+{
+    "round_id": "a278e6e8-33fc-4dd1-a1e3-c85d5330cf22",
+    "draw_title": "Samsung 65” TV",
+    "competition_url": "https://ecnicompetitions.com/admin/products/samsung-65-tv",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "17930651d657a7ccf0657e654ece5069a688a843bf694427afd812837a80f7f5",
+    "drand_seed_hash": "b0fa76e1f550b9b83afe01c634ed968e9050c52e155fc494e0cc81783abcaa1ad2ad567a0cb858fbf78dd213ccf64a7a",
+    "client_seed": "1787865112327",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4286,
+    "max_tickets": 6666,
+    "combined_hash": "f1346ba8b62807408c26c89264bdca7a7e21af02d2c36ae601f683345b048eff",
+    "result": "782",
+    "external_round_id": "31687252",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T21:11:52.000000Z",
+    "revealed_at": "2026-08-27T21:12:00.000000Z"
+}
