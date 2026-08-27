@@ -1,0 +1,22 @@
+{
+    "round_id": "cecfb392-a36e-405c-a917-0191015ae717",
+    "draw_title": "Win a £50 JD SPORTS Gift Card!",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-ps50-jd-sports-gift-card",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "1bac3d2ebd397e1bb5f4e75a1f399c8c43a2f82d1a613e1fbdc57fb91e03f9c1",
+    "drand_seed_hash": "981528253e4e8b5db42c07643d2e5bd491d7747329fa4a06a856baec6114c49f1e95b58b4dbb3d31cc09270652ccb71f",
+    "client_seed": "1787857839352",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2400,
+    "max_tickets": 2400,
+    "combined_hash": "91f7c6693a75809d7a8c7162e6f90eb7252a132d52589d61b17cf99fc4e4a1fe",
+    "result": "786",
+    "external_round_id": "31684827",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:10:39.000000Z",
+    "revealed_at": "2026-08-27T19:10:45.000000Z"
+}
