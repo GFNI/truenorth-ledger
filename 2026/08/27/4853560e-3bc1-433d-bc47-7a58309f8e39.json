@@ -1,0 +1,22 @@
+{
+    "round_id": "4853560e-3bc1-433d-bc47-7a58309f8e39",
+    "draw_title": "Win a £150 Tackle Bundle -Choose your own Tackle Bundle - 2p a ticket!!",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-ps150-tackle-bundle-choose-your-own-tackle-bundle-2p-a-ticket",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "0240b702ee2c47e8702e90f071dc440293c98ad9f00c5a4b07b3ed74c1cd1c7f",
+    "drand_seed_hash": "aa86cc65a9b87b07b0efcb6477d72a26ce0f06af89182a1172613dbd4364a4e1b716b09d3486b1c3f14b14be853441ed",
+    "client_seed": "1787851066664",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6884,
+    "max_tickets": 17500,
+    "combined_hash": "53cfae84f6cc8bf6fc060387176bc66bcf4f7e87fee7fd978d12a87649d832c6",
+    "result": "13852",
+    "external_round_id": "31682570",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T17:17:46.000000Z",
+    "revealed_at": "2026-08-27T17:17:54.000000Z"
+}
