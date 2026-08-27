@@ -1,0 +1,22 @@
+{
+    "round_id": "b946d6cb-b09e-441e-99dd-a2a5e1729e96",
+    "draw_title": "Win £20 worth of tickets into £100 School Bundle - 1p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-ps20-worth-of-tickets-into-ps100-school-bundle-1p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "31be8975c92c774c8e8e2376d821c32ee6f4be8295ba5e640983ba860fc67287",
+    "drand_seed_hash": "8dade44213d6389c49f128867b2224ed97f653a077807369122ea98afdc0429782c3300848fae054ff4941e861bdecc1",
+    "client_seed": "1787847060680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1920,
+    "max_tickets": 3000,
+    "combined_hash": "e4663ae6394c09a66f7f72ea4450dff8bf15c6bdb31bb89a66894987b9527638",
+    "result": "109",
+    "external_round_id": "31681234",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T16:11:00.000000Z",
+    "revealed_at": "2026-08-27T16:11:06.000000Z"
+}
