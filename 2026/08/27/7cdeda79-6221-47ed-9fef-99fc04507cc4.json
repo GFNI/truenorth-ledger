@@ -1,0 +1,22 @@
+{
+    "round_id": "7cdeda79-6221-47ed-9fef-99fc04507cc4",
+    "draw_title": "£3K GEAR DOWN DRIVE THRU",
+    "competition_url": "https://geardowncompetitions.com/admin/products/3k-gear-down-drive-thru",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "942b70ad7643ab5e9207ab289e7677f5ec25eebabda8bc90fc9604b4ce400f05",
+    "drand_seed_hash": "8cac5063f0a36f9018bb8c2217514eac3309eb157eb2c65a31c41f915a0bbb3e2c4f031a950ee8229927d3649796c651",
+    "client_seed": "1787862282793",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52419,
+    "max_tickets": 299999,
+    "combined_hash": "fe15a566d2b6ce4fdfcd605398fe4760c649236fd674442ba52538880525c93d",
+    "result": "100843",
+    "external_round_id": "31686308",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T20:24:42.000000Z",
+    "revealed_at": "2026-08-27T20:24:48.000000Z"
+}
