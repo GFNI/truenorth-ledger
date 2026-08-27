@@ -1,0 +1,22 @@
+{
+    "round_id": "a61af720-0f6f-4c1a-809b-6195b637ea73",
+    "draw_title": "Thursday Doe – Whack-a-Mole 💚",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/thursday-doe-whack-a-mole",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "d0c6cea2c72e4da90709bad5ce0f6d56bf15ac06632104a2d38abfd816228291",
+    "drand_seed_hash": "8b22805382cfa0d94ef54d2028d91d80b7a63f1d88cd2408a8e5634c4ce221e87e78613ec5e0ca91026cc029a7e1030b",
+    "client_seed": "1787857974592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 300,
+    "combined_hash": "9f10c19752a9ed67b9f585292b0ca66ba965a74d54581e5028341d15a94288ea",
+    "result": "220",
+    "external_round_id": "31684872",
+    "processing_status": "completed",
+    "created_at": "2026-08-27T19:12:54.000000Z",
+    "revealed_at": "2026-08-27T19:13:00.000000Z"
+}
