@@ -1,0 +1,22 @@
+{
+    "round_id": "2cfee00e-c284-49ba-9b89-2ecc02118ef9",
+    "draw_title": "2500K SPLIT OR STEAL",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/2500k-split-or-steal",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0e83f366e4233fb75b2f861b6ac64a8a6c61d51f20aa7950a5a0a93f1b8d4b37",
+    "drand_seed_hash": "b1c936a5dd4b9ba3060e50a5cd5367f0f1370b4c721a23cd9691d07ddfecd576cbc8b68b97ba4242494e653ee6bc5950",
+    "client_seed": "1787947914951",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7971,
+    "max_tickets": 8000,
+    "combined_hash": "ff5deede1e9dca792ce5eff658d9bec6d8adfa0364b2b20da4e964d114d1892a",
+    "result": "3584",
+    "external_round_id": "31714853",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T20:11:55.000000Z",
+    "revealed_at": "2026-08-28T20:12:03.000000Z"
+}
