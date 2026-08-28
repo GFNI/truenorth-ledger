@@ -1,0 +1,22 @@
+{
+    "round_id": "e6d66ba7-7953-4b1f-964d-eb5ea241a19d",
+    "draw_title": "The Ticket Tree 🌳",
+    "competition_url": "https://redlemonx.co.uk/admin/products/the-ticket-tree-8",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "3859bfe255896ccb280b37bccb1a3e9a1e44853e9c3940e371852f19baccf65a",
+    "drand_seed_hash": "a6feec0d9cf181aff257e9a25e4bfc873313b91973115877dd7f909c728986c0566657f696ef70539f31104846422ce6",
+    "client_seed": "1787922946145",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "969586b5b9eab6c9e611deb0ac549444d932916fe1872d3f6946abfb294bec79",
+    "result": "6215",
+    "external_round_id": "31706530",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T13:15:46.000000Z",
+    "revealed_at": "2026-08-28T13:15:54.000000Z"
+}
