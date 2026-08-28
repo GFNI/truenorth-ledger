@@ -1,0 +1,22 @@
+{
+    "round_id": "56b10353-f14b-41f2-b891-c46746381840",
+    "draw_title": "High Roller Slots Instant Win Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/high-roller-slots-instant-win-pot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "43644adeff55badc2f60bf56d9db44bb1339a0d483e4c07dcc6fbd1a604546b6",
+    "drand_seed_hash": "a912be497999ea281c3fd95a0cbddbce97a55079b90803b22883e29bc32f4ff98c4e3a1aa1ea9287c51f793cedd35595",
+    "client_seed": "1787947630609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7813,
+    "max_tickets": 100000,
+    "combined_hash": "f1f73f72fad636c83e4f966d7c865ec1ce6a86a5930334c3e0e90b7eefa70f6a",
+    "result": "94866",
+    "external_round_id": "31714758",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T20:07:10.000000Z",
+    "revealed_at": "2026-08-28T20:07:18.000000Z"
+}
