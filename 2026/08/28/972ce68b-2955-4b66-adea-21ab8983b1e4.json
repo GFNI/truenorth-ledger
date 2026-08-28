@@ -1,0 +1,22 @@
+{
+    "round_id": "972ce68b-2955-4b66-adea-21ab8983b1e4",
+    "draw_title": "VAULT HEIST: WIN! GOLD DART GEAR INSTANTLY [BULLS ADVANTAGE END PRIZE]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/vault-heist-win-gold-dart-gear-instantly-bulls-advantage-end-prize",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "857470ff5c1eefba51ecfaba1457e5fa2b77267db8fe18e34e1d3e5c6f7d31e4",
+    "drand_seed_hash": "8a94942909a46f176063f8a4af1d3c6236f05096cfa4eadbb41208cfb299981c6743c651375e4f249dcd1636735e3572",
+    "client_seed": "1787945151555",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 641,
+    "max_tickets": 19999,
+    "combined_hash": "3ca17a75d16397007e9f5ba576b09a9c8cc011650e90a2244c01dbc0a65d50ce",
+    "result": "9494",
+    "external_round_id": "31713931",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T19:25:51.000000Z",
+    "revealed_at": "2026-08-28T19:25:57.000000Z"
+}
