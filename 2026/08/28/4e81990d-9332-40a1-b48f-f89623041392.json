@@ -1,0 +1,22 @@
+{
+    "round_id": "4e81990d-9332-40a1-b48f-f89623041392",
+    "draw_title": "The Lucky Drop",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/the-lucky-drop",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "1c26b7dc6eedba6f1d1160da560ea29d0950fbb24e059b558219679d5761b21d",
+    "drand_seed_hash": "aeaf3ad6d162d0bf94c3d110ed8e150cd128cc66629cba795b7744e6d5cf8bcec3c80c9d6f38d2cd67eb300bfe651ff8",
+    "client_seed": "1787933427969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 162302,
+    "max_tickets": 333333,
+    "combined_hash": "1e38b672367a1215e4b6f97bfe42eb377b11d853cc6f858ecb66fc779e185c79",
+    "result": "213134",
+    "external_round_id": "31710024",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T16:10:28.000000Z",
+    "revealed_at": "2026-08-28T16:10:36.000000Z"
+}
