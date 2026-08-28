@@ -1,0 +1,22 @@
+{
+    "round_id": "c4b38f49-de87-486f-9051-6f9f9d0708d3",
+    "draw_title": "Apple iPad 11\" 128GB + Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/apple-ipad-11-128gb-instant-wins-4",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "952daf21a15a6ad398c614379da30f46adc28e07ffb9b40b3c248dbd6c353fbe",
+    "drand_seed_hash": "8cbddda214262692fc33d87251023a2a2c2ff3256cb66c4ef9eaecbe266c7386c21f2f9862f9a38d06ff74ceb04bcf6d",
+    "client_seed": "1787949127886",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 339,
+    "max_tickets": 599,
+    "combined_hash": "667308867f4cfc4f456f1da18c1ed21e0816bb78e2d7150acfb2f6f8f7e3fd15",
+    "result": "266",
+    "external_round_id": "31715257",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T20:32:07.000000Z",
+    "revealed_at": "2026-08-28T20:32:15.000000Z"
+}
