@@ -1,0 +1,22 @@
+{
+    "round_id": "8f5ac5d5-19c8-4ffb-b0ad-e9df2cda7e53",
+    "draw_title": "Roulette Riches",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/roulette-riches",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "cbe2efd5f9b4d9ada9be16c8acea2ea8af077d6346a6931a0ddded3ce82df443",
+    "drand_seed_hash": "843200294a7a809f2473646a2fd557ca108f482c76a070ed668354406a317965d5c6bd6455c2fc3aab8790e9c31f66be",
+    "client_seed": "1787955052351",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4891,
+    "max_tickets": 305000,
+    "combined_hash": "12c5aaaf543cb167019e20ff421ed2394c2dc54bccf769d688308942264c02e9",
+    "result": "294371",
+    "external_round_id": "31717232",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T22:10:52.000000Z",
+    "revealed_at": "2026-08-28T22:11:00.000000Z"
+}
