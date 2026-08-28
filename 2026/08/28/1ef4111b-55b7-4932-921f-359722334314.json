@@ -1,0 +1,22 @@
+{
+    "round_id": "1ef4111b-55b7-4932-921f-359722334314",
+    "draw_title": "MOZA R3 Sim Racing Bundle",
+    "competition_url": "https://gridchance.co.uk/admin/products/moza-r3-sim-racing-bundle",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "d7375f421819af5dcb6c88594f0a6fd12284de856a4bfd529d51c2dd3c6d7222",
+    "drand_seed_hash": "b1bc4cc7b0e37d41494d32644dcf03f39568805d17e69c53903e1078a875366640657cfb3b261fd6b39ca7c286cd1a8e",
+    "client_seed": "1787946583329",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 2999,
+    "combined_hash": "19d8c48d45807ca4298104de0492acd10ad7db3f35011187aadf9607b7cdc121",
+    "result": "1927",
+    "external_round_id": "31714409",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T19:49:43.000000Z",
+    "revealed_at": "2026-08-28T19:49:51.000000Z"
+}
