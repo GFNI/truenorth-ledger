@@ -1,0 +1,22 @@
+{
+    "round_id": "b1117c04-69d3-43bb-acf3-b76be190f1a3",
+    "draw_title": "£111 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/sausage-party-ps111-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "0cfaf3a552ec1175d26287d8512d8fc6409ba0f48ee7877055fbb6d80a7ec3cd",
+    "drand_seed_hash": "aff6e098f47cd912f7c95abf772c0a0be201ac3e149e8aad670d4da63630a569e8aa3c2103ebf556c2d8189e370f8c2d",
+    "client_seed": "1787951581899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 410000,
+    "combined_hash": "feadef1008d10b95b91e72efb7beb43e49ab91ad8b08a685bd4d1010b5e2aff5",
+    "result": "13103",
+    "external_round_id": "31716075",
+    "processing_status": "completed",
+    "created_at": "2026-08-28T21:13:01.000000Z",
+    "revealed_at": "2026-08-28T21:13:12.000000Z"
+}
