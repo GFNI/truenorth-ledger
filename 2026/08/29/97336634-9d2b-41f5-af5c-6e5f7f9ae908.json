@@ -1,0 +1,22 @@
+{
+    "round_id": "97336634-9d2b-41f5-af5c-6e5f7f9ae908",
+    "draw_title": "☕️ WIN A NESPRESSO VERTUO POP COFFEE MACHINE ☕️",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/win-a-nespresso-vertuo-pop-coffee-machine",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "1124527b1cb9a22184906230d979b7bcccdcff767fc80e2bbb3d8c3e3e2360eb",
+    "drand_seed_hash": "912f588778e54334cff79b6661f9ee6d31532fa901d603d4f7a1fcf64e3454ef0a17ebef64193c96ae82b193ec5ea078",
+    "client_seed": "1788032097998",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 341,
+    "max_tickets": 800,
+    "combined_hash": "22956500afb51ee3724360598465c0cb57e5b67b428892bbdd035a47105322dd",
+    "result": "515",
+    "external_round_id": "31742914",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T19:34:58.000000Z",
+    "revealed_at": "2026-08-29T19:35:06.000000Z"
+}
