@@ -1,0 +1,22 @@
+{
+    "round_id": "48678a3b-5991-41be-bc94-3de4f469dd21",
+    "draw_title": "Prismatic Super Premium Collection (LOW ODDS) #2 - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/prismatic-super-premium-collection-low-odds-2-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "e7df5e7098afd1f45e7f6afce0035f853b65589f5547940012535cf6caa1c16f",
+    "drand_seed_hash": "98ea656f8ecffc32174b5b4332f3879f387522f6130f0be06c14e636d44cf5c67c0c54db467182ffd37081b4f0830635",
+    "client_seed": "1788030681527",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 193,
+    "max_tickets": 340,
+    "combined_hash": "6d7766c4e2db777ed66ff6e3a08e7b885d641f73fe444beca9d9b07fe0bcdb00",
+    "result": "102",
+    "external_round_id": "31742441",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T19:11:21.000000Z",
+    "revealed_at": "2026-08-29T19:11:27.000000Z"
+}
