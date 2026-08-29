@@ -1,0 +1,22 @@
+{
+    "round_id": "1d115f42-e38e-448e-9953-9c0ac559b220",
+    "draw_title": "BURST A BUBBLE WIN A PRIZE - PLUS END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/burst-a-bubble-win-a-prize-plus-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "5fd56917d05568f79320dbaf8b15e3e5af3538b321655c29924d9fabf5b6e7e1",
+    "drand_seed_hash": "a0d91363d31e3102b25719d769a5552d613d95cbae551e9acaa5b71fe6f71127abb9e6267287d7fd26a34f830781ce00",
+    "client_seed": "1788037852254",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15228,
+    "max_tickets": 119999,
+    "combined_hash": "acf1cd685d64e8200dcda00124ac6fc24d3a9b3a221c585666b856521bf7f524",
+    "result": "101865",
+    "external_round_id": "31744832",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T21:10:52.000000Z",
+    "revealed_at": "2026-08-29T21:11:00.000000Z"
+}
