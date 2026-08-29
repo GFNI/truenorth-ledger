@@ -1,0 +1,22 @@
+{
+    "round_id": "52d7bc0b-ee6c-4803-bc3a-75304f0902c3",
+    "draw_title": "Apple Family Bundle or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/apple-family-bundle-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8445baea5aaa69088ad8092d1d119f1ff031f7266bd29e113e88ac478c93f53e",
+    "drand_seed_hash": "972b294a0ce9302dcb26971067ae3a0ded0299139030cc1be2373309069f7c9cbe63b6ba54fa7c380b944b23ddfc2073",
+    "client_seed": "1788034899121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16834,
+    "max_tickets": 17500,
+    "combined_hash": "8fdb4c105e9df03ba1464335f62bdd89bedfd06c2f8642833005bb920c0f1a8d",
+    "result": "17400",
+    "external_round_id": "31743847",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T20:21:39.000000Z",
+    "revealed_at": "2026-08-29T20:21:45.000000Z"
+}
