@@ -1,0 +1,22 @@
+{
+    "round_id": "7902b47a-623a-4ded-af13-1c107862ba37",
+    "draw_title": "FREE FOOD SHOP",
+    "competition_url": "https://chaotic.co.uk/competition/free-food-shop",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d7fa98f4fef51d5f73cce659410c47706fc9adf389c9117373bf6a21e2475a9f",
+    "drand_seed_hash": "a983d9b14b98ed65e9d838f250fde13484e26f45aa9ce3759c2d5fc916b9fc91bbdf2bd0e869f718a99f74d554fae53a",
+    "client_seed": "1788033528094",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26816,
+    "max_tickets": 50000,
+    "combined_hash": "81b1b396e29bff1f51a81fc78583909293e75844c86f16dca369629e9a18e2a6",
+    "result": "8786",
+    "external_round_id": "31743390",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T19:58:48.000000Z",
+    "revealed_at": "2026-08-29T19:58:54.000000Z"
+}
