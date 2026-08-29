@@ -1,0 +1,22 @@
+{
+    "round_id": "76951b76-c86e-4a78-a41b-333757aba7c6",
+    "draw_title": "Fire Chests #18",
+    "competition_url": "https://fireprizes.co.uk/admin/products/fire-chests-18",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "4f25efc50457e6d0c957dfea67e9bd7d0ef3a1afa0714601ac621ef6e051da1f",
+    "drand_seed_hash": "a9696cd883d1e51f7d0c8355dc77b0b1a0504afe60c4d9aa5418bca4e1c07d1e6def21386b000caac1f01ecf77026125",
+    "client_seed": "1788045045479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 743,
+    "max_tickets": 999,
+    "combined_hash": "51353012a7b64e97eb6966f248acf5a67f795cf53cc721273630e7e29a1a7f47",
+    "result": "720",
+    "external_round_id": "31747229",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T23:10:45.000000Z",
+    "revealed_at": "2026-08-29T23:10:51.000000Z"
+}
