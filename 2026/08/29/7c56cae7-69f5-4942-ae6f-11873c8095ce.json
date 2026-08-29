@@ -1,0 +1,22 @@
+{
+    "round_id": "7c56cae7-69f5-4942-ae6f-11873c8095ce",
+    "draw_title": "Magic Carpet",
+    "competition_url": "https://chaotic.co.uk/competition/magic-carpet-5629",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "b2cd1776603a9ce59d8a093547c1d10616eb331697f0ff08d3cedd5705c71c32",
+    "drand_seed_hash": "82642db83ede1e8166cc6ef61f55aca2e7cd7ce41952dd442a5aec08a72554b2f65eb77082323e2daf47946ca4f46725",
+    "client_seed": "1788034229536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500000,
+    "max_tickets": 500000,
+    "combined_hash": "bc4da2c2d3a94d46e21ed3e3fd2d1c899531204e0ee02271832fcf2ba811cd6b",
+    "result": "416637",
+    "external_round_id": "31743624",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T20:10:29.000000Z",
+    "revealed_at": "2026-08-29T20:10:36.000000Z"
+}
