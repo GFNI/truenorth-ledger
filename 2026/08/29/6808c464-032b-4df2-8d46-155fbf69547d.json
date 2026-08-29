@@ -1,0 +1,22 @@
+{
+    "round_id": "6808c464-032b-4df2-8d46-155fbf69547d",
+    "draw_title": "💸 FETCH A FORTUNE 💸",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/fetch-a-fortune",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "5a4e5a437b8d8b35d6f7bd0edfbae1728fa270c7e25eae86fcd7d12cc5dc86c7",
+    "drand_seed_hash": "958c9271ccd9edb4fa98d7a8e3c9970eb4ef8a1397ba85c12de8f381ebcbcbbd3593a89105a4beabfcf2cfcd9b4692d1",
+    "client_seed": "1788032208559",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20310,
+    "max_tickets": 59999,
+    "combined_hash": "107739cd3bff0a1e5f42bb30a04ff574097c59a8dcd49efa3a97d6cd595fea97",
+    "result": "52698",
+    "external_round_id": "31742950",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T19:36:48.000000Z",
+    "revealed_at": "2026-08-29T19:36:54.000000Z"
+}
