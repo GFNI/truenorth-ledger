@@ -1,0 +1,22 @@
+{
+    "round_id": "ca24a567-5448-4d77-95d8-cf0306589c96",
+    "draw_title": "Scarlet & Violet 151 UPC #1 - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/scarlet-violet-151-upc-1-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "383b35f4bd7edb0b2092dfe32bdd913096a9dcd5404f2b292511879929d47c9e",
+    "drand_seed_hash": "b503f67e59ea74088c122695d711539c3591a2fb5fbae6df41c6bd8ea095a94c7a3099e9c34761d4904481f477a29eac",
+    "client_seed": "1788027706640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15356,
+    "max_tickets": 15356,
+    "combined_hash": "8d8e1db609ce73e2fcef8379081036402e7b04657fdefab7cbec82f47a573037",
+    "result": "7030",
+    "external_round_id": "31741449",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T18:21:46.000000Z",
+    "revealed_at": "2026-08-29T18:21:51.000000Z"
+}
