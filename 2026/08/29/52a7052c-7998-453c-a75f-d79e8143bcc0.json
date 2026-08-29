@@ -1,0 +1,22 @@
+{
+    "round_id": "52a7052c-7998-453c-a75f-d79e8143bcc0",
+    "draw_title": "Win instantly on Draw Drop Drop zone! Dalmore, Macallan, Glenfiddich and more.  90 prizes",
+    "competition_url": "https://drawdrop.co.uk/admin/products/draw-drop-drop-zone",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "8690dff1d2462a8d556a3a5d17065893937ea89fe2964726aba341561c35f04b",
+    "drand_seed_hash": "9460265b68c9937fab70e859aa0f8657fe21e95e0b5b10fad70d2633a75ae2455fe075f07bab911182008b1eaeca99ae",
+    "client_seed": "1788039645540",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 378,
+    "max_tickets": 1321,
+    "combined_hash": "d9c8f943a36185e17decd451d7376bcc9adadece3399acecde0ed901ee51831b",
+    "result": "276",
+    "external_round_id": "31745429",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T21:40:45.000000Z",
+    "revealed_at": "2026-08-29T21:40:51.000000Z"
+}
