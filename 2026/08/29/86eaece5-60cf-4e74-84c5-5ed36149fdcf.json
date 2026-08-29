@@ -1,0 +1,22 @@
+{
+    "round_id": "86eaece5-60cf-4e74-84c5-5ed36149fdcf",
+    "draw_title": "2015 PERTH MINT YEAR OF THE GOAT SILVER PROOF THREE-COIN SET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2015-perth-mint-year-of-the-goat-silver-proof-three-coin-set-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2958f7fe7966b0a043687bdad8e3aff4b2e69f6ed41477f432ab0df1b0004b2f",
+    "drand_seed_hash": "a94ab0050d11a3d0a543df3d4ea8b6a2a32f7921e52537e3c89f0e39d1af4fd7d876499898eec08f960cbf0751ec1087",
+    "client_seed": "1787985941072",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 289,
+    "max_tickets": 1000,
+    "combined_hash": "5927a4f6d72f29780fc02a3f2094f3bb0d69ecbc9dc6f6356ab32d46f18f4bc6",
+    "result": "114",
+    "external_round_id": "31727528",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T06:45:41.000000Z",
+    "revealed_at": "2026-08-29T06:45:48.000000Z"
+}
