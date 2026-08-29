@@ -1,0 +1,22 @@
+{
+    "round_id": "285f80b2-6eed-4fb6-b1ca-2c6fe02d5ec2",
+    "draw_title": "🍬THE TREAT TIN 🍬",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/the-treat-tin",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "60e505662ef63071e1d7968772e415fbf3f6459d021e31dc10a1660a56039aff",
+    "drand_seed_hash": "9466df8e028560266d07f0c3075dde274c6820a2a612091f968347575deb2d3386c9023ce8c147188c5bac345d2ddde3",
+    "client_seed": "1788031962583",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30,
+    "max_tickets": 30,
+    "combined_hash": "4e58a8d6753d6b0fb90db02ff839705ead5e1b7dcd1f05739b534d9c3270b742",
+    "result": "9",
+    "external_round_id": "31742868",
+    "processing_status": "completed",
+    "created_at": "2026-08-29T19:32:42.000000Z",
+    "revealed_at": "2026-08-29T19:32:48.000000Z"
+}
