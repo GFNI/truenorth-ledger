@@ -1,0 +1,22 @@
+{
+    "round_id": "1fcd448e-372a-4332-a29e-6c94266b4b9d",
+    "draw_title": "Chase The Chase",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/chase-the-chase",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "ffca84fa9a1bc546adf2cda1554886d4e3ab6c4e8ca38f003237a1ade780cc99",
+    "drand_seed_hash": "a396af6b54202a5f52914b341e7198a9085d49bb209e0d03c0c8a91c30b9e01e0b09bec47a79401bd65c37411bfed9bf",
+    "client_seed": "1788119090555",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3627,
+    "max_tickets": 11000,
+    "combined_hash": "80fc2abb1a9f3e280cf3ffa808467536a43c56c7486d37608759dfb3208d34c0",
+    "result": "8545",
+    "external_round_id": "31771911",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:44:50.000000Z",
+    "revealed_at": "2026-08-30T19:44:57.000000Z"
+}
