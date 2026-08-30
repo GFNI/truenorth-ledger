@@ -1,0 +1,22 @@
+{
+    "round_id": "1ddf24bc-5c6c-4fdc-aa90-8ba984f36423",
+    "draw_title": "£200K PrizePot",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps200k-prizepot",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "29c6ea3748371ffa37a97f4134a22ea71ab8851dde59cc222dd6ee3e4c0105bf",
+    "drand_seed_hash": "a6f5e73bcef1d64479a5a4117408883c875da18aaa596dcefa0a4089c15067b4635df1b6548a6abe010c53fffd05cc05",
+    "client_seed": "1788120676922",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13883,
+    "max_tickets": 199995,
+    "combined_hash": "62c714322ee83db7cf5477d47c75b8bc55760c93c698678968b093f6dd29555a",
+    "result": "43568",
+    "external_round_id": "31772440",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:11:17.000000Z",
+    "revealed_at": "2026-08-30T20:11:24.000000Z"
+}
