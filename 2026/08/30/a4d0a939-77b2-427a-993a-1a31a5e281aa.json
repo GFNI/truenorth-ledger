@@ -1,0 +1,22 @@
+{
+    "round_id": "a4d0a939-77b2-427a-993a-1a31a5e281aa",
+    "draw_title": "GIVEAWAY BACK TO SCHOOL",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/giveaway-back-to-school",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "16e015e69102e01b23ab1b58ed3a23c49011db8934a3daa0d50a64bf82ef720f",
+    "drand_seed_hash": "831cb349513be431d1f04cafb38d76fe20585f7a1b2efe9b9eff484503e0bb8d26472c5cf6063f5acc69ae6453e77192",
+    "client_seed": "1788117592929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 100,
+    "combined_hash": "0e3a7c1f121722a48dc54a1ea884681b7d137c31e6215d591120de73e009a7af",
+    "result": "23",
+    "external_round_id": "31771412",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:19:53.000000Z",
+    "revealed_at": "2026-08-30T19:20:00.000000Z"
+}
