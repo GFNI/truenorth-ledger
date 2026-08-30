@@ -1,0 +1,22 @@
+{
+    "round_id": "58f78f7e-93ed-4866-9e36-86b624df6834",
+    "draw_title": "DO YOU  WHEELY LIKE IT? #3",
+    "competition_url": "https://fireprizes.co.uk/admin/products/do-you-wheely-like-it-3",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "f1c494a76e9adac6c5b4baa81d0cd4a80cccc38f3ad73dbf94045345f19a7b71",
+    "drand_seed_hash": "97d94db1ccfc6fa4a1db71a90d83b2afd50c558cfe4874d06adf4960a6aacb2e94daf3e9dfac39e0d5c5cf3143e93694",
+    "client_seed": "1788122153596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 782,
+    "max_tickets": 6000,
+    "combined_hash": "8eb541edd939f8370a9b7c733f1a6458f794f8dfa864c70e033a7b44c06b87e0",
+    "result": "4511",
+    "external_round_id": "31772932",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:35:53.000000Z",
+    "revealed_at": "2026-08-30T20:36:00.000000Z"
+}
