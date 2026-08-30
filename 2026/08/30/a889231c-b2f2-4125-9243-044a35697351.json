@@ -1,0 +1,22 @@
+{
+    "round_id": "a889231c-b2f2-4125-9243-044a35697351",
+    "draw_title": "NEW Pokemon Charizard X Ultra Premium Collection with instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-pokemon-charizard-x-ultra-premium-collection-with-instants",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "1d87073b4e36defebd36109a088890ae06b9be4de350d9cb58b926e49d1c2e45",
+    "drand_seed_hash": "938abc896055623cd319cf1b0d6aad02f8e7cf6718d7678499a354fed150f5225fea738d6c001fbd23ce7e0de635d045",
+    "client_seed": "1788116877630",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2258,
+    "max_tickets": 10000,
+    "combined_hash": "59992edf15227bd8b1b61135b3e4142559d34d877eb9bac759af11cf1c59f538",
+    "result": "3082",
+    "external_round_id": "31771173",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:07:57.000000Z",
+    "revealed_at": "2026-08-30T19:08:03.000000Z"
+}
