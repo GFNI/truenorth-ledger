@@ -1,0 +1,22 @@
+{
+    "round_id": "a7258798-bae3-4bb4-92b7-36bb912f0411",
+    "draw_title": "2 x £50 Starbucks Vouchers",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/2-x-ps50-starbucks-vouchers",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "ed76468008e966fbd91a2d7b734ec7d703dae64eb61525ea5be5608f256c4d88",
+    "drand_seed_hash": "9657fac5b0ee7769324761a2977842b44cc045a5d7645fd0fdbb953f70009e815c93f03cb42e54231350abe8e6695a06",
+    "client_seed": "1788120605332",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 497,
+    "combined_hash": "47b37a4d065d589ff3885c68332c91b103f14a619828fc14d09095d9c418cf10",
+    "result": "318",
+    "external_round_id": "31772416",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:10:05.000000Z",
+    "revealed_at": "2026-08-30T20:10:12.000000Z"
+}
