@@ -1,0 +1,22 @@
+{
+    "round_id": "b789cce4-b61e-4c0a-ae7d-5e38a31a02a9",
+    "draw_title": "WIN EVERY TIME 🕰️ 💕",
+    "competition_url": "https://windropcompetitions.com/admin/products/win-every-time",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "523660099d59bac505d937c82d29ed2fa8602ab9ae446ecbc313c9b5d7e82497",
+    "drand_seed_hash": "ab13de2c0d7f262d273b2cd5b83a50d3aca73d42f1cd66e1a6332129ceb48f2a359ab8c3a4fa87261376bf16e64dc8b2",
+    "client_seed": "1788115430078",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2383,
+    "max_tickets": 175000,
+    "combined_hash": "d7f93116a781eac9faf67ae3c8fc9219ddc28519ef98151aa2863f90400d3525",
+    "result": "148976",
+    "external_round_id": "31770691",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T18:43:50.000000Z",
+    "revealed_at": "2026-08-30T18:43:57.000000Z"
+}
