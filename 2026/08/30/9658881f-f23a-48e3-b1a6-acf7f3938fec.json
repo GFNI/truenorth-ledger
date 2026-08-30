@@ -1,0 +1,22 @@
+{
+    "round_id": "9658881f-f23a-48e3-b1a6-acf7f3938fec",
+    "draw_title": "DWARFLAB Dwarf Mini Smart Telescope",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/dwarflab-dwarf-mini-smart-telescope",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c4de4d3c00c08876175d385082559db2414a8651d64d602516ffeaed6bb2bb97",
+    "drand_seed_hash": "b8d94de1ea5de4a13a699c13c45a44e2dd21802365059dcb3952f56d3e66d0b1257ecc5ebb181e6580de96b02796732b",
+    "client_seed": "1788117735619",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 212,
+    "max_tickets": 700,
+    "combined_hash": "4814818c0943fe65848e703c4fc92cb67648f936d56521d9fd7652ec62c7ff55",
+    "result": "677",
+    "external_round_id": "31771459",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:22:15.000000Z",
+    "revealed_at": "2026-08-30T19:22:21.000000Z"
+}
