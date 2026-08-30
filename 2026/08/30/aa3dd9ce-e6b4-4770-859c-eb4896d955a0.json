@@ -1,0 +1,22 @@
+{
+    "round_id": "aa3dd9ce-e6b4-4770-859c-eb4896d955a0",
+    "draw_title": "WIN X10 ENTRIES TO £10,000 COMP  (sun) AUTO DRAW",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/win-x10-entries-to-ps10000-comp-sun-auto-draw-2",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "fd665c386966571ba82af72585ecbda7ecc3cb1688384ceda08268e1c583b136",
+    "drand_seed_hash": "b6653f9fcf27db8cf6cfb9e21fd1d35a6d9956744671178ec7adc6aefae48a83489c085f2a341698e8d67d40e2a408bb",
+    "client_seed": "1788125157564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 326,
+    "max_tickets": 500,
+    "combined_hash": "2dacdc8a83e1cf5c000884b364359a2c957bb23014d5f97625ac61c836172cd5",
+    "result": "306",
+    "external_round_id": "31773933",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T21:25:57.000000Z",
+    "revealed_at": "2026-08-30T21:26:03.000000Z"
+}
