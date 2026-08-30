@@ -1,0 +1,22 @@
+{
+    "round_id": "cd976fdd-b0be-4236-85ee-6195d609ffbe",
+    "draw_title": "£1 PRIZE EVERYTIME - Smash the Piñata 🪅",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ps1-prize-everytime-smash-the-pinata",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "1a9a0a6fd17a91b5e47d829dd37119a6fc71ed42b87842d69440070be6818189",
+    "drand_seed_hash": "85fa0ecd93dc78288cbae20ff838344e3860b18453547f3940a8fa1b45aee6cbe6573b9a60acf3602bbd726a97940650",
+    "client_seed": "1788121023463",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7003,
+    "max_tickets": 60000,
+    "combined_hash": "47d929b2af74d5b121ee5f192e8b07222e3331f6e564b1530c9c94170938b214",
+    "result": "7048",
+    "external_round_id": "31772555",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:17:03.000000Z",
+    "revealed_at": "2026-08-30T20:17:09.000000Z"
+}
