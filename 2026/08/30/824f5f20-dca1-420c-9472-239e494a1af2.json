@@ -1,0 +1,22 @@
+{
+    "round_id": "824f5f20-dca1-420c-9472-239e494a1af2",
+    "draw_title": "Taste The Rainbow - £2000 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/taste-the-rainbow",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "ef6a947c2dc273e63f0edfa3dab521f68aab5d635eeda4966aecdd14ff2a094e",
+    "drand_seed_hash": "b00c04c139594ba4b8ff6e868886172d9cbf84ee1674539ad79ed6a5985f32adeb9401e5f86e9b84aa556fbce37d1da2",
+    "client_seed": "1788119116478",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125405,
+    "max_tickets": 200000,
+    "combined_hash": "a9c5b7cdfc7755b9d21f387836ddd4a93d3b1209faf6f77f38f3114924b0217a",
+    "result": "172970",
+    "external_round_id": "31771920",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:45:16.000000Z",
+    "revealed_at": "2026-08-30T19:45:24.000000Z"
+}
