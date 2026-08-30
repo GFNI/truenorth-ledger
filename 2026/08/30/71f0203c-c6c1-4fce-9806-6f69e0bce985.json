@@ -1,0 +1,22 @@
+{
+    "round_id": "71f0203c-c6c1-4fce-9806-6f69e0bce985",
+    "draw_title": "FREE £100 THE RANGE VOUCHER!",
+    "competition_url": "https://expcomps.com/admin/products/free-ps100-the-range-voucher",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "c12f824a8890d9faccfa6da10ac00916be38dc06e61735cd8fdd82486fea4408",
+    "drand_seed_hash": "a48ec635fe354b3698d4bc177bcea21df7c6021c1977e8b7ca62c43715c80ee8679f289d1a5d674a41cb531510dd33ed",
+    "client_seed": "1788120663631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 312,
+    "max_tickets": 10000,
+    "combined_hash": "83f7248954957a9e40adb4895aced2e634f3f8c6751b3e95d34f6adb9a92ac4f",
+    "result": "1252",
+    "external_round_id": "31772435",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:11:03.000000Z",
+    "revealed_at": "2026-08-30T20:11:09.000000Z"
+}
