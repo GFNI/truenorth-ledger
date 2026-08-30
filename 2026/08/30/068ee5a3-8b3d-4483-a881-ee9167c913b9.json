@@ -1,0 +1,22 @@
+{
+    "round_id": "068ee5a3-8b3d-4483-a881-ee9167c913b9",
+    "draw_title": "Whisky Business & Blow Up Bonanza Bank Holiday FREEBIE!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/bhf",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "bc2cd9cbc37fcdbe9471035994ffa12143b4373b6f5b283821e00052f1bba7c2",
+    "drand_seed_hash": "8ad52d4ef4d2c262a88666a6d7c8c119fe59bf714331822769746b3a4ba31b94b9b917a12238de0d2ff6b297115bc67a",
+    "client_seed": "1788118592840",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 150,
+    "combined_hash": "6e292d57615e66973354f12af802a6bbd5ac5d84724324b12f19dbf7075fd11b",
+    "result": "119",
+    "external_round_id": "31771745",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:36:32.000000Z",
+    "revealed_at": "2026-08-30T19:36:39.000000Z"
+}
