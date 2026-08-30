@@ -1,0 +1,22 @@
+{
+    "round_id": "e8445f7a-a35b-43cc-8dc5-b355c5dbed15",
+    "draw_title": "Jackery Explorer 100 Plus",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/jackery-explorer-100-plus-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "b80fa65157f4084dc4104d5b0559d07fab9a991f5e0b01af5202010e769a9ba4",
+    "drand_seed_hash": "ae24c1e176f7500d0a05686fd5d8c13a062ad8de55c2934a5274a5bf42ad30fb81077e32bc9451feb58df063733b93ed",
+    "client_seed": "1788117393198",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87,
+    "max_tickets": 250,
+    "combined_hash": "32c49b366d7ef925a8f5424a1c97b44070424854f6ada02f40c8bcca629460c9",
+    "result": "221",
+    "external_round_id": "31771345",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:16:33.000000Z",
+    "revealed_at": "2026-08-30T19:16:39.000000Z"
+}
