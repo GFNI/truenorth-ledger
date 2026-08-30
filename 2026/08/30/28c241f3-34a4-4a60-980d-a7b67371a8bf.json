@@ -1,0 +1,22 @@
+{
+    "round_id": "28c241f3-34a4-4a60-980d-a7b67371a8bf",
+    "draw_title": "SUGAR RUSH",
+    "competition_url": "https://easybigwins.co.uk/admin/products/sugar-rush-3",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "5f410f374767c69463c9281eb95799d6b07875015903fcd09fcdd4876da46e70",
+    "drand_seed_hash": "aa7530e019556c115e2d3e234a5fa063c1f1b1d1815e9413651f87644cdff868cea423f341729382c5185ce442ac7025",
+    "client_seed": "1788121706385",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33427,
+    "max_tickets": 47000,
+    "combined_hash": "5862aacdcfbd1cea886929f19813f6db9c4a18cabb987dca71e138c330cb759d",
+    "result": "37577",
+    "external_round_id": "31772783",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:28:26.000000Z",
+    "revealed_at": "2026-08-30T20:28:33.000000Z"
+}
