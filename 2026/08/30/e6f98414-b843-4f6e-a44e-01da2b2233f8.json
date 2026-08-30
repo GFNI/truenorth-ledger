@@ -1,0 +1,22 @@
+{
+    "round_id": "e6f98414-b843-4f6e-a44e-01da2b2233f8",
+    "draw_title": "£1250 Cash  Sunday auto draw",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/ps1250-cash-sunday-auto-draw",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "25701b2226342336eacc1163e67e1147b40c14558d551951d945978b3e9c76d0",
+    "drand_seed_hash": "90d637a8f989502593249122c7983247fee1275613e6c38974ad0ec12c01cf7ad3efbb8635a32e237023b0de1a0365f7",
+    "client_seed": "1788125151654",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 906,
+    "max_tickets": 1250,
+    "combined_hash": "2f22bf81b7e7c64e41ca8568d989a3b8c2f713aad3d9f5b8410a1151d2031505",
+    "result": "742",
+    "external_round_id": "31773931",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T21:25:51.000000Z",
+    "revealed_at": "2026-08-30T21:25:57.000000Z"
+}
