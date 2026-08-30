@@ -1,0 +1,22 @@
+{
+    "round_id": "9351acf3-0873-4cf6-a894-a988748b3091",
+    "draw_title": "☕ Arctic Marv's Coffee Break ☕",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/arctic-marvs-coffee-break",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "b43a924fd25c827739e2c9c449add85f7c0ce5e06277751f2f807b4a65438b99",
+    "drand_seed_hash": "a66651966224c81206b783dc5da7ba41cf3c1919b9c41fd28e0e3fa6a1d2822597eb9020aca5f4c054184d42c9b2b38b",
+    "client_seed": "1788096670600",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 484,
+    "max_tickets": 3000,
+    "combined_hash": "d78f7d016222e3c748b98b784a3edb95f3ad1d23e4cfa313ba791d3f6c0e375d",
+    "result": "1040",
+    "external_round_id": "31764438",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T13:31:10.000000Z",
+    "revealed_at": "2026-08-30T13:31:18.000000Z"
+}
