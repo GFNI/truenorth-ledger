@@ -1,0 +1,22 @@
+{
+    "round_id": "2062e995-7b4d-402e-81a9-a349a786e14e",
+    "draw_title": "Scooby Doo's Loot",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/scooby-doos-loot",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "00fe7e9d16668a61d48de8a2cad019e9f1bc7fc23384a0f04b2fe04f19b6abe2",
+    "drand_seed_hash": "909f466fa16edf626ae44603f366718a3dc353c4951011b77d3dbe49d59ef6b66e5adbad88bb0901f1b432084267360e",
+    "client_seed": "1788118296367",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 204449,
+    "max_tickets": 790000,
+    "combined_hash": "e7016c5c0fe0036b1f04a61612b420f845629b3d9dc7f3eb7d65bfda9236bb4c",
+    "result": "602248",
+    "external_round_id": "31771646",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:31:36.000000Z",
+    "revealed_at": "2026-08-30T19:31:42.000000Z"
+}
