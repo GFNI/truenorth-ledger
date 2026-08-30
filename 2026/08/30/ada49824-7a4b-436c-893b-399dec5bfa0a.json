@@ -1,0 +1,22 @@
+{
+    "round_id": "ada49824-7a4b-436c-893b-399dec5bfa0a",
+    "draw_title": "500 TICKETS FOR VW TIGUAN",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-vw-tiguan",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "02ffb26c93edd65d52fe663c276ba50b56ac1a8274ee7a824cbd0ca6565a5b83",
+    "drand_seed_hash": "b5f529b3ef79c541ab1093e00084d18aa517d3cbfe6c55f26df9667d10a66fbaeaa11c50c05c3b45963b89376e326bfd",
+    "client_seed": "1788119708396",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "340d89cf30b4e7e93b8f75f48be316228cf9ad66c6fb038bb803d627da3fae03",
+    "result": "525",
+    "external_round_id": "31772117",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:55:08.000000Z",
+    "revealed_at": "2026-08-30T19:55:15.000000Z"
+}
