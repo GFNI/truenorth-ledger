@@ -1,0 +1,22 @@
+{
+    "round_id": "80ba7263-c9b7-4fa1-86fd-74cd713fa67c",
+    "draw_title": "Foobar",
+    "competition_url": "https://maxcomps.com",
+    "operator": {
+        "name": "Max Comps",
+        "website": "https://maxcomps.com",
+        "company_number": "32452352"
+    },
+    "drand_server_seed": "7f3b4c40894ddce26a7bb111cd357ecd1b2202d63185be3b9a38f0eb59979c39",
+    "drand_seed_hash": "9486e5cd18787f1e0274052228c61955708351d4ebabc86bd1d68cb5f3e87353685a8a2d447bf2dd7b32682859912094",
+    "client_seed": "1788091853943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 9324234,
+    "combined_hash": "2f145d9ab673c3777b2e153e5555008b6038358f080d1e44acba105aa135954a",
+    "result": "6978462",
+    "external_round_id": "31762832",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T12:10:54.000000Z",
+    "revealed_at": "2026-08-30T12:11:03.000000Z"
+}
