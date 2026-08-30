@@ -1,0 +1,22 @@
+{
+    "round_id": "d4bfaf61-6ea5-4d30-872a-1f1ed84c4979",
+    "draw_title": "£50,000 TAX FREE CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps50000-tax-free-cash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e4bd08d54b62473e7b162a2abfd49bce86b2edf6eb6fbb993305e409b068adf8",
+    "drand_seed_hash": "b3d8dcae698ea6f3a27e19d2551f09ded9a9480c5806be215b4b3376615cb403dcf82970e781af3758f71c2c4d941002",
+    "client_seed": "1788120923370",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87685,
+    "max_tickets": 99999,
+    "combined_hash": "afd3419eb0fa7548f5df816d8d50617fdbc670ca1a66aeb2ec245aee7ba3d4f1",
+    "result": "40711",
+    "external_round_id": "31772522",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:15:23.000000Z",
+    "revealed_at": "2026-08-30T20:15:30.000000Z"
+}
