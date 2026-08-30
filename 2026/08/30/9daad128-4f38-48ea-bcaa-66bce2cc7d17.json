@@ -1,0 +1,22 @@
+{
+    "round_id": "9daad128-4f38-48ea-bcaa-66bce2cc7d17",
+    "draw_title": "Warhammer Combat Patrol, Two Squads and Vehicle of Choice + Instant Wins #17",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-combat-patrol-two-squads-and-vehicle-of-choice-instant-wins-17",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "aeb59bc4a7463a03c8c0f0bffc16a0e80b9fad1f95d2d5f3d531e3ea15e30f55",
+    "drand_seed_hash": "8e0f0f113751f808169122dd028a18413889ff798ffa8c317149cc47cd266eeb521b82bcd8df0ae73e8283ad032f08fd",
+    "client_seed": "1788126324083",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 360,
+    "max_tickets": 1066,
+    "combined_hash": "6adee4a377d2e0a37ddf7815fb5142f7df121f81727dc9950bf7b1cc94e3c211",
+    "result": "183",
+    "external_round_id": "31774322",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T21:45:24.000000Z",
+    "revealed_at": "2026-08-30T21:45:30.000000Z"
+}
