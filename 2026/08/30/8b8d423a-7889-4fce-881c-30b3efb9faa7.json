@@ -1,0 +1,22 @@
+{
+    "round_id": "8b8d423a-7889-4fce-881c-30b3efb9faa7",
+    "draw_title": "The Wonderful World Of Enhanced - 3 x £300 End Prizes",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/world-of-enhanced",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "7d953348fb6632fb3ef246560e7c424cc9036248e4f670bc99c6c83d23284f36",
+    "drand_seed_hash": "a763f584061957f72087683b79addd2641da78e5bb4dede99c34e4925a51c9925a147330e1d9e53dd4040ac274b16c73",
+    "client_seed": "1788118944629",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15794,
+    "max_tickets": 80000,
+    "combined_hash": "6e1f4ba58daefe073bcdf069802346cc703df087d2fd4a6d3c6d203b64ef8cf6",
+    "result": "43887",
+    "external_round_id": "31771862",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:42:24.000000Z",
+    "revealed_at": "2026-08-30T19:42:30.000000Z"
+}
