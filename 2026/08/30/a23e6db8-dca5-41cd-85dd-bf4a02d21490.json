@@ -1,0 +1,22 @@
+{
+    "round_id": "a23e6db8-dca5-41cd-85dd-bf4a02d21490",
+    "draw_title": "In For A Penny - Win Up To £1K Instantly - £500 End Prize!",
+    "competition_url": "https://expcomps.com/admin/products/in-for-a-penny-win-up-to-ps1k-instantly-ps500-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "b6efaa8dc19d2668a709638222ba32981b046df22813f40eaf1934964e11c486",
+    "drand_seed_hash": "a6bf61f2084f2ecf56192cb0bb28953d1146971ea95675059cff9edc87f96da76333f1518a5a30847da20aadd60fb30b",
+    "client_seed": "1788126046714",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 102551,
+    "max_tickets": 999999,
+    "combined_hash": "742a8421c52e6447fbbcd296ff7fd78919a3842a5d68bb197eb1f1c40fc82d92",
+    "result": "310311",
+    "external_round_id": "31774230",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T21:40:46.000000Z",
+    "revealed_at": "2026-08-30T21:40:56.000000Z"
+}
