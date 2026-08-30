@@ -1,0 +1,22 @@
+{
+    "round_id": "bdbb0a8c-8d17-43b7-9910-1b30a3d8b5f3",
+    "draw_title": "MANCHESTER DERBY @ OLD TRAFFORD",
+    "competition_url": "https://ecnicompetitions.com/admin/products/manchester-derby-at-old-trafford",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "ba0a602578e7bb4138945b248afbac7a1d798c2d46d09c98d3ae7551e4f802d5",
+    "drand_seed_hash": "80f5b4e6456343a4f0387b5a6d3219f6bf5bb5b45cb82a712fd84c6916f302f6ae01d3cb74ce04b1973989d31bb49d13",
+    "client_seed": "1788124170833",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 553,
+    "max_tickets": 2499,
+    "combined_hash": "ab6f6264bae6bf8166e5ae9825d2fc0485713465a02ba523b3e649998d41589e",
+    "result": "1654",
+    "external_round_id": "31773604",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T21:09:30.000000Z",
+    "revealed_at": "2026-08-30T21:09:36.000000Z"
+}
