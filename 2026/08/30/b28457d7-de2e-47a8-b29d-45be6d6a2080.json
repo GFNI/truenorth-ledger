@@ -1,0 +1,22 @@
+{
+    "round_id": "b28457d7-de2e-47a8-b29d-45be6d6a2080",
+    "draw_title": "RAINBOW RUSH + £250 END PRIZE",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/rainbow-rush-ps250-end-prize",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "644e27137bafe782638beec77b28eadfffcf534bc549324d574aa738295b84ef",
+    "drand_seed_hash": "8b092bb000f67dc0aac262f111c251950a4d7b416d34307fee4c9b078d4741dfd266c5bdeb62c21327b1194e4c4425c6",
+    "client_seed": "1788120840638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4841,
+    "max_tickets": 20000,
+    "combined_hash": "5171a4ab6e09f39ee7b4f6063f2de889b3b647697ae94abbba1f9efd06b8c498",
+    "result": "850",
+    "external_round_id": "31772494",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:14:00.000000Z",
+    "revealed_at": "2026-08-30T20:14:06.000000Z"
+}
