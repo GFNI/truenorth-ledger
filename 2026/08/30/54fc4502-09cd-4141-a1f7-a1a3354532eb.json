@@ -1,0 +1,22 @@
+{
+    "round_id": "54fc4502-09cd-4141-a1f7-a1a3354532eb",
+    "draw_title": "UGG TASMAN II✨🤎",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/ugg-tasman-ii",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "438f29bb97194924587ec6abeda22aa2c8bc80ea3240939a26b7521225a218cf",
+    "drand_seed_hash": "98c5c0e936943f650ed1de98d4da1dc2c4297143c2354894825c5555f8ccd802e619a2d21285a57fa9e5bccd21cf9cfa",
+    "client_seed": "1788118625149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1200,
+    "max_tickets": 1200,
+    "combined_hash": "e0b52ac2d12bbb0fd0306449362da8e989c9491c8596c677a848d04d5b9e8ac1",
+    "result": "177",
+    "external_round_id": "31771756",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:37:05.000000Z",
+    "revealed_at": "2026-08-30T19:37:12.000000Z"
+}
