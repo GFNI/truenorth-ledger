@@ -1,0 +1,22 @@
+{
+    "round_id": "02fcb8c8-81da-4a4a-aaf6-25e4fdd7ce5d",
+    "draw_title": "🏡 Scouse House with Joanne Goffey 🏡",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/scouse-house-with-joanne-goffey",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "2ceb7ca70f96b4c55e271d9008f33305d59b7b49b2ad2657ebe3b2a32fe1023f",
+    "drand_seed_hash": "a97438b4e489740798c39807261500bb8102a0ea6463dd6f15409cffdfd4faa633a256f04480f794d3bf127cd09f3b11",
+    "client_seed": "1788096881301",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131116,
+    "max_tickets": 170000,
+    "combined_hash": "746a9ee0354b3e40fa3344ab6c82d5b951a95079ba1657f323cdfc250dee90a1",
+    "result": "88325",
+    "external_round_id": "31764508",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T13:34:41.000000Z",
+    "revealed_at": "2026-08-30T13:34:48.000000Z"
+}
