@@ -1,0 +1,22 @@
+{
+    "round_id": "3f2d2b91-009d-41e5-a99e-494a6825ffaf",
+    "draw_title": "Minelab X-Terra Pro",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/minelab-x-terra-pro-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "485096e5158840d6481849a2507693eeb191b68dccf5bc3b3b396da61d5ace5e",
+    "drand_seed_hash": "8be1e2282f5bbc08aa95113e12b1872600e63d674d123a2fc3c814ac4d64de6b5296123ba184f2795496871a6245af97",
+    "client_seed": "1788117795540",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 420,
+    "combined_hash": "e3f32f2f2bbaf69da51b2af950a758822f6d53506256ce8d5dc5fca4f7a9421a",
+    "result": "340",
+    "external_round_id": "31771479",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:23:15.000000Z",
+    "revealed_at": "2026-08-30T19:23:21.000000Z"
+}
