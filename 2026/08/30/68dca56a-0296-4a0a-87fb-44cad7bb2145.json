@@ -1,0 +1,22 @@
+{
+    "round_id": "68dca56a-0296-4a0a-87fb-44cad7bb2145",
+    "draw_title": "COCA-COLA BASEBALL 1OZ FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/coca-cola-baseball-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c5e98359a09193dcbb9de7b0a210521da56bd3a8aecb9a23ff3d4214eff0166c",
+    "drand_seed_hash": "8014c43730ef90710bb8f5e09c61b89c2243daf02611efafda87475f8262058f83b5acd32b7afa9eb1e2db7b7b213888",
+    "client_seed": "1788130555071",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 150,
+    "combined_hash": "b75d06407a667b9832e277ca3601266621a185764db2d736fc15f9eaaf96825f",
+    "result": "32",
+    "external_round_id": "31775733",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T22:55:55.000000Z",
+    "revealed_at": "2026-08-30T22:56:03.000000Z"
+}
