@@ -1,0 +1,22 @@
+{
+    "round_id": "19a2882d-39eb-4042-99d9-8b3d1de6fb67",
+    "draw_title": "Battlefield Bounty 100+ Instant wins",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/battlefield-bounty-100-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c67c962576136cb7bfb3f5d7187e735ef31b736701dbd950d9901d026c648d25",
+    "drand_seed_hash": "b7ba5ca73d01844b4f65a0831fa5ca4e070f2b5823271452e18138603ebee944eb7db1eade2a60963f3a14fdcd6290c9",
+    "client_seed": "1788118907928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1632,
+    "max_tickets": 10000,
+    "combined_hash": "4b27399b44a8b6a366241f029dd9567d3cad021cc054a02087dac539b6974da3",
+    "result": "4092",
+    "external_round_id": "31771850",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:41:48.000000Z",
+    "revealed_at": "2026-08-30T19:41:54.000000Z"
+}
