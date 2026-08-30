@@ -1,0 +1,22 @@
+{
+    "round_id": "1dd21b80-bc0e-49f8-b2c4-bcbbb85cb73d",
+    "draw_title": "THE GALÁCTICOS",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/the-galacticos",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c23c7873fd5aa8de66f12225e89f17689b4fbbbb522eff7a6d4ce78ebc9a778b",
+    "drand_seed_hash": "b51a9d9275e5d6fa5f32e9b3c8efcdc1f079321dfd512b1bebb38a8fa628ffec44d8b4b13a665b592d3e2c4221f0cd38",
+    "client_seed": "1788118572999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 461,
+    "max_tickets": 1300,
+    "combined_hash": "465665e342399988968efa92a712a354989a48ae08ec54c0b0588cdc0c98c8e9",
+    "result": "855",
+    "external_round_id": "31771739",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:36:13.000000Z",
+    "revealed_at": "2026-08-30T19:36:21.000000Z"
+}
