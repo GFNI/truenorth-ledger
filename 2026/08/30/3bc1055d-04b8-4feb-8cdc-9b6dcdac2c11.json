@@ -1,0 +1,22 @@
+{
+    "round_id": "3bc1055d-04b8-4feb-8cdc-9b6dcdac2c11",
+    "draw_title": "WIN EXTRA TICKETS INTO 15K COMP!! (x2 END PRIZE WINNERS OF 5,000 TICKETS) 30/08",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-extra-tickets-into-15k-comp-x2-end-prize-winners-of-5000-tickets-3008",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "e949562be54fada00d427486810a03e07b3cfc3cadc45055d66755afad51828d",
+    "drand_seed_hash": "9724b24666e2b09e7d1a5e0d5850241dc46f34dc7d30b82536a70d5691431e6787981a1c3283369e3cd09ff0d9981fed",
+    "client_seed": "1788120669747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 219941,
+    "max_tickets": 1500000,
+    "combined_hash": "00738beef58241e8e08503e72372cecd4c746342b41363baaaf06a401bac29c4",
+    "result": "116353",
+    "external_round_id": "31772437",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:11:09.000000Z",
+    "revealed_at": "2026-08-30T20:11:15.000000Z"
+}
