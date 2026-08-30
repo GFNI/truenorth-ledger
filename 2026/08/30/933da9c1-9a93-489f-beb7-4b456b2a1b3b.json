@@ -1,0 +1,22 @@
+{
+    "round_id": "933da9c1-9a93-489f-beb7-4b456b2a1b3b",
+    "draw_title": "Mighty Astra Militarum",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/mighty-astra-militarum",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "641c8cebcca6972639d63a05b0f7e38122653b35856aa3829d611391ab5dd8f7",
+    "drand_seed_hash": "b9de39866d7d511e5989b4f1478dd02d8836adf8dd6803c75cae4243bdfde091f7c1541e656e9e4672ddac0d086091e3",
+    "client_seed": "1788118817598",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1373,
+    "max_tickets": 4000,
+    "combined_hash": "963505586e2871fc363936a221d332fb21fb4b2282973c342747a687d245ee71",
+    "result": "407",
+    "external_round_id": "31771820",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T19:40:17.000000Z",
+    "revealed_at": "2026-08-30T19:40:24.000000Z"
+}
