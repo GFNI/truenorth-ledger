@@ -1,0 +1,22 @@
+{
+    "round_id": "e5af911e-ce9f-4eba-8952-bf1fd97e2be4",
+    "draw_title": "Lucky Penny | £50 Main Prize | £6950 Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/lucky-penny",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "99c4d502d354ee8a20d3eb65699716ceafaecb338049114aa3da5b1c75a3a1d1",
+    "drand_seed_hash": "a00867e8aba8292c2b89633d0bd54db5f6eeca2062c5c040032a8276652c12fa871f1d8dcb61ffa5fc8aa784456bf02c",
+    "client_seed": "1788120459290",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 370758,
+    "max_tickets": 999999,
+    "combined_hash": "5d0e90cc6ea10771d237effefc20368e57f39fdfae2a844c4939559e2f3d9c15",
+    "result": "996357",
+    "external_round_id": "31772367",
+    "processing_status": "completed",
+    "created_at": "2026-08-30T20:07:39.000000Z",
+    "revealed_at": "2026-08-30T20:07:45.000000Z"
+}
