@@ -1,0 +1,22 @@
+{
+    "round_id": "175eda68-b09d-4622-b4a0-ce087a563870",
+    "draw_title": "🎯TARGET Omni Ultimate Home Dartboard Bundle",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/target-omni-ultimate-home-dartboard-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7cc6384958dc0b2f8e61fc94ccfed732d1b7753cf00a341acda8eaef2fdb6c99",
+    "drand_seed_hash": "abfdba019581ef702f9831fa44ef8a50e36f4e6ba2506937a5d2f913dfa0a61dd843ef66b89102bff17a657b29d0552f",
+    "client_seed": "1788203128687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 987,
+    "max_tickets": 1500,
+    "combined_hash": "eeb1f45b79fd172a66d5c62de6ef96974cac70c070a6a11500e792dfb229520e",
+    "result": "991",
+    "external_round_id": "31799924",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:05:28.000000Z",
+    "revealed_at": "2026-08-31T19:05:36.000000Z"
+}
