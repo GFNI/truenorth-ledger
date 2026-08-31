@@ -1,0 +1,22 @@
+{
+    "round_id": "a020f60e-badd-4bb1-bf36-8f5893d4e8fd",
+    "draw_title": "LOUIS VUITTON ALMA BB IN BLACK 👜",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/louis-vuitton-alma-bb-in-black",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "549da81f06c4d425ec6076f759fecc1e25f4e2ce8d50e4047d5a1bc7a960c3df",
+    "drand_seed_hash": "92672e3fa55085e84d199cd7c427e29abc735f549e160aa0613ed2bc0a350f2759ba589358dbf1127a89ec1df9dce8e1",
+    "client_seed": "1788203933839",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1883,
+    "max_tickets": 2500,
+    "combined_hash": "113776e994e9b8f7b5e58ae5a086d2901df9e8b07aa9dc15b29ffc703bb91823",
+    "result": "1174",
+    "external_round_id": "31800192",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:18:53.000000Z",
+    "revealed_at": "2026-08-31T19:19:02.000000Z"
+}
