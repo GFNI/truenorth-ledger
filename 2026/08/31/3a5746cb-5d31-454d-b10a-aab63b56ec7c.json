@@ -1,0 +1,22 @@
+{
+    "round_id": "3a5746cb-5d31-454d-b10a-aab63b56ec7c",
+    "draw_title": "£100 Home Bargains & £100 B&M",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps100-home-bargains-ps100-bm-gift-card",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1f2b99ca53c48bd6edce38a7c2f35a4ecb395272e1cdb3874dbc262a54579933",
+    "drand_seed_hash": "b483e578a1b7e914a0d030743375202b8a799a8591a69f766b07aa3e30bf7152dba010e0883d2ed595233bb35486dd7f",
+    "client_seed": "1788211192646",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 3830,
+    "combined_hash": "09385a1b6634cb21c92c0ad837d8c16ae72fe1cff23b1bd5df10c26b11f17964",
+    "result": "2138",
+    "external_round_id": "31802612",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T21:19:52.000000Z",
+    "revealed_at": "2026-08-31T21:20:02.000000Z"
+}
