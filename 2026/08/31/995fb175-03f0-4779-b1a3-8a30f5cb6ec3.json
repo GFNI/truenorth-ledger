@@ -1,0 +1,22 @@
+{
+    "round_id": "995fb175-03f0-4779-b1a3-8a30f5cb6ec3",
+    "draw_title": "🔴ODDS BOOSTER - 500 ENTRIES INTO THE GOLF R #2",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-500-entries-into-the-golf-r-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "14e85b7045885e5e8a2434120066df4d1f9cc1433e8bf106ad6e150093450bae",
+    "drand_seed_hash": "83882483c34b00065aec851d58af209790890122555483fa9e6523260df53a61dc33b085048b5539af0cc9d701167efe",
+    "client_seed": "1788197812889",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 650,
+    "combined_hash": "9bc9d38d987cbf0742a255d938e56876cfb9ef20b2a8ed872de7377b0624dc3e",
+    "result": "464",
+    "external_round_id": "31798152",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T17:36:52.000000Z",
+    "revealed_at": "2026-08-31T17:37:00.000000Z"
+}
