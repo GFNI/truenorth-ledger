@@ -1,0 +1,22 @@
+{
+    "round_id": "bd9e3aaf-5326-4398-81af-14e3aef6190c",
+    "draw_title": "Win £100!",
+    "competition_url": "https://lornaselitecomps.uk/admin/products/win-ps100",
+    "operator": {
+        "name": "Lorna's Elite Comps LTD",
+        "website": "https://lornaselitecomps.uk",
+        "company_number": "17204577"
+    },
+    "drand_server_seed": "a44671e41e7c1a1ba29d14d2140d132528d8c35f91227dd32d3d68e405292447",
+    "drand_seed_hash": "8cd9eef2892a2c92b3feb6248a280d796f72fe3a8532e5e6b00377ee78b30cd3017ec83abd211b38a703b17d0e6b0f4c",
+    "client_seed": "1788207072856",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 200,
+    "combined_hash": "e855f7688f2d68d3407cd11a79aa5b31283f6a16a0e4fee2df9b47f85ff46c3d",
+    "result": "49",
+    "external_round_id": "31801238",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:11:12.000000Z",
+    "revealed_at": "2026-08-31T20:11:18.000000Z"
+}
