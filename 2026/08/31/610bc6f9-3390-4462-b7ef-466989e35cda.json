@@ -1,0 +1,22 @@
+{
+    "round_id": "610bc6f9-3390-4462-b7ef-466989e35cda",
+    "draw_title": "5 x £50",
+    "competition_url": "https://ogcompetitions.co.uk/lists/5-x-winners-of-ps50-site-credit",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "49813e9c2d9dcfec3891eafc14b0ed0037a7ec06c6a5b9383835c6d4a7dbc054",
+    "drand_seed_hash": "8112444433e27009133029a478fdc900e05126315d7e69d4f92537e4b7717ea3405319dfd984ff20ad3a487ee42357b5",
+    "client_seed": "1788210831786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 8000,
+    "combined_hash": "be6b2a0cb93fc54a5e2e85cd19d33cefdf85f37bda690d7626e8dac1ef7abaab",
+    "result": "2687",
+    "external_round_id": "31802491",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T21:13:51.000000Z",
+    "revealed_at": "2026-08-31T21:14:01.000000Z"
+}
