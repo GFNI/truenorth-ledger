@@ -1,0 +1,22 @@
+{
+    "round_id": "3b012848-ce35-4f7d-bb8d-b17e2e3fb51c",
+    "draw_title": "2021 ELVIS PRESLEY ‘THE KING OF ROCK AND ROLL’ 1oz FINE SILVER PLECTRUM COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2021-elvis-presley-the-king-of-rock-and-roll-1oz-fine-silver-plectrum-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c2cf5fb7c7a65d92f9527fe3ac8d65eba85b99e90fb11bb93ab07b7b2ff27c16",
+    "drand_seed_hash": "a2b1e354433ab3d60fcd46db36b3779186537a7218f94b5d34a5d4c2891d63146f766982c7efba0e401390a759bfaa43",
+    "client_seed": "1788216948731",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 150,
+    "combined_hash": "43a6cd4b3850fcca0bbf14541ca4a03ed23c549b81c79d947bad9d5b420baf77",
+    "result": "94",
+    "external_round_id": "31804530",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T22:55:48.000000Z",
+    "revealed_at": "2026-08-31T22:55:54.000000Z"
+}
