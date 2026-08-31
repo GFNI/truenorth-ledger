@@ -1,0 +1,22 @@
+{
+    "round_id": "a7fb8ec2-f190-49c4-a9de-33d58da1d93b",
+    "draw_title": "THE DISCOVERY OF RMS TITANIC 40TH ANNIVERSARY 5OZ FINE SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/the-discovery-of-rms-titanic-40th-anniversary-5oz-fine-silver-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "cc44faf545a6c9de4786e0bdb98b51233fed0e39465a58b6aad9f424fd726cd0",
+    "drand_seed_hash": "a000bea6e1a65a612d2d3707952d0c676366fea02f77c67b926716958560933afc907f05dc716f54a8f51db58da5f908",
+    "client_seed": "1788216964067",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 509,
+    "max_tickets": 750,
+    "combined_hash": "2b23fc5e464263e0248f4805c91c6e0b15cfcc9542e724fcaf0fa81d2c2bfbf2",
+    "result": "380",
+    "external_round_id": "31804536",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T22:56:04.000000Z",
+    "revealed_at": "2026-08-31T22:56:12.000000Z"
+}
