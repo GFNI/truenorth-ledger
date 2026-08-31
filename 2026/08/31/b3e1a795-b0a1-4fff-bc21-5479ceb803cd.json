@@ -1,0 +1,22 @@
+{
+    "round_id": "b3e1a795-b0a1-4fff-bc21-5479ceb803cd",
+    "draw_title": "CREED AVENTUS 100ML",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/creed-aventus-100ml",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fd20acefa27fe33ece9462b79a09be46d8483e62c771ac2fde9f187a51b101f6",
+    "drand_seed_hash": "b5ac374a60140369032e781c5a8b3ce48821d3aa4b3a414d8de0a3658f9c99429c126901ae8fab11032cd59f39755005",
+    "client_seed": "1788203326665",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1800,
+    "max_tickets": 1800,
+    "combined_hash": "a4fff9124561151ce954b855e4e372ed1790c633cc85220562f5ad0b81092ebf",
+    "result": "597",
+    "external_round_id": "31799990",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:08:46.000000Z",
+    "revealed_at": "2026-08-31T19:08:54.000000Z"
+}
