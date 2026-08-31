@@ -1,0 +1,22 @@
+{
+    "round_id": "47b5dbba-d8d7-4a75-bc80-0cf0f917b417",
+    "draw_title": "Win a JACKERY Explorer 300D Portable Power Station with 40 W Mini Solar Panel",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-jackery-explorer-300d-portable-power-station-with-40-w-mini-solar",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "32ce91b0a8799ca9d64d3886c50ca2b7fdeb65f5e14962e70009d1f7f9be8d14",
+    "drand_seed_hash": "a30bf5bc5d7715a0c5327dc13f89017eaf98c51e17de0356058f8e3d64492b3e28e5bcfaeea2275b5d7ede23470cfc23",
+    "client_seed": "1788205030173",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 719,
+    "max_tickets": 719,
+    "combined_hash": "69b232fd77508083ada48965d05b1b2e9c8aff155e4cb40044b2da251a389a15",
+    "result": "429",
+    "external_round_id": "31800558",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:37:10.000000Z",
+    "revealed_at": "2026-08-31T19:37:18.000000Z"
+}
