@@ -1,0 +1,22 @@
+{
+    "round_id": "552ec1c8-d7f1-405a-9ca5-4a703fb60be2",
+    "draw_title": "WIN A SEGWAY-NINEBOT E3 Pro E Electric Scooter!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-segway-ninebot-e3-pro-e-electric-scooter",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "5560ceba9cbef427ed89c2d790d939d67eb2d0f454c32f5b7fac35ce7801f9e8",
+    "drand_seed_hash": "b04b9d135e8edfdbeb6abcf532921a7c4100bd429f535ffbfe28ae43ced0fd9eacfd8bce6daf9d52e398543106ff8804",
+    "client_seed": "1788204795882",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 849,
+    "combined_hash": "7de7a4d33d7ecfb6f4c4185d0a736ef140a13cf03fe0f50d459ac4a94eeec6c0",
+    "result": "723",
+    "external_round_id": "31800478",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:33:15.000000Z",
+    "revealed_at": "2026-08-31T19:33:18.000000Z"
+}
