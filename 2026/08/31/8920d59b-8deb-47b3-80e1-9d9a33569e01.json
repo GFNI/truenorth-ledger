@@ -1,0 +1,22 @@
+{
+    "round_id": "8920d59b-8deb-47b3-80e1-9d9a33569e01",
+    "draw_title": "NINJA Luxe Café Pro by David Beckham ES771UKBK Bean to Cup Coffee Machine - Black & Gold",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-luxe-cafe-pro-by-david-beckham-es771ukbk-bean-to-cup-coffee-machine",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "99b1d425d6566c61c80311702af75505cbf578c085665d1b9ee0be1283cfde98",
+    "drand_seed_hash": "b6e2b8ff555cbd8f61ba5e0416f4dbc02b0d2ca836863730a2ad4aa035999ac00bbfd2d88a2e0b0ad7861f66a9535753",
+    "client_seed": "1788203836171",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "49d22cbcccfdf231703c0efc6cdbffaad47d6de741663463940cdf032fb3b7d6",
+    "result": "1026",
+    "external_round_id": "31800160",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:17:16.000000Z",
+    "revealed_at": "2026-08-31T19:17:24.000000Z"
+}
