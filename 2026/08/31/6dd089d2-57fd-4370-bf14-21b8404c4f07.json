@@ -1,0 +1,22 @@
+{
+    "round_id": "6dd089d2-57fd-4370-bf14-21b8404c4f07",
+    "draw_title": "5 x £50 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/5-x-winners-of-ps50-site-credit",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "ed74db3bf717c1f529eb31730a4b766ff2c7463fb2ecfd580c71bdb99deed6de",
+    "drand_seed_hash": "af27170542638c18b9f86a719091a954f5e2fcb326b3fff2e4d7e0403d925597aa468c49723ddc4b5c280cbc653709e8",
+    "client_seed": "1788211065638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 8000,
+    "combined_hash": "df5d9ca91c5d424d80c45c26406bc23c2e9bdde66e3247d0cf0f9bdc9a5d116e",
+    "result": "5152",
+    "external_round_id": "31802569",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T21:17:45.000000Z",
+    "revealed_at": "2026-08-31T21:17:51.000000Z"
+}
