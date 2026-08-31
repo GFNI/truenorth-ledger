@@ -1,0 +1,22 @@
+{
+    "round_id": "6eafa17d-bca2-47f7-880a-10b8383ff062",
+    "draw_title": "Adventure drop instant win comp!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/adventure-drop-instant-win-comp-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "747d71a5f713a216babaa47288300e75bf0c192baa890a0644f980fb30098c16",
+    "drand_seed_hash": "a69f677f3dc1c777b35444c69181e04daf6813169d89b973c35df875f5b3fc978411ab4afa9a92e45c30e7d6e9d971a9",
+    "client_seed": "1788203873736",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5023,
+    "max_tickets": 7399,
+    "combined_hash": "4d2943035c232b5e88531f9a1ca55c837331e5300bfbebd35074c56c7dbacb9d",
+    "result": "2731",
+    "external_round_id": "31800172",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:17:53.000000Z",
+    "revealed_at": "2026-08-31T19:18:00.000000Z"
+}
