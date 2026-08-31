@@ -1,0 +1,22 @@
+{
+    "round_id": "2a54e212-0fbf-4b00-b34b-9d09ff7034f0",
+    "draw_title": "Win and Grin Summer Wins",
+    "competition_url": "https://winandgrin.co.uk/admin/products/win-and-grin-summer-wins",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "8c4359cc7356f7d6776b2661dd3ca864175c3461d2293338ae14b3b139c24cfb",
+    "drand_seed_hash": "91b7ecee6b8a032ba304a33eb6bc5e125b8103fff8827080c26be8e6c08d50e09a59139dd6344fbae3f7be7d0397c7dc",
+    "client_seed": "1788207115549",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3545,
+    "max_tickets": 10900,
+    "combined_hash": "42de25313fca7ed80a93ebf7cf10e98e94bcdfa3c0e8bd093833d272f6bcccde",
+    "result": "2115",
+    "external_round_id": "31801253",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:11:55.000000Z",
+    "revealed_at": "2026-08-31T20:12:03.000000Z"
+}
