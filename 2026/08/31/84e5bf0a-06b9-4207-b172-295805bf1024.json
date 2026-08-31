@@ -1,0 +1,22 @@
+{
+    "round_id": "84e5bf0a-06b9-4207-b172-295805bf1024",
+    "draw_title": "Ethan Overtons Golf R + £2k 🇯🇵",
+    "competition_url": "https://raffles4u.uk/admin/products/ethan-overtons-golfr",
+    "operator": {
+        "name": "GFOW LTD",
+        "website": "https://raffles4u.uk",
+        "company_number": "15978897"
+    },
+    "drand_server_seed": "323a60f3672b95d9589bdabc5163fecddf0cbe2997479870ca875acabdee8922",
+    "drand_seed_hash": "9086eb234db922393e59cd803e73864b202e02b6974f2b606ecb3c601d51305345cf12980ec1b9d5f970d3bf8f1a019b",
+    "client_seed": "1788201651552",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67561,
+    "max_tickets": 260000,
+    "combined_hash": "73eed52623ed986d578b96702784903d06f84a19bfc6991834e040ba98ea74ca",
+    "result": "254420",
+    "external_round_id": "31799431",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T18:40:51.000000Z",
+    "revealed_at": "2026-08-31T18:40:57.000000Z"
+}
