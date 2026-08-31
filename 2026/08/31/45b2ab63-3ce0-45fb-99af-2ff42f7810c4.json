@@ -1,0 +1,22 @@
+{
+    "round_id": "45b2ab63-3ce0-45fb-99af-2ff42f7810c4",
+    "draw_title": "Its Raining Gaming",
+    "competition_url": "https://chaotic.co.uk/competition/its-raining-gaming-1888",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8e0857ff98ca43d64177e06b6384276db8fd41421ebb9470a0ade1534d2caf01",
+    "drand_seed_hash": "8975d115a1b55404d07aee4fb82f7e7d4d47f350324d24882b3e13a992711636019f9b210bb2598e3af9eae2a978da06",
+    "client_seed": "1788205735349",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "91bc58d5d95651956a7d43384c0651bbc9e6ec677028e3a69aafdc648ba69900",
+    "result": "62450",
+    "external_round_id": "31800793",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:48:55.000000Z",
+    "revealed_at": "2026-08-31T19:49:03.000000Z"
+}
