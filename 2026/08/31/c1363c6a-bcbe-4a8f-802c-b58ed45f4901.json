@@ -1,0 +1,22 @@
+{
+    "round_id": "c1363c6a-bcbe-4a8f-802c-b58ed45f4901",
+    "draw_title": "🔨Whack-A-Mole Instant Win 🔨",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/whack-a-mole-instant-win",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "23154a1a7fd50c2c893b2725ae20ce8bef138f2ac09db319b1dc3f48c68fb67d",
+    "drand_seed_hash": "a0b9fd895bf9d3ba74d02df2f01ee4dddcefd6474636974bb953917bc7a9a2835dae5eecaf81795a89072097d155aeb7",
+    "client_seed": "1788207051413",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143929,
+    "max_tickets": 900000,
+    "combined_hash": "5f32e6f67beefa785987785bd80b2af99f932f3d608d838f282ace98f2f7f0c5",
+    "result": "481312",
+    "external_round_id": "31801231",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:10:51.000000Z",
+    "revealed_at": "2026-08-31T20:10:57.000000Z"
+}
