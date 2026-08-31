@@ -1,0 +1,22 @@
+{
+    "round_id": "fb5b1bfe-c8f0-4cd4-a102-c0c652054207",
+    "draw_title": "2p Cash Dash",
+    "competition_url": "https://chaotic.co.uk/competition/2p-cash-dash-7778",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "24762cea93e4289c70178e7ca0156259bc13289d09544950bd81187e4555eec5",
+    "drand_seed_hash": "800a511ae74fcc59f21d8f4f4a70016175d86ac865b642f61bdd8d1d69a18e37720956a521c4f2f5684b95162666dd93",
+    "client_seed": "1788205494079",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3999999,
+    "max_tickets": 3999999,
+    "combined_hash": "9d7882f60901bfdcdd34d5ab0c22981a9bab0cdd1374bf571cd0f5eaf915bdb4",
+    "result": "3746727",
+    "external_round_id": "31800712",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:44:54.000000Z",
+    "revealed_at": "2026-08-31T19:45:00.000000Z"
+}
