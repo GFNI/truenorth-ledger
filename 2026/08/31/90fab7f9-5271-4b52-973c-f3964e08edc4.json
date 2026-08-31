@@ -1,0 +1,22 @@
+{
+    "round_id": "90fab7f9-5271-4b52-973c-f3964e08edc4",
+    "draw_title": "Bonus Buy Bonanza 💫",
+    "competition_url": "https://redlemonx.co.uk/admin/products/bonus-buy-bonanza1",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "76fae1360065188734ba7537592ab467fedabeb4533faa9504d2afc3364097e0",
+    "drand_seed_hash": "823d03c98d09b308f31a2c6d141a8418237e29540c3893e13161c43cff59d680733f724540503c7769c2243bc98f12db",
+    "client_seed": "1788207085226",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 75,
+    "combined_hash": "91817361ab593b0f548959373ed9a787a6a3f91387cc6f2e8c87ef4a326406be",
+    "result": "37",
+    "external_round_id": "31801243",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:11:25.000000Z",
+    "revealed_at": "2026-08-31T20:11:33.000000Z"
+}
