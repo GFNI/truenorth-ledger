@@ -1,0 +1,22 @@
+{
+    "round_id": "845776bb-22cf-4a12-911c-cb7e70c9d0e8",
+    "draw_title": "Luck Of The Irish",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/luck-of-the-irish-1",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "f15d773024ed0a715a386a714c884046949eb0537cf8602a7eef9111237565c5",
+    "drand_seed_hash": "8f3160993fb61503cd829f451903d1db9594bc151bc8cfa4ec9d3b33064a27b5afb7e31d45b0be3acbcb216726e23019",
+    "client_seed": "1788212448568",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98236,
+    "max_tickets": 200000,
+    "combined_hash": "2411c9d20ceade75c34b371fa3304265c572a0e1d6fc427f1e5eb4828c433d9d",
+    "result": "192485",
+    "external_round_id": "31803030",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T21:40:48.000000Z",
+    "revealed_at": "2026-08-31T21:40:54.000000Z"
+}
