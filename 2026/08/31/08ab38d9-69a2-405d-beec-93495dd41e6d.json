@@ -1,0 +1,22 @@
+{
+    "round_id": "08ab38d9-69a2-405d-beec-93495dd41e6d",
+    "draw_title": "BALLYMENA HYROX £500 RAFFLE!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ballymena-hyrox-ps500-raffle",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "6d2a1e7e6cef5e174c7f4ddc98e2d2e7bd3fe885d83bb9ec94041e720cfeb6ab",
+    "drand_seed_hash": "a1861c011987077e5a0dbd98260eb0f5294fb86ac4b418436413460d50c0d0b1bd3a58243c8711ba365a2254fa98cf2c",
+    "client_seed": "1788196831437",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 1000,
+    "combined_hash": "67997904b7681494a82f061f259179774abb0e4be0903e735c6a33e6f9c09892",
+    "result": "992",
+    "external_round_id": "31797825",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T17:20:31.000000Z",
+    "revealed_at": "2026-08-31T17:20:39.000000Z"
+}
