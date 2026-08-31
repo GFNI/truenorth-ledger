@@ -1,0 +1,22 @@
+{
+    "round_id": "c32add45-ec99-47fb-a17b-7b697c22726c",
+    "draw_title": "MONDAY DAILY CASH DRAW - £300",
+    "competition_url": "https://geardowncompetitions.com/admin/products/monday-daily-cash-draw-ps300",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "5ce5acf5357fce3f945ea4be40793a97bbaeb075f7d40c16db6cd9acb4a4c52e",
+    "drand_seed_hash": "b5380db1a35d19b53ffe3c222709ffda8ae0696aa206f08c27cd0b006d2386f03f624647bcaabe9b17d3f0a4b7050396",
+    "client_seed": "1788180389612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1525,
+    "max_tickets": 1999,
+    "combined_hash": "c5e388088bd8e4a199987ca82c382fab9eef1626f941d931e80c87a110f2c904",
+    "result": "564",
+    "external_round_id": "31792344",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T12:46:29.000000Z",
+    "revealed_at": "2026-08-31T12:46:38.000000Z"
+}
