@@ -1,0 +1,22 @@
+{
+    "round_id": "9f811810-e1f8-4d56-8746-cb535a06ec64",
+    "draw_title": "MONDAY MOOLAH",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/monday-moolah-5",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "31a79cbb05b7b611afafb3baa06c38ea979375ead9c011e055afaad4553f7d39",
+    "drand_seed_hash": "846cd6ea4d1ff98b2970a25fc14e1fbae08919eb72cd41eb3d0b754499bd079be82a82863e45ab951e655c1e8475a84f",
+    "client_seed": "1788214248915",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44,
+    "max_tickets": 100,
+    "combined_hash": "3b5fa7dd96727d0e09798a0df0fb38d9287f2f8314bbde502e3cdb743223a288",
+    "result": "28",
+    "external_round_id": "31803630",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T22:10:48.000000Z",
+    "revealed_at": "2026-08-31T22:10:54.000000Z"
+}
