@@ -1,0 +1,22 @@
+{
+    "round_id": "c33529ae-7acb-42d6-9f2c-7a039ccd236d",
+    "draw_title": "10g Britannia Gold Bar (New Design) | The Royal Mint",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/10g-britannia-gold-bar-new-design-the-royal-mint",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "5b0efa190e66d6f3855ab465f1576667d66198e56fa48609ca0744638ea5a446",
+    "drand_seed_hash": "b7d4369dd419b30ec399337e40590223248e20eb9c522eac220292ffc5cc9fd805337e83a8ebace84280546c28b793b8",
+    "client_seed": "1788203462448",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1800,
+    "max_tickets": 1800,
+    "combined_hash": "e6f8e190a2f05aa23ee4fae90120a9e0e699a3b8e854ec980e2d8cce6b5a1247",
+    "result": "1223",
+    "external_round_id": "31800035",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:11:02.000000Z",
+    "revealed_at": "2026-08-31T19:11:09.000000Z"
+}
