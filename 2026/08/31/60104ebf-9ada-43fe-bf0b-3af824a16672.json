@@ -1,0 +1,22 @@
+{
+    "round_id": "60104ebf-9ada-43fe-bf0b-3af824a16672",
+    "draw_title": "£1k a month for 1 year or £10,000 cash",
+    "competition_url": "https://jetcomps.co.uk/admin/products/1kpm-or-10k",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "d3d9daf09c26a47aefa01c4e188977ddeb36586c191f78907072d9745174be37",
+    "drand_seed_hash": "a0f09e5a80a16f674a41a0e054c062ef16de403dd82d0eebf1c8202e45fe32225036587388a1e67a7b46e7582ed41a63",
+    "client_seed": "1788205507642",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201127,
+    "max_tickets": 472499,
+    "combined_hash": "82652180a593a1de5ff17bb4903dcaef1e8201a7b87b296de2d2e31cb5fc6766",
+    "result": "274372",
+    "external_round_id": "31800717",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T19:45:07.000000Z",
+    "revealed_at": "2026-08-31T19:45:15.000000Z"
+}
