@@ -1,0 +1,22 @@
+{
+    "round_id": "a42dc03e-e6d9-4a07-8e96-8fc355a806d2",
+    "draw_title": "THE SPARK ULTIMATE INSTANT WIN COMP",
+    "competition_url": "https://sparkcompetitions.com/admin/products/the-spark-ultimate-instant-win-comp",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "ad7c43688bd7f39d984efffb3afaaf2f2b24534879899509d4817eebb15f2d9e",
+    "drand_seed_hash": "8a97303d7eebcfe6c45c3d0ecb6f0a12d305b8f31a91b7166f7cf4f3744ec8d96b1f1bb18989a1705487e142f6b06abf",
+    "client_seed": "1788207102713",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57911,
+    "max_tickets": 220000,
+    "combined_hash": "406ecf5c09e4a5f207157b5988362acc40916385a5521e0076f21dd3673da7d1",
+    "result": "158049",
+    "external_round_id": "31801248",
+    "processing_status": "completed",
+    "created_at": "2026-08-31T20:11:42.000000Z",
+    "revealed_at": "2026-08-31T20:11:48.000000Z"
+}
