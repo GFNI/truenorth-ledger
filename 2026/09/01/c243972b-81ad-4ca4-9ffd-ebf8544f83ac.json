@@ -1,0 +1,22 @@
+{
+    "round_id": "c243972b-81ad-4ca4-9ffd-ebf8544f83ac",
+    "draw_title": "2019 PAMP SUISSE YEAR OF THE PIG 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2019-pamp-suisse-year-of-the-pig-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "89f78c95ae42ea3c4ea84a62935b293cfc091d2b6d8dc7c3c48422d3ebbb73d0",
+    "drand_seed_hash": "b90dc4c6cda7530fa6610d5b7639161ae3f5cc56dba2ee4699ee87a5bb3e5f5e2b0ab3b8b0a0744a898d4afcf3e2a739",
+    "client_seed": "1788303354584",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 150,
+    "combined_hash": "ea5d3f2b61e5bc1d94b642c1be2641d445e95c557b5bbb6da37757a4ad8b24b1",
+    "result": "149",
+    "external_round_id": "31833332",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T22:55:54.000000Z",
+    "revealed_at": "2026-09-01T22:56:00.000000Z"
+}
