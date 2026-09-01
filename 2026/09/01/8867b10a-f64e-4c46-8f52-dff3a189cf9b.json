@@ -1,0 +1,22 @@
+{
+    "round_id": "8867b10a-f64e-4c46-8f52-dff3a189cf9b",
+    "draw_title": "£100 PER DAY FOR SEPTEMBER + £3K INSTANTS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/100-per-day-for-september-3k-instants",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "15db2846865de874936b00ce07318f6c37670734126c076a310467d7cfd847c8",
+    "drand_seed_hash": "8101f66eba0ce4199b4226409f29f29f9affd9d58744b5b0660f934c3af84fb90483c4502054666eff3f5b40a553421f",
+    "client_seed": "1788294348232",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1014,
+    "max_tickets": 2399,
+    "combined_hash": "227f310b38c094645888d4929be5b4a4d0b4a75bea14eda0154ffa6cd72b44d1",
+    "result": "1866",
+    "external_round_id": "31830330",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T20:25:48.000000Z",
+    "revealed_at": "2026-09-01T20:25:54.000000Z"
+}
