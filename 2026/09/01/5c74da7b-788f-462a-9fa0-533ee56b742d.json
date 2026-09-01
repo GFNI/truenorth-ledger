@@ -1,0 +1,22 @@
+{
+    "round_id": "5c74da7b-788f-462a-9fa0-533ee56b742d",
+    "draw_title": "£20K COCKTAIL CASH WHEEL",
+    "competition_url": "https://geardowncompetitions.com/admin/products/20k-cocktail-cash-wheel",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e6d79633e65fd4514f1bbdd65cf0828523a18f6a2ce3aa677fe00e2d1644a281",
+    "drand_seed_hash": "a21a5a6f34b09f2fe24c610745235f2e2e8135eece068fa9938571e1daee67874298d5148609d39871a6e2a3a517d954",
+    "client_seed": "1788294044311",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36489,
+    "max_tickets": 266666,
+    "combined_hash": "d5986bbd7f46c8682db5161990dd1d1b471c4c2b91ec649c31e830369b1dd2ad",
+    "result": "86580",
+    "external_round_id": "31830229",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T20:20:44.000000Z",
+    "revealed_at": "2026-09-01T20:20:51.000000Z"
+}
