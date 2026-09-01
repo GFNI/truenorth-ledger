@@ -1,0 +1,22 @@
+{
+    "round_id": "c60a0aa8-362f-41ee-adcc-4abf8a5808d5",
+    "draw_title": "2 For Tuesdays - 2 Winners of £500 Each",
+    "competition_url": "https://proprizes.co.uk/admin/products/2-for-tuesdays-2-winners-of-ps500-each-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "e2813261a65e1c02244d18c52827132c84488f2cb198d02cd5cfe04d76f9df1b",
+    "drand_seed_hash": "b32ede24422f6a614e5b56814403a4eafa65ba3f24a2a947cc7a35eab62e215965c2f8aa1a1b8561680825db78b6951b",
+    "client_seed": "1788297058491",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2875,
+    "max_tickets": 5000,
+    "combined_hash": "58b859a70eb62b921a21f084563e4eb2f2b4c570dd64047a84a1ae8bc8b47536",
+    "result": "4969",
+    "external_round_id": "31831234",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T21:10:58.000000Z",
+    "revealed_at": "2026-09-01T21:11:06.000000Z"
+}
