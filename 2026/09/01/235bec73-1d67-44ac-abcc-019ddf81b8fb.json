@@ -1,0 +1,22 @@
+{
+    "round_id": "235bec73-1d67-44ac-abcc-019ddf81b8fb",
+    "draw_title": "Twin Air Bio Degradable Air Filter Cleaning Kit",
+    "competition_url": "https://sparkcompetitions.com/admin/products/twin-air-bio-degradable-air-filter-cleaning-kit",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "bd63b42e646ffd739929b906f8c162e1d00daeb49b911ddaa2ca997b69caccb1",
+    "drand_seed_hash": "8b80d5d4215375eeb18b1b2e00e520e603db25b5150b58a6143ca6b79242cb186407aa0e83f41ccef0f3510672aac23b",
+    "client_seed": "1788297064903",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 262,
+    "max_tickets": 450,
+    "combined_hash": "df33eff75454d871104c1f5c7112e92d07f8fe8de3c677132beed8189b4b6da5",
+    "result": "386",
+    "external_round_id": "31831236",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T21:11:04.000000Z",
+    "revealed_at": "2026-09-01T21:11:12.000000Z"
+}
