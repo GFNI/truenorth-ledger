@@ -1,0 +1,22 @@
+{
+    "round_id": "03f14838-530e-4c5e-b1ca-fbc8b497db11",
+    "draw_title": "Monthly £50 GIVEAWAY - August 2026",
+    "competition_url": "https://fireprizes.co.uk/admin/products/monthly-ps50-giveaway-august-2026",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "1d756069be517b895e1f6e6c736fa30c165ba65ea4d9448db1528139fbfc45d6",
+    "drand_seed_hash": "8cac27da814d9ad5caedb3fcac398ed26df3d55737392ca1ba6f7933ec317ee3ae9eab957c3d87e8d956264daf16001c",
+    "client_seed": "1788294730763",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 545,
+    "max_tickets": 100000,
+    "combined_hash": "faf0ac1e5491abd087d898055b91bd2112ec753974b502adfd6830797db887a5",
+    "result": "50363",
+    "external_round_id": "31830458",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T20:32:10.000000Z",
+    "revealed_at": "2026-09-01T20:32:18.000000Z"
+}
