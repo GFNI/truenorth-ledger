@@ -1,0 +1,22 @@
+{
+    "round_id": "038714df-7bc5-4db2-acf5-f7e5c4e9115d",
+    "draw_title": "OWALA OBSESSION - 20 FREESIP BOTTLES TO FIND!",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/owala-obsession-20-freesip-bottles-to-find",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "39bf2ad797707d59057d1576892702f2c533e0625965e8a286d36aa66c2ce8e6",
+    "drand_seed_hash": "b6c2a0c331522604f4ed766c66e2b15caf5c7030b0845c20126bffea9f620fd70ccc9ea6e92963992a9e7a8b77bf2c80",
+    "client_seed": "1788293445821",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 366,
+    "max_tickets": 1899,
+    "combined_hash": "9f43d65ba8b15264eadde7ebf2fb7464e98c0e23c2ce265ff1d193878460c0e3",
+    "result": "1729",
+    "external_round_id": "31830029",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T20:10:45.000000Z",
+    "revealed_at": "2026-09-01T20:10:51.000000Z"
+}
