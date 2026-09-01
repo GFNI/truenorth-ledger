@@ -1,0 +1,22 @@
+{
+    "round_id": "af5423e2-a337-4a2a-be6c-5c7d8c6279a4",
+    "draw_title": "Daily player freebie + Instant wins - Read description!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/daily-player-freebie-instant-wins-read-description-35",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "5243b969facdaf699dc86f682c3ac3fb30d99c08c44257d1f9ef4c9eceeaf2e0",
+    "drand_seed_hash": "84cdb5617c5b79b65f14595a40bc88d4974e48848e8a150133b3f245c9a9a4560156f8c9eedeaa1c58fc5ba682a59dc1",
+    "client_seed": "1788289860747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18,
+    "max_tickets": 50,
+    "combined_hash": "78d738246841a9f403b30b794832621944e57a8a159b85bb7157c75a176e20aa",
+    "result": "3",
+    "external_round_id": "31828834",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T19:11:00.000000Z",
+    "revealed_at": "2026-09-01T19:11:06.000000Z"
+}
