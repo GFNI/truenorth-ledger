@@ -1,0 +1,22 @@
+{
+    "round_id": "13541e83-6ddf-417b-963c-02ca813eced6",
+    "draw_title": "Free To Enter - £25 JD Voucher!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-to-enter-ps25-jd-voucher-2",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "07af7cf590bdc61ef32cabf3cf8ac64cea8dc1be4cd41b6ec6d67d04600558b9",
+    "drand_seed_hash": "ae35591da3094445a646c640743d2adab2e122346d59358c9cfc275c93110ae0a733b57eccf67e583fc03de8047f58fd",
+    "client_seed": "1788289853109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 107,
+    "max_tickets": 400,
+    "combined_hash": "a453ab7711375f63392bc25f2142ea47ae71a9d268163508520c1b2a76d5c4bc",
+    "result": "373",
+    "external_round_id": "31828832",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T19:10:53.000000Z",
+    "revealed_at": "2026-09-01T19:11:00.000000Z"
+}
