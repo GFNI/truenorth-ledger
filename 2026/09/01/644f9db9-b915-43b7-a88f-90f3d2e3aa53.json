@@ -1,0 +1,22 @@
+{
+    "round_id": "644f9db9-b915-43b7-a88f-90f3d2e3aa53",
+    "draw_title": "Everyone's a winner - Win a bottle of Dalmore Cigar Malt or Macallan 15 + 300 instant wins - Max 2 tickets per person",
+    "competition_url": "https://drawdrop.co.uk/admin/products/everyoneswins",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "e1682847713e3a3bda685b1f68794886cb0ef344a78253afbc9d5946c59ae796",
+    "drand_seed_hash": "a778157e5870bc5ee1c3142ab4f09070fcda776b4b30b3ba9c8d4bd88c7f06d653a9f1fc93b0666eb5cac2413d7ab671",
+    "client_seed": "1788304187265",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146,
+    "max_tickets": 300,
+    "combined_hash": "cf454c6ba98e0369f0f2e61459fde4c64989c2266efecae4af166ff43f640f1a",
+    "result": "220",
+    "external_round_id": "31833610",
+    "processing_status": "completed",
+    "created_at": "2026-09-01T23:09:47.000000Z",
+    "revealed_at": "2026-09-01T23:09:54.000000Z"
+}
