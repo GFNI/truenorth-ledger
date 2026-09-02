@@ -1,0 +1,22 @@
+{
+    "round_id": "35fe6e7b-3109-404e-a354-2d8d9f9d3858",
+    "draw_title": "Murder Mystery - £2500 End Prize #8",
+    "competition_url": "https://speedcompetitions.co.uk/competition/murder-mystery-ps2500-end-prize-8",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "e62e56b6ce1525b6b708dcd1647cb1ef27ec250015d6638c348fcba6ac089c05",
+    "drand_seed_hash": "b7c4edaf852943dc88787097469008d9a0d7901939f98bba59ddfb53c78b46adbe6d74c689a58ac9a0e30dbd4d8e59e4",
+    "client_seed": "1788378112182",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399999,
+    "max_tickets": 399999,
+    "combined_hash": "58b37cdf99ccdbb66ada438a63019582fec17224e5706579b5d995a25311292d",
+    "result": "300918",
+    "external_round_id": "31858251",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:41:52.000000Z",
+    "revealed_at": "2026-09-02T19:41:57.000000Z"
+}
