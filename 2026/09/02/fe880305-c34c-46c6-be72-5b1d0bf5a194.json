@@ -1,0 +1,22 @@
+{
+    "round_id": "fe880305-c34c-46c6-be72-5b1d0bf5a194",
+    "draw_title": "Cash Lab - £250 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-lab-ps250-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "c9a082e62d6c4fbb28e7d355ba82be30f83c991bb409da4962d48ce04f69b893",
+    "drand_seed_hash": "824719192b9c4c099d5c540ceac76619a2c0d5a697725058ce77d6a62c0340b48496ab3869e35883aaa3c3f350822ae4",
+    "client_seed": "1788377979942",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1699999,
+    "max_tickets": 1699999,
+    "combined_hash": "20f2ac3d122eef30ed19ae744f51516877a07400a49971c9016dae9239fb1744",
+    "result": "1144961",
+    "external_round_id": "31858208",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:39:40.000000Z",
+    "revealed_at": "2026-09-02T19:39:48.000000Z"
+}
