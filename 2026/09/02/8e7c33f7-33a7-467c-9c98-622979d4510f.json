@@ -1,0 +1,22 @@
+{
+    "round_id": "8e7c33f7-33a7-467c-9c98-622979d4510f",
+    "draw_title": "✈️🧳 PACK YOUR BAGS! 🧳✈️",
+    "competition_url": "https://hiphipprizehub.com/admin/products/pack-your-bags",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "997b11cbbd6a860bcd226fc837bea8d75943247d43ced26390222b670cce9248",
+    "drand_seed_hash": "a0ba936028f76f695a8c3a48a742395d45bd9e13ff420dcb0eecf32f52fa8eedcd778c8199f4cb5aefe341df2a3e39c1",
+    "client_seed": "1788373978033",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "df5ea9ec3d1a69b7dd3cd2105b087d831cc9fdecfea71c1e588db8503636e5d3",
+    "result": "1848",
+    "external_round_id": "31856874",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T18:32:58.000000Z",
+    "revealed_at": "2026-09-02T18:33:06.000000Z"
+}
