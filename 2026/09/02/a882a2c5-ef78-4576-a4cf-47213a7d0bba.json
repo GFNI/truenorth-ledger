@@ -1,0 +1,22 @@
+{
+    "round_id": "a882a2c5-ef78-4576-a4cf-47213a7d0bba",
+    "draw_title": "29P WHACK A WIN - WIN £7,500 INSTANTLY",
+    "competition_url": "https://easybigwins.co.uk/admin/products/7500instant",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "722496fc3b46241b6d8dd9c5023c92291485f4ea5b999e8b93422b8b44fb6a4a",
+    "drand_seed_hash": "9686bd6b18df75729fcd9692257cd8b2eece59fc07b23c801055625a73ecc83c13a31a1338f8e40879bef99b918d23fd",
+    "client_seed": "1788380931988",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46236,
+    "max_tickets": 280000,
+    "combined_hash": "3595438d481f2fafecadeafe1cd01d1cc3e7db2b18f0124662d21575ed640b5d",
+    "result": "96566",
+    "external_round_id": "31859192",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T20:28:52.000000Z",
+    "revealed_at": "2026-09-02T20:29:00.000000Z"
+}
