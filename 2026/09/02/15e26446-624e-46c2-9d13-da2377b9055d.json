@@ -1,0 +1,22 @@
+{
+    "round_id": "15e26446-624e-46c2-9d13-da2377b9055d",
+    "draw_title": "Whack a Mole Instant Wins Comp!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/whack-a-mole-instant-wins-comp",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "3c3dc79c18a493e7b7446666f91e92da651ab008bf1a7e18910b053721b367a4",
+    "drand_seed_hash": "97fb9e3f7df8ecb2f9fb2e60f0d23530b26ff489c54d4d0f3b65bee31dfd70d272ebce7ff25ae185ad205b74a543b6b8",
+    "client_seed": "1788377976613",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19092,
+    "max_tickets": 21599,
+    "combined_hash": "991861837ddc8c1d5748461242bc6a52d408e8eaf557f69537130790e6dc4f34",
+    "result": "636",
+    "external_round_id": "31858206",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:39:36.000000Z",
+    "revealed_at": "2026-09-02T19:39:42.000000Z"
+}
