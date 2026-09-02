@@ -1,0 +1,22 @@
+{
+    "round_id": "957cb2f1-9ae4-4b88-8d50-2388b68e814a",
+    "draw_title": "Long Range Walkie Talkies",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/long-range-walkie-talkies-7",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "e956759770c0bdc2ce731722489f4fc3c66ef39d728d88d1f141cc4dab529ddd",
+    "drand_seed_hash": "92e07a10ad28af24ae87d5f5ff84bf5c4669c8f58842a792782faa9e2b9caec7d06b88b2bdd386bb7bed31f2f93c564f",
+    "client_seed": "1788376919840",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 180,
+    "combined_hash": "5c2bf9f3e5764173bc1a579cdb42f264511cb8a033c93e1a1ad0386503f1566d",
+    "result": "73",
+    "external_round_id": "31857854",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:21:59.000000Z",
+    "revealed_at": "2026-09-02T19:22:06.000000Z"
+}
