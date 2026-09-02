@@ -1,0 +1,22 @@
+{
+    "round_id": "8373a405-2d92-4023-b0de-25f310490119",
+    "draw_title": "WIN £300 FOR 25P! (No Profit Comp!)",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-ps300-for-25p-no-profit-comp",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "c534d26c8ca96bd8208d2909681cf83288f289c3d348f31229e3f51861bb994a",
+    "drand_seed_hash": "a3e73d7f79e993fe2c8a14b88c6bb603c0e26957bfa4a51173d642c4344f99728129fc1edcc19af6e43b25d991e5a1c6",
+    "client_seed": "1788376591333",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1154,
+    "max_tickets": 1200,
+    "combined_hash": "9178487e8dd6bef92d3621b834364f04aa698c7a3144445009b1bfa40a08e896",
+    "result": "674",
+    "external_round_id": "31857745",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:16:31.000000Z",
+    "revealed_at": "2026-09-02T19:16:39.000000Z"
+}
