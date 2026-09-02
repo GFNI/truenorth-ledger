@@ -1,0 +1,22 @@
+{
+    "round_id": "5007276b-906a-4ab3-ba01-4882e396901f",
+    "draw_title": "BSB TEAM WAR! £20,000 INSTANT WINNER",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/bsb-team-war-ps20000-instant-winner",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "b18a3ac47d6ee49d95626589fcc1f825cf2c0b428f2f3b2ba2c64f32396b0b95",
+    "drand_seed_hash": "b93e83877b0c22baae6487383e045f261922013cd83b2331d37dc0ee6a6cfd5a7180e6c2dbfa9bc1609c3cc31021ca52",
+    "client_seed": "1788381792600",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5320,
+    "max_tickets": 51000,
+    "combined_hash": "e828be3cd96d8d9051f0dca5ec2eedf5422b59980b2ba7f46992f23a9798c536",
+    "result": "13273",
+    "external_round_id": "31859478",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T20:43:12.000000Z",
+    "revealed_at": "2026-09-02T20:43:18.000000Z"
+}
