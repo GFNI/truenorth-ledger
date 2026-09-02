@@ -1,0 +1,22 @@
+{
+    "round_id": "24d6ca12-afe0-44cc-9feb-d17378c30d92",
+    "draw_title": "Open The Planet - Hunt Game",
+    "competition_url": "https://chaotic.co.uk/competition/open-the-planet-hunt-game",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "df285cd4c82efc87698d70f5c1505c3776cd5bf6469d81be607f3a861e185e19",
+    "drand_seed_hash": "97e7c5aca66752b1dfba420f80866e1a609086f5b79e1e03fedab78fcac427a4829e8e91ea3c5930a25157373ad263cc",
+    "client_seed": "1788378402417",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143885,
+    "max_tickets": 149999,
+    "combined_hash": "611ef7568fb62349090a5ce49235cd91cc5719ed88b05c9dbda94d4e4e88132f",
+    "result": "145472",
+    "external_round_id": "31858348",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:46:42.000000Z",
+    "revealed_at": "2026-09-02T19:46:48.000000Z"
+}
