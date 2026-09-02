@@ -1,0 +1,22 @@
+{
+    "round_id": "5093df7e-f7df-44d9-8260-31a077d35d7f",
+    "draw_title": "SUPER LOW ODDS Mega Money Scratch! #2",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/super-low-odds-mega-money-scratch-2",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "2c0650d0288bb03f493a7987e03fb5dbb1686e35a577583fcc81c5e512db8fd4",
+    "drand_seed_hash": "92be39d0033931be996407222f075f674980cdeb90426be5bb173143fabd24c1e96208ee2f0694a789c934cab90535c1",
+    "client_seed": "1788377911750",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7818,
+    "max_tickets": 7899,
+    "combined_hash": "f36d1f696c82891576843e951072d5927f47a643087d82c3bb4d182d8fb6656a",
+    "result": "2421",
+    "external_round_id": "31858185",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:38:31.000000Z",
+    "revealed_at": "2026-09-02T19:38:39.000000Z"
+}
