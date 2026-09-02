@@ -1,0 +1,22 @@
+{
+    "round_id": "d0ad75af-4c28-4c0c-8a95-f342a0de5e2f",
+    "draw_title": "TOBY'S WHEEL OF FORTUNE 02/09",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/tobys-wheel-of-fortune-0209-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "616959776eefe323eab8e22ca7dee966d8c0d75bc80595e791c09c5b70a9d5f8",
+    "drand_seed_hash": "9761ac56c656dd3dffcc0e0beb215308cb72b605a1c36d9339d0c9523d7fe937b94536dab8b07ec1b6a499817cb5003f",
+    "client_seed": "1788382968919",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30666,
+    "max_tickets": 199999,
+    "combined_hash": "16a7908fcb0aca77f7f55a9d1a32d74c6bb146e100eef5fabbc3c24e08775d54",
+    "result": "33890",
+    "external_round_id": "31859870",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T21:02:49.000000Z",
+    "revealed_at": "2026-09-02T21:02:54.000000Z"
+}
