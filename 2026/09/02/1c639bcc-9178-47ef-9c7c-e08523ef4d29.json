@@ -1,0 +1,22 @@
+{
+    "round_id": "1c639bcc-9178-47ef-9c7c-e08523ef4d29",
+    "draw_title": "Win A Harry Potter Lego Flying Ford Anglia",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/lego-anglia",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "4cfed59d8d79a16492b593ff9b41dbbcaa8182be5ce43fec7c8055649eb269fe",
+    "drand_seed_hash": "a28e30036411b07df27b388428be87df1367f125bd31ca7e212d4eefeb5f600f52bcfd18d2a4cae9b1278842cffd9b2f",
+    "client_seed": "1788377787107",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 700,
+    "max_tickets": 700,
+    "combined_hash": "5a526ec77e92ff0c8e714a8e49ac83cdb454b79ca7b389cea3a65011c5d60d81",
+    "result": "327",
+    "external_round_id": "31858143",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:36:27.000000Z",
+    "revealed_at": "2026-09-02T19:36:33.000000Z"
+}
