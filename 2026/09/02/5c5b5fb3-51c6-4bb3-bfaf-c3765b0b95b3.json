@@ -1,0 +1,22 @@
+{
+    "round_id": "5c5b5fb3-51c6-4bb3-bfaf-c3765b0b95b3",
+    "draw_title": "Bingo Wings - £500 Main Draw + InstaWins up to £250",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/bingo-wings-ps500-main-draw-instawins-up-to-ps250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "f7313f7430b4e1e0467474cd3b65d76d5d477d11927198c7db1706fefc31850c",
+    "drand_seed_hash": "85ee8af6301761fec5c9abe143b03c6dabe8545d56161b82ed8b7ff20ed5584059799df908376341376f56ddae77e6a2",
+    "client_seed": "1788377765678",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 133333,
+    "max_tickets": 133333,
+    "combined_hash": "ba390e6693cd34cd64615722e2abd56c9610aeabebd22eaa91f9cd2020043f42",
+    "result": "79262",
+    "external_round_id": "31858136",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:36:05.000000Z",
+    "revealed_at": "2026-09-02T19:36:12.000000Z"
+}
