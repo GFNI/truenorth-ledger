@@ -1,0 +1,22 @@
+{
+    "round_id": "adb14ef4-6b07-41a9-b453-4a15a1a391e3",
+    "draw_title": "WIN £5,000 TAX FREE CASH FOR 99p",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/win-ps5000-tax-free-cash-for-99p",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "b00cb99b0d325acf187481b6fe2585c10a26085b18389ef6066ad74119ea35ee",
+    "drand_seed_hash": "a7ec146870a41e83cfcd57dea573b311b968ad08cc7bcbbe278793c014755a4fdc490eba19e6f5cbd0cb354588d2fc2d",
+    "client_seed": "1788378214509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6819,
+    "max_tickets": 10000,
+    "combined_hash": "ee82dc2d1e8d2b79595966fb4b56dd7352452d2da64ab7e7e917d99ad6f4ee47",
+    "result": "6159",
+    "external_round_id": "31858286",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:43:34.000000Z",
+    "revealed_at": "2026-09-02T19:43:42.000000Z"
+}
