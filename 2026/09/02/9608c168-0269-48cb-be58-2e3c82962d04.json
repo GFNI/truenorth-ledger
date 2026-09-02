@@ -1,0 +1,22 @@
+{
+    "round_id": "9608c168-0269-48cb-be58-2e3c82962d04",
+    "draw_title": "2012 PAMP SUISSE YEAR OF THE DRAGON 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2012-pamp-suisse-year-of-the-dragon-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "77605959bea42b85fbcfe15457ca0e75295d3a5ab50d1a5ccd98f81010484dc2",
+    "drand_seed_hash": "a2dcac00ce5b490968a0f292233dee5a58196a8393f2d218e570dc2c3943b524aca04ff7a70ed22ff5e971b6a023dd2e",
+    "client_seed": "1788389754582",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51,
+    "max_tickets": 150,
+    "combined_hash": "4680d98cc4b2bcaae47aacf279d6a62d461286e0873ab578706a7912cb08f57d",
+    "result": "91",
+    "external_round_id": "31862132",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T22:55:54.000000Z",
+    "revealed_at": "2026-09-02T22:56:00.000000Z"
+}
