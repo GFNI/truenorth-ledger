@@ -1,0 +1,22 @@
+{
+    "round_id": "8f01cdbd-2487-4c85-9d44-c62ce371f980",
+    "draw_title": "Take Your Pick Bottle of Spirts",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/take-your-pick-bottle-of-spirts",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "6a0f2bd7c11696629790fd211d08cc24f59cc96e97e803e828c0a276ee2edc86",
+    "drand_seed_hash": "af326f4e9eed6dc40797d7ea52f91d9ca7ab7a512c1b8c21103c159d78b2b2bdbf1ff9b704b1d002d909f52c35ef657d",
+    "client_seed": "1788376260659",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 129,
+    "max_tickets": 200,
+    "combined_hash": "2ab0f3994b79ae2be83ce16a98c129106d06cd87841f0a7a96538ba264b24674",
+    "result": "195",
+    "external_round_id": "31857634",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:11:00.000000Z",
+    "revealed_at": "2026-09-02T19:11:06.000000Z"
+}
