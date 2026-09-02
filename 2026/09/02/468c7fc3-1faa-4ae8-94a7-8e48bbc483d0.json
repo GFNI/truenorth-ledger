@@ -1,0 +1,22 @@
+{
+    "round_id": "468c7fc3-1faa-4ae8-94a7-8e48bbc483d0",
+    "draw_title": "SPIN CITY! – £7K of Instant Cash + £2.5K End Prize!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/spin-city-ps7k-of-instant-cash-ps25k-end-prize",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "a57ccdac51a9e1a4fb8e96c6162200bd931a9e23569d79e03bfc0e03ca0a74fb",
+    "drand_seed_hash": "95265ff86035ce417cd82f50a5680cd58b7d7c0cdf04b084b7029b607822c8be42b73008f76ce8e90d7207bce7430642",
+    "client_seed": "1788376668454",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13853,
+    "max_tickets": 15000,
+    "combined_hash": "fb1054db0736c2e8d1e501392e48c1611ed07d0c9d014c506c74a2372889dd39",
+    "result": "9676",
+    "external_round_id": "31857770",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:17:48.000000Z",
+    "revealed_at": "2026-09-02T19:17:54.000000Z"
+}
