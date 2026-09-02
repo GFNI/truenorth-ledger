@@ -1,0 +1,22 @@
+{
+    "round_id": "a22c35fd-0828-4078-90dc-7a4ad90bf935",
+    "draw_title": "20W Karaoke Machine",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/20w-karaoke-machine",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d6e4482eebaa9f009907f7e95a0c4e213759b2e42d495fe5295ba33c11f3e593",
+    "drand_seed_hash": "b98ba75134fc7f1b43e05a28f599df4ecf2bacf0880e795c3308f3649320f37850270c0aff4da858b2f1146619131fb1",
+    "client_seed": "1788376978353",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71,
+    "max_tickets": 250,
+    "combined_hash": "15f9216900eccf1eb8f6502343003f91e716dbe62bb786b033c28dbdae846d08",
+    "result": "134",
+    "external_round_id": "31857874",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:22:58.000000Z",
+    "revealed_at": "2026-09-02T19:23:06.000000Z"
+}
