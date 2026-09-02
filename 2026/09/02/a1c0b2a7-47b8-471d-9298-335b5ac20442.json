@@ -1,0 +1,22 @@
+{
+    "round_id": "a1c0b2a7-47b8-471d-9298-335b5ac20442",
+    "draw_title": "🎯 YoU wOuLdN't DoWnLoAd A jAcKpOt - £250 Main Draw + InstaWins up to £500",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/you-wouldnt-download-a-jackpot-ps250-main-draw-instawins-up-to-ps500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "7543339db783f7aeddd82e9a9f9da6107b07cd8be6689ee2539965199ed94c6a",
+    "drand_seed_hash": "ac90e470a8a4c0ad54cf12877eda9513d18e7787c5f872929da35c42add52d92c08d2b60f6b6275adbcdf94fc97f2aab",
+    "client_seed": "1788377669059",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55333,
+    "max_tickets": 142857,
+    "combined_hash": "a6d58783eff6fc9728ebb131dea5ce134fa33218c37ae268c53591aef6b348af",
+    "result": "5272",
+    "external_round_id": "31858104",
+    "processing_status": "completed",
+    "created_at": "2026-09-02T19:34:29.000000Z",
+    "revealed_at": "2026-09-02T19:34:36.000000Z"
+}
