@@ -1,0 +1,22 @@
+{
+    "round_id": "9b8f4d52-85a7-4c42-b3e8-7c831f42ff33",
+    "draw_title": "Spin for Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/spin-for-doe",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "b9582f4cc5129cba1a20f656062d8e049256fd6bf76da339122c0a92af308dfa",
+    "drand_seed_hash": "94eda2d0dd48042a25a072f46aecb9c538d9f59a86bba05affd910e8f90170ee5a688a40faea89c03271d7727decdd59",
+    "client_seed": "1788462724236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 211,
+    "max_tickets": 1200,
+    "combined_hash": "bb8a852baba07b6da4a44efbea9350c52423810f48aba1a54a25c18741401eee",
+    "result": "892",
+    "external_round_id": "31886456",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:12:04.000000Z",
+    "revealed_at": "2026-09-03T19:12:12.000000Z"
+}
