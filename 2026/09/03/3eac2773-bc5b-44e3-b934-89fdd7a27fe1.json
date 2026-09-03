@@ -1,0 +1,22 @@
+{
+    "round_id": "3eac2773-bc5b-44e3-b934-89fdd7a27fe1",
+    "draw_title": "Penny Pirates 🏴‍☠️",
+    "competition_url": "https://jetcomps.co.uk/admin/products/penny-pirates",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "9006950471676d0b7207a9a70e84152fecd3a1cbee733657e8b42d96f22d8e83",
+    "drand_seed_hash": "819e3414cf92e57bfe56ccdc408ad64a51b48897f5bc516f81111b0fdf349fabd28b294ec827c92bd5d92e04e94ef169",
+    "client_seed": "1788463672513",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 722104,
+    "max_tickets": 999999,
+    "combined_hash": "bdb47d0d7313c13f79c1c15e41ccc524d54b00be46668a929d102be45356552a",
+    "result": "342304",
+    "external_round_id": "31886772",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:27:52.000000Z",
+    "revealed_at": "2026-09-03T19:28:00.000000Z"
+}
