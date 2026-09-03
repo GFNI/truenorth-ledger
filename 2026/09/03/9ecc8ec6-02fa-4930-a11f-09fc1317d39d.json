@@ -1,0 +1,22 @@
+{
+    "round_id": "9ecc8ec6-02fa-4930-a11f-09fc1317d39d",
+    "draw_title": "📱 £100 FREE TO ENTER APP ONLY COMP 📱",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/ps100-free-to-enter-app-only-comp-2",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "18a0adb47c90598b4f791dcaad281485c3b676dc552529ae845e8d84aa177c8e",
+    "drand_seed_hash": "8114f4466fd55207ddba67dc11ef1b0a6f855a433d6182974a3d0d103897985ceef440546f013f0a988e7f39f0bf3e48",
+    "client_seed": "1788462765605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 9999,
+    "combined_hash": "71eee2f0fa5dace780d6d967aa99a4d8c986638eef1ad6eac34256c9bc96cd54",
+    "result": "8198",
+    "external_round_id": "31886469",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:12:45.000000Z",
+    "revealed_at": "2026-09-03T19:12:51.000000Z"
+}
