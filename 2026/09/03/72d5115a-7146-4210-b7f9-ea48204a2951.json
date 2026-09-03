@@ -1,0 +1,22 @@
+{
+    "round_id": "72d5115a-7146-4210-b7f9-ea48204a2951",
+    "draw_title": "Win a Trakker Bivvy Storage - 15p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-trakker-bivvy-storage-15p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "2feff4cbdad62f0493e430c0833544f555e4f038a78da69f9c9eba904c47bc9e",
+    "drand_seed_hash": "b1b24bd9ba31d69b8d12b527fd2f861672603f7495c4763475f7c86d4d4439b150215b93abf3335c825ef2f60e49d6a8",
+    "client_seed": "1788455661948",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 813,
+    "max_tickets": 1740,
+    "combined_hash": "32393e7eb3fbf09074780b5beb6c60d0460211c7eeec9a46e667ded01a9268b3",
+    "result": "791",
+    "external_round_id": "31884102",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T17:14:22.000000Z",
+    "revealed_at": "2026-09-03T17:14:30.000000Z"
+}
