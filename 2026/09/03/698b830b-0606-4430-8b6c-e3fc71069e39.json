@@ -1,0 +1,22 @@
+{
+    "round_id": "698b830b-0606-4430-8b6c-e3fc71069e39",
+    "draw_title": "NINJA CRISPi Pro AS101UKGY 7-in-1 Glass Air Fryer – Ash Grey",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-crispi-pro-as101ukgy-7-in-1-glass-air-fryer-ash-grey",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e28e62ab6876cb3111d7c11d9473dac815058bd70fae721f904e49c6aeaa5c86",
+    "drand_seed_hash": "9381dcdc6c09f9c4169f11b1be95e6dd63aed03d13e47415275062ae6e953e6b82a7a4d233b3f837adbf9a64a8032835",
+    "client_seed": "1788463183606",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 849,
+    "max_tickets": 900,
+    "combined_hash": "1262514932363fb90c58c01e7446f162f942631b05f7cf1ed3a3ae4cb658bd9f",
+    "result": "691",
+    "external_round_id": "31886609",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:19:43.000000Z",
+    "revealed_at": "2026-09-03T19:19:51.000000Z"
+}
