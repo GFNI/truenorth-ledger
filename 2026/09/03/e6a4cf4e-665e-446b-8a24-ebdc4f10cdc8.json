@@ -1,0 +1,22 @@
+{
+    "round_id": "e6a4cf4e-665e-446b-8a24-ebdc4f10cdc8",
+    "draw_title": "Nuclear Candyland Spins with huge cash instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/nuclear-candyland-spins-with-huge-cash-instants-3",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "158fdbd4d653f80da9188afc3e2113b634d3ec45c3bad78d888cba512a5a3e6c",
+    "drand_seed_hash": "98ffffc17c7e9e7d82ce64cb3771e33e8a8f17a7720ab72e730e43a29ec45c7a6058036de2cae93fac794bbb5f0937e5",
+    "client_seed": "1788468195206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3026,
+    "max_tickets": 45000,
+    "combined_hash": "5aede42075f904578dacc7f60e8acc3b86f9cb314d559ecf121d5c193c106f31",
+    "result": "38883",
+    "external_round_id": "31888279",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T20:43:15.000000Z",
+    "revealed_at": "2026-09-03T20:43:21.000000Z"
+}
