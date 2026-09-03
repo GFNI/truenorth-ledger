@@ -1,0 +1,22 @@
+{
+    "round_id": "53f64859-78b9-4043-8efc-5416a280acb1",
+    "draw_title": "KERCHING LUCKY LOOT #3",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/kerching-lucky-loot-3",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "716947d4befb5d4e4fc9b9ff4ec57684aedc6cffc6e8e497643773036549630f",
+    "drand_seed_hash": "a089b1a141dbd6e14a0ca1b7e6619642eeadd3666f855dd7eb3205b77fafb69ec8a7bb6b4048cef5a720a892a16e6c00",
+    "client_seed": "1788463501756",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7,
+    "max_tickets": 25,
+    "combined_hash": "bdee0eb0e5cb0056483262107d89ff135b641bc76324a883e6b0dfde1164cc65",
+    "result": "13",
+    "external_round_id": "31886715",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:25:02.000000Z",
+    "revealed_at": "2026-09-03T19:25:09.000000Z"
+}
