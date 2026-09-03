@@ -1,0 +1,22 @@
+{
+    "round_id": "c22ef82a-7d94-4dec-880f-e26afc1db278",
+    "draw_title": "The Lucky Pop - Balloon Pop Game - £500 Jackpot - £150 Main Draw Prize - 5p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/the-lucky-pop-balloon-pop-game-ps500-jackpot-ps150-main-draw-prize-5p-a",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "19686f3d05070bcae53ec3b6d844409df84503a4ce9cdb31b2b55bbc0dded0cd",
+    "drand_seed_hash": "9448475003956e4eb9d4b7e58a0a7222ba90df043d89d24a43d840c35c9bd6f07aa5ff2e48258da58cc061825392cc1f",
+    "client_seed": "1788459012531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19681,
+    "max_tickets": 80000,
+    "combined_hash": "6a33c591c81d858eaff0ae8509effa697a0d10e09f663ce05834a48847f1693d",
+    "result": "20075",
+    "external_round_id": "31885218",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T18:10:12.000000Z",
+    "revealed_at": "2026-09-03T18:10:18.000000Z"
+}
