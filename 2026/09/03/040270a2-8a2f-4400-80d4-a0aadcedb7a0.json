@@ -1,0 +1,22 @@
+{
+    "round_id": "040270a2-8a2f-4400-80d4-a0aadcedb7a0",
+    "draw_title": "ONLY 15% PROFIT MARGIN! Operation Payday!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/only-15-profit-margin-operation-payday",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "b899b0e670e6164f27d1c4f8410967ce8e9c73e806efb8f059dec920e4b93201",
+    "drand_seed_hash": "aab5e2567bbc2465ed0e3a6b0d230034376838f4e6463ab71b63ddce1592b6bce03588a2873217070be3c485a0f606f8",
+    "client_seed": "1788462313859",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14499,
+    "max_tickets": 14499,
+    "combined_hash": "8f9aa5d17b34e35acfa0840aefdb608a5e58f7c09570e015eae47234cc29e080",
+    "result": "7740",
+    "external_round_id": "31886319",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:05:13.000000Z",
+    "revealed_at": "2026-09-03T19:05:21.000000Z"
+}
