@@ -1,0 +1,22 @@
+{
+    "round_id": "e1410c72-cb80-455a-b041-c4a5f61a2571",
+    "draw_title": "£5,000 Plus 10x £1,000 Instant Wins",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps5000-plus-10x-ps1000-instant-wins",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "37f5a79af603d26400076ac8dea30573ef1873693294f2aae3a1a44a9fce66d4",
+    "drand_seed_hash": "9094c25e8ac52d8d04fe08f01521bb8fce0a9d6e5b1eafc101f669fb98a18f5350f8c9861a9371b7a6728dabfe98681a",
+    "client_seed": "1788469184219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6050,
+    "max_tickets": 14999,
+    "combined_hash": "ad4dcdf4ae75236563902e3dbbd40db152b5003fe7e99ecd126f8e4203efed4e",
+    "result": "9294",
+    "external_round_id": "31888609",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T20:59:44.000000Z",
+    "revealed_at": "2026-09-03T20:59:51.000000Z"
+}
