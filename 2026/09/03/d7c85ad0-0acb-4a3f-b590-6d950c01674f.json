@@ -1,0 +1,22 @@
+{
+    "round_id": "d7c85ad0-0acb-4a3f-b590-6d950c01674f",
+    "draw_title": "🫧 Eufy Omni C28A Robotic Vacuum Cleaner and Mop 🫧",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/eufy-omni-c28a-robotic-vacuum-cleaner-and-mop",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ec6f4b76793746e74b94205243099ad1bc9cfa2b93f2ed223d6f3080989d762c",
+    "drand_seed_hash": "8f447149e13beeb8ac290ba095a9bca1e80786827168a5b560f6a7d78c4d02e8ace2858d3a1eed87fd1dc392dbc5e464",
+    "client_seed": "1788463302131",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1010,
+    "max_tickets": 1025,
+    "combined_hash": "103941b2b35cb7950e20e685c8ea6002873b4e0018a668f10cc0988df1af8762",
+    "result": "997",
+    "external_round_id": "31886648",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:21:42.000000Z",
+    "revealed_at": "2026-09-03T19:21:48.000000Z"
+}
