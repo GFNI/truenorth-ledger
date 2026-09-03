@@ -1,0 +1,22 @@
+{
+    "round_id": "8c6bc4c4-4c13-40d6-a6dd-d23470c59ccc",
+    "draw_title": "£102,000 Instant Summer Scratch",
+    "competition_url": "https://topdogprizes.com/admin/products/ps102000-instant-summer-scratch",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "5f7ddcce300293308c560e0124c333e6d0b38fe3ef3986821cce8a2930760f7b",
+    "drand_seed_hash": "97c4e38a24635e70c6cb833e41f0c1f57a9254cb47dd658ef860c3d1ccaca51344c2695399f57392b9a773d432bc7fc7",
+    "client_seed": "1788462616003",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24022,
+    "max_tickets": 124999,
+    "combined_hash": "42311ec344a972e4bbf8a1970fdbcb3a715a43416f6cb4763248ca8d60cf9859",
+    "result": "61999",
+    "external_round_id": "31886420",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:10:16.000000Z",
+    "revealed_at": "2026-09-03T19:10:24.000000Z"
+}
