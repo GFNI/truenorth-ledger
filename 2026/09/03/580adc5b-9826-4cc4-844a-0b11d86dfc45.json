@@ -1,0 +1,22 @@
+{
+    "round_id": "580adc5b-9826-4cc4-844a-0b11d86dfc45",
+    "draw_title": "50/50… 1 IN 2 TICKETS WIN! 🏆",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/5050-1-in-2-tickets-win",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "eb1f363f29eb7230fbf0535b8fbd129c8af0d23df5e3fc397c91cce7b933e380",
+    "drand_seed_hash": "a8e6094ab898a2a6aa21ce0d05ea2cf8018a3f1cf8dd6a1094bc45b29ccd8170e21992feac379d279930129c9f5f5fcf",
+    "client_seed": "1788466166143",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5066,
+    "max_tickets": 12000,
+    "combined_hash": "52686f50f32ea7d9b4e33733373ea9eafce898ee34ebd15392181885ef305cae",
+    "result": "6483",
+    "external_round_id": "31887603",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T20:09:26.000000Z",
+    "revealed_at": "2026-09-03T20:09:33.000000Z"
+}
