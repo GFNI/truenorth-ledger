@@ -1,0 +1,22 @@
+{
+    "round_id": "b78744e9-d947-4562-8485-3d556188c901",
+    "draw_title": "1915 AUSTRIAN EMPEROR FRANZ JOSEPH I 4 DUCAT GOLD COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1915-austrian-emperor-franz-joseph-i-4-ducat-gold-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "a1dc8bdd4ee7fa89eb5d99d99f7280ffee53b2dae4d1ec287489f33a74c021f8",
+    "drand_seed_hash": "ae8fa815d3e5ca44233f094175282bf9380735cfd0f731548f077378769165bfe82311abb31bfc8068901ddabb036bbe",
+    "client_seed": "1788465797701",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1007,
+    "max_tickets": 2000,
+    "combined_hash": "2a35ad4b29f67d930600437449ed04e372a97d124364af1d5cfbac60acd339ff",
+    "result": "539",
+    "external_round_id": "31887480",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T20:03:17.000000Z",
+    "revealed_at": "2026-09-03T20:03:24.000000Z"
+}
