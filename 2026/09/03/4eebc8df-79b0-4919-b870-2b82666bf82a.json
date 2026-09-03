@@ -1,0 +1,22 @@
+{
+    "round_id": "4eebc8df-79b0-4919-b870-2b82666bf82a",
+    "draw_title": "Pirates Village Family Holiday",
+    "competition_url": "https://jetcomps.co.uk/admin/products/pirates-village-family-holiday",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "5c6b65b1bd828116e18792ae0e67a8dc61b7b002b6675610f4b90551cbdf7962",
+    "drand_seed_hash": "893676fdd56f089ed5ec2e3111884714c5a9d08bc68048f36934eab4ce19f0045afa9ae487a5f928846ad90c7335ee34",
+    "client_seed": "1788464413294",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 142736,
+    "max_tickets": 305979,
+    "combined_hash": "08a89d4f6c00a67bf4f2b3875304e2a860b42f6f6a046979b5cdafc1a202960d",
+    "result": "133898",
+    "external_round_id": "31887019",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T19:40:13.000000Z",
+    "revealed_at": "2026-09-03T19:40:21.000000Z"
+}
