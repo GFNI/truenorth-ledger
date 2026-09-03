@@ -1,0 +1,22 @@
+{
+    "round_id": "76889c69-a1ef-44f2-837d-ca08b1f17e27",
+    "draw_title": "SUMMER SURVIVAL🌤️",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/summer-survival",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "a8b2f3d425a09b561f97a2c64aca545a7cb4fb3bcd08a8c95a1bfd374a1030cb",
+    "drand_seed_hash": "b29c422aabecff17cd2d5aa4985d9d65f0c827771f10978626a6944738add4e34a0395e8c4793c47cecb8a96959d6ea5",
+    "client_seed": "1788466298030",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17500,
+    "max_tickets": 17500,
+    "combined_hash": "c77680dd21c4ac773856062c424308942b0627fe0d25f1119227a5b0fc59caa1",
+    "result": "6252",
+    "external_round_id": "31887647",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T20:11:38.000000Z",
+    "revealed_at": "2026-09-03T20:11:45.000000Z"
+}
