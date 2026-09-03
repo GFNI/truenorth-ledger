@@ -1,0 +1,22 @@
+{
+    "round_id": "928ba6b0-0810-4d2b-ae11-20c4c3a89210",
+    "draw_title": "WIN THE NINJA LUXE CAFE PLUS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-the-ninja-luxe-cafe-plus",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "f95433e48d15b5d3b2f2c2d627aa7d4479e266af6eab78219e0d6c8ab7078bde",
+    "drand_seed_hash": "94d84e0d02627bce72952c871acdc9183d1ea2d731d835808c415b78be1cff5d61b4a8e5a897c2c0e09355df34b4bc67",
+    "client_seed": "1788458679115",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 360,
+    "max_tickets": 999,
+    "combined_hash": "7b19010c3a743301e22bae31d1f43ac9982633d03910920cf64948c402777ed8",
+    "result": "252",
+    "external_round_id": "31885107",
+    "processing_status": "completed",
+    "created_at": "2026-09-03T18:04:39.000000Z",
+    "revealed_at": "2026-09-03T18:04:45.000000Z"
+}
