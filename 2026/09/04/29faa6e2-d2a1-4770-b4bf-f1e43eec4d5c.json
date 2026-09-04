@@ -1,0 +1,22 @@
+{
+    "round_id": "29faa6e2-d2a1-4770-b4bf-f1e43eec4d5c",
+    "draw_title": "Pokémon TCG Black & White Plasma Blast Booster Pack",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pokemon-tcg-black-white-plasma-blast-booster-pack",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "fafe140e4e73322b728d8313a0ff05525292062bf92067a25a50844e310475ba",
+    "drand_seed_hash": "97efcb64f89d483c4521cf9750bcfaf5e6dce461f19bd55cca1391c6436d4efe99c39936e13c6833982e413ec72f6466",
+    "client_seed": "1788556206789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 165,
+    "max_tickets": 300,
+    "combined_hash": "b6db132ccd73aef8fed1eaa7ee914c94fcf1defc924993a5a02837e6c453c43c",
+    "result": "135",
+    "external_round_id": "31917616",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T21:10:06.000000Z",
+    "revealed_at": "2026-09-04T21:10:12.000000Z"
+}
