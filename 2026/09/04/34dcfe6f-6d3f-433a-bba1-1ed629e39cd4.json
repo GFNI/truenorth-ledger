@@ -1,0 +1,22 @@
+{
+    "round_id": "34dcfe6f-6d3f-433a-bba1-1ed629e39cd4",
+    "draw_title": "Buster's Free Cash Grab - Every Ticket Wins",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-free-cash-grab-every-ticket-wins",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "6e69c9367c7ea874731b38fac816e723158cb133a6399fa9a494811d05b0532c",
+    "drand_seed_hash": "91919e99cf57c8fbbc78a58564fa87545e46c9ef76a214936daec1e4fc20699731bdcca547aad085d2641f6510b176d2",
+    "client_seed": "1788558184623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "97055e621b30c260fbb52987d4e9b8792b77dddbccfe5649346f34301f2bec5a",
+    "result": "484",
+    "external_round_id": "31918276",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T21:43:04.000000Z",
+    "revealed_at": "2026-09-04T21:43:12.000000Z"
+}
