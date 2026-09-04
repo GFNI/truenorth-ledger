@@ -1,0 +1,22 @@
+{
+    "round_id": "23492ebc-c207-4ad3-84d1-de1555da4283",
+    "draw_title": "TWO LITTLE DUCKS",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/two-little-ducks",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "c3eadd101ec8741e1e978ceada1e708f16911ef3cf02bee9ade90d43519354b5",
+    "drand_seed_hash": "b2a8e5febbbd8702bed9c2f76bb56c9ddd413c199064d9d1193d4b3130bd9cfda134667b6f14c1a2fb07f56e8c05fcf6",
+    "client_seed": "1788540529274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4222,
+    "max_tickets": 4222,
+    "combined_hash": "b3104547889bf4114c65ca8e705679a7db760442717c1a96a3d2444f8f1aab23",
+    "result": "198",
+    "external_round_id": "31912391",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T16:48:49.000000Z",
+    "revealed_at": "2026-09-04T16:48:57.000000Z"
+}
