@@ -1,0 +1,22 @@
+{
+    "round_id": "f27c54c2-fc8d-4b0c-a996-f95497a0e0de",
+    "draw_title": "Every Ticket Wins",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/every-ticket-wins-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "0d275e730e2927cc3ba740b0aa979c6962b3776c4e611b6c9f8b2aec2f20e563",
+    "drand_seed_hash": "b2c1f6ce556cacaccfcb80198aebe75f0bb9637eea585f02fc7bf97b06c2cc5d39aa28ca648e2501ba551d6e75fb6d8a",
+    "client_seed": "1788552625441",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10303,
+    "max_tickets": 11000,
+    "combined_hash": "38bbee07a789a11db73e94fa5f4b9778309e9a94dd46ca3a3b5006204d9c4d46",
+    "result": "8009",
+    "external_round_id": "31916422",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T20:10:25.000000Z",
+    "revealed_at": "2026-09-04T20:10:30.000000Z"
+}
