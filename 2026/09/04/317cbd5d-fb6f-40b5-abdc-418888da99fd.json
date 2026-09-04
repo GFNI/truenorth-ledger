@@ -1,0 +1,22 @@
+{
+    "round_id": "317cbd5d-fb6f-40b5-abdc-418888da99fd",
+    "draw_title": "🔴ODDS BOOSTER - 300 ENTRIES INTO THE PORSCHE TARGA #4",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-300-entries-into-the-porsche-targa-4",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c178c129ca24a40f23e757e032845824f6dc2b129119b5e27f3f6f5a372fd4a8",
+    "drand_seed_hash": "972183d4bced94f335c460e810c3c13ff3f839f2358ce637463bad7327142093f59324cb91262eb4c4dc19b081522ff8",
+    "client_seed": "1788559807748",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 958,
+    "max_tickets": 1100,
+    "combined_hash": "ad703bcf06d628367dff14f9853fe7dccc4bc6305e3bc211f8a456c7ba50b702",
+    "result": "382",
+    "external_round_id": "31918817",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T22:10:07.000000Z",
+    "revealed_at": "2026-09-04T22:10:15.000000Z"
+}
