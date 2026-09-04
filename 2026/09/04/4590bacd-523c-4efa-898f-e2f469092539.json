@@ -1,0 +1,22 @@
+{
+    "round_id": "4590bacd-523c-4efa-898f-e2f469092539",
+    "draw_title": "Tickety Booo",
+    "competition_url": "https://ogcompetitions.co.uk/lists/tickety-boo-300-ticket-bundle",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "0f07018d9b8202a61121e7df202e6a8f815061331ef88313fd3597d1aba353ff",
+    "drand_seed_hash": "a603064772e29a62008330ab31a38965e38a46d60ceb9a15ff9a6f690f36d394e86e10d3adace9a7fdc9678444a250e2",
+    "client_seed": "1788556302505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2400,
+    "combined_hash": "067a2c02e5227b529a9171a9fcbd65c85b776095e24bd6276d6b145dcba11d52",
+    "result": "1255",
+    "external_round_id": "31917648",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T21:11:42.000000Z",
+    "revealed_at": "2026-09-04T21:11:52.000000Z"
+}
