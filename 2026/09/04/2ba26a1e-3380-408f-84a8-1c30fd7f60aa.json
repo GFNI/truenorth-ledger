@@ -1,0 +1,22 @@
+{
+    "round_id": "2ba26a1e-3380-408f-84a8-1c30fd7f60aa",
+    "draw_title": "2.5K HELP DIBBY LOSE POUNDS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-help-dibby-lose-pounds",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "06791177318ed22b04b5e1a3a961f8c5d69a227f7bcb2a8a8294a4ef48ae8035",
+    "drand_seed_hash": "8a1c76da8439ff188cf1dcd75a2e7bb34e3854d43cb6866c503f158434be68068d0e824f480088dd45722e8730851896",
+    "client_seed": "1788552336111",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3832,
+    "max_tickets": 10000,
+    "combined_hash": "c92b913af0f1185d9af621964cf40094c9a2ccafa5f1e4ac1db781766ca6ac97",
+    "result": "2458",
+    "external_round_id": "31916326",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T20:05:36.000000Z",
+    "revealed_at": "2026-09-04T20:05:42.000000Z"
+}
