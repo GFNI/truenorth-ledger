@@ -1,0 +1,22 @@
+{
+    "round_id": "2ea71b30-16fb-4794-b970-b971b7ed3e12",
+    "draw_title": "Rainbow Riches",
+    "competition_url": "https://dark.demo.rafflex.io/admin/products/rainbow-riches-1807",
+    "operator": {
+        "name": "Dark Demo RaffleX",
+        "website": "https://dark.demo.rafflex.io",
+        "company_number": "12341234"
+    },
+    "drand_server_seed": "b8f253090a88dd89856dbedfb9af61523ca97c0d069dcd6b9cddcaacc2ca9878",
+    "drand_seed_hash": "98e7840084aa031eb108c7d2169024667f470f0183df758b2980dd83a8499a71c548a2307f517c80bbde6883e8555b7f",
+    "client_seed": "1788520743023",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17068,
+    "max_tickets": 46000,
+    "combined_hash": "05b539d160d0aa534950d4a910381d0df1653c65c3ca4a1543a8f5af6fa7cd04",
+    "result": "6038",
+    "external_round_id": "31905795",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T11:19:03.000000Z",
+    "revealed_at": "2026-09-04T11:19:09.000000Z"
+}
