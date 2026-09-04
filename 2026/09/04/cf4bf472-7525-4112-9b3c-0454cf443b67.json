@@ -1,0 +1,22 @@
+{
+    "round_id": "cf4bf472-7525-4112-9b3c-0454cf443b67",
+    "draw_title": "2014 PAMP SUISSE YEAR OF THE HORSE 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2014-pamp-suisse-year-of-the-horse-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "9d6141163c8ee3ea3326ac9c5380b6ca0c005990a93bcba9ebf470c68b11fd4a",
+    "drand_seed_hash": "b5c4677224b55d30f84ef6a603054f03b8ceeb938e82a6450b97fd3fdf5f53275643c5af2a7ac59ad2e792ed4362504c",
+    "client_seed": "1788562506043",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 150,
+    "combined_hash": "2cd2a43721f9e0e31418e98a9dea72a8e29c6593ed8035ae80dc86cdcae17083",
+    "result": "39",
+    "external_round_id": "31919716",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T22:55:06.000000Z",
+    "revealed_at": "2026-09-04T22:55:12.000000Z"
+}
