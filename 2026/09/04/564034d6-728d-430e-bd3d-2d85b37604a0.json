@@ -1,0 +1,22 @@
+{
+    "round_id": "564034d6-728d-430e-bd3d-2d85b37604a0",
+    "draw_title": "INSTANTLY WIN UP TO £5000 WORTH OF BMW M2 TICKETS! 🎟️",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/instantly-win-up-to-ps5000-worth-of-bmw-m2-tickets-2",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "e8fffa4a0b46240e93772708c67fee04354e152c87e6a17aa59f7040a5ab3ba2",
+    "drand_seed_hash": "911e24f616ca1cfbcc80580ceb63016461a5f6f21c5681469051668681cbc077cfc4383dc9eb9d044c5abb3746a3e08e",
+    "client_seed": "1788549013334",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33540,
+    "max_tickets": 60000,
+    "combined_hash": "32c2e669e6f84c9689b0b4cd91246a0b2daafc63097eb032ec3581a7e896931a",
+    "result": "10675",
+    "external_round_id": "31915219",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T19:10:13.000000Z",
+    "revealed_at": "2026-09-04T19:10:21.000000Z"
+}
