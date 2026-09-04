@@ -1,0 +1,22 @@
+{
+    "round_id": "157de2e6-dbb8-4dc1-b34a-dbe24744bd96",
+    "draw_title": "SCOTTSDALE 5oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/scottsdale-5oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "6fd03f8d8d8f246a3fc4776c41e8ba90934fbb9328da53b1a9f5d0ae94012895",
+    "drand_seed_hash": "9478460d338d33c02eefde18e0f8c085275c8e2b9635d69bdb100e46150aa99e06bf6fcf704f77a0640b743648f38c73",
+    "client_seed": "1788562512598",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 494,
+    "max_tickets": 750,
+    "combined_hash": "e605854c019112a793326db0bb22ebbaa3f3f14fe1f6939f8116089b915b9a66",
+    "result": "715",
+    "external_round_id": "31919718",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T22:55:12.000000Z",
+    "revealed_at": "2026-09-04T22:55:18.000000Z"
+}
