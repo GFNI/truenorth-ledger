@@ -1,0 +1,22 @@
+{
+    "round_id": "2c590cda-7df6-4c43-9300-75ab16a96d5a",
+    "draw_title": "TEST 3",
+    "competition_url": "https://championwincompetitions.co.uk/admin/products/test-3",
+    "operator": {
+        "name": "Champion Win Competitions Ltd",
+        "website": "https://championwincompetitions.co.uk",
+        "company_number": "16303779"
+    },
+    "drand_server_seed": "cc3e8ad3fb36a6e7380e420217ee1dc14a8ca648b77131ec1cb7e92031074a18",
+    "drand_seed_hash": "8367031271e09aea5cb43c4f2f3713d08dd0e81e6706ebe3b6843be57c705c062f249be1c9af052a93dc9d2adf3614ca",
+    "client_seed": "1788502499446",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2,
+    "max_tickets": 10,
+    "combined_hash": "b4f42264a6c369abc5ca96fa05bdb33b02edc14b6f191de0d214fe6403818120",
+    "result": "9",
+    "external_round_id": "31899714",
+    "processing_status": "completed",
+    "created_at": "2026-09-04T06:14:59.000000Z",
+    "revealed_at": "2026-09-04T06:15:06.000000Z"
+}
