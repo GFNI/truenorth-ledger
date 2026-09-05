@@ -1,0 +1,22 @@
+{
+    "round_id": "5aa0cb0e-aa20-46e7-9f20-c56c869b8f62",
+    "draw_title": "DAILY 1oz FINE SILVER BRITANNIA #0027",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/daily-1oz-fine-silver-britannia-0027",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "4f39e39544f9235be1b23e88276da6ed8b27d0b1f5696b9795beb5b5c8e9501c",
+    "drand_seed_hash": "a277d702bcadc1c4805237ab02a7869012b62210912b92775cd7a6706e7775db43c46ff9fde665442afd6046089c6f20",
+    "client_seed": "1788648927583",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71,
+    "max_tickets": 150,
+    "combined_hash": "134b86ccae91b927e6bd98b8880d63884357377320e7fc188912bec24d0e124e",
+    "result": "58",
+    "external_round_id": "31948523",
+    "processing_status": "completed",
+    "created_at": "2026-09-05T22:55:27.000000Z",
+    "revealed_at": "2026-09-05T22:55:33.000000Z"
+}
