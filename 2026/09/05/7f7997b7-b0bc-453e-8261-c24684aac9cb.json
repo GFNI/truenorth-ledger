@@ -1,0 +1,22 @@
+{
+    "round_id": "7f7997b7-b0bc-453e-8261-c24684aac9cb",
+    "draw_title": "ITR PREZIOSI ITALY 5OZ FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/itr-preziosi-italy-5oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "cbd076274c9b49df2a5b46ad0b28f0567ed12b845bac993e4930d948157ed94a",
+    "drand_seed_hash": "8000382656b3224f4cff1f23e9a00269eab631a2be0f204b4025aad6915dc74c318d2a2e9478858f72466a1be841328f",
+    "client_seed": "1788648933536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 547,
+    "max_tickets": 750,
+    "combined_hash": "2c301bb8df5c0565a58732b62ab7fc3d8bdde697f438b9fb4c32998fb82ad446",
+    "result": "49",
+    "external_round_id": "31948525",
+    "processing_status": "completed",
+    "created_at": "2026-09-05T22:55:33.000000Z",
+    "revealed_at": "2026-09-05T22:55:39.000000Z"
+}
