@@ -1,0 +1,22 @@
+{
+    "round_id": "16ba342c-1b47-41ec-b73b-d44bb31dc50d",
+    "draw_title": "2016 PAMP SUISSE YEAR OF THE MONKEY 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2016-pamp-suisse-year-of-the-monkey-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3f8a8503c3c8095948345e5e481c39ae051c13ddcd4a409995d348908215638c",
+    "drand_seed_hash": "8592d53dc26db561a543c110775e8de6089ba7e7c059062b587b2a95aff3f6d0e3b2e4c79ee300982a0995a10dbfab20",
+    "client_seed": "1788648921050",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 150,
+    "combined_hash": "ce36387e919f55230d80b7d69b79334e7bec5c93dcb8142ece9f815f849d0006",
+    "result": "113",
+    "external_round_id": "31948521",
+    "processing_status": "completed",
+    "created_at": "2026-09-05T22:55:21.000000Z",
+    "revealed_at": "2026-09-05T22:55:27.000000Z"
+}
