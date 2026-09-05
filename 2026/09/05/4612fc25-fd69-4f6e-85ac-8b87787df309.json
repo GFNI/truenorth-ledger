@@ -1,0 +1,22 @@
+{
+    "round_id": "4612fc25-fd69-4f6e-85ac-8b87787df309",
+    "draw_title": "🎉 FREE APP-ONLY COMPETITION – BIG FAT SATURDAY NIGHT TAKEAWAY! 🍔🍕🍟 (05/09/2026) READ THE DESCRIPTION IN FULL",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/free-app-only-competition-big-fat-saturday-night-takeaway-05092026-read",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "b20cefe34c733652a84d47e714a0898029ca1366b150a1028cebdc2183d05bff",
+    "drand_seed_hash": "a76ce25f1238ddeca68741134074a7a16580c2fab26391949b2dfda0a35698d62147ddb4d7ad8681d4f50995d24a3566",
+    "client_seed": "1788623715498",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24,
+    "max_tickets": 9999,
+    "combined_hash": "b8fe9b7beebb14ffc218366d9db9a5400a7d3c9a1c0a5f458a841a725323604c",
+    "result": "8259",
+    "external_round_id": "31940119",
+    "processing_status": "completed",
+    "created_at": "2026-09-05T15:55:15.000000Z",
+    "revealed_at": "2026-09-05T15:55:21.000000Z"
+}
