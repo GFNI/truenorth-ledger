@@ -1,0 +1,22 @@
+{
+    "round_id": "1c560542-50af-4699-aef4-c107798ff56f",
+    "draw_title": "25 Tickets To Mystery Vaults",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/25-tickets-to-mystery-vaults",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "2e91ef717abd6b7f30c9f887020c1fab20fd353c2a8d89c857963e7e871e425d",
+    "drand_seed_hash": "8c11020f5e24354d982b74f569541502bb782400b3e0ed041b6fad062927538e41052963f12b7259a7203a6c4628c8c7",
+    "client_seed": "1788635421122",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 140,
+    "combined_hash": "64a2e1922544fee0e2724779b8343540579f86ed73ca0035d093c53554566198",
+    "result": "29",
+    "external_round_id": "31944021",
+    "processing_status": "completed",
+    "created_at": "2026-09-05T19:10:21.000000Z",
+    "revealed_at": "2026-09-05T19:10:27.000000Z"
+}
