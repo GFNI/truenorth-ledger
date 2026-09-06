@@ -1,0 +1,22 @@
+{
+    "round_id": "9b5698b5-a8f1-413e-8a10-4b2bcce8b4cb",
+    "draw_title": "LIFE’S A BEACH",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/lifesabeach",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "c9fad66d005283b7b61451f71bfb72f434731dc421585e2820444f2861145f9e",
+    "drand_seed_hash": "8533b6e2cd639d1d320299a50cd0a2b98e31e8b2b6594cd9e89cba9558116ed6b8f554cb34e97fa946c29c326f554bad",
+    "client_seed": "1788723972286",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 224900,
+    "max_tickets": 500000,
+    "combined_hash": "afce467e49e1d50476a045430d696a80d95f2fed8a815e81b9347b3c94da556b",
+    "result": "69648",
+    "external_round_id": "31973538",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T19:46:12.000000Z",
+    "revealed_at": "2026-09-06T19:46:18.000000Z"
+}
