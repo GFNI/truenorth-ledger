@@ -1,0 +1,22 @@
+{
+    "round_id": "c94c19fa-0743-4685-b356-96ed336e2db7",
+    "draw_title": "12K THUNDERBALL",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/12k-thunderball-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0674f5a9658082fbb7faa0144fd54194d5b9a8e9262249bbc7dceaaafd8ddbb2",
+    "drand_seed_hash": "8f7773c7919fd4cf56a4efde761c0233a1510780b9776b2a44b007638bbc304e32f0c4fb00be80b66186afbfb8049e04",
+    "client_seed": "1788724925630",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20127,
+    "max_tickets": 48000,
+    "combined_hash": "33215c1c7ce608cdb7b885bd3b85fcfc093a4a2f51e53c2b098a7177e4ba2a38",
+    "result": "23860",
+    "external_round_id": "31973856",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:02:05.000000Z",
+    "revealed_at": "2026-09-06T20:02:12.000000Z"
+}
