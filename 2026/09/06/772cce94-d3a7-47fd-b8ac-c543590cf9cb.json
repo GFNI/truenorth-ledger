@@ -1,0 +1,22 @@
+{
+    "round_id": "772cce94-d3a7-47fd-b8ac-c543590cf9cb",
+    "draw_title": "POP A GRAND - £1,000 CASH END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/pop-a-grand-ps1000-cash-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "15a18bc3dd9dfb4e7ce56cfefcf6ff97ba8b426f57b02b558211f73c27df1025",
+    "drand_seed_hash": "8193e0f9f178263cc5c65cc0faa43a535ff086b653b505e759d305c3bc433c7d9bee73c50ac33d36bc580870af3debbf",
+    "client_seed": "1788726379978",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7743,
+    "max_tickets": 25000,
+    "combined_hash": "ad0351e787514d6f842b99887dbf016b82d766f444668b1fac2d482c566450e0",
+    "result": "21254",
+    "external_round_id": "31974341",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:26:20.000000Z",
+    "revealed_at": "2026-09-06T20:26:27.000000Z"
+}
