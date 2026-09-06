@@ -1,0 +1,22 @@
+{
+    "round_id": "5c154fa7-55e4-4f64-aee1-2631d85ba543",
+    "draw_title": "2026 THE LION AND THE EAGLE 1OZ FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2026-the-lion-and-the-eagle-1oz-fine-silver-coin-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2f4cbc4c3e07f8e8f8991aa8ddd983119155304b69c73b177e8c930cc21fc111",
+    "drand_seed_hash": "b98272559086e388b64c27079a3f20f6bf5ca0bf4bb8ef41bbb9f13cdc7792f90e659d25734e896248cede6835fe2648",
+    "client_seed": "1788735324487",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 150,
+    "combined_hash": "575a1742ee7a6016d3a5b03333b49526d3ed26f955709d14c4acdffb7ae3b203",
+    "result": "12",
+    "external_round_id": "31977322",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T22:55:24.000000Z",
+    "revealed_at": "2026-09-06T22:55:30.000000Z"
+}
