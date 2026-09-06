@@ -1,0 +1,22 @@
+{
+    "round_id": "e222ae98-ba53-4963-b686-d76c440f9200",
+    "draw_title": "Keplin 5L Beer Dispenser",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/keplin-5l-beer-dispenser",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "f4594111ee697ae86a5601766d6f84b4ab58a2e7c4ad1a8e1257fd43c967b42b",
+    "drand_seed_hash": "8f944e7b683b4e9843091a4b1ee24fb87c3dd2a3e19fdb009b87592a2b167192e9b969098df911dd10664355dff5ea08",
+    "client_seed": "1788723291837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201,
+    "max_tickets": 500,
+    "combined_hash": "499b3152c9c1d1989049865e8d27b57198f0dfa087b8c603f40ca38caa9dd58f",
+    "result": "230",
+    "external_round_id": "31973311",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T19:34:51.000000Z",
+    "revealed_at": "2026-09-06T19:34:57.000000Z"
+}
