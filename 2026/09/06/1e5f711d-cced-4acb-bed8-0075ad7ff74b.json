@@ -1,0 +1,22 @@
+{
+    "round_id": "1e5f711d-cced-4acb-bed8-0075ad7ff74b",
+    "draw_title": "1g GOLD BAR GUARANTEED DRAW!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/1g-gold-bar-guaranteed-draw",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "54302cb4beeb93439b4e52d1871583b404c28121ca25864216c64170dd58dc56",
+    "drand_seed_hash": "ab687551acbd59b6777c5b089cd5efb9f3e748b6e9be1d15ca9674142bb29e74291c1481475ee9b909f573053f7ae73d",
+    "client_seed": "1788724948806",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 181,
+    "max_tickets": 350,
+    "combined_hash": "b68cd6bce6d179e3e4125707f014f32853ec3668b46cf1a5ac8aeda5e13a86d6",
+    "result": "85",
+    "external_round_id": "31973864",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:02:28.000000Z",
+    "revealed_at": "2026-09-06T20:02:36.000000Z"
+}
