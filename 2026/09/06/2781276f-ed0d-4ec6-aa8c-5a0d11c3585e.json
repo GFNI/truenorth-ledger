@@ -1,0 +1,22 @@
+{
+    "round_id": "2781276f-ed0d-4ec6-aa8c-5a0d11c3585e",
+    "draw_title": "Win a 1g Gold Bar or £185 Cash!",
+    "competition_url": "https://bullioncompetitions.co.uk/admin/products/win-a-1g-gold-bar-or-ps185-cash",
+    "operator": {
+        "name": "Mint Gold Ltd",
+        "website": "https://bullioncompetitions.co.uk",
+        "company_number": "SC749559"
+    },
+    "drand_server_seed": "5632573f5305788db5575bef813fea3585e8caf065d9ba2953dd49188b44d291",
+    "drand_seed_hash": "ab5f7f6b37bf8a14bb277f48e411b6e6d944121a29b6ecec40ef1b4cd8df967d1ed0978412cba587500bc1b522e6ba10",
+    "client_seed": "1788725412646",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 1000,
+    "combined_hash": "7bf513d8543fced08babfbe466cbc923f5f2ab82484b2f9f0477c3ab7d0d6f0f",
+    "result": "684",
+    "external_round_id": "31974018",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:10:12.000000Z",
+    "revealed_at": "2026-09-06T20:10:18.000000Z"
+}
