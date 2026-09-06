@@ -1,0 +1,22 @@
+{
+    "round_id": "7a16e945-1cb4-4b28-b68a-87b96a8a50a5",
+    "draw_title": "30 Entries into £80,000 Fortune",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-into-ps80000-fortune",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "d35f00b620b71239b3a902a793c9fea1b53449f82f696196e6682bb7f5d4917c",
+    "drand_seed_hash": "8ff903ae0746b35411af0ba207e3f5ac73bb5b76caa13369b02f86c31bbdd4708f813c5349ec4b75efe90431f4bb8814",
+    "client_seed": "1788726795113",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 141,
+    "max_tickets": 170,
+    "combined_hash": "2036815b8b72c3e204fb5fcf924dfe27755ae3ba12afcecfd113009134dee852",
+    "result": "137",
+    "external_round_id": "31974479",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:33:15.000000Z",
+    "revealed_at": "2026-09-06T20:33:21.000000Z"
+}
