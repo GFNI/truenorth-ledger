@@ -1,0 +1,22 @@
+{
+    "round_id": "3b47112a-ab32-4237-830a-dda43a3399ac",
+    "draw_title": "2 x 1oz Copper Coin or £10 CASH",
+    "competition_url": "https://bullioncompetitions.co.uk/admin/products/2-x-1oz-copper-coin-or-ps10-cash",
+    "operator": {
+        "name": "Mint Gold Ltd",
+        "website": "https://bullioncompetitions.co.uk",
+        "company_number": "SC749559"
+    },
+    "drand_server_seed": "5e926214edeb94de996c1294de2c03871ca594543b494ec3b9aacc2e25d9b74d",
+    "drand_seed_hash": "92b8f4a0bc9db128556e34fde02b56506363c90d970a448bf3c854332d797a59479671902150c91d8bf6ebf907347dc5",
+    "client_seed": "1788725406993",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 300,
+    "combined_hash": "ff42b0439d7eab4592b4ef5da4b3baafc72aeb6676d3681f79a60119e543f8c9",
+    "result": "160",
+    "external_round_id": "31974016",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:10:06.000000Z",
+    "revealed_at": "2026-09-06T20:10:12.000000Z"
+}
