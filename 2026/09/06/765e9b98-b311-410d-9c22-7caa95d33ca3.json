@@ -1,0 +1,22 @@
+{
+    "round_id": "765e9b98-b311-410d-9c22-7caa95d33ca3",
+    "draw_title": "BlazeX M3 Pro Laser Engraver",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/blazex-m3-pro-laser-engraver",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d20729d13dc0ccff427503716bc5959fc84312e5c0f0437016258653a5728136",
+    "drand_seed_hash": "aa774785760aa895a5ca0759f4770b944a08123010dddf0501f073e50e1932554e5897df48e735d47e99f7f812d3570c",
+    "client_seed": "1788722106482",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146,
+    "max_tickets": 400,
+    "combined_hash": "bdb1c8d3218da07cdfdbaf47c7e771b5d795ea2d9396d7bf2c2cf07784eecaba",
+    "result": "78",
+    "external_round_id": "31972916",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T19:15:06.000000Z",
+    "revealed_at": "2026-09-06T19:15:12.000000Z"
+}
