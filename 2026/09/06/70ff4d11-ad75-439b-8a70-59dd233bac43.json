@@ -1,0 +1,22 @@
+{
+    "round_id": "70ff4d11-ad75-439b-8a70-59dd233bac43",
+    "draw_title": "Revi 16\" Electric Balance Bike",
+    "competition_url": "https://a9competitions.co.uk/admin/products/revi-16-electric-balance-bike",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "dd24ac16836caa78cf644ee993132aeb1518fafd2d4cb33e2f64cb157f37334f",
+    "drand_seed_hash": "93aecbc4304ace24bd385ee519bdf9c7da6d42d441260ec440652f114a65621d5fac87d86d875c6ea41893612fd5b8be",
+    "client_seed": "1788726839527",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201,
+    "max_tickets": 399,
+    "combined_hash": "cea763f68a021e9139d7aa7513b79fe0c821860594abe381537980b8eec029d3",
+    "result": "374",
+    "external_round_id": "31974494",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:33:59.000000Z",
+    "revealed_at": "2026-09-06T20:34:06.000000Z"
+}
