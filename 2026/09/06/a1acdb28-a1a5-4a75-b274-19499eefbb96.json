@@ -1,0 +1,22 @@
+{
+    "round_id": "a1acdb28-a1a5-4a75-b274-19499eefbb96",
+    "draw_title": "Win a 1oz .925 Silver Coin or £75 Cash!",
+    "competition_url": "https://bullioncompetitions.co.uk/admin/products/win-a-1oz-925-silver-coin-or-ps75-cash",
+    "operator": {
+        "name": "Mint Gold Ltd",
+        "website": "https://bullioncompetitions.co.uk",
+        "company_number": "SC749559"
+    },
+    "drand_server_seed": "d99c5b0e0b8cdba38ead07c679b2eaad81997a5d9401e17352f9dc5edf5ea33e",
+    "drand_seed_hash": "a71da86a671789b441338681cb4e0851e862b706ae98fa279dc07ad059d54413773d34cee97a9b17c25ff962b9019693",
+    "client_seed": "1788725418554",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 600,
+    "combined_hash": "fde73667a2b36630cc1993143ef76c8663cabe6e4c32f92691356a0e4b855fc5",
+    "result": "582",
+    "external_round_id": "31974020",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:10:18.000000Z",
+    "revealed_at": "2026-09-06T20:10:24.000000Z"
+}
