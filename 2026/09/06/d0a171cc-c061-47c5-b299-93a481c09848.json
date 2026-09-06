@@ -1,0 +1,22 @@
+{
+    "round_id": "d0a171cc-c061-47c5-b299-93a481c09848",
+    "draw_title": "Penny Pincher - £250 End Prize",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/penny-pincher-ps250-end-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "7d4c41a9a5ab3fb9bbab61ef5f829af1fc58ed22d462816c29ff5e896f3ed469",
+    "drand_seed_hash": "9098b8f7925535114431a3598ab9ac78928ac411420753dce4a37d2ed177990cc3e309fa0e63aa76c9f71ff40815236f",
+    "client_seed": "1788725442571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57289,
+    "max_tickets": 1000000,
+    "combined_hash": "7c41b4e7d1a4e09ef8e5ffb2ef664214e8714e2b8fe43c9724f1cb138ec07255",
+    "result": "350141",
+    "external_round_id": "31974028",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:10:42.000000Z",
+    "revealed_at": "2026-09-06T20:10:48.000000Z"
+}
