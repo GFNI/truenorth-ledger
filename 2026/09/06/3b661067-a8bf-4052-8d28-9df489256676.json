@@ -1,0 +1,22 @@
+{
+    "round_id": "3b661067-a8bf-4052-8d28-9df489256676",
+    "draw_title": "51.10G 22ct GOLD TREASURE CHEST",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/5110g-22ct-gold-treasure-chest",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2e0bf641193d54a929f89cb28e8724a8465710eeb6185319e15a6c9c9039fc77",
+    "drand_seed_hash": "b69d1ba7919a1218a235b77f6488513e66281fe432e5619dfa5fc9a3c5af303bf491c4d953a4ec2f1d62de1e7823276c",
+    "client_seed": "1788725283210",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1973,
+    "max_tickets": 5000,
+    "combined_hash": "7b9fa36e3fc39dacc1bb76ed91be468c0945a0b9ced16e1deb0c07395f3d2784",
+    "result": "1956",
+    "external_round_id": "31973975",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:08:03.000000Z",
+    "revealed_at": "2026-09-06T20:08:09.000000Z"
+}
