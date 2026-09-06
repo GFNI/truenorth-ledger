@@ -1,0 +1,22 @@
+{
+    "round_id": "539cb1c0-3c23-4d9c-97dd-0fb2924501df",
+    "draw_title": "Toadstool Treasure | £500 Top Instant Win | £50 Main Prize",
+    "competition_url": "https://phatstax.co.uk/admin/products/toadstool-treasure",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "574c97c1ac6aa53696ea76c45f32fdab40344705f55c2b11e648ca1f3a004a0e",
+    "drand_seed_hash": "91afdd4a0631c02863a48d355527447c392ac143770acf09fbb7a02e02c280e131654a5264162136f28aabd4d7780f3d",
+    "client_seed": "1788724908964",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94040,
+    "max_tickets": 286999,
+    "combined_hash": "ec027db6c755d9e57f828c7e2547e7d55313f5bf47c4b36b125434058740f294",
+    "result": "227728",
+    "external_round_id": "31973851",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:01:49.000000Z",
+    "revealed_at": "2026-09-06T20:01:57.000000Z"
+}
