@@ -1,0 +1,22 @@
+{
+    "round_id": "3ddf3369-acb1-4e50-8e97-7e8b6ceb571c",
+    "draw_title": "Grand in your Hand!! 1p a Ticket can Bag you £1000",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/grand-in-your-hand-1p-a-ticket-can-bag-you-ps1000",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "ed1fabca22a7e5bb3eaf1410f230a8683f5180cbb11bd8bb5bf791d062a16f9c",
+    "drand_seed_hash": "a8a4b887c76ca82e4a53392303e722eacc1c8c4ea76bdab94a0ad5b131d7f8be60b85005e931eb7251ffec215ddae8ec",
+    "client_seed": "1788720185501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 242928,
+    "max_tickets": 400000,
+    "combined_hash": "a9a25be5c58ac99e9a09800f65da4900dc5c3c1d4bd25a756fcd9433594823b4",
+    "result": "387882",
+    "external_round_id": "31972276",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T18:43:05.000000Z",
+    "revealed_at": "2026-09-06T18:43:12.000000Z"
+}
