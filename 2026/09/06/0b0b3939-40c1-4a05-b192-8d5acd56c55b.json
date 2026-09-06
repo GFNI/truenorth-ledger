@@ -1,0 +1,22 @@
+{
+    "round_id": "0b0b3939-40c1-4a05-b192-8d5acd56c55b",
+    "draw_title": "DEAL OR NO DEAL LIVE!!!",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/deal-or-no-deal-live",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "5407a889c756604c1eea8e6b0dc16437cabdeb7d3da22e864b1d068f283f81f4",
+    "drand_seed_hash": "8c31b2c203487ca30eddf8f1f4ce12b32252e18d62e0304a30471c1a855625e21560d4f9ad588a5fb1a319b24f8d677e",
+    "client_seed": "1788728912688",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "18b1b1adbf347bd1f55b94f208033e6a7c5bab3f9077cf0f52ba1ec02cb6a7a4",
+    "result": "77",
+    "external_round_id": "31975185",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T21:08:32.000000Z",
+    "revealed_at": "2026-09-06T21:08:39.000000Z"
+}
