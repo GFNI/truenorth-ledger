@@ -1,0 +1,22 @@
+{
+    "round_id": "fdd222a9-a4ee-467a-b585-36579928158d",
+    "draw_title": "Thomas the Bank Engine | £50 Main Prize | £2000+ Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/thomas-the-bank-engine-ps50-main-prize-ps2000-instant-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "b7bf88da784dcfcbd3598e0b0ff3f202565f39311d0893ee00ba8dc28058e210",
+    "drand_seed_hash": "805bb16d1ced760ca736b2ebd64e81032c5dea17a662ed03266e91f94eced597ed1ecbf61ce0f5439752abe308b50cf1",
+    "client_seed": "1788724958394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21704,
+    "max_tickets": 63000,
+    "combined_hash": "650ab452b062b7ef3e644d9c111b4f6ed25cca5bd92cba807c05439bde9497dd",
+    "result": "18854",
+    "external_round_id": "31973867",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:02:38.000000Z",
+    "revealed_at": "2026-09-06T20:02:45.000000Z"
+}
