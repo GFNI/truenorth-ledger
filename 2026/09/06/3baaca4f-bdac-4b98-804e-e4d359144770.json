@@ -1,0 +1,22 @@
+{
+    "round_id": "3baaca4f-bdac-4b98-804e-e4d359144770",
+    "draw_title": "£300 FOR 30p",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ps300-for-30p",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "b272d7ee0f6951933cd54b4945e273975349345e6c41583f8abb0aa909a76cb7",
+    "drand_seed_hash": "8ae07737132a55cf31c94f68a765f0a19ee93a87dc375346d1394e61f7ff481f21c15489c798d4c09a1bbffff5950e5b",
+    "client_seed": "1788724869125",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1052,
+    "max_tickets": 2000,
+    "combined_hash": "d89aab5149d626be3deb85367d5a3233fa60c45db6ab628a965b444df9eeca1a",
+    "result": "793",
+    "external_round_id": "31973837",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:01:09.000000Z",
+    "revealed_at": "2026-09-06T20:01:15.000000Z"
+}
