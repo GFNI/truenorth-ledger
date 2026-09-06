@@ -1,0 +1,22 @@
+{
+    "round_id": "dc9d9fb0-544f-4ab7-968d-16e2936d4e17",
+    "draw_title": "🎣 MARV'S DEEP SEA FORTUNE! 🌊",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/marvs-deep-sea-fortune",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "da98d735e7a22e0cc5a4de4f56c3603f698fb96fa9dee283e9a4431b2c739c8a",
+    "drand_seed_hash": "85d4a09f2c338c25883ed2635c0c84d8d9f8b27c1f62aaa3b43dfd16afc2e36866f826ac2d7741daec7873f4daa4ad1c",
+    "client_seed": "1788701612801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65086,
+    "max_tickets": 300000,
+    "combined_hash": "746675a27b4c77f4a64f3045b6ae3baa44e37120e331df6f145f17ef213bdd4b",
+    "result": "102933",
+    "external_round_id": "31966085",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T13:33:32.000000Z",
+    "revealed_at": "2026-09-06T13:33:39.000000Z"
+}
