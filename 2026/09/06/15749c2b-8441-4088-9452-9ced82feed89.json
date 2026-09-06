@@ -1,0 +1,22 @@
+{
+    "round_id": "15749c2b-8441-4088-9452-9ced82feed89",
+    "draw_title": "Win 20x Brand New Revvi Tickets - Draw 2",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-brand-new-revvi-tickets-draw-2",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "2d0f7efcce8e5ced9dc1f37f3d0e9524ed4ff7ce7c94419114a482a35e5792a1",
+    "drand_seed_hash": "8e94ebfc2e2fcc1429c6274c7143b701db8c940bd15af44c4f4a8dbea26d69cacd62e893c958cc06dd6f4c10d54f8007",
+    "client_seed": "1788708440903",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "0c032bf1b47f036ca559469b269ebe491885ed441e12532af3afffc44c8c642d",
+    "result": "63",
+    "external_round_id": "31968361",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T15:27:20.000000Z",
+    "revealed_at": "2026-09-06T15:27:27.000000Z"
+}
