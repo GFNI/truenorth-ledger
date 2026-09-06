@@ -1,0 +1,22 @@
+{
+    "round_id": "e53a8dbc-9a7e-4933-8273-591f2a96e9db",
+    "draw_title": "A9 Wheel of Fortune",
+    "competition_url": "https://a9competitions.co.uk/admin/products/a9-wheel-of-fortune",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "6cab4d73f32f1e9da43ff60efdbf6d9a9da0cb78563034f7fdf2c50e87e70fc9",
+    "drand_seed_hash": "b2b4e0ec193c378ee283af8c2f07f52dc781a3c0e71987678402e1e9f4bc832128454f4d051380549f139cbd5edfe596",
+    "client_seed": "1788726875107",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1012,
+    "max_tickets": 8999,
+    "combined_hash": "5584f227f907bfcb1e4eb03c9e7f53de2113598d20d32ac56af2b775d335f58f",
+    "result": "4489",
+    "external_round_id": "31974506",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:34:35.000000Z",
+    "revealed_at": "2026-09-06T20:34:42.000000Z"
+}
