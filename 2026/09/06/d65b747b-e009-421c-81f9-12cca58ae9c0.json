@@ -1,0 +1,22 @@
+{
+    "round_id": "d65b747b-e009-421c-81f9-12cca58ae9c0",
+    "draw_title": "2016 1oz FINE GOLD BRITANNIA",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2016-1oz-fine-gold-britannia",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "59aea742a8666957b0e101f80d1668b3a8e6db01a4d06909c5d572687f0d9bb6",
+    "drand_seed_hash": "b36a7724856cf607adf88fab66205d0062c16e6c14015517ed8973903c15f56a7f74cf24870525b9797560a678d99cb9",
+    "client_seed": "1788725188199",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1407,
+    "max_tickets": 2500,
+    "combined_hash": "135d7068d3ce066fbe473c74736d951e7f80ef4b243c837881dbeb8fa2525138",
+    "result": "1824",
+    "external_round_id": "31973943",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:06:28.000000Z",
+    "revealed_at": "2026-09-06T20:06:33.000000Z"
+}
