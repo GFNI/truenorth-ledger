@@ -1,0 +1,22 @@
+{
+    "round_id": "04157b38-4135-41be-af12-1d74d3a03442",
+    "draw_title": "MINI DRAW - WIN 2500 TICKETS INTO £2000 CASH COMP (LOW ODDS)",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/mini-draw-win-2500-tickets-into-ps2000-cash-comp-low-odds-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "f39f6658ef8abd975f99de7b89b45ccb0a5463dc8a653527be3ab2203c0bffbf",
+    "drand_seed_hash": "abf6f1eb9eb96a6e3cc61d3b14faa979a9a9015e9a814588a21991f357a995ff7d24d54e35377c927b5c6cf795f2fdf2",
+    "client_seed": "1788692836479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 25,
+    "combined_hash": "9b0543f154ef9c376562dc01004ae7654a958c0b5298891545fa561e034045e5",
+    "result": "4",
+    "external_round_id": "31963160",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T11:07:16.000000Z",
+    "revealed_at": "2026-09-06T11:07:24.000000Z"
+}
