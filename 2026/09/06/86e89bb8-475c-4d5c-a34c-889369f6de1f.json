@@ -1,0 +1,22 @@
+{
+    "round_id": "86e89bb8-475c-4d5c-a34c-889369f6de1f",
+    "draw_title": "💥 1066 MEGA: Build Your Ultimate Warhammer Army - 1k End Prize + £500 Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/1066-mega-build-your-ultimate-warhammer-army-1k-end-prize-ps500-instant-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "307454f69611f833e97077d059fbddc0b2f17788d2727b5ad4587f18d182a4f9",
+    "drand_seed_hash": "a5ad8b9eca25ffa3ce493a81757c0a34d6441875b440c9db519ddda9ac70ceddba2a352183fa6ed8308251f3db986de7",
+    "client_seed": "1788730434988",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2875,
+    "max_tickets": 9999,
+    "combined_hash": "bb1ede020c91eedd70418c6e988e7027a1f14c5e5dfc8a3cdd9d798380ea3d5f",
+    "result": "6103",
+    "external_round_id": "31975692",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T21:33:54.000000Z",
+    "revealed_at": "2026-09-06T21:34:00.000000Z"
+}
