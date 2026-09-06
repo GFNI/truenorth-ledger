@@ -1,0 +1,22 @@
+{
+    "round_id": "a10606a6-2de5-43ae-a27f-9cc34847860c",
+    "draw_title": "2008 BREITLING NAVITIMER AUTOMATIC CHRONOGRAPH",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2008-breitling-navitimer-automatic-chronograph",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "d8804a1d2c156cadac3843388a89553fb8ebcfeeec967e7eada4b3b25c87c954",
+    "drand_seed_hash": "a670952c88874c70edf33a302ac37d59f982c1608962537f5032ae4c37f73ee82a4ee30317e6519a167092ad5f00ae98",
+    "client_seed": "1788725097886",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1093,
+    "max_tickets": 2500,
+    "combined_hash": "fec743a63e9ec49e37a1a108c7b1edc5db85a6d1f9cdfbe95d50090f453df8fe",
+    "result": "2467",
+    "external_round_id": "31973913",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:04:57.000000Z",
+    "revealed_at": "2026-09-06T20:05:03.000000Z"
+}
