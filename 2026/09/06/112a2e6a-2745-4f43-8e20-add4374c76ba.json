@@ -1,0 +1,22 @@
+{
+    "round_id": "112a2e6a-2745-4f43-8e20-add4374c76ba",
+    "draw_title": "£50 x 50 Instant Wins | £50 End Prize | £2500 Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/ps50-x-50-instant-wins-ps50-end-prize-ps2500-instant-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "71a4d5b3711ed15012b1b8cbf23772deb99484739033a6450a6c2e643be36a96",
+    "drand_seed_hash": "b1d89df2bc3b2a6396aee22515ed15b4e6518d5572eec9baf02c6c76dcc2a9a70714f2aa6f0a233fcb4b29f756247c5b",
+    "client_seed": "1788725027271",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16136,
+    "max_tickets": 111000,
+    "combined_hash": "5e3e53631e9b5fe836b02067b9628157470d0199177b03c4b316038b9342f09b",
+    "result": "67839",
+    "external_round_id": "31973890",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:03:47.000000Z",
+    "revealed_at": "2026-09-06T20:03:54.000000Z"
+}
