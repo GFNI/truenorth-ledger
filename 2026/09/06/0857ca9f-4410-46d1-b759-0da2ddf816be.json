@@ -1,0 +1,22 @@
+{
+    "round_id": "0857ca9f-4410-46d1-b759-0da2ddf816be",
+    "draw_title": "The Big Icon-X Bundle!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/the-big-icon-x-bundle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "ff45529d9fb8845aa3b36defe141f4a018307b487a19dc07712f5d65bf84e8fe",
+    "drand_seed_hash": "941128e7ccd943430fefafdd8d9c7731829bf774834cb36cdcfa4d8205e8792545c80318037256f1829b62cea9763041",
+    "client_seed": "1788722217041",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 350,
+    "max_tickets": 800,
+    "combined_hash": "427224587b6912651a4d9b49a7f068b7818fc5690bf5db25aac8e7ec4115cec8",
+    "result": "355",
+    "external_round_id": "31972953",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T19:16:57.000000Z",
+    "revealed_at": "2026-09-06T19:17:03.000000Z"
+}
