@@ -1,0 +1,22 @@
+{
+    "round_id": "b8f894f8-428e-4b9e-96fc-4ee3c843b46d",
+    "draw_title": "BOOSTER BOX BONANZA! #1 INSTANT WIN - AUTO DRAW",
+    "competition_url": "https://strikebigdraws.com/admin/products/booster-box-bonanza-1-instant-win-auto-draw",
+    "operator": {
+        "name": "Peck Digital LTD",
+        "website": "https://strikebigdraws.com",
+        "company_number": "17140404"
+    },
+    "drand_server_seed": "af997e0a4fa356df5c47672fb4f3ee3c0805af94b71264602e001d88936fad10",
+    "drand_seed_hash": "921c3d9d97043de1214ef1d61e2dbcf0beb69a81ac8131533d5de8b0657f7435eff1a53bd5a19049a0511f50aed77353",
+    "client_seed": "1788721815586",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4504,
+    "max_tickets": 25950,
+    "combined_hash": "a65e9945b38d14c5bdf0c98b4e50f1994cd1588afc62fb8b2c222f661abf83b6",
+    "result": "6993",
+    "external_round_id": "31972819",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T19:10:15.000000Z",
+    "revealed_at": "2026-09-06T19:10:21.000000Z"
+}
