@@ -1,0 +1,22 @@
+{
+    "round_id": "57e973cd-0d5f-483d-b86c-fe5c48499edf",
+    "draw_title": "LUCKY NUMBER 3 - £3,333 CASH END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/lucky-number-3-ps3333-cash-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "e103c11fc514189d89b57e267467081de1f5551a3d7e5076767c0441e65ef3ae",
+    "drand_seed_hash": "8a213fb09479bfebf1260d8ff290c9d9a066ddc85993e46747cce97fe0368e7f49a7ac880e8345a4f99c48e2acc3a516",
+    "client_seed": "1788726598527",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 290000,
+    "max_tickets": 290000,
+    "combined_hash": "1d381e1338b7be55da87c8c4fb89831e22532279fd5fcff0ef8acf8292dfc7fa",
+    "result": "7550",
+    "external_round_id": "31974414",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:29:58.000000Z",
+    "revealed_at": "2026-09-06T20:30:06.000000Z"
+}
