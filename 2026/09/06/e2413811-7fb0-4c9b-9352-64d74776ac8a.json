@@ -1,0 +1,22 @@
+{
+    "round_id": "e2413811-7fb0-4c9b-9352-64d74776ac8a",
+    "draw_title": "Win £10 Bullion Comps Site Credit!",
+    "competition_url": "https://bullioncompetitions.co.uk/admin/products/win-ps10-bullion-comps-site-credit",
+    "operator": {
+        "name": "Mint Gold Ltd",
+        "website": "https://bullioncompetitions.co.uk",
+        "company_number": "SC749559"
+    },
+    "drand_server_seed": "b162c92ad696bd88a9ccf864a57e204e745fe16e09253481fb9c49bfabd37838",
+    "drand_seed_hash": "86dc834475dd71efeff27554c828522156c9f71e10c06ca4eac7b5183e85a14e0e266ee1011405ad92c37309019573f4",
+    "client_seed": "1788725424537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 600,
+    "combined_hash": "54d5b57b0199c888fff42cfa402408a9585fe19ef9d1dc153816e559cb99000e",
+    "result": "197",
+    "external_round_id": "31974022",
+    "processing_status": "completed",
+    "created_at": "2026-09-06T20:10:24.000000Z",
+    "revealed_at": "2026-09-06T20:10:30.000000Z"
+}
