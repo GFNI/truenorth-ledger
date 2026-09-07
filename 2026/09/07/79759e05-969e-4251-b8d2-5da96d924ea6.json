@@ -1,0 +1,22 @@
+{
+    "round_id": "79759e05-969e-4251-b8d2-5da96d924ea6",
+    "draw_title": "Manifest Magic ✨",
+    "competition_url": "https://redlemonx.co.uk/admin/products/manifest-magic",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "47cd0fcca8becbaaeaed170c4c3daaaa6fe838284bdc8dd6af9c5ee839cc7097",
+    "drand_seed_hash": "a05f9a7ffc226deb2e8012a100f4b3a54aba739315db696a8943611a431b712528b9faf54f6d4423c9b4276c8227d629",
+    "client_seed": "1788811802790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 161674,
+    "max_tickets": 333333,
+    "combined_hash": "5f585dbe72f459135eba87c0ac2ca9bfc763e1f1f324195341f6ab56aa853910",
+    "result": "125039",
+    "external_round_id": "32002815",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T20:10:02.000000Z",
+    "revealed_at": "2026-09-07T20:10:09.000000Z"
+}
