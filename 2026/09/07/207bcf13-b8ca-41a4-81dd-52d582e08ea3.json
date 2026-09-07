@@ -1,0 +1,22 @@
+{
+    "round_id": "207bcf13-b8ca-41a4-81dd-52d582e08ea3",
+    "draw_title": "Risky Biscuit 🍪",
+    "competition_url": "https://redlemonx.co.uk/admin/products/risky-biscuit",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "f215ccf4dbb4d5bd154463292bfc09d40547d7126371769e85ea678566a11373",
+    "drand_seed_hash": "b18ea4961db3fc330a06538f71d0ec3914cd87bcc80e27b34fc5490451d053e68e1e8496bfbaaef315285eaf3370a947",
+    "client_seed": "1788811809681",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1443,
+    "max_tickets": 3000,
+    "combined_hash": "f14163f11ae33ac830c385fcf1def8359c2ec7f7d4ac9b78c2199aa4e3a69efc",
+    "result": "2",
+    "external_round_id": "32002817",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T20:10:09.000000Z",
+    "revealed_at": "2026-09-07T20:10:15.000000Z"
+}
