@@ -1,0 +1,22 @@
+{
+    "round_id": "e247c025-0f79-4a1d-91a4-f9baa4d117c3",
+    "draw_title": "🔥 The £500 money vault!",
+    "competition_url": "https://ohanacomps.com/admin/products/the-ps500-money-vault",
+    "operator": {
+        "name": "Ohana Competitions Ltd",
+        "website": "https://ohanacomps.com",
+        "company_number": "SC891635"
+    },
+    "drand_server_seed": "6bd0a8fcdcc2be8170f55411986e70dc453b3568b472bdc4ea496437ba6b462e",
+    "drand_seed_hash": "a787cb09d085ba9b99b1373c1734cb921512f66386f98e0fbf3a92e16ec5813c08f82240963211ef0fd4d5de2e81269f",
+    "client_seed": "1788810011126",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 400,
+    "combined_hash": "fc2f3f0d70dd91621002a7e1a3d2be8e65b35330d298898c8a116b16e9d139c4",
+    "result": "61",
+    "external_round_id": "32002218",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T19:40:11.000000Z",
+    "revealed_at": "2026-09-07T19:40:18.000000Z"
+}
