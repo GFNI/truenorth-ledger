@@ -1,0 +1,22 @@
+{
+    "round_id": "e488dce9-088a-447a-8667-8c04f3c5843e",
+    "draw_title": "WIN A FREE 500 TICKETS INTO TONIGHTS £2000 COMP",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-free-500-tickets-into-tonights-ps2000-comp",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "d4a0150bfb2b9f2b149c75555e08b3da79d25d285133f6811c557bc91bbcca15",
+    "drand_seed_hash": "88f10f2ddfddbd70da085fa0de031de01ed7d6a1c3a3a28ed48a9bc98fed459e8101a775aef18d45f45a1059ba001853",
+    "client_seed": "1788789541470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 123,
+    "combined_hash": "3a7bb76040728d56e9cee399820cfb4e66344029ceebbd07f6fe76aee2d80a05",
+    "result": "92",
+    "external_round_id": "31995395",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T13:59:01.000000Z",
+    "revealed_at": "2026-09-07T13:59:09.000000Z"
+}
