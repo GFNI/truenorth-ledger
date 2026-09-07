@@ -1,0 +1,22 @@
+{
+    "round_id": "8f4534b6-aa78-4cf2-bebd-17edc2a4396c",
+    "draw_title": "£300 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/3p-thriller-ps300-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "348acef75f7d000ecbfee8effa81fd677a82164c4660a6603af2663cb4466319",
+    "drand_seed_hash": "b678bb4ea65510df79bf979fd60958a14ef92b5f58747dddb6d7cb53b0c64e9a4339bf0817dcf21ffc7962cd8ca0ca5d",
+    "client_seed": "1788815804855",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200000,
+    "combined_hash": "bb238c2feb4ff4b8fa26b7ebd4fbb44435d0accab402d9da938c8a4e8784435b",
+    "result": "113340",
+    "external_round_id": "32004149",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T21:16:44.000000Z",
+    "revealed_at": "2026-09-07T21:16:54.000000Z"
+}
