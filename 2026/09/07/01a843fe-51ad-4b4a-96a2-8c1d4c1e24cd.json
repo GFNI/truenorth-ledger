@@ -1,0 +1,22 @@
+{
+    "round_id": "01a843fe-51ad-4b4a-96a2-8c1d4c1e24cd",
+    "draw_title": "WIN THE NEW FC27 + GTA VI🎮",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/win-the-new-fc27-gta-vi",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "1b745c568979bf0cf59c83757001203bf75dee7c0828b7b1a653988996ddb743",
+    "drand_seed_hash": "b6d1f0d5225c2c27f2c361c312e494dab37065bc0a268c7e378de313f74108926d100e2c14d90c668d24cb7ef8bfe9ba",
+    "client_seed": "1788811834284",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 990,
+    "max_tickets": 990,
+    "combined_hash": "a1449c4ede3522bb6d254287a746acef0ea667d743076c5bfaf20aab89cdfd3f",
+    "result": "884",
+    "external_round_id": "32002826",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T20:10:34.000000Z",
+    "revealed_at": "2026-09-07T20:10:42.000000Z"
+}
