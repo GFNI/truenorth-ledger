@@ -1,0 +1,22 @@
+{
+    "round_id": "c2f222d0-fb34-401c-903d-36d750710ecb",
+    "draw_title": "😈I DARE YOU - MYSTERY BOXES REVEALED LIVE ON TIKTOK! 🎥",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/i-dare-you-mystery-boxes-revealed-live-on-tiktok",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "e3dba0095e0a1a20220fccc37de830723a187607b42bf24e9e0383b3d8b20218",
+    "drand_seed_hash": "a4451019ee4c38617034fe20bf82945005b96e622b6cdc94b207e2a202fde2b965e725f9fc5d28703da0ce8a030fed63",
+    "client_seed": "1788811656689",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40000,
+    "max_tickets": 40000,
+    "combined_hash": "76d321de0ada9d0d6c5346ed063059c89595d0b4b55a63dbb85427e005c622fb",
+    "result": "38775",
+    "external_round_id": "32002766",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T20:07:36.000000Z",
+    "revealed_at": "2026-09-07T20:07:42.000000Z"
+}
