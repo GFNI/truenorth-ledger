@@ -1,0 +1,22 @@
+{
+    "round_id": "acd9ffeb-5c8e-4334-8c38-74ded99fc5c4",
+    "draw_title": "🏆 2021 Volkswagen Golf R 🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/2021-volkswagen-golf-r",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "2ef36882e66a2084241f6795fb349a387c41a236cebd5b92b3a63aec054694d7",
+    "drand_seed_hash": "95af1137ba12b355e2c85eeb0cd4e6e7fed075838d55da854cee5762e456481963b3b6e88c0c40ae40a408ac4f6f8579",
+    "client_seed": "1788809259177",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28750,
+    "max_tickets": 37500,
+    "combined_hash": "911d2fecd8fd7242a381504eb07e55cadfa412ecd17d2ab44718b159858a2566",
+    "result": "35738",
+    "external_round_id": "32001967",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T19:27:39.000000Z",
+    "revealed_at": "2026-09-07T19:27:45.000000Z"
+}
