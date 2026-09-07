@@ -1,0 +1,22 @@
+{
+    "round_id": "1880c9c7-76cb-4a34-a65f-b3a13e83419b",
+    "draw_title": "Jelly Joy 🧸",
+    "competition_url": "https://redlemonx.co.uk/admin/products/jelly-joy",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "f674cb220a52624c5289e4942547d57b2b85c31a12866758a339f0f3b7c23b29",
+    "drand_seed_hash": "b0ec491f55f08a088f00829b187d39cb1e133b9d0b13314cdae4baaacd0c23052498459eac91384888dd24324519eefc",
+    "client_seed": "1788811815530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3469,
+    "max_tickets": 5000,
+    "combined_hash": "2f4730b21ad271fdd59d7f8032a538dc92d5dcd97b176c932a726f7c4c8bcb79",
+    "result": "3400",
+    "external_round_id": "32002819",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T20:10:15.000000Z",
+    "revealed_at": "2026-09-07T20:10:21.000000Z"
+}
