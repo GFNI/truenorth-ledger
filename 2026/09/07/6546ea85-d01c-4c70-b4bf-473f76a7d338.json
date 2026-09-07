@@ -1,0 +1,22 @@
+{
+    "round_id": "6546ea85-d01c-4c70-b4bf-473f76a7d338",
+    "draw_title": "MYSTERY 3K CASH GRAB - £200 END PRIZE",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/mystery-3k-cash-grab-ps200-end-prize",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "ffae9104d80da60ce61b696d6dabcbb932fc8a1f6cdc9c0f7572a2b6a3bcd03a",
+    "drand_seed_hash": "8028e861b1b8216b9fbabed7b868637b328abb17b728b9646f779c2929f82c95260d1df33a3e14f80b8f64fcdb889ec1",
+    "client_seed": "1788808327645",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4677,
+    "max_tickets": 20000,
+    "combined_hash": "101cbf2facb4443aff6ade8607e99130cb52ee7e0b936ee8a54bca924de7eb85",
+    "result": "13713",
+    "external_round_id": "32001657",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T19:12:07.000000Z",
+    "revealed_at": "2026-09-07T19:12:15.000000Z"
+}
