@@ -1,0 +1,22 @@
+{
+    "round_id": "4f4c995e-47fc-42e4-9946-82bba64c70ad",
+    "draw_title": "£100 CASH + WIN BIG TICKET BUNDLES INSTANTLY",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/ps100-cash-win-big-ticket-bundles-instantly-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "49f7b69a6595f09c862c3d17ea4711e442194ffbb0b2acd37569ff047d3b0d9c",
+    "drand_seed_hash": "ae5d39074731980db87d2cd21ce3ff569d6b682051c7a3e6e83a9844f81cd02af4d3a31d70df9b5a4371ecf37bfd8c01",
+    "client_seed": "1788815523914",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21568,
+    "max_tickets": 25000,
+    "combined_hash": "d1879821f089e34bd800742d5f9eae9a797dcb02f6889af78bfc4ef6ecfd57ba",
+    "result": "19370",
+    "external_round_id": "32004055",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T21:12:03.000000Z",
+    "revealed_at": "2026-09-07T21:12:09.000000Z"
+}
