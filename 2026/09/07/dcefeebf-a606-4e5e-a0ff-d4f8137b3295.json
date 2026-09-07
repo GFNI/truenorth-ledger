@@ -1,0 +1,22 @@
+{
+    "round_id": "dcefeebf-a606-4e5e-a0ff-d4f8137b3295",
+    "draw_title": "WIN £2000 CASH + UP TO £500 JACKPOT INSTANTLY",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-ps2000-cash-up-to-ps500-jackpot-instantly-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "3b6cf6b646c9d24fbc90482edeea35da3389ad2ae2ae733483efbd582a17d313",
+    "drand_seed_hash": "8a15e571cd955e94c2227f48c13a5cda12f54e3801dcdff740eaf6af55ce82a9e79d44957a907826c6c00972c5f12f82",
+    "client_seed": "1788815952571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 678482,
+    "max_tickets": 999999,
+    "combined_hash": "8579865b68ae16e57a26dd8ba2574ed9b76ae012d189b63812314565d704e111",
+    "result": "541125",
+    "external_round_id": "32004198",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T21:19:12.000000Z",
+    "revealed_at": "2026-09-07T21:19:18.000000Z"
+}
