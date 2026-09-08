@@ -1,0 +1,22 @@
+{
+    "round_id": "0a3c6f1a-a88b-4d05-989b-49fa0b1262f7",
+    "draw_title": "🔴LOW ODDS TUESDAY £10K - ENTER FOR £10 #12",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/low-odds-tuesday-ps10k-enter-for-ps10-12",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "77ee07a5305d26bc743f2987b1a62b1aabf03f0cd2313c6e05d447a4294d7afe",
+    "drand_seed_hash": "a1e70736d092556bfbe775c7ae68fd4f47a4f3fa2a22619fe5e6256de91abb7fa6d4397b8eaee7acb64ea4ed690a5183",
+    "client_seed": "1788891814100",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "f0bf605cc90b01971d4e8678cbb4ffc5da5a60afcb8f8ad1efb8719c79e8d6ff",
+    "result": "965",
+    "external_round_id": "32029486",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T18:23:34.000000Z",
+    "revealed_at": "2026-09-08T18:23:42.000000Z"
+}
