@@ -1,0 +1,22 @@
+{
+    "round_id": "fefb8de4-c24d-48a3-a8d9-97f5406984e4",
+    "draw_title": "Scratch n win",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/scratchnwin",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "9ff594702cf3abd51212246c1046237918e6b884844185f949a5ad28605cb877",
+    "drand_seed_hash": "af2d2cd7771fbd67a0e6fc196a4c7a7d473df886c0a7a0d0c03076cb55b5ec74836cd6e80826b7c8ccc7c2c5af2d462f",
+    "client_seed": "1788869608472",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 718013,
+    "max_tickets": 782000,
+    "combined_hash": "1afc772c33932fbebab8e0ee6d2b8b2b62b6313bee20fd2550b5f51e686d2e88",
+    "result": "32827",
+    "external_round_id": "32022084",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T12:13:28.000000Z",
+    "revealed_at": "2026-09-08T12:13:36.000000Z"
+}
