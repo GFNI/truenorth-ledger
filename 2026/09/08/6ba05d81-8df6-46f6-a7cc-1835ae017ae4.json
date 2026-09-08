@@ -1,0 +1,22 @@
+{
+    "round_id": "6ba05d81-8df6-46f6-a7cc-1835ae017ae4",
+    "draw_title": "£1,500 Cash Plus £3,000 Instant Wins",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps1500-cash-plus-ps3000-instant-wins-2",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "606b90904aad15607c5dbab549a22637f70966ee6eb6b2515ed62dc74de44ed9",
+    "drand_seed_hash": "b0ea7b47739487533f6f936991f301c00a2b50994dda0e462c06ddac8b059d7598f488cbe99ea81f12fba5513447f479",
+    "client_seed": "1788902459271",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3533,
+    "max_tickets": 4500,
+    "combined_hash": "f6906299222d21401873d2691e5adb9c3e27515b7e15590855a0a1565b6fbf5d",
+    "result": "3687",
+    "external_round_id": "32033034",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T21:20:59.000000Z",
+    "revealed_at": "2026-09-08T21:21:06.000000Z"
+}
