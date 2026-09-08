@@ -1,0 +1,22 @@
+{
+    "round_id": "718c2023-14bd-4784-9aee-6daeee55f91c",
+    "draw_title": "HOOK A DUCK! £500 END PRIZE! WIN UP TO £555 INSTANTLY!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/hook-a-duck-ps500-end-prize-win-up-to-ps555-instantly",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "e2df80e7f6487064760a8274ecc2fd672b9f44150b26cbd5ea2e029b43b624cc",
+    "drand_seed_hash": "a864296b0f5c02d60e485ae7166a777c3ac3839de3e50143275965704845c0f2b3c94500ecd591285b5ee73b25a8a084",
+    "client_seed": "1788895643444",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 171723,
+    "max_tickets": 350000,
+    "combined_hash": "6895bc0cb729adc540f5fc5335bac7d50007a3162c6ac9a89c044a75d43fc5a5",
+    "result": "185609",
+    "external_round_id": "32030762",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T19:27:23.000000Z",
+    "revealed_at": "2026-09-08T19:27:30.000000Z"
+}
