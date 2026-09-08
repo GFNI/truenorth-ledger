@@ -1,0 +1,22 @@
+{
+    "round_id": "43109e4b-8c84-41ee-af7c-1e49694d24c1",
+    "draw_title": "JELLY-CATS & JELLY-DOGS INSTANT WIN!",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jelly-cats-jelly-dogs-instant-win",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "5c61af9913eb3e73008bd41c8296fe1de3c72f81b148b3031e07c92d6e396de3",
+    "drand_seed_hash": "b580b117498d3d9fabc1914b9740f97fdfccb6a1e07a7bc500970c36679fe4f97a3ac9b7a1a42830657db2eb085196ab",
+    "client_seed": "1788858134749",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999,
+    "max_tickets": 1999,
+    "combined_hash": "6e1a2c9d011fa35191b903c1a18d4b4861cef94d455f5f7893bb53bbdee3aff7",
+    "result": "379",
+    "external_round_id": "32018259",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T09:02:14.000000Z",
+    "revealed_at": "2026-09-08T09:02:21.000000Z"
+}
