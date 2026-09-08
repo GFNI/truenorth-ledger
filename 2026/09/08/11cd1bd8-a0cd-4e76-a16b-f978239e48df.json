@@ -1,0 +1,22 @@
+{
+    "round_id": "11cd1bd8-a0cd-4e76-a16b-f978239e48df",
+    "draw_title": "£50K COPS & ROBBERS LOOT BOXES",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps50k-cops-robbers-loot-boxes",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "96869b2b9bd5c7a45e2b3ef914cdfd26f7232a7e83109cea35740a1532cfb8f8",
+    "drand_seed_hash": "89e5ac32819d267f302ee97164fa6a7a971d23d55a7e016d01d3d498fc1f4dd2d892f73e1a54dd78761a21a617457a9e",
+    "client_seed": "1788900028249",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10302,
+    "max_tickets": 99999,
+    "combined_hash": "361f06413c23996f34b58cecc21886e7a0302d3e2a7435a2738c4221df6a5126",
+    "result": "31156",
+    "external_round_id": "32032224",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T20:40:28.000000Z",
+    "revealed_at": "2026-09-08T20:40:36.000000Z"
+}
