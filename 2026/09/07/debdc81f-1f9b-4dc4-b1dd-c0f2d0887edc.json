@@ -1,0 +1,22 @@
+{
+    "round_id": "debdc81f-1f9b-4dc4-b1dd-c0f2d0887edc",
+    "draw_title": "🫧🧺 HIP HIP’S LOADS OF FUN 🧺🫧 AUTO DRAWN",
+    "competition_url": "https://hiphipprizehub.com/admin/products/hip-hips-loads-of-fun-auto-drawn",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "a8d4e426168dcc82aba22902f5756c27a4bcadb90f0b071b8ec015dd416d71ef",
+    "drand_seed_hash": "84849ee8b430ce1f270583649a5ec5c72133b3b28e256365f525c9fac8ec2e2c857fbca4a18abce3ba012d9a35f8d53d",
+    "client_seed": "1788825253025",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "268490e5ee186ae7108d711294be98ac52d2f38a0a4ea52f6ef168ef574afdca",
+    "result": "2479",
+    "external_round_id": "32007299",
+    "processing_status": "completed",
+    "created_at": "2026-09-07T23:54:13.000000Z",
+    "revealed_at": "2026-09-07T23:54:21.000000Z"
+}
