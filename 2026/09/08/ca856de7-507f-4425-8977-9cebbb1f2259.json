@@ -1,0 +1,22 @@
+{
+    "round_id": "ca856de7-507f-4425-8977-9cebbb1f2259",
+    "draw_title": "🍿 Snack Shop 🍿",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/snack-shop",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "4dd040584238deb02ce5934e9cc08116f1c8456dfb97a7881175b7e4df4c6cf3",
+    "drand_seed_hash": "a09a8d275ba317721d4eba55307bf8be36393539519c05c1a24270f570d30db1616adccfc16f62d8f82af35fcda8fc5a",
+    "client_seed": "1788884941714",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "befb269312d2ada4e76ea1d976515c5507ae7d7f927d203129fc25df69d345a1",
+    "result": "67",
+    "external_round_id": "32027195",
+    "processing_status": "completed",
+    "created_at": "2026-09-08T16:29:02.000000Z",
+    "revealed_at": "2026-09-08T16:29:09.000000Z"
+}
