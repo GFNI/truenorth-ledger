@@ -1,0 +1,22 @@
+{
+    "round_id": "4fb275ac-4968-4352-a4e6-3c7075e54d6b",
+    "draw_title": "FREE GIVEAWAY - M4A4 | Full Throttle Field-Tested",
+    "competition_url": "https://gamevaultgiveaways.com/admin/products/free-giveaway-m4a4-full-throttle-field-tested",
+    "operator": {
+        "name": "Game Vault Giveaway Ltd",
+        "website": "https://gamevaultgiveaways.com",
+        "company_number": "17087952"
+    },
+    "drand_server_seed": "9fc7426abb479f1e2235684a43be64f0428f917b59a76e6717a3d49ece436088",
+    "drand_seed_hash": "9713d9a41fd3f60b25b5f48c1132549838d07558f8f110066c87a60d40c8b1a03311a7df8059c669444c893c198ba1fc",
+    "client_seed": "1788949338592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 10000,
+    "combined_hash": "dc61816622f8baa598ba1df473d7798988fe2dc2ef975df0d48689365dd5de51",
+    "result": "5229",
+    "external_round_id": "32048660",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T10:22:18.000000Z",
+    "revealed_at": "2026-09-09T10:22:24.000000Z"
+}
