@@ -1,0 +1,22 @@
+{
+    "round_id": "f8e06b3e-bf45-4246-affd-5a4a783ea51b",
+    "draw_title": "Navy Destroyer Model",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/navy-destroyer-model",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "43b765ab1daea152e6578bdcbbfb6e0e0441e66dda93dd0a0ff3a0f371211ed7",
+    "drand_seed_hash": "a219096dd675d9808d792271f2254389af868205ab921973c8177d444bf3ad9bea92693857a95bbf1b5cfd52725c0525",
+    "client_seed": "1788981297950",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 250,
+    "combined_hash": "b495361e27fb7521bac1d59c5bd94ee9fb227090cb4684d311b28e9b10ef5d37",
+    "result": "249",
+    "external_round_id": "32059313",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:14:57.000000Z",
+    "revealed_at": "2026-09-09T19:15:03.000000Z"
+}
