@@ -1,0 +1,22 @@
+{
+    "round_id": "921d8517-7264-44b9-8e04-05cdbf376901",
+    "draw_title": "1p PRIZE PLINKO. £5,750 Prize Pot to be won Instantly!",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/1p-prize-plinko-ps5750-prize-pot-to-be-won-instantly",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "dc5cf6baafc7bae81671bff147c9f39f554bf5178bb27f515160ec5a4320ce12",
+    "drand_seed_hash": "85f8eef34c59a82d5156da40190aa74435917ae7e8b1bd5ba5b575e6b90edce1e2ff8c27f9e717bb9db9fc28b522ab35",
+    "client_seed": "1788982443976",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 341457,
+    "max_tickets": 999999,
+    "combined_hash": "3b8d4868a969894debed28d4bca593df929a408e264a85b10477f9f5f7cf5186",
+    "result": "586961",
+    "external_round_id": "32059696",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:34:04.000000Z",
+    "revealed_at": "2026-09-09T19:34:12.000000Z"
+}
