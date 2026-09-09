@@ -1,0 +1,22 @@
+{
+    "round_id": "c581fa96-7522-4096-9782-0517dde45bd0",
+    "draw_title": "GOLD RUSH RICHES - £400,000 INSTANT WINNER!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/gold-rush-riches-ps400000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "745ea14925d201f98973bdc6fb5646e32d4141ad2aed4b1e81eb929872d3950e",
+    "drand_seed_hash": "aa91c1c0866596e0a833ca1a4de583b0d3470f5f020bc95c539b40e9faeb16548743710230ba337bb5f84a85c153fca0",
+    "client_seed": "1788983389103",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 908198,
+    "max_tickets": 10000000,
+    "combined_hash": "49bfc5e3df781dbf84986286f2a6dde80451d10c7d6c0fd1341de88cc6e4e0e3",
+    "result": "1387594",
+    "external_round_id": "32060011",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:49:49.000000Z",
+    "revealed_at": "2026-09-09T19:49:57.000000Z"
+}
