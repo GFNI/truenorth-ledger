@@ -1,0 +1,22 @@
+{
+    "round_id": "e8dbf35f-bd47-42f6-98cb-fbbe849bde5b",
+    "draw_title": "THE MYSTERY LOOT BOX! £150,000 OF INSTANT WINS FOR JUST 5P A TICKET",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/the-mystery-loot-box-ps150000-of-instant-wins-for-just-5p-a-ticket",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "be7b43da43ee0d89ab151162b963f404dcc882f2108da031669895dada039b39",
+    "drand_seed_hash": "841c593ad388a9f172ee359260da6ee7407e63c09ada214fda96b1c1f33b6ed4be140c47682c4f13f7afbdfbc641c1ff",
+    "client_seed": "1788983238335",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123424,
+    "max_tickets": 7500000,
+    "combined_hash": "7866feb3c032e05b95939acc1701a37322f3168aeb545d81c83690df5cae28b9",
+    "result": "4794041",
+    "external_round_id": "32059960",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:47:18.000000Z",
+    "revealed_at": "2026-09-09T19:47:24.000000Z"
+}
