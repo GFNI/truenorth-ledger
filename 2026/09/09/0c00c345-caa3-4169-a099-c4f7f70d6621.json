@@ -1,0 +1,22 @@
+{
+    "round_id": "0c00c345-caa3-4169-a099-c4f7f70d6621",
+    "draw_title": "🎁 £50 JUST EAT VOUCHER 🎁",
+    "competition_url": "https://hiphipprizehub.com/admin/products/ps50-just-eat-voucher",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "641ac511a068afa9691b40121253dc190f0738ebe91e2dc36d0df8b9c4ab0a5b",
+    "drand_seed_hash": "b61280e6215c15c237b86f1c3673e17389ed5e8b5ec80ef0db3dcf1a5b585d74cbc5db49091817f2e363517ee4dd5b95",
+    "client_seed": "1788982135958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 395,
+    "max_tickets": 395,
+    "combined_hash": "82489efb43434f6522695afc51648d7cef54be6a27873b95c0cb84d6c4d9de31",
+    "result": "197",
+    "external_round_id": "32059593",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:28:56.000000Z",
+    "revealed_at": "2026-09-09T19:29:03.000000Z"
+}
