@@ -1,0 +1,22 @@
+{
+    "round_id": "5b09d6b1-8da0-4320-949f-a68c6efea227",
+    "draw_title": "LOW ODDS - £5,000 CASH + £10K INSTANT WINS",
+    "competition_url": "https://easybigwins.co.uk/admin/products/5ktoday",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "a277371992faea7e5107e0fe869de552778f631b09d36338428f6463d9aaaf08",
+    "drand_seed_hash": "a1104d024a3129c67b897704913ca7f79a2850037bee2f215c9a0ea3da9b810aa724c129b930cb188e1e6df0ca3744cb",
+    "client_seed": "1788986082388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 756,
+    "max_tickets": 2500,
+    "combined_hash": "07f2c72ca88fb470f38ab97af00e09b9f01486f04ac2c30c2cf705b745988aa8",
+    "result": "1128",
+    "external_round_id": "32060908",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T20:34:42.000000Z",
+    "revealed_at": "2026-09-09T20:34:48.000000Z"
+}
