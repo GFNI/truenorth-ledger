@@ -1,0 +1,22 @@
+{
+    "round_id": "f7102c87-5e25-4bbe-a822-df5f3dbeabc6",
+    "draw_title": "Win £30 worth of tickets into Avid Revolve Bed or £130 Cash - 3p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps30-worth-of-tickets-into-avid-revolve-bed-or-ps130-cash-3p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "761335d89fed95d35c3e0a2cb648f0ddf897ccae63023ad0c9381e2dcabc1765",
+    "drand_seed_hash": "8bdbedad6659468f6b167ab74a659ad970ebf8b88bcc60e394d20699572c125a5f4598733be271a1db18617ff779314d",
+    "client_seed": "1788973812612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 727,
+    "max_tickets": 1333,
+    "combined_hash": "f265b4c1fa8d7af513870ff34d186dd7664476807e47bd4b6f471f73d658f60d",
+    "result": "593",
+    "external_round_id": "32056818",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T17:10:12.000000Z",
+    "revealed_at": "2026-09-09T17:10:18.000000Z"
+}
