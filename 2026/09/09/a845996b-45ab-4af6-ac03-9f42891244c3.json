@@ -1,0 +1,22 @@
+{
+    "round_id": "a845996b-45ab-4af6-ac03-9f42891244c3",
+    "draw_title": "Trebor Lodge (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/2-night-stay-at-trebor-lodge",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "30a79b9db43e3a0e456ad66d58bd5bd308bebb4025e285f7524ce41c44b5d6e5",
+    "drand_seed_hash": "903348d8264eb862671af835441603199b5a7c219c51b4e937cef1ed604d69e7e0a3df6ece3768e439876eaa712c0de1",
+    "client_seed": "1788988589547",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 760,
+    "combined_hash": "bedfd4cb7e106c362ee2a761f89a0f36e8909f8145f6a7eaeda3dc7d3551ebc2",
+    "result": "119",
+    "external_round_id": "32061744",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T21:16:29.000000Z",
+    "revealed_at": "2026-09-09T21:16:36.000000Z"
+}
