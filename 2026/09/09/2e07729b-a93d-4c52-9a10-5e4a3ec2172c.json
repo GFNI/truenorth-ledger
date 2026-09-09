@@ -1,0 +1,22 @@
+{
+    "round_id": "2e07729b-a93d-4c52-9a10-5e4a3ec2172c",
+    "draw_title": "Duck Hunt",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/duck-hunt",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "952c0c4de1ca53b9e2beaf4f65d80e0adda69319fa2a1f918ec8b5720d9c6b6e",
+    "drand_seed_hash": "b8895386387efc2577a9bd4946391c734b159d53cbd5bbf9306a9df8f7d56a4df1794d2e2358eb4beb682bd99dbc2063",
+    "client_seed": "1788984618758",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56468,
+    "max_tickets": 150000,
+    "combined_hash": "e9cfc218a7682deaac6faf054ca5cb5be041e4bd782f4d02d0321c335b6d4d4a",
+    "result": "70394",
+    "external_round_id": "32060420",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T20:10:18.000000Z",
+    "revealed_at": "2026-09-09T20:10:24.000000Z"
+}
