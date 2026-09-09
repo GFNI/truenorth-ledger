@@ -1,0 +1,22 @@
+{
+    "round_id": "f2d399de-f5d4-4c77-9165-0c10df1e26e6",
+    "draw_title": "£5000 for 2p",
+    "competition_url": "https://speedcompetitions.co.uk/competition/ps5000-for-2p",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "f6e86aefc2e6a4399f0b5ce908e0474629b3ff516869515955c23161980a4830",
+    "drand_seed_hash": "8742fa705139eee059b52ffa709f991451f4a331b8fbd4cb06670cc5c10b52031ef76b170de1c7d004761e8b77c9a49b",
+    "client_seed": "1788983288977",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 228292,
+    "max_tickets": 334999,
+    "combined_hash": "8f677d5e1c0d5893ad8ed5472628ee5b543b5eda300e906f4355cc7c5d1ba938",
+    "result": "61548",
+    "external_round_id": "32059977",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:48:09.000000Z",
+    "revealed_at": "2026-09-09T19:48:15.000000Z"
+}
