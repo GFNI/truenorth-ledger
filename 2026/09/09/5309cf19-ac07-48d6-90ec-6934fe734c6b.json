@@ -1,0 +1,22 @@
+{
+    "round_id": "5309cf19-ac07-48d6-90ec-6934fe734c6b",
+    "draw_title": "Cashquake - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cashquake-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "ea1a7d6fd8e84b165ef73f142a2c031b1635d19bb48aaf46f4e3a0506a7b5d6d",
+    "drand_seed_hash": "ad305ce2e02a3d881546f7ae8f2ca37a82886d4c9c9c96a08acbadf2353c07a3acf111e4efc42fd59637e33de3762e70",
+    "client_seed": "1788983209083",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 375956,
+    "max_tickets": 399999,
+    "combined_hash": "073c78ca36035794e267351378e253a613a50814b5bde619ec06eb1458786c33",
+    "result": "85812",
+    "external_round_id": "32059951",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:46:49.000000Z",
+    "revealed_at": "2026-09-09T19:46:57.000000Z"
+}
