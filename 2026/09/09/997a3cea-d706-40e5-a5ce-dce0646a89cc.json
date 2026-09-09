@@ -1,0 +1,22 @@
+{
+    "round_id": "997a3cea-d706-40e5-a5ce-dce0646a89cc",
+    "draw_title": "🪩JOHNNY’S BINGO BONANZA - INSTANT WIN🪩 (AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/johnnys-bingo-bonanza-instant-win-autodraw-2",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "2f01c6296eec9ab449eeef3a767cda86525b092627342e9dadad542bae03025d",
+    "drand_seed_hash": "817ea0ab80e856eb9e80292ffb64d8962100e347abd6014d87ab747d62350ad9be8aa62bbb64ec43fb381da544b88b6c",
+    "client_seed": "1788984659327",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 283582,
+    "max_tickets": 500000,
+    "combined_hash": "8e7e74621b0b422b51202cc0ad42411566a88e6bb5b88d5d1fc165e92d092d86",
+    "result": "301743",
+    "external_round_id": "32060433",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T20:10:59.000000Z",
+    "revealed_at": "2026-09-09T20:11:03.000000Z"
+}
