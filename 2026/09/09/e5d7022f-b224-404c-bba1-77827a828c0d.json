@@ -1,0 +1,22 @@
+{
+    "round_id": "e5d7022f-b224-404c-bba1-77827a828c0d",
+    "draw_title": "CASH ALERT! - £250 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-alert-ps250-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "7897c831d870b9715255da5fb05ffdbd0391708610c15445b3b93e17b034b811",
+    "drand_seed_hash": "a10900f5e34437cda09defefe3cd6a33b08400effdbcf5d466404dc7b21d992d710f6a73f74dbfd7b20c33ed6e6cd204",
+    "client_seed": "1788982888450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1676052,
+    "max_tickets": 1799999,
+    "combined_hash": "2278d58d0d3d3acfd4221b1d3c70dc56feabb8b9182163389a9d00f087cce7b6",
+    "result": "1778700",
+    "external_round_id": "32059844",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:41:28.000000Z",
+    "revealed_at": "2026-09-09T19:41:36.000000Z"
+}
