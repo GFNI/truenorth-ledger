@@ -1,0 +1,22 @@
+{
+    "round_id": "59d83ba5-873e-4fa8-bdfb-70322cefb328",
+    "draw_title": "Family Gaming Bundle",
+    "competition_url": "https://chaotic.co.uk/competition/family-gaming-bundle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "adc78ad82eefc9f25fa11c4cdd936efb6bbef92cedb66da416ee575fc0550777",
+    "drand_seed_hash": "af00009eaee8999c1defbc537905810e6a9a16f0d4d8d436fd5dec97c0914b0a136752f0377dcfc45a5faf6da20ea235",
+    "client_seed": "1788982985679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7999,
+    "max_tickets": 7999,
+    "combined_hash": "67e46564fcbb7053fe9f7cc0591c7ae42f6e0f881f22ec7aa85064d3b59b0000",
+    "result": "1784",
+    "external_round_id": "32059876",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:43:05.000000Z",
+    "revealed_at": "2026-09-09T19:43:12.000000Z"
+}
