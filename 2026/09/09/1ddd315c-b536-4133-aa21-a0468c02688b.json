@@ -1,0 +1,22 @@
+{
+    "round_id": "1ddd315c-b536-4133-aa21-a0468c02688b",
+    "draw_title": "Fortune Fuse - £1000 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/fortune-fuse-ps1000-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "c9c7a57ba8aa8afa33ea3a815ccfd9f0cfe8cceb2279fe695a5d834952a7c666",
+    "drand_seed_hash": "94e05e7e7223b6e83fb462e5c8815cead0bd33f27b22cdca54e7ab8e24e6fd78b050dc19c731aee48b30735708f9a180",
+    "client_seed": "1788982911509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 857863,
+    "max_tickets": 859999,
+    "combined_hash": "03e67bc3e8f4a733c18697d9926a03e45768f04df744ebef36467ec9b42e9fba",
+    "result": "500745",
+    "external_round_id": "32059851",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:41:51.000000Z",
+    "revealed_at": "2026-09-09T19:41:57.000000Z"
+}
