@@ -1,0 +1,22 @@
+{
+    "round_id": "75ed9247-9b02-4e16-9f8f-91fc3296b823",
+    "draw_title": "Win £25 worth of tickets into Terreign Hoody of Choice + Terreign Instant Wins - 5p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-terreign-hoody-of-choice-terreign-instant",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "a2e848b6f9e3b4c9360edc937d916ac175ea051af4ffe42297d8c295f4f1a7ff",
+    "drand_seed_hash": "a01d3a87467ce85fb442dfd3ccc3649f93b210c9771877eb25b86075a535708b65261cc8f41f3892673e12e310ed8c04",
+    "client_seed": "1788973818603",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 568,
+    "max_tickets": 700,
+    "combined_hash": "5157975f721d5eb20314c716e8509eb23518af752f1ea2392ab8e1eb8edbe5c8",
+    "result": "610",
+    "external_round_id": "32056820",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T17:10:18.000000Z",
+    "revealed_at": "2026-09-09T17:10:24.000000Z"
+}
