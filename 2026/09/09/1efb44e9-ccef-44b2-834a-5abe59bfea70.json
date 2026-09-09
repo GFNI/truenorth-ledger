@@ -1,0 +1,22 @@
+{
+    "round_id": "1efb44e9-ccef-44b2-834a-5abe59bfea70",
+    "draw_title": "🗺️ ETIAW — THE GREAT BRITISH ADVENTURE 🇬🇧",
+    "competition_url": "https://hiphipprizehub.com/admin/products/etiaw-the-great-british-adventure",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "541562e78d144952b469bcef1b2a7080438c4b7491559acef19c3fd282d7de16",
+    "drand_seed_hash": "ae5183c67e43047106c7c869220b4a8a35e9a64cf0a2b14bad31bdc8360a61109ed447c72e717b4fa9a82b94e80dcd0d",
+    "client_seed": "1788981497189",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "002b6fdd5432dda86eb81bbeca986a8e0fd99244003e8e93233875408192d792",
+    "result": "241",
+    "external_round_id": "32059380",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:18:17.000000Z",
+    "revealed_at": "2026-09-09T19:18:24.000000Z"
+}
