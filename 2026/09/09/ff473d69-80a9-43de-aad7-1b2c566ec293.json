@@ -1,0 +1,22 @@
+{
+    "round_id": "ff473d69-80a9-43de-aad7-1b2c566ec293",
+    "draw_title": "IN FOR A PENNY",
+    "competition_url": "https://invictacompetitions.co.uk/admin/products/in-for-a-penny",
+    "operator": {
+        "name": "Kent Competitions",
+        "website": "https://kccomps.co.uk",
+        "company_number": "16255255"
+    },
+    "drand_server_seed": "eb682277997da97f6a2cf02d644d2a60b628250042b68b679aec69ec397c6eea",
+    "drand_seed_hash": "b05fcea42e6473f6a03ea19b1b20c49483944ed198903bca12b84246867efd6211a74a8d5428e0cdd40dd50a7376c6a4",
+    "client_seed": "1788982209666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19724,
+    "max_tickets": 199999,
+    "combined_hash": "e25944dde706a959fa10cc3f825651c8796d01167e420b4e1d81e085608e3de6",
+    "result": "62756",
+    "external_round_id": "32059617",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:30:09.000000Z",
+    "revealed_at": "2026-09-09T19:30:15.000000Z"
+}
