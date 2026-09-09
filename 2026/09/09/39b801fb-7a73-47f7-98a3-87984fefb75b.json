@@ -1,0 +1,22 @@
+{
+    "round_id": "39b801fb-7a73-47f7-98a3-87984fefb75b",
+    "draw_title": "The Lucky Catch",
+    "competition_url": "https://chaotic.co.uk/competition/the-lucky-catch-5000",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e76d05cd381d40f104cb978921c799d6855b85446c502e4c304a27a26ef8ef8c",
+    "drand_seed_hash": "815df498e95e65a66023bc5c99f7a7e3ea30716d2aae5e76de6b713ac4b3987ae364a73f7db4655554bc007bfe4f63e7",
+    "client_seed": "1788982536917",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500000,
+    "max_tickets": 500000,
+    "combined_hash": "55f24415c52d8bc1198987a66876cc1e7800f34facb5be8a8c68bb4fb4edaab4",
+    "result": "340022",
+    "external_round_id": "32059726",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:35:36.000000Z",
+    "revealed_at": "2026-09-09T19:35:42.000000Z"
+}
