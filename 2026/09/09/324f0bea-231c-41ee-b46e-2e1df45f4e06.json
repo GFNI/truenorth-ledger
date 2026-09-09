@@ -1,0 +1,22 @@
+{
+    "round_id": "324f0bea-231c-41ee-b46e-2e1df45f4e06",
+    "draw_title": "SAFE CRACKER - SALE NOW 3P",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/safe-cracker-sale-now-3p",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "d50223613a52aca49f2d96f6572410f6798035b852640a7bdd3ed416bf713362",
+    "drand_seed_hash": "8e42f5bb4d191d55c62b77e026f0da3be2eba974c74d162faa5a52db849c99521f3ac58e113dc292ae7864dca4cd56c9",
+    "client_seed": "1788982556988",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44103,
+    "max_tickets": 120000,
+    "combined_hash": "46bf66d9627183cc1ad8337032b0308498de97a31891fa30c5b106fde7d3221d",
+    "result": "109511",
+    "external_round_id": "32059733",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:35:57.000000Z",
+    "revealed_at": "2026-09-09T19:36:03.000000Z"
+}
