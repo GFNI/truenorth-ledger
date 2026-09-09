@@ -1,0 +1,22 @@
+{
+    "round_id": "082396e0-5e0b-41d8-a09b-e4ff34ca6046",
+    "draw_title": "🧖‍♀️💖 SANCTUARY SPA TREAT! 💖🧖‍♀️",
+    "competition_url": "https://hiphipprizehub.com/admin/products/sanctuary-spa-treat",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "4eb3828ec710bded6931cf1878de80177084d7e19f5932922af82c46ff67c08e",
+    "drand_seed_hash": "90ac99773e6d534126563196c168f66456c34a2b4420f0b46f8ed96f6eba6c96ed34bec5d907927171c0dde71455809e",
+    "client_seed": "1788981642340",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800,
+    "max_tickets": 800,
+    "combined_hash": "46ea7ad023510ae2aa3cd5b929dc8a9bbce05efd40e0053fcca517ba818a1fd0",
+    "result": "295",
+    "external_round_id": "32059428",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:20:42.000000Z",
+    "revealed_at": "2026-09-09T19:20:48.000000Z"
+}
