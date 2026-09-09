@@ -1,0 +1,22 @@
+{
+    "round_id": "ed642081-ba43-4617-b97e-befd648be54a",
+    "draw_title": "2015 Focus ST-3 + Instants!",
+    "competition_url": "https://speedcompetitions.co.uk/competition/2015-focus-st-3-instants",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "70bd16164b52147c03112f5b429403f94a4ffe2d7adcaf8ba4a91412b45a8c8d",
+    "drand_seed_hash": "8a303021f7f12594522ccbdfe26e2d1f132b4897668a867823a097630ec2b515f6580e6ee21756bf654c4f87b84377c4",
+    "client_seed": "1788983575944",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21595,
+    "max_tickets": 24999,
+    "combined_hash": "b7891abd88bc82eb56cf87d4ff2eafe48e40af7f9b3447dfbc33b3cccdcea169",
+    "result": "9926",
+    "external_round_id": "32060073",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:52:56.000000Z",
+    "revealed_at": "2026-09-09T19:53:03.000000Z"
+}
