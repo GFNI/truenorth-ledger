@@ -1,0 +1,22 @@
+{
+    "round_id": "3992a255-1e84-4cc1-8851-1f2cabaea01a",
+    "draw_title": "INSTANT WINS! FROM £1 UP TO £1K",
+    "competition_url": "https://ryscompetitions.com/admin/products/instant-wins-from-ps1-up-to-ps1k",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "b4caad9bacc686da2f8903d986cb013114d41b5bbf5025649e90169acb098fe4",
+    "drand_seed_hash": "b4c8c564777c097748d8643d282f42b5fdad5741e2a73e83387c585e24cf023376e889b06aecebb07591bba22293a1d7",
+    "client_seed": "1788984606895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 206094,
+    "max_tickets": 999999,
+    "combined_hash": "714c56e10d7d253a4adcd81c1ea97ba80840e23067356e6a0ad2f15a0739a4b6",
+    "result": "533046",
+    "external_round_id": "32060416",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T20:10:06.000000Z",
+    "revealed_at": "2026-09-09T20:10:12.000000Z"
+}
