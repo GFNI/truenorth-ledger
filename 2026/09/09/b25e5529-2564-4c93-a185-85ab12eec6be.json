@@ -1,0 +1,22 @@
+{
+    "round_id": "b25e5529-2564-4c93-a185-85ab12eec6be",
+    "draw_title": "Win a Lakes Hotel & Spa £500 Voucher",
+    "competition_url": "https://speedcompetitions.co.uk/competition/win-a-lakes-hotel-spa-ps500-voucher",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6e3b23088989d97987d390c27c5b60090a0a50f1865b1448fcdb9943d6081f7d",
+    "drand_seed_hash": "97f6162d95a3531a7ed3a56a5eb7e58847aefe51d6dafad95b9dbe75c0e9d9a7e87f8c74aa51b5ae999956194755778e",
+    "client_seed": "1788982931891",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8104,
+    "max_tickets": 10833,
+    "combined_hash": "7a94268ad87975688666fd182b8e590ef635d2e257bf4d8c35948ce72deb101f",
+    "result": "9672",
+    "external_round_id": "32059858",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:42:11.000000Z",
+    "revealed_at": "2026-09-09T19:42:18.000000Z"
+}
