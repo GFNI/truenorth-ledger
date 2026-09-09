@@ -1,0 +1,22 @@
+{
+    "round_id": "f5920a57-4b27-4ccd-855d-6381198eb404",
+    "draw_title": "Full Box of Dairy Milk Caramel",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/full-box-of-dairy-milk-caramel",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "3cdd40b3d55b7ae3fe76d1b4e5a828f13ff249991accc8e8653b47784f053930",
+    "drand_seed_hash": "825a41e388c022e34805036372bd3f1d1ded232650c9dc43f282fe3755cb9cf5b48d17f8bd05b8ec9a4ce25a9588bc71",
+    "client_seed": "1788981507332",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98,
+    "max_tickets": 200,
+    "combined_hash": "a3d6a5af4020f9170a4427c03c7579a6f9723df025ad5f4c2c56fcaa93afdf20",
+    "result": "188",
+    "external_round_id": "32059383",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:18:27.000000Z",
+    "revealed_at": "2026-09-09T19:18:33.000000Z"
+}
