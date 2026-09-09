@@ -1,0 +1,22 @@
+{
+    "round_id": "42656170-6d2f-45d4-86da-e2f489dfeca6",
+    "draw_title": "Desert Eagle | Printstream StatTrak™",
+    "competition_url": "https://gamevaultgiveaways.com/admin/products/desert-eagle-printstream-stattrak",
+    "operator": {
+        "name": "Game Vault Giveaway Ltd",
+        "website": "https://gamevaultgiveaways.com",
+        "company_number": "17087952"
+    },
+    "drand_server_seed": "612b16a11ba53722b8e5e95735fc823c8c3178d0ac01b3826493613dbb28e374",
+    "drand_seed_hash": "a0a21aa2f2b5af457ae2f6b4c667de283806401a6478dd5a29b5eb5650dede72c49843a9d7039965e64986b0798d2053",
+    "client_seed": "1788949332649",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20,
+    "max_tickets": 850,
+    "combined_hash": "6ac768d01aaaacca5dcb31e693135b774f364fcf6cd7b54530f18bed3e96e57c",
+    "result": "23",
+    "external_round_id": "32048658",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T10:22:12.000000Z",
+    "revealed_at": "2026-09-09T10:22:18.000000Z"
+}
