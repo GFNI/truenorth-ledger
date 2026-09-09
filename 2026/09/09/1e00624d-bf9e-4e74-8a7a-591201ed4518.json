@@ -1,0 +1,22 @@
+{
+    "round_id": "1e00624d-bf9e-4e74-8a7a-591201ed4518",
+    "draw_title": "The Lake District - 25 x £500 Main Prize #3",
+    "competition_url": "https://speedcompetitions.co.uk/competition/the-lake-district-25-x-ps500-main-prize-3",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6df4df240c987b21668cef5b24e454028e682b3e830997f5e8440f8d666d65f7",
+    "drand_seed_hash": "b1d73ecbf56044c19c48a72d3d29e4f1394a349adc3df4666e8d57bfaae6dbc18cda1d9ab09e69d2af63677d4ca1375a",
+    "client_seed": "1788982991427",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 691201,
+    "max_tickets": 699999,
+    "combined_hash": "3fd46e967d85fbc8ee9262f42ed947f2d6c968dcab5a815725ea87b163bb93c2",
+    "result": "349301",
+    "external_round_id": "32059878",
+    "processing_status": "completed",
+    "created_at": "2026-09-09T19:43:11.000000Z",
+    "revealed_at": "2026-09-09T19:43:18.000000Z"
+}
