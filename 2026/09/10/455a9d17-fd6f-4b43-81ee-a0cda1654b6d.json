@@ -1,0 +1,22 @@
+{
+    "round_id": "455a9d17-fd6f-4b43-81ee-a0cda1654b6d",
+    "draw_title": "Hot Potato",
+    "competition_url": "https://jetcomps.co.uk/admin/products/hot-potato",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "d2c688077860e2de7c05050335d4d65bc37b155adf000245ee236d8e62f4a2ab",
+    "drand_seed_hash": "a11feeffe1bba9b97661579b1cfa8ac346d092a6c71401f6c9e5b9c2b9bc1e49b17d926929a169d880f6ba1d3bad88b1",
+    "client_seed": "1789067416480",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51996,
+    "max_tickets": 52000,
+    "combined_hash": "3e46d9108b121ccbf6884a26d273495efcc3470abc11015dca8a239048ed2554",
+    "result": "2751",
+    "external_round_id": "32088020",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T19:10:16.000000Z",
+    "revealed_at": "2026-09-10T19:10:24.000000Z"
+}
