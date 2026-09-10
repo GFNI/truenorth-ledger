@@ -1,0 +1,22 @@
+{
+    "round_id": "95e7c19c-587f-43f9-a6ef-2832efbb8308",
+    "draw_title": "WIN A £100 MYSTERY JELLYCAT BUNDLE",
+    "competition_url": "https://geardowncompetitions.com/admin/products/win-a-ps100-mystery-jellycat-bundle",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "b033c5d108beb8bd09a546b63bd59386645f8670f15cf8c99c96414ba04cce75",
+    "drand_seed_hash": "a73279c4a49c34cf3b130018e4dc952de7a85633e28f91a2c253b9cf02d8e663def1c290a84a774935b79a7e006e75a4",
+    "client_seed": "1789071554009",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1290,
+    "max_tickets": 2000,
+    "combined_hash": "b81f5ef8b2fe5cdafc7a3df7f6151fff6a628472e8b61adfc5d1356b857ae82f",
+    "result": "73",
+    "external_round_id": "32089399",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:19:14.000000Z",
+    "revealed_at": "2026-09-10T20:19:21.000000Z"
+}
