@@ -1,0 +1,22 @@
+{
+    "round_id": "25b8766c-c230-451e-83d8-b213ecf9f519",
+    "draw_title": "PLOUISE - The Full Cheetah Collection",
+    "competition_url": "https://geardowncompetitions.com/admin/products/plouise-the-full-cheetah-collection",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "9dd31444aca96dadcf5684c381d53ef5f40ed08663cfbbea6bce361998d70a44",
+    "drand_seed_hash": "87070e0baad192466c8fb57c4f74a20e7c91cf063aee5133148c992ded8bd7d4fe73f455a35ea09b50bf601345d10ce7",
+    "client_seed": "1789071888011",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1645,
+    "max_tickets": 2999,
+    "combined_hash": "dac69172c71601016607cbe8fa7ed64e78f83f7f137f2058a7e5cb2df9098d2d",
+    "result": "1183",
+    "external_round_id": "32089510",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:24:48.000000Z",
+    "revealed_at": "2026-09-10T20:24:54.000000Z"
+}
