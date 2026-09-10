@@ -1,0 +1,22 @@
+{
+    "round_id": "0c50d021-2087-48e1-8db1-e5fc8e8a905a",
+    "draw_title": "WIN A LEGO TECHNIC MCLAREN MCL39 F1 CAR KIT",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-lego-technic-mclaren-mcl39-f1-car-kit",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "76d25252875e05c66aca53b8d49ef5418cd4401ee3543ab099c44dd3e4512a09",
+    "drand_seed_hash": "89f315a736e6c4509f346c43b33261aad1f226099ff993f4655c2fbd1065cadfaf2aa1dac45d5bcbe9368f73704ce547",
+    "client_seed": "1789074785785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 149,
+    "combined_hash": "142d8b9bcb6eb900cfdbae8da5ddb40e6d0ea19bd360341cdf1827faa8bc9c7f",
+    "result": "98",
+    "external_round_id": "32090476",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T21:13:05.000000Z",
+    "revealed_at": "2026-09-10T21:13:12.000000Z"
+}
