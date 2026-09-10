@@ -1,0 +1,22 @@
+{
+    "round_id": "d892bf42-d017-4eb0-821a-5f26b41faa55",
+    "draw_title": "✨ WIN A 2.5G GOLD BAR OR £300 CASH FOR JUST 99P! ✨",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-25g-gold-bar-or-ps300-cash-for-just-99p",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "3de7f8af72fca5c13ff5f58f871bcf5c686a7369316342150d8964110c2d82d6",
+    "drand_seed_hash": "829e8596e40db42fab4417f8c80d8af281d82a8ecefb03c42ccafb4d36ad1bd5b449c32b61b27f886d8c9d6042c9aec8",
+    "client_seed": "1789066981666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 379,
+    "max_tickets": 650,
+    "combined_hash": "8ca286c857f41aeca78690c7e55d4758c2dc6e420be9961a73d8432622d3008c",
+    "result": "537",
+    "external_round_id": "32087875",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T19:03:01.000000Z",
+    "revealed_at": "2026-09-10T19:03:09.000000Z"
+}
