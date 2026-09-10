@@ -1,0 +1,22 @@
+{
+    "round_id": "b986f41f-4732-4c2c-a6fd-00f9d9b8f373",
+    "draw_title": "WIN £100 WORTH OF SCRATCH CARDS FOR £1 (#27)",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-ps100-worth-of-scratch-cards-for-ps1-27",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "94d667066a117a9c933da0a831ee3e9cf932046408d17a62cbf436b00e98fc29",
+    "drand_seed_hash": "81b90e4f7d02f1c1a0be303d5fd37a04fcf9fe8beda517c581d6a892079e4ce26af6e9fbb12a76f4a20416c0d53bb469",
+    "client_seed": "1789066537995",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 155,
+    "max_tickets": 200,
+    "combined_hash": "80f5b338d7f16f9f71588e2c847ce0e3e89f0f9cef7f374abd56692c6b3ec18d",
+    "result": "89",
+    "external_round_id": "32087727",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T18:55:38.000000Z",
+    "revealed_at": "2026-09-10T18:55:45.000000Z"
+}
