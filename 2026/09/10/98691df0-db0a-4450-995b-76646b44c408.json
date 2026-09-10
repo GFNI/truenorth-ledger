@@ -1,0 +1,22 @@
+{
+    "round_id": "98691df0-db0a-4450-995b-76646b44c408",
+    "draw_title": "Bubble Pop #6",
+    "competition_url": "https://fireprizes.co.uk/admin/products/bubble-pop-6",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "1b33d89a84c732672c184f556ab592cecf168df01bb013325ccf426a56351c8d",
+    "drand_seed_hash": "93216a902c9c8bd4d2544449b480ca092bfa116c465b8e2cba1cbde83925ec9c3200391052ee28965915c30969fd999b",
+    "client_seed": "1789081816308",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2183,
+    "max_tickets": 26262,
+    "combined_hash": "2259b1273c778339dd367de4512a8f0e2c091271047046d3682ad2e8f7e1e17c",
+    "result": "8581",
+    "external_round_id": "32092820",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T23:10:16.000000Z",
+    "revealed_at": "2026-09-10T23:10:24.000000Z"
+}
