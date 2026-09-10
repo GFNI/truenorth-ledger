@@ -1,0 +1,22 @@
+{
+    "round_id": "0bd48eb7-ce00-4661-8b3f-b84eff7f5222",
+    "draw_title": "NOTHING BUT MONKEYS",
+    "competition_url": "https://ryscompetitions.com/admin/products/nothing-but-monkeys",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "0ad5d76b8b3364fa790bafa98443c7fc132d7dda64136a732fd6502b1bd4a047",
+    "drand_seed_hash": "a9c2f5730950ee6ed25352379c8c0751bd023c68713467f54c741b4e4625f349f794ee8bef79b44a51b248c51cae0812",
+    "client_seed": "1789070870504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90890,
+    "max_tickets": 499999,
+    "combined_hash": "8186e1f6e526d79bcb920c7ffd2fea8e5ca4ef61078d941443229ae263c18480",
+    "result": "483453",
+    "external_round_id": "32089171",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:07:50.000000Z",
+    "revealed_at": "2026-09-10T20:07:57.000000Z"
+}
