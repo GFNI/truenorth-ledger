@@ -1,0 +1,22 @@
+{
+    "round_id": "da99f5eb-18d3-4032-b127-dd03246d7946",
+    "draw_title": "100G METALOR .999 FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/100g-metalor-999-fine-silver-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "ac5dc28d73187bf756c4b10547f8af6b1de8db6472e9637f20bf29e5befc9c1b",
+    "drand_seed_hash": "8cb7d1a0442e151b1fc79b7406ccc26e00de991103e6735ea224507696ceab071dafa6de89382856b6e48581d168d8e7",
+    "client_seed": "1789080924584",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 445,
+    "max_tickets": 600,
+    "combined_hash": "ec9b08b07f9d02e00016c63d6f63937032d06224eae03e47036477d4b8578293",
+    "result": "21",
+    "external_round_id": "32092522",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T22:55:24.000000Z",
+    "revealed_at": "2026-09-10T22:55:30.000000Z"
+}
