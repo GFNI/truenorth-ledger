@@ -1,0 +1,22 @@
+{
+    "round_id": "86c481f1-a994-4d92-962a-99e585e53c46",
+    "draw_title": "Whack a Mole Madness - 893 instants & £400 main prize",
+    "competition_url": "https://giveawaycompetition.com/admin/products/whack-a-mole-madness",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "a461a4f9f8e4476c4f0f817016395b6a0c976aa2aaaa353935c1e88a0cd50a43",
+    "drand_seed_hash": "89b44125684aba2ce74ab5241963568734f4502e0d61be03c8bec081da5ae78bad007cb6060a2af022f691d34d06ce7e",
+    "client_seed": "1789073792473",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18155,
+    "max_tickets": 100000,
+    "combined_hash": "634470a182571f3cc024cb14a1cf56f7f55ca509bf0f18b825fbbcf2727a207d",
+    "result": "89316",
+    "external_round_id": "32090145",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:56:32.000000Z",
+    "revealed_at": "2026-09-10T20:56:39.000000Z"
+}
