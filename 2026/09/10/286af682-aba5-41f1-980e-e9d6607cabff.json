@@ -1,0 +1,22 @@
+{
+    "round_id": "286af682-aba5-41f1-980e-e9d6607cabff",
+    "draw_title": "Win a Korda Kontainer System 17L and Korda Bucket Table + Korda Kontainer/Bucket Table Instant Wins - 6p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-korda-kontainer-system-17l-and-korda-bucket-table-korda",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "28c563f74406835b0258ceda3f9f22952247bc51d5ead3c22a1f45f7004a33c3",
+    "drand_seed_hash": "86833f0099404ac7333ab1d8ce8537797ee5f80c4745edcec1d3b804b89a5ebc00cd49c7ac2c7d69b5e469d618ffb9fe",
+    "client_seed": "1789060385670",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1938,
+    "max_tickets": 13550,
+    "combined_hash": "7ea2a79b68788093ef0d304cee08d6f8abe51164f9de5a82cc19c152e48e7846",
+    "result": "3741",
+    "external_round_id": "32085676",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T17:13:05.000000Z",
+    "revealed_at": "2026-09-10T17:13:12.000000Z"
+}
