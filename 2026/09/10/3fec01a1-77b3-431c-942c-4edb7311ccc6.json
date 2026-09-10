@@ -1,0 +1,22 @@
+{
+    "round_id": "3fec01a1-77b3-431c-942c-4edb7311ccc6",
+    "draw_title": "Regular player freebie 🎁",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/regular-player-freebie-2",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "18ac4b0ac434c42dbaa9ef392513311543fb9b69fe989a22dd9c565ba764cf1b",
+    "drand_seed_hash": "88a012e88d8d57a3ad0922ae23638220457c13757ef3981f557e2df4c03b3a89c7d7dab430dc4806ed7a803c7fa1ac90",
+    "client_seed": "1789054865511",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "a6a6b1c7bdd35e05ede54fa4aba0c58011ddd30455554cb291d1a3dc2212a7d8",
+    "result": "19",
+    "external_round_id": "32083836",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T15:41:05.000000Z",
+    "revealed_at": "2026-09-10T15:41:12.000000Z"
+}
