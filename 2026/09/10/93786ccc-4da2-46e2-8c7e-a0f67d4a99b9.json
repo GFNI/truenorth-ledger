@@ -1,0 +1,22 @@
+{
+    "round_id": "93786ccc-4da2-46e2-8c7e-a0f67d4a99b9",
+    "draw_title": "USA $10 1/4OZ GOLD EAGLE PROOF COIN — PCGS PR69DCAM",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/usa-10-14oz-gold-eagle-proof-coin-pcgs-pr69dcam",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2ae7d9a9c90ac21758fe336ecab70deb9ef5847575e1e4c6ec5d8d2640b54308",
+    "drand_seed_hash": "aa6f66dc391de6fe101e1f73f53b302c9842fb75ca4e714acdeee7de0bab1ff994bb0dfd91b7ca5883aa9a93e0bf26e3",
+    "client_seed": "1789070734353",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 484,
+    "max_tickets": 1000,
+    "combined_hash": "646304f70771bd9972d718087cd4ae0fc57711516175019b7a59a60a41d6aac7",
+    "result": "941",
+    "external_round_id": "32089126",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:05:34.000000Z",
+    "revealed_at": "2026-09-10T20:05:42.000000Z"
+}
