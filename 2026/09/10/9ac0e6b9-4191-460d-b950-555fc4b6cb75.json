@@ -1,0 +1,22 @@
+{
+    "round_id": "9ac0e6b9-4191-460d-b950-555fc4b6cb75",
+    "draw_title": "Lightning Strike",
+    "competition_url": "https://jetcomps.co.uk/admin/products/lightning-strike",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "8f19278b193e06d030e491d33b87567ddad60478be85cae9749365d93ded175e",
+    "drand_seed_hash": "8891c5f4dfdb75e10d4f4354164faa8f2f9ac13a27e6f51e0908376fc6841f56a9fe43b8cb9e4f77ef98508fb980c44f",
+    "client_seed": "1789067424732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23729,
+    "max_tickets": 36000,
+    "combined_hash": "98f3137bb2c2cc11a31ae4e6bf1b052f1d999b41fc1907e26eee75852d03950a",
+    "result": "17113",
+    "external_round_id": "32088022",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T19:10:24.000000Z",
+    "revealed_at": "2026-09-10T19:10:30.000000Z"
+}
