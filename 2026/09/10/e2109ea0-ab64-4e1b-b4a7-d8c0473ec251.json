@@ -1,0 +1,22 @@
+{
+    "round_id": "e2109ea0-ab64-4e1b-b4a7-d8c0473ec251",
+    "draw_title": "STICK OR TWIST",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/stick-or-twist-2",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "96c3034c983344f348d5b674be5b579c07b7034c0ecbbb1ebc2c6368eefa0fc6",
+    "drand_seed_hash": "b65961adc20a57e9cb0c43940b394ab33bc1c2951f86062140952e09467c88c3f267d602eb2764f96b7002e65a68af99",
+    "client_seed": "1789063860615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "36d8e8fa6d1d0312c3ba48308a1e9e62bfcc9c7e6569f7535f26dc518d562d5d",
+    "result": "3703",
+    "external_round_id": "32086834",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T18:11:00.000000Z",
+    "revealed_at": "2026-09-10T18:11:06.000000Z"
+}
