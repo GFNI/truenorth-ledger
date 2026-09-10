@@ -1,0 +1,22 @@
+{
+    "round_id": "8d061f35-132e-4b02-9145-55653f7eb646",
+    "draw_title": "🖨️FLASHFORGE 3D Printer🖨️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/flashforge-3d-printer",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f7ee2afceda07b9df0996cfadda84ef2358bf9f20eba954974ab035edafbd8b2",
+    "drand_seed_hash": "82af2ecdca981f5c3782cedd3cebd4e17b79aeb90246b7cfa6f873953c6f3a197dfc2590267b75976282cb8dd1cf9cba",
+    "client_seed": "1789068313091",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 980,
+    "max_tickets": 980,
+    "combined_hash": "b8c7c35947736157dc79284541b13394c8a67b90efd0b22b6d587ae306d298b9",
+    "result": "613",
+    "external_round_id": "32088319",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T19:25:13.000000Z",
+    "revealed_at": "2026-09-10T19:25:21.000000Z"
+}
