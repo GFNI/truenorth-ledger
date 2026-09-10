@@ -1,0 +1,22 @@
+{
+    "round_id": "746b85ba-fe56-44cd-9d47-879b4c9a4015",
+    "draw_title": "£10K PREMIER LEAUGE SHOWDOWN LEADERBOARD",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-premier-leauge-showdown-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "053d9df429fc0a427581e48f6cef20fb4853902d3e544a26d5bfea0fcceff131",
+    "drand_seed_hash": "9448f76f8a11bc9a49084b1636836f8b314ee50d74be9df46786b22ec2d53ff9cd9a82c2e676c42ccffdb7f1d6d0e89f",
+    "client_seed": "1789072860332",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5746,
+    "max_tickets": 9999,
+    "combined_hash": "388fc268ce0df24809bc31aecbdfb6272800325fa34b599cbbcf81596fa3356e",
+    "result": "6888",
+    "external_round_id": "32089834",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T20:41:00.000000Z",
+    "revealed_at": "2026-09-10T20:41:06.000000Z"
+}
