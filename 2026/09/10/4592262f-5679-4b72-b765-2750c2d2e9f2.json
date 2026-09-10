@@ -1,0 +1,22 @@
+{
+    "round_id": "4592262f-5679-4b72-b765-2750c2d2e9f2",
+    "draw_title": "5oz SCOTTSDALE MINT LION SILVER STACKER ROUND",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/5oz-scottsdale-mint-lion-silver-stacker-round",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "20e8ba2dcdc0bc9b5b1a0903050e82500ff645384779b54d9d9bf00d3a368fca",
+    "drand_seed_hash": "8c151e6f350579262999eec7b00afc7fa73bc9f7bf859672460941cc29dd3573d9e82d7922910a676d5ebb97ac20c1e7",
+    "client_seed": "1789080918571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 633,
+    "max_tickets": 750,
+    "combined_hash": "1e1e28956c2a2813e951f0e9d136c724c778818bbc61fa6592a73d3681a853f0",
+    "result": "85",
+    "external_round_id": "32092520",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T22:55:18.000000Z",
+    "revealed_at": "2026-09-10T22:55:24.000000Z"
+}
