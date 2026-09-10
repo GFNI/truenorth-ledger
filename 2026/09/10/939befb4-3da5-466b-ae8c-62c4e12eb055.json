@@ -1,0 +1,22 @@
+{
+    "round_id": "939befb4-3da5-466b-ae8c-62c4e12eb055",
+    "draw_title": "Win a Avid Revolve Bed - 22p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-avid-revolve-bed-22p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "f739c699259d079e92f54c323d3d3192ca6c1812f22e666bd8913aa571845c75",
+    "drand_seed_hash": "ab4241bfeaed0e8c3938607e92bd8c73e555165b0bff88ca72f852f6fa2b19b1b743e274de716e4360190e6055036d4d",
+    "client_seed": "1789060572596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 571,
+    "max_tickets": 1410,
+    "combined_hash": "09a1a39c178a8750e12f73eb0cf49d29227f295e532cfbede74fba4882e3abf6",
+    "result": "10",
+    "external_round_id": "32085738",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T17:16:12.000000Z",
+    "revealed_at": "2026-09-10T17:16:18.000000Z"
+}
