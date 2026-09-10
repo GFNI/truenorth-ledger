@@ -1,0 +1,22 @@
+{
+    "round_id": "0c2b9edb-7924-494c-b303-f69848ab1aa8",
+    "draw_title": "Win £30 worth of tickets into Whack N Win - 2p a ticket!!",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-ps30-worth-of-tickets-into-whack-n-win-2p-a-ticket",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "e027a8d0c72191b42dedb143f38cb279bcc57ae3ffa1afd191df734fa9feec04",
+    "drand_seed_hash": "89fd90a665215dfdc23178d6d777217d41760c568786c5e631ccb070580cafb1f83c3b5827af0a8a588a11979f2e35a3",
+    "client_seed": "1789056603108",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1824,
+    "max_tickets": 2000,
+    "combined_hash": "46f470d6f453966b8815477dbc51561dc1026eb2ed8775634f360c1367f79cdd",
+    "result": "791",
+    "external_round_id": "32084415",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T16:10:03.000000Z",
+    "revealed_at": "2026-09-10T16:10:09.000000Z"
+}
