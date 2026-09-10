@@ -1,0 +1,22 @@
+{
+    "round_id": "1232cdd7-2ba4-4e0a-a0bf-83570c32eeab",
+    "draw_title": "£100 Big Food Shop Fr33b!e",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/ps100-big-food-shop-fr33be-2",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "50378e8fc7564216f7cbe1b30d41e3660f6eefa688ad84e171d08443b554db7d",
+    "drand_seed_hash": "94c54d9ca8b903164347712dacc78e7148e66c6ab82fa9ecbfef7238f4e99e2c1dc7409e0411200b7400d8202d88c185",
+    "client_seed": "1789067431149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 251,
+    "max_tickets": 499,
+    "combined_hash": "c16b6f70af8bd64096e12d3758c21f31ddc46d2b39e8000d9cbf836c2cdef45e",
+    "result": "35",
+    "external_round_id": "32088025",
+    "processing_status": "completed",
+    "created_at": "2026-09-10T19:10:31.000000Z",
+    "revealed_at": "2026-09-10T19:10:39.000000Z"
+}
