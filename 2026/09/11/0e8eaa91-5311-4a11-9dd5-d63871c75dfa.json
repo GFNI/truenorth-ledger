@@ -1,0 +1,22 @@
+{
+    "round_id": "0e8eaa91-5311-4a11-9dd5-d63871c75dfa",
+    "draw_title": "Win a Brand-New Apple MacBook Neo 13-inch!",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-a-brand-new-apple-macbook-neo-13-inch-2",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "6f1ed627e1f9e67757151d8bb73c8d89c7a00745ebe1c1ef648e2294f90e5020",
+    "drand_seed_hash": "a0b65356f476612e981a71bffac3d0e57851839d8ce899f31f0d7292f5f035017981a64db3c066f9716da63ee09d38c2",
+    "client_seed": "1789161084876",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 422,
+    "max_tickets": 1500,
+    "combined_hash": "fd24324e6494c05f3000f4f6c85762af3da297eb78179b0f91b53cb2368f126a",
+    "result": "118",
+    "external_round_id": "32119242",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T21:11:24.000000Z",
+    "revealed_at": "2026-09-11T21:11:30.000000Z"
+}
