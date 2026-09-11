@@ -1,0 +1,22 @@
+{
+    "round_id": "bab83273-f483-4235-9fda-937ef2192fbd",
+    "draw_title": "INSTANTLY WIN UP TO £2000 WORTH OF SCRAMBLER TICKETS!",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-up-to-ps2000-worth-of-scrambler-tickets",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "e2964adaeefe4b95476c6955af314458f9b49193b8e8711fc4a15bd9ca7a7b9e",
+    "drand_seed_hash": "a9fbf7ca076aa3fa1c0294292f1cc0a016c87a0bd919ba5f19fcb0280abc48e67d922bcde5fc80f6a604566766249f18",
+    "client_seed": "1789155614508",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13695,
+    "max_tickets": 100000,
+    "combined_hash": "1f41732551576696eaef9c55c4dd42b5399fc6ce1caafb138b6476f5cf40ca90",
+    "result": "10304",
+    "external_round_id": "32117419",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T19:40:14.000000Z",
+    "revealed_at": "2026-09-11T19:40:21.000000Z"
+}
