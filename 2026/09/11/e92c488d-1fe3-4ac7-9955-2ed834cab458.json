@@ -1,0 +1,22 @@
+{
+    "round_id": "e92c488d-1fe3-4ac7-9955-2ed834cab458",
+    "draw_title": "Win A £250 Lego Shop Voucher",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-a-ps250-lego-shop-voucher",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "173412108dc29374a4e72fe00d6a97317fda7de99dcd3baeb4fb22da448539d2",
+    "drand_seed_hash": "8289baf7a678dd930ec8fcba97927223c27ae14772f91cd91bcfccff073cd742de34b4f212cfdaa02615a3f49a4dc59b",
+    "client_seed": "1789154719096",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7831,
+    "max_tickets": 12000,
+    "combined_hash": "9d308ce75cc90af4a4eb974805ff41bd9f54bfe6a92a696773e0a5d5d3d1de4f",
+    "result": "382",
+    "external_round_id": "32117121",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T19:25:19.000000Z",
+    "revealed_at": "2026-09-11T19:25:27.000000Z"
+}
