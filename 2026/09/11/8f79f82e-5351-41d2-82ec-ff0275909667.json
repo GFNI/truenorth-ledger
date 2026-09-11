@@ -1,0 +1,22 @@
+{
+    "round_id": "8f79f82e-5351-41d2-82ec-ff0275909667",
+    "draw_title": "WIN £1000 CASH - SUPER LOW TICKETS!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-ps1000-cash-super-low-tickets-4",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "0ffc11f3d3bf0572c45edaee3b93e95c3adf307df9de4af3d502afb63216150d",
+    "drand_seed_hash": "8a2248efb8af8c96aa8c41fb109bb326893203ea132cbf843bb2e17cc1c9c4b2e9715c45b24396c3cacc433f83b0c554",
+    "client_seed": "1789159216230",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 68,
+    "max_tickets": 99,
+    "combined_hash": "60d72318a74bebf02c92fc4742a215b095d32ca146c4c739c2f45ca3c99ec35f",
+    "result": "11",
+    "external_round_id": "32118620",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:40:16.000000Z",
+    "revealed_at": "2026-09-11T20:40:24.000000Z"
+}
