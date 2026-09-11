@@ -1,0 +1,22 @@
+{
+    "round_id": "8dd85e04-a4fc-470f-81b3-0b4defa50a6d",
+    "draw_title": "£500 LOW ODDS CASH - ENDING TONIGHT",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ps500-low-odds-cash",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "54870b8289b250d5658c114ee1e805433fdc6aeed21e2f295aeb6684726b5dc0",
+    "drand_seed_hash": "87ec9c898d39123a43b0336acd4095d6932525cb3d72df86155561a5848b504b920bfca389129f53d94485f0f222b595",
+    "client_seed": "1789157956896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 106,
+    "max_tickets": 200,
+    "combined_hash": "79b0a49625474d77fbfae708a187a48f5fa626592de069b1f2014edca3dcc18a",
+    "result": "82",
+    "external_round_id": "32118200",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:19:16.000000Z",
+    "revealed_at": "2026-09-11T20:19:24.000000Z"
+}
