@@ -1,0 +1,22 @@
+{
+    "round_id": "d65c8b58-fcd6-456d-8e88-e8d7604fe233",
+    "draw_title": "Shark Freestyle ",
+    "competition_url": "https://ogcompetitions.co.uk/lists/shark-freestyle-max-cordless-in-gold-or-ps100-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "cdfea7ca98fb452ed18d25a0fc0da2b72b69d2cfd1f4e80172926d37bcb2afb8",
+    "drand_seed_hash": "8588684266a4d17fcdee3bf05935bebf5c57ddd52946fbc0a8542b2dbb30a199ba9530ec6b7231f88c0fbcc67c3b7e94",
+    "client_seed": "1789161217305",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 960,
+    "combined_hash": "cea985b8368880e7e6ee3707f062839bd66b42f92d90236ba724e9892215460c",
+    "result": "783",
+    "external_round_id": "32119287",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T21:13:37.000000Z",
+    "revealed_at": "2026-09-11T21:13:47.000000Z"
+}
