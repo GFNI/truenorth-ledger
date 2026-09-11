@@ -1,0 +1,22 @@
+{
+    "round_id": "55d492a7-a902-4993-893f-ac5cd980995b",
+    "draw_title": "Full House Instant Wins",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/full-house-instant-wins-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "19f12de153ebbf36a53c0b4ed526beb73f50abc6caf41cd20b0e46d678371ad8",
+    "drand_seed_hash": "91111e55ea6c98677b7b92ced4f3b7f38fa375f074fcb98aa4d79d4e7367f5976ecaecae2f143b2190f2e03296c2ca12",
+    "client_seed": "1789157428339",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 550259,
+    "max_tickets": 895000,
+    "combined_hash": "664bcf93a344245a4f42e4eff93c9a35b9fd26de1a032b35305ee53a45e96619",
+    "result": "686007",
+    "external_round_id": "32118024",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:10:28.000000Z",
+    "revealed_at": "2026-09-11T20:10:36.000000Z"
+}
