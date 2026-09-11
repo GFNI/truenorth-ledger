@@ -1,0 +1,22 @@
+{
+    "round_id": "750b131c-fcdf-4fb8-996d-a2218bdb237a",
+    "draw_title": "Win A Custom Ducati Scrambler OR £4000! 🏍️💨",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-a-custom-ducati-scrambler-or-ps4000",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "783876cc47656ae7abd6fa6edb1ccd6ff25c4d09d1d66bd32397198133773071",
+    "drand_seed_hash": "a270b1de641cc565f2d46cc1ad23fb0791f2a874a26d116f98080d2a991ca0ccada393ed0fd1e9e7183de592f72638cc",
+    "client_seed": "1789157412274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47418,
+    "max_tickets": 100000,
+    "combined_hash": "92dc789a7716d0b8ed64d1cfec37cd12c0971aed6ff7502866ec61b66a2b09c5",
+    "result": "12051",
+    "external_round_id": "32118018",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:10:12.000000Z",
+    "revealed_at": "2026-09-11T20:10:18.000000Z"
+}
