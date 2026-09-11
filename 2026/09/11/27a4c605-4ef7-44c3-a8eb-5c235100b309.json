@@ -1,0 +1,22 @@
+{
+    "round_id": "27a4c605-4ef7-44c3-a8eb-5c235100b309",
+    "draw_title": "Pre order Pokémon 30th Anniversary Celebration ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pre-order-pokemon-30th-anniversary-celebration-etb",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "4d6f2ffa80ee41a1446adad2399583c841985838a50b6adc03ff1afbe40d3414",
+    "drand_seed_hash": "87afeb52dce52c5f763cdc078e9661fbbe4edb012d9a1f5f808ab8b11b979b7e1034cae233efa791782410e0193a031f",
+    "client_seed": "1789154701199",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 280,
+    "max_tickets": 280,
+    "combined_hash": "f0816baf8038f7d3d17001c1767717b787aa10db792258bde530a0ccf4338678",
+    "result": "257",
+    "external_round_id": "32117115",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T19:25:01.000000Z",
+    "revealed_at": "2026-09-11T19:25:09.000000Z"
+}
