@@ -1,0 +1,22 @@
+{
+    "round_id": "d3932263-167f-42e0-932b-22106c61a9ed",
+    "draw_title": "PIGEON PAYOUT",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/pigeon-payout",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "c55f6cc0f5d96d0cd026c68753bb986e1bf097504237ae35df14d43a6933fe01",
+    "drand_seed_hash": "a0fcdebbdcd88f9787e7e040b9c3fb9430a518a176c84b3eb1a5b2c6bf377ed3da16373e1d1f2f20f94dd6ad34bff2cd",
+    "client_seed": "1789157464296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 29999,
+    "max_tickets": 29999,
+    "combined_hash": "c67757eee00a0312f252d2757fb2cc154cc7355967c11a6036341ffb07ffd19b",
+    "result": "22997",
+    "external_round_id": "32118036",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:11:04.000000Z",
+    "revealed_at": "2026-09-11T20:11:12.000000Z"
+}
