@@ -1,0 +1,22 @@
+{
+    "round_id": "8db0538b-0b6a-4080-a524-30e2bdd0a17f",
+    "draw_title": "Whack A Host",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/whack-a-host",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "3892627dae625efa4368291f82f3e6ecb760ccf3f633aa5dea0a23872f97fac7",
+    "drand_seed_hash": "a5456061569bb7753b2b29584a729e51fcc3ed6a79c59da2304352628f9e87086617ea51d22bd4fbcc618c77137c9901",
+    "client_seed": "1789164625420",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1954,
+    "max_tickets": 335000,
+    "combined_hash": "51946e1640973633643e913916a106aedf8cb8d4a6ccbfc744478878b2e718b1",
+    "result": "140682",
+    "external_round_id": "32120422",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T22:10:25.000000Z",
+    "revealed_at": "2026-09-11T22:10:30.000000Z"
+}
