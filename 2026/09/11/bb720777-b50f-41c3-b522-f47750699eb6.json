@@ -1,0 +1,22 @@
+{
+    "round_id": "bb720777-b50f-41c3-b522-f47750699eb6",
+    "draw_title": "🪙 Heads You Win! Instant Wins up to £250",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/heads-you-win-instant-wins-up-to-ps250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "710ddf6efe1a51d5464cd00dec81407a3b0ab6aa68cf1c2078b5df7d2c5ad524",
+    "drand_seed_hash": "a7c24f3dadd1251cd3d51509bf7e36dcc6d265e43b4e1d12293b320840f6a1153b50f3d3fa922b894ddfc555ed12eada",
+    "client_seed": "1789153811519",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7887,
+    "max_tickets": 17500,
+    "combined_hash": "282288b7806200bc338f039cfbea3d43d656052b23fff3c9ed7fa61da2773c46",
+    "result": "9669",
+    "external_round_id": "32116818",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T19:10:11.000000Z",
+    "revealed_at": "2026-09-11T19:10:18.000000Z"
+}
