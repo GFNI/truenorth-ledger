@@ -1,0 +1,22 @@
+{
+    "round_id": "40de4c83-02a6-40ee-8f9a-3c4868a30283",
+    "draw_title": "500 TICKETS FOR AUDI RS6",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-rs6",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "3955cd5c337201d0243aef88afd868db68577225344cbcf173050f9446adc543",
+    "drand_seed_hash": "b1a4cc4a1777a0c78343582ae8fcabcab205ce648bf8c7ac28d8b29f2243d3932da7b862d557fcc57b6e54b70381a289",
+    "client_seed": "1789156855363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "a536b7e842e3ae5936d70de6d63831a35b9b3c5ed06a05c38141661e41b773af",
+    "result": "1190",
+    "external_round_id": "32117833",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:00:55.000000Z",
+    "revealed_at": "2026-09-11T20:01:03.000000Z"
+}
