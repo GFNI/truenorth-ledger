@@ -1,0 +1,22 @@
+{
+    "round_id": "157655db-789f-4f79-a59c-fc8e809b7d3e",
+    "draw_title": "Logo Loot slash ultimate cash",
+    "competition_url": "https://winandgrin.co.uk/admin/products/logo-loot-slash-ultimate-cash",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "b7ffb07ba6d6bb07edf7d4c78bada02d529a5fc5f25f04e35f7ac4048769c631",
+    "drand_seed_hash": "a20ec998b8bba895b4585f0656c9eafdc527bbf208c36e064d3d05bfb812b2ccf9b6ee3e7f82916d7c22652eebfe14c9",
+    "client_seed": "1789159064997",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5435,
+    "max_tickets": 20000,
+    "combined_hash": "d41b923cb29bb1935f1e998c464c44ebc7ed01ecaab43f61ef701e52fd347516",
+    "result": "8341",
+    "external_round_id": "32118569",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T20:37:45.000000Z",
+    "revealed_at": "2026-09-11T20:37:51.000000Z"
+}
