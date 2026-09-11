@@ -1,0 +1,22 @@
+{
+    "round_id": "13b0428b-8769-4810-b38d-a1aa8e645c45",
+    "draw_title": "⚡LIGHTNING DROP ⚡- £100 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/lightning-drop-ps100-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "dd3b7e1644ae8d57e98de8f66cc2d29cb49731e1ca2a08bf0df0479311b66468",
+    "drand_seed_hash": "8fc568f96ebce9528a016c05cb7bb546f7f016c4843a19e40104c231d47c8f4381bf3ebb8f0d6cba037c0c0819a63562",
+    "client_seed": "1789164616446",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 172918,
+    "max_tickets": 1400000,
+    "combined_hash": "7f04c8354e1ed9b79235db386f24bb10011309e7cc4f42b5185937eaca204d73",
+    "result": "700800",
+    "external_round_id": "32120420",
+    "processing_status": "completed",
+    "created_at": "2026-09-11T22:10:16.000000Z",
+    "revealed_at": "2026-09-11T22:10:24.000000Z"
+}
