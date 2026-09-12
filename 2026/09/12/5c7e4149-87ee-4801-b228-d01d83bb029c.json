@@ -1,0 +1,22 @@
+{
+    "round_id": "5c7e4149-87ee-4801-b228-d01d83bb029c",
+    "draw_title": "GARY ANDERSON UNICORN WRAITH DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/gary-anderson-unicorn-wraith-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "be2f27f0e7f6d21431193b1c8734024dc59adc8a79fb1afa4bba45e655c3ce33",
+    "drand_seed_hash": "988320578d272ccc16de62dbdf1dcf0ab56fc9c70d1f1a0af2e09a5dab064ecaad3b5bcc88fcf6096022211a860989fa",
+    "client_seed": "1789207894724",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 200,
+    "combined_hash": "67fa484d2ece275bedca095703ada15a62a58a5111caf6879a182192d8a9dc2e",
+    "result": "128",
+    "external_round_id": "32134846",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T10:11:34.000000Z",
+    "revealed_at": "2026-09-12T10:11:42.000000Z"
+}
