@@ -1,0 +1,22 @@
+{
+    "round_id": "fba27f22-8b22-4089-ab46-f845969626a0",
+    "draw_title": "2013 HERALDIC BEASTS PURE SILVER FOUR-COIN CROWN SET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2013-heraldic-beasts-pure-silver-four-coin-crown-set",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "78306e144ce80dfae5091a601d608132ba638bb39a53b61dbc1f4bbb2abf99fa",
+    "drand_seed_hash": "a0c901d8cc7e8c7078a1dbe0da7f81730a163407298014220551d2e4b2cf524c82aa16713f82f349ed48e096cf03263c",
+    "client_seed": "1789253719109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 323,
+    "max_tickets": 400,
+    "combined_hash": "7058549c741ae74e5a36dbc898f6c4aba2f03b4967eab13df5d167524b913a50",
+    "result": "161",
+    "external_round_id": "32150120",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T22:55:19.000000Z",
+    "revealed_at": "2026-09-12T22:55:24.000000Z"
+}
