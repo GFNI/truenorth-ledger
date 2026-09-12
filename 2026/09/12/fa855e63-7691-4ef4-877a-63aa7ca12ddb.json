@@ -1,0 +1,22 @@
+{
+    "round_id": "fa855e63-7691-4ef4-877a-63aa7ca12ddb",
+    "draw_title": "Nintendo Switch 2 for 4p🕹️",
+    "competition_url": "https://optimisedodds.com/admin/products/nintendo-switch-2-for-4p",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "ea39fd3555c3271095b3386157abd716e88f2d5627f6a62ffe83a1288aa514de",
+    "drand_seed_hash": "b6ed6a3392e4318ca68d47a3e5e55303c43e5838ae74281801f1445192ce6a56e0f2a50cb1fe615a96f76b2f3654d11d",
+    "client_seed": "1789251012305",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20735,
+    "max_tickets": 40000,
+    "combined_hash": "0d16a08fabf79c25126ed828a4308666811bcc028c9287ace48470cf9d0fbbb2",
+    "result": "33294",
+    "external_round_id": "32149218",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T22:10:12.000000Z",
+    "revealed_at": "2026-09-12T22:10:18.000000Z"
+}
