@@ -1,0 +1,22 @@
+{
+    "round_id": "aa2642f6-bb32-4fdb-a75f-430eebf02604",
+    "draw_title": "IGNITION",
+    "competition_url": "https://chaotic.co.uk/competition/ignition",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5697c6220c7c625182536c8910c716f8529f8b8229001e33836cca70de29e96d",
+    "drand_seed_hash": "aec234c23807d3437da8429e56681c647b7fad385f18fac5f9c24b948c60f2cd2905b9bc7f1eeefc64e95e0c8ef7d904",
+    "client_seed": "1789242499207",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600000,
+    "max_tickets": 600000,
+    "combined_hash": "4100331887927c3798c85ed05ef40e73c2e7fd61f105eee1b70c1bf3905c2d3b",
+    "result": "395586",
+    "external_round_id": "32146380",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T19:48:19.000000Z",
+    "revealed_at": "2026-09-12T19:48:24.000000Z"
+}
