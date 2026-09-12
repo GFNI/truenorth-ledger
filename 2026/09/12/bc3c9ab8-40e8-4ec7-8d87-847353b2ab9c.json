@@ -1,0 +1,22 @@
+{
+    "round_id": "bc3c9ab8-40e8-4ec7-8d87-847353b2ab9c",
+    "draw_title": "BRAND NEW WINMAU LENS AUTOSCORING SYSTEM + 12 MONTH SUBSCRIPTION",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-winmau-lens-autoscoring-system-12-month-subscription",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "5f5980d89d2276fec7a9f9a020427a905b8810cc74d97cf0f3228ef2a874a30d",
+    "drand_seed_hash": "948ee3ed47b4aaabd4dd5c358ef8c8519da1e95c2e3fc7403221baf032f8cc93d3492acd032ffebfdf5358874b0e95b0",
+    "client_seed": "1789207994384",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 64,
+    "max_tickets": 100,
+    "combined_hash": "de68423c26f4d77ed30bbefadcbda91d5964904949e9fe44204c7224f81c2615",
+    "result": "83",
+    "external_round_id": "32134879",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T10:13:14.000000Z",
+    "revealed_at": "2026-09-12T10:13:21.000000Z"
+}
