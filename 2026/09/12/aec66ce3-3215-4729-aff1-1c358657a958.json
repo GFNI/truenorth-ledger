@@ -1,0 +1,22 @@
+{
+    "round_id": "aec66ce3-3215-4729-aff1-1c358657a958",
+    "draw_title": "🎄🍫 CHRISTMAS CHOCOLATE, ANYONE?! 🍫🎄",
+    "competition_url": "https://hiphipprizehub.com/admin/products/christmas-chocolate-anyone",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "2a4871139abacfe4f526732894e7cfc70fea7748c5d6754448764d3879a6f396",
+    "drand_seed_hash": "81182eb40b0c60643153e3e73604e81cbf4769bd34b663225eaa860e609ea893f3778080ccb0ff753dacaffbfee48b59",
+    "client_seed": "1789243524866",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 260,
+    "max_tickets": 260,
+    "combined_hash": "9053b6f0cea3683e15741b2a0ae542dab3576521c9dfdf309839a7cbf9508ce6",
+    "result": "105",
+    "external_round_id": "32146722",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T20:05:24.000000Z",
+    "revealed_at": "2026-09-12T20:05:30.000000Z"
+}
