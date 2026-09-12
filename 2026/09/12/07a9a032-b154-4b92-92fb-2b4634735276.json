@@ -1,0 +1,22 @@
+{
+    "round_id": "07a9a032-b154-4b92-92fb-2b4634735276",
+    "draw_title": "Free Amazon Fire HD 8 Tablet",
+    "competition_url": "https://chaotic.co.uk/competition/free-amazon-fire-hd-8-tablet-5692",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "eeb563bc12eb1a2144218f82bad0b034d766d76e0c8c9ac23c1b7a8a358aee00",
+    "drand_seed_hash": "b14e0001062e41545a7dd8ecce97bcd16c545af49e8ddeb51a1d8b5b4aeaab3e3436b319eb5f0999e3abf8a699e4c614",
+    "client_seed": "1789241756220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "e37a255b95743b4ecbe3f4940f80de6fe454980a11129536c8c88a0657a76d85",
+    "result": "448",
+    "external_round_id": "32146132",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T19:35:56.000000Z",
+    "revealed_at": "2026-09-12T19:36:00.000000Z"
+}
