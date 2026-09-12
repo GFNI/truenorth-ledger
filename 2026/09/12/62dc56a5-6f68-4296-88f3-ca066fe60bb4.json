@@ -1,0 +1,22 @@
+{
+    "round_id": "62dc56a5-6f68-4296-88f3-ca066fe60bb4",
+    "draw_title": "Fast Cash Frenzy",
+    "competition_url": "https://chaotic.co.uk/competition/fast-cash-frenzy-7843",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "9e8da4c9fc947c0db66bec198db3c7c517d9a3cf71a8e652c585f42b49e71c93",
+    "drand_seed_hash": "a6c10f97e3fa09601b43835ec7e02c6f297144d6095776ab45473a72eb78a077776cdb0f6fab88a059023b61c2dde50a",
+    "client_seed": "1789241875475",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "cecf3a9b870edaf6a89eb54b76628b6f5441a3d99f84d62973aea8c915f8087f",
+    "result": "2767",
+    "external_round_id": "32146172",
+    "processing_status": "completed",
+    "created_at": "2026-09-12T19:37:55.000000Z",
+    "revealed_at": "2026-09-12T19:38:00.000000Z"
+}
