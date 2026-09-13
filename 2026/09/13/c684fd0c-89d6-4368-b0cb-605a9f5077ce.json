@@ -1,0 +1,22 @@
+{
+    "round_id": "c684fd0c-89d6-4368-b0cb-605a9f5077ce",
+    "draw_title": "Mega 15\" Digital Photo Frame",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/mega-15-digital-photo-frame",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7322122120437c2471064591399bd102abe14f61ba0777a9adaebba563b0d9e1",
+    "drand_seed_hash": "b39a812b85cc4c47fe9fc82a89893b2db077688e72c987cf15e12c46e3eb3d0607002e1b80c59cde80cbbeced18f00e9",
+    "client_seed": "1789327123974",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44,
+    "max_tickets": 300,
+    "combined_hash": "9be5428a473aba636034df71dbd14c83e3c1ed2629258dee398ef6ea4e4c7598",
+    "result": "64",
+    "external_round_id": "32174588",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:18:43.000000Z",
+    "revealed_at": "2026-09-13T19:18:48.000000Z"
+}
