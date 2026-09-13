@@ -1,0 +1,22 @@
+{
+    "round_id": "fb0e9d8d-affd-4470-826e-084b0588306a",
+    "draw_title": "Grand Theft Otto | £100 Main Prize | £7000 Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/grand-theft-otto-ps100-main-prize-ps7000-instant-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "a0570d9420af94b320a8b21b441f007a46dd3faa83b3ddd48f2021dfa8121288",
+    "drand_seed_hash": "8d9a9fe4341ae7687d4142577558c1c75cf4a7c2d0a911518c7dba7eecbfca8847efc559f9a1a40bf65385661f362c24",
+    "client_seed": "1789330255302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14175,
+    "max_tickets": 95000,
+    "combined_hash": "09ce536d64bcc09855fef28df981c0134b4eaa2328e21a4fd2cc606b6e182386",
+    "result": "43778",
+    "external_round_id": "32175632",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:10:55.000000Z",
+    "revealed_at": "2026-09-13T20:11:00.000000Z"
+}
