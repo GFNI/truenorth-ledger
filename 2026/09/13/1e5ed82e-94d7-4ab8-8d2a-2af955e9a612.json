@@ -1,0 +1,22 @@
+{
+    "round_id": "1e5ed82e-94d7-4ab8-8d2a-2af955e9a612",
+    "draw_title": "Penny Magic - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/penny-magic",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "8dc2048c259c1abcc3c1ba18bd20ed82212a5f0d4f34e5cf96228bbab95524cf",
+    "drand_seed_hash": "8b904537a4cf3a791bf0559585a219dc6c9eb62353f0ff7cf1e2087a68e51744627849abe8ea9350b30e2a361b25ba11",
+    "client_seed": "1789328331772",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 442561,
+    "max_tickets": 1250000,
+    "combined_hash": "f6f152bd09994448d619c74fa414938fddc47c031b766d3070c4a7a03a1ef34b",
+    "result": "79719",
+    "external_round_id": "32174991",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:38:51.000000Z",
+    "revealed_at": "2026-09-13T19:38:57.000000Z"
+}
