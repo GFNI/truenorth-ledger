@@ -1,0 +1,22 @@
+{
+    "round_id": "3b44b8fe-fb76-439c-9341-391b6efe0ae3",
+    "draw_title": "Free £250 Cash Giveaway",
+    "competition_url": "https://theprizevault.co.uk/admin/products/free-ps250-cash-giveaway",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "6ccc3cea1429e6f42ba7eaf7bb2db1dc63d38992177d86ebe89aacd4cb82ec93",
+    "drand_seed_hash": "b09990e8a67d4995c7d459abf45f640fdff39d0ed2d11f9aa11c101e4960e957fa6bf9b63b96004dd51e1ee1f63b946a",
+    "client_seed": "1789326682265",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 5000,
+    "combined_hash": "9373be12bccb93aaebc22082ebc351adf354b7c0fb3f9c9bb98b0899ab8a2edb",
+    "result": "1316",
+    "external_round_id": "32174441",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:11:22.000000Z",
+    "revealed_at": "2026-09-13T19:11:27.000000Z"
+}
