@@ -1,0 +1,22 @@
+{
+    "round_id": "2432b36e-b832-4a9c-b147-b92915d2e7e0",
+    "draw_title": "THE PENNY PAY DAY! 20 X £1000 INSTANT WINS!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/the-penny-pay-day-20-x-ps1000-instant-wins",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "791c02f67b046b54753d7d77d81abf9e5212f07b48d410bcbaf808eb07f89470",
+    "drand_seed_hash": "9433ab28d9af1bef7dfb852fc7712aa77929460005642cc2aad65dac5e277ba8967c3e14bbf6b27b335667d90e226b66",
+    "client_seed": "1789328707176",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 246833,
+    "max_tickets": 4100000,
+    "combined_hash": "93c59650109d79488b622d2493d41851740c8bafed4b458f9253e4825714ef7b",
+    "result": "3158260",
+    "external_round_id": "32175116",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:45:07.000000Z",
+    "revealed_at": "2026-09-13T19:45:12.000000Z"
+}
