@@ -1,0 +1,22 @@
+{
+    "round_id": "df431df1-f53a-4e17-a36c-7166342c8815",
+    "draw_title": "New £5k Cash Ladder!!! Minimum £5k to winner",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-ps5k-cash-ladder-minimum-ps5k-to-winner",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "cc08d52bc8d8b617f40371b4c4efd11fbaea5e48e5ff4538ca26a1422658bde6",
+    "drand_seed_hash": "b656a49fd2f6add86d71cea62e9af9e9885e8d9fa563c147f9a20c676b3d0c2bda07a9f3ec07a445dea3cd72a2ac2bfc",
+    "client_seed": "1789326479058",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82535,
+    "max_tickets": 200000,
+    "combined_hash": "abdcbbd3be71b1e87ad6db655080a608b3e2959c24e2b2d9a1a9864f7e4e7ce6",
+    "result": "104300",
+    "external_round_id": "32174373",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:07:59.000000Z",
+    "revealed_at": "2026-09-13T19:08:03.000000Z"
+}
