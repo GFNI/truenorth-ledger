@@ -1,0 +1,22 @@
+{
+    "round_id": "0b6b9ddd-7e24-41e1-a59e-f17855cb94cd",
+    "draw_title": "Brand New Revvi 20\" Electric Balance Bike - Worth £1100!",
+    "competition_url": "https://expcomps.com/admin/products/brand-new-revvi-20-electric-balance-bike-worth-ps1100",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "537cd2093bacc959d619db95f9c8793f52170f99dbd67b4b7404e11d5b8daa85",
+    "drand_seed_hash": "839e936d22114c3b74ebdf587e2a470223d55d2df656e3260bab5154ed0f21e7e5cdb379a2fdd987f9e26a4ffabe147a",
+    "client_seed": "1789330634015",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 289,
+    "max_tickets": 549,
+    "combined_hash": "06e68d843555f9d322d2f36f6ecfc63fe0ebace9e826d80f4f74e5f79a6721a5",
+    "result": "30",
+    "external_round_id": "32175758",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:17:14.000000Z",
+    "revealed_at": "2026-09-13T20:17:18.000000Z"
+}
