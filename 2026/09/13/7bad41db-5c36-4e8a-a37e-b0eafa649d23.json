@@ -1,0 +1,22 @@
+{
+    "round_id": "7bad41db-5c36-4e8a-a37e-b0eafa649d23",
+    "draw_title": "🔥 BURNING CASH — £100 CASH 🔥",
+    "competition_url": "https://expcomps.com/admin/products/burning-cash-ps100-cash",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "e0b5354bdaa0e1f20bad99f33d89d83bcf628fbe0904c4eb43f44bfc33b22b56",
+    "drand_seed_hash": "ae894fbe8fbab13e0211b9a54d0c06cb9737c452f2fa54b8a6c6f3be2516f52144e794e564a81e182fdce349d7725158",
+    "client_seed": "1789330230564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15925,
+    "max_tickets": 25000,
+    "combined_hash": "e76603ae02a1a000ef7d345d7866032eb5a7a1741021d5a3568c0298c73763b3",
+    "result": "8536",
+    "external_round_id": "32175624",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:10:30.000000Z",
+    "revealed_at": "2026-09-13T20:10:36.000000Z"
+}
