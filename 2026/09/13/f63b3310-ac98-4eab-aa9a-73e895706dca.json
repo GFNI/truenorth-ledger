@@ -1,0 +1,22 @@
+{
+    "round_id": "f63b3310-ac98-4eab-aa9a-73e895706dca",
+    "draw_title": "BMW 330i Cash VS Tickets - £100 Worth Of Tickets End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/bmw-cash-vs-tickets",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "9f9559349944e71cbb7375257516695ffddac29e28491662b395120d41f0f6ef",
+    "drand_seed_hash": "9642048d387225ea3a8ecd667ab5dc71ead754e2725d84006afe831db7adc66966503d241ca64c53e07b7274fa6ec724",
+    "client_seed": "1789324802296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100653,
+    "max_tickets": 500000,
+    "combined_hash": "f80af46623a2d49aa1433078b7faf11b8d42b39eda113b6a8b9f9264237d34e4",
+    "result": "269625",
+    "external_round_id": "32173814",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T18:40:02.000000Z",
+    "revealed_at": "2026-09-13T18:40:06.000000Z"
+}
