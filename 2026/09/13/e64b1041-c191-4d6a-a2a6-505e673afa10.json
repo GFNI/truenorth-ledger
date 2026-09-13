@@ -1,0 +1,22 @@
+{
+    "round_id": "e64b1041-c191-4d6a-a2a6-505e673afa10",
+    "draw_title": "Odds Booster - Win 50 Entries into Ninja Speedi",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/odds-booster-win-50-entries-into-ninja-speedi",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "7b8c918adc97dc26466b5a04da4c7da92333214ffaf46c02eeb441b61ad1448d",
+    "drand_seed_hash": "a50ac34d18d1c14a93b8a50ff3651765ad719209c17c8b4019f25cff53d27f9ffbc127786aa6eb01c54d294032fbb792",
+    "client_seed": "1789330137004",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7,
+    "max_tickets": 100,
+    "combined_hash": "8924bef0093b5c5bd1290b68e188820e4dd21943af65b4cb940209a03798e9cc",
+    "result": "34",
+    "external_round_id": "32175593",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:08:57.000000Z",
+    "revealed_at": "2026-09-13T20:09:03.000000Z"
+}
