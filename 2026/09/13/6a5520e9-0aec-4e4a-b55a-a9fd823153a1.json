@@ -1,0 +1,22 @@
+{
+    "round_id": "6a5520e9-0aec-4e4a-b55a-a9fd823153a1",
+    "draw_title": "Notorious P.I.G. | 5 Winners x £50 Main Prize | £4500  Instant Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/notorious-pig-5-winners-x-ps50-main-prize-ps4500-instant-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "4da02ce2f3bf6f0de7e1a044ed287bc66706915c9d501b8748ee0ab349db8d12",
+    "drand_seed_hash": "8cb7f982bc989e4b1cd130847e79391b89610e0c766c04b485456a25b36655ff83852fc48f000ce6d823c7e62fd51d73",
+    "client_seed": "1789330261000",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27110,
+    "max_tickets": 190000,
+    "combined_hash": "19abe566c07824e6551d5d72f5baa5b5e7d92cb59924218a07846d9e8e2f5a8b",
+    "result": "177578",
+    "external_round_id": "32175634",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:11:01.000000Z",
+    "revealed_at": "2026-09-13T20:11:06.000000Z"
+}
