@@ -1,0 +1,22 @@
+{
+    "round_id": "d4a4fdea-34da-4a63-89ee-90a50a89b43f",
+    "draw_title": "DEEP SEA DIVE | £250 END PRIZE | 613 INSTANT WINS",
+    "competition_url": "https://expcomps.com/admin/products/deep-sea-dive-ps250-end-prize-613-instant-wins",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "4abad39ffde095127a8f1935481a50af17c474b5af87e780c08e7f6eeda7ed2d",
+    "drand_seed_hash": "b201a6ace748a2ba89bda90bea5b9015b6dc178c1c7c94a354734e79d9c26343f58991efc0fc1d1c031734fece6b0b75",
+    "client_seed": "1789330224512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1060,
+    "max_tickets": 6000,
+    "combined_hash": "a62e0b29758a50a1a5c0101e5a9eecd77d7b20f5876ea2dc907f90058795d0f2",
+    "result": "2695",
+    "external_round_id": "32175622",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:10:24.000000Z",
+    "revealed_at": "2026-09-13T20:10:30.000000Z"
+}
