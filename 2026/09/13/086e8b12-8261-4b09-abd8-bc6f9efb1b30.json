@@ -1,0 +1,22 @@
+{
+    "round_id": "086e8b12-8261-4b09-abd8-bc6f9efb1b30",
+    "draw_title": "Pokémon Pitch Black Bundle — Low Odds Sunday! #2",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-pitch-black-bundle-low-odds-sunday-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "065f58e605bdd6cd7bc71a322f325a1da861a361505d84fbadf9b6857704a304",
+    "drand_seed_hash": "a95c5b5a7f84c58fdca18c35bf94bd98b56d3c3b3de7d6b7832b13e0f56f3f93180b1b1436afa77d65c20806944fd42a",
+    "client_seed": "1789335192002",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 150,
+    "combined_hash": "d498351b82f2eef130d921f6bb5d674311c6eb15bf0ec7dd277904851bf2cdb8",
+    "result": "115",
+    "external_round_id": "32177278",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T21:33:12.000000Z",
+    "revealed_at": "2026-09-13T21:33:18.000000Z"
+}
