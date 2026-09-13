@@ -1,0 +1,22 @@
+{
+    "round_id": "c138fc66-7bf6-4ef1-8aaa-6a177ad74dad",
+    "draw_title": "FOR FREE - £100 BY MIDNIGHT - SPEND £4.98 ON COMPS & WIN WE WILL DOUBLE IT) #15",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/for-free-ps100-by-midnight-spend-ps498-on-comps-win-we-will-double-it-15",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "2e44b57049f1d51582f7bfdfe8f1d9d16d2a74a794dbd88aa2c3cb6676baa182",
+    "drand_seed_hash": "b095ea352e2f0523d6b96cca979f358e919884c7394065723d8e6750066cfd3aa962e9080210811c697ccfd6e44797b3",
+    "client_seed": "1789340953295",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4801,
+    "max_tickets": 10000,
+    "combined_hash": "3ff5e52735ac234d246f402b62c73b6bc4f21b39060ee4fd02f60375c5ef4ab2",
+    "result": "1952",
+    "external_round_id": "32179198",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T23:09:13.000000Z",
+    "revealed_at": "2026-09-13T23:09:18.000000Z"
+}
