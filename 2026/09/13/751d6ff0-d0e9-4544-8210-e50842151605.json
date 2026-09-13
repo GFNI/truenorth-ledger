@@ -1,0 +1,22 @@
+{
+    "round_id": "751d6ff0-d0e9-4544-8210-e50842151605",
+    "draw_title": "INSTANTLY WIN MANSORY ENTRIES!",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/instantly-win-mansory-entries",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "af62fc2b5fa4dcc705026a6d212796adfd7496b7d95d9e127e10c3ed9c374f52",
+    "drand_seed_hash": "ad679af43067e97a3038fc4bc4b238e03cfc6084a0cd9021587da3df402a1be624352084dbc250208b03a0077b650c3e",
+    "client_seed": "1789330437875",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "399d1a8dd05f2c7d3b147a7051a40137971ae261a50c672ea72b50d410aaa0a3",
+    "result": "1642",
+    "external_round_id": "32175693",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:13:57.000000Z",
+    "revealed_at": "2026-09-13T20:14:03.000000Z"
+}
