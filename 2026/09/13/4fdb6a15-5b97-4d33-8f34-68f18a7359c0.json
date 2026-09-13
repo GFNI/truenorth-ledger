@@ -1,0 +1,22 @@
+{
+    "round_id": "4fdb6a15-5b97-4d33-8f34-68f18a7359c0",
+    "draw_title": "Free Weekly Bingo",
+    "competition_url": "https://ecnicompetitions.com/admin/products/free-weekly-bingo-3",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "b2032934dec2e0fae450bfc977aea05e7281b6a5778b6fd117c631881b460a37",
+    "drand_seed_hash": "8dc7ba03b1cbadd5b43cf5d90e3974f07a63b39f1e8e909c399c13a9b55b30ce2fe53e808aabfa4ddbda5558b6eab7da",
+    "client_seed": "1789333758893",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34,
+    "max_tickets": 100,
+    "combined_hash": "88b5d57896c4c741a778ab0de33e4188d5893a726fbbc3ce5acf2444c9e3575f",
+    "result": "61",
+    "external_round_id": "32176800",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T21:09:18.000000Z",
+    "revealed_at": "2026-09-13T21:09:24.000000Z"
+}
