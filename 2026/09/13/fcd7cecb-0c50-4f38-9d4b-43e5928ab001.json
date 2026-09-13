@@ -1,0 +1,22 @@
+{
+    "round_id": "fcd7cecb-0c50-4f38-9d4b-43e5928ab001",
+    "draw_title": "Two Night Romantic Break at the Kingsmills Hotel",
+    "competition_url": "https://a9competitions.co.uk/admin/products/two-night-romantic-break-at-the-kingsmills-hotel",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "1d43e7a57b5a5962b1b533ac110762c0a9fa49be52db773957f8df6b52af859d",
+    "drand_seed_hash": "a67b442a4cc2d1c099a64fd2226af380cf51c7c8c24e1d8aee4df181c6e3efe56e87ca4d441b33aee4815745d4aa4bea",
+    "client_seed": "1789331457289",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 180,
+    "max_tickets": 370,
+    "combined_hash": "c87b6968d11a76f4cdc3e928df72fd4102e5d59967cecb8eac73e50515feec13",
+    "result": "263",
+    "external_round_id": "32176033",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:30:57.000000Z",
+    "revealed_at": "2026-09-13T20:31:03.000000Z"
+}
