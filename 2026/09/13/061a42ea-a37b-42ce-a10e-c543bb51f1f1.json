@@ -1,0 +1,22 @@
+{
+    "round_id": "061a42ea-a37b-42ce-a10e-c543bb51f1f1",
+    "draw_title": "Erling Haaland Panini Prizm Auto /99",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/erling-haaland-panini-prizm-auto-99",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "375d6f765a1f2c27793516cefbd95526587be5ff8e45ff7609711d674792db47",
+    "drand_seed_hash": "b254b30e878d1e36b308e4941d398ad303579403859aba6aadb9496ab134a98c30ef3d20e0b62b4d960c4fc22fb7e5c3",
+    "client_seed": "1789323014992",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 750,
+    "combined_hash": "92541926d7122de34ed1605d504b5ee0a9a791cbcdb6175e249f106e7a669acc",
+    "result": "9",
+    "external_round_id": "32173219",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T18:10:15.000000Z",
+    "revealed_at": "2026-09-13T18:10:21.000000Z"
+}
