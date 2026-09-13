@@ -1,0 +1,22 @@
+{
+    "round_id": "48fe4959-79ae-459d-abeb-45922a48a5d3",
+    "draw_title": "Win 10x Tudor Black Bay Or £2k Cash Tickets - Draw 1",
+    "competition_url": "https://expcomps.com/admin/products/win-10x-tudor-black-bay-or-ps2k-cash-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "f7df1af33c5b29605c7c7ec81c3081b9355cc409d632833f67447c99e31f8ec9",
+    "drand_seed_hash": "a3363e9085532c1f0b7cc678f6c49c25450efda88192c8630ef204463cd7c9854f252c6019bf7454094152b9fb7bf21e",
+    "client_seed": "1789299785745",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "434845180f0664b4df15ca1bec80437d1423a616f7ff47147315ca40ed37e8a9",
+    "result": "68",
+    "external_round_id": "32165476",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T11:43:05.000000Z",
+    "revealed_at": "2026-09-13T11:43:12.000000Z"
+}
