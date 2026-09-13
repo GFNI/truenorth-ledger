@@ -1,0 +1,22 @@
+{
+    "round_id": "0bdefbc4-313d-4e32-9747-b8074d44bf5c",
+    "draw_title": "GoPro 360",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/gopro-360-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "5c4a1a23b276dbc3907c50075d05de30b9513cead999bb49dcdea1a66c6a2d7a",
+    "drand_seed_hash": "a84bb1889113cf4aabdb9a8b497c7981e1989264f4ab7ba7d9b633163c69d69306c9bcc5cbe195b4702691ffd119fdd1",
+    "client_seed": "1789327176789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 280,
+    "combined_hash": "0e384790e5549117acae0877c06b89d539f3044f4bfc499592e63613e85ded71",
+    "result": "231",
+    "external_round_id": "32174606",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:19:36.000000Z",
+    "revealed_at": "2026-09-13T19:19:42.000000Z"
+}
