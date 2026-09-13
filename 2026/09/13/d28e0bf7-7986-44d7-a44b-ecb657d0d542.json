@@ -1,0 +1,22 @@
+{
+    "round_id": "d28e0bf7-7986-44d7-a44b-ecb657d0d542",
+    "draw_title": "P.LOUISE Cheetah Instant Wins",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/plouise-cheetah-instant-wins",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "298fc6d341a5695d2ab8fb12d593dfa62b07f1ae75e37cef82cfec1a944595be",
+    "drand_seed_hash": "a1cf9252f5d00bf3bde0c0aea8a5ef5798edd08b0535cf1f42147e5538296cfa7ffd36a02c69659f9e4a3e69c5b99d9b",
+    "client_seed": "1789330185205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 498,
+    "combined_hash": "3fb805dad8519b8ebffec89b7b790649e8edbcc1b8c20212c21a70c31a5c8ef4",
+    "result": "426",
+    "external_round_id": "32175609",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:09:45.000000Z",
+    "revealed_at": "2026-09-13T20:09:51.000000Z"
+}
