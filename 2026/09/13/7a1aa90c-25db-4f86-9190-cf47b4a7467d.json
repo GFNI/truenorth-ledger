@@ -1,0 +1,22 @@
+{
+    "round_id": "7a1aa90c-25db-4f86-9190-cf47b4a7467d",
+    "draw_title": "🫐Berry Big Wins🫐",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/berry-big-wins-3",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "9995938fde2f2b3b3f6a2440e795b7f45c1c6f3dbae2d37c985b4179c2e90a2e",
+    "drand_seed_hash": "8d6164d814f91278181b47b566f1946472bd9adc5277e00602728d683bc71c07cc7128b59c0dd90536cfe244aeedf7ed",
+    "client_seed": "1789323027968",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2026,
+    "max_tickets": 15000,
+    "combined_hash": "5d715bda2e384bcca1c7bf9794a8992124ab4aba7348835abcc1380249d55aef",
+    "result": "5886",
+    "external_round_id": "32173223",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T18:10:27.000000Z",
+    "revealed_at": "2026-09-13T18:10:33.000000Z"
+}
