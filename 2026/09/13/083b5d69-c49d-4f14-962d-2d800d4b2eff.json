@@ -1,0 +1,22 @@
+{
+    "round_id": "083b5d69-c49d-4f14-962d-2d800d4b2eff",
+    "draw_title": "HANDBAG HEAVEN INSTANT WIN",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/handbag-heaven-instant-win",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "2ec592ef88b4742cc5117545f16882ac1da6ce2a7add0e2c8992f8e085134245",
+    "drand_seed_hash": "a268074e3bb96cd979c540c86459caa1d5b2acefb2f4f9d2fb2bb0727eb91f540ce83ca8d0037bcc9dffc3ce3de4aabe",
+    "client_seed": "1789330212712",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20907,
+    "max_tickets": 29999,
+    "combined_hash": "89c3b701e0bf0d35b38cba776e74d39de0922e973f377db51fdcb863b16fb256",
+    "result": "21322",
+    "external_round_id": "32175618",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:10:12.000000Z",
+    "revealed_at": "2026-09-13T20:10:18.000000Z"
+}
