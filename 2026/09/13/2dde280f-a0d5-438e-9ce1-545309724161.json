@@ -1,0 +1,22 @@
+{
+    "round_id": "2dde280f-a0d5-438e-9ce1-545309724161",
+    "draw_title": "Free Draw - 3 Winners of £10 Site Credit",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-3-winners-of-ps10-site-credit-2",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "fe140a0d5487362a0a3040afb4e735d4f43a180e0a4efdb8e67e232e6a22d778",
+    "drand_seed_hash": "ac3ef2e134efe840b54f936d906ed9a16c943b564782226b666c2ab9c5061ec8f8f81bd131ad0a162c9a007e743bbd2a",
+    "client_seed": "1789326659169",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 200,
+    "combined_hash": "76e2f095d4111ff7c4751adb2422a02a7b04fe1abff2a3dfe36c55368c25af0a",
+    "result": "199",
+    "external_round_id": "32174433",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:10:59.000000Z",
+    "revealed_at": "2026-09-13T19:11:03.000000Z"
+}
