@@ -1,0 +1,22 @@
+{
+    "round_id": "5a1ed8cf-b80a-46f6-84f0-c6c3575360c3",
+    "draw_title": "Football Fantasy",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/football-fantasy",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "9764caa1a0470486fb73615508ed3d8e9a5712424695c25f24d8025f0a058dc4",
+    "drand_seed_hash": "89e732878e6debe13aa638c060bc5254aa6cec9063bf2c2f234cb66c18651d2bc98ec222ea50df983d824fa46fd73983",
+    "client_seed": "1789328350856",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3448,
+    "max_tickets": 11000,
+    "combined_hash": "270a8ed2dce6a6c1b391a7488fba698430ff8443cce76f04c5e383948ede6027",
+    "result": "6072",
+    "external_round_id": "32174997",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:39:10.000000Z",
+    "revealed_at": "2026-09-13T19:39:15.000000Z"
+}
