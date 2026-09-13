@@ -1,0 +1,22 @@
+{
+    "round_id": "08d117ff-7147-4928-99fd-4404048691a2",
+    "draw_title": "Xavi Simmons Topps Chrome Sapphire UEFA Euro /5",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/xavi-simmons-topps-chrome-sapphire-uefa-euro-5",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "e92150353859d7c265625a267e01faccaae5a0865d730b908a1ddfd55d1a6a3d",
+    "drand_seed_hash": "8b66fa6ea71c98310ee4b1f4ed5f8a3c31226851e9604f65f754241b408515cf8b2f97a9bdee7776ae810c6319c7ceb9",
+    "client_seed": "1789323021543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 139,
+    "max_tickets": 500,
+    "combined_hash": "93b8bb75169f7107a541c858c2a523e3e097cec8157002ece5c828384caf1e72",
+    "result": "256",
+    "external_round_id": "32173221",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T18:10:21.000000Z",
+    "revealed_at": "2026-09-13T18:10:27.000000Z"
+}
