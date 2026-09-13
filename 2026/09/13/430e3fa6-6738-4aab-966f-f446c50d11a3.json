@@ -1,0 +1,22 @@
+{
+    "round_id": "430e3fa6-6738-4aab-966f-f446c50d11a3",
+    "draw_title": "Win 10x 20\" Revvi Tickets - Draw 1",
+    "competition_url": "https://expcomps.com/admin/products/win-10x-20-revvi-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "36a1a316b698b111504eb480d893b6bea17dddc19db1dcf3884fd1f8d60b57cf",
+    "drand_seed_hash": "a051e68160b4b25e8a38ea3b355645a0c6c7830a374af96383aac86c7f37197e284d0ccde8d979bd323276373f6a61c3",
+    "client_seed": "1789327509693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 75,
+    "combined_hash": "fcfb09800cb4f880b1234d69f2487330ac1e4992e20fc97ca83236876f8325b7",
+    "result": "56",
+    "external_round_id": "32174717",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:25:09.000000Z",
+    "revealed_at": "2026-09-13T19:25:15.000000Z"
+}
