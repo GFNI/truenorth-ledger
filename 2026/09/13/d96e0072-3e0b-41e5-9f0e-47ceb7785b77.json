@@ -1,0 +1,22 @@
+{
+    "round_id": "d96e0072-3e0b-41e5-9f0e-47ceb7785b77",
+    "draw_title": "SAMSUNG M70H 55\" 4K TV",
+    "competition_url": "https://proprizes.co.uk/admin/products/samsung-m70h-55-4k-tv",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "ffd722d81f7e5d58746574945db13b2f372d36361dc236ffa259cfba8859b359",
+    "drand_seed_hash": "b4261fdc92d744151d8b09116750ef77c0c27cded40c3e5850b20046114522f93bec3b3d58f176436a849487f30aa48b",
+    "client_seed": "1789335565130",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48,
+    "max_tickets": 75,
+    "combined_hash": "d4de231dcfdc0ce4825ee78a35d53b479e3b9adcadcc58f4444b2a41367c7abc",
+    "result": "19",
+    "external_round_id": "32177402",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T21:39:25.000000Z",
+    "revealed_at": "2026-09-13T21:39:30.000000Z"
+}
