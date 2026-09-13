@@ -1,0 +1,22 @@
+{
+    "round_id": "248b43e3-f4d9-484a-9b93-b2b33b456710",
+    "draw_title": "WIN £75 CASH",
+    "competition_url": "https://greasemonkeycompetitions.co.uk/admin/products/win-ps75-cash",
+    "operator": {
+        "name": "Grease Monkey Competitions Ltd",
+        "website": "https://greasemonkeycompetitions.co.uk",
+        "company_number": "17064428"
+    },
+    "drand_server_seed": "5730c7cb5776026af1740a076191d4921e874ccd74c41f5aa9826560c440da16",
+    "drand_seed_hash": "b786abe390be10c8d10049f7d0ca86a41ed7c2ef0f4a8125c45ce79c7a1e8d569bfaf27f98cecae969e92d413271bec7",
+    "client_seed": "1789330242543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23,
+    "max_tickets": 75,
+    "combined_hash": "d914592d50df58ddecabc9bd4a32b630f90a0dc10d1e9671efc311e27b3760b6",
+    "result": "12",
+    "external_round_id": "32175628",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T20:10:42.000000Z",
+    "revealed_at": "2026-09-13T20:10:48.000000Z"
+}
