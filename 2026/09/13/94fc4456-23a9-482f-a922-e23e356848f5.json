@@ -1,0 +1,22 @@
+{
+    "round_id": "94fc4456-23a9-482f-a922-e23e356848f5",
+    "draw_title": "PSA 10 BLASTOISE & PIPLUP GX 38/236",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/psa-10-blastoise-piplup-gx-38236",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c21871e60d583964089a6d87ca8524c7f3e37693448c58dfae0d4a57c23af735",
+    "drand_seed_hash": "b2f0282d951cd333d28f1161c0bbbf4557324446c1f0a196eeb8ce08bd7045a8de274bf2bc57c34f1256121072a6cfeb",
+    "client_seed": "1789328478428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 120,
+    "combined_hash": "a29c2d34c765c91fc91f967a1f71efd415a293cfe312b0f612b249a2ee88db90",
+    "result": "11",
+    "external_round_id": "32175040",
+    "processing_status": "completed",
+    "created_at": "2026-09-13T19:41:18.000000Z",
+    "revealed_at": "2026-09-13T19:41:24.000000Z"
+}
