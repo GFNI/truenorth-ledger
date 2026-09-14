@@ -1,0 +1,22 @@
+{
+    "round_id": "812a8fab-3ce2-47c8-a9e3-40285b6bd404",
+    "draw_title": "£15 Frenzy",
+    "competition_url": "https://chaotic.co.uk/competition/ps15-frenzy-8680",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "246a922eb15eda0d331736988d299a5f5f693cbc0338b63b141de827e8921342",
+    "drand_seed_hash": "911081870ca5e3cdaea66efa1c26db9b714f490c16acf3644a4a452ea7b03b13d8d3a18c4bcdaf748bd3dc7b4e3a1970",
+    "client_seed": "1789414675194",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "543e79ed7d5e3accf587a0c685c7a519066207d77beac58c425c25ab2ef10e63",
+    "result": "505",
+    "external_round_id": "32203773",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:37:55.000000Z",
+    "revealed_at": "2026-09-14T19:38:03.000000Z"
+}
