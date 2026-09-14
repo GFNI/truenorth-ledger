@@ -1,0 +1,22 @@
+{
+    "round_id": "2d3485c5-6c8a-47c3-9c60-20fafb82f4cf",
+    "draw_title": "BE A GUEST OF GOLDBANK – KEVIN BRIDGES VIP EXPERIENCE",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/be-a-guest-of-goldbank-kevin-bridges-vip-experience",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "5f2183bcabe17c78a121cbc02b9eb49144ed069b930eaf5cfd749cde87538470",
+    "drand_seed_hash": "90797eedf65a9976bcff24d43dbadc016e01891fcbea2d59a5476f34d474b46f89466c2a3615797d9ec9943e0aac326f",
+    "client_seed": "1789426515451",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 50,
+    "combined_hash": "f78f8adcf669f0c35f55724bef0e5659a55409bdc728ed5f4e988890cf82ba53",
+    "result": "44",
+    "external_round_id": "32207719",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T22:55:15.000000Z",
+    "revealed_at": "2026-09-14T22:55:21.000000Z"
+}
