@@ -1,0 +1,22 @@
+{
+    "round_id": "219231f2-8a63-4f82-a568-5dfa1b9bd16a",
+    "draw_title": "10gf",
+    "competition_url": "https://truenorth.rafflex.io",
+    "operator": {
+        "name": "Lake District Giveaways",
+        "website": "https://lakedistrictgiveaways.co.uk",
+        "company_number": "14769141"
+    },
+    "drand_server_seed": "d4cc2fd6fd672957063f484592e091d8c7342121a0a954d27d7bb77fa5cf9108",
+    "drand_seed_hash": "b7d3115e2bd2ae5ccd895b56fec3e263b845d4df9254c89a8b0e5e02f4823b21ce42574af84898c2fd21e4ed52172d2e",
+    "client_seed": "1789380378764",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "036f3df24f982b14d5376ebb79b81c4e6dc27c363f3fcdc4bd0ae782f6cf33b8",
+    "result": "88",
+    "external_round_id": "32192340",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T10:06:18.000000Z",
+    "revealed_at": "2026-09-14T10:06:28.000000Z"
+}
