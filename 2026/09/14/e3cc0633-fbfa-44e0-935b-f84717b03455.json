@@ -1,0 +1,22 @@
+{
+    "round_id": "e3cc0633-fbfa-44e0-935b-f84717b03455",
+    "draw_title": "Win A 200 Piece Tool Kit!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-200-piece-tool-kit-9111",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "ac0602cf6cf8033863b1415ae3ba809f81fbe217c5cf214b24f809dc6ddadce9",
+    "drand_seed_hash": "ac005ccfef55fce9e16fcd9236e51661935ea797df8f189bb321de68477790bf3de49fce84125e98fbb32b48142f9477",
+    "client_seed": "1789413747030",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 464,
+    "max_tickets": 699,
+    "combined_hash": "312f28a88e9a34ee8c8a554d549cd77ef3e97f1c72f45f8848be0c12e3cf88b7",
+    "result": "569",
+    "external_round_id": "32203463",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:22:27.000000Z",
+    "revealed_at": "2026-09-14T19:22:33.000000Z"
+}
