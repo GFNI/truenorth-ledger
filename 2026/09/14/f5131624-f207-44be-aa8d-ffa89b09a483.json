@@ -1,0 +1,22 @@
+{
+    "round_id": "f5131624-f207-44be-aa8d-ffa89b09a483",
+    "draw_title": "One Line Bingo",
+    "competition_url": "https://jetcomps.co.uk/admin/products/one-line-bingo-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "f7d90b225c965b93e9e6e4aa03f5efef21b1982c38514665b7308c865469fe24",
+    "drand_seed_hash": "a041ed93122e71b2e60cb42c4a1b961b3e05ec7933728e9465595faf0f99c6466d80d5baa7fb62c2915332f72a771648",
+    "client_seed": "1789413013506",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22771,
+    "max_tickets": 46498,
+    "combined_hash": "a4f03d11383b5fa2ac8b509abd9fa71432e8d4836999cdd715371997d77b719d",
+    "result": "7915",
+    "external_round_id": "32203219",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:10:13.000000Z",
+    "revealed_at": "2026-09-14T19:10:21.000000Z"
+}
