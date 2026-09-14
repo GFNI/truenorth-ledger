@@ -1,0 +1,22 @@
+{
+    "round_id": "17bd1d56-473f-4668-af05-18abfe2718ff",
+    "draw_title": "💖 2 Night Spa Break for 2 at The Stirling Highland Hotel 💖",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/2-night-spa-break-for-2-at-the-stirling-highland-hotel",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e8d09331bb8787411d5a49d82c95c3e0120ce39c18d1d59e9e27dc0dadec5f26",
+    "drand_seed_hash": "a1eb685adb65d9cd386a7b2ed7d8832f2cca9638b1b34acda7a99cef3608b82bbca02f87fe52f437c9fd83616f09da96",
+    "client_seed": "1789413306010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 955,
+    "max_tickets": 955,
+    "combined_hash": "80b0d43e876fb594094897d61d8dd722c2c73849dc2b6b9a3ebc86961aaac444",
+    "result": "74",
+    "external_round_id": "32203316",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:15:06.000000Z",
+    "revealed_at": "2026-09-14T19:15:12.000000Z"
+}
