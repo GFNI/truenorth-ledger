@@ -1,0 +1,22 @@
+{
+    "round_id": "7ae1d6f2-ff75-4f85-8aae-d308a4f8c2f7",
+    "draw_title": "🔴🎤OASIS TOUR - 2 TICKETS - 23RD OF MAY 2027 🎤#2",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/oasis-tour-2-tickets-23rd-of-may-2027-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fb81c2510c29b35c06e6bcf6951f843d7be38220e16ef7dc21e0e4a448735329",
+    "drand_seed_hash": "816cf39870399127cc67338c2ece80b0a82cdd673eb8e3288281d60aaa501d87aeec55dfbefbac0bd094613c402b745a",
+    "client_seed": "1789416660633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2420,
+    "max_tickets": 2420,
+    "combined_hash": "363ec1ccbfab3ecda5d577ab36a59d66357656b20d3f71bb1bf2703cf743c760",
+    "result": "2239",
+    "external_round_id": "32204434",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T20:11:00.000000Z",
+    "revealed_at": "2026-09-14T20:11:06.000000Z"
+}
