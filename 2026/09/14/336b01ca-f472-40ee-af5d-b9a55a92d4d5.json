@@ -1,0 +1,22 @@
+{
+    "round_id": "336b01ca-f472-40ee-af5d-b9a55a92d4d5",
+    "draw_title": "VCC Test 14092026 - 2 (Child Draw)",
+    "competition_url": "https://vintageandclassicuk.com/test-14092026-2",
+    "operator": {
+        "name": "I4IMAGINEERING LIMITED",
+        "website": "https://vintageandclassicuk.com/",
+        "company_number": "10913228"
+    },
+    "drand_server_seed": "9f4593fd21172685fcb87aa5216f7779c6eda88b49af2b5718201cdd64143529",
+    "drand_seed_hash": "821c37bdc1d3851b3afee4d383a22706df50d08728b2dce80a38003b6d886c8f409f9f4dfef6103ad01c7aa6c2ba1966",
+    "client_seed": "1789424526281",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5134,
+    "max_tickets": 5900,
+    "combined_hash": "9e254f6182d4bd0f52823f6e1372aa47e5ad13953d13cb6a7a97995d55505e77",
+    "result": "5627",
+    "external_round_id": "32207056",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T22:22:06.000000Z",
+    "revealed_at": "2026-09-14T22:22:12.000000Z"
+}
