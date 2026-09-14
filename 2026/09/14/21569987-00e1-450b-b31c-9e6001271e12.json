@@ -1,0 +1,22 @@
+{
+    "round_id": "21569987-00e1-450b-b31c-9e6001271e12",
+    "draw_title": "Leppys Bonanza",
+    "competition_url": "https://chaotic.co.uk/competition/leppys-bonanza",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "657f1f6ff8319bc073dc3eb769c4898461b951d9f447a2f8e1b4b46340283b03",
+    "drand_seed_hash": "886acf55c4463b721a45a1cb425ce7d183d52fa7ca119855ffcd0a5baa036cd388229e950cfca2dfc2002450b099fd23",
+    "client_seed": "1789416528697",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74999,
+    "max_tickets": 74999,
+    "combined_hash": "dd2a1e26df1e38154a15828598c34789448de8642afc5fce84c9498a020d3f9c",
+    "result": "69788",
+    "external_round_id": "32204390",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T20:08:48.000000Z",
+    "revealed_at": "2026-09-14T20:08:54.000000Z"
+}
