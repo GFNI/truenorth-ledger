@@ -1,0 +1,22 @@
+{
+    "round_id": "ba24f4fe-9485-42bb-b4f3-622c70ff69eb",
+    "draw_title": "🤖 SHARK Navigator 2-in-1 Robot Vacuum Cleaner 🤖",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/shark-navigator-2-in-1-robot-vacuum-cleaner",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fda3a5630ef859895a16ec0d711c4fdf645ab5c6d2b8aa29ba3ec666f07ef16d",
+    "drand_seed_hash": "94c4236b4c1c16cfb723f1f55f3d92c0fbd82ba4458b95b3611647a947c9c5b1a241087cdff6b41befc79022c8e7627b",
+    "client_seed": "1789413489883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1200,
+    "max_tickets": 1200,
+    "combined_hash": "42f6defb3d7c8615463de11c67cac218a8adf579b84c6971009547e3023434e6",
+    "result": "51",
+    "external_round_id": "32203377",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:18:09.000000Z",
+    "revealed_at": "2026-09-14T19:18:15.000000Z"
+}
