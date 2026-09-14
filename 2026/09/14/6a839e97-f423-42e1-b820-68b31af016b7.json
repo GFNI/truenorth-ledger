@@ -1,0 +1,22 @@
+{
+    "round_id": "6a839e97-f423-42e1-b820-68b31af016b7",
+    "draw_title": "Win a raptor paint bundle!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-raptor-paint-bundle-3342",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "ee8254fba2794d9153837558220a44858b0abbc1d3c3a660e480066474efd1dc",
+    "drand_seed_hash": "b684fcfb41a8d0f603028cc7426f25fb9fdead08ec0315ffb0fba5109abc684a9ff85c853c2288adf139db90462a3192",
+    "client_seed": "1789413521573",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399,
+    "max_tickets": 399,
+    "combined_hash": "292c5697629210d5210351f44666a0930fca0d42ca7f0bc53a9e9cc76132f086",
+    "result": "44",
+    "external_round_id": "32203388",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:18:41.000000Z",
+    "revealed_at": "2026-09-14T19:18:48.000000Z"
+}
