@@ -1,0 +1,22 @@
+{
+    "round_id": "7b7b1078-151e-40bc-a5eb-bcbe20b22a0c",
+    "draw_title": "Mystery Wins",
+    "competition_url": "https://jetcomps.co.uk/admin/products/mystery-wins",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "b73a8691daa24b50c699fe2347b8ab7074ad652c5e739a2788b02c33f838cd49",
+    "drand_seed_hash": "a01ab45585a0a0ec1d0d7d524a38b79b8cd1f7a046e74a46e42bbc504d2f60ee29f0a488ee21b3ea493693ed0fe9efcc",
+    "client_seed": "1789413022146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 157169,
+    "max_tickets": 349999,
+    "combined_hash": "6b211558c9dd9090506163921004bb84772d99d6774cdb9321c367776cec1072",
+    "result": "84042",
+    "external_round_id": "32203222",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:10:22.000000Z",
+    "revealed_at": "2026-09-14T19:10:30.000000Z"
+}
