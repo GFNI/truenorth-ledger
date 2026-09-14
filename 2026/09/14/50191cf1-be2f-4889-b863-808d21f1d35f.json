@@ -1,0 +1,22 @@
+{
+    "round_id": "50191cf1-be2f-4889-b863-808d21f1d35f",
+    "draw_title": "X Marks the Spot ❌",
+    "competition_url": "https://redlemonx.co.uk/admin/products/x-marks-the-spot",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "37672ec8af3aba015b94847a87e8d3d0740455a0a6a6b82e317c4c5020014671",
+    "drand_seed_hash": "92dc93164f9f528b36b1afd2f54e530b157879179e8b75a2b4b6312017931ca1243a96a1301d903e4e6bf694bf5122e1",
+    "client_seed": "1789417474063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31604,
+    "max_tickets": 69000,
+    "combined_hash": "e3012a8f4153767283ca91b89aeaf1978ef06cc45c6517618a1fe70ce9ac19f0",
+    "result": "4884",
+    "external_round_id": "32204706",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T20:24:34.000000Z",
+    "revealed_at": "2026-09-14T20:24:42.000000Z"
+}
