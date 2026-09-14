@@ -1,0 +1,22 @@
+{
+    "round_id": "22eb9323-6540-4ba2-a95e-fc63dedba931",
+    "draw_title": "📺 SAMSUNG U8000H 75\" Crystal UHD 4K HDR Smart TV + Samsung All-in-One Sound Bar📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-u8000h-75-crystal-uhd-4k-hdr-smart-tv-samsung-all-in-one-sound-bar",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "db69ea3392a5710a7dfef8cdbbb46b3f3329c6165934997201b55a03d0d79834",
+    "drand_seed_hash": "82c3eee8182269f9a0d163aa16258b0c8cb360bbce96acf64db3df3cec35f43eb72b5c24900707e7f0523fdff6c08965",
+    "client_seed": "1789413737369",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1900,
+    "max_tickets": 1900,
+    "combined_hash": "4d1bc4a8b35e4baf97ade495c7bd9953b5ee376113113335e0424baf6b5f98f3",
+    "result": "634",
+    "external_round_id": "32203460",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:22:17.000000Z",
+    "revealed_at": "2026-09-14T19:22:24.000000Z"
+}
