@@ -1,0 +1,22 @@
+{
+    "round_id": "d4127b00-22e3-404d-a776-c7b08e525099",
+    "draw_title": "Test",
+    "competition_url": "https://the900club.co.uk/admin/products/test",
+    "operator": {
+        "name": "The 900 Club LTD",
+        "website": "https://the900club.co.uk",
+        "company_number": "SC901243"
+    },
+    "drand_server_seed": "709c04a2da80ce08db46e972617536ac21496d754cbc0ee36adc50c8b8c2d43d",
+    "drand_seed_hash": "a68c37c18acb2c02f7d0737e652f9d4bda10f1e3ee46029cc2689da35b56cac548cb5e7fa59241991fdf07367a8ec21d",
+    "client_seed": "1789380127427",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1,
+    "combined_hash": "8d68a5a1bff8a2c935885d4edccebdd900f063b40598f967149b2249556daae2",
+    "result": "1",
+    "external_round_id": "32192257",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T10:02:07.000000Z",
+    "revealed_at": "2026-09-14T10:02:15.000000Z"
+}
