@@ -1,0 +1,22 @@
+{
+    "round_id": "10f224aa-2a96-4ecc-982a-eb263de7e862",
+    "draw_title": "£2,000 End Prize + 5x £1,000 Instants Sept26",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps2000-end-prize-5x-ps1000-instants-sept26",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "14ad9fc7b53cf6fdf0b25d5b28197e0637cb986209a8000068e0b66f4e43c50d",
+    "drand_seed_hash": "902a2f6b0886547b55da6e10683d812f38ca8c6ae4206cb214c4d05b283ae5daad60258ed76e99f06eb0142fa63e37ea",
+    "client_seed": "1789420163344",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5418,
+    "max_tickets": 7000,
+    "combined_hash": "7518316e5d0465ede56a47f48f4ca202b9dc9d4cf284520f0f4b173ff7f044d4",
+    "result": "4286",
+    "external_round_id": "32205602",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T21:09:23.000000Z",
+    "revealed_at": "2026-09-14T21:09:30.000000Z"
+}
