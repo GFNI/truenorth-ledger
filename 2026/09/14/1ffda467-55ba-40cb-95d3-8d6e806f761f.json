@@ -1,0 +1,22 @@
+{
+    "round_id": "1ffda467-55ba-40cb-95d3-8d6e806f761f",
+    "draw_title": "Ascended Heroes ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ascended-heroes-etb-4",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "cb3dc980d6b1fdb3a97b310cca94b680761a1cae2b8f02bfdb9c9f4975ae4ffc",
+    "drand_seed_hash": "88cd0f2b63fb078157ad3edc329c961ec493e74b632884b4c15aa9e1b19b6592c5c0708c17353b8f1149efa08566fcd0",
+    "client_seed": "1789420208906",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 137,
+    "max_tickets": 300,
+    "combined_hash": "c2ae50c0bfd603dc11f84b3d4d526f4dc185cbfd842cbb0b022bdd7cff893666",
+    "result": "191",
+    "external_round_id": "32205617",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T21:10:08.000000Z",
+    "revealed_at": "2026-09-14T21:10:15.000000Z"
+}
