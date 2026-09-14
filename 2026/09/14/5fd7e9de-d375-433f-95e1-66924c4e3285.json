@@ -1,0 +1,22 @@
+{
+    "round_id": "5fd7e9de-d375-433f-95e1-66924c4e3285",
+    "draw_title": "🦷THE NEW Dyson CameraJet™ electric toothbrush 🦷",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/the-new-dyson-camerajet-electric-toothbrush",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "bf84dce715cd114324f46ec8df8ecbaf494fd72a654e2416e75a89a35643cd94",
+    "drand_seed_hash": "b8d88fda8acc29dc24645c19c968d8a48f536503617d6744c0452a83beed36af929c76d484f056f260a2cd7fd86601d3",
+    "client_seed": "1789413380228",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 778,
+    "max_tickets": 790,
+    "combined_hash": "ce95c929e7f7d1af96ad68a1798c9514c76ed2503f30222bd579741c10cb1bd3",
+    "result": "133",
+    "external_round_id": "32203341",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:16:20.000000Z",
+    "revealed_at": "2026-09-14T19:16:27.000000Z"
+}
