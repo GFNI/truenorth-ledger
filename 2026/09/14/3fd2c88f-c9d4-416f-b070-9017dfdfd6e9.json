@@ -1,0 +1,22 @@
+{
+    "round_id": "3fd2c88f-c9d4-416f-b070-9017dfdfd6e9",
+    "draw_title": "Pot of Chaoss",
+    "competition_url": "https://chaotic.co.uk/competition/pot-of-chaoss-1962",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c0f344ed1d05cef4c22393223be81d37052362f8b7acfd56541e08f497210cf6",
+    "drand_seed_hash": "b325a458ee01fa48081af5edb4b257965141957c887a44f8150327a9f90d300fcc800f6a540bd58f1ca4eee7d7009f3e",
+    "client_seed": "1789414982284",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "8dbce821c8dd6f1d6479e9004245afd9b7ba76398f88db086ba888fd365ce51c",
+    "result": "901318",
+    "external_round_id": "32203875",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:43:02.000000Z",
+    "revealed_at": "2026-09-14T19:43:09.000000Z"
+}
