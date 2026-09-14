@@ -1,0 +1,22 @@
+{
+    "round_id": "89a6e96c-1cf3-4fd3-b567-3966f085fe44",
+    "draw_title": "🌴 7 Night stay in Dubai for family of 4 27th March '27🌴",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/7-night-stay-in-dubai-for-family-of-4-27th-march-27",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4b2a5da16712d2fd02e7083ad5ad141eed9a4b869e285cd7d3d98eca13989026",
+    "drand_seed_hash": "8749de7d977ae81369378bd0b495f70743ae344ea96c2c3a76d16b7e96f375c11b8dc15d4bec959b063524794222ffd5",
+    "client_seed": "1789413994973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7925,
+    "max_tickets": 16000,
+    "combined_hash": "a5859964ce7d3c629a5eb558b7b0d1c0c0a66c9f59ca64d3191b267b8c9985e1",
+    "result": "6822",
+    "external_round_id": "32203546",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:26:35.000000Z",
+    "revealed_at": "2026-09-14T19:26:42.000000Z"
+}
