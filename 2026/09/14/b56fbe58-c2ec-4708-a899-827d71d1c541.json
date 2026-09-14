@@ -1,0 +1,22 @@
+{
+    "round_id": "b56fbe58-c2ec-4708-a899-827d71d1c541",
+    "draw_title": "Plink or Swim 🌊",
+    "competition_url": "https://redlemonx.co.uk/admin/products/plink-or-swim-2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "0909a439908b6d622e8c7d5d3ef7c37fad44637232967f746efbb3a6af5a5083",
+    "drand_seed_hash": "91822064b451d1d9c2124f19a4e2c807d7af31f0bcebea0567d4b2ebed80cbf5bf43f8ec5bcac07dea6081a76fb9bab3",
+    "client_seed": "1789417360923",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 310326,
+    "max_tickets": 500000,
+    "combined_hash": "d94569ed971a618de32e223fcf24ec69b9763f5aef7acd420b7608765f5a1c2c",
+    "result": "99354",
+    "external_round_id": "32204667",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T20:22:40.000000Z",
+    "revealed_at": "2026-09-14T20:22:45.000000Z"
+}
