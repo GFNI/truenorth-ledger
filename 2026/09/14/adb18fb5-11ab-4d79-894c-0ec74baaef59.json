@@ -1,0 +1,22 @@
+{
+    "round_id": "adb18fb5-11ab-4d79-894c-0ec74baaef59",
+    "draw_title": "STAR WARS: Galactic Racer Standard Edition + LEGO Star Wars the Mandalorian's N-1 Starfighter Set 🧱⭐",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/star-wars-galactic-racer-standard-edition-lego-star-wars-the-mandalorians",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "6fcc04af9fa71f65a27232362bfef8c842c92ebdf94b01d39490bfe6b95e9292",
+    "drand_seed_hash": "83dfff5d14573b4639219f24b2e721c10f142a60b9547bb0e0fc2d4a412407563637527ec41fe3285872451f76286cf7",
+    "client_seed": "1789413229206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 396,
+    "max_tickets": 600,
+    "combined_hash": "f960371b4360e5eaaaebe4989abf12d3c3dbe3026b6d455f4e4d8e3a3bf6272b",
+    "result": "338",
+    "external_round_id": "32203291",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T19:13:49.000000Z",
+    "revealed_at": "2026-09-14T19:13:57.000000Z"
+}
