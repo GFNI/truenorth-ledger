@@ -1,0 +1,22 @@
+{
+    "round_id": "b10601d5-eef5-4a96-b632-72090e9e2798",
+    "draw_title": "TAG HEUER F1 CHRONOGRAPH WATCH OR £1,200 TAX FREE CASH ENDING TONIGHT",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/tag-heuer-f1-chronograph-watch-or-ps1200-tax-free-cash",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "3ae88f471e824c46121be58ff5e59eebeed9599c7c9d9372702fdcbfc91b98fc",
+    "drand_seed_hash": "8dd234ecd6925e7c5c54f1b32a9965ee64ff0b3adec609c1997c0ce7cca3232a00ed7bd3642794b638b55f325496db2f",
+    "client_seed": "1789416521752",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 126,
+    "max_tickets": 180,
+    "combined_hash": "036da1c64fd22f1eed794e6cdb0657332aad327a520099800e2a2c7a74f8c7ea",
+    "result": "172",
+    "external_round_id": "32204388",
+    "processing_status": "completed",
+    "created_at": "2026-09-14T20:08:41.000000Z",
+    "revealed_at": "2026-09-14T20:08:48.000000Z"
+}
