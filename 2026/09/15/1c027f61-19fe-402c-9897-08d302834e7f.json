@@ -1,0 +1,22 @@
+{
+    "round_id": "1c027f61-19fe-402c-9897-08d302834e7f",
+    "draw_title": "WIN £100 OF ENTRIES INTO THE MAIN DRAW - RANGE ROVER VELAR #3",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/win-ps100-of-entries-into-the-main-draw-range-rover-velar-3",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "cd8d12304abc9a1b50482b8f7e67a06a033fc13e6b02906b37c88f472d6b4379",
+    "drand_seed_hash": "af5caec6f6b21bdaacf34ef42b911052a7ac2e8ff4f547a53cd3fa2242be6504f1d77d893e64f990e49f9cf969a79352",
+    "client_seed": "1789503075238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62,
+    "max_tickets": 125,
+    "combined_hash": "e97ecd71d44abf14a0aa0c0b0a64f8aa4cd3701db070723538fd3a3c30b060ee",
+    "result": "28",
+    "external_round_id": "32233239",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T20:11:15.000000Z",
+    "revealed_at": "2026-09-15T20:11:21.000000Z"
+}
