@@ -1,0 +1,22 @@
+{
+    "round_id": "b1d88759-26ed-48ab-ad5b-e79b04f55b02",
+    "draw_title": "Free Draw - 2 x £15 Site Credit Winners",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-2-x-ps15-site-credit-winners-3",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "64b02bda147af3e778b04382e63f8bf2543e7e9febd2894558bcba33b632473d",
+    "drand_seed_hash": "984ca88dc1fed1953f7171b672b7f9caeedb8e27b62106be3ff43b55f5c8a605bbb59d2c63571912805deaebf7c2338b",
+    "client_seed": "1789499472891",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 200,
+    "combined_hash": "92b55250f42bccd9aed72e12920a12ab5fac12caf34897b906674e44c84ad6c6",
+    "result": "115",
+    "external_round_id": "32232038",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T19:11:12.000000Z",
+    "revealed_at": "2026-09-15T19:11:18.000000Z"
+}
