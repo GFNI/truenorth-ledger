@@ -1,0 +1,22 @@
+{
+    "round_id": "456b0c92-1e3f-4772-8329-e211b7c9e808",
+    "draw_title": "£20K CASH LADDER",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps20k-cash-ladder",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1a8316ea7feda142f847b99d2d9053955393dd9b0cc6eda3924d48a76e9a9de7",
+    "drand_seed_hash": "860284376e9c01eca12ba8b6ba127e0fd2e884f3d7ce41c62e915a9d32d327a8c2275c601ad550540604c000f59088c3",
+    "client_seed": "1789504677457",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50710,
+    "max_tickets": 159999,
+    "combined_hash": "7dff5a931f2d63f60eb45cddcbbe92246e7600fc14aa3bf0f56b0bbb8ae31193",
+    "result": "69849",
+    "external_round_id": "32233773",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T20:37:57.000000Z",
+    "revealed_at": "2026-09-15T20:38:03.000000Z"
+}
