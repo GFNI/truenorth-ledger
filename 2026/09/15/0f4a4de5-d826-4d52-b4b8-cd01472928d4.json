@@ -1,0 +1,22 @@
+{
+    "round_id": "0f4a4de5-d826-4d52-b4b8-cd01472928d4",
+    "draw_title": "Shark Bundle OR £350 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/shark-silkipro-bundle-or-ps350-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "c38b4315178a6dd82549783737a80be629d435782d142701e79bb8efa2d984d8",
+    "drand_seed_hash": "86aa5bce22414a52c9ae0c6e7ddc71b878286fd88edb8aefd1477af0ba3fb3028cbda4e0b9eb372f10231e4714a68eeb",
+    "client_seed": "1789471104837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 650,
+    "combined_hash": "134f381b9b1d06932fe335d3b449538533e7b39a356947d556c4cfb624daa2d0",
+    "result": "42",
+    "external_round_id": "32222582",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T11:18:24.000000Z",
+    "revealed_at": "2026-09-15T11:18:31.000000Z"
+}
