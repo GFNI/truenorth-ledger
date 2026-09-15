@@ -1,0 +1,22 @@
+{
+    "round_id": "2fca449c-877e-414f-83c1-f839dc99369c",
+    "draw_title": "£500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/open-sesame-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "70be05e0a229facfed835ad27040c849a20b18ff8fce9d7add1e01797730e1a8",
+    "drand_seed_hash": "a23ddc22cb24f95b75f4eee4a245298d53a5fcfeaa0dd1a84284968b43eb11fbd478fe8106a390962766ebf4df9e4e7d",
+    "client_seed": "1789471255742",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 214375,
+    "combined_hash": "d8c5a0eaa8ec7c9d9b14ba030573dfd933d99bea10076f59d76f3251e3c32d82",
+    "result": "51203",
+    "external_round_id": "32222633",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T11:20:55.000000Z",
+    "revealed_at": "2026-09-15T11:21:03.000000Z"
+}
