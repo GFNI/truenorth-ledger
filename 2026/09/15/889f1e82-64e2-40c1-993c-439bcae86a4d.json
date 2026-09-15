@@ -1,0 +1,22 @@
+{
+    "round_id": "889f1e82-64e2-40c1-993c-439bcae86a4d",
+    "draw_title": "CHOCOLATE GALORE",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/chocolate-galore",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "185c56b5a512a23b603fad9c6779ac5563ab20b20418c4f9a1098e1026d2049c",
+    "drand_seed_hash": "913eab2c5766c75129da37679619b099cb1b0de36116021bbb62133c45a92feaf2fd52d887346ed3845af63028c86869",
+    "client_seed": "1789506581291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "4028da761a83498da20f70540ef1746c3a0d6abaa0cfc58c04a93be8a331ba45",
+    "result": "41",
+    "external_round_id": "32234408",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T21:09:41.000000Z",
+    "revealed_at": "2026-09-15T21:09:48.000000Z"
+}
