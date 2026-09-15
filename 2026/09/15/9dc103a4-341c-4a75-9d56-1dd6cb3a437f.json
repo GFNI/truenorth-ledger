@@ -1,0 +1,22 @@
+{
+    "round_id": "9dc103a4-341c-4a75-9d56-1dd6cb3a437f",
+    "draw_title": "🦇WHEEL OF DOOM🦇",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/wheel-of-doom",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "f67e85ad4d554be776d99575e90280eae954acb6223518e354e1d6a6a58bb38d",
+    "drand_seed_hash": "9992a4cbc72f1134428331b169cf8d884cbd551361c29fd2b665e5c21cd8388277ad134dd4360a8aa094f95e0d7a2989",
+    "client_seed": "1789496230106",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 795,
+    "max_tickets": 3000,
+    "combined_hash": "c6e1d3419bd0ef78c15fe3283d44fc34ce84b235999c675df4cea64c19d9fadc",
+    "result": "2935",
+    "external_round_id": "32230958",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T18:17:10.000000Z",
+    "revealed_at": "2026-09-15T18:17:18.000000Z"
+}
