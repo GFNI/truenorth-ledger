@@ -1,0 +1,22 @@
+{
+    "round_id": "1a981eb0-f9db-4244-8ad4-7028d3d0f887",
+    "draw_title": "🎈 POP STEE LEE'S BALLOONS 🎈",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/pop-stee-lees-balloons",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "8fb18cdf13aee7fade3f1dabe602a3e5c038d202f1d2ba747adbb99156e9a9c0",
+    "drand_seed_hash": "a210586e0fd2ec5a9c55f63f43458da315ea4bbe30035191b210525e45e8abeb527e3c69b5cf910fe9935d58d9d6a5ed",
+    "client_seed": "1789504837357",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1520,
+    "max_tickets": 200000,
+    "combined_hash": "e52732bab2d4addcc7f6b9c0cd13db33d3f7e47069e382b8c96a69c131cffd30",
+    "result": "49190",
+    "external_round_id": "32233827",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T20:40:37.000000Z",
+    "revealed_at": "2026-09-15T20:40:45.000000Z"
+}
