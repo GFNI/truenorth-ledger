@@ -1,0 +1,22 @@
+{
+    "round_id": "0f7bcf2a-a4cb-4752-8fa4-7aa99f578bfc",
+    "draw_title": "Buster's BIG Alien Invasion - Over £38,000 In Instant Wins",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-big-alien-invasion-over-ps38000-in-instant-wins",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "4e89dd20c215ebc141969bd026c6fcf08916a349c0227d2c54b3ab733ebdeee3",
+    "drand_seed_hash": "8fe76f6f15065a325018a75eeaac9f26599752357995439e8cf5c3961d1e4d8f46f6194aa7807cf43268bac053766546",
+    "client_seed": "1789499362638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8135,
+    "max_tickets": 129799,
+    "combined_hash": "7d491badd34f05730d73f94de73bd327591f897fa99972d0bdc17ed4743f80ff",
+    "result": "123828",
+    "external_round_id": "32232002",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T19:09:22.000000Z",
+    "revealed_at": "2026-09-15T19:09:30.000000Z"
+}
