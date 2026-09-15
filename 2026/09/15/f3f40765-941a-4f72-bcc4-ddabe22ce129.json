@@ -1,0 +1,22 @@
+{
+    "round_id": "f3f40765-941a-4f72-bcc4-ddabe22ce129",
+    "draw_title": "FOR 4p's SAKE!",
+    "competition_url": "https://qualityprizesqp.com/admin/products/for-4ps-sake",
+    "operator": {
+        "name": "Quality Prizes QP LTD",
+        "website": "https://qualityprizesqp.com",
+        "company_number": "13193494"
+    },
+    "drand_server_seed": "d92e0f23c091b53d856da3f5ebfeb4dbf8cf6297af7887eae0e9467e7eefd863",
+    "drand_seed_hash": "b6ac12eba9704a1e4f7bcb1ffa9672352a00304d2bbeda43dedb6444c6779bd9c392289e79d3ffa6334ac52b9ef75fd5",
+    "client_seed": "1789493507469",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 654520,
+    "max_tickets": 999999,
+    "combined_hash": "390313ef35fb2f2c6623bace8eb67f48075f527fde4950d8af0e9ead0d9bd67e",
+    "result": "4645",
+    "external_round_id": "32230050",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T17:31:47.000000Z",
+    "revealed_at": "2026-09-15T17:31:54.000000Z"
+}
