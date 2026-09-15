@@ -1,0 +1,22 @@
+{
+    "round_id": "03ffb7a8-1ccc-4da6-aafa-f175ebafc875",
+    "draw_title": "⛰️CASH AVALANCHE⛰️",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/cash-avalanche",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "98cb7d9e074816d9820829032e4a3792eaac96be18ba3bf14f4f3b674d6c2c2c",
+    "drand_seed_hash": "a65f7b0356cd252e46e2c69cd1274a6a2b746cb25b4cc78eac2bd259861c97ae79784ef100ea4eeeb1a8dd75f7a6d726",
+    "client_seed": "1789495754616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7550,
+    "max_tickets": 50000,
+    "combined_hash": "15d5db874fe363e846057730c7dc5c97d16a0278cd1709474a71d137141149ff",
+    "result": "31094",
+    "external_round_id": "32230799",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T18:09:14.000000Z",
+    "revealed_at": "2026-09-15T18:09:21.000000Z"
+}
