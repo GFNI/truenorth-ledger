@@ -1,0 +1,22 @@
+{
+    "round_id": "9e2f244c-b3a1-4108-a92a-13742c298f24",
+    "draw_title": "25G GOLD BELCHER BRACELET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/25g-gold-belcher-bracelet",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "291d7f6f1d3d8edfacc2f18378b91580e2203340df640436048438152ebc0222",
+    "drand_seed_hash": "8f18d9dd1441aaf75bbbc00a3fae72ce65fbbcf66e7de13cb08995b547b0446e8e8f60df25204933870528a2c2414acd",
+    "client_seed": "1789502755849",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 989,
+    "max_tickets": 2000,
+    "combined_hash": "94b5d68865efde6758bf601246e7f8e19c1a55a0b8694f74d721528b359e0515",
+    "result": "565",
+    "external_round_id": "32233132",
+    "processing_status": "completed",
+    "created_at": "2026-09-15T20:05:55.000000Z",
+    "revealed_at": "2026-09-15T20:06:00.000000Z"
+}
