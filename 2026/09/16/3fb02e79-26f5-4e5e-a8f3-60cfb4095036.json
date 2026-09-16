@@ -1,0 +1,22 @@
+{
+    "round_id": "3fb02e79-26f5-4e5e-a8f3-60cfb4095036",
+    "draw_title": "🏕️ WIN A VENTURA DELUXE 1.4 ROOF TOP TENT! 🚙",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-a-ventura-deluxe-14-roof-top-tent",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "875610dfdf4baf48e69338337e163e5605ea160dec05fb34e4145ae7de677f28",
+    "drand_seed_hash": "862a84e0573fe847d5aee688cc6a874362e4f06a51a60b3f64a4ce5ee645ef880fca5e930e49b0e6ccc31ebe171ca212",
+    "client_seed": "1789540376927",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 562,
+    "max_tickets": 3000,
+    "combined_hash": "bb2184785ea8ff1e76cbeefe83ec4d4b8053a4b7e923da741ebb62fc6b2e7e9a",
+    "result": "308",
+    "external_round_id": "32245673",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T06:32:57.000000Z",
+    "revealed_at": "2026-09-16T06:33:03.000000Z"
+}
