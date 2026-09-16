@@ -1,0 +1,22 @@
+{
+    "round_id": "86e85af2-3cc3-419c-ae57-8b29b6c2f802",
+    "draw_title": "Rechargeable High Powered Torches",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/rechargeable-high-powered-torches",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "baeea5941435644f13c059ccc242747184207dc5d70dde35794ba1db2e0adbdb",
+    "drand_seed_hash": "b1037c75ff662c9ca72a41550892196c2fe710205f65a6f5b1f277d807c3eae9b2f0fcaad7c9facb35c5f43ef41775f4",
+    "client_seed": "1789586638805",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34,
+    "max_tickets": 300,
+    "combined_hash": "ee1a8c42a5243c7baa0abeb2897300109b469b59945868e69279061252750ee1",
+    "result": "291",
+    "external_round_id": "32261094",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:23:58.000000Z",
+    "revealed_at": "2026-09-16T19:24:06.000000Z"
+}
