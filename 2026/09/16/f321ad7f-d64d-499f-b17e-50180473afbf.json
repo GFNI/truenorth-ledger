@@ -1,0 +1,22 @@
+{
+    "round_id": "f321ad7f-d64d-499f-b17e-50180473afbf",
+    "draw_title": "£2,500 Cash Sept 26",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps2500-cash-sept-26",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "dfc3e466d581f797e5db3d0276ea105c7c02ee5c49ee17e93dd8ed7f23630d84",
+    "drand_seed_hash": "8e00240b8975ce9a4f3be3ac376359a7abed4c47f028a8e045ab7ca31b90e511b40a7f98a386f0d327650f695a0a0dd4",
+    "client_seed": "1789593027215",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 155,
+    "max_tickets": 199,
+    "combined_hash": "5087fdc1db13608b975f787c88c74639e2cf2cf68aa8d86ac7edca0981f1bb56",
+    "result": "1",
+    "external_round_id": "32263222",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T21:10:27.000000Z",
+    "revealed_at": "2026-09-16T21:10:30.000000Z"
+}
