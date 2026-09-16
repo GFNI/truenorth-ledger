@@ -1,0 +1,22 @@
+{
+    "round_id": "aa50829e-274e-4234-a786-169d6ee8f0ae",
+    "draw_title": "Cash Cascade - £2500 End Prize #2",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-cascade-ps2500-end-prize-2",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "19a166fc3efdb25a5eaf2a108d4266261e196ebe57c43d586610801fd91d0a8e",
+    "drand_seed_hash": "a5711fd072e57723987be2d5f74785147963ac5e70444ad8c79ab004d9c3d9baaad3f864fc9c62c2227a4dfda72d0e7d",
+    "client_seed": "1789587503732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399999,
+    "max_tickets": 399999,
+    "combined_hash": "eef321994f3981cee0e593e249beaa97936ed1867ddb23aeceb3392e8e95da5b",
+    "result": "345605",
+    "external_round_id": "32261382",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:38:23.000000Z",
+    "revealed_at": "2026-09-16T19:38:30.000000Z"
+}
