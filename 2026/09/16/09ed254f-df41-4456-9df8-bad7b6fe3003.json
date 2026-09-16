@@ -1,0 +1,22 @@
+{
+    "round_id": "09ed254f-df41-4456-9df8-bad7b6fe3003",
+    "draw_title": "BORAT'S VERY NICE £400,000 INSTANT WINNER!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/borats-very-nice-ps400000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "1f69d024bdf2e80bf1f88bb24a3d76fb52786dfef9734708ecc5b0ffa539391c",
+    "drand_seed_hash": "b76d66723f9838e7f24dca5e3960469a354eb15c80d38bfa5226cdfbb7afe0ff07b7e7e39719a4fd066c99521b9c40d6",
+    "client_seed": "1789588043460",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1127069,
+    "max_tickets": 10000000,
+    "combined_hash": "2e293c7ad8e041f5eef0b7d3154ed5862250f40685db7ce8d87ea217992301d1",
+    "result": "763055",
+    "external_round_id": "32261562",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:47:23.000000Z",
+    "revealed_at": "2026-09-16T19:47:30.000000Z"
+}
