@@ -1,0 +1,22 @@
+{
+    "round_id": "1353d800-f623-4432-a2ea-59fdedd435fd",
+    "draw_title": "Ninja Stone Gold Bundle",
+    "competition_url": "https://chaotic.co.uk/competition/ninja-stone-gold-bundle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "227ebfdd1b47c8f02ecd37631a948dba4a7ebd182bb2391d0f40f96d222c0ea6",
+    "drand_seed_hash": "a5b591f4a96899b1d05ba36aec31e9f3b3f55827d7f0e17f37bd8fb316a9513ab37e725b9583892a6f72f2608b3931f9",
+    "client_seed": "1789588396619",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3299,
+    "max_tickets": 3299,
+    "combined_hash": "e4fd7517c820f1192076e250934aed3b544d533fddb6745a306ee2b1f3577f48",
+    "result": "1688",
+    "external_round_id": "32261680",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:53:16.000000Z",
+    "revealed_at": "2026-09-16T19:53:24.000000Z"
+}
