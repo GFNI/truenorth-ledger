@@ -1,0 +1,22 @@
+{
+    "round_id": "4d4f786e-484f-4cea-8eb9-5f749d72beec",
+    "draw_title": "Win 50 Tickets Into BMW 535 Competition",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/win-50-tickets-into-bmw-535-competition",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "e4896f94022430018bc83fe4bd604bdec67d55e83888977a57bb7bf5c2576eae",
+    "drand_seed_hash": "b7b8ccd25c48c278700810fc17aca02771e0e40191d6607bb487d2794dc40f5b6769a2082d16180528a5b417eb660d51",
+    "client_seed": "1789585831365",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 292,
+    "max_tickets": 1000,
+    "combined_hash": "147a1e4f322afbb1ecac7d35eb0024c03a7204f096f88459c12ed8ef795fe765",
+    "result": "397",
+    "external_round_id": "32260825",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:10:31.000000Z",
+    "revealed_at": "2026-09-16T19:10:39.000000Z"
+}
