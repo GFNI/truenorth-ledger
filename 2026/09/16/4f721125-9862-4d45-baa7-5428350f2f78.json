@@ -1,0 +1,22 @@
+{
+    "round_id": "4f721125-9862-4d45-baa7-5428350f2f78",
+    "draw_title": "Win £25 worth of tickets into OMC FC Landing Net & Unhooking Mat Combo - 2p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-omc-fc-landing-net-unhooking-mat-combo-2p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "b1c0f6e43d9a9c22f35c72dbcc45ce9ae994e2b4571b43bb7888d4f9d2135751",
+    "drand_seed_hash": "8e8bf495b93f26570894bc962edef0f2c32f12a9c928a2485ac07ffecd703a8121fe6e78af100bb52c67474d65037fa3",
+    "client_seed": "1789578627529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1750,
+    "combined_hash": "7ab8d2cb604cff63f4d537ea0dbb35a532439e4de28d92a7a3f4fb180d292daa",
+    "result": "635",
+    "external_round_id": "32258423",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T17:10:27.000000Z",
+    "revealed_at": "2026-09-16T17:10:33.000000Z"
+}
