@@ -1,0 +1,22 @@
+{
+    "round_id": "d6741bea-4d82-4a2b-9497-37bf542e08b2",
+    "draw_title": "Quick £1,000 Plus Instants #5",
+    "competition_url": "https://speedcompetitions.co.uk/competition/quick-ps1000-plus-instants-5",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "843459235fa397a2c803a0ad393a32d407360a6916702548fb1527cab5b1317d",
+    "drand_seed_hash": "b52efb65393e75b2dc8d818587e34b5b9fe5f6d94344122e644fd6f8109aee1bed607b354b8697a62540e7e1592afa33",
+    "client_seed": "1789587486818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 235459,
+    "max_tickets": 299999,
+    "combined_hash": "2c0cd09d003fc8c97c2e2ae838fd5e660a1a1a5cd9652d8002bbc494a2fb37a9",
+    "result": "166342",
+    "external_round_id": "32261376",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:38:06.000000Z",
+    "revealed_at": "2026-09-16T19:38:12.000000Z"
+}
