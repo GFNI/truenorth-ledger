@@ -1,0 +1,22 @@
+{
+    "round_id": "0510d273-28d4-4daf-98da-344ed288b025",
+    "draw_title": "The Money Heist",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-money-heist-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "921c0c03fe7a7ef1cc6fd13cbe684b5181d93b7108d5979959501655c27c47bb",
+    "drand_seed_hash": "a8773c993ff8605891eb5c29b001677371dd2e84921812b46cd01d14985b1d7ba176d9233d1ba5479bd232b33256d2ac",
+    "client_seed": "1789589450587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105907,
+    "max_tickets": 2250000,
+    "combined_hash": "8e7b7aafd2a7e2c3dbfdabed2e582bedaf82be41acc699e85ebbfb9098c2b737",
+    "result": "1039823",
+    "external_round_id": "32262031",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T20:10:50.000000Z",
+    "revealed_at": "2026-09-16T20:10:58.000000Z"
+}
