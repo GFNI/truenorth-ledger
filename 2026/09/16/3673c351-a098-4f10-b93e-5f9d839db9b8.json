@@ -1,0 +1,22 @@
+{
+    "round_id": "3673c351-a098-4f10-b93e-5f9d839db9b8",
+    "draw_title": "FISHING INSTANT WIN COMP",
+    "competition_url": "https://easybigwins.co.uk/admin/products/fishing-instant-win-comp",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "f6f0f68f81b169275317d8634c4e38642d3d5cc83c759f5b56b438832c5a7a2a",
+    "drand_seed_hash": "b105a7be8b7c600448895a4bc971dbc354090b822d57467fd65d5c648a91c170a547d5c63218a2bbdbc028ab691e1a00",
+    "client_seed": "1789590203504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9419,
+    "max_tickets": 122000,
+    "combined_hash": "5d016742f86c50024c5cf990c0d864e1addcc7d3410df3d86dfeb321003d4120",
+    "result": "64814",
+    "external_round_id": "32262282",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T20:23:23.000000Z",
+    "revealed_at": "2026-09-16T20:23:30.000000Z"
+}
