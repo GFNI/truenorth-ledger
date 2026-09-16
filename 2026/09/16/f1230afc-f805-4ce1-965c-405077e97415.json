@@ -1,0 +1,22 @@
+{
+    "round_id": "f1230afc-f805-4ce1-965c-405077e97415",
+    "draw_title": "🛒🎉 GOODIE SHOP FREEBIE! 🎉🛒",
+    "competition_url": "https://hiphipprizehub.com/admin/products/goodie-shop-freebie",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "fde5f684b32144a0828260298bef8dca2cbdfa3fe7f626d2d83bcc5ec0d744d0",
+    "drand_seed_hash": "ae3c2925b07bbb33c0f412b1c043eeba98ea70272c290f9fa10557985bc82f045c4f2e9f7553e2e960bb26e695f87664",
+    "client_seed": "1789589440749",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 148,
+    "max_tickets": 200,
+    "combined_hash": "9025b5a76a5b7fffa4d1cd18f89a8b0976dde9763bee3c81b0a618b6a96f1f95",
+    "result": "105",
+    "external_round_id": "32262028",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T20:10:40.000000Z",
+    "revealed_at": "2026-09-16T20:10:48.000000Z"
+}
