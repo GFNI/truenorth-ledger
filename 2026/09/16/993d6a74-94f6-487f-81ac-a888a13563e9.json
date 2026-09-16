@@ -1,0 +1,22 @@
+{
+    "round_id": "993d6a74-94f6-487f-81ac-a888a13563e9",
+    "draw_title": "Win A Harry Potter Lego - Fawkes Dumbledores Phoenix FREEBIE",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/win-a-harry-potter-lego-fawkes-dumbledores-phoenix-freebie",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "64d67b2039700489e46f33755e4e7892c9350856b88444def1bee5d4c99eba60",
+    "drand_seed_hash": "b4b348259c3c98a0532076161df9c0a2a9ec33b64124daa3ef1a43e44a53a2d34241b42c69cfee4a0cd20763806294a8",
+    "client_seed": "1789587387168",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131,
+    "max_tickets": 250,
+    "combined_hash": "2820a0e7798b3e285e2df891735a2c0d407e34a10cb2bd1b64be6b6f9ee80440",
+    "result": "139",
+    "external_round_id": "32261343",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:36:27.000000Z",
+    "revealed_at": "2026-09-16T19:36:33.000000Z"
+}
