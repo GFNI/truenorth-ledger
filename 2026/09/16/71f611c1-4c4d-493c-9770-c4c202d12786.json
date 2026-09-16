@@ -1,0 +1,22 @@
+{
+    "round_id": "71f611c1-4c4d-493c-9770-c4c202d12786",
+    "draw_title": "£400 CASH FOR 40P💸",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/ps400-cash-for-40p",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "3a3ca1dbe672ded84caf829b52c8c08393a248d2d6499096d14745eabc9ad3cb",
+    "drand_seed_hash": "b129679457f113b879d7cc875f43bed118639dafd5eebb3bc188b3fbf05c981e32954a529c491ff3c9df08a879e3d261",
+    "client_seed": "1789587437135",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "2c6d8897fbab98c412e747db106dd7a6861981f142c0db48996ea29c7d5d45ef",
+    "result": "461",
+    "external_round_id": "32261360",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T19:37:17.000000Z",
+    "revealed_at": "2026-09-16T19:37:24.000000Z"
+}
