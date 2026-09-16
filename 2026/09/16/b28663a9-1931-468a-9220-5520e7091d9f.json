@@ -1,0 +1,22 @@
+{
+    "round_id": "b28663a9-1931-468a-9220-5520e7091d9f",
+    "draw_title": "Pokémon 151 Alakazam ex Collection — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-151-alakazam-ex-collection-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "19640691d34fd94ebd46e27afe827a924e0de878f564a7f364c1ee19965377a1",
+    "drand_seed_hash": "93d1727bb128de92423e7c1aedf1c96636f0d423a19de3ce33659b5ca71deb46cf37f36765bb7e285a31fa36b7b1db8a",
+    "client_seed": "1789594302678",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 134,
+    "max_tickets": 200,
+    "combined_hash": "0f3745fb33cb7d04435d77b589fc28b2144dcbf70a916618b29661473264a1c4",
+    "result": "96",
+    "external_round_id": "32263648",
+    "processing_status": "completed",
+    "created_at": "2026-09-16T21:31:42.000000Z",
+    "revealed_at": "2026-09-16T21:31:49.000000Z"
+}
