@@ -1,0 +1,22 @@
+{
+    "round_id": "cacb8b8c-3edb-43b8-991f-1bc345f7f5a5",
+    "draw_title": "Dr Wacko Spins End prize £200 Plus Instant wins",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/dr-wacko-spins-end-prize-ps200-plus-instant-wins",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "c439c8e2fdceeedc16bc0e40a17845b4924b4f9122646821f29296486c42dd23",
+    "drand_seed_hash": "b2e8d6be21b7b2759068c803265c1ec1c81fe7268546179398f257a65dd7cd6a0de761d328117c2e8dc26746ef86c91c",
+    "client_seed": "1789677849545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2413,
+    "max_tickets": 45000,
+    "combined_hash": "f7bd82d3953569c6b2526281c0610deeb64a717ab2a612077d5f7023f84eaa25",
+    "result": "40888",
+    "external_round_id": "32291497",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T20:44:09.000000Z",
+    "revealed_at": "2026-09-17T20:44:15.000000Z"
+}
