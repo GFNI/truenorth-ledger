@@ -1,0 +1,22 @@
+{
+    "round_id": "3df8bff5-2d09-403f-a658-bb264435bb57",
+    "draw_title": "12k Instant Reveal - 99 instants & £300 main prize",
+    "competition_url": "https://giveawaycompetition.com/admin/products/12k-instant-reveal",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "7581da49dbc00d240b1f4e4d3fc82348fbb9891bf8a97a729cb00ac42f3f09c8",
+    "drand_seed_hash": "b4ddd4677739c7abc55a0c9c9953ed8c75e7d39186142bf3119fb1a1d92b4f72dd947742280a7638c8c0dc0c8e316e0c",
+    "client_seed": "1789678317115",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4666,
+    "max_tickets": 20000,
+    "combined_hash": "eeef2b4eea29ce92d407b67345b2ca9ddf98bb055edf34a3e201ab54ee99a04c",
+    "result": "2319",
+    "external_round_id": "32291653",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T20:51:57.000000Z",
+    "revealed_at": "2026-09-17T20:52:03.000000Z"
+}
