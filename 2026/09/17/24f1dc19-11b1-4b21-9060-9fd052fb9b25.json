@@ -1,0 +1,22 @@
+{
+    "round_id": "24f1dc19-11b1-4b21-9060-9fd052fb9b25",
+    "draw_title": "🦍5 WINNERS OF THE NEW BIG G GIN GORILLA PUNCH 🦍",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/5-winners-of-the-new-big-g-gin-gorilla-punch",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8f1d3c5de029bf79e59f8f247b1902197714629339632279a64d4059eacec89c",
+    "drand_seed_hash": "8edb4220cb739ad04632a01eadb0d6953482d94aca96227cc664975d2fc54c97eeaa65d3d4787a005ac88cb39a5c0c53",
+    "client_seed": "1789672926638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "63ba7f3afd6d29851c45694cff148ed68e9ae1e8c5fd8a70bcea51c9881d8f9e",
+    "result": "66",
+    "external_round_id": "32289856",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:22:06.000000Z",
+    "revealed_at": "2026-09-17T19:22:12.000000Z"
+}
