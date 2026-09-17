@@ -1,0 +1,22 @@
+{
+    "round_id": "31fc1d1a-7a14-421a-917d-008f98f48d68",
+    "draw_title": "1oz COCA-COLA .999 FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1oz-coca-cola-999-fine-silver-bar-9",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "d3666b7e6ffa6a900d96e28e187216b9d8fa3082ad47f647e0abe0d308994fd7",
+    "drand_seed_hash": "993857c5828fa448a20333087e16a9d3e254b34dea2a122afb8bdca3367e1c7718433cd181248b76a9800d08a5521618",
+    "client_seed": "1789685737066",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 150,
+    "combined_hash": "93b3723a78a47380097c121c31d91c719f01ff74a0f03d75ea8ddf2cf19e5891",
+    "result": "4",
+    "external_round_id": "32294127",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T22:55:37.000000Z",
+    "revealed_at": "2026-09-17T22:55:45.000000Z"
+}
