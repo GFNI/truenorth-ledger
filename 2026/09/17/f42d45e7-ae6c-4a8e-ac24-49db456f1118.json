@@ -1,0 +1,22 @@
+{
+    "round_id": "f42d45e7-ae6c-4a8e-ac24-49db456f1118",
+    "draw_title": "Marella Cash Boost",
+    "competition_url": "https://jetcomps.co.uk/admin/products/marella-cash-boost",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "c602b64579107e5ffd5f6db17159408439491e89265ef146ec748eb4349c80b3",
+    "drand_seed_hash": "8024be7a417a57eed5e804579798c527b2972689a315a15d205842f45c4bf7ce79d83a20ecb61c1286ef6276e4d8f79f",
+    "client_seed": "1789672212331",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 138464,
+    "max_tickets": 399750,
+    "combined_hash": "f8b65ccd6b2a0dedf5b998c93235b8b6ed3c04785f92e66a81a706681c35e641",
+    "result": "359933",
+    "external_round_id": "32289618",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:10:12.000000Z",
+    "revealed_at": "2026-09-17T19:10:18.000000Z"
+}
