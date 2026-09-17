@@ -1,0 +1,22 @@
+{
+    "round_id": "d087d0af-de2e-463b-a049-dd085519adab",
+    "draw_title": "2022 1/4oz GOLD BRITANNIA",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2022-14oz-gold-britannia-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "0a115203360f98fb2681f13c7938cbb33ec24d7d7c17c3d68990a2b887140da5",
+    "drand_seed_hash": "8543a10b52663cee73576f37e548f67b4d9f7ef553ce3992bab4044d5fbce2fef9de095b9507f107e6dee4c02711ee2e",
+    "client_seed": "1789675618368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 843,
+    "max_tickets": 1500,
+    "combined_hash": "c2a0f54ac323effca1e7d9d8b3b400d721164059e50f05c894644e92d347ebd7",
+    "result": "959",
+    "external_round_id": "32290754",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T20:06:58.000000Z",
+    "revealed_at": "2026-09-17T20:07:06.000000Z"
+}
