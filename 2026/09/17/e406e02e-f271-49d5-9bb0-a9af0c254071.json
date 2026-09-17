@@ -1,0 +1,22 @@
+{
+    "round_id": "e406e02e-f271-49d5-9bb0-a9af0c254071",
+    "draw_title": "Every Ticket Is A Winner (BIGGER)",
+    "competition_url": "https://ryscompetitions.com/admin/products/every-ticket-is-a-winner-bigger",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "7f9a693cf6a156f03e8c11d5f9435a4718c5c51743679f7ecbdddf8729563d3a",
+    "drand_seed_hash": "addee87542051585fc9a928da7fd39e44ae31ff6ab6e917c6ee45acb1c5b650752e1672d58849dfcc941aa1afcd8915d",
+    "client_seed": "1789675545458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4134,
+    "max_tickets": 20000,
+    "combined_hash": "29966e37a737bf69886e00210c55dd4f63e4eeeaefc51a7cfea1b4153e81b7fe",
+    "result": "14282",
+    "external_round_id": "32290729",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T20:05:45.000000Z",
+    "revealed_at": "2026-09-17T20:05:51.000000Z"
+}
