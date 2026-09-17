@@ -1,0 +1,22 @@
+{
+    "round_id": "e061df41-a998-4b9d-a402-d5c4532e270d",
+    "draw_title": "⚡ MEGA CHAOS: INSTANT WINS! ⚡ 2 X ETB'S & 24 X BOOSTER PACKS TO BE WON!",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/mega-chaos-instant-wins",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "2e7e1a08f67225c9330d82448d4dad8d2b789fc4081eaaabe1fdf60c43a758eb",
+    "drand_seed_hash": "a25d8c1b6024f42c8a70310574c232e6bd5b68cb229a56280b3a033e00a8b41014896af0896acb17123405bf6749e872",
+    "client_seed": "1789671324463",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 401,
+    "max_tickets": 575,
+    "combined_hash": "afc84165bd240b06ab620434dec0f11b19002bdc23f1af267cd1de8fff97e734",
+    "result": "132",
+    "external_round_id": "32289322",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T18:55:24.000000Z",
+    "revealed_at": "2026-09-17T18:55:30.000000Z"
+}
