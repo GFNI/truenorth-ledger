@@ -1,0 +1,22 @@
+{
+    "round_id": "8d498e73-8c66-4bd3-a98a-1ae84fc08dcd",
+    "draw_title": "EVERY SPIN WINS!",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/every-spin-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "91be0817b1834e9fa781380500e0e708f13a05ca5afe07d5959b0f999d782a22",
+    "drand_seed_hash": "b7bdbd379e83db2a46d386fff7aaca2979af250930c34feaefd277f9208e5eeb788c0c9004bb33db79971a9efaf63bcb",
+    "client_seed": "1789668359489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4993,
+    "max_tickets": 10000,
+    "combined_hash": "e3764a02757396c1556d0f8a2738598975a718105c4e6197f1703f724faaa9cf",
+    "result": "4532",
+    "external_round_id": "32288334",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T18:05:59.000000Z",
+    "revealed_at": "2026-09-17T18:06:06.000000Z"
+}
