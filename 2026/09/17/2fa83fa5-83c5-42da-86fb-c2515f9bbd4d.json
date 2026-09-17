@@ -1,0 +1,22 @@
+{
+    "round_id": "2fa83fa5-83c5-42da-86fb-c2515f9bbd4d",
+    "draw_title": "👃 Tom Ford Fragrances 👃",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/tom-ford-fragrances-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d756ea787b8c16d8c784132bc52eff22bf99bf83e4370580d3606fa7047c86e4",
+    "drand_seed_hash": "84b0782955fcbd12a214c2aa43fc4dcbdf5e54e34459e60d4c397c11d55f39783a8c4a44a8427d786dbe1fb4b7981f54",
+    "client_seed": "1789671992999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1551,
+    "max_tickets": 2300,
+    "combined_hash": "587cd0b1bed9b0daaa00c1064ad969e9cd80ac95ca59380dbfbf089671a3a0ed",
+    "result": "1753",
+    "external_round_id": "32289545",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:06:33.000000Z",
+    "revealed_at": "2026-09-17T19:06:39.000000Z"
+}
