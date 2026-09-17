@@ -1,0 +1,22 @@
+{
+    "round_id": "b759a94e-7b83-4533-8f74-6e31353e7dca",
+    "draw_title": "✨ WIN A PAIR OF CHESTNUT UGG TASMAN II SHOES OR £110 FOR JUST 99P! ✨",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-pair-of-uggs",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "419c2c7efd3a766f45b21eda20591393543147e3cdac42e1339322e05e711cce",
+    "drand_seed_hash": "ad822a20531e6b2407407cc58e4c345570cad407175ff777fdcf1faa25e54b36d8fa3be0a36615d65b661020e14f6c14",
+    "client_seed": "1789671351572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 230,
+    "combined_hash": "b895ee91e25c7071611a43c05ada019f234768465bb418038032491470e36abd",
+    "result": "157",
+    "external_round_id": "32289331",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T18:55:51.000000Z",
+    "revealed_at": "2026-09-17T18:55:57.000000Z"
+}
