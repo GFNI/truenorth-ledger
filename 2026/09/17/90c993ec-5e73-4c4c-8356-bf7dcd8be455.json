@@ -1,0 +1,22 @@
+{
+    "round_id": "90c993ec-5e73-4c4c-8356-bf7dcd8be455",
+    "draw_title": "Win A Child's Bike Or £130",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-childs-bike-or-ps130-3",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "4d7b55b3765375dc41fccc709e6ba70331cb1a57984218b76d43b6370c70998f",
+    "drand_seed_hash": "844c3a2cd30539147a336909e6ce0820a2267170cd93e9056deddbd32d72c02f4810399df4881f725f04eea5273400f0",
+    "client_seed": "1789671821430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 389,
+    "max_tickets": 1500,
+    "combined_hash": "bf1d2664b8e898b55d9fe69b8d8b5b353816e025ba9daf87ce22130f2cac1ecd",
+    "result": "584",
+    "external_round_id": "32289488",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:03:41.000000Z",
+    "revealed_at": "2026-09-17T19:03:48.000000Z"
+}
