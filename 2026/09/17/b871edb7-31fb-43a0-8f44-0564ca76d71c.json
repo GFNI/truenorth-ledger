@@ -1,0 +1,22 @@
+{
+    "round_id": "b871edb7-31fb-43a0-8f44-0564ca76d71c",
+    "draw_title": "Win a Solar Tackle SP C-Tech Recliner Chair - 4p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-solar-tackle-sp-c-tech-recliner-chair-4p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "c66a8bfe42dd656e1b1b5735f36ca7f789520aed9e0415ed2fa7255e3ac2c94e",
+    "drand_seed_hash": "b2bc5c049bd64ea48c993e723d9e1880041399fe5c72b4ad8d5deab89978876dcd82b97ddca9735be1c8b8e012dc3db8",
+    "client_seed": "1789665150414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3398,
+    "max_tickets": 7750,
+    "combined_hash": "2c86e46ecc3ca73bece192955047fb015f72b6237126f33e6e19cab32d846dd1",
+    "result": "5317",
+    "external_round_id": "32287264",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T17:12:30.000000Z",
+    "revealed_at": "2026-09-17T17:12:36.000000Z"
+}
