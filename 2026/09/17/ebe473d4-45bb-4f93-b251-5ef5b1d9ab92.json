@@ -1,0 +1,22 @@
+{
+    "round_id": "ebe473d4-45bb-4f93-b251-5ef5b1d9ab92",
+    "draw_title": "WIN 30 TICKETS ON THE BRAND NEW BETA 300RR RACING - draw 2",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-30-tickets-on-the-brand-new-beta-300rr-racing-draw-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "2a7f42c8919ab1e2f15bff54f47a8b38867e06a2bdb8da2eaa1ea017b5a07f97",
+    "drand_seed_hash": "b9eb2fa7c20367f8f04f762d8cf7afe366502698017465bd88fc1d3e125d7f20baaff02368be701fb5cb0ebce90cc1ba",
+    "client_seed": "1789662087680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "3b7dbc6a89d81290b163ee88cd4b4cc14f52c76ca4693c6b170c031b0e6f1790",
+    "result": "224",
+    "external_round_id": "32286243",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T16:21:27.000000Z",
+    "revealed_at": "2026-09-17T16:21:33.000000Z"
+}
