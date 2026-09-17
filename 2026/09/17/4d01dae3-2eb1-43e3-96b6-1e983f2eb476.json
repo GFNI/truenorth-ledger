@@ -1,0 +1,22 @@
+{
+    "round_id": "4d01dae3-2eb1-43e3-96b6-1e983f2eb476",
+    "draw_title": "SILVERTOWNE 1oz FINE SILVER EAGLE BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/silvertowne-1oz-fine-silver-eagle-bar-7",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "9c0339d7681ec414828537f9835fa1e87d04445f3f95a5879aa92fa666453d00",
+    "drand_seed_hash": "a06c2894a0ce6a60890a04861e178451126dfdeae728aa283f6f0e7345579f697038c5c15fca6308cf8a2f36db82710c",
+    "client_seed": "1789685720017",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 150,
+    "combined_hash": "084d6e6313b88359d4d6e2e11b1c6fcbcc55d18b09333adbd182eb9bca554e0f",
+    "result": "115",
+    "external_round_id": "32294121",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T22:55:20.000000Z",
+    "revealed_at": "2026-09-17T22:55:27.000000Z"
+}
