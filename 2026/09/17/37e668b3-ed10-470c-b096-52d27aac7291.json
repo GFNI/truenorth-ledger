@@ -1,0 +1,22 @@
+{
+    "round_id": "37e668b3-ed10-470c-b096-52d27aac7291",
+    "draw_title": "🛒CHRISTMAS FOOD SHOP SORTED🛒",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/christmas-food-shop-sorted",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "060957b4ce3dfa57f144ea0dbc6cf03dbd5d35c561826471f9c3ba0c20853ff9",
+    "drand_seed_hash": "91d8691d5b4ad24c47150dfa3465ecdd57493ab7465484dfd958604ab8a82386792fd858df611ec63fd71890e69f104a",
+    "client_seed": "1789672513620",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3616,
+    "max_tickets": 3650,
+    "combined_hash": "e52b6ec68b9419e9089607cca2ecc7a46dbfa9c40e77c73a9d24a30eb7a80f9a",
+    "result": "2366",
+    "external_round_id": "32289719",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:15:13.000000Z",
+    "revealed_at": "2026-09-17T19:15:21.000000Z"
+}
