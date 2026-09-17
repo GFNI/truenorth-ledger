@@ -1,0 +1,22 @@
+{
+    "round_id": "acaf3fc9-9e1a-4eb2-8c82-e2915a3b1ec0",
+    "draw_title": "£50 Freebie",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ps50-freebie2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "24a12f0c0a21d80064343ba9cb5eec429e8eee4dcbaba0bedf4366b7abed27ce",
+    "drand_seed_hash": "b07b5a2f75a91252941d4d7191165876ceba80a822519df5d192c812bd892972b93ac7d9053b37ee43e48f6de8410d78",
+    "client_seed": "1789672227650",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 141,
+    "max_tickets": 1000,
+    "combined_hash": "5b054ae85190a2a5c179336612eb3b50d27c612caa7259bc335a53b5ca3d7c53",
+    "result": "148",
+    "external_round_id": "32289623",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:10:27.000000Z",
+    "revealed_at": "2026-09-17T19:10:33.000000Z"
+}
