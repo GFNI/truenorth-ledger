@@ -1,0 +1,22 @@
+{
+    "round_id": "962f1433-557c-48c1-ab34-e1b5e9b01d48",
+    "draw_title": "🔴ODDS BOOSTER - 2000 ENTRIES INTO THE AUDI #6",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-2000-entries-into-the-audi-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1dbe77db90c7b4913ceefaed148b8a2136fb914cee3e4446cfafb443958d571e",
+    "drand_seed_hash": "b37266de991e5a39ab8fd717d69cfdc4d650b109dd510224ecfe46b130c7d7e21296f0707f96c6bf44f7117b0056335f",
+    "client_seed": "1789648280098",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 450,
+    "max_tickets": 450,
+    "combined_hash": "45c1492611834fe358c2c8b34eac04299502d7a1e3e3380f141bb35a84986b6a",
+    "result": "14",
+    "external_round_id": "32281641",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T12:31:20.000000Z",
+    "revealed_at": "2026-09-17T12:31:27.000000Z"
+}
