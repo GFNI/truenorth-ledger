@@ -1,0 +1,22 @@
+{
+    "round_id": "004a019a-e859-4d17-8712-92ce843a755f",
+    "draw_title": "🎄 PLouise What Glows Around 2026 Beauty Advent Calendar 🎄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/plouise-what-glows-around-2026-beauty-advent-calendar-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9bf70b7dbb096f4f543f3ed5fc57d53ae5dbf02a949643afb606cc5439ebd09d",
+    "drand_seed_hash": "8e3bc205c1139fd5c4353a94e44ac689f852f3d517846c8cbbffc05f7569f90c367a0cc70669f147ac92fc57c65744b6",
+    "client_seed": "1789672615550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1120,
+    "max_tickets": 1120,
+    "combined_hash": "462f130ddb83d89dc8312f25d50a906398d9edaf6743dacf2c8b06f4420906b0",
+    "result": "135",
+    "external_round_id": "32289753",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:16:55.000000Z",
+    "revealed_at": "2026-09-17T19:17:03.000000Z"
+}
