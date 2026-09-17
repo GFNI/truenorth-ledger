@@ -1,0 +1,22 @@
+{
+    "round_id": "566639a0-4b8b-42e7-b080-dd321ff433dc",
+    "draw_title": "WIN A £100 SMYTHS GIFT CARD",
+    "competition_url": "https://geardowncompetitions.com/admin/products/win-a-ps100-smyths-gift-card",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "287b13de3b4cd6c3ba26922d446eb8cf77b8bb627196d147bf13a0d01e0398e3",
+    "drand_seed_hash": "8bdfdeeb76c0ed3ac888cee9f364bfe8316b4064669d3dcb74a4cf245ba47171b05a1366056b8b81b09bf860638aae9c",
+    "client_seed": "1789677185613",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "3eb97ab1b2b621f896c6d40b8b54913c9cab79bf7fe940ebf260a0699a54cb9f",
+    "result": "47",
+    "external_round_id": "32291276",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T20:33:05.000000Z",
+    "revealed_at": "2026-09-17T20:33:12.000000Z"
+}
