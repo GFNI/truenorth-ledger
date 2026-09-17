@@ -1,0 +1,22 @@
+{
+    "round_id": "b8971de7-88db-4cb0-ac74-f02407277914",
+    "draw_title": "Formula 1 Quartz 41mm Mens Watch ⌚",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/formula-1-quartz-41mm-mens-watch",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "67ccd7457ee1b9cf803d97d9b82a6d7314d14bb47f8643181bb682e4ef1b216d",
+    "drand_seed_hash": "903c3213595adc92d0554fa7c6d00ee188628d5320c45a776d6ce08954c530f1079ebf77a4c799fe5ef31dc062ac427d",
+    "client_seed": "1789672792089",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2532,
+    "max_tickets": 3800,
+    "combined_hash": "1d272bafd85580d2aa6d2f41c9dcc054d05fed1f1c8626ca26325a8b1a30d01d",
+    "result": "662",
+    "external_round_id": "32289812",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T19:19:52.000000Z",
+    "revealed_at": "2026-09-17T19:20:00.000000Z"
+}
