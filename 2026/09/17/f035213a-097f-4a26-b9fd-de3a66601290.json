@@ -1,0 +1,22 @@
+{
+    "round_id": "f035213a-097f-4a26-b9fd-de3a66601290",
+    "draw_title": "£150 FOOD SHOP VOUCHER #9",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/ps150-food-shop-voucher-9",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "72f2e27a41a0183bcde4729ee607954bc145a4961f7d69f98f4a2dd457cd6b3e",
+    "drand_seed_hash": "8913990b1596c2634793270d0f51792309a04b903daa24876ee26b4062c20e5994e6d823b5cc1ca18539f08da2734459",
+    "client_seed": "1789668221413",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13827,
+    "max_tickets": 30000,
+    "combined_hash": "1369d493cbd15b23b9ad5b1187ef8af63d9990844b7f6659f0b495ea598b868c",
+    "result": "11284",
+    "external_round_id": "32288288",
+    "processing_status": "completed",
+    "created_at": "2026-09-17T18:03:41.000000Z",
+    "revealed_at": "2026-09-17T18:03:49.000000Z"
+}
