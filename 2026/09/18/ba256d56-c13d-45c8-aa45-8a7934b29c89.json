@@ -1,0 +1,22 @@
+{
+    "round_id": "ba256d56-c13d-45c8-aa45-8a7934b29c89",
+    "draw_title": "VAULT HEIST: WIN A MYSTERY BOX INSTANTLY [£100 MYSTERY BOX END PRIZE]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/vault-heist-win-a-mystery-box-instantly-ps100-mystery-box-end-prize",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "0486af41aae07f048bec034a0a8558aafd0c0fd26bdaa1dbe7ca189c4bb277f4",
+    "drand_seed_hash": "990429d37bef279720f643673ecc9f533d47c484cf38a267f62c93cfc6c0391372789cd73eec8df1e74411edec883111",
+    "client_seed": "1789759530695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 688,
+    "max_tickets": 39999,
+    "combined_hash": "11ae25f1994e8aa96347b33ad9ef453e74c5568ea18d5ef25d2395e76129f75d",
+    "result": "39596",
+    "external_round_id": "32318724",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:25:30.000000Z",
+    "revealed_at": "2026-09-18T19:25:36.000000Z"
+}
