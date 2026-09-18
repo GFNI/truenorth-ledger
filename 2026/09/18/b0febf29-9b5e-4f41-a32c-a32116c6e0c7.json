@@ -1,0 +1,22 @@
+{
+    "round_id": "b0febf29-9b5e-4f41-a32c-a32116c6e0c7",
+    "draw_title": "REEL ME IN - OVER £5,000 OF INSTANT CASH WINS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/deal-me-in",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "4fdc14266c50ae17ef000fb9b16b0d93f9084f53006bcb2464ee2750c957de56",
+    "drand_seed_hash": "85ed1751811a8c69ae13150a82d789e92a306eaa1854108ec07ad8c4a56c9b492ff8b34ff94e9527699ec9643a4fc795",
+    "client_seed": "1789762263233",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 380,
+    "max_tickets": 700,
+    "combined_hash": "6cac45adbc46281b089ade73a3630ebd55a690a77f9265dc0b19976382a3d618",
+    "result": "93",
+    "external_round_id": "32319635",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:11:03.000000Z",
+    "revealed_at": "2026-09-18T20:11:09.000000Z"
+}
