@@ -1,0 +1,22 @@
+{
+    "round_id": "c7249cba-6f15-48ce-8bd7-5316eec1c057",
+    "draw_title": "100 Entries into A9 £12K Pay Day",
+    "competition_url": "https://a9competitions.co.uk/admin/products/100-entries-into-a9-ps12k-pay-day",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "960479e2ecccaae39cde92d6f91214f901ee5c459f1c4cb0a0f501338480eaa7",
+    "drand_seed_hash": "a4cc74dba7287c84d1649fe8dd6f27b044dc5bb9a3ea72d1acca1ef1f50884b3e7c9daee03c717ddf38cb0cf9d5dba8b",
+    "client_seed": "1789762860495",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "c598d50a8d7549cd1c06dc36851f8e049b7c02142ff0ae4939b89b108f0e77f4",
+    "result": "38",
+    "external_round_id": "32319834",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:21:00.000000Z",
+    "revealed_at": "2026-09-18T20:21:06.000000Z"
+}
