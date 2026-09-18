@@ -1,0 +1,22 @@
+{
+    "round_id": "eac8eabe-b944-460b-b7d2-44fae5eb9027",
+    "draw_title": "£1,000 for Half a Penny PLUS £2,000 Instant Wins - Sept 26",
+    "competition_url": "https://proprizes.co.uk/admin/products/ps1000-for-half-a-penny-plus-ps2000-instant-wins-4",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "be56115f1df4f3987b0249201579af5abb9c88f5fc2b2317f1f37dbf93b13604",
+    "drand_seed_hash": "aea16b5742de1e92e431549327d26fe4015d912c81eb9d8edfc99bbd12e10f39fb545e5c7e9ba8cca9d7d33171f25e17",
+    "client_seed": "1789765841203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 635896,
+    "max_tickets": 960000,
+    "combined_hash": "2f2d37bd62790d6d2a0e211e791f87b2faf428683d64b43291d6a0cfcc3788ad",
+    "result": "749872",
+    "external_round_id": "32320828",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T21:10:41.000000Z",
+    "revealed_at": "2026-09-18T21:10:48.000000Z"
+}
