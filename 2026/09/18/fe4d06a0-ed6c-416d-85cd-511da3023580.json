@@ -1,0 +1,22 @@
+{
+    "round_id": "fe4d06a0-ed6c-416d-85cd-511da3023580",
+    "draw_title": "Summer Special 15% Profit Margin CASH INFERNO!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/summer-special-15-profit-margin-cash-inferno",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "7d1150c4393203666ede53fc4e9fb50f514797ebc3d1e7375476c456c203ac23",
+    "drand_seed_hash": "8b78cd66d9c071caec196f877408de38ea851292f9e5a9690dd6e97d4ada530238ab7f501031b636662ff715b793a904",
+    "client_seed": "1789760473140",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 419412,
+    "max_tickets": 423999,
+    "combined_hash": "dcfb11bea383741723507cedec23d3dfd07e7658992c308c9bb223c21fe58119",
+    "result": "377149",
+    "external_round_id": "32319039",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:41:13.000000Z",
+    "revealed_at": "2026-09-18T19:41:21.000000Z"
+}
