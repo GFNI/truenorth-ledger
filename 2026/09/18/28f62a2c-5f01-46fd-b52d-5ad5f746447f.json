@@ -1,0 +1,22 @@
+{
+    "round_id": "28f62a2c-5f01-46fd-b52d-5ad5f746447f",
+    "draw_title": "OASIS 2027 CELTIC PARK - WIN 2 X TICKETS #2",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/oasis-2027-celtic-park-win-2-x-tickets-2",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "fe926776bbc70d5474f9ff05942c3ffd544f0aa313175305b05c9c69c026be62",
+    "drand_seed_hash": "93bb902b71f05837872b5980f8daa25a8390280077deea6f9809e42e59a80bb0f1d274c40fecd44d25521ac3d498ac76",
+    "client_seed": "1789762471302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 357,
+    "max_tickets": 750,
+    "combined_hash": "787f51ce64c8cecf3bfb8e467285b7098b2b96b65f90fdadf7108a63832f617d",
+    "result": "295",
+    "external_round_id": "32319705",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:14:31.000000Z",
+    "revealed_at": "2026-09-18T20:14:39.000000Z"
+}
