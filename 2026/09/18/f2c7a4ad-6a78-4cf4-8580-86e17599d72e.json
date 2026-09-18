@@ -1,0 +1,22 @@
+{
+    "round_id": "f2c7a4ad-6a78-4cf4-8580-86e17599d72e",
+    "draw_title": "Man Cave £500 (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/man-cave-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "e76d5bcec194a570bea1e248c5505770b48104d0a0fd7195a1af2e08721d5d65",
+    "drand_seed_hash": "a13f012dfc1cca4dfac1c254a92c60884e281fd448b2594aef6d5f5611cd9a34e2c24a6184bdf0aa6a8a5a380843488d",
+    "client_seed": "1789766153406",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 34000,
+    "combined_hash": "4110cadf6695d4a2438f99daebad406c915c1ff792d367adb16309b6f1fa0d88",
+    "result": "9602",
+    "external_round_id": "32320932",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T21:15:53.000000Z",
+    "revealed_at": "2026-09-18T21:16:00.000000Z"
+}
