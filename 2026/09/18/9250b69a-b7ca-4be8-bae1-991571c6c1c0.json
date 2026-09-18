@@ -1,0 +1,22 @@
+{
+    "round_id": "9250b69a-b7ca-4be8-bae1-991571c6c1c0",
+    "draw_title": "Jellycat Amuseables Bundle",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/jellycat-amuseables-bundle",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "5fd56cd5e9aeb65caa3cd68d9a15f0ebf6c5868e3c14184053731123d21aa77c",
+    "drand_seed_hash": "863a2c1fc8b38ddd7d0c5d3ae21221387450414300b6153b32e14f8a74c3c632c970edf83577f6668d745da3b0cefd25",
+    "client_seed": "1789761798487",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4636,
+    "max_tickets": 6000,
+    "combined_hash": "bc2bfc90584264855fa917b931dd89985df881aed243df662c1a53b10d65f2c9",
+    "result": "3373",
+    "external_round_id": "32319480",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:03:18.000000Z",
+    "revealed_at": "2026-09-18T20:03:24.000000Z"
+}
