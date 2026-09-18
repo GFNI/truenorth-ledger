@@ -1,0 +1,22 @@
+{
+    "round_id": "a99d889e-879a-4aa6-96e2-7520bc3d32a0",
+    "draw_title": "SPLASH YOUR CASH OUT - 5P FOR A WIN - £500 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/splash-your-cash-out-5p-for-a-win-ps500-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "6e85a71de3cf31dabf69139d1fe7d876417d38a7fc7767052cc44ef9aa157926",
+    "drand_seed_hash": "92e9fe4eabda4d3adcb3977d8078b306c41295466ffc678fd580d64a0f0dda23ac40d37f62649f9051e84694c28c3ea2",
+    "client_seed": "1789765813545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59593,
+    "max_tickets": 999999,
+    "combined_hash": "1792d065bfaf8c3da214ad30922a0ef19038e3a4883e7fb627e9f3c8114b1b97",
+    "result": "169412",
+    "external_round_id": "32320819",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T21:10:13.000000Z",
+    "revealed_at": "2026-09-18T21:10:21.000000Z"
+}
