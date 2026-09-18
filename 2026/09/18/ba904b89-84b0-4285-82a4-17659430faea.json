@@ -1,0 +1,22 @@
+{
+    "round_id": "ba904b89-84b0-4285-82a4-17659430faea",
+    "draw_title": "2x OASIS TICKETS GLASGOW MAY 2027",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/2x-oasis-tickets-glasgow-may-2027",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "6990d40a8c615a963729905ed4a67e171b217fa84d96fb75919ac71851d6d394",
+    "drand_seed_hash": "94d2ce1e5badd751e4f90c1a147cc7167255fae965fd37cc26ff4d96e6a8c673fe9fdefb1b301cfa4aa0fb849fc8db73",
+    "client_seed": "1789762204179",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1789,
+    "max_tickets": 2500,
+    "combined_hash": "65fdda4042cda7e089ac40e721626c440e8ca163967dccc64b1c9451fd52cc92",
+    "result": "1042",
+    "external_round_id": "32319616",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:10:04.000000Z",
+    "revealed_at": "2026-09-18T20:10:12.000000Z"
+}
