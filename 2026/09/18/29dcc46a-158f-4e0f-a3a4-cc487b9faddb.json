@@ -1,0 +1,22 @@
+{
+    "round_id": "29dcc46a-158f-4e0f-a3a4-cc487b9faddb",
+    "draw_title": "FREE ENTRY!! WIN THE REDDRAGON FURNACE DARTS [+1 MONTH FREE WINMAU AUTODARTS]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/free-entry-win-the-reddragon-furnace-darts-1-month-free-winmau-autodarts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "3440a1263a6135fa7a726837b41ff694c07892dadc981caa6f510789b05e82d8",
+    "drand_seed_hash": "abc511007a137c719e9489acff4ac414c2bb4bca3dde16d22fd42610d557ed32dfbdca028cb9b2e18f7162901cd5a585",
+    "client_seed": "1789760365899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 100,
+    "combined_hash": "8c8429a49ddf50184511884910afc93da60222c78a271d537cc00d15cbdbe4d6",
+    "result": "33",
+    "external_round_id": "32319003",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:39:25.000000Z",
+    "revealed_at": "2026-09-18T19:39:33.000000Z"
+}
