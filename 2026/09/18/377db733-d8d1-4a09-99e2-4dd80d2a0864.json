@@ -1,0 +1,22 @@
+{
+    "round_id": "377db733-d8d1-4a09-99e2-4dd80d2a0864",
+    "draw_title": "FREE ENTRY! WIN THE BRAND NEW NWDC \"STEALTH\" XL DART CASE - LIMITED TO 100 TICKETS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/free-entry-win-the-brand-new-nwdc-stealth-xl-dart-case-limited-to-100",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "75f7f7ed5a3dd807c1d39b7f85f32b92be526f10f9e1a7065524c52d7c0ebe97",
+    "drand_seed_hash": "8f5b241fb5d8c51cfbc562b7156fbb297b67704eb0671913ee29ecf6a7d1e4e6743b5b3670a5d621fc56512eb6e4699b",
+    "client_seed": "1789760312006",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 100,
+    "combined_hash": "aa95d6dbf7759158ffbe342114117e1ba0ec63eb688f0dcafca6b9b560856709",
+    "result": "23",
+    "external_round_id": "32318985",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:38:32.000000Z",
+    "revealed_at": "2026-09-18T19:38:39.000000Z"
+}
