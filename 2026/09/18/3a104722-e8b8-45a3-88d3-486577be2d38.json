@@ -1,0 +1,22 @@
+{
+    "round_id": "3a104722-e8b8-45a3-88d3-486577be2d38",
+    "draw_title": "🎣 Gone Fishin' - £500 Main Draw + Instant wins up to £2500",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/gone-fishin-ps500-main-draw-instant-wins-up-to-ps2500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "ad86937f59f2a9abc9b8e7883f1474534de57c258bc2df450f0c44587a1222aa",
+    "drand_seed_hash": "88b807bbc0f6f4b1da80105312c17d17c60c18b1b935db6a480faa805af22fd2d76be82ed3e8e4d613ca299f399008c4",
+    "client_seed": "1789760180972",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2988,
+    "max_tickets": 31007,
+    "combined_hash": "17f49cb11d43a8e971d71bc23950af92fbb7a9c17694a533e8e8038e3dd9301e",
+    "result": "18622",
+    "external_round_id": "32318941",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:36:21.000000Z",
+    "revealed_at": "2026-09-18T19:36:27.000000Z"
+}
