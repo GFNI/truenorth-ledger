@@ -1,0 +1,22 @@
+{
+    "round_id": "cb78b760-6ff9-4895-9455-4d0d4d0f7c4c",
+    "draw_title": "£100 Cash For Free",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps100-free-entry-9",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "494865a4a284491f3c4339ab5c70d7f244dd71da6b6b1d7ea42fe22c0fe05e88",
+    "drand_seed_hash": "8f63b4387694b2b4f495198a81a227420aa9ea911c91e1af2394533470d0dbbfcbd7525a2ed2a8c252dc4800f2e747e0",
+    "client_seed": "1789766055134",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "445eb98d749f20bb10aedeefc66b1a7180219042cfc037ba7fbe8398697ae1ab",
+    "result": "149",
+    "external_round_id": "32320899",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T21:14:15.000000Z",
+    "revealed_at": "2026-09-18T21:14:24.000000Z"
+}
