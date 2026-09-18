@@ -1,0 +1,22 @@
+{
+    "round_id": "02c84436-a39f-46e7-9c41-b9227166794a",
+    "draw_title": "TARGET JAPAN [CATHY LEUNG] CHARIS G4",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/target-japan-cathy-leung-charis-g4",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "26df1b3ce63f91455e9907ba32bac07e1c7922d3716b3771b70c51a753f1b329",
+    "drand_seed_hash": "a867a22f304c6aa221384f855c0ea2acd4c68bb895642a7debc1f0392bcf3cf156527bd08a806e9ee9136f356949e348",
+    "client_seed": "1789760877420",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 120,
+    "combined_hash": "3adc1371e0695d0efa6b4a8dac40955d97a6164425b2af41bc6bf6a0e4ac8f02",
+    "result": "51",
+    "external_round_id": "32319173",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:47:57.000000Z",
+    "revealed_at": "2026-09-18T19:48:03.000000Z"
+}
