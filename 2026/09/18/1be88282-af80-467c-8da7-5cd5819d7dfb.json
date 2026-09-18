@@ -1,0 +1,22 @@
+{
+    "round_id": "1be88282-af80-467c-8da7-5cd5819d7dfb",
+    "draw_title": "Jodie’s FREE Bonus Balls 🎉",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/jodies-free-bonus-balls-8",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "3f44471c284fd97dde88cafc1d0b0a3bf3f0a83d6791652e34a161b434842434",
+    "drand_seed_hash": "b39f477729e4997ed52dd94ddf40a2f2dc9a4d524386a870b60b79fbf31b53d80121c1b8e72a8e91a02ae2b9307bad23",
+    "client_seed": "1789704329810",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "976608c2f9518c74382d2eb9eb345bb09fa00b93a9807fa730f2703f303848af",
+    "result": "6",
+    "external_round_id": "32300324",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T04:05:29.000000Z",
+    "revealed_at": "2026-09-18T04:05:36.000000Z"
+}
