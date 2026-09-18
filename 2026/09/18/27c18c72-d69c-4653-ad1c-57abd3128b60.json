@@ -1,0 +1,22 @@
+{
+    "round_id": "27c18c72-d69c-4653-ad1c-57abd3128b60",
+    "draw_title": "WIN! A SIGNED LIMITED EDITION MVG ULTIMATE CARD [ONLY 33p!]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-a-signed-limited-edition-mvg-ultimate-card-only-33p",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "5be5fb66909133f5b870e28c38eb1bdbe2905b8cd9fb200a546d262a71da34f1",
+    "drand_seed_hash": "903fc95f6db218ac9ddcd08be0e7523a55feacec758ed50464b1738b2c32017b6af8943bf1ceb82affca257d3b4692b0",
+    "client_seed": "1789760544464",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 168,
+    "max_tickets": 200,
+    "combined_hash": "7714dced557c6fb48af71dfee151668c1c25e15102895cb78021e6403013c0e7",
+    "result": "152",
+    "external_round_id": "32319062",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:42:24.000000Z",
+    "revealed_at": "2026-09-18T19:42:30.000000Z"
+}
