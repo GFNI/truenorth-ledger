@@ -1,0 +1,22 @@
+{
+    "round_id": "0d76952b-65f1-4cf0-bf81-20e409b3f710",
+    "draw_title": "SPIRITFILLED CASK DROP! SUPER STACK!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/spiritfilled-cask-drop-super-stack",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "f7b8798b98995f018a20f40cd026a2ca017cda82f95a7be85b65f1ea19602d8c",
+    "drand_seed_hash": "9300417ee574733deaec03d384d807ff0d407b7b0035f79f9997a70754a8b5bebef898f096d8e395850e93a08dcace64",
+    "client_seed": "1789755905436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "f8c39415fb84261f1200e8e9eb432c4fbedba6450ccbbaa95d500f7655ba8c60",
+    "result": "16",
+    "external_round_id": "32317516",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T18:25:05.000000Z",
+    "revealed_at": "2026-09-18T18:25:12.000000Z"
+}
