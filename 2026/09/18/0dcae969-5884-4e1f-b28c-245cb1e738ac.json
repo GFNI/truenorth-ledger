@@ -1,0 +1,22 @@
+{
+    "round_id": "0dcae969-5884-4e1f-b28c-245cb1e738ac",
+    "draw_title": "WIN! SIGNED LIMITED EDITION ENGLAND WORLD CUP SHIRT [LITTLER & HUMPHRIES]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-signed-limited-edition-england-world-cup-shirt-littler-humphries",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "cac929b384758ec285fefcae0dd1ec8c45d1a8c8198bd704bc2cc22b683b022c",
+    "drand_seed_hash": "ab2b63dbd0cfa310a756c4c814f7c62d0974c5f48334fe33f0a825134d5afef561284311cd5f6a232721a0fc53532d4c",
+    "client_seed": "1789760952364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 200,
+    "combined_hash": "37a6b786e22583690aabd4fa847178d815a53b96fe72e6ffd6a5357639eeedc1",
+    "result": "184",
+    "external_round_id": "32319198",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:49:12.000000Z",
+    "revealed_at": "2026-09-18T19:49:18.000000Z"
+}
