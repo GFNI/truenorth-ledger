@@ -1,0 +1,22 @@
+{
+    "round_id": "8fecdeff-c128-4f33-bbd1-52008e473ee1",
+    "draw_title": "Bowness Suite with Hot Tub at The Lakes Hotel and Spa for two Adults plus £200",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/bowness-suite-with-hot-tub-at-the-lakes-hotel-and-spa-for-two-adults-plus",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "7dd77f6f26941d7eac19e4df5b51143d4d92aa463c240f9b66e8fb1a6e8afe87",
+    "drand_seed_hash": "916e9f3ae35f54e55057394aedcb05fac66fa7754863f46378de5f58b8ab2bf8e17d18ee044537e2f4ff7d67871690d8",
+    "client_seed": "1789760406606",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 599,
+    "max_tickets": 599,
+    "combined_hash": "f9bac46d995cac5751cc22a7318b44713a540868732f1c3672b83e0b96faa3a2",
+    "result": "139",
+    "external_round_id": "32319016",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:40:06.000000Z",
+    "revealed_at": "2026-09-18T19:40:12.000000Z"
+}
