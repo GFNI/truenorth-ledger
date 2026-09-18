@@ -1,0 +1,22 @@
+{
+    "round_id": "ee4737d9-2509-422b-b126-54f0aeb5a8d1",
+    "draw_title": "INSTANTLY WIN UP TO £5000 OF VELAR ENTRIES!",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/instantly-win-up-to-ps5000-of-velar-entries",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "5d408c1fdef6e6a1e2926c07019a4e309b7eb62ee8bce4c67967037101460774",
+    "drand_seed_hash": "8fd1feffcb9a312a01c9a4f03aa6e5e1a052209da4decf79f17967fe4bae962f8d5fb1d58aa18f74bd03ea2f47be3f95",
+    "client_seed": "1789764906119",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3935,
+    "max_tickets": 12000,
+    "combined_hash": "d57522fbedd73740e9770419ad70a1c65d3e02ebc591f0e7544de89aa52510a9",
+    "result": "7606",
+    "external_round_id": "32320516",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T20:55:06.000000Z",
+    "revealed_at": "2026-09-18T20:55:12.000000Z"
+}
