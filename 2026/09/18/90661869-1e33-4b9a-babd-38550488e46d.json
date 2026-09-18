@@ -1,0 +1,22 @@
+{
+    "round_id": "90661869-1e33-4b9a-babd-38550488e46d",
+    "draw_title": "15% Only Profit Margin Half a Million Pound Drop!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/15-only-profit-margin-half-a-million-pound-drop",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "001610dc5938965bdec6e97f31743c4a61db008e9bf79e784d04d794080400eb",
+    "drand_seed_hash": "b38f6e652257885f0b0a022eca2c67423967ededc0814025b18e1f1cce8abed2cde03d3847817e66fcd2e610eeee335d",
+    "client_seed": "1789760668234",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 295972,
+    "max_tickets": 295999,
+    "combined_hash": "129ccc87c1bf2eae3a48008b2e4e5410b9933c6d1443306b0fe9ea24c837f5d6",
+    "result": "29156",
+    "external_round_id": "32319103",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T19:44:28.000000Z",
+    "revealed_at": "2026-09-18T19:44:33.000000Z"
+}
