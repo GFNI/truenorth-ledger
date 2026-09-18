@@ -1,0 +1,22 @@
+{
+    "round_id": "e710dffd-b2ac-4a91-9e9e-6b3b65613ea4",
+    "draw_title": "Jolly Giraffe £700  (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/jolly-giraffe-ps700-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "5d025a5b66de413e7178d6d30baaf1287de45c7d56a136c6f5e7bee57e2e8a92",
+    "drand_seed_hash": "a4775b09fe458adbcfeff91707e65543c4928f53a0c13a6ee2d50100db2c4fe003d4501e6576ffd7381182bd6f606df1",
+    "client_seed": "1789766350603",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 142800,
+    "combined_hash": "dc8ac79846cc6ccb7182f0d40f5f5d642d9c3eaee6e842f5b0a222f10bec80db",
+    "result": "96845",
+    "external_round_id": "32320998",
+    "processing_status": "completed",
+    "created_at": "2026-09-18T21:19:10.000000Z",
+    "revealed_at": "2026-09-18T21:19:18.000000Z"
+}
