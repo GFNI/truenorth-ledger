@@ -1,0 +1,22 @@
+{
+    "round_id": "d24d1ea0-530f-4e6f-a7f9-73eda70f99f0",
+    "draw_title": "Cash Lab",
+    "competition_url": "https://chaotic.co.uk/competition/cash-lab-1422",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a6c3408e1290ef0e297da837b7f785a0b82d80344386c9c99add4c6d38d552af",
+    "drand_seed_hash": "99d6655705e0e60dfe13093e3df59a47137f426bf706a0a29183c41d59da063edb7a4072fde361e3265c807098be8620",
+    "client_seed": "1789846848387",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "08be0e2f0c2e73e74a4e0b4b7a233dc82dfc6cc9c18b11363cfb33ab33c4a400",
+    "result": "15305",
+    "external_round_id": "32347830",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:40:48.000000Z",
+    "revealed_at": "2026-09-19T19:40:54.000000Z"
+}
