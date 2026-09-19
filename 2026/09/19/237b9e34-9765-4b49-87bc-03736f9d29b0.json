@@ -1,0 +1,22 @@
+{
+    "round_id": "237b9e34-9765-4b49-87bc-03736f9d29b0",
+    "draw_title": "The 1-in-2 Piñata Smash! (15,000 Winning Tickets)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/the-1-in-2-pinata-smash-15000-winning-tickets",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "f6fef93190504c264c26b7850cc5711b76567a2a89b3784ecdb3e01e0208dfc6",
+    "drand_seed_hash": "afdc3ec0073f706c71df14c29a58643b28407ce1a4692ba7e36f0d9b3d90d6f1625717e56dc117356e84bfa69a6e41bd",
+    "client_seed": "1789845016663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2630,
+    "max_tickets": 30000,
+    "combined_hash": "e7f520cf0df3952596aaafb23418d7ccde82b05131ce6b6726ac883ab55816f7",
+    "result": "23816",
+    "external_round_id": "32347220",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:10:16.000000Z",
+    "revealed_at": "2026-09-19T19:10:24.000000Z"
+}
