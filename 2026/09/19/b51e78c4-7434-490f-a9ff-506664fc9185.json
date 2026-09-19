@@ -1,0 +1,22 @@
+{
+    "round_id": "b51e78c4-7434-490f-a9ff-506664fc9185",
+    "draw_title": "4 PENNY INSTANT WINS - £250 END DRAW #2",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/4-penny-instant-wins-ps250-end-draw-2-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "032e413f2286c1722e868b13c9cdac965b00d946e7b38c5d85133b0682f539c1",
+    "drand_seed_hash": "995636ebea5f2d07bd65ea9bc2d1de192de7b3d3717382bcbe3f292a5b727dd7870a09600e4e79f37394e02bce53b25b",
+    "client_seed": "1789852201083",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59730,
+    "max_tickets": 650000,
+    "combined_hash": "d480ae9852327f743cbc7d286b0abbe69770f3cdca3040186eae1463cb967c8f",
+    "result": "573077",
+    "external_round_id": "32349614",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T21:10:01.000000Z",
+    "revealed_at": "2026-09-19T21:10:06.000000Z"
+}
