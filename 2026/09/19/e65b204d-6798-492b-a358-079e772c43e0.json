@@ -1,0 +1,22 @@
+{
+    "round_id": "e65b204d-6798-492b-a358-079e772c43e0",
+    "draw_title": "Temple of The Tenner",
+    "competition_url": "https://chaotic.co.uk/competition/temple-of-the-tenner-4908",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "3930f014118d5d0d973cfc8d3501e9eee1f2fe4b8799237e3195efafb42182dd",
+    "drand_seed_hash": "958dfd84afc0f9bc9acdef02f6beb8b80a54f836ddf9b88e658d5a8455cd3fbe35b9e917a020c18d2a1552e451811d6a",
+    "client_seed": "1789847414979",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "80cf2eec08f617251d24ac2ce1b366951efe73984972eea3c82c5c3108d81975",
+    "result": "753",
+    "external_round_id": "32348019",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:50:15.000000Z",
+    "revealed_at": "2026-09-19T19:50:21.000000Z"
+}
