@@ -1,0 +1,22 @@
+{
+    "round_id": "61f518e8-9d0b-4f0d-8387-5aa297bb088d",
+    "draw_title": "⚔️ Warhammer Combat Patrol of Choice — ONLY 66 TICKETS! AUTO DRAW! #2",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-combat-patrol-of-choice-only-66-tickets-auto-draw-2",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "44b8e4b6d6e96dc4e6a5c82b17106bde9cadffbfd4da8cc4446dfcc8f73e65ae",
+    "drand_seed_hash": "91500dde48aa215b610799fbc0a79269e45ecf0a839f2f636acd3555a9aeeb1ef876263811436f3b7a2e05fc365707d5",
+    "client_seed": "1789847597745",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 66,
+    "combined_hash": "d5c6ad3087ca024def41d7e16d6ee3c7cb8928031b6856be35f44087d9307ad1",
+    "result": "42",
+    "external_round_id": "32348080",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:53:17.000000Z",
+    "revealed_at": "2026-09-19T19:53:24.000000Z"
+}
