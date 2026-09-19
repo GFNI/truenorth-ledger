@@ -1,0 +1,22 @@
+{
+    "round_id": "ac3c5e01-ca43-4a7f-87ea-9ba32345b597",
+    "draw_title": "💲MONEY MAKER - 100 X £100 CASH💲",
+    "competition_url": "https://optimisedodds.com/admin/products/money-maker-100-x-ps100-cash",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "bac5101b0f549c330a0a7ac913dafc90fc12b5c3701afa3f2e1d3c55516ede33",
+    "drand_seed_hash": "981dbae0576a3422604d3d8b6bb5dc224fa29305d664b5c780ede0a09c912c4d1b9618eb8e6778f166afdfb1fd116b51",
+    "client_seed": "1789855818034",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12538,
+    "max_tickets": 150000,
+    "combined_hash": "d5006dc6f8c44ce52a18cabd0577fa0e894cd0cbc8b56cbbf029005c3cc38fcd",
+    "result": "82406",
+    "external_round_id": "32350820",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T22:10:18.000000Z",
+    "revealed_at": "2026-09-19T22:10:24.000000Z"
+}
