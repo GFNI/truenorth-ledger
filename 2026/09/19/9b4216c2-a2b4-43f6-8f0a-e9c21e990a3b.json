@@ -1,0 +1,22 @@
+{
+    "round_id": "9b4216c2-a2b4-43f6-8f0a-e9c21e990a3b",
+    "draw_title": "🎃👻 HIP HIP’S HAUNTED HAUL 👻🎃 - AUTO DRAWN",
+    "competition_url": "https://hiphipprizehub.com/admin/products/hip-hips-haunted-haul-auto-drawn",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "b30edaa2a66f4551ed75c033ab8fbdf710969ec1d7c01ffa17e7e76e3863b73b",
+    "drand_seed_hash": "84606d7b4f9ec896c8b45264e42f01e5f0daa9f5dace87b5e4574f39285da84549d0777800bfb41c3222ef186ac0f8cc",
+    "client_seed": "1789819634412",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "2fe84dd67908bae2c3b128f2f46bee2efe33b5f2b9260c6c867075319c071f94",
+    "result": "1936",
+    "external_round_id": "32338759",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T12:07:14.000000Z",
+    "revealed_at": "2026-09-19T12:07:21.000000Z"
+}
