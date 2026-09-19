@@ -1,0 +1,22 @@
+{
+    "round_id": "4fa98eb9-8ca1-4efb-9bd9-88b9d3bde6f5",
+    "draw_title": "Grab The Gold",
+    "competition_url": "https://chaotic.co.uk/competition/grab-the-gold-5679",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e29557e50323719b092177645a97f0471d7805577d0d24e4ecf0b1249ad8500c",
+    "drand_seed_hash": "8858dd310a5f900151a39b304282de8a6061f94a4c7d9c21e87dc4481bcce8927707b3b5c6a79f1ce3787987fa6aa0f4",
+    "client_seed": "1789847279952",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "f57457ee5709a53062a006a2907c91a1ba8a4267f4f32a1c599b2f62d4db9e26",
+    "result": "982",
+    "external_round_id": "32347974",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:48:00.000000Z",
+    "revealed_at": "2026-09-19T19:48:06.000000Z"
+}
