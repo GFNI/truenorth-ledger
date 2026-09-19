@@ -1,0 +1,22 @@
+{
+    "round_id": "11f76574-cd02-4744-afce-426ef5ec3d36",
+    "draw_title": "Chaotic Goldfish",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-goldfish-7893",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "98f94bf21a5238156972087c746be0c8b6701f8e9e3e698695108c27aa1da81f",
+    "drand_seed_hash": "b57826134b225f0699a939215288e02ba3b6bfd65e574b846679a1d7fd9b0d06162ef607abf63875338ea19eef78abdf",
+    "client_seed": "1789847122911",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "169fa86bbb36bfa65adc1b903f33e34a039d0d6a6648ac9447ddfdb031b67821",
+    "result": "214693",
+    "external_round_id": "32347922",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T19:45:22.000000Z",
+    "revealed_at": "2026-09-19T19:45:30.000000Z"
+}
