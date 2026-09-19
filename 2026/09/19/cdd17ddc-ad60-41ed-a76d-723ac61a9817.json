@@ -1,0 +1,22 @@
+{
+    "round_id": "cdd17ddc-ad60-41ed-a76d-723ac61a9817",
+    "draw_title": "What's in the box?! 💫",
+    "competition_url": "https://redlemonx.co.uk/admin/products/whats-in-the-box-7",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "1aeeb937c0227c7e52910672a931cf591dd5384634be819dd2d9c70ca870dce7",
+    "drand_seed_hash": "986ea9dce0355f69e9b46da4616c4aebc5135b1e76661ac1a010f258c23e46c7dcfe011e6d795baed9888b5aacbe422e",
+    "client_seed": "1789837810154",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53,
+    "max_tickets": 75,
+    "combined_hash": "95dcb8182f62f4fc7e0ad5ca3b6c45db2dc8e1432084fe1fe8af4ac568229604",
+    "result": "53",
+    "external_round_id": "32344818",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T17:10:10.000000Z",
+    "revealed_at": "2026-09-19T17:10:18.000000Z"
+}
