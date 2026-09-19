@@ -1,0 +1,22 @@
+{
+    "round_id": "2a845905-e01a-4614-b437-42364375ad61",
+    "draw_title": "CLASSIC EVERY TICKET WINS - QUICK EASY WIN PRIZES £250 SC END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/classic-every-ticket-wins-quick-easy-win-prizes-ps250-sc-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "ce6cb1d9aef60c872c5f79efe8f9b8f4277d40dcd2f2cb6777115dca78d20f70",
+    "drand_seed_hash": "97d20b61bfcf287e1b848a7bca5083c608801ebe979c7530b8d4a2b5f1646a4133ea909fdad30497b29e6a44421721fe",
+    "client_seed": "1789852207098",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1467,
+    "max_tickets": 3476,
+    "combined_hash": "2302f8829f618bfd8c29636019968cf42a656d5c61da495b957aa6a67d99e667",
+    "result": "724",
+    "external_round_id": "32349616",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T21:10:07.000000Z",
+    "revealed_at": "2026-09-19T21:10:12.000000Z"
+}
