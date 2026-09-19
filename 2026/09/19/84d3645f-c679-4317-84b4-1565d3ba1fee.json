@@ -1,0 +1,22 @@
+{
+    "round_id": "84d3645f-c679-4317-84b4-1565d3ba1fee",
+    "draw_title": "END OF SUMMER £100K 🌴",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/end-of-summer-ps100k",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "30fddd9a7a7ca9e212e9c37d4c7fe9fea29c92baafa2afa6d6a3d924ba8e444f",
+    "drand_seed_hash": "86c162b7a9e924e6782bffc4af75de1549ba9614a4926bdc5708dd5a35d96434706ad913418c6ecb7d0332990abe07f6",
+    "client_seed": "1789849052551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 148848,
+    "max_tickets": 160000,
+    "combined_hash": "36c0d2587b976da7819d70cf285f93784e58a816fe6c45673a6bcb1901e87d0c",
+    "result": "126775",
+    "external_round_id": "32348565",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T20:17:32.000000Z",
+    "revealed_at": "2026-09-19T20:17:39.000000Z"
+}
