@@ -1,0 +1,22 @@
+{
+    "round_id": "dd7b2463-5c63-448e-a5ab-e860744405b8",
+    "draw_title": "🔐✨ THE FRAGRANCE VAULT ✨🔐",
+    "competition_url": "https://hiphipprizehub.com/admin/products/the-fragrance-vault",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "704089b0b733a8805e0a0ae8f9cb0d5b8289ab0b20975785ac8b4dcbaa3e126e",
+    "drand_seed_hash": "aca080d495ef16993454e587348510712dffaaff49c2a47951430f9b654e7242ce71e2417d3b53a555d680e731a317bc",
+    "client_seed": "1789848456240",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "944467efdb0ef03b7b2f6b4ca14b609a9f5f6bda661812829313eff4da9c6882",
+    "result": "2389",
+    "external_round_id": "32348366",
+    "processing_status": "completed",
+    "created_at": "2026-09-19T20:07:36.000000Z",
+    "revealed_at": "2026-09-19T20:07:42.000000Z"
+}
