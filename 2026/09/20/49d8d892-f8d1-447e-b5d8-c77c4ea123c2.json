@@ -1,0 +1,22 @@
+{
+    "round_id": "49d8d892-f8d1-447e-b5d8-c77c4ea123c2",
+    "draw_title": "£100 Voucher of Your Choice or £100 cash",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/ps100-voucher-of-your-choice-or-ps100-cash",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "1fef7410aebd31f4b53ec23cf5c08622ffdf2ae6acf22c94b0acb4cf37cc5fa3",
+    "drand_seed_hash": "80c9eb9cfc8f57d7829d9231ba6e7a3e401db2049c4fe4ccf432eea68dbc9c983cf8e04866a9752747a714b726da9dfe",
+    "client_seed": "1789934907303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 130,
+    "max_tickets": 350,
+    "combined_hash": "3baab244837262e36cd8a573b74b5343abb14e4a4f2895faba14fddb41cd0fa6",
+    "result": "226",
+    "external_round_id": "32377183",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:08:27.000000Z",
+    "revealed_at": "2026-09-20T20:08:33.000000Z"
+}
