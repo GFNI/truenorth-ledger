@@ -1,0 +1,22 @@
+{
+    "round_id": "3a1cff13-0d5b-4c94-ab0d-ba7a63992ab5",
+    "draw_title": "1 Line Bingo",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/1-line-bingo",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "556ffd17bf73ef0383153282214b6c108ef929e3e7a0212172b4e2f23b557d4e",
+    "drand_seed_hash": "8c8dfeb6a97d2f396c61be63d94dc6c3e92efb961b3c3761042cf65ef1a4802885c3cb8950bed9e0baa844a331cf8eae",
+    "client_seed": "1789934977896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7423,
+    "max_tickets": 32500,
+    "combined_hash": "c9d5e89d785cab2b7304010d33c64e1fcd9369404879a006fd55ee06b585f48b",
+    "result": "11994",
+    "external_round_id": "32377207",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:09:37.000000Z",
+    "revealed_at": "2026-09-20T20:09:45.000000Z"
+}
