@@ -1,0 +1,22 @@
+{
+    "round_id": "efc7e0f4-8a69-4806-a85f-6f3e426c3acf",
+    "draw_title": "Pokémon Jackpot",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pokemon-jackpot",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "23f0fcab76a750476333707998ca60c0c54b2b2e68ea235925998e781ae6fabd",
+    "drand_seed_hash": "a1a259e4d55374f8cebfd17b79920156e631798e97f728681d16638d09f9545e5458aa7749bf0b87257033f6310d2bf9",
+    "client_seed": "1789933191032",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47111,
+    "max_tickets": 240000,
+    "combined_hash": "e30f771f15ff15669ff9bfcc9875886b1022a09fd25ac5f5f72203a5963705b4",
+    "result": "136548",
+    "external_round_id": "32376611",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:39:51.000000Z",
+    "revealed_at": "2026-09-20T19:39:57.000000Z"
+}
