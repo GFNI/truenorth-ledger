@@ -1,0 +1,22 @@
+{
+    "round_id": "86d9c700-29a6-4182-89af-2a15848795c6",
+    "draw_title": "£50 CASH + INSTANT WINS",
+    "competition_url": "https://greasemonkeycompetitions.co.uk/admin/products/50-cash-instant-wins",
+    "operator": {
+        "name": "Grease Monkey Competitions Ltd",
+        "website": "https://greasemonkeycompetitions.co.uk",
+        "company_number": "17064428"
+    },
+    "drand_server_seed": "a6b69735bcb636de9087333e3bd750e5e0a67223c920ccd6f39a4e8d8bb4879d",
+    "drand_seed_hash": "a64a35615172a369b98c657a63c1d1b237047a5e592326022bb4580e8a13c8c55b4a188a89a28dd05074941903f6e49d",
+    "client_seed": "1789935037282",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 250,
+    "combined_hash": "0c83dcaa2fa74765c61c9f5413c742d6e897d10ddcb1ec5354580c60b96fab40",
+    "result": "189",
+    "external_round_id": "32377226",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:10:37.000000Z",
+    "revealed_at": "2026-09-20T20:10:42.000000Z"
+}
