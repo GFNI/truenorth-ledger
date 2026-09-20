@@ -1,0 +1,22 @@
+{
+    "round_id": "5a05f40e-d1f9-48c7-90f5-4ecf962c582a",
+    "draw_title": "Ninja Luxe Café Premier Bean to Cup Coffee Machine",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/ninja-luxe-cafe-premier-bean-to-cup-coffee-machine",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "7e056f46bfed2de5bbfd2fb781fe10114c1d58de56910ff2ca2e1d718b6c027b",
+    "drand_seed_hash": "9042503f5c1040292f69b7cf120c4dff9e6139816f845ebc142f2458cccd481fc3992e877db4c5a92fa65617841c292e",
+    "client_seed": "1789931394109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1355,
+    "max_tickets": 4500,
+    "combined_hash": "04b606da4b5158d86c01ba0b448892a6d2d9f8e99de46bd7a9a5e0d899a562ab",
+    "result": "2901",
+    "external_round_id": "32376012",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:09:54.000000Z",
+    "revealed_at": "2026-09-20T19:10:00.000000Z"
+}
