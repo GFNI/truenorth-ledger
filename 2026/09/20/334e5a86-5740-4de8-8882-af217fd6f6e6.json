@@ -1,0 +1,22 @@
+{
+    "round_id": "334e5a86-5740-4de8-8882-af217fd6f6e6",
+    "draw_title": "Dram & Smoke! Whisky & Cigar Competition",
+    "competition_url": "https://whiskyclubuk.com/admin/products/dram-smoke-whisky-cigar-competition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "c8c130b6b57f40e1dc3e3ba8fafcc5e993dcddb33fe6dc9d218ea7423b714428",
+    "drand_seed_hash": "84431e7adf601276dabb63f70d77aab3b225d6e0e4e0b72317f2965337426a893b66d263eaa877304fc97fa8a4b366c0",
+    "client_seed": "1789938625101",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 750,
+    "max_tickets": 999,
+    "combined_hash": "c543343d8b728087f5e79a84021e2bb1c181c0aed4d1d9780d1323bfab78543d",
+    "result": "261",
+    "external_round_id": "32378422",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T21:10:25.000000Z",
+    "revealed_at": "2026-09-20T21:10:30.000000Z"
+}
