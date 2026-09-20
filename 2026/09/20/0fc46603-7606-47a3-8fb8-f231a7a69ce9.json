@@ -1,0 +1,22 @@
+{
+    "round_id": "0fc46603-7606-47a3-8fb8-f231a7a69ce9",
+    "draw_title": "StarVie Padel Racket Polaris 2026",
+    "competition_url": "https://padelreservecompetitions.com/admin/products/starvie-padel-racket-polaris-2026",
+    "operator": {
+        "name": "Padel Reserve Competitions LTD",
+        "website": "https://padelreservecompetitions.com",
+        "company_number": "17051099"
+    },
+    "drand_server_seed": "b97113c6eba34c5f4245151ad69f794d9c10f32df943c1c000f87c6f39279fa9",
+    "drand_seed_hash": "85cffe22aaeea4bf7219cc647d007a38b678b6304adeff2e76bb41f8a045a06f588fbf0da5ff679c93defe16e8fd31e8",
+    "client_seed": "1789930805741",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143,
+    "max_tickets": 400,
+    "combined_hash": "1a921fbe099446f0bf9f5837e98ed49483ee81c15ab2463adc29945e66a25062",
+    "result": "59",
+    "external_round_id": "32375816",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:00:05.000000Z",
+    "revealed_at": "2026-09-20T19:00:12.000000Z"
+}
