@@ -1,0 +1,22 @@
+{
+    "round_id": "126067ca-69cc-46f3-853e-70f8118ae602",
+    "draw_title": "5 Winners of a FREE £10 Pizza Hut Voucher",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/5-winners-of-a-free-ps10-pizza-hut-voucher",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "75f4dd74cc329da89e22057875c5a43f3082cfc373e2e726714498edef0dffd6",
+    "drand_seed_hash": "94d68c17f8f2d70dd71836d28260d2fcd76d3056ce46bbd9e9de1e250733c7bf069416d5a9ba0ef630cd3c63385c051c",
+    "client_seed": "1789935007127",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 149,
+    "combined_hash": "54f8de4adf91c8aeae5fc3523875de1c56a6192c0c998457a8a28f2ff84e629e",
+    "result": "78",
+    "external_round_id": "32377217",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:10:07.000000Z",
+    "revealed_at": "2026-09-20T20:10:15.000000Z"
+}
