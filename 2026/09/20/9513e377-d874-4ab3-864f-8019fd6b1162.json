@@ -1,0 +1,22 @@
+{
+    "round_id": "9513e377-d874-4ab3-864f-8019fd6b1162",
+    "draw_title": "Win A DYSON CameraJet Electric Toothbrush with Flosser",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/dysontb",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e49e87899e0a622b7cd83be9ddee95cb5fd4d09850c6e60ed30e5581ac14c6d2",
+    "drand_seed_hash": "b8d568676d5e59e3678048afc3585e920585948bfef31dc7d6411e33ca3dfdfb2f4ee090fbe6f1aa858e0de3bf29ed41",
+    "client_seed": "1789932966504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8292,
+    "max_tickets": 9000,
+    "combined_hash": "c972f17e511ee952fb14323f536405846c8ffe287a739f260c0683c72e28d507",
+    "result": "1778",
+    "external_round_id": "32376536",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:36:06.000000Z",
+    "revealed_at": "2026-09-20T19:36:12.000000Z"
+}
