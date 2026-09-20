@@ -1,0 +1,22 @@
+{
+    "round_id": "988389d6-1b9e-439c-a6ed-bc0779c97e52",
+    "draw_title": "The BIG catch 🐟 BIG wins!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/the-big-catch-big-wins",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "8cc0f37041bc1ae1ce847cdc5053aa213865dedd36c1a97cf47a2451ac955c6b",
+    "drand_seed_hash": "aef6eafcdca4815543b92aaa285cdd693a43ed154e56d90509f3c6fcfc28f21d2c9ab4271e8a0b74c1264ca7a97a7cd7",
+    "client_seed": "1789935028095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1357,
+    "max_tickets": 15000,
+    "combined_hash": "52686637dc2905893066d9b9aae85da974d4a24965db1fcda8b93a5436fa1c78",
+    "result": "13259",
+    "external_round_id": "32377223",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:10:28.000000Z",
+    "revealed_at": "2026-09-20T20:10:33.000000Z"
+}
