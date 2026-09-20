@@ -1,0 +1,22 @@
+{
+    "round_id": "ad1062b4-a9b0-4904-a5c9-29b22e24f33c",
+    "draw_title": "SNAP-ON FRL80 3/8\" DRIVE LONG HANDLE RATCHET",
+    "competition_url": "https://greasemonkeycompetitions.co.uk/admin/products/snap-on-frl80-38-drive-long-handle-ratchet",
+    "operator": {
+        "name": "Grease Monkey Competitions Ltd",
+        "website": "https://greasemonkeycompetitions.co.uk",
+        "company_number": "17064428"
+    },
+    "drand_server_seed": "b010e6cc4b7e1a8ace489bff94e6b375aba56e86f3a8cc5cced35f753e851728",
+    "drand_seed_hash": "a4a931d0c6139657017be55d6d0061a100f3c79f1d1cf9f60fdafbe11673a34a203dbc1d706aef3a691bfd43ea1d58dd",
+    "client_seed": "1789935043109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 200,
+    "combined_hash": "ab55f81aee9e00269c38ec5452acbe261f72227d8fa6d23abe289c93ab7ec662",
+    "result": "76",
+    "external_round_id": "32377228",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:10:43.000000Z",
+    "revealed_at": "2026-09-20T20:10:48.000000Z"
+}
