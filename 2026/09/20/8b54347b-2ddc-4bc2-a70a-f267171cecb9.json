@@ -1,0 +1,22 @@
+{
+    "round_id": "8b54347b-2ddc-4bc2-a70a-f267171cecb9",
+    "draw_title": "10P PRIZE POP",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/10p-prize-pop",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "cc4959148279a6f48f4239c51a7add27826bd9bba856d4dfcce6ba503cfee18f",
+    "drand_seed_hash": "8574f5ff82f5c78c71d17d7cc86d9690bd0a2cc1c63ff5a3c865ae63d44d1a7c16a00774fcd5ceaf6fd983ce614a47d6",
+    "client_seed": "1789934927687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43633,
+    "max_tickets": 99999,
+    "combined_hash": "d45f8f8f4bf1eeff600c843124dbe9d41c11e1c9911dea7fe6a924dc5f126025",
+    "result": "62154",
+    "external_round_id": "32377190",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:08:47.000000Z",
+    "revealed_at": "2026-09-20T20:08:54.000000Z"
+}
