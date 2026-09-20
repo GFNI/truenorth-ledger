@@ -1,0 +1,22 @@
+{
+    "round_id": "eed943dd-3211-4b9c-8d8d-e36cac9d4660",
+    "draw_title": "Home Cinema Setup!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/home-cinema-setup",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "d3220e9a69d5d6ab1c8580c863fb6e6812035b715e87c689154adfde0542088f",
+    "drand_seed_hash": "802e964816b4193f517ec2bb30d62eea90bd68b23513a4f362d26a71c37ddc77b7e1a381d1ffb25d4836bcfd7bfbd62a",
+    "client_seed": "1789932429872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 300,
+    "combined_hash": "d264812a6896a1f176ac815785d7c805bddddefa38d273385b6066dca19aff51",
+    "result": "227",
+    "external_round_id": "32376357",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:27:09.000000Z",
+    "revealed_at": "2026-09-20T19:27:15.000000Z"
+}
