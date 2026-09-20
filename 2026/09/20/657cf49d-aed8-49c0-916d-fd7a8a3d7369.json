@@ -1,0 +1,22 @@
+{
+    "round_id": "657cf49d-aed8-49c0-916d-fd7a8a3d7369",
+    "draw_title": "Astro Booster - £250 Mystery Bundle End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/astroboost",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "d59a29a944c58b3ec7a0d25c5af8e4a4934ca388b0c7209d4127422c66698db5",
+    "drand_seed_hash": "8943af8a903784e22f554ed4ef58decc74ebf1c92c95122273d48df43f869c0108421e31504455a576a66f75a3d7a0de",
+    "client_seed": "1789929616986",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 165104,
+    "max_tickets": 500000,
+    "combined_hash": "9b690d95e14a2668dc72d6cd08112ec9c83f483542f5396764665b596b5244dd",
+    "result": "184188",
+    "external_round_id": "32375420",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T18:40:17.000000Z",
+    "revealed_at": "2026-09-20T18:40:24.000000Z"
+}
