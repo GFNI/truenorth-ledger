@@ -1,0 +1,22 @@
+{
+    "round_id": "00bf4c56-bd0d-4f3b-97bc-e1aa01708326",
+    "draw_title": "Pinata Prizes!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/pinata-prizes",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "7d4e794ea7daf3cd0f751456940c4992a28bace5ab2ba68645cadd7e3a69697c",
+    "drand_seed_hash": "b60b43281512b0f4bf6e3fbfc3e8c1c9a124e31c566db79cc9d0471ed1a459e11683978b4d0afce5273aa05d461e54e6",
+    "client_seed": "1789933226170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 356986,
+    "max_tickets": 359999,
+    "combined_hash": "f158273906407945e7bc1bc356c3836017e003a4184af3f8d468972b95d0757e",
+    "result": "202649",
+    "external_round_id": "32376623",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:40:26.000000Z",
+    "revealed_at": "2026-09-20T19:40:33.000000Z"
+}
