@@ -1,0 +1,22 @@
+{
+    "round_id": "768b5f21-9da2-4727-a4e8-b65c22bdf127",
+    "draw_title": "⚔️ Warhammer Win Your Army — £400 Army + £400 Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-win-your-army-ps400-army-ps400-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "7f32bc8719d474e99c15864e4d039c8805414d6c4527fe06306b9a4ffeb1791b",
+    "drand_seed_hash": "81a0b1f4218e8b8725cb31c068d476288c9268fa6acc137ef43dbbe8c865e72eb9ec03185b06e9813250923bbd935340",
+    "client_seed": "1789940724012",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 343,
+    "max_tickets": 1066,
+    "combined_hash": "ae4dbd06d6c5df3c88ceb112561186b6a337146e0b648b7a83f94033305bfd2e",
+    "result": "999",
+    "external_round_id": "32379122",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T21:45:24.000000Z",
+    "revealed_at": "2026-09-20T21:45:30.000000Z"
+}
