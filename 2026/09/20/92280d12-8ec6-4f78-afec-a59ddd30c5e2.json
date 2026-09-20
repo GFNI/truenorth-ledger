@@ -1,0 +1,22 @@
+{
+    "round_id": "92280d12-8ec6-4f78-afec-a59ddd30c5e2",
+    "draw_title": "*NEW* Garrett AT-Pro Blackline",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/new-garrett-at-pro-blackline",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "874b906b40e57481f599de8d248500a7f9ee7a42b3a45731b0a20ff99a95b195",
+    "drand_seed_hash": "892dedf0049c44eef2c48f03271f3a927668db488a82618e4045b9689090cc4d573a8887a3b3bd1930f01463515abef8",
+    "client_seed": "1789932476055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 115,
+    "max_tickets": 220,
+    "combined_hash": "bbcfa03def844954fad1bff9b24bc72e28d9811c0675ecf410ef6fa61a033b73",
+    "result": "156",
+    "external_round_id": "32376373",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:27:56.000000Z",
+    "revealed_at": "2026-09-20T19:28:03.000000Z"
+}
