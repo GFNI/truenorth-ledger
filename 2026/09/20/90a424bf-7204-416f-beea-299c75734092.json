@@ -1,0 +1,22 @@
+{
+    "round_id": "90a424bf-7204-416f-beea-299c75734092",
+    "draw_title": "Shark Matrix Plus 2 in 1 Robot Vacuum and Mop",
+    "competition_url": "https://a9competitions.co.uk/admin/products/shark-matrix-plus-2-in-1-robot-vacuum-and-mop",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "5e25c7f31ba7495acb2ebf9d090a12c2cf46ae74ded983316af6e3d478b3e96a",
+    "drand_seed_hash": "ae108332cbe1791a763a6bc8189088905c52cecf5ac8cd58931b79e3cd77ee23d8863429bb17c167ca97e15f6c558c01",
+    "client_seed": "1789936259655",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 182,
+    "max_tickets": 330,
+    "combined_hash": "9e0a3830cd57d97acc153bcb7f9a16397dfd5223bfc8cd6995919ee2e0f1749d",
+    "result": "273",
+    "external_round_id": "32377634",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:30:59.000000Z",
+    "revealed_at": "2026-09-20T20:31:06.000000Z"
+}
