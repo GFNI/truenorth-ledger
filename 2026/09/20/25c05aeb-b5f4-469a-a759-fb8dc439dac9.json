@@ -1,0 +1,22 @@
+{
+    "round_id": "25c05aeb-b5f4-469a-a759-fb8dc439dac9",
+    "draw_title": "122G 9CT GOLD MONSTER CURB BRACELET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/122g-9ct-gold-monster-curb-bracelet-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "684b1213ab32833212094642ff2e0f32525cef38b29b4f6bdbb2eb6b1086a8bc",
+    "drand_seed_hash": "abd309b9eb4ea457c5dc9896a5100bd0ebd101de50ae7923a1a08ad63e98bc1de960b5c3581454500f0f79e85469347a",
+    "client_seed": "1789934728766",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2654,
+    "max_tickets": 5000,
+    "combined_hash": "e28d02e7bebc20e4958e900422e8404b8148ce5932545d3598d6657dcdd13558",
+    "result": "4291",
+    "external_round_id": "32377124",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:05:28.000000Z",
+    "revealed_at": "2026-09-20T20:05:36.000000Z"
+}
