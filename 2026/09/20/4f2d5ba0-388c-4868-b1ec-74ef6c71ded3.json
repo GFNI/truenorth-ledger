@@ -1,0 +1,22 @@
+{
+    "round_id": "4f2d5ba0-388c-4868-b1ec-74ef6c71ded3",
+    "draw_title": "🎰 Jelly Cat Jackpot 🎰",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/jelly-cat-jackpot",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "123b79e7629ba53622bf0b1b8e31cd53a4a797ef501f28b7a0a656bb6a5accdc",
+    "drand_seed_hash": "957987a2ecf81405697ca0fdfa17d63bd1b071865debf6c97947fd48d17e60355189368f1a46b671d90ec5ba4aef6c2b",
+    "client_seed": "1789935958150",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6500,
+    "max_tickets": 6500,
+    "combined_hash": "1e92d83a13354986c9d13c2822bd3c70f7bd3ed50711805dc030917fcb470c37",
+    "result": "6211",
+    "external_round_id": "32377534",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:25:58.000000Z",
+    "revealed_at": "2026-09-20T20:26:06.000000Z"
+}
