@@ -1,0 +1,22 @@
+{
+    "round_id": "050c0ae5-cf2d-4f85-9b85-4ffb2bba5901",
+    "draw_title": "Penny Cash Roll",
+    "competition_url": "https://ecnicompetitions.com/admin/products/penny-cash-roll",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "8925414f289e05d5f0a68c2add52d6bc8a0b717eea81672c0b31d02d2e97319c",
+    "drand_seed_hash": "8d5c137415d4c6874a730590ad9dd811cfb235b1f88ebc4b5479f53eb93e739a9e6502ef7e98db76f059887b28d8f72a",
+    "client_seed": "1789938604616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 239541,
+    "max_tickets": 649999,
+    "combined_hash": "cb6e07938219bf3fed6d648c006139cae2a0190944e62aef6f2b101ef2782c15",
+    "result": "641662",
+    "external_round_id": "32378415",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T21:10:04.000000Z",
+    "revealed_at": "2026-09-20T21:10:09.000000Z"
+}
