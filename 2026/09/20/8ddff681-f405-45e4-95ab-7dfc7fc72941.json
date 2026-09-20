@@ -1,0 +1,22 @@
+{
+    "round_id": "8ddff681-f405-45e4-95ab-7dfc7fc72941",
+    "draw_title": "The Mercedes GLB Odds Booster Competition",
+    "competition_url": "https://ryscompetitions.com/admin/products/the-mercedes-glb-odds-booster-competition",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "bbbe227dc7d074783f5ea2d3fa0b3361bb98f26e4c0f6d4d5e675e804d250b55",
+    "drand_seed_hash": "93dbf77e6e33d53d645ab36fe7a3148bb74a3e811fc6b3a2141bbfb7b05235f47353e33423fca7b5c147469b904c4426",
+    "client_seed": "1789931428154",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 308650,
+    "max_tickets": 1000000,
+    "combined_hash": "ee6b7c491ece7a2aa4b09a51db173bab1a430c16bf97d322d37ce5e0e0946d7e",
+    "result": "890863",
+    "external_round_id": "32376023",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:10:28.000000Z",
+    "revealed_at": "2026-09-20T19:10:33.000000Z"
+}
