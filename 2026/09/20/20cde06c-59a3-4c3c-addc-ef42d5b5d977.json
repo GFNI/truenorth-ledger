@@ -1,0 +1,22 @@
+{
+    "round_id": "20cde06c-59a3-4c3c-addc-ef42d5b5d977",
+    "draw_title": "📺 Arctic Marv’s TV Binge 📺",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/arctic-marvs-tv-binge",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "c1169aa8d74b577c1afb7f4f00f896c74eaf58a3d4204465b23bff6a61c5de5f",
+    "drand_seed_hash": "b72077bd197cd18cbffcb2c027759fd2b86b987052204ef68ce77fc7d83738aef678472d74c8bb7b02cf67d910b74617",
+    "client_seed": "1789911269565",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27247,
+    "max_tickets": 250000,
+    "combined_hash": "3dd6e608ad773494d864b1bd9c2c2b2aff199d6860dfe59d667dd512ebfa3669",
+    "result": "95854",
+    "external_round_id": "32369304",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T13:34:29.000000Z",
+    "revealed_at": "2026-09-20T13:34:36.000000Z"
+}
