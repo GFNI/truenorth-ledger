@@ -1,0 +1,22 @@
+{
+    "round_id": "63aebfcf-075a-4cf6-b27f-f67510198273",
+    "draw_title": "FRUITFUL FORTUNES 20/09",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/fruitful-fortunes-2009",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "03b73c262c0d3b1272a52e14c88cb06aaffc3c9689aed0c48411b00067828807",
+    "drand_seed_hash": "b351f2c0d38ac82ec8ced874d5ab7a4da471397306a190503a4cc953d9ed23373a3f8d209f9ffff956bd04108392ed95",
+    "client_seed": "1789938397883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 111546,
+    "max_tickets": 999999,
+    "combined_hash": "5c117c5d53fbd138df45666d6a8bd81239a5868c23bd6294ed76cacf6d190ac0",
+    "result": "413565",
+    "external_round_id": "32378347",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T21:06:37.000000Z",
+    "revealed_at": "2026-09-20T21:06:45.000000Z"
+}
