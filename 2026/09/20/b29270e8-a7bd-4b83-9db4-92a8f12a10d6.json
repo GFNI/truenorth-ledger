@@ -1,0 +1,22 @@
+{
+    "round_id": "b29270e8-a7bd-4b83-9db4-92a8f12a10d6",
+    "draw_title": "The Root Slayer!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/the-root-slayer-7",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c4a14a04b0baf51f9f7c44d03d025617a9695d005ae6d43f0ea24b7f766299a8",
+    "drand_seed_hash": "91f5dbb04cbe212eefd69985394e54ddb8ceb06a0e03c4895391586aa035168790732bf83c8d5cec3881968dd8690c63",
+    "client_seed": "1789932326284",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 180,
+    "combined_hash": "b9eb83d67f37b4b8eb8f0b4ace8b097f5e352f92c932d642c200938e319b0c71",
+    "result": "106",
+    "external_round_id": "32376323",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:25:26.000000Z",
+    "revealed_at": "2026-09-20T19:25:33.000000Z"
+}
