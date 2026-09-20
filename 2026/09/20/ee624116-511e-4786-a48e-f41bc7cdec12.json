@@ -1,0 +1,22 @@
+{
+    "round_id": "ee624116-511e-4786-a48e-f41bc7cdec12",
+    "draw_title": "Halloween Bundle",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/halloween-bundle",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "2343d0d73f8dcaaa6b840ba00feb0b491dd62b878e570c6474bac293ff45d059",
+    "drand_seed_hash": "ad50191e8ea2f0fd73916be3b9b0dc9313696c0abd14bf6520a423c361ab33a8a2d7bf4f4092cd141d28880b03da37de",
+    "client_seed": "1789931125888",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 300,
+    "combined_hash": "6faa260a2101f5a7b708a2e94470feb8e95d0b78a130085020014647645467b7",
+    "result": "60",
+    "external_round_id": "32375923",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:05:25.000000Z",
+    "revealed_at": "2026-09-20T19:05:33.000000Z"
+}
