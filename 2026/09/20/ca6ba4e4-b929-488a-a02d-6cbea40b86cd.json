@@ -1,0 +1,22 @@
+{
+    "round_id": "ca6ba4e4-b929-488a-a02d-6cbea40b86cd",
+    "draw_title": "Win 20x 1oz Gold Bar Or £3k Cash Tickets - Draw 2",
+    "competition_url": "https://expcomps.com/admin/products/win-20x-1oz-gold-bar-or-ps3k-cash-tickets-draw-2",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "05a46e2d20165f2cfdae34a6351fc76a8744fffdbd8381be786766e2e6600cd9",
+    "drand_seed_hash": "a856430a8c3cd7fcce5e2302ec987a05917d41cc325d0ae1c50be647e41972de1ed50ea75a829cf595c08cf8a74dd58b",
+    "client_seed": "1789931235306",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "d7042116f00119a6d9734b692041ea800f368f2a83262d7c8169c0c6753f3a06",
+    "result": "5",
+    "external_round_id": "32375959",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T19:07:15.000000Z",
+    "revealed_at": "2026-09-20T19:07:21.000000Z"
+}
