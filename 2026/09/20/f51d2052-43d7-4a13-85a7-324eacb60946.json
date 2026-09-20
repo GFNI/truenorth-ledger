@@ -1,0 +1,22 @@
+{
+    "round_id": "f51d2052-43d7-4a13-85a7-324eacb60946",
+    "draw_title": "£10,000 CASH FOR 10P",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps10000-cash-for-10p-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "54c412ec561a3cdd937199e1c405585b30427ba0b053d786033e4a736415d9ea",
+    "drand_seed_hash": "a1b7354946c83dabc3d260079392e7a862ffeabba9b73e6ebf0422c605fe04db6e4b9a156dab8d7e0fe1344c6b829c48",
+    "client_seed": "1789934985346",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 196772,
+    "max_tickets": 200000,
+    "combined_hash": "d5b191ded0df5d1c894d86e5a2c8af48af87a19da39e00abd6981d70e909155f",
+    "result": "90198",
+    "external_round_id": "32377209",
+    "processing_status": "completed",
+    "created_at": "2026-09-20T20:09:45.000000Z",
+    "revealed_at": "2026-09-20T20:09:51.000000Z"
+}
