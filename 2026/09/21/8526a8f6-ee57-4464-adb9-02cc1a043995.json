@@ -1,0 +1,22 @@
+{
+    "round_id": "8526a8f6-ee57-4464-adb9-02cc1a043995",
+    "draw_title": "Cha-ching! 💰",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/cha-ching",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "2b0fb23dd31737d0ea515755f8b03bfd04c594827a395855577346b5f5a41540",
+    "drand_seed_hash": "ac93d1febf7ca1d82b15ee9d782bbd742274a0c8f86c37d29fde22f5e53a0f8142d2b38207f6eda7365e09f3295c97a0",
+    "client_seed": "1789996780581",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30685,
+    "max_tickets": 62000,
+    "combined_hash": "9ffd37a885c235d1d17b1da5ffaa1ed981d51bec1bc1f7f7860c3f098c0dfaca",
+    "result": "1696",
+    "external_round_id": "32397807",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T13:19:40.000000Z",
+    "revealed_at": "2026-09-21T13:19:45.000000Z"
+}
