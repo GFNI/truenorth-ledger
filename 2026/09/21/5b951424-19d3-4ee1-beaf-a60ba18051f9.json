@@ -1,0 +1,22 @@
+{
+    "round_id": "5b951424-19d3-4ee1-beaf-a60ba18051f9",
+    "draw_title": "WIN 100 TICKETS INTO x10 CHANCES TO WIN £1,000 COMP!! 21/09",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-100-tickets-into-x10-chances-to-win-ps1000-comp-2109-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "da0cd44b50a6a3c3e61827910facf2f57c78cc6fbce3f274c2f99d611e9d7134",
+    "drand_seed_hash": "8ef7cb0229ab4d40a41c621b98b083ccd59c5d6730461d1d928b0bcc8a8f2ce3af092122a63176e25ab457852ddefc22",
+    "client_seed": "1790030409361",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10550,
+    "max_tickets": 15000,
+    "combined_hash": "c8438a0127e25e2e6b6f4f37cdf5e3920c1181d111f517a47fbbb56aec8707c6",
+    "result": "8537",
+    "external_round_id": "32409017",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T22:40:09.000000Z",
+    "revealed_at": "2026-09-21T22:40:15.000000Z"
+}
