@@ -1,0 +1,22 @@
+{
+    "round_id": "b53f5bd4-498d-41f1-86ed-1c1975aeab8d",
+    "draw_title": "THE £500 DROP",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/the-ps500-drop",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "1ac32ecad2649db30429c12f0067dea660c431335c1fae6e80687b0847e3910c",
+    "drand_seed_hash": "865839682daebbd24d6b548b10c5558882a3f60885bf9108b8a235210cb909155cd9c0fe183db0d84c883422dc9b1f3e",
+    "client_seed": "1790023530216",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125027,
+    "max_tickets": 499999,
+    "combined_hash": "5aec18395c2f18af12df267ca2781f698bc4a85a9a234201e070390104dd9037",
+    "result": "436598",
+    "external_round_id": "32406724",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T20:45:30.000000Z",
+    "revealed_at": "2026-09-21T20:45:36.000000Z"
+}
