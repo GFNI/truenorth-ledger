@@ -1,0 +1,22 @@
+{
+    "round_id": "980f2ff7-94ef-40fd-998f-cdf556afa60b",
+    "draw_title": "King Kong's Loot Boxes",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/king-kongs-loot-boxes",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "35a192cd86058f6e1203079c5c8cfb052ab634ae120fc9e861c66080fca51691",
+    "drand_seed_hash": "a6c0d20c185cc9816fb3fd7b9e36c213d1c82b2b77bcd029a985bfcb4f6e14699cf81836361823e13c253bf2034d0947",
+    "client_seed": "1790028610173",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2218,
+    "max_tickets": 250000,
+    "combined_hash": "6e0b3915cec7d1102da72f7302827153799d4c4c5cede6c173d2cfd25c67426d",
+    "result": "60015",
+    "external_round_id": "32408417",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T22:10:10.000000Z",
+    "revealed_at": "2026-09-21T22:10:15.000000Z"
+}
