@@ -1,0 +1,22 @@
+{
+    "round_id": "8b2ad1e4-205d-4314-acaf-b6c12f407402",
+    "draw_title": "FARMAGGEDON 2026 💀🔥",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/farmaggedon-2026",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "eb6fcb05b23f4d9f1e805b8ec15bde1fca6248793d27bccd02eddc17ff3c3023",
+    "drand_seed_hash": "9583a65894cfcbcffab5efbe2162125bedd3bb0157061b34a6e19a503d1df61da5974e19ffa73876ccc745c2e4179e22",
+    "client_seed": "1790021337050",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600,
+    "max_tickets": 600,
+    "combined_hash": "375d6ad288f863f2d737fc1b7a4e4d329a5b4a9324abcb4421fb13b1d07ba76f",
+    "result": "240",
+    "external_round_id": "32405993",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T20:08:57.000000Z",
+    "revealed_at": "2026-09-21T20:09:03.000000Z"
+}
