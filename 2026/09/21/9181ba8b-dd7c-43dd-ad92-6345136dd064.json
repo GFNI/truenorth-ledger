@@ -1,0 +1,22 @@
+{
+    "round_id": "9181ba8b-dd7c-43dd-ad92-6345136dd064",
+    "draw_title": "⚡THE CHAOS RISING SET #2 ⚡",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/the-chaos-rising-set-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f72fac1992c0d4743c2a78f649bfd622dd71850868ec41453eb1e980a54e34eb",
+    "drand_seed_hash": "8a1c08669377758cc849deb802791e18ffd5237db9b746e00d370c71098efef3ac1bcd5d9976b4b1418aabc03ba1e6c6",
+    "client_seed": "1790017846899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 650,
+    "combined_hash": "709325a908739dec652fd5a39b852e8734320ffa03257192a0686277178bd804",
+    "result": "481",
+    "external_round_id": "32404830",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T19:10:46.000000Z",
+    "revealed_at": "2026-09-21T19:10:54.000000Z"
+}
