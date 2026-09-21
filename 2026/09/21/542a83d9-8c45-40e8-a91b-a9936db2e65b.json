@@ -1,0 +1,22 @@
+{
+    "round_id": "542a83d9-8c45-40e8-a91b-a9936db2e65b",
+    "draw_title": "2022 QUEEN ELIZABETH II MEMORIAL SILVER PROOF 50p",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2022-queen-elizabeth-ii-memorial-silver-proof-50p",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "267e210f0f49a731e2c4f59bf1e8952a2560c92863dc82047fe736fcb578e7b7",
+    "drand_seed_hash": "a77acf8d2d0715bad7a5aa5b1c95bb2096f42b8a377ac792d14cb4c4448f46eade28bf4202ffd336f80f8262ab4a8dc5",
+    "client_seed": "1790031318656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 100,
+    "combined_hash": "4d117b2979f070debd29548abfc509efdf8d2e1d5b9077de55fdde839ce0c553",
+    "result": "14",
+    "external_round_id": "32409320",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T22:55:18.000000Z",
+    "revealed_at": "2026-09-21T22:55:24.000000Z"
+}
