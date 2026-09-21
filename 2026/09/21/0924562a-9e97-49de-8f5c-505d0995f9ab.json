@@ -1,0 +1,22 @@
+{
+    "round_id": "0924562a-9e97-49de-8f5c-505d0995f9ab",
+    "draw_title": "The Mini £5 Gamble",
+    "competition_url": "https://chaotic.co.uk/competition/the-mini-ps5-gamble-8657",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "4d252eb299b76f18ff9579f0c7fa15cad9978d18ecd4a92dea2358be436d6819",
+    "drand_seed_hash": "8ecce7e8ebc571a88f813e1547345a029a0a5b3d03b4cb6ffc06f52b7f174f29ba9af7274fd362a4afb422010987a9c0",
+    "client_seed": "1790019945521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "baecaa949cb90a9b6fbbf25de7809fc8d4f209d7f1508801531c9cc2deac28e8",
+    "result": "1691",
+    "external_round_id": "32405529",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T19:45:45.000000Z",
+    "revealed_at": "2026-09-21T19:45:51.000000Z"
+}
