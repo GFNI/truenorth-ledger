@@ -1,0 +1,22 @@
+{
+    "round_id": "fb488cb2-fadf-46be-bc70-022cfaa0bfee",
+    "draw_title": "🪙 Kayla's Cash Cow Instant Wins 🪙",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/kaylas-cash-cow-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0cb963d4cc59166152db2b1bbb446fbdfe181e555fa92a59f6a8dcdc48cb6e42",
+    "drand_seed_hash": "a87f9c2736b82cdcd26a508c13419cd27655d789b0cb1a2a466bc04892b9d30b5f50824fb87d851d43cdf48b039110f8",
+    "client_seed": "1790025064821",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 217502,
+    "max_tickets": 945000,
+    "combined_hash": "24a5d4558d4db1032b507d53d33f76cbac1f4e691190522ce844b13b380daf88",
+    "result": "764269",
+    "external_round_id": "32407236",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T21:11:04.000000Z",
+    "revealed_at": "2026-09-21T21:11:12.000000Z"
+}
