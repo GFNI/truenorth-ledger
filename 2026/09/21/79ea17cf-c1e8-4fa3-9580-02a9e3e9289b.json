@@ -1,0 +1,22 @@
+{
+    "round_id": "79ea17cf-c1e8-4fa3-9580-02a9e3e9289b",
+    "draw_title": "Marshmallow Bed & Mattress or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/marshmallow-bed-mattress-or-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "35c108333cd0a943408e5b2c95c83785f764f847e1c6fa2ab23ec3f10ae3f034",
+    "drand_seed_hash": "aab97628ed634a6deee38328b7f3d9cc5dddfcad024d8fbdb29d9fbf0777ee8605389d8836ed6780137f15c4c1b3d29a",
+    "client_seed": "1790020052423",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2812,
+    "max_tickets": 3499,
+    "combined_hash": "eabdfa45d7be976a6c1f0670216e9e49e5d3e05a55dedffddd3e2fb9e42779b7",
+    "result": "2564",
+    "external_round_id": "32405565",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T19:47:32.000000Z",
+    "revealed_at": "2026-09-21T19:47:39.000000Z"
+}
