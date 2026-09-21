@@ -1,0 +1,22 @@
+{
+    "round_id": "a13ace2d-2418-49ea-b239-eb49b028ea2e",
+    "draw_title": "The Chosen Box",
+    "competition_url": "https://jetcomps.co.uk/admin/products/the-chosen-box",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "aa090c28519a342465e2e6142cf2cb4b1c916d5f4cfb331da505923bbd6b58da",
+    "drand_seed_hash": "93ff9e1debe15edce27f7ec97ade2f334de8cd1079da21607456f60616f4cd8b711a59b96e5554d153b0c3ca2eeaed8b",
+    "client_seed": "1790017818860",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47613,
+    "max_tickets": 83250,
+    "combined_hash": "32c4ec4354e95dcf374e3537143cb9bb811bc5404ca2f723af9a709637486b6b",
+    "result": "64195",
+    "external_round_id": "32404820",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T19:10:18.000000Z",
+    "revealed_at": "2026-09-21T19:10:24.000000Z"
+}
