@@ -1,0 +1,22 @@
+{
+    "round_id": "5da46837-47ac-4afa-8c4b-251928663387",
+    "draw_title": "Shark's Slots - 27 instants & £777 main prize",
+    "competition_url": "https://giveawaycompetition.com/admin/products/sharks-slots",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "dde8c36600cfed6166ede6f4df1c5cfdca9765057137b944755e41cf122a4b23",
+    "drand_seed_hash": "a056e88585663a24bd2d6b924cbeba0ab230051e2347debcba0e8f1e8c33c4be4e3b97a8200604f1d36ece5854b60ad0",
+    "client_seed": "1790024128687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5618,
+    "max_tickets": 33333,
+    "combined_hash": "735f7a1942e47f8496a652c0e9b30cbf263d9787a3421f566488ba4eece4d385",
+    "result": "21169",
+    "external_round_id": "32406924",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T20:55:28.000000Z",
+    "revealed_at": "2026-09-21T20:55:36.000000Z"
+}
