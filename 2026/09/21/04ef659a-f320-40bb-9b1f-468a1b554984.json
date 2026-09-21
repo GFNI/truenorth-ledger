@@ -1,0 +1,22 @@
+{
+    "round_id": "04ef659a-f320-40bb-9b1f-468a1b554984",
+    "draw_title": "PLINKO 5000",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/plinko-5000",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "4519c4fd17833b48ae36307e5755afdc28c9c8f5be7d04486a453a963968c801",
+    "drand_seed_hash": "b91e75b5c1d68e1e07b360fa9a69853f6723d9f7982a871f9f98fb9bb46fb0ba91fa5b0da96d4d09c76f443f7faf2d06",
+    "client_seed": "1790021564212",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1375,
+    "max_tickets": 10000,
+    "combined_hash": "9d75029de2c003e42e6104c60ba58a88392eab3ab420d8dad7ead8109c247d8b",
+    "result": "4094",
+    "external_round_id": "32406069",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T20:12:44.000000Z",
+    "revealed_at": "2026-09-21T20:12:51.000000Z"
+}
