@@ -1,0 +1,22 @@
+{
+    "round_id": "ebdf6aa5-b90b-449b-8f64-a30dbdf44b61",
+    "draw_title": "Rolex GMT Master II Ticket Bundles",
+    "competition_url": "https://proprizes.co.uk/admin/products/rolex-gmt-master-ii-ticket-bundles",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "866765da146c7f08df544c004f1852386fb990a721d547f9878a6953dbd926fd",
+    "drand_seed_hash": "964cf75123f4c492b88b7eb2ddf18c7e947879a9ab6244ed60b6997bae2748d718cb9c76d3c43a9ebf868bda80820495",
+    "client_seed": "1789989021515",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7315,
+    "max_tickets": 200000,
+    "combined_hash": "3b84b49eb306aa38ebba5f35c53fc0b28fd7e04c1c9a5126aa768cc5cc9343e6",
+    "result": "30460",
+    "external_round_id": "32395221",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T11:10:21.000000Z",
+    "revealed_at": "2026-09-21T11:10:27.000000Z"
+}
