@@ -1,0 +1,22 @@
+{
+    "round_id": "d3f575ff-65d7-4bbf-88af-e80ba32ed26b",
+    "draw_title": "D-DAY 80TH ANNIVERSARY 5oz SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/d-day-80th-anniversary-5oz-silver-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "78c05bebb0fcbc6d125cfa36149719c93380c6ad5cb4848ce8da7d30b6c82aa2",
+    "drand_seed_hash": "abcaa7491cec0f15cc4eb6d29846d42125e0410871565ba4e7bc355f08c9a7a2e08e5bcb599dc5d7f25434e9199ec997",
+    "client_seed": "1790031310121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 566,
+    "max_tickets": 800,
+    "combined_hash": "8d41c5b740126ff6bcd34d9509d920df7ee7a0529680d61b2c654667076445f6",
+    "result": "302",
+    "external_round_id": "32409318",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T22:55:10.000000Z",
+    "revealed_at": "2026-09-21T22:55:18.000000Z"
+}
