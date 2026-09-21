@@ -1,0 +1,22 @@
+{
+    "round_id": "2d1d131c-94b4-46ad-bc69-65ee6cae6e94",
+    "draw_title": "🎩 That's Magic - £500 Main Draw + Instant Wins up to £1500",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/thats-magic-ps500-main-draw-instant-wins-up-to-ps1500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "268070eaed9aa260ae5a57eb4608f07b5d9d764eaf2200436a2cc5bcb2abb3a6",
+    "drand_seed_hash": "87fbf0e609fe0dc3624aa41dba7f1b2a080bdd98ff0869b9a2eca234630edb7fb5b05420fad63cfadd047cc7c19cac8f",
+    "client_seed": "1790019154178",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63367,
+    "max_tickets": 171428,
+    "combined_hash": "0332ede6df3e2a08fa63b5ba0185475889e2fcd8680ff3c11df029e4a31ba060",
+    "result": "31716",
+    "external_round_id": "32405265",
+    "processing_status": "completed",
+    "created_at": "2026-09-21T19:32:34.000000Z",
+    "revealed_at": "2026-09-21T19:32:39.000000Z"
+}
