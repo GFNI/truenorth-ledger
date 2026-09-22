@@ -1,0 +1,22 @@
+{
+    "round_id": "1cb71afe-6823-42c2-8383-09ad091f429e",
+    "draw_title": "WHACK-A-MOLE £1,500 CASH FOR 3P WIN UP TO £2.5K!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/whack-a-mole-ps1500-cash-for-3p-win-up-to-ps25k",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "601f6e6eb1befe67d31d5587e16806b5ce12278fc3dc6da82be6707d5a7d29de",
+    "drand_seed_hash": "99aabea7003d14f0f056fa458965c8af556ae110dbbfa4f0fc40f3da6af82e1ed203992a886fc82b8ecf9b6a8939bacf",
+    "client_seed": "1790105327178",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 144738,
+    "max_tickets": 1750000,
+    "combined_hash": "a17e086b0b420a61aead73b1951e91cc38e4975e8639bc215506c590c7f3802a",
+    "result": "218818",
+    "external_round_id": "32433990",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T19:28:47.000000Z",
+    "revealed_at": "2026-09-22T19:28:54.000000Z"
+}
