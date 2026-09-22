@@ -1,0 +1,22 @@
+{
+    "round_id": "0377f6c3-daae-45ee-92ea-8a1023cb47ce",
+    "draw_title": "💥🎃PUMPKIN POP! 🎃💥",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/pumpkin-pop",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "7e8509524b8198b44364e1867f93fab597700a669e6a798bb35b5fee253f64f5",
+    "drand_seed_hash": "996dfd1d976acca08bd8219b5a72fe34ea240d4fe0e8fe45dbafde9b8684d0b9930481ff82ffb78ab3276b7f0b217ac1",
+    "client_seed": "1790100707043",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72334,
+    "max_tickets": 199000,
+    "combined_hash": "e8584b9a1b298260b6bc4abc8a7d537499630fce0b4ea28e3642289515c50a5d",
+    "result": "37225",
+    "external_round_id": "32432450",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T18:11:47.000000Z",
+    "revealed_at": "2026-09-22T18:11:54.000000Z"
+}
