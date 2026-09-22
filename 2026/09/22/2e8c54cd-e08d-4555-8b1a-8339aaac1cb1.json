@@ -1,0 +1,22 @@
+{
+    "round_id": "2e8c54cd-e08d-4555-8b1a-8339aaac1cb1",
+    "draw_title": "WIN AN IPAD AIR 13” FOR JUST 10P!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/win-an-ipad-air-13-for-just-10p",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "b71d192d8831ec2c4d8e647ac7b15d06500aad63c1f22453f5014c7a168d0ef3",
+    "drand_seed_hash": "87f6869fd2673ff56e47be2202bb84f77ae32de8f444a2a6c0a6bf54349a6b72b7643587acfb4c24e44e99dc8e368bf3",
+    "client_seed": "1790105091310",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2085,
+    "max_tickets": 20000,
+    "combined_hash": "adad8a8814680928595b227fde35f9bf70d37cfc81ebcb90502ec5194628215f",
+    "result": "9806",
+    "external_round_id": "32433911",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T19:24:51.000000Z",
+    "revealed_at": "2026-09-22T19:24:57.000000Z"
+}
