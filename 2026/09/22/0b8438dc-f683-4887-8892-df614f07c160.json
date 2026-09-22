@@ -1,0 +1,22 @@
+{
+    "round_id": "0b8438dc-f683-4887-8892-df614f07c160",
+    "draw_title": "20 X ENTRIES - WIN £100 A DAY IN OCTOBER + 3K INSTANTS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/20-x-entries-win-ps100-a-day-in-october-3k-instants-3",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e0a5091bc9608908598f6ca1513f4d7323ab920e337d3def1cfc9fb93c6b23f8",
+    "drand_seed_hash": "ac25761c27555740f58db6fccbe0677575a73e376660fef036a34a3d16eed67b73df8533ce61e5c2db4ea101d6cdbd07",
+    "client_seed": "1790111464359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1229,
+    "max_tickets": 1999,
+    "combined_hash": "d7aeb87c76e8af6fd52ef13b58e823978040d5357e9006e3276618fc5166fc3d",
+    "result": "930",
+    "external_round_id": "32436036",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T21:11:04.000000Z",
+    "revealed_at": "2026-09-22T21:11:12.000000Z"
+}
