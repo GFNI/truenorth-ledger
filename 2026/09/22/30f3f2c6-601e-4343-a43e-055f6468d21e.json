@@ -1,0 +1,22 @@
+{
+    "round_id": "30f3f2c6-601e-4343-a43e-055f6468d21e",
+    "draw_title": "🧛 FANGTASTIC FOURS! INSTANT WIN 🧛(AUTODRAW)",
+    "competition_url": "https://easypeasyprizes.com/admin/products/fangtastic-fours-instant-win-autodraw",
+    "operator": {
+        "name": "EASY PEASY PRIZES LTD",
+        "website": "https://easypeasyprizes.com",
+        "company_number": "SC747746"
+    },
+    "drand_server_seed": "a45ae81be3e6a0a6556a8309bdfcd6ab24c1b2ed70b2549dfe785001ec1610df",
+    "drand_seed_hash": "82f9c3e07c26396d9af8446e6d6f5b062da00a5ed442232296def3000df2881b25ac5dc8502176a3a16cf8a68181cffc",
+    "client_seed": "1790082648631",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100287,
+    "max_tickets": 600000,
+    "combined_hash": "babef431688afc6294fb89eac396a5f8ad42fb99dc11e192cbf352276e8e7e19",
+    "result": "523195",
+    "external_round_id": "32426430",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T13:10:48.000000Z",
+    "revealed_at": "2026-09-22T13:10:54.000000Z"
+}
