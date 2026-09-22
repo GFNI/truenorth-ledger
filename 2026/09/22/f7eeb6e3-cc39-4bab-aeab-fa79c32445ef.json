@@ -1,0 +1,22 @@
+{
+    "round_id": "f7eeb6e3-cc39-4bab-aeab-fa79c32445ef",
+    "draw_title": "2024 KING CHARLES III SHIELD BACK GOLD HALF SOVEREIGN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-king-charles-iii-shield-back-gold-half-sovereign",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "cc5cbda58eb7c411d321f192a6e9e83bfa41b9456d79a21d7fb9f8d36e4d6763",
+    "drand_seed_hash": "ae0913861a910e8c092da6cbe0cb5288da26cff474b5fffaa4248b346bef8356f6b733fc9d337424c97a3c93226c72cd",
+    "client_seed": "1790107575899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 546,
+    "max_tickets": 1000,
+    "combined_hash": "6b429b96e227d8e632cc9245ffe2b2fa38aa9a4943bb99305641c7929c9a4788",
+    "result": "484",
+    "external_round_id": "32434739",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T20:06:15.000000Z",
+    "revealed_at": "2026-09-22T20:06:21.000000Z"
+}
