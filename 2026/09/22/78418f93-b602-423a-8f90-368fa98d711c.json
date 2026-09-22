@@ -1,0 +1,22 @@
+{
+    "round_id": "78418f93-b602-423a-8f90-368fa98d711c",
+    "draw_title": "Buster's Mystery Treasure - Find The Mystery Chest. Win Up To £2000",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-mystery-treasure-find-the-mystery-chest-win-up-to-ps2000-2",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "0d1246efa97d47676363cbd0d58fdce3bcdfdadae94a90bc8e821251223dab5c",
+    "drand_seed_hash": "95e911d940aa441c8ce220ac0f79d7cadb8ca976fcf8d92696f7459333932e0d90e138a6004f590bdc062935bbec4bfe",
+    "client_seed": "1790104499794",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32832,
+    "max_tickets": 215500,
+    "combined_hash": "ea7328b1708c7e7e76235828d51c3378bc4e09d8f7f6cd997d85d7ddedeb75de",
+    "result": "42347",
+    "external_round_id": "32433714",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T19:14:59.000000Z",
+    "revealed_at": "2026-09-22T19:15:06.000000Z"
+}
