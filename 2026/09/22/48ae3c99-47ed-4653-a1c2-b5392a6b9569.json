@@ -1,0 +1,22 @@
+{
+    "round_id": "48ae3c99-47ed-4653-a1c2-b5392a6b9569",
+    "draw_title": "👻HALLOWSPINZ👻",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/hallowspinz",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "d9bf507f1036be2968f10375d6b6385b44d5a630b6eefb4940403bef2482d977",
+    "drand_seed_hash": "83e1b07e2c5906f9b7d10a4ea3d94ad8db220fcf06928327286a2c8496bfa044a61943a67e958730e03a7d0b32771046",
+    "client_seed": "1790100625170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4999,
+    "max_tickets": 15000,
+    "combined_hash": "dae65638ef420a4b2edc87c0602be8ae7c24e0fc302f174cb63bd12e34845f11",
+    "result": "9291",
+    "external_round_id": "32432423",
+    "processing_status": "completed",
+    "created_at": "2026-09-22T18:10:25.000000Z",
+    "revealed_at": "2026-09-22T18:10:33.000000Z"
+}
