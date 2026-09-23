@@ -1,0 +1,22 @@
+{
+    "round_id": "c4a26284-05bd-4408-b301-dbb75524a6ff",
+    "draw_title": "Holey Moley",
+    "competition_url": "https://ogcompetitions.co.uk/lists/holey-moley-4-x-winners-of-ps123-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "ba1f17649809a6474f1c10654ae284e000030bc21319b185f4015edc0544d806",
+    "drand_seed_hash": "a16cae96fd545251c4c83246f47b20f4d49cb7af9dda5bf3df9de8a0b96a700808672a042bb6eb288b8aa642f8284372",
+    "client_seed": "1790198464912",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 272800,
+    "combined_hash": "746a3183dac065049df34123b3c5ea9fed8ded58a4f0870cee6eb76d1db79179",
+    "result": "103413",
+    "external_round_id": "32465036",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T21:21:05.000000Z",
+    "revealed_at": "2026-09-23T21:21:14.000000Z"
+}
