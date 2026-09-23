@@ -1,0 +1,22 @@
+{
+    "round_id": "2f11c3f1-bf12-404a-860a-cdc1a2091037",
+    "draw_title": "Alien Invasion",
+    "competition_url": "https://chaotic.co.uk/competition/alien-invasion-5587",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "daa1d0a6cdb32b4c878d80c8710626c106902fe22875669657810fb299a27f0e",
+    "drand_seed_hash": "a11634053302ea0f3e81ff9ab47a4126ed4ac844f3faf10c0bddb22e3ea07ba3628c5db7d10058595004d91504679684",
+    "client_seed": "1790192506120",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150000,
+    "max_tickets": 150000,
+    "combined_hash": "cf218adc11c16e4c417ac2e30960422ceddf00ec278cd3cae9312d0b0e657b30",
+    "result": "140144",
+    "external_round_id": "32463050",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:41:46.000000Z",
+    "revealed_at": "2026-09-23T19:41:54.000000Z"
+}
