@@ -1,0 +1,22 @@
+{
+    "round_id": "65d24dac-aaf1-45aa-9e3c-a020e7058749",
+    "draw_title": "Monkey Business - 100x £500 Instant Wins",
+    "competition_url": "https://proprizes.co.uk/admin/products/monkey-business-100x-ps500-instant-wins",
+    "operator": {
+        "name": "Pro Prizes Ltd",
+        "website": "https://proprizes.co.uk",
+        "company_number": "16123134"
+    },
+    "drand_server_seed": "6cb3375364b3f09b6a7266149b32e26fe69551cbccb91d3134567c351615456e",
+    "drand_seed_hash": "81e69b5113aa5d0a6fa9f02edfc036e49377f65d68af45381283d945d0ad470013248fd7abf951e592e7ef11f12d6529",
+    "client_seed": "1790161836904",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6145,
+    "max_tickets": 45000,
+    "combined_hash": "1b607a70d42eef1107279dfa4ea3dd8d938cc87f6227bb8cd1483f9c63f11235",
+    "result": "38188",
+    "external_round_id": "32452826",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T11:10:36.000000Z",
+    "revealed_at": "2026-09-23T11:10:42.000000Z"
+}
