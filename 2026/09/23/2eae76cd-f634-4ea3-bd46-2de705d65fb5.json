@@ -1,0 +1,22 @@
+{
+    "round_id": "2eae76cd-f634-4ea3-bd46-2de705d65fb5",
+    "draw_title": "Full of £500s",
+    "competition_url": "https://chaotic.co.uk/competition/full-of-ps500s-4772",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "78d945a1dd4944f1777c966dcc459676e7e0d00a9aed9ba556cf04dc97d98d01",
+    "drand_seed_hash": "89c4f6eed4f5a685f71f825fa1bcf78bb3ce502d72505e2e9f58d444a79e59d1bca9f54e5a09e7dcb3967269fca53a3a",
+    "client_seed": "1790192371442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "4dfadb3bac9b0ac46f765bcf7c459575fa9eced2c1543059fab4aea4aaa2a915",
+    "result": "2206",
+    "external_round_id": "32463005",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:39:31.000000Z",
+    "revealed_at": "2026-09-23T19:39:39.000000Z"
+}
