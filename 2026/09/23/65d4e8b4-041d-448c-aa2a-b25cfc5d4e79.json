@@ -1,0 +1,22 @@
+{
+    "round_id": "65d4e8b4-041d-448c-aa2a-b25cfc5d4e79",
+    "draw_title": "DEAL OR NO DEAL - ROUND 3 - JACKPOT £1500",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/deal-or-no-deal-round-3-jackpot-ps1500",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7e747d8f10a7710076fafacdd4ed258655ff5f20c2f067c728d87edd30ebefde",
+    "drand_seed_hash": "b78826e5886a4fced535f889205446daf28b7e59e8d51676f8b066a33470c17e323170352d91b44f83c9f252b4e91e7f",
+    "client_seed": "1790176540773",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2420,
+    "max_tickets": 10000,
+    "combined_hash": "3670436eea71a45474a8a98f2fe39b0dd45d0a641a78d4126033a21a20268e1e",
+    "result": "3399",
+    "external_round_id": "32457728",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T15:15:40.000000Z",
+    "revealed_at": "2026-09-23T15:15:48.000000Z"
+}
