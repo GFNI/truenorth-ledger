@@ -1,0 +1,22 @@
+{
+    "round_id": "99d85a10-96bd-43db-b03a-b810ae0cde09",
+    "draw_title": "🟡 PAC-MAN CASH - £20,000 Prize Pot",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/pac-man-cash-ps20000-prize-pot",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "9c1810f0e3e7625e1c95d4a1ff805043c9ebba97c60f44cf656df69d26373cdc",
+    "drand_seed_hash": "8450d3f8f47c3350cc733d399d04f3aa8a23926960368c3a2f62181cccce821a706de9442cafa389c1293a4eb2736304",
+    "client_seed": "1790192175920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25051,
+    "max_tickets": 210000,
+    "combined_hash": "b365781d4b732b7dba50121bcc6f5a3d9c39ff2dfec2334448aed8c1f3db746f",
+    "result": "89620",
+    "external_round_id": "32462939",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:36:15.000000Z",
+    "revealed_at": "2026-09-23T19:36:21.000000Z"
+}
