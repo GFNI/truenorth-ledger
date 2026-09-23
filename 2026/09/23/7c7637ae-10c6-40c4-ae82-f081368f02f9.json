@@ -1,0 +1,22 @@
+{
+    "round_id": "7c7637ae-10c6-40c4-ae82-f081368f02f9",
+    "draw_title": "2 TICKETS TO BSB FINALE IN BRANDS HATCH PLUS SUNDAY HOSPITALITY",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/2-tickets-to-bsb-finale-in-brands-hatch-plus-sunday-hospitality",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "f25ecad6ffb30a22f5fbf4eec63b716ab63a406de966417ff630d8e3db4fc0cb",
+    "drand_seed_hash": "a567bb2f61bad10c8ba41274e770ea4254dd6cac8ed9e555e55cf91a13fcc821ce9f17506d6afde9055e5bdb3cf5582e",
+    "client_seed": "1790194289116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "62d7e4eb351240da1f2c8f69930b6632b8188914fe7800a07abaa1fefaa7d04d",
+    "result": "107",
+    "external_round_id": "32463644",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T20:11:29.000000Z",
+    "revealed_at": "2026-09-23T20:11:36.000000Z"
+}
