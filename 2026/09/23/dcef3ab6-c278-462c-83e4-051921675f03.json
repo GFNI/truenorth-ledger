@@ -1,0 +1,22 @@
+{
+    "round_id": "dcef3ab6-c278-462c-83e4-051921675f03",
+    "draw_title": "Win A Lego Wolverine Adamantium Claws",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/legoclaws",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "f196a9dc12289b475a406b5f532b33551cda1e8f053d920663b4f65969142f05",
+    "drand_seed_hash": "92521dd05169f1f02d0bcffe3bccf3be3d8abb837bf435af63261d67c4cf44aa819afc9831c2dc332cc7c47385c8a390",
+    "client_seed": "1790192219137",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "5617604a98f9388ef36136c38b7ea340f5479f29f034859968f5e4dce000b189",
+    "result": "1415",
+    "external_round_id": "32462954",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:36:59.000000Z",
+    "revealed_at": "2026-09-23T19:37:06.000000Z"
+}
