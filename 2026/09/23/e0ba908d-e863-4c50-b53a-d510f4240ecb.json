@@ -1,0 +1,22 @@
+{
+    "round_id": "e0ba908d-e863-4c50-b53a-d510f4240ecb",
+    "draw_title": "Pop the Balloon!!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/pop-the-balloon",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "386577bb6ca864c3d6334dac61223f4b2e46475e7cf8eb7d35c60f57606e7007",
+    "drand_seed_hash": "9313983eae610ef5cc4963ce772bca0eb4ab48ca04dbfcdb89ded0cc1630d8c8b66dca8c15c7da00ed8c6df2e467982f",
+    "client_seed": "1790192692441",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6864,
+    "max_tickets": 11999,
+    "combined_hash": "1b698510fe732e8c541f3556eef648742ca6ac8a7eaf8687edabc1ec14885193",
+    "result": "1752",
+    "external_round_id": "32463112",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:44:52.000000Z",
+    "revealed_at": "2026-09-23T19:45:00.000000Z"
+}
