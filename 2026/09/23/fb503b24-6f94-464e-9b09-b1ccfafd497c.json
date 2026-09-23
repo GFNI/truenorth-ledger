@@ -1,0 +1,22 @@
+{
+    "round_id": "fb503b24-6f94-464e-9b09-b1ccfafd497c",
+    "draw_title": "Box of Tunnocks Tea Cakes!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/box-of-tunnocks-tea-cakes-4",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "7d4e3d08554a08a4d3ee11f652499c1159828d5bba7dfca8a77fa782fa44ae19",
+    "drand_seed_hash": "aa6a75d6b90c03ea27e5a79c8b51c6717cea6c605bee3c3610486400e31a0b4ef07c5a9f1f8cedf22700ac9866e57ffd",
+    "client_seed": "1790191125124",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 84,
+    "max_tickets": 250,
+    "combined_hash": "45699b4db2289ecfc20fb0b53322fab847df592d4fe086015285d712293d559f",
+    "result": "162",
+    "external_round_id": "32462589",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:18:45.000000Z",
+    "revealed_at": "2026-09-23T19:18:51.000000Z"
+}
