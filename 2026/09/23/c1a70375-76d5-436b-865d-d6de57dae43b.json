@@ -1,0 +1,22 @@
+{
+    "round_id": "c1a70375-76d5-436b-865d-d6de57dae43b",
+    "draw_title": "£3,000 cash plus 10 x £300 instant wins",
+    "competition_url": "https://easybigwins.co.uk/admin/products/3k",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "f5e4932160c25a5fb2cf81ad132c3b0082f3e47b66c62051a5925c0cf0a9f7bd",
+    "drand_seed_hash": "b53a8372540f88f60798e6dc425e908b8ec3e0bb957777684b3dfd20ea6144721dc37964c5bd5c1aa7b0fe69ade26d9c",
+    "client_seed": "1790195760498",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 186755,
+    "max_tickets": 400000,
+    "combined_hash": "1cb5fd3234002d4afa7a5aec949c12d0192842df6dbaad00ecd5808be9564f61",
+    "result": "287773",
+    "external_round_id": "32464134",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T20:36:00.000000Z",
+    "revealed_at": "2026-09-23T20:36:06.000000Z"
+}
