@@ -1,0 +1,22 @@
+{
+    "round_id": "a5f2b211-a83f-4308-9236-d481a0154788",
+    "draw_title": "Rhinos Rising",
+    "competition_url": "https://chaotic.co.uk/competition/rhinos-rising-6308",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "dcc1e3f8a266eecee4e610bec87bea8c678508ff0c26d62ad9710fc6ea82d5f1",
+    "drand_seed_hash": "a0c2b2d80426ee3301dd8203cceca8db2a4618650cf1e86231e7624931cfc318e8b53c00c9018854614654b22284b636",
+    "client_seed": "1790192411945",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25000,
+    "max_tickets": 25000,
+    "combined_hash": "1efebe38c7abab204ab827a9abd509dfb00048bd11f66bcaf0a7ce5230c8568c",
+    "result": "15991",
+    "external_round_id": "32463018",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:40:11.000000Z",
+    "revealed_at": "2026-09-23T19:40:18.000000Z"
+}
