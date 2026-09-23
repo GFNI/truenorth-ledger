@@ -1,0 +1,22 @@
+{
+    "round_id": "41cc3d6d-0d4a-4dbf-9449-072cf3c56800",
+    "draw_title": "£300,000 INSTANT TAKEOVER - MASSIVE INSTANT WINS",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps300000-instant-takeover-massive-instant-wins",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "7c90d9f8454e3e88f87fd80cfd3dd842aff7965fbab4187859675b45fdbef3e4",
+    "drand_seed_hash": "b9845848202e3a6992dee61e8b5d74f7d9a1a3a0f45ac82abe5a725c0a3b5363690703550dea561b4ccfc90230c3a89b",
+    "client_seed": "1790193344735",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3321,
+    "max_tickets": 350000,
+    "combined_hash": "45d017da65b60baafcb4ef85ecab41d3510cd3955d92e406da55ed6771df0d7f",
+    "result": "93734",
+    "external_round_id": "32463329",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:55:44.000000Z",
+    "revealed_at": "2026-09-23T19:55:51.000000Z"
+}
