@@ -1,0 +1,22 @@
+{
+    "round_id": "df9403e9-0610-4130-876c-3ffdc751be82",
+    "draw_title": "Win £25 worth of tickets into Hayes Bivvy Heater - 5p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-hayes-bivvy-heater-5p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "bca3b62c5555d17eec17ab7c13e3118c4c138a8b52edf5c57bee0fedea8d9ef4",
+    "drand_seed_hash": "82126c64601445cdcce714cde6eb506b65b90dde8ef01266d17eb6193f7a7eeaf75f889e77b206d94959740fda7b447e",
+    "client_seed": "1790183475878",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 450,
+    "max_tickets": 700,
+    "combined_hash": "5d597d8677355c23e8589822575ef0e29ffe583275a231754682772c5fdfbee9",
+    "result": "22",
+    "external_round_id": "32460039",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T17:11:15.000000Z",
+    "revealed_at": "2026-09-23T17:11:21.000000Z"
+}
