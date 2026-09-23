@@ -1,0 +1,22 @@
+{
+    "round_id": "abddcaf5-05a0-4293-be76-3c23f27c89b3",
+    "draw_title": "The New Bigger Plinko Ball Drop",
+    "competition_url": "https://ecnicompetitions.com/admin/products/the-new-bigger-plinko-ball-drop",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "4915c42dbb39e3b9467cdb92f01815d159ab339fb12c60f54ec683131e92d150",
+    "drand_seed_hash": "ac0040929759c79dda039a8bae8baeb88a3e82d8b5be9bb0144f1a2573c7e943acdc0c20fa451fe6d84a5fac1aa03355",
+    "client_seed": "1790190979518",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4046,
+    "max_tickets": 10999,
+    "combined_hash": "a2124af1a8c1bfdb96540764b994c06eb4a5641c4638bc3e8964deb775df6e4e",
+    "result": "3539",
+    "external_round_id": "32462541",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:16:19.000000Z",
+    "revealed_at": "2026-09-23T19:16:27.000000Z"
+}
