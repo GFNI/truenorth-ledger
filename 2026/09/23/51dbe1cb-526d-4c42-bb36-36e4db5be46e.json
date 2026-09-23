@@ -1,0 +1,22 @@
+{
+    "round_id": "51dbe1cb-526d-4c42-bb36-36e4db5be46e",
+    "draw_title": "FAST AND FAMOUS 7'S - BIG PRIZE INSTANT WINNER",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/fast-and-famous-7s-big-prize-instant-winner",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "e3dbfe3b406a9ad353b1c78118ca1170ca626b6b8aa7d69a8889394ea7831e1e",
+    "drand_seed_hash": "a2151c497c3170baa70b790edb9d330917fd60928f39191419452759224186d100ac041eb73e9386cc8d32e81ddfa0f4",
+    "client_seed": "1790193512815",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143317,
+    "max_tickets": 290000,
+    "combined_hash": "7ec4abee6895cd645dfa6ee52df248c9818975550fe6f6d0bb95156bd47b6674",
+    "result": "204367",
+    "external_round_id": "32463385",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:58:32.000000Z",
+    "revealed_at": "2026-09-23T19:58:39.000000Z"
+}
