@@ -1,0 +1,22 @@
+{
+    "round_id": "fa7dc3b1-34df-49a7-9a41-645b9b21dc8b",
+    "draw_title": "✉️ Break The Seal - £1000 Main Draw + instawins up to £1000",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/break-the-seal-ps1000-main-draw-instawins-up-to-ps1000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "691bb47c5300b706cbe9d5c39949c6da2e8dd0c164aa6f82919e370686d30f58",
+    "drand_seed_hash": "92b0112b1319f67ee120689771b39ee2444cc3827c67cc46aa98f8a61e4720d5a18c105de964c44db5167af909dea259",
+    "client_seed": "1790192076856",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2167345,
+    "max_tickets": 4000000,
+    "combined_hash": "3c93576d186360734fcce71e345dfebe4808a87b4fa45f230ff05add54d0e1d1",
+    "result": "2455869",
+    "external_round_id": "32462906",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:34:36.000000Z",
+    "revealed_at": "2026-09-23T19:34:42.000000Z"
+}
