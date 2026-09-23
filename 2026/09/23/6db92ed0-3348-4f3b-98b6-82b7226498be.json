@@ -1,0 +1,22 @@
+{
+    "round_id": "6db92ed0-3348-4f3b-98b6-82b7226498be",
+    "draw_title": "£2000 CASH LOW ODDS JUST 999 TICKETS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/ps2000-cash-low-odds-just-999-tickets",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "ecc8ca1d14d384d82042dab539f701c4c3e334de8f8a9bc1beb1746ebfec64ee",
+    "drand_seed_hash": "8885a191e881e80d7bd1b2ba4b02c64faa70993a22279250b0094ebe137702a93080ab3bfabe6e3b21ccd569e5a4c411",
+    "client_seed": "1790194257651",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 445,
+    "max_tickets": 999,
+    "combined_hash": "81426707d6113583b0738148682e129baf4d3fd8577467003706547af15bff14",
+    "result": "78",
+    "external_round_id": "32463633",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T20:10:57.000000Z",
+    "revealed_at": "2026-09-23T20:11:03.000000Z"
+}
