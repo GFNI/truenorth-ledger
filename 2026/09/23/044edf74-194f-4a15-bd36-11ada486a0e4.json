@@ -1,0 +1,22 @@
+{
+    "round_id": "044edf74-194f-4a15-bd36-11ada486a0e4",
+    "draw_title": "EVERYONES A WINNERRRRRR",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/everyones-a-winnerrrrrr",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "5db9e91e5976d2f6a4fe1c8af5dbe066ef964c2fcb039a4052df2f6f2f6e8e01",
+    "drand_seed_hash": "8788b7a3c2411d907994c140c76ab1d02e225ec2a1ab2988c9eae65848f8b6e5d1051d001f239afa3dab157c1f5855ec",
+    "client_seed": "1790193775897",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 371,
+    "max_tickets": 3559,
+    "combined_hash": "9f6632959fc1c0a4d25f263aaf83272aa6c67639576d75f69072ff4319e4b0a0",
+    "result": "3053",
+    "external_round_id": "32463473",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T20:02:55.000000Z",
+    "revealed_at": "2026-09-23T20:03:03.000000Z"
+}
