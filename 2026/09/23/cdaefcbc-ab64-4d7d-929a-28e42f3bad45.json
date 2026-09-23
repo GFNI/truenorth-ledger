@@ -1,0 +1,22 @@
+{
+    "round_id": "cdaefcbc-ab64-4d7d-929a-28e42f3bad45",
+    "draw_title": "SCOTCH n SCRATCH! SIGNET SPECIAL!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/scotch-n-scratch-signet-special-3",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "b8a6f76acda63926e7bccce95a69e90b2f32f8ee28ecacbc22ae3a1df8f9a9fd",
+    "drand_seed_hash": "8e162a3b601fa8dbcd4d50a79c76d9341ab1a9811d9127cdae59410beab48dc780c1781daa1b5a92d172765f77628db4",
+    "client_seed": "1790189411623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9005,
+    "max_tickets": 9999,
+    "combined_hash": "3f87c88fa5b56ec400ebd0d1a0105adddbe606e149b6e697b1c7cf8849e3ad0c",
+    "result": "4964",
+    "external_round_id": "32462018",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T18:50:11.000000Z",
+    "revealed_at": "2026-09-23T18:50:18.000000Z"
+}
