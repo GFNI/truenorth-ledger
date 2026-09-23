@@ -1,0 +1,22 @@
+{
+    "round_id": "5785df5d-e7f3-4690-b30c-14648e62f649",
+    "draw_title": "WIN £500 FOR 15P!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-ps500-for-15p",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "0341e3e1669789f649ca02aa53a013ba027a1b5879d73d2172aea975f5978ecc",
+    "drand_seed_hash": "8a1061bb641c7130d74a07696dbb6b0a7655b62ad69709b319291f944774757a6875c017284dd83f94f082435b8539b3",
+    "client_seed": "1790191018731",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2801,
+    "max_tickets": 6000,
+    "combined_hash": "f6a9774544d6a9e7a18bc394300be94667aa8d0a9de44e7626e22dcb2802fa6d",
+    "result": "199",
+    "external_round_id": "32462554",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:16:58.000000Z",
+    "revealed_at": "2026-09-23T19:17:06.000000Z"
+}
