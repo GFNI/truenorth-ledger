@@ -1,0 +1,22 @@
+{
+    "round_id": "49b3b7ce-d4d0-4393-822f-f4b6e1652c4e",
+    "draw_title": "🚗🧱 WIN 2 LEGO CAR SETS! 🧱🚗",
+    "competition_url": "https://hiphipprizehub.com/admin/products/win-2-lego-car-sets",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "e790ab87cfb2eb09e853d15daece95cd8558844aeb3097cd40742a7fcb91e8db",
+    "drand_seed_hash": "8dfcc78a50a514bddd040a82e4372f2fbe869c74146ad7a4e30a7bb4612dc581537e4ddf6a36ef3473ee469eab87f27a",
+    "client_seed": "1790191802364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "2d1dbd2066a9a6ab7716e541f7b084c16c358af586a9e2fa48e540f592a163e7",
+    "result": "86",
+    "external_round_id": "32462815",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:30:02.000000Z",
+    "revealed_at": "2026-09-23T19:30:09.000000Z"
+}
