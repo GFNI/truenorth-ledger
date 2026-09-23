@@ -1,0 +1,22 @@
+{
+    "round_id": "d9a9c719-77fe-4654-8a93-66498121a30c",
+    "draw_title": "Flamingo Frenzy ~ The Return 🦩",
+    "competition_url": "https://redlemonx.co.uk/admin/products/flamingo-frenzy-the-return",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "7bbda3b74a029eaf36af73f1065645a2f97979e93a7d01ac3135297761464319",
+    "drand_seed_hash": "b7856a70dc5501c90054bbde05295bcd0ad3e662bd22eefc826bc428016aca415ae4794a5c1a315e35b559dc8e3fec1a",
+    "client_seed": "1790190910334",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250000,
+    "max_tickets": 250000,
+    "combined_hash": "8d4811485b87bb52cdc07e10261575dbe658ed26d7dfe43c9655f3612c8bd6dd",
+    "result": "92238",
+    "external_round_id": "32462518",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:15:10.000000Z",
+    "revealed_at": "2026-09-23T19:15:18.000000Z"
+}
