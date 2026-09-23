@@ -1,0 +1,22 @@
+{
+    "round_id": "d74a1e15-5ebb-4235-8325-775cd65e7dc3",
+    "draw_title": "SMEG Kettle & Toaster (Cream set)",
+    "competition_url": "https://competitionsne.co.uk/admin/products/smeg-kettle-toaster-cream-set",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "ad311a993696b3008fae1763d405c1cdefdad55063621f49132b611b015ec838",
+    "drand_seed_hash": "8255bec1f93f671563f81dbdf9daa3f98e3b0747a42b7679d77a28724960b8271689fb81bbdea3807bcaf786850fac8e",
+    "client_seed": "1790191623877",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 526,
+    "max_tickets": 1600,
+    "combined_hash": "c573aa052327458efb1fce27fe27e27c2edaccf45b891ae5c4d73dfc9c889ca0",
+    "result": "838",
+    "external_round_id": "32462755",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:27:03.000000Z",
+    "revealed_at": "2026-09-23T19:27:09.000000Z"
+}
