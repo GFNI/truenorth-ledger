@@ -1,0 +1,22 @@
+{
+    "round_id": "09a54ddd-9d8e-4eeb-9932-cfd4adce5034",
+    "draw_title": "COSMIC CASH: £10K of Instant Wins!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/cosmic-cash-ps10k-of-instant-wins",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "074333809607a214e409e0639d4b53f64bf99a26054d9a13b8e463cef476fff1",
+    "drand_seed_hash": "b4053761b95ea122970c9880c22c98779405e67e8f9b21f4f6602fab5ffac4c99af07f71ead57bd66d29055b0caec37f",
+    "client_seed": "1790190933535",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20911,
+    "max_tickets": 34000,
+    "combined_hash": "036823be253dd434f85a65f63bdd3473e7db8dd9a78a960979dcaf57f036a9ac",
+    "result": "9428",
+    "external_round_id": "32462525",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:15:33.000000Z",
+    "revealed_at": "2026-09-23T19:15:39.000000Z"
+}
