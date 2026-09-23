@@ -1,0 +1,22 @@
+{
+    "round_id": "7d647f00-4952-413f-9bd1-e6dd188d803b",
+    "draw_title": "ONLY 15% Summer Special Profit Margin Bank Robbers!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/only-15-summer-special-profit-margin-bank-robbers",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "68f2ecccbeabf5e1de3020915fb5d5c9e238b7fe0f8373b6e6de060f029245cd",
+    "drand_seed_hash": "94d17407ff5bdd3285e9106e8cb2c8481a0ee0792b9931170a8e6ddb2ebd6be741c59d48920f48a35dbfc7878c463079",
+    "client_seed": "1790192610395",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 354228,
+    "max_tickets": 423999,
+    "combined_hash": "3ca2562bbddf4279176f7c9f8243db3a256b52102b167a5bfa7b11153ed2a858",
+    "result": "363631",
+    "external_round_id": "32463084",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:43:30.000000Z",
+    "revealed_at": "2026-09-23T19:43:36.000000Z"
+}
