@@ -1,0 +1,22 @@
+{
+    "round_id": "7c839db2-f336-4754-8fdc-267e42962d44",
+    "draw_title": "Money Mayhem!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/money-mayhem",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "661064a7bf412de164350040f4159b6a5fb923021edb9ab086faaff5c29b3578",
+    "drand_seed_hash": "b4e3fe549b44f7e2c325392c8231839eac4ab670c2a8b256a8aa7538942afb3fcfe0d4d2af2363639926637c05118f4f",
+    "client_seed": "1790192537868",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59621,
+    "max_tickets": 94999,
+    "combined_hash": "9e6d6123fa53cc811b19878a234cc8d50d0e74852f4ee48c898d864692eb1eb8",
+    "result": "33863",
+    "external_round_id": "32463060",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:42:17.000000Z",
+    "revealed_at": "2026-09-23T19:42:24.000000Z"
+}
