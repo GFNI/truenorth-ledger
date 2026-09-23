@@ -1,0 +1,22 @@
+{
+    "round_id": "521571b1-5b20-4201-9859-6f4c35bab33c",
+    "draw_title": "Crabbin' Chaos",
+    "competition_url": "https://chaotic.co.uk/competition/crabbin-chaos-6116",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a444ca9388d06b6318fae7bbd974f0cbebe9411cb8e80e38be644cb8643ea424",
+    "drand_seed_hash": "8b00830685670c04ef343d5bbc7d88f5217e2d609f2bc0ca0ea65914669a2bb7652e74f2e992bdbabfe88163ac81362c",
+    "client_seed": "1790192123236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "8831f008a9232022b4a07ce19b182de1b4162bff7001ffdc2a24ce7c4721875c",
+    "result": "959198",
+    "external_round_id": "32462922",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:35:23.000000Z",
+    "revealed_at": "2026-09-23T19:35:30.000000Z"
+}
