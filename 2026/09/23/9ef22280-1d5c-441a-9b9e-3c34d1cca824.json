@@ -1,0 +1,22 @@
+{
+    "round_id": "9ef22280-1d5c-441a-9b9e-3c34d1cca824",
+    "draw_title": "The Big Chocolate Box",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/the-big-chocolate-box-5",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "4041a26d5472757e543997ac2d09081a0fe975724d0934d92c2a57384d53f235",
+    "drand_seed_hash": "adfbbc31ae7ed01c7d2c771fa26828bcb8841530c20ad092f67e68bc596d1b9c1fa6e875b28f5661a2327d3d7992eba3",
+    "client_seed": "1790190607741",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 173,
+    "max_tickets": 400,
+    "combined_hash": "3d52737606b9d4572884ce22a437d545a40c9cb21dbaa2440b609a223f8f2b33",
+    "result": "382",
+    "external_round_id": "32462417",
+    "processing_status": "completed",
+    "created_at": "2026-09-23T19:10:07.000000Z",
+    "revealed_at": "2026-09-23T19:10:15.000000Z"
+}
