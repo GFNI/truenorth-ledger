@@ -1,0 +1,22 @@
+{
+    "round_id": "4e02d279-eedf-498c-8a96-e5bd195d41ea",
+    "draw_title": "GARMIN Instinct 3 AMOLED Smart Watch - 50 mm, Black with Charcoal Silicone Band🖤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/garmin-instinct-3-amoled-smart-watch-50-mm-black-with-charcoal-silicone",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "87d349c07c108fa83edc3e1257d11b9db62cd5e30e8b1250d6eab301831fe543",
+    "drand_seed_hash": "b28b5de47aabc3a2e9cc598891703b56c0c619d43e40c1489f9948b4169285624240361e9b92587995e70c0a574db258",
+    "client_seed": "1790276988262",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 778,
+    "max_tickets": 925,
+    "combined_hash": "4627e6c832714fb25f91f71c9da6871165c8b8b31244171b658977f30ab30f4e",
+    "result": "435",
+    "external_round_id": "32491210",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T19:09:48.000000Z",
+    "revealed_at": "2026-09-24T19:09:54.000000Z"
+}
