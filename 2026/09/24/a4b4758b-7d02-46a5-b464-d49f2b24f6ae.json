@@ -1,0 +1,22 @@
+{
+    "round_id": "a4b4758b-7d02-46a5-b464-d49f2b24f6ae",
+    "draw_title": "A Wee Scratch - ONLY 2P A GO! (Autodraw)",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/a-wee-scratch-only-2p-a-go-autodraw-3",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "ef4e00006a1627afbfee5e85ef7b31402042b9982332e67332c1369f57ca6441",
+    "drand_seed_hash": "9623c4e5fc551461afbe1e87a9f3b9fb9fbeaef9289f1952feef775c27ab66b1631e30c2aff12fd7eceb7bef4df5bdd2",
+    "client_seed": "1790280622170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 128933,
+    "max_tickets": 350000,
+    "combined_hash": "8bdf17c2410bf0d71282799ea0dc3f616d46b7ee0c9085907fd13cfbf111ebba",
+    "result": "294460",
+    "external_round_id": "32492422",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:10:22.000000Z",
+    "revealed_at": "2026-09-24T20:10:30.000000Z"
+}
