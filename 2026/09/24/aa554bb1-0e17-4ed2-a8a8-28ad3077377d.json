@@ -1,0 +1,22 @@
+{
+    "round_id": "aa554bb1-0e17-4ed2-a8a8-28ad3077377d",
+    "draw_title": "Win a Jackery Explorer 100 Plus Portable Power Station + Jackery Instant Wins - 12p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-jackery-explorer-100-plus-portable-power-station-jackery-instant",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "dc64a892f068db926099202bb0cab84fe1a32fae5824fd7413c5513e920c2ac2",
+    "drand_seed_hash": "84122386d3dab94c70e56fea02cf04a857d721d78278d8722ca1d69f0d705038146f666e00422389b3522b03e211d35d",
+    "client_seed": "1790269926484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 697,
+    "max_tickets": 6666,
+    "combined_hash": "018c5dc44d3e9a7f2adeb95788f6966d1e7de0d12e832501617579f4c101ef46",
+    "result": "1172",
+    "external_round_id": "32488856",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T17:12:06.000000Z",
+    "revealed_at": "2026-09-24T17:12:12.000000Z"
+}
