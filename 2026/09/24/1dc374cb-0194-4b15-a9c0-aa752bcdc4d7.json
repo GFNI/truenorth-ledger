@@ -1,0 +1,22 @@
+{
+    "round_id": "1dc374cb-0194-4b15-a9c0-aa752bcdc4d7",
+    "draw_title": "BAIRD & CO. 1KG FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/baird-co-1kg-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "54934e206198774a9a1b3b24b2b10393c520f90beff6c2a3655c36afd45c11ad",
+    "drand_seed_hash": "a1f8c758d549318267229972a34c6f9dc0bbc3a5c7664b45b10ed1802bc5fc9f00f93029de0aa31a5dbcc716ac900a8e",
+    "client_seed": "1790280460456",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1900,
+    "max_tickets": 2500,
+    "combined_hash": "5ba37c1036829decd0c6833a60c71c5c5030d6ef90634f63c9a7fd0c22911200",
+    "result": "1240",
+    "external_round_id": "32492368",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:07:40.000000Z",
+    "revealed_at": "2026-09-24T20:07:48.000000Z"
+}
