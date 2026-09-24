@@ -1,0 +1,22 @@
+{
+    "round_id": "e7b8a5b6-c7b0-41c5-ae85-40cc0278b7c2",
+    "draw_title": "GRAND Slam 🎾",
+    "competition_url": "https://jetcomps.co.uk/admin/products/grand-slam",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "e64d4dd04814ebac04dfdfa50c0b6dc543f92a447cae4b763506d230ae8ffc44",
+    "drand_seed_hash": "a2d5af2a832d366c42c9c028b03b8c2bcb01899b1aeb86d643a118762195cd5ade8c77765470513ffff2bf55381c3b6f",
+    "client_seed": "1790277525795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300390,
+    "max_tickets": 946875,
+    "combined_hash": "af74953a0577e035ebd7103a62aede82b097083d2073ccaff33c12e9aa0fb82d",
+    "result": "17014",
+    "external_round_id": "32491389",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T19:18:45.000000Z",
+    "revealed_at": "2026-09-24T19:18:51.000000Z"
+}
