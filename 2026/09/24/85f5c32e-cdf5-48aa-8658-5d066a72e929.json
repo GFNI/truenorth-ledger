@@ -1,0 +1,22 @@
+{
+    "round_id": "85f5c32e-cdf5-48aa-8658-5d066a72e929",
+    "draw_title": "PLINKO PIGGY BANK",
+    "competition_url": "https://geardowncompetitions.com/admin/products/plinko-piggy-bank-2",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "5969512971be66172348f7a4dfdd71201392f32d65b8caf8aaaeff7ed2e1c30c",
+    "drand_seed_hash": "804d5b6f64af90b5caf970c24ab4baa5e5dbcdf35c65007e1fcef2e868543fb344e3a7b8c972add433095916660c823e",
+    "client_seed": "1790281551143",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19863,
+    "max_tickets": 199999,
+    "combined_hash": "ef94f1fa4782877410455e322ab9c9cf8c98920ec95bbeddedbaa85ffc3690b1",
+    "result": "157354",
+    "external_round_id": "32492731",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:25:51.000000Z",
+    "revealed_at": "2026-09-24T20:25:57.000000Z"
+}
