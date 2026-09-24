@@ -1,0 +1,22 @@
+{
+    "round_id": "30d014bf-4eb8-4092-9ac0-259c6758b4f1",
+    "draw_title": "Kaiser & Buddy's £5,000 Cash fund - 75 instants & £500 main prize",
+    "competition_url": "https://giveawaycompetition.com/admin/products/kaiser-buddys-ps5000-cash-fund",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "275b4973bbb998c16aee24b6ac21a24f88aed80f55ffa8eb0f22f633199773b7",
+    "drand_seed_hash": "a05126139fd16565affb4940ce7f5c0e0690ecc32e9e73827074722f52647c0b86d189fff1daeb84aa767a61cef77832",
+    "client_seed": "1790283124079",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3201,
+    "max_tickets": 12000,
+    "combined_hash": "48e69ea7e92ed2d951c03df99e452e51f61435844db51e3745044c6a15fdc2fb",
+    "result": "8713",
+    "external_round_id": "32493256",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:52:04.000000Z",
+    "revealed_at": "2026-09-24T20:52:12.000000Z"
+}
