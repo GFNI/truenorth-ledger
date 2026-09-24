@@ -1,0 +1,22 @@
+{
+    "round_id": "a53befce-5d18-44d4-abb5-acb471b0187c",
+    "draw_title": "B&M Blowout Haul",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/bm-blowout-haul",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "030f5b464f35f56172604c822eb743abcd39eb5fad443bf4885dec2288b90cb1",
+    "drand_seed_hash": "8cbb2b0a07ebfaeb6db649ea54be1fe9f40e491849dfff9db12754684f663c22fc31a04d8a3ccbd837fbc38cae2186e6",
+    "client_seed": "1790276962617",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 677,
+    "max_tickets": 749,
+    "combined_hash": "bbf41bc74160de7db0ff5aca9eef32db2071f193f7dc6ce9222368b1575503f1",
+    "result": "52",
+    "external_round_id": "32491202",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T19:09:22.000000Z",
+    "revealed_at": "2026-09-24T19:09:30.000000Z"
+}
