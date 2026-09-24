@@ -1,0 +1,22 @@
+{
+    "round_id": "51e2eacd-4e60-4681-a132-fd59baea4def",
+    "draw_title": "Whack A Mole - Win Upto £3,000 Cash Instantly!",
+    "competition_url": "https://ryscompetitions.com/admin/products/whack-a-mole-win-upto-ps3000-cash-instantly",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "bf6c6705ee4cbc4c61ba968cbdddbbcb162d3dcb6096fc4cee21ffb6330a04ae",
+    "drand_seed_hash": "b73d5d8661a8721f6c96b73583c1cb06a229f7e4fefa7b22e0b93eb2eeb83a45e7af3ee7c510d3f3d8ad4ce50e478e98",
+    "client_seed": "1790280586954",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33186,
+    "max_tickets": 303810,
+    "combined_hash": "eced3ca160577065b5134a301a885c70986e14a92e68704f8580ab0cb8ffcbc1",
+    "result": "605",
+    "external_round_id": "32492410",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:09:47.000000Z",
+    "revealed_at": "2026-09-24T20:09:54.000000Z"
+}
