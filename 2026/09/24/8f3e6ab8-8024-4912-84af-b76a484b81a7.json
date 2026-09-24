@@ -1,0 +1,22 @@
+{
+    "round_id": "8f3e6ab8-8024-4912-84af-b76a484b81a7",
+    "draw_title": "£10K LUCK OF THE IRISH SLOTS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-luck-of-the-irish-slots3",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "9c94a7eccaf1f59f964f4c4e97170f0a10d53d35967c017fcbe99aedf833d77a",
+    "drand_seed_hash": "8f3f395ce1ce81d325c077f6849cfeb7b600a5d885f5f7ac9adaf498ae8bcbad4860e75da85f321e56bce61545b6698d",
+    "client_seed": "1790281926963",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28040,
+    "max_tickets": 117999,
+    "combined_hash": "9153d7d85a8371fb301658c7532629e626bfeaa97537c0887b86e3c0b0229644",
+    "result": "81120",
+    "external_round_id": "32492857",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:32:07.000000Z",
+    "revealed_at": "2026-09-24T20:32:15.000000Z"
+}
