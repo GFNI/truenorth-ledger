@@ -1,0 +1,22 @@
+{
+    "round_id": "fc607a7d-0f5a-410e-a639-512ad4adafa9",
+    "draw_title": "True North Test",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/true-north-test",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "66d80efd565d17c60e1ce677a45b06aada4a4f4149f01416c9d00d2935f5cc6d",
+    "drand_seed_hash": "92d64a05be5793fb92756fd6138c4768cf713b029fcef93dd78213bdfd8b12a5b0d5089d83776b1000ee73398b04d338",
+    "client_seed": "1790248415732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "cea18172b63cc3c671319ffcea9bc218d2c9357af5f87017f62b54f074e20275",
+    "result": "1",
+    "external_round_id": "32481686",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T11:13:35.000000Z",
+    "revealed_at": "2026-09-24T11:13:42.000000Z"
+}
