@@ -1,0 +1,22 @@
+{
+    "round_id": "08891f94-b396-4f75-8ee8-5ab866f5d408",
+    "draw_title": "🪙 WIN MAX TICKETS INTO OUR GOLD HALF SOVEREIGN COMP FOR £1!",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-max-tickets-into-our-gold-half-sovereign-comp-for-ps1",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "ecbb8cf9a42c85e00a6c92174c2120631df5efc6b9e7ad4ccb05ec4dfc5e0df5",
+    "drand_seed_hash": "87b2b5c4408012a9b4b56b9dfbe5edd5d8e3b8a5646174e353470d1bd9236609f06bc4bec8d2eae6f577f3f57456f537",
+    "client_seed": "1790276347312",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 100,
+    "combined_hash": "948e3ee8217f0b67d50e263b27a7f5721c66b9dac146648b45449be55fafd584",
+    "result": "45",
+    "external_round_id": "32490997",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T18:59:07.000000Z",
+    "revealed_at": "2026-09-24T18:59:15.000000Z"
+}
