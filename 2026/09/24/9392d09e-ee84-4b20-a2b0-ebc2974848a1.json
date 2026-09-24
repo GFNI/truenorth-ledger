@@ -1,0 +1,22 @@
+{
+    "round_id": "9392d09e-ee84-4b20-a2b0-ebc2974848a1",
+    "draw_title": "Win P Louise Advent Calendar (PRE ORDER)",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-p-louise-advent-calendar-pre-order",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "51f1dbb372179f27c5f6197f12ed0751ff880a7778b1e26ddbd94917efa47601",
+    "drand_seed_hash": "92f5808123ff8f77a2dbc1111aa27c31e6165ec6ddf3b1a7dde36844332e9eb7f3b668c30a64477733331e3c9549af2d",
+    "client_seed": "1790273494572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1096,
+    "max_tickets": 2500,
+    "combined_hash": "4a3c35069c0be63a8a5f0680d82005f852f17a5a1efe71639519fd70705805ff",
+    "result": "2139",
+    "external_round_id": "32490046",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T18:11:34.000000Z",
+    "revealed_at": "2026-09-24T18:11:42.000000Z"
+}
