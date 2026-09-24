@@ -1,0 +1,22 @@
+{
+    "round_id": "d3cf7a77-c16d-44ea-afb1-a08d9e7243b6",
+    "draw_title": "FOLLOW THE YELLOW BRICK ROAD…👠",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/follow-the-yellow-brick-road",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "5f096778952a1b9981407e0936d1ffab1196d01a2d0bd12c37d44443f35f6d59",
+    "drand_seed_hash": "81abee0fad001c87cdfe6f1044319d65742f5f4e70c438cb2d7a23524727beb44ee090c9c48b9f0b2aa415ca43b41c82",
+    "client_seed": "1790255150844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4741,
+    "max_tickets": 6700,
+    "combined_hash": "61f258215986bebac9d2c1c83609e3f10fe12c27b88ec3de1e7662e0ff44dda1",
+    "result": "546",
+    "external_round_id": "32483931",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T13:05:50.000000Z",
+    "revealed_at": "2026-09-24T13:05:57.000000Z"
+}
