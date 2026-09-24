@@ -1,0 +1,22 @@
+{
+    "round_id": "b5e320db-c46c-4403-9c74-5491c9a261c7",
+    "draw_title": "📱 APPLE 11\" iPad Air Cellular (2026) - 128 GB, Space Grey 📱",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-11-ipad-air-cellular-2026-128-gb-space-grey-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ab4d69934ec5d7d9dd71c503104415a9c655eecee1a8e52f2342a29ddf495497",
+    "drand_seed_hash": "b24ade48e9d5aa3c8ef824efc5a6b42a427bf0577ed81be84701590abeac29c3d8d2d58a4d7e2034731dd0bf8536099c",
+    "client_seed": "1790276906858",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1318,
+    "max_tickets": 1550,
+    "combined_hash": "765b92253effe954cd9098b12b8fe4248f3d8cc277ad937cee59d47901e9fab7",
+    "result": "863",
+    "external_round_id": "32491183",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T19:08:26.000000Z",
+    "revealed_at": "2026-09-24T19:08:33.000000Z"
+}
