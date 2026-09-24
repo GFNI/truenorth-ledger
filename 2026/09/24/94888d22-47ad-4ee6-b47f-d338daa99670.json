@@ -1,0 +1,22 @@
+{
+    "round_id": "94888d22-47ad-4ee6-b47f-d338daa99670",
+    "draw_title": "WEEKLY DOSH - WIN £400 Cash",
+    "competition_url": "https://starcompetition.co.uk/admin/products/weekly-dosh-win-ps400-cash",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "e2aa231936d9fdf520640facf79f5cb6ef4a7847a2cf42223580644b870f9bee",
+    "drand_seed_hash": "a6949ad6e13b8eca66ae275199183c895f9a249e4b2bd6b62475989563b77b2e044b47fcc8ec3b4fe9ac83f86cf800e8",
+    "client_seed": "1790280640041",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2212,
+    "max_tickets": 5300,
+    "combined_hash": "a4eedd2157c44dea63490b91985ae784e3d36b2d529c6abac92521effe2305ea",
+    "result": "877",
+    "external_round_id": "32492427",
+    "processing_status": "completed",
+    "created_at": "2026-09-24T20:10:40.000000Z",
+    "revealed_at": "2026-09-24T20:10:45.000000Z"
+}
