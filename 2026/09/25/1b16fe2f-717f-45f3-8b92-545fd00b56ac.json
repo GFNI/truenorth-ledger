@@ -1,0 +1,22 @@
+{
+    "round_id": "1b16fe2f-717f-45f3-8b92-545fd00b56ac",
+    "draw_title": "2 X Hospitality Tickets - Liverpool Vs Manchester City",
+    "competition_url": "https://ryscompetitions.com/admin/products/2-x-hospitality-tickets-liverpool-vs-manchester-city",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "0fd09f582412940973de66ccfd43c4879e591612b689f797b40629908cd496ba",
+    "drand_seed_hash": "9299dae8802f0ba7c8a096488b85a534c89665d9ae0917c7742fee07d1353b3d6a74987dbdcd5fadad11d65cfe2a635f",
+    "client_seed": "1790364311090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2554,
+    "max_tickets": 5000,
+    "combined_hash": "a6d48b9c221d5c670d5f0cf3d0cfdeb220a06128a7e3808af7f64f574a283def",
+    "result": "4639",
+    "external_round_id": "32520318",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T19:25:11.000000Z",
+    "revealed_at": "2026-09-25T19:25:18.000000Z"
+}
