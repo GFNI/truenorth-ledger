@@ -1,0 +1,22 @@
+{
+    "round_id": "3d0bc8af-6078-4512-831c-84d055916ea7",
+    "draw_title": "£1,000 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps1000-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "07504ccb299b56b23b320f1271bee76073a66a1c14146fbcf4a752070a7f5fd1",
+    "drand_seed_hash": "b4d04a3f6e3087497250e4c88949c54c7ef3c4f6d912ce7d10a57d46e9b0711f036d0d269be03711ad1f3d21a2c36e07",
+    "client_seed": "1790371346961",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 4000,
+    "combined_hash": "cfa87accd875e2434eaf2dd7459ef56100dc74eacecc9adb4bf5be2858b1949d",
+    "result": "2672",
+    "external_round_id": "32522663",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:22:26.000000Z",
+    "revealed_at": "2026-09-25T21:22:36.000000Z"
+}
