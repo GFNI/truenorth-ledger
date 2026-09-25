@@ -1,0 +1,22 @@
+{
+    "round_id": "55d4b212-f5cc-4c4a-9845-f39f2805ee75",
+    "draw_title": "DEAL OR NO DEAL - ROUND 4",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/deal-or-no-deal-round-4",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "fd2d3f041397b32a6a898ef623de4fa18b569acbbd0a4c8c3c4eae25c42474be",
+    "drand_seed_hash": "a9c3d6006bd8aaf6e69f1e29542abc12680ca330c0bfb1597fed4e06fdbf924d508c0add1b912c23cc5eadb47bdc2b72",
+    "client_seed": "1790367183179",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2888,
+    "max_tickets": 10000,
+    "combined_hash": "c17a24fda919114dffbcef16ee2fd0c02c1ebbb7c57aac77acd9ebf576311b33",
+    "result": "6370",
+    "external_round_id": "32521275",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:13:03.000000Z",
+    "revealed_at": "2026-09-25T20:13:09.000000Z"
+}
