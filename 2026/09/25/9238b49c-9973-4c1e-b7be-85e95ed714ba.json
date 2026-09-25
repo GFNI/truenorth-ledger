@@ -1,0 +1,22 @@
+{
+    "round_id": "9238b49c-9973-4c1e-b7be-85e95ed714ba",
+    "draw_title": "Temple Of Cash",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/temple-of-cash",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "1f6775902539f8af9aa87d6c5787e3830d1c329effb35349c84619623910dee6",
+    "drand_seed_hash": "946eb4e6a98c9a32182e787cb63c2276f68e2932512233ce24e0a6cc2914ea6b40da3b444cdc2f8371437f76c991ad25",
+    "client_seed": "1790354141515",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 385999,
+    "max_tickets": 385999,
+    "combined_hash": "7e0b88682776e8bb65a17b0a81e207b25a56c59134ac96ed50345b963e9056b2",
+    "result": "152846",
+    "external_round_id": "32516928",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T16:35:41.000000Z",
+    "revealed_at": "2026-09-25T16:35:48.000000Z"
+}
