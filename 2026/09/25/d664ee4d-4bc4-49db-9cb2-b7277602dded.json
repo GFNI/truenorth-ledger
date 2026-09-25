@@ -1,0 +1,22 @@
+{
+    "round_id": "d664ee4d-4bc4-49db-9cb2-b7277602dded",
+    "draw_title": "WIN! LIMITED EDITION LUKE LITTLER BORN TO WIN DARTBOARD *ONLY 500 MADE*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-limited-edition-luke-littler-born-to-win-dartboard-only-500-made",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "3744648fcbc9725809ebedb17e9281b7e4ce15beb3a11222128d5df59efea93a",
+    "drand_seed_hash": "b3e5e2646910269b174ac21c483a168e3dce6e4fc3d309922457cddd51bd34a317a31c6f961b1a0a9dac39fd798b6994",
+    "client_seed": "1790365719118",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 282,
+    "max_tickets": 500,
+    "combined_hash": "4ac2b7dc323d4b4cdf2edf304d6c250dd87c888d20194ba59861d9f333920ef4",
+    "result": "347",
+    "external_round_id": "32520787",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T19:48:39.000000Z",
+    "revealed_at": "2026-09-25T19:48:45.000000Z"
+}
