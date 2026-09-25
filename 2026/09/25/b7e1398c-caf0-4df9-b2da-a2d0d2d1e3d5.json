@@ -1,0 +1,22 @@
+{
+    "round_id": "b7e1398c-caf0-4df9-b2da-a2d0d2d1e3d5",
+    "draw_title": "🎟️ WIN FREE TICKETS INTO OUR iPAD COMP! 📱",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/win-free-tickets-into-our-ipad-comp",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "e09f2c13b90746781ad020ab06790c92d03b53261264ee647f0b8a45b300db25",
+    "drand_seed_hash": "87cdfe71d2bcbddfc1cc3702466e9bd8c71f99ae59852db874a42c8937318a6bd069aaacaf2fbedd55c410d773eab22c",
+    "client_seed": "1790367049001",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2,
+    "max_tickets": 30,
+    "combined_hash": "1a3559fd7bf16f122e8de4dce658cd85e8aa922fd17edd732b7221c5b5c81094",
+    "result": "17",
+    "external_round_id": "32521231",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:10:49.000000Z",
+    "revealed_at": "2026-09-25T20:10:57.000000Z"
+}
