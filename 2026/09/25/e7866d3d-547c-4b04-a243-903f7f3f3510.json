@@ -1,0 +1,22 @@
+{
+    "round_id": "e7866d3d-547c-4b04-a243-903f7f3f3510",
+    "draw_title": "Collectors Edition Jellycat Bundle",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/jellycat-bundle-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2e47be1cb778a8f14a16cd1552eb1de8ae293f5813ac3e5504102b949e86c0d9",
+    "drand_seed_hash": "a8bac4ba6e5b20756d7b820900a78e04b20424aed76258a0eb7e563bd0b90b37d3cc523390512dbd27264dfaab44b373",
+    "client_seed": "1790367060325",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "9a51a823151bbac0ccb3f1fdeee1bdc8e72f10dbf032d1f9f7ce6c9cc8731935",
+    "result": "3499",
+    "external_round_id": "32521234",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:11:00.000000Z",
+    "revealed_at": "2026-09-25T20:11:06.000000Z"
+}
