@@ -1,0 +1,22 @@
+{
+    "round_id": "b3ef3b55-a2e1-49ee-9b4f-0128766d521a",
+    "draw_title": "THE MIRACLE x RISING SUN [CHAMPIONS LIMITED EDITION] *ONLY 500 MADE*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/the-miracle-x-rising-sun-champions-limited-edition-only-500-made",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "2261610b97a7e43c8a4ae20a62e82943d301e60384870e4d74d6e72b4ab2258a",
+    "drand_seed_hash": "9902738a1907163a519395a2493e8719ecc510ede1a02c057f32718651af0a0f9548b75014ae11e680801da58bbcdc0e",
+    "client_seed": "1790365645495",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 160,
+    "max_tickets": 200,
+    "combined_hash": "0a8487692fe03a8190470d7ebeb3700bfeeffa8bd0d6d02ad2af1b86989b8c95",
+    "result": "43",
+    "external_round_id": "32520762",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T19:47:25.000000Z",
+    "revealed_at": "2026-09-25T19:47:30.000000Z"
+}
