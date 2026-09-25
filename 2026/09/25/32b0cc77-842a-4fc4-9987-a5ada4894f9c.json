@@ -1,0 +1,22 @@
+{
+    "round_id": "32b0cc77-842a-4fc4-9987-a5ada4894f9c",
+    "draw_title": "20 X ENTRIES - LOW ODDS £10K PENNYWISE POP THE BALLOON",
+    "competition_url": "https://geardowncompetitions.com/admin/products/20-x-entries-low-odds-ps10k-pennywise-pop-the-balloon-2",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "836b49bcfede4f6551bc7b76bc9c45d8f68d4b43d5825b0e3b5bc8df27aab5f7",
+    "drand_seed_hash": "b8f50e0a45522e0f4fab8c8d1fae3a5d30b9314aa8238adb120f14770fb00577b45baf54af532c07be8bdaba8c48e5b9",
+    "client_seed": "1790370610727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1951,
+    "max_tickets": 2399,
+    "combined_hash": "996699b46845b78ea1eaf840efe6fb660154c7bdb88d3fe13bf8815f47dbbe3f",
+    "result": "760",
+    "external_round_id": "32522418",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:10:10.000000Z",
+    "revealed_at": "2026-09-25T21:10:18.000000Z"
+}
