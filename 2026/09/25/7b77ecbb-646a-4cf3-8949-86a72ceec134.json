@@ -1,0 +1,22 @@
+{
+    "round_id": "7b77ecbb-646a-4cf3-8949-86a72ceec134",
+    "draw_title": "Pot of Luck - £250 Autodraw + £6000 of Instant Wins",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/pot-of-luck-ps250-autodraw-ps6000-of-instant-wins-3",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "a5fa53c9d6d1d8516534a9ab1f54260d641aa6e0a558f1979955ab599bd6b955",
+    "drand_seed_hash": "8630675bae409d4e487f3a996e290fe21fb55863829d0d12bf85336a0950faf31b824569118cd2b2bf51601b3257d690",
+    "client_seed": "1790363412619",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 743928,
+    "max_tickets": 1000000,
+    "combined_hash": "87dd558191a730b742f9b9702d5b9f99bfdbfd71c25cebf818d132d1d8709d50",
+    "result": "888136",
+    "external_round_id": "32520018",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T19:10:12.000000Z",
+    "revealed_at": "2026-09-25T19:10:18.000000Z"
+}
