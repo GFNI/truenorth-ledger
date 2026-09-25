@@ -1,0 +1,22 @@
+{
+    "round_id": "2a0c200a-67da-44b4-9361-da3d1823a32e",
+    "draw_title": "30th Anniversary Mew and MewTwo",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/30th-anniversary-mew-and-mewtwo",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "f86f08a7dee141dbd6bf3f79428890eae6a2766cd1d59d761501fac7d6b25dd5",
+    "drand_seed_hash": "a33b454469fb2ab4fc6d8cf7b42c4b5ffb696b9a1c03562bd11b9e247b61e89e5b576abbd6606c023cb1ca9a95e7cedc",
+    "client_seed": "1790370603184",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 186,
+    "max_tickets": 450,
+    "combined_hash": "8673c14a0c6c266bc8f4e713e39011aa640f8b310dfec9c1954aac162d89a95b",
+    "result": "157",
+    "external_round_id": "32522415",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:10:03.000000Z",
+    "revealed_at": "2026-09-25T21:10:09.000000Z"
+}
