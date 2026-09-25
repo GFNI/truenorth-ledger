@@ -1,0 +1,22 @@
+{
+    "round_id": "b3321b11-a30e-46ba-83ef-f9311edcd41d",
+    "draw_title": "£250 Multi-Prize Cash Draw #1 (Child Draw)",
+    "competition_url": "https://gridchance.co.uk/admin/products/ps250-multi-prize-cash-draw-1/edit",
+    "operator": {
+        "name": "Ecomet Shop Ltd trading as Gridchance",
+        "website": "https://gridchance.co.uk",
+        "company_number": "15427573"
+    },
+    "drand_server_seed": "74c163b7d34c4c6a57de55b7921410531aba1079898f9bc764c548877c377c49",
+    "drand_seed_hash": "a962321c231f7cf9fb56006a523e0ffaa13ce996fe593ff64d559a61a645933d0ba4cf0dd5559c7299316fa89fff391a",
+    "client_seed": "1790365825213",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 499,
+    "combined_hash": "788c6fcd42827f278be68eb22fdd614fe0c988fce919343152b9a37b8b3ac821",
+    "result": "330",
+    "external_round_id": "32520822",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T19:50:25.000000Z",
+    "revealed_at": "2026-09-25T19:50:30.000000Z"
+}
