@@ -1,0 +1,22 @@
+{
+    "round_id": "844b249c-5150-4f78-87b1-01ea0b14aaf0",
+    "draw_title": "NINJA 6 IN 1 DUALZONE XL",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ninja-6-in-1-dualzone-xl",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0f151df7e39aa1cd1193bbd50bedaf0b7eecafdc456dd569d8d92dab7f85f82b",
+    "drand_seed_hash": "a1a5212a21e946e55fbb4d43255bf8c89a1a6d4141e6f17d759a4245083a067383551940c09953f0c539cdd8f0fa2982",
+    "client_seed": "1790366477629",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 843,
+    "max_tickets": 1440,
+    "combined_hash": "2bbce2eae8284a1dc300194b0a3f596b1256512312c283e9e9293058ab605a11",
+    "result": "812",
+    "external_round_id": "32521040",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:01:17.000000Z",
+    "revealed_at": "2026-09-25T20:01:24.000000Z"
+}
