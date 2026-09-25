@@ -1,0 +1,22 @@
+{
+    "round_id": "b5957f90-4c64-4d47-8a23-d96844cc73a9",
+    "draw_title": "30K Casino 777 Slots",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/30k-casino-777-slots",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f4c8f83533ef797354aacc1916ebaf85bd8fe4493ff1294ca5dbe5566ded4bec",
+    "drand_seed_hash": "a3bf15e48a5fc5ed9551ddf692d6dd61e6c3e60350601871176be0e2eeab870209cfe8a48df097d43ef0bea70c5dff14",
+    "client_seed": "1790366935888",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14338,
+    "max_tickets": 120000,
+    "combined_hash": "ee1998450468a79a0c1f938c33d00cd59cbe229313d79af61550f07f7e749e35",
+    "result": "116015",
+    "external_round_id": "32521193",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:08:55.000000Z",
+    "revealed_at": "2026-09-25T20:09:03.000000Z"
+}
