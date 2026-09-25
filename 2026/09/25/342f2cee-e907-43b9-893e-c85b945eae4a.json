@@ -1,0 +1,22 @@
+{
+    "round_id": "342f2cee-e907-43b9-893e-c85b945eae4a",
+    "draw_title": "Fabulosa Cleaning Bundle (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/fabulosa-cleaning-bundle",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2375230c2a0f206cfedca51bceaaca4e92f72c8b96b6ecd71c99d8dd62719828",
+    "drand_seed_hash": "b6a0afcb5feb20efa1dbead408ee845361c5b8bba4d22a8169ccab2065e903fc32d0301ddbd8f9b5b62f849c86de439d",
+    "client_seed": "1790371161208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 250,
+    "combined_hash": "db1d4500068856847ad44510a5435e555f6b867ca955e00228f0440205d61166",
+    "result": "128",
+    "external_round_id": "32522601",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:19:21.000000Z",
+    "revealed_at": "2026-09-25T21:19:27.000000Z"
+}
