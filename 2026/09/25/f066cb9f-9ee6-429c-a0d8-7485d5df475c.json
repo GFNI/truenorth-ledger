@@ -1,0 +1,22 @@
+{
+    "round_id": "f066cb9f-9ee6-429c-a0d8-7485d5df475c",
+    "draw_title": "LOUIS VUITTON MULTIPASS BAG OR £1,250 TAX FREE CASH",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/lv-multipass",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "4c62204a0753cd5b96c0c2faa26d9fc6f1ff20a66dbd1f522d7b2561d3b52cdb",
+    "drand_seed_hash": "92919228b4ef914f2df70879522fabf87922bd2c0240f1e7d030025af0f429a3497669ac6b603dd9b61a9a5120bfac43",
+    "client_seed": "1790367460509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 200,
+    "combined_hash": "11dbe06df634d86fc883c58b969a66a31c4588fa64dabc517340b65245a21eed",
+    "result": "90",
+    "external_round_id": "32521368",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T20:17:40.000000Z",
+    "revealed_at": "2026-09-25T20:17:48.000000Z"
+}
