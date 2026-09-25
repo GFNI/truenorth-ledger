@@ -1,0 +1,22 @@
+{
+    "round_id": "e55bdde5-701c-4f1d-b1f7-0759d37831d3",
+    "draw_title": "Rico's Gift Cards (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/fat-friday-10-x-winners-of-ricos-gift-cards",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "48dbfd5116cf93e5e680bf4c2a015ce9323bd496d404ca19ab95a37c59465645",
+    "drand_seed_hash": "8462ff95bfd44e839b6b1531205c74e4e5382b66622a9ed2ac211233bda127b73641b0a33acfc17bb9f2aa98ceee5e42",
+    "client_seed": "1790370932790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500,
+    "combined_hash": "b2741e0d1ae1ff6f716af473aa34c3c15f73703fab49fbcdbedf7fd6452554bb",
+    "result": "263",
+    "external_round_id": "32522525",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:15:32.000000Z",
+    "revealed_at": "2026-09-25T21:15:39.000000Z"
+}
