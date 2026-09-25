@@ -1,0 +1,22 @@
+{
+    "round_id": "d04ccd86-a311-46fe-9cfc-c1ba0fe5ce8d",
+    "draw_title": "£200 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/2p-pick-n-mix-ps200-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "e3793ec1dc710c494904515fb3ce65f2f3a68a65eb43d16c255a082a6f301246",
+    "drand_seed_hash": "b849798537e60b9f7d0465475d7da40a5b839440dc62360824c1b8a9268d02ea2c9acb53d452faa0e1a9d4877dfa917a",
+    "client_seed": "1790371245670",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 445000,
+    "combined_hash": "be5d11ea4e27736a90bc4bb4020b63b2a5407688577e624b723ee641d380645a",
+    "result": "326655",
+    "external_round_id": "32522629",
+    "processing_status": "completed",
+    "created_at": "2026-09-25T21:20:45.000000Z",
+    "revealed_at": "2026-09-25T21:20:55.000000Z"
+}
