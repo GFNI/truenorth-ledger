@@ -1,0 +1,22 @@
+{
+    "round_id": "6f4dcb58-adc5-4f0e-a38f-07b6b1ab882e",
+    "draw_title": "ROYAL MINT 1g BRITANNIA FINE GOLD BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/royal-mint-1g-britannia-fine-gold-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "e4381b804a4ddbcdb529ccda6af2f839b1d9bb2b9f464b339696b74cf5b86f77",
+    "drand_seed_hash": "b0e77ba5b4a5c4a512c7e7ab617ed555026570aefda9da25c9bd424e842163c1e3bfe0b737c5996a60835409054898c2",
+    "client_seed": "1790452755386",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "2ac1b588e31216abbc0050d0aea9b16aed514c84d7da64f23941591748516113",
+    "result": "43",
+    "external_round_id": "32549799",
+    "processing_status": "completed",
+    "created_at": "2026-09-26T19:59:15.000000Z",
+    "revealed_at": "2026-09-26T19:59:21.000000Z"
+}
