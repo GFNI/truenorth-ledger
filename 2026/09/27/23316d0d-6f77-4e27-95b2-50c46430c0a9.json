@@ -1,0 +1,22 @@
+{
+    "round_id": "23316d0d-6f77-4e27-95b2-50c46430c0a9",
+    "draw_title": "Win 25x iPhone 18 Pro Tickets - Draw 1",
+    "competition_url": "https://expcomps.com/admin/products/win-25x-iphone-18-pro-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "c2e89ee308294afae7ce7472dfdb348a50fe92b8df348dcf73c80ee687abe604",
+    "drand_seed_hash": "ad79c9f0ff7b774d957ea277acfbed005f4d43f97136ba0984ec2a83d1bd441e81c00f8530ac6f2882e8d18b5b00295f",
+    "client_seed": "1790536236515",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38,
+    "max_tickets": 75,
+    "combined_hash": "4493e4018c73bd297f4e962f6426093f8614edbb271d03332dee3d9e149ec2d6",
+    "result": "25",
+    "external_round_id": "32577626",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:10:36.000000Z",
+    "revealed_at": "2026-09-27T19:10:42.000000Z"
+}
