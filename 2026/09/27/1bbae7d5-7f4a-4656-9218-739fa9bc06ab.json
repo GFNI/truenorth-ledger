@@ -1,0 +1,22 @@
+{
+    "round_id": "1bbae7d5-7f4a-4656-9218-739fa9bc06ab",
+    "draw_title": "WIN A £50 VOUCHER FOR ESLERS CAFE!! 27/09",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps50-voucher-for-eslers-cafe-2709",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "274dd523c65718de7a35d66b92c51220e58fec749bb35a945c4eb1e81156bc17",
+    "drand_seed_hash": "91cd2b18c805eece0120bc615f295cbe749ab8ae58c3823d044688c7efba2b6c160a80241d25535ef9755ed03aa81ca6",
+    "client_seed": "1790542911969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 168,
+    "max_tickets": 250,
+    "combined_hash": "d807a07941827648f9dd315aa07849206feb92b7dbd6b06ceddf8d39e9dbc773",
+    "result": "155",
+    "external_round_id": "32579852",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T21:01:52.000000Z",
+    "revealed_at": "2026-09-27T21:02:00.000000Z"
+}
