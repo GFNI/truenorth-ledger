@@ -1,0 +1,22 @@
+{
+    "round_id": "b47239f8-cd34-4cd4-b4fc-0f5115e357b2",
+    "draw_title": "Ronaldo Topps Reverence 2024-25 UCC Auto /5",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/ronaldo-topps-reverence-2024-25-ucc-auto-5",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "fd71b4f1d0588027f2ef5f2d1502537afdce07825758b04e3442c615f1013a03",
+    "drand_seed_hash": "81ebcd5880caf219b224a69a0657d785f2273618c8a4cb758427cf6b4f9daddb9c335ddbe12020a7b4de6c4a598112af",
+    "client_seed": "1790532604920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 495,
+    "max_tickets": 3500,
+    "combined_hash": "93665a2ab12a62e9037baa1dbe2b706a8df7066b35ad41b05bb06569bbc4db4f",
+    "result": "1072",
+    "external_round_id": "32576416",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T18:10:05.000000Z",
+    "revealed_at": "2026-09-27T18:10:12.000000Z"
+}
