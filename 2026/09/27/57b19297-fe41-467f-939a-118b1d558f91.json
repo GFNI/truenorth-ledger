@@ -1,0 +1,22 @@
+{
+    "round_id": "57b19297-fe41-467f-939a-118b1d558f91",
+    "draw_title": "EVERY TICKET'S A SP'WINNER!",
+    "competition_url": "https://ryscompetitions.com/admin/products/every-tickets-a-spwinner-3",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "3dbffb67bc6a9c4aa7c5f9a3e35bb82e12f394f9face077b4c25a169446c7ffd",
+    "drand_seed_hash": "9803b8c25edc32dacd45e3255ef38ad501671f39a017e928c269757642c3c3eca99d9e81e60de07f5f1aab3678272b4e",
+    "client_seed": "1790535612169",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5249,
+    "max_tickets": 49999,
+    "combined_hash": "f1c7149fcc4d41330bb7227bad65025ee2d7e6fcb8a3f0353da06fad3d802bbc",
+    "result": "42629",
+    "external_round_id": "32577418",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:00:12.000000Z",
+    "revealed_at": "2026-09-27T19:00:18.000000Z"
+}
