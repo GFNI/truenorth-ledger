@@ -1,0 +1,22 @@
+{
+    "round_id": "b720bfae-c6cf-4b47-bf6b-23db175b73d1",
+    "draw_title": "WIN TICKETS INTO OUR FORD WILDTRAX COMPETITION! ALL BIG WINS ARE JACKPOTS ONLY - PLUS 100 TKT END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/win-tickets-into-our-ford-wildtrax-competition-all-big-wins-are-jackpots",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "6c73763e6fea916cb4ed6a3dbda255a587307c21d01bcce8a28b2f8873b05a1e",
+    "drand_seed_hash": "82f6cfffe24e940c458769643b2ba7a8571d4542c4d5ccac78ab120574ae489afa170ac55a2e7f60cccce5e26fb3769e",
+    "client_seed": "1790550560170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110747,
+    "max_tickets": 499999,
+    "combined_hash": "75925b7a43f8b7ecb083724f8b7f7fa6f2e66b21fdd711e6c7ddc6d2dc3ec591",
+    "result": "325727",
+    "external_round_id": "32582401",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T23:09:20.000000Z",
+    "revealed_at": "2026-09-27T23:09:27.000000Z"
+}
