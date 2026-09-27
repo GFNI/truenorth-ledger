@@ -1,0 +1,22 @@
+{
+    "round_id": "85a5c568-ac2d-4f9e-ba66-5c4d2a24a471",
+    "draw_title": "🍭Candyland Slots 🍭",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/candyland-slots",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "02cf3c9f2b63cd0de42801d16a269cb0b4c1c04fb5c94427b058d49847cf6dc0",
+    "drand_seed_hash": "8d1f6ce422a74026e6e1deeed6824cd2e50244e5f6beabc999069a4b2defba51260d5a272517953f00b7dfee63a98e47",
+    "client_seed": "1790539914769",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39088,
+    "max_tickets": 40000,
+    "combined_hash": "2911bdfd763e0a7eadb6298b4eff6b57530be67cf43012f183d795a833523f99",
+    "result": "26346",
+    "external_round_id": "32578852",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:11:54.000000Z",
+    "revealed_at": "2026-09-27T20:12:00.000000Z"
+}
