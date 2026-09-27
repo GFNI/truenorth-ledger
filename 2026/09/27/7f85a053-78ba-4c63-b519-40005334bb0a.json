@@ -1,0 +1,22 @@
+{
+    "round_id": "7f85a053-78ba-4c63-b519-40005334bb0a",
+    "draw_title": "WIN A STANLEY COOKWARE BUNDLE!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-stanley-cookware-bundle-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "7d2d06bd4f6f14b68e26938efc3982ed7d338f2d08edd37c8d8c5bce7bf5181d",
+    "drand_seed_hash": "aafbf692191e81739998ce46ca4705ffcec2d24bb17c03108a5f1546c7301786a549e820a03e53eebbc2cc3aa22fb9ab",
+    "client_seed": "1790537310723",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3199,
+    "max_tickets": 3199,
+    "combined_hash": "3f1e98a34831b7f90e229f3dd9c56735b0f69ccf45591ed3ad1504b475b82164",
+    "result": "2996",
+    "external_round_id": "32577984",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:28:30.000000Z",
+    "revealed_at": "2026-09-27T19:28:36.000000Z"
+}
