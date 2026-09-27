@@ -1,0 +1,22 @@
+{
+    "round_id": "fc0da3bd-86e5-4199-896e-941576b5e37b",
+    "draw_title": "Ninja Speedi",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/ninja-speedi",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "bb389f816d11b0467b12101a3c626ddb35d7add5ac5719bd3e1cfc57023fe82d",
+    "drand_seed_hash": "914d2b17905237e33152437114adaec16c8d63d4307efee5210405724a568ed208e6998ab4694c453af885e61ae49728",
+    "client_seed": "1790539760760",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 460,
+    "combined_hash": "9a808c4c24e8998b5f77327b1a51bb27997c0936afdc4479c34c46811e98bf48",
+    "result": "79",
+    "external_round_id": "32578801",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:09:20.000000Z",
+    "revealed_at": "2026-09-27T20:09:27.000000Z"
+}
