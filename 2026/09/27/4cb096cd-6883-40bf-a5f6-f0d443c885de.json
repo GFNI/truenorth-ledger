@@ -1,0 +1,22 @@
+{
+    "round_id": "4cb096cd-6883-40bf-a5f6-f0d443c885de",
+    "draw_title": "£100 Food Shop 🥣",
+    "competition_url": "https://prizecircleuk.co.uk/admin/products/ps100-food-shop",
+    "operator": {
+        "name": "Prize Circle UK",
+        "website": "https://prizecircleuk.co.uk",
+        "company_number": "17207816"
+    },
+    "drand_server_seed": "154994545d452672900ebdac64b4a8c0b5443e907ed7c8903f735f537b1d698f",
+    "drand_seed_hash": "884390b0a76bb5df309ec9776ecd03d84f9049f85ae74c6f1ff21616952e37844e28f68fbd03d6804cac4c587931373e",
+    "client_seed": "1790532621935",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 1000,
+    "combined_hash": "cdde1832391bf6248bcf777435973daffc68b43d2fc1b767f42bc9ec63c87ac2",
+    "result": "702",
+    "external_round_id": "32576422",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T18:10:22.000000Z",
+    "revealed_at": "2026-09-27T18:10:30.000000Z"
+}
