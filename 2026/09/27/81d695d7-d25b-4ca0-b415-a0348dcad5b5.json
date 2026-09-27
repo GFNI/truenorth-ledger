@@ -1,0 +1,22 @@
+{
+    "round_id": "81d695d7-d25b-4ca0-b415-a0348dcad5b5",
+    "draw_title": "test",
+    "competition_url": "https://blacklabelcompetitions.com/product/50-site-credit-25-09/",
+    "operator": {
+        "name": "black label competitions ltd",
+        "website": "https://blacklabelcompetitions.com/",
+        "company_number": "14313613"
+    },
+    "drand_server_seed": "4bb922bc4965dc012db4c52ba33e30668a9dc54b3615d07e3e95831a8f4dad76",
+    "drand_seed_hash": "a70c64339488631dcff2ff310c279bf0b9c4afe5fb74acd53f9ba2a7147f09b0a5f22e316821670540b89878f50e4f25",
+    "client_seed": "1790531180722",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 5000,
+    "combined_hash": "2ae3aca6d6bdbdca131c71819dccd0b14b4dd598d8cb9451a1cbe3dd5ddae8d3",
+    "result": "3203",
+    "external_round_id": "32575940",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T17:46:20.000000Z",
+    "revealed_at": "2026-09-27T17:46:30.000000Z"
+}
