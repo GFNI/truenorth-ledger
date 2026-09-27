@@ -1,0 +1,22 @@
+{
+    "round_id": "3691bfbb-18d3-490d-9595-852bf042a9a0",
+    "draw_title": "Brand New iPhone 18 Pro OR £1K Cash - You Choose!",
+    "competition_url": "https://expcomps.com/admin/products/brand-new-iphone-18-pro-or-ps1k-cash-you-choose",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "aa6621c9d6c47d2bb3b2fa9852f7a60ff7bebeb5fc9e26434be9199bd5e97ccb",
+    "drand_seed_hash": "8a37c4e42067ae373a05f20d4a19071835db5c947c98cd2e10a1d47e79688dc52b056c590c7e8cdc65b004bdf3bf2b2e",
+    "client_seed": "1790540195369",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 596,
+    "max_tickets": 999,
+    "combined_hash": "4190c453a0181fd4b1a8064441e11bfe2fba8ad65410d57445d70709d7a3e5bc",
+    "result": "711",
+    "external_round_id": "32578946",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:16:35.000000Z",
+    "revealed_at": "2026-09-27T20:16:42.000000Z"
+}
