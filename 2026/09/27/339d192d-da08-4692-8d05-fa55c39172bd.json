@@ -1,0 +1,22 @@
+{
+    "round_id": "339d192d-da08-4692-8d05-fa55c39172bd",
+    "draw_title": "WIN £2,000 CASH! +RUNNERS UP PRIZES",
+    "competition_url": "https://championwincompetitions.co.uk/admin/products/win-ps2000-cash-runners-up-prizes",
+    "operator": {
+        "name": "Champion Win Competitions Ltd",
+        "website": "https://championwincompetitions.co.uk",
+        "company_number": "16303779"
+    },
+    "drand_server_seed": "42e76a60dfa8e8992db04b8d1a2a4e557a37b6ba6198dd971ecd5fe343987be9",
+    "drand_seed_hash": "a0ad678cc878f9b83f99389ac2d341688ae62ee05e364e79d3dab53ebd5e326b2781c916b78c91aded3cce3cfc788b0a",
+    "client_seed": "1790537050189",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 353,
+    "max_tickets": 6000,
+    "combined_hash": "88e400089068ef1e21dad0373307b08386a2402d7847758e6b9931044bf3f514",
+    "result": "2233",
+    "external_round_id": "32577897",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:24:10.000000Z",
+    "revealed_at": "2026-09-27T19:24:15.000000Z"
+}
