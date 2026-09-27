@@ -1,0 +1,22 @@
+{
+    "round_id": "f627acda-2cfa-4cf4-92b2-b928434333da",
+    "draw_title": "🥷Ninja lux premier coffee machine🥷",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ninja-lux-premier-coffee-machine",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "c408555634dfd852680a6275fbe523f32b717bcd33db7920637c71ffb324ac24",
+    "drand_seed_hash": "909d3856cd525626b660d1f8c3e146ddcf25f6c80b64146e2cb3acd82a0cc21fd93b635408bb29558b94f9b6566f9782",
+    "client_seed": "1790536428980",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "355024656db9d1668314243669b51ce53e8dc5e457dc1204a720c9fd326f2bde",
+    "result": "146",
+    "external_round_id": "32577690",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:13:48.000000Z",
+    "revealed_at": "2026-09-27T19:13:54.000000Z"
+}
