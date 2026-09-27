@@ -1,0 +1,22 @@
+{
+    "round_id": "cbd7e997-0d30-4272-92cf-0e2de293430d",
+    "draw_title": "Lionel Messi Topps Gold X D/L UEFA Elite Auto Purple 2022/23",
+    "competition_url": "https://matchdayvault.co.uk/admin/products/lionel-messi-topps-gold-x-dl-uefa-elite-auto-purple-202223",
+    "operator": {
+        "name": "MATCHDAY VAULT LTD",
+        "website": "https://matchdayvault.co.uk",
+        "company_number": "17019721"
+    },
+    "drand_server_seed": "beeca1bc2f110464c6872045b404441a0ecc10458594f65964054f14fce4b1cd",
+    "drand_seed_hash": "83d02d6ff1bc747eaf22c9a71d2a9ff0651f3f6f157bd997d59d19f80071fb3c6907c51602b6395a8cf56a6ab3796aba",
+    "client_seed": "1790532612920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 457,
+    "max_tickets": 3500,
+    "combined_hash": "2e6817a6e8476ff1783e09073418e86c6454863577be013e14cace3eb595def5",
+    "result": "2355",
+    "external_round_id": "32576419",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T18:10:13.000000Z",
+    "revealed_at": "2026-09-27T18:10:21.000000Z"
+}
