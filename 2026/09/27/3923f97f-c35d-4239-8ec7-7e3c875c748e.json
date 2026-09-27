@@ -1,0 +1,22 @@
+{
+    "round_id": "3923f97f-c35d-4239-8ec7-7e3c875c748e",
+    "draw_title": "Penny Tumble - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/penny-tumble-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "23c5268f4ef4db0c0b009df055ee8a0440fa2bc07ec341d0e5d67d4db0b5401c",
+    "drand_seed_hash": "ab7060f54174564e04139e62186ced10dd4b93da478b294c49f0de412397e2ecb3d3a687888d1dc64582a0777c09ec7b",
+    "client_seed": "1790537944014",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2999999,
+    "max_tickets": 2999999,
+    "combined_hash": "e3182733838325c71b216b3b19f794bba4e5802de272f33ea5f3c818b1732d01",
+    "result": "200578",
+    "external_round_id": "32578196",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:39:04.000000Z",
+    "revealed_at": "2026-09-27T19:39:12.000000Z"
+}
