@@ -1,0 +1,22 @@
+{
+    "round_id": "748cb2b6-7b03-4e10-b5c9-170a2d415c96",
+    "draw_title": "WIN THE ULTIMATE RENOGY OFF-GRID POWER BUNDLE!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-the-ultimate-renogy-off-grid-power-bundle-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "81fb57cc3c6f9c0aa87081fdde64786687378255e442d45474a850e646174da3",
+    "drand_seed_hash": "8ac4c71ee6d643fe044db5b7602624beeb4d6de4c77fee429148bfbde8bc116826e06dba3b60f57460a4993b02a3315a",
+    "client_seed": "1790538365395",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2199,
+    "max_tickets": 2199,
+    "combined_hash": "e66a4d10d4b4244caf60a7a448e13d5dc2b28814bd07f5ff8a2f991fd436de6f",
+    "result": "1873",
+    "external_round_id": "32578335",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:46:05.000000Z",
+    "revealed_at": "2026-09-27T19:46:09.000000Z"
+}
