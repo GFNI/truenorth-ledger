@@ -1,0 +1,22 @@
+{
+    "round_id": "8a2640ec-0d33-48f4-b4f1-e883cb890b27",
+    "draw_title": "SCRATCH YOUR WAY TO £1K - £100,000 OF INSTANT CASH",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/scratch-your-way-to-ps1k-ps100000-of-instant-cash",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "edf8a1547169eb5e189cdfcd8df56b525f0cc801de9bf0417e1206b23ce830f3",
+    "drand_seed_hash": "a7ec6ea3082e638e394a1c96ed261f859e008494d6758c3f95abdbc6567bddb97db5e9eaf67d0702eef6b4d0d78ea707",
+    "client_seed": "1790539819402",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24456,
+    "max_tickets": 200000,
+    "combined_hash": "e2c249fdd2266ad839472c9362410b64537ceb90ffbf76ba2523b4aa757ecd87",
+    "result": "69667",
+    "external_round_id": "32578821",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:10:19.000000Z",
+    "revealed_at": "2026-09-27T20:10:27.000000Z"
+}
