@@ -1,0 +1,22 @@
+{
+    "round_id": "8392b79f-e86a-4b63-baa7-bde19f36b657",
+    "draw_title": "Win 25x Sony PS5 Tickets - Draw 1",
+    "competition_url": "https://expcomps.com/admin/products/win-25x-sony-ps5-tickets-draw-1",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "24e85301a1bb0ac9b9306ecdf64a0ea552e7931bb94240fcfc9f44e33f5d80e4",
+    "drand_seed_hash": "98718e025787b950de09d94cc10c935d109bc4df8322c7763c2a76dce11c37fcff57f88c04767e6891584bbedbada99e",
+    "client_seed": "1790536213692",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 65,
+    "combined_hash": "062c2539d8829b4f92868e1509630f6f072776741a28eb3e4279aa676fd20800",
+    "result": "25",
+    "external_round_id": "32577619",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:10:13.000000Z",
+    "revealed_at": "2026-09-27T19:10:21.000000Z"
+}
