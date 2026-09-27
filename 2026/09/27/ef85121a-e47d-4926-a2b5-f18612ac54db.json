@@ -1,0 +1,22 @@
+{
+    "round_id": "ef85121a-e47d-4926-a2b5-f18612ac54db",
+    "draw_title": "2026 ROLEX DATEJUST OLIVE DIAL",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2026-rolex-datejust-olive-dial",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2c1c94d00f4cde7b153e7612d5b57e68e84b393bb7acdb5a70984558a2d84971",
+    "drand_seed_hash": "949311f560b003e2f200565acc4ed3145a5be13f048b6813fe29fcaca81edbf8cb6c8f4cf244c789b0fb21d62cf1c0e9",
+    "client_seed": "1790539729172",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5458,
+    "max_tickets": 15000,
+    "combined_hash": "11a49545ecc57dabe65cc4d911d157aa60eedf4c33f774b77a5e2560345b5ad8",
+    "result": "14770",
+    "external_round_id": "32578791",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:08:49.000000Z",
+    "revealed_at": "2026-09-27T20:08:57.000000Z"
+}
