@@ -1,0 +1,22 @@
+{
+    "round_id": "aa71d293-3536-4c52-8b92-fbed0dd77878",
+    "draw_title": "DAYDREAM GIVEAWAY - FREE NEEDOH ADVENT",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/daydream-giveaway-free-needoh-advent",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "ee2fa2f63c8d1486d90c8383c3ff321a048ba8b5a1a9cd2581eacc8ecf0c7f28",
+    "drand_seed_hash": "8506b8510a54248822f2cca38c4b31a6f3ed2964df5af0e64629b854c21d041d2d6ed3f7c9e6c3bad6904faad6c5bc93",
+    "client_seed": "1790540063484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 999,
+    "combined_hash": "ce9cd291f56a45500af485974be9479bc60d1696f237e6bc4b46fa5a1529b8c3",
+    "result": "970",
+    "external_round_id": "32578902",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:14:23.000000Z",
+    "revealed_at": "2026-09-27T20:14:30.000000Z"
+}
