@@ -1,0 +1,22 @@
+{
+    "round_id": "4d34fe78-f3cf-438a-aaa2-b9e509f208fa",
+    "draw_title": "X2 OASIS Tickets",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/x2-oasis-tickets",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "97bd91b7552e12de423562bb5815af7c343c464a269cd89dd687a254ea464dd4",
+    "drand_seed_hash": "b38b87a15ba1f59ef73c7d167b13c30b0597e81816d0e5b8a8440f8667b22592e8402cae6b7f9a2e268052529456ce67",
+    "client_seed": "1790536710786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 499,
+    "max_tickets": 499,
+    "combined_hash": "0b1b156d32267279aa46153778faf356a1a597c0495c4d2deafd1ac0c98707ec",
+    "result": "258",
+    "external_round_id": "32577784",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:18:30.000000Z",
+    "revealed_at": "2026-09-27T19:18:36.000000Z"
+}
