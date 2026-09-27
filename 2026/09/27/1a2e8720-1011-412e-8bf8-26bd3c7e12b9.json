@@ -1,0 +1,22 @@
+{
+    "round_id": "1a2e8720-1011-412e-8bf8-26bd3c7e12b9",
+    "draw_title": "Crack The safe to win £750 End Prize.",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/crack-the-safe-to-win-ps750-end-prize",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "9089297c2ed0f9d710359c03c62fb73da753c258dead6f1f41419b3896da37d8",
+    "drand_seed_hash": "a51284f3f78f45edeb37382877d92e943cda72f0179658c14c51f7fa53aa591bc8cd0364840fe3a99a6baac716f22e7e",
+    "client_seed": "1790536689220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16747,
+    "max_tickets": 50000,
+    "combined_hash": "2c1d79eb1a968105ae467c2003c25fe26dcb0842d0a95d3c53509751f3638626",
+    "result": "33085",
+    "external_round_id": "32577777",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:18:09.000000Z",
+    "revealed_at": "2026-09-27T19:18:15.000000Z"
+}
