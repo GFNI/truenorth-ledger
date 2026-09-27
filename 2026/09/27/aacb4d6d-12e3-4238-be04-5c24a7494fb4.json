@@ -1,0 +1,22 @@
+{
+    "round_id": "aacb4d6d-12e3-4238-be04-5c24a7494fb4",
+    "draw_title": "20 WAYS TO WIN £1000",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/20-ways-to-win-ps1000",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "405dfaf84d8ebe213b33e1eefdbaf3611b7f05452ecb3c38a691ebe12fbd2953",
+    "drand_seed_hash": "8ac345e46747a996d04fd3907e8b0934ae926323351f8899e33db4f250517ac1ce8f072365d7603475e45430942df638",
+    "client_seed": "1790539896801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31323,
+    "max_tickets": 210000,
+    "combined_hash": "d6097613f6670e9f8ef1e40dd78dce687482475fe872c3a0e30e868b6a96ef2a",
+    "result": "162871",
+    "external_round_id": "32578846",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:11:36.000000Z",
+    "revealed_at": "2026-09-27T20:11:42.000000Z"
+}
