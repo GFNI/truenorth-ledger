@@ -1,0 +1,22 @@
+{
+    "round_id": "e1834994-90bb-4856-8e06-5d7aecd3daaf",
+    "draw_title": "PLAIN SIMPLE £1000 FOR 49P!",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/plain-simple-ps1000-for-49p",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "a1cd872215e06296092c110908f95a4717a83931e1bd8ee1d80721952963b549",
+    "drand_seed_hash": "8d73f87d6eeda510750a856e858e93881f966761ac6c06afe0208930c992fc402e26426a89c9731c55be3b5d8fe05a21",
+    "client_seed": "1790538140448",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1477,
+    "max_tickets": 4000,
+    "combined_hash": "c8438ab5fd0a8039681749a02cec68010142c8735df3b7c847cafc4e809cc909",
+    "result": "1417",
+    "external_round_id": "32578261",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:42:20.000000Z",
+    "revealed_at": "2026-09-27T19:42:27.000000Z"
+}
