@@ -1,0 +1,22 @@
+{
+    "round_id": "73f2384d-a726-4e68-b754-786d8b509b0f",
+    "draw_title": "£100 MILLER & CARTER GIFT CARD",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ps100-miller-carter-gc",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "da65449c9297ccf38c71d2119d5a382a75b007f3273cf4233e0d85d2c45035df",
+    "drand_seed_hash": "86bc93eb8750fc8c6147cf312228596efdb5646db21da07151f0c98ffe4e8f7fb9e81104f342770de8f3ac66d2aa5e74",
+    "client_seed": "1790540123630",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 175,
+    "combined_hash": "f7a232af72f6fb1428c3f53108c464cb3fcbd2aca22493ada6c942e72c6cfe35",
+    "result": "170",
+    "external_round_id": "32578922",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:15:23.000000Z",
+    "revealed_at": "2026-09-27T20:15:30.000000Z"
+}
