@@ -1,0 +1,22 @@
+{
+    "round_id": "7fba41ed-6b42-42a7-a7f4-f66943f9ff4e",
+    "draw_title": "Cash Voltage - £1000 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-voltage-ps1000-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "0903630144a8530080109d372b44c72e9fed04c14990236235d06f0ba994d00c",
+    "drand_seed_hash": "b630676ee6b6541a0daea533d88c36448360eb70625ed1d6f5aa5be7fbdd37705db65f2a29c1d71b7e789a9c796cbb63",
+    "client_seed": "1790537916865",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 666211,
+    "max_tickets": 749999,
+    "combined_hash": "95ea7a39948b964fafaeec89c972f84af414cdda7492e2c06ebe0915d1453e79",
+    "result": "608043",
+    "external_round_id": "32578186",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:38:36.000000Z",
+    "revealed_at": "2026-09-27T19:38:42.000000Z"
+}
