@@ -1,0 +1,22 @@
+{
+    "round_id": "8a4986f9-32a5-4eba-ac89-609c5c9b00dc",
+    "draw_title": "Money Moles | £300 Top Instant Win",
+    "competition_url": "https://phatstax.co.uk/admin/products/money-moles",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "6752622f465f38e0dcf41dc97195aebfb99e0ae2390013ff857f6cbb7d7a079d",
+    "drand_seed_hash": "b647279ab6500ab6a66438a4d044c0d0ac85ccba4742ba5303866120e688975ddd7585ff7fec818ea4bd9137d3f6232a",
+    "client_seed": "1790539830149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91820,
+    "max_tickets": 310000,
+    "combined_hash": "ada76d730e8d55806a13d35b22ce317dfc43e21823179567e12e21eef5947b3c",
+    "result": "306190",
+    "external_round_id": "32578824",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T20:10:30.000000Z",
+    "revealed_at": "2026-09-27T20:10:36.000000Z"
+}
