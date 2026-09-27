@@ -1,0 +1,22 @@
+{
+    "round_id": "a6248b1c-d831-48fe-93e1-7ef640ba1421",
+    "draw_title": "The Big Pokémon Celebration (Pre Order Competition)",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/the-big-pokemon-celebration-pre-order-competition",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "48f957b6a5b39ee7d3310f902196fd23454bacf46177d83bd1a8cebfbd3c4952",
+    "drand_seed_hash": "afd06db28f9bbad8e166964302af7a7b4033f14bf3051868942c68ed36786c89ba37c061de1d46e7bc39131d76238d74",
+    "client_seed": "1790537744804",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13496,
+    "max_tickets": 29000,
+    "combined_hash": "21688bbff8209701f1dd31f930126e8e42eb23e8dcb3ffe2f278cbf08aa908a0",
+    "result": "7418",
+    "external_round_id": "32578129",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:35:44.000000Z",
+    "revealed_at": "2026-09-27T19:35:51.000000Z"
+}
