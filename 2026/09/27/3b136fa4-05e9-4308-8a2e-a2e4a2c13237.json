@@ -1,0 +1,22 @@
+{
+    "round_id": "3b136fa4-05e9-4308-8a2e-a2e4a2c13237",
+    "draw_title": "Highland Park 17 Year Old Between You and I by Laila Gohar",
+    "competition_url": "https://whiskyclubuk.com/admin/products/highland-park-17-year-old-between-you-and-i-by-laila-gohar",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "75b17fd160312ad4611c0ed82ba4195e75c2e4f4837a35107a9e5c9d13e5e016",
+    "drand_seed_hash": "882b89d84a50602105e8ef4f22756ef2d8527efd4d78771771a22d9b9a8464f77287b3e3cc2238e3e548acde57d8db28",
+    "client_seed": "1790543407047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 99,
+    "combined_hash": "0089d0afbba1cd1168b3b30f4ee5a6354d7de278caacb9b33002822e7aacd23f",
+    "result": "2",
+    "external_round_id": "32580016",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T21:10:07.000000Z",
+    "revealed_at": "2026-09-27T21:10:12.000000Z"
+}
