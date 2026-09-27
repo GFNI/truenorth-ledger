@@ -1,0 +1,22 @@
+{
+    "round_id": "ffcb90a1-d89f-4adc-bb11-1b411dcfe764",
+    "draw_title": "🔴ODDS BOOSTER - 500 ENTRIES INTO THE TIGUAN #4",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-500-entries-into-the-tiguan-4",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b1ee7b3c0717d34f0cd7f3965540f733460e13237368f3448f65094ce2d12ead",
+    "drand_seed_hash": "a69ba4e720794b2fc402c63cb1de8e4778b0ef6fd03d12a0f054da3ca6451a3f7c35f90cfc7639f81a39a65796a8c187",
+    "client_seed": "1790518500789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 655,
+    "max_tickets": 655,
+    "combined_hash": "197d8e2b278ebfd1173780f92ec79544e400e4d62eb3b3e7a2510d9cf8691205",
+    "result": "471",
+    "external_round_id": "32571714",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T14:15:00.000000Z",
+    "revealed_at": "2026-09-27T14:15:06.000000Z"
+}
