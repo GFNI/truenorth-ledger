@@ -1,0 +1,22 @@
+{
+    "round_id": "13e073f8-93b7-402e-bf4c-2d2e4f8e1300",
+    "draw_title": "Grab A Monkey - 10 X £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/grab-a-monkey-10-x-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "63b08597fc24fc90e1678d44871086d2481e17602ce32e712158bb724ba6f1df",
+    "drand_seed_hash": "abeba2ac5e9dd0cf3eaa8659705c008bad3344576c46b5b71552c8f793f71e4ef2dbd376c4757476e1a22a7019674145",
+    "client_seed": "1790537741691",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3051244,
+    "max_tickets": 3055555,
+    "combined_hash": "6505c9237291d0eaaa9aac7a587f1aa41d4c756e6a78bad304d3a2e5cd7bfbbf",
+    "result": "1487898",
+    "external_round_id": "32578128",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:35:41.000000Z",
+    "revealed_at": "2026-09-27T19:35:48.000000Z"
+}
