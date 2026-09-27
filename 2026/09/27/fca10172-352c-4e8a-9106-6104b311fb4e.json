@@ -1,0 +1,22 @@
+{
+    "round_id": "fca10172-352c-4e8a-9106-6104b311fb4e",
+    "draw_title": "Minelab Vanquish 560 Pro Pack",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/minelab-vanquish-560-pro-pack-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c6440c866ab9041558c17ad2ad8d14689f75ca2ce8df36eaf376c83257125ab0",
+    "drand_seed_hash": "97804299898e06aa44594ced32bb7c1fd7ecc14f902548a26c5b3c70a8505e89124bbd81d770b67e886e2e05e0fd9f83",
+    "client_seed": "1790537601635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 222,
+    "max_tickets": 700,
+    "combined_hash": "b4b929b6129d14728c2b957da77bf5be6a85a1d593d45246f748a0325fb89e85",
+    "result": "429",
+    "external_round_id": "32578081",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:33:21.000000Z",
+    "revealed_at": "2026-09-27T19:33:27.000000Z"
+}
