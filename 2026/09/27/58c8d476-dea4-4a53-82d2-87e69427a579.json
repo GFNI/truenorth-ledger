@@ -1,0 +1,22 @@
+{
+    "round_id": "58c8d476-dea4-4a53-82d2-87e69427a579",
+    "draw_title": "Sunday Special",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/sunday-special",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "d2f421040e4caac89fd20c0aeb2fae854f7a797ce6097fb917d4175e2c4d37b1",
+    "drand_seed_hash": "b95fc6a34d63b201543ea7d7c15786382448144c3372bc8a41db8ffa964737df647092b4397536d46fbe4f92a09c8513",
+    "client_seed": "1790536276084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 191,
+    "max_tickets": 200,
+    "combined_hash": "6bbf16c83640861350c5fbc28da920ea497a3c8ebd17e9771b5a9cfce57b7118",
+    "result": "196",
+    "external_round_id": "32577640",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:11:16.000000Z",
+    "revealed_at": "2026-09-27T19:11:24.000000Z"
+}
