@@ -1,0 +1,22 @@
+{
+    "round_id": "88f7994e-e1d1-444a-9c7d-1f7bfcd39747",
+    "draw_title": "WIN 200 TICKETS INTO THE GOLD AND SILVER BUNDLE 27.09.26",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-200-tickets-into-the-gold-and-silver-bundle-270926",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "5604964ba88f24710410fabe4249d8d783045793a9469e19966603071aaa213d",
+    "drand_seed_hash": "a6dc2ff3144bfa34931522b0203c470261ad9a8582444eced26f0020003f8de573441b33047dbdcb82a594320537cf93",
+    "client_seed": "1790536267355",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189,
+    "max_tickets": 200,
+    "combined_hash": "a7688881286dc23e1d96411b36451f65dab245e1d7469498b49e149adbd7e507",
+    "result": "152",
+    "external_round_id": "32577637",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:11:07.000000Z",
+    "revealed_at": "2026-09-27T19:11:15.000000Z"
+}
