@@ -1,0 +1,22 @@
+{
+    "round_id": "530c1f62-4c02-40e2-a281-057f4f6b6cdf",
+    "draw_title": "Lego Minecraft #21272",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/lego-minecraft-21272",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "b40a97dd96b08bba66363d98c10ae200ffdbe2fccd5b6f14734b3344a205e129",
+    "drand_seed_hash": "87e27ce3f31873244325c5e588a246982e12c6e854d9626de62123393374104c7398537a34d8a6ed9db0ea11c18bd9c5",
+    "client_seed": "1790536878307",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 120,
+    "combined_hash": "d7edb8cacaa4d93b0ca1be0d32774e536c4ee6d66477f604b9678414957fbf4d",
+    "result": "104",
+    "external_round_id": "32577840",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:21:18.000000Z",
+    "revealed_at": "2026-09-27T19:21:24.000000Z"
+}
