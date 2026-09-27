@@ -1,0 +1,22 @@
+{
+    "round_id": "0e6d9c11-f152-4b8b-93ed-85ec53dc0154",
+    "draw_title": "Win a Sealey Topchest & Rollcab Tool Kit!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-sealey-topchest-rollcab-tool-kit-3",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "a46b6d2676ba4332974345744b4704dea3c6c803b1ac64b8e12368a3e736ec15",
+    "drand_seed_hash": "86bebe87f1f819498eadb11940e03cb443e7687e91727db393db07a9aa73cd00aae191dfc7145381eebaecc455098d7d",
+    "client_seed": "1790537118659",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1139,
+    "max_tickets": 1499,
+    "combined_hash": "afccb07cc7a597c0e0f73635b3e64f319847f85f9fa026b94066a396bcd3ea64",
+    "result": "591",
+    "external_round_id": "32577920",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:25:18.000000Z",
+    "revealed_at": "2026-09-27T19:25:24.000000Z"
+}
