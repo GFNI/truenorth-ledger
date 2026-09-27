@@ -1,0 +1,22 @@
+{
+    "round_id": "be3ef9df-0da6-49eb-b2cb-9b5ebd4ea38b",
+    "draw_title": "Win 25x Nintendo Switch 2 Tickets - Draw 3",
+    "competition_url": "https://expcomps.com/admin/products/win-25x-nintendo-switch-2-tickets-draw-3",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "53695bd3471c23dc7957298c64e1f0410fcaccacae6ac0a5eef75a9db48b2a90",
+    "drand_seed_hash": "869c50a75d82cd740b1e1633611497296cc51e79bb6142da8250a2b1031c63811ed8575ec9efeadbc2fa3e313b72c3d8",
+    "client_seed": "1790536260620",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32,
+    "max_tickets": 65,
+    "combined_hash": "718894a5b8dbf099c7aa7c820deab859791f61c7feab8e5bd9a2aa116026f61e",
+    "result": "23",
+    "external_round_id": "32577634",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:11:00.000000Z",
+    "revealed_at": "2026-09-27T19:11:06.000000Z"
+}
