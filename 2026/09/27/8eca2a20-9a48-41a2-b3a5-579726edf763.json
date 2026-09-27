@@ -1,0 +1,22 @@
+{
+    "round_id": "8eca2a20-9a48-41a2-b3a5-579726edf763",
+    "draw_title": "The Lab Booster - £250 Mystery Ticket Bundle End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/labbooster",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "230c8059f4a74f1e8ed20e7a022b992f5c3d440935459eedb1c3246e4c18f58f",
+    "drand_seed_hash": "b8e347d65f191b4ed2e1e529ef997ebfc3c6bb84f02294bf9c4a5ad96541c7d20accd2854de78685da0b823039967f9b",
+    "client_seed": "1790534406903",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 115589,
+    "max_tickets": 500000,
+    "combined_hash": "2b07568ac798242dd948a98a10cae16b87c060091ec757f858998467581d2f1d",
+    "result": "393740",
+    "external_round_id": "32577017",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T18:40:07.000000Z",
+    "revealed_at": "2026-09-27T18:40:15.000000Z"
+}
