@@ -1,0 +1,22 @@
+{
+    "round_id": "6f79e7af-aa02-486f-81c2-b632e091ebe7",
+    "draw_title": "🐶 BARKIN’ 2 THE BANK! 💷🔥",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/barkin-2-the-bank",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "5f1b2dbe73d76bc39ecb630919c3307b436b94982fd238f240cc4c8010a029ab",
+    "drand_seed_hash": "aeb2b3bdeab908ee50253b41fc15c79599174fb13a4a22981e84462e1b95bff5e02e2c4c4f2677422e5cd1f644183122",
+    "client_seed": "1790536284489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25594,
+    "max_tickets": 59999,
+    "combined_hash": "7b7798f4723688d6c5b7d14eef68cca04c96b0008e9ad5b60b07aeb7461c31be",
+    "result": "1159",
+    "external_round_id": "32577642",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:11:24.000000Z",
+    "revealed_at": "2026-09-27T19:11:30.000000Z"
+}
