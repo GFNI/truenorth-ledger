@@ -1,0 +1,22 @@
+{
+    "round_id": "bdea96d1-6ccd-456a-8f83-513a961aa884",
+    "draw_title": "FULL THROTTLE - £100,000 INSTANT WINNER",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/full-throttle-ps100000-instant-winner",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "5ace4f4d4c40414739fffc87b0d3a5ac27087f14b6a961ea25680b1c989164d0",
+    "drand_seed_hash": "b7e2257cffa22229d9f7d69a422062ae5a4d418f02bf4e44408b4fd4d66a4dd914ffb822225378a3efbf669a55efeba5",
+    "client_seed": "1790538028532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5800,
+    "max_tickets": 200000,
+    "combined_hash": "0d518bbb2a05bb34f4d3a474e1552869b3bcc078c9b8c29b0f415a63da1afbeb",
+    "result": "69646",
+    "external_round_id": "32578224",
+    "processing_status": "completed",
+    "created_at": "2026-09-27T19:40:28.000000Z",
+    "revealed_at": "2026-09-27T19:40:36.000000Z"
+}
