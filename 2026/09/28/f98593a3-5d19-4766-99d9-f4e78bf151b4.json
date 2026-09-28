@@ -1,0 +1,22 @@
+{
+    "round_id": "f98593a3-5d19-4766-99d9-f4e78bf151b4",
+    "draw_title": "Tw*t A Mole",
+    "competition_url": "https://jetcomps.co.uk/admin/products/twatamole",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "61269c0a8541bdde405f29231c8287c02904fbc464779d4469f5be96dcc7b8f1",
+    "drand_seed_hash": "b184a80d9cea1e4fb7a0fc55dc5cae4bfab063e448fe4d9b595f13ac24a16c2a8609c11345baa9e5db574a06ca25c959",
+    "client_seed": "1790623481389",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23999,
+    "max_tickets": 23999,
+    "combined_hash": "00c90609615b89162c7a0ff01ad93db98071f8cd1c830ab7ea2362a81d520b65",
+    "result": "5927",
+    "external_round_id": "32606708",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:24:41.000000Z",
+    "revealed_at": "2026-09-28T19:24:48.000000Z"
+}
