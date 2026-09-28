@@ -1,0 +1,22 @@
+{
+    "round_id": "15090e31-6229-4d23-af0a-86c7bc812b2e",
+    "draw_title": "Kongs Cash Hunt",
+    "competition_url": "https://chaotic.co.uk/competition/kongs-cash-hunt-1366",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5ff32d79ed58a5578d9dca9e773dcdd87d1a34628d98a85c622fe5a2af49b99c",
+    "drand_seed_hash": "b668b93e0749ef7f2de30e5595692bc8e69620892b07af57bf26f62f97ccfa8ea4d7d064af1d7fa994570ac89f2d8d1c",
+    "client_seed": "1790624840953",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "9bf630664074e207d0116a373742ebe4b032b9c492e04b719b4b67fb438e7f68",
+    "result": "486606",
+    "external_round_id": "32607161",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:47:21.000000Z",
+    "revealed_at": "2026-09-28T19:47:27.000000Z"
+}
