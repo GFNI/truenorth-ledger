@@ -1,0 +1,22 @@
+{
+    "round_id": "8f547556-1318-4ff3-935c-d5d6f697a8da",
+    "draw_title": "BEAT THE MONDAY BLUES – £100 CASH!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/beat-the-monday-blues-ps100-cash-4",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "6a748ea6aa12d1786c8e297227fca5b45b1c3320bb3864da400151e2abd7ab96",
+    "drand_seed_hash": "88e5706027aa2933a5457f560f3299863153f7480561796ca17f6bcc05c3f9dfa2108243acc4a9e0155c738e040a65d6",
+    "client_seed": "1790593817248",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2440,
+    "max_tickets": 4000,
+    "combined_hash": "77335db56e81d8fdf692ddc9d7df2e5a09900f27e99a6b1b8ec4910c52fc193c",
+    "result": "120",
+    "external_round_id": "32596820",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T11:10:17.000000Z",
+    "revealed_at": "2026-09-28T11:10:24.000000Z"
+}
