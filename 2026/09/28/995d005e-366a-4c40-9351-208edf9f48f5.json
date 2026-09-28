@@ -1,0 +1,22 @@
+{
+    "round_id": "995d005e-366a-4c40-9351-208edf9f48f5",
+    "draw_title": "SMASH THE CASH",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/smash-the-cash",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "de67d03a945fe19254ccd032fac83dfe395e9c4e8d8f41d3cf462cd87af6b68e",
+    "drand_seed_hash": "915decfde0b1ef4ebad7a3bdd3752cc6500011bfbb0758d132e871859955fcf764cefdc3628985e941c1874f8459f066",
+    "client_seed": "1790626756982",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3213,
+    "max_tickets": 40000,
+    "combined_hash": "79497e9aec2ec863a7bbff176e272fbcd8f4428886ecd971b0097f7e0a50406a",
+    "result": "7610",
+    "external_round_id": "32607800",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:19:17.000000Z",
+    "revealed_at": "2026-09-28T20:19:24.000000Z"
+}
