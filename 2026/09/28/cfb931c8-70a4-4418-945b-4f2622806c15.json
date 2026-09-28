@@ -1,0 +1,22 @@
+{
+    "round_id": "cfb931c8-70a4-4418-945b-4f2622806c15",
+    "draw_title": "Ry's Cash Wheel - Spin To Win Upto £2,500 Cash!",
+    "competition_url": "https://ryscompetitions.com/admin/products/rys-cash-wheel-spin-to-win-upto-ps2500-cash",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "e531c2255e359557e8dc2a6c22377d37188f7167325901acdaeef02909442a99",
+    "drand_seed_hash": "a9dc4cf10297cb647ed0456f949ec2ab898bdd4a1971ef2feca55ea4767132d91b2abfc3573d8b92e0b0d66632cfca14",
+    "client_seed": "1790628367023",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1668397,
+    "max_tickets": 5000000,
+    "combined_hash": "5847f7031663212d644d85e6d885d6c8bfb42059a64827c4b413c22d875492db",
+    "result": "1537305",
+    "external_round_id": "32608337",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:46:07.000000Z",
+    "revealed_at": "2026-09-28T20:46:15.000000Z"
+}
