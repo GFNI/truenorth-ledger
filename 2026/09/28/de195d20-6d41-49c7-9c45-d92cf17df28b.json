@@ -1,0 +1,22 @@
+{
+    "round_id": "de195d20-6d41-49c7-9c45-d92cf17df28b",
+    "draw_title": "Bounty's Pinata Party Instant Wins 🪙🪅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bountys-pinata-party-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "15468cba50a21166c45d71c735784d39cab4716dbc7323339ce79d219818d6a2",
+    "drand_seed_hash": "a6f8d8137bafc789b03b4e7621ab72574cbfa0bd81dac499d10f8e684b95e656c11f8b62c78091fe218dfc9284522bed",
+    "client_seed": "1790629816206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150988,
+    "max_tickets": 716400,
+    "combined_hash": "e16c6e9fe1033d13248ee532f271b13236f3e6e6a3453a5b49421ed8eab53be5",
+    "result": "492978",
+    "external_round_id": "32608820",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T21:10:16.000000Z",
+    "revealed_at": "2026-09-28T21:10:24.000000Z"
+}
