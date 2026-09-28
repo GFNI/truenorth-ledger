@@ -1,0 +1,22 @@
+{
+    "round_id": "96892955-9e53-4ec6-8e43-99a45b8fe65e",
+    "draw_title": "🍟 SMEG Dual Flavour Air Fryer 🍟",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/smeg-dual-flavour-air-fryer",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0a09be364a3a9d294266a1134605c63be8b0f2f7d08d7c6195171a46f84d89fc",
+    "drand_seed_hash": "b881a4055885588ee4987970820c72abb4cab843a8d4b758b4150989102be45387d2ed4fefed70fd82b22d8abe043c61",
+    "client_seed": "1790623193808",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 695,
+    "max_tickets": 695,
+    "combined_hash": "bb9961336463a252d7efea36ca66d028a86031e3ccf50a0070e0ddc988780acd",
+    "result": "149",
+    "external_round_id": "32606612",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:19:53.000000Z",
+    "revealed_at": "2026-09-28T19:20:00.000000Z"
+}
