@@ -1,0 +1,22 @@
+{
+    "round_id": "2d79c1ee-8249-4e84-a18a-cf5e31c00bdc",
+    "draw_title": "CASE OF 24 MONSTERS",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/case-of-24-monsters",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "6167f958a7dda47b0f072ade454fc48d372a86ca3b327691165961433387b69a",
+    "drand_seed_hash": "820733b1b901a3936dbfcc918f21811d92f8e13b444ba8a0b522491411868ab54ff8d43eccc0fe907cc6a74f615ea9c3",
+    "client_seed": "1790626553650",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 60,
+    "combined_hash": "99a507bdeeb40ae0301dae6c78ddaecc647d31174c300dccb0ab923bfb19d966",
+    "result": "50",
+    "external_round_id": "32607732",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:15:53.000000Z",
+    "revealed_at": "2026-09-28T20:16:00.000000Z"
+}
