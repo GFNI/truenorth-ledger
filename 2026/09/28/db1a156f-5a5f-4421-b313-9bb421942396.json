@@ -1,0 +1,22 @@
+{
+    "round_id": "db1a156f-5a5f-4421-b313-9bb421942396",
+    "draw_title": "BALLOON POP",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/balloon-pop",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "b1b30b7d42c1f37dccb2ed08fc61c59f475a7a34043ed6e7619b2c88cec9f408",
+    "drand_seed_hash": "a0fe62482da01ab3ad9245b95152db306fbaa89209929fb05904da20e7a46184ef72218e265e31e57b3f493a0a3dcbde",
+    "client_seed": "1790626604803",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10377,
+    "max_tickets": 200000,
+    "combined_hash": "daa0cf470187d021aded1f6842c719faa49db2877f9b48b687e7dc1dbca0496a",
+    "result": "189467",
+    "external_round_id": "32607749",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:16:44.000000Z",
+    "revealed_at": "2026-09-28T20:16:51.000000Z"
+}
