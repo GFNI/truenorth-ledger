@@ -1,0 +1,22 @@
+{
+    "round_id": "bf8d9517-52c8-49b9-8ce5-0b743766489e",
+    "draw_title": "£300,000 WIN TICKETS INTO ALL COMPS - £250 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/ps300000-win-tickets-into-all-comps-ps250-end-draw-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "5700b8cab159c00f7485218fa8993e994ce9bb766b8aa74735b1dfb9704c1e50",
+    "drand_seed_hash": "b6f6469c08b4946c66dee1f6479d070a109098872d239983daa0243ade8dd510aee7e4960ff06512dc817035bac87082",
+    "client_seed": "1790626212918",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8154,
+    "max_tickets": 869565,
+    "combined_hash": "023933dc258be78dc0233c0cbdb0053f94c1ca0ea4d6700bbdf37a6fd2392288",
+    "result": "432331",
+    "external_round_id": "32607618",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:10:13.000000Z",
+    "revealed_at": "2026-09-28T20:10:18.000000Z"
+}
