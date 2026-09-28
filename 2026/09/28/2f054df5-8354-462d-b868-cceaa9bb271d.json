@@ -1,0 +1,22 @@
+{
+    "round_id": "2f054df5-8354-462d-b868-cceaa9bb271d",
+    "draw_title": "BMW 100 Tickets (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/100-x-tickets-into-bmw-2-tickets-each",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "55cba57c188ffab3fb55ae0101d40134f7ed2096e61cc6f7f0a75e7d2b80716e",
+    "drand_seed_hash": "b4df43adb9b27a974a6e2f3a197be9b850c1cd69c0c246db3430d7d31a1a102b078984f982c194c3b027ec109f46de50",
+    "client_seed": "1790630272768",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 200,
+    "combined_hash": "bdc4475ddc7c6fc13b46041c5e2ff2f4212ee896b932087a8ca9c3ae73493516",
+    "result": "110",
+    "external_round_id": "32608972",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T21:17:52.000000Z",
+    "revealed_at": "2026-09-28T21:18:00.000000Z"
+}
