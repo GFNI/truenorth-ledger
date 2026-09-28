@@ -1,0 +1,22 @@
+{
+    "round_id": "1e192fa0-63f3-410f-b1af-5bbe23060f55",
+    "draw_title": "🎁 The Harrods Beauty Advent Calendar 2026 🎁",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/the-harrods-beauty-advent-calendar-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f9b2eb6da3102bf8abf8e1d69efb10a66d29a11e5a2547d8e390655ad3ab7ce8",
+    "drand_seed_hash": "aa7687bc97e8ad207523eaecd1bb98772bd3bee82abb294100ec6229085d5b13acbf45b73110c12ba08024d80b589960",
+    "client_seed": "1790623096335",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 650,
+    "combined_hash": "5afeb3eb2b210562107a72d2587d4234c29e3c39d32981e1e00afdf10d782687",
+    "result": "419",
+    "external_round_id": "32606580",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:18:16.000000Z",
+    "revealed_at": "2026-09-28T19:18:24.000000Z"
+}
