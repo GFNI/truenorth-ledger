@@ -1,0 +1,22 @@
+{
+    "round_id": "1a94bb2b-a777-43f1-9696-db47f3d054b0",
+    "draw_title": "£500",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps500",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "9cd8f36348e0bdc2db165c7016f6be70679a771be741cdeeea7f147874e5312c",
+    "drand_seed_hash": "ae7950666643e6c1843986b9f38bd762d09578a92a1f337a02cba36aeb2e6e0ef7cc3c1495358b6577b4520e10821ba0",
+    "client_seed": "1790628984712",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39342,
+    "max_tickets": 80000,
+    "combined_hash": "a09fec22a882b837b9747b27f76eb608a48525a2123747afbeaad4dcfe6322c4",
+    "result": "12705",
+    "external_round_id": "32608542",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:56:24.000000Z",
+    "revealed_at": "2026-09-28T20:56:30.000000Z"
+}
