@@ -1,0 +1,22 @@
+{
+    "round_id": "edc737b4-4c6e-4bfd-888d-d3d0182528bc",
+    "draw_title": "WE LOVE CHOCOLATE",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/we-love-chocolate",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "7b179a1bc6fa7ea787d3092e8bd145bd7a9cc243e474b33b264556a9b93368a7",
+    "drand_seed_hash": "8db033aa1a71a67c01663089746eafd5e61e11ffb71ad56990db51c5e27acb19c2359c5eeb1be0635ec7776e41a52e06",
+    "client_seed": "1790626475166",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 50,
+    "combined_hash": "efbec536849491374f2a328471f231a1b7d6596723237b036c741b6a8717c89b",
+    "result": "36",
+    "external_round_id": "32607706",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T20:14:35.000000Z",
+    "revealed_at": "2026-09-28T20:14:42.000000Z"
+}
