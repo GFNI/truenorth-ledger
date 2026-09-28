@@ -1,0 +1,22 @@
+{
+    "round_id": "92365e56-59de-4fbe-be95-4159099e1f9d",
+    "draw_title": "🧺The Christmas Day Hamper🧺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/the-christmas-day-hamper",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ee7d13762fadade2055381bd92ca396de5f809ef0235369c50b649b81d1cea43",
+    "drand_seed_hash": "90e80a983b5b58d0b76f29560c0afab4c32a2567771b94a30f2e411df4818ab06230fd25aa3e5cc346cf635e2669cba1",
+    "client_seed": "1790623768068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 890,
+    "max_tickets": 890,
+    "combined_hash": "91516cff09a90ffc502b16fcac26ed9ed6df09181dbe0ba87313698c3006f798",
+    "result": "260",
+    "external_round_id": "32606804",
+    "processing_status": "completed",
+    "created_at": "2026-09-28T19:29:28.000000Z",
+    "revealed_at": "2026-09-28T19:29:36.000000Z"
+}
