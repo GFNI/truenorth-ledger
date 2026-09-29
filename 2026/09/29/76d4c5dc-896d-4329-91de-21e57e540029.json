@@ -1,0 +1,22 @@
+{
+    "round_id": "76d4c5dc-896d-4329-91de-21e57e540029",
+    "draw_title": "Penny Payday",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/penny-payday",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "15c0e154e548aef0907d2251de1b7a7e57dae0854cc95d51370a96ed77007956",
+    "drand_seed_hash": "b74104fa30863e7c41034d95cde736368d34799a867bf5cec85655e3c78a651362617430f81a72e44444da583372dcd6",
+    "client_seed": "1790721669743",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999999,
+    "max_tickets": 1999999,
+    "combined_hash": "602ba8ccbf53a88a40dc2cc634e62a23cfef127f1206d6f557cb24e7a6633b88",
+    "result": "1574933",
+    "external_round_id": "32639437",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T22:41:09.000000Z",
+    "revealed_at": "2026-09-29T22:41:15.000000Z"
+}
