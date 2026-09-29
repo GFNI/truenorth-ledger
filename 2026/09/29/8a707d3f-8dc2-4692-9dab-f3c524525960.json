@@ -1,0 +1,22 @@
+{
+    "round_id": "8a707d3f-8dc2-4692-9dab-f3c524525960",
+    "draw_title": "SCHÖNE 1KG FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/schone-1kg-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "fb77ad6813bb540973ac9b61fc99c14b8480ff1da73362bf917c719077e6b6f0",
+    "drand_seed_hash": "b1171e14a36118950b4a45745426832b2a92e7e1e7623bbc285343fc43f0586dc6ad459c328dc86206d3386f1844e05e",
+    "client_seed": "1790712391019",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1040,
+    "max_tickets": 2500,
+    "combined_hash": "39ad02cc9e600b72b52941180bb7aae18727cde375b253deee21428ecc0b35eb",
+    "result": "2482",
+    "external_round_id": "32636345",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:06:31.000000Z",
+    "revealed_at": "2026-09-29T20:06:39.000000Z"
+}
