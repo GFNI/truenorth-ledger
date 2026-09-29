@@ -1,0 +1,22 @@
+{
+    "round_id": "2a2ccbe9-f4dc-468f-8485-0867122b7e53",
+    "draw_title": "2007 ROYAL DIAMOND WEDDING £5 GOLD COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2007-royal-diamond-wedding-5-gold-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "54bc5af9dad8f60bd5f317bc59427b25e80c228f9f9ed749003536cc018aeeb4",
+    "drand_seed_hash": "aba3190db779d0d623403a049b1ad74a481c9a66753cc078230b04e02d27b232fa952f8c9ffd066e3d608c05409f36b0",
+    "client_seed": "1790712443554",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2334,
+    "max_tickets": 5000,
+    "combined_hash": "55ba23eb3245999f0b4ee73081d23860c0b9f400c1ca146483cc83e16b1cedb4",
+    "result": "2222",
+    "external_round_id": "32636362",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:07:23.000000Z",
+    "revealed_at": "2026-09-29T20:07:30.000000Z"
+}
