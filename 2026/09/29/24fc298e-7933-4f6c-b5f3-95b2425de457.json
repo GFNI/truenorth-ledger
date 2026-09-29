@@ -1,0 +1,22 @@
+{
+    "round_id": "24fc298e-7933-4f6c-b5f3-95b2425de457",
+    "draw_title": "Win £25 worth of tickets into 5KG Bait Bundle + Bait Bundle Instant Wins - 5p a ticket!!",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-5kg-bait-bundle-bait-bundle-instant-wins-5p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "f2c2484b9c340497c36d96185e5754a4b5ef78974be0696f21e3d846b84ea34c",
+    "drand_seed_hash": "888fa55cc582255f90d47f1a8c9498b6e87e0f2f8585102bf958c2af451c132af79d6b9b1091bee7a54b59765cec31af",
+    "client_seed": "1790716990208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 700,
+    "max_tickets": 700,
+    "combined_hash": "cfd546aa83df7fa169145a12ccb97baed6afc65fb5fea9940a9db25963cf2094",
+    "result": "376",
+    "external_round_id": "32637878",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T21:23:10.000000Z",
+    "revealed_at": "2026-09-29T21:23:18.000000Z"
+}
