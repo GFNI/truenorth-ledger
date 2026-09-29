@@ -1,0 +1,22 @@
+{
+    "round_id": "de21a515-31f8-4605-9bed-2f74aab09485",
+    "draw_title": "THE 100 CLUB! WIN THIS DALMORE 17 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-100-club-win-this-dalmore-17-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "2a80554591c8939483fb412ff1eb1f24a03fc086c281ee74116e2d15cc238d94",
+    "drand_seed_hash": "b50db86ee53b1712f0a23013a13f82b518c19f360d558b0d250bd213e048d788d248276971792cf2b13564fc078c0e9a",
+    "client_seed": "1790716228758",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 86,
+    "max_tickets": 100,
+    "combined_hash": "d37f70c83b429a8d2fde665b2f5376d9895590750acc51fde48ae5cec37fe056",
+    "result": "56",
+    "external_round_id": "32637624",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T21:10:28.000000Z",
+    "revealed_at": "2026-09-29T21:10:36.000000Z"
+}
