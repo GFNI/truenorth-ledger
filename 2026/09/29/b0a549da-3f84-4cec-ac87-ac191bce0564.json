@@ -1,0 +1,22 @@
+{
+    "round_id": "b0a549da-3f84-4cec-ac87-ac191bce0564",
+    "draw_title": "WIN A £5K CHRISTMAS TRIP TO NEW YORK",
+    "competition_url": "https://geardowncompetitions.com/admin/products/win-a-5k-christmas-trip-to-new-york",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "47550db13607b5cbddf598a4f650e33c1bdb971e90fda2463444cef06676506d",
+    "drand_seed_hash": "a40f220f12cee5e05cf24b21103a9d9783bcd9f75e8cde561772a4f2987296e76ae0d3f8e283e3bf45c8791ba0c99418",
+    "client_seed": "1790714222365",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6304,
+    "max_tickets": 19999,
+    "combined_hash": "7b511e0751fadfad9f9f9dee16c65013e4f72c3e3f0dca9e269373ca3a62b427",
+    "result": "13423",
+    "external_round_id": "32636955",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:37:02.000000Z",
+    "revealed_at": "2026-09-29T20:37:09.000000Z"
+}
