@@ -1,0 +1,22 @@
+{
+    "round_id": "f46effa5-00f9-4397-9000-2e9bee8e6df6",
+    "draw_title": "THE 100 CLUB! WIN THIS GLENFARCLAS 17 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-100-club-win-this-glenfarclas-17-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "210d7059d015d7ed5866f106a8b83b1af5ffb5d81c9b48c238554f4f7e1472bb",
+    "drand_seed_hash": "a0d681aae97e129ebff028208298193fd07a35765c55e9ff11372827a61821121c93ed6f2af1b56d689641836dede376",
+    "client_seed": "1790716242845",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 100,
+    "combined_hash": "d07cb67c835ac819b25268f4a03d596100e692fc8485f1b29b11da034381c303",
+    "result": "89",
+    "external_round_id": "32637628",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T21:10:42.000000Z",
+    "revealed_at": "2026-09-29T21:10:48.000000Z"
+}
