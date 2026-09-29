@@ -1,0 +1,22 @@
+{
+    "round_id": "320d0b80-81f8-4441-a4e5-a8758600e791",
+    "draw_title": "£5K PENNY PAYDAY",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-penny-payday",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "d8427fdf42a1ab681c311853c27ad96e0ffbd15fc7ee049520be339d665eb593",
+    "drand_seed_hash": "ada31b6c05aa06335a60fc647c50da431f7c04614fdc64e147a8bca6872ea1ea3eabdf39248c3d2737a709a9ae621235",
+    "client_seed": "1790713867460",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400789,
+    "max_tickets": 999999,
+    "combined_hash": "430d543aaab3513dc705c685d880474d65469a1c5ad92ea7339a829e32521810",
+    "result": "587926",
+    "external_round_id": "32636837",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:31:07.000000Z",
+    "revealed_at": "2026-09-29T20:31:15.000000Z"
+}
