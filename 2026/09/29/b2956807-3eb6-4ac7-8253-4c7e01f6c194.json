@@ -1,0 +1,22 @@
+{
+    "round_id": "b2956807-3eb6-4ac7-8253-4c7e01f6c194",
+    "draw_title": "500s, 50s, Fivers or F*ck All",
+    "competition_url": "https://ryscompetitions.com/admin/products/500s-50s-fivers-or-fck-all",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "3f498363a3befbbf0a63602aa5c9de226cd8db8178589267ce7945cc4431846f",
+    "drand_seed_hash": "ac67f4655d4fbbffeed00d85ba977660df2dfef5b4455c30ca2febf3ea052a1b1561b75a884f71c5962380d5bdba7a52",
+    "client_seed": "1790712659093",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116900,
+    "max_tickets": 999999,
+    "combined_hash": "242ebaea1995169576c05988c98c36baaf0d084224788f84f9f1ae34f4c89606",
+    "result": "73991",
+    "external_round_id": "32636434",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:10:59.000000Z",
+    "revealed_at": "2026-09-29T20:11:06.000000Z"
+}
