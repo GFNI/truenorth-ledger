@@ -1,0 +1,22 @@
+{
+    "round_id": "4501e0a5-25fa-4f8a-8ea8-30c5d4b899cb",
+    "draw_title": "LOCKOS LOOT! £1,000 END PRIZE WITH 10 £100 CASH INSTANT WINS PLUS MUCH MORE!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/lockos-loot-ps1000-end-prize-with-10-ps100-cash-instant-wins-plus-much-more",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "922192358547257564ccd1979c0b748211a378c7c426b438adff86c11c7e5b8e",
+    "drand_seed_hash": "87c018dd5489723553480769073a61205d5f3abded12ae4f446749f03810f14aca7421aa9340de483fb05e377217ffac",
+    "client_seed": "1790710489990",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12031,
+    "max_tickets": 80000,
+    "combined_hash": "9b8621d1b0c60e2e7f562b27528c8ce1830af77cd0b2786475716a32fd758abc",
+    "result": "75292",
+    "external_round_id": "32635711",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T19:34:50.000000Z",
+    "revealed_at": "2026-09-29T19:34:57.000000Z"
+}
