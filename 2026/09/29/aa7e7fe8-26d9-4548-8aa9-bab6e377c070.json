@@ -1,0 +1,22 @@
+{
+    "round_id": "aa7e7fe8-26d9-4548-8aa9-bab6e377c070",
+    "draw_title": "Win A Home Treadmill!",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-home-treadmill-2",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "293bfa53cfc3046008cc4bbd47bf42a34bee196bb7580060e52b3be0a8459df0",
+    "drand_seed_hash": "9065f74c7586cd80985a7178e89cfb88f97c31eb640f139ad408e966872f96e397ded9870e39f4447ce38dce8b30847a",
+    "client_seed": "1790709406406",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 603,
+    "max_tickets": 2500,
+    "combined_hash": "c349aa3868b18bb6dc21b3bb30fd6d062571f1277be869b2e88a2c114a6fb730",
+    "result": "1600",
+    "external_round_id": "32635350",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T19:16:46.000000Z",
+    "revealed_at": "2026-09-29T19:16:54.000000Z"
+}
