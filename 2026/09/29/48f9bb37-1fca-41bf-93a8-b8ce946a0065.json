@@ -1,0 +1,22 @@
+{
+    "round_id": "48f9bb37-1fca-41bf-93a8-b8ce946a0065",
+    "draw_title": "Sealey Tools MEGA INSTANT WINS! 🔧🛠️",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/sealey-mega-instant-wins",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "1a14cf035fec347d00cd0c80ecde5f1344a01ee882315dabba51460f929d990a",
+    "drand_seed_hash": "ba00e131b5e8b705c5314d324674651b053920200129f58edf93a9d10ec2b6951ed2ebace9873c8c3ee603d8e1750745",
+    "client_seed": "1790712651563",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1742,
+    "max_tickets": 35000,
+    "combined_hash": "e9cb37d63ce07de25fb1f0af6616fef37daafc8b7e51e7759cb3b15aa57b6015",
+    "result": "5906",
+    "external_round_id": "32636431",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:10:51.000000Z",
+    "revealed_at": "2026-09-29T20:10:57.000000Z"
+}
