@@ -1,0 +1,22 @@
+{
+    "round_id": "207c6b3c-36c9-4f37-bb5d-f533e6b84e73",
+    "draw_title": "Treasure Hunt",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/treasure-hunt",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "87e4280ab0aeafe920512ff211442d03b0d39c7a1eb054fd6db064e1577186e7",
+    "drand_seed_hash": "8c5c4b5b38a013d8260dbce77ff9523d0e4c1077ee4b6cd8ebe993734f1a693b18e6edd0aad18ba62adf90e8e0da87e6",
+    "client_seed": "1790709024611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200553,
+    "max_tickets": 555000,
+    "combined_hash": "19a5442ad4bec67dd4dcfb45163dd69ff47278ec793602c48766efe31abdf9d8",
+    "result": "406786",
+    "external_round_id": "32635222",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T19:10:24.000000Z",
+    "revealed_at": "2026-09-29T19:10:30.000000Z"
+}
