@@ -1,0 +1,22 @@
+{
+    "round_id": "5a203e2d-5d2c-4516-b575-7b4992f8fb11",
+    "draw_title": "YSL CASSANDRA HEELS OR £900 👠",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/ysl-cassandra-heels-or-ps900",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "d56430a402e76bd6fe8f579bd83d0bfa9e50e489fb685b9c2a165e83a1e5ca6f",
+    "drand_seed_hash": "b41488a148353b07aecde0ecc84d8f740dbc113ba018b3cb66d373e98d4b83bf236977ade1c43e10c12572b4e8a15716",
+    "client_seed": "1790710839129",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 900,
+    "max_tickets": 900,
+    "combined_hash": "d1151e0718a701f6f6e25a453344c7738d1d0c2154715347e16b129b818169ee",
+    "result": "178",
+    "external_round_id": "32635827",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T19:40:39.000000Z",
+    "revealed_at": "2026-09-29T19:40:45.000000Z"
+}
