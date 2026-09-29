@@ -1,0 +1,22 @@
+{
+    "round_id": "d87352c0-c14a-418b-8e1c-40ec0dd47604",
+    "draw_title": "Win Any JellyCat You Want 🧸",
+    "competition_url": "https://topdogprizes.com/admin/products/win-any-jellycat-you-want-4",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "ed04906c23aeacbd137a9313db35a55bbc1442a12cd89a2d51ba254a52bce137",
+    "drand_seed_hash": "a98ad0ab18335ad910b2a6208f7d1810b0bd42299f66591a327a824d86159cc9e6e996dfbfb55231ab38b3e2d30dfa99",
+    "client_seed": "1790709451386",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 350,
+    "combined_hash": "bfdbdc2902ff76022e7b15849f03ac6d7539e3d8b6e6688f1376ac408999f1ac",
+    "result": "282",
+    "external_round_id": "32635365",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T19:17:31.000000Z",
+    "revealed_at": "2026-09-29T19:17:39.000000Z"
+}
