@@ -1,0 +1,22 @@
+{
+    "round_id": "c21819b5-fed6-416c-8774-195c1004aa8c",
+    "draw_title": "1892 QUEEN VICTORIA FULL GOLD SOVEREIGN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1892-queen-victoria-full-gold-sovereign",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "363f8d151207db1524968201693e355541131551441cc85bfcfc740326b1e3a7",
+    "drand_seed_hash": "b69843458392ef648afe8347d789c70a8df085da14685fbb9a61aa8f05226b725577a7c3c79fd346e4b0d8dc08d315d7",
+    "client_seed": "1790712344911",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 632,
+    "max_tickets": 2000,
+    "combined_hash": "a8e2b0005eb0d009bb8261b3745620f174a22b200e6012bd079edffdc7eb7c65",
+    "result": "361",
+    "external_round_id": "32636329",
+    "processing_status": "completed",
+    "created_at": "2026-09-29T20:05:44.000000Z",
+    "revealed_at": "2026-09-29T20:05:51.000000Z"
+}
