@@ -1,0 +1,22 @@
+{
+    "round_id": "ff714c4b-e0df-4c2b-a042-23ef03c86b4a",
+    "draw_title": "Dreame L50 Ultra Vacuum + Mop + Smart Power dock",
+    "competition_url": "https://competitionsne.co.uk/admin/products/dreame-l50-ultra-vacuum-mop-smart-power-dock",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "8a4bfdf5ec3a15f1cf77c970c88beb3ff55826a0dfa1ac03d4c2c2f8a8501aa3",
+    "drand_seed_hash": "8ce4ac378f3ac02f5dfcbf2fd2f6603a9c9bd8b5fed401991e8c09483bb925ce2a2701f05f027ae50f3cdc62b056a3af",
+    "client_seed": "1790795427878",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 486,
+    "max_tickets": 2100,
+    "combined_hash": "c1e94b8dce5000bb380f908567b67fead5b9b7786dd9fcc7148578c702a9db45",
+    "result": "598",
+    "external_round_id": "32664023",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:10:27.000000Z",
+    "revealed_at": "2026-09-30T19:10:33.000000Z"
+}
