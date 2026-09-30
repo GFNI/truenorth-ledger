@@ -1,0 +1,22 @@
+{
+    "round_id": "31496b49-0d70-4566-a821-7b8b2be3751d",
+    "draw_title": "The £75,000 Prize Vault - 20 Main Winners + Instawins up to £5000",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/the-ps75000-prize-vault-20-main-winners-instawins-up-to-ps5000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "ba20016e11fd8c4e19bcc63cd7529ebe546e4de326168ada9d29015624cd02d7",
+    "drand_seed_hash": "94f6abf6df5255b420b3ff1ea2d34fce8ce472676892b76e20acc075aef9cf7d514bd07ff6a0b7742dac597affa11d3b",
+    "client_seed": "1790796743549",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 664068,
+    "max_tickets": 3666667,
+    "combined_hash": "e934e9ad88dce66c3c60a3f425476a5bb2e9fd7daa57f73306f7525556be438e",
+    "result": "2741537",
+    "external_round_id": "32664462",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:32:23.000000Z",
+    "revealed_at": "2026-09-30T19:32:30.000000Z"
+}
