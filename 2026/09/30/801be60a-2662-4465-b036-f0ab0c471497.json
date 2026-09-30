@@ -1,0 +1,22 @@
+{
+    "round_id": "801be60a-2662-4465-b036-f0ab0c471497",
+    "draw_title": "£5,000 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/5k-payday-ps5000-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "b31d687c28922049b85572705e41d5a9353464bde1141f96b13b70156f6e2fcb",
+    "drand_seed_hash": "8dbde693a9d0e6377b48cc0e332b67100739078151bcb919415f9300064a71b89f827f993c993f96e09aae7fc58da70b",
+    "client_seed": "1790803108435",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 46000,
+    "combined_hash": "f59c36145c750a26f334a786103d9bd7733328c317dca7053cabb93b7b0ac993",
+    "result": "11446",
+    "external_round_id": "32666584",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:18:28.000000Z",
+    "revealed_at": "2026-09-30T21:18:38.000000Z"
+}
