@@ -1,0 +1,22 @@
+{
+    "round_id": "f9617284-454f-454b-aec9-3f1a966b9450",
+    "draw_title": "Siemens Coffee Machine (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/free-to-enter-siemens-coffee-machine-worth-ps700",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "5ae7b249452a5f5fabb8a4fd5bb8076006a8e1694412359e5366679655bad7ac",
+    "drand_seed_hash": "8d4d92c0d727c74766a150755d0ca7c2835c31977326a4e6ec97b07db75e6c790692c64b4ad4d5aaa9dd17b2910b722b",
+    "client_seed": "1790802561268",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1000,
+    "combined_hash": "ce696bc9b0e0daefc2a178aed117710c28bb1fd0efd0b4090a79f143129dfbd5",
+    "result": "855",
+    "external_round_id": "32666401",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:09:21.000000Z",
+    "revealed_at": "2026-09-30T21:09:27.000000Z"
+}
