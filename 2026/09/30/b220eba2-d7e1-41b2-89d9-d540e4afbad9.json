@@ -1,0 +1,22 @@
+{
+    "round_id": "b220eba2-d7e1-41b2-89d9-d540e4afbad9",
+    "draw_title": "£100 CASH - INSTANT WIN ENTRIES (DRAWN 30th Sept)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps100-cash-instant-win-entries-drawn-30th-sept",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "136763b59cbf739883dd9689e7189ab09d2d72efcef2f0de9268b2f99b6447f8",
+    "drand_seed_hash": "b49ae4564b7485e7e290bd8b0dba1f50f4e7974eda16e8da3d6858e24d94d536ba568556096cb74cb9f9fe2dbb4bc176",
+    "client_seed": "1790797427387",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2447,
+    "max_tickets": 40000,
+    "combined_hash": "31028a9463d71304c573eee00a2345805f781f5e3e236d45af16f744c1025ccc",
+    "result": "32498",
+    "external_round_id": "32664690",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:43:47.000000Z",
+    "revealed_at": "2026-09-30T19:43:54.000000Z"
+}
