@@ -1,0 +1,22 @@
+{
+    "round_id": "b3de86da-cc56-4433-9f8e-00694ad2c072",
+    "draw_title": "AUTUMN JELLYCAT BUNDLE OR £225 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/autumn-jellycat-bundle-or-225-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "d2467c5478c9adb120e19a15a6ddf7048a15484c4d7f77b1def0550e8aba0adb",
+    "drand_seed_hash": "b871c32f2320076ad0d05ee958f821f9cd8e1dd55b2a23364b8b6c0b9afe2da3017db168368f22c4345992b62a674426",
+    "client_seed": "1790799328132",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 362,
+    "max_tickets": 999,
+    "combined_hash": "82bde3d53ebd118d8896d9ce32971b2d7bf2bc6003a5e5c67dc53d38774f879f",
+    "result": "259",
+    "external_round_id": "32665323",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:15:28.000000Z",
+    "revealed_at": "2026-09-30T20:15:33.000000Z"
+}
