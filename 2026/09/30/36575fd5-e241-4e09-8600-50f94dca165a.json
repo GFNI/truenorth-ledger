@@ -1,0 +1,22 @@
+{
+    "round_id": "36575fd5-e241-4e09-8600-50f94dca165a",
+    "draw_title": "Drop the Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/drop-the-doe-3",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "771b85437a0cac756dbe3b4728fdf73278e7b46527c1d1d2a908bb090d3b5dbc",
+    "drand_seed_hash": "8c53030dee679046132edd679080e6bb74adb2f0c3d09e8e8d005f2e343bb7e1835f4e01d09d4b0aa82eb7a10c6c9eeb",
+    "client_seed": "1790795535958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399,
+    "max_tickets": 3800,
+    "combined_hash": "ec1e787970d6eea4454da957a5202eaa100e310512167b8c5796f8d7c0768bc8",
+    "result": "1973",
+    "external_round_id": "32664059",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:12:15.000000Z",
+    "revealed_at": "2026-09-30T19:12:21.000000Z"
+}
