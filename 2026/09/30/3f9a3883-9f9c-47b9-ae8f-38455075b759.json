@@ -1,0 +1,22 @@
+{
+    "round_id": "3f9a3883-9f9c-47b9-ae8f-38455075b759",
+    "draw_title": "WIN 10 TICKETS INTO ROLEX GMT MASTER ll BRUCE WAYNE 30.09.26 LOW ODDS #4",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-10-tickets-into-rolex-gmt-master-ll-bruce-wayne-300926-low-odds-4",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "c0bdcf23312f37e4a93ad8d23a99fece05ca652fc000530eae24e3511275e109",
+    "drand_seed_hash": "87e0bfa6b428015ce0a7c1fca7f01ceac12c45b10bdf89661c4f31bfd1546f5408c673c1b62c7c06b832bb094f1c2249",
+    "client_seed": "1790764383751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "5fa0b87a8ab3c5877a6005e3abdbf9462dd2134aca54140331ea52d175bc2724",
+    "result": "7",
+    "external_round_id": "32653675",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T10:33:03.000000Z",
+    "revealed_at": "2026-09-30T10:33:09.000000Z"
+}
