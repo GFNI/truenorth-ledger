@@ -1,0 +1,22 @@
+{
+    "round_id": "128c2305-f407-4789-9dff-e214b8e12263",
+    "draw_title": "🪙 HEAD OR TAILS 🪙",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/head-or-tails",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "9a698f10dd9e375a3fe272659f97ad0886f1274167c0a75ccba85150b69eccdb",
+    "drand_seed_hash": "8ce58df3752ba4fe0f2a624ba0c8170de16c5bbcd90832b258f7215f7847dddbf0d0abfc32eaca61bb3929545a86653b",
+    "client_seed": "1790797234354",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3288,
+    "max_tickets": 10000,
+    "combined_hash": "9d3c1eb2afc13e63150dc2ea0ccaf45ba46c45b2b75b81275b779884fc4ca0ba",
+    "result": "6046",
+    "external_round_id": "32664626",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:40:34.000000Z",
+    "revealed_at": "2026-09-30T19:40:42.000000Z"
+}
