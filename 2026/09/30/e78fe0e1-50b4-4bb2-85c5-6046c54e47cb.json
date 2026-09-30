@@ -1,0 +1,22 @@
+{
+    "round_id": "e78fe0e1-50b4-4bb2-85c5-6046c54e47cb",
+    "draw_title": "Pumkin Yankee Candle",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/pumkin-yankee-candle",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "986df33d15c22b0aaea702b7eb90f76a2437ea26e1a9273474319366f2175b12",
+    "drand_seed_hash": "8f74085af98bec331c4b88971c8a97af4a2297e8832c1fe4b9ed63bdd554772b286e0d586ca7c70b73610fa8cf6897ce",
+    "client_seed": "1790794516175",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 366,
+    "max_tickets": 500,
+    "combined_hash": "8c4df14bc4d9e33e575a0907092235b76fca41ef19fd589ae0c4ca06a4c06890",
+    "result": "229",
+    "external_round_id": "32663719",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T18:55:16.000000Z",
+    "revealed_at": "2026-09-30T18:55:21.000000Z"
+}
