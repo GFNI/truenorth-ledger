@@ -1,0 +1,22 @@
+{
+    "round_id": "1d5625d5-fcae-4b36-b17d-aaf7d70e73b5",
+    "draw_title": "Hidden Doe",
+    "competition_url": "https://luckydoecompetitions.co.uk/admin/products/hidden-doe",
+    "operator": {
+        "name": "Lucky Doe Competitions Limited",
+        "website": "https://luckydoecompetitions.co.uk",
+        "company_number": "16701625"
+    },
+    "drand_server_seed": "56a66c3af1003501b5752667af9a9e45c787df1a3c8914864b428d7f71785f7a",
+    "drand_seed_hash": "93a98508d8eaae00603bc3653848e9264bccb58c909c9fa5c00ce8b37ac4fadf4ed553cc3d84f9ea0c92f7e6cb414812",
+    "client_seed": "1790795528694",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1569,
+    "max_tickets": 4850,
+    "combined_hash": "a87a1fce51a3ae05dc53f307e79596f4a7d1f7c39747de1552bfac5c8999b31b",
+    "result": "3113",
+    "external_round_id": "32664057",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:12:08.000000Z",
+    "revealed_at": "2026-09-30T19:12:15.000000Z"
+}
