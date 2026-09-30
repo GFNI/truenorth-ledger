@@ -1,0 +1,22 @@
+{
+    "round_id": "33bd0cad-9f72-492e-9ced-eef384f01811",
+    "draw_title": "THE ROYAL MINT LAKSHMI 1g GOLD BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/the-royal-mint-lakshmi-1g-gold-bar-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "878b2c40829ef708181816661ed6ee2fb0d63d1f3c8814e4530d156ecbd257f2",
+    "drand_seed_hash": "99df3bf1b424b4905cfb38dad8713b536e35a86145673371838156dfc5e569df4e18ea02363f6bdb6421740cfe531684",
+    "client_seed": "1790808964094",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 141,
+    "max_tickets": 150,
+    "combined_hash": "e5525d6478d0c264af2b6dfdd156c5204805251cabc1ea97e431d66125ab1be8",
+    "result": "70",
+    "external_round_id": "32668535",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T22:56:04.000000Z",
+    "revealed_at": "2026-09-30T22:56:09.000000Z"
+}
