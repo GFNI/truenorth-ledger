@@ -1,0 +1,22 @@
+{
+    "round_id": "ee817e74-1e99-432d-ae5a-c3727d3deccc",
+    "draw_title": "🎁 FREE INSTANT WINS🍀",
+    "competition_url": "https://optimisedodds.com/admin/products/free-instant-wins-3",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "750cd696b5879fbb6fdc90c11e12bd2e957d475a815a5aa859db3296732fd20a",
+    "drand_seed_hash": "86b73d065abcf8c6543b8e2fa99cc2b87d1fea71e860126be3c11bea35baf3c3aaaee6c5c9c35e88ca2fece17a605e2b",
+    "client_seed": "1790806253269",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 209,
+    "max_tickets": 1999,
+    "combined_hash": "f4074b122e146b80d98029453e4438e1a66cbef632c607d31e52701825a1bd18",
+    "result": "655",
+    "external_round_id": "32667632",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T22:10:53.000000Z",
+    "revealed_at": "2026-09-30T22:11:00.000000Z"
+}
