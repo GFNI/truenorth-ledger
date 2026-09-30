@@ -1,0 +1,22 @@
+{
+    "round_id": "15f3e754-ff31-4963-b098-ba4b968f35ab",
+    "draw_title": "Prismatic and Ascended Booster Bundle",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/prismatic-and-ascended-booster-bundle-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "ba1795ce9314f1522610f4bc625eedc9e3fda9ad4af506ddeed8e00eae29fe82",
+    "drand_seed_hash": "87bb1761dddda426a9c645dcca8fb5919a558701bfe8ca8f27a1ea24cf90f523ad6eff8873e2e4a8a9fb96cbf78ebab7",
+    "client_seed": "1790803865462",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 230,
+    "max_tickets": 240,
+    "combined_hash": "37c961f599e795bfdef9c2706d14f479b6c1586317db08dba2f29fbd3f3e05fe",
+    "result": "104",
+    "external_round_id": "32666836",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:31:05.000000Z",
+    "revealed_at": "2026-09-30T21:31:12.000000Z"
+}
