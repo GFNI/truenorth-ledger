@@ -1,0 +1,22 @@
+{
+    "round_id": "9e9ec346-28d6-416a-bc22-268bbd610121",
+    "draw_title": "The Northern Treasure Hunt!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/the-northern-treasure-hunt",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "036d92a5575bdfca7ce25b3c9723d0e8716bc65c872763c36ce5e76815674953",
+    "drand_seed_hash": "b8c2833cb2defa46c45252478a15ad7cec9b819186ca7a6dbf8a910a7479aadcaebef9b49b32155439a916aaef832423",
+    "client_seed": "1790797380666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2350090,
+    "max_tickets": 2359999,
+    "combined_hash": "6e22ec56b9304c659268e4abbfe9336a9291f1b00a1bf5e32f5820d4235ba852",
+    "result": "2196504",
+    "external_round_id": "32664674",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:43:00.000000Z",
+    "revealed_at": "2026-09-30T19:43:06.000000Z"
+}
