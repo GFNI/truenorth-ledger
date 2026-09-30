@@ -1,0 +1,22 @@
+{
+    "round_id": "849e21ab-0436-4bb3-976f-4f0828405e89",
+    "draw_title": "WIN £1000 ENTRIES INTO THE MAIN DRAW - £15,000",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/win-ps1000-entries-into-the-main-draw-ps15000",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "159de26d1f316270428c0637d70557914b84b2da28aa866851d008b796fbcbc5",
+    "drand_seed_hash": "96ee48c06c26ed03c288430f8f6c59abdd6e54b5c16ef029d1ae69d71ac8028bf68e02e7fb7251ab20440e5a27cc5d17",
+    "client_seed": "1790780796111",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 120,
+    "combined_hash": "7352f33177339fdf976961a6bbb046b841e307ac9c30e06a76bcb947a7a6a328",
+    "result": "100",
+    "external_round_id": "32659146",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T15:06:36.000000Z",
+    "revealed_at": "2026-09-30T15:06:42.000000Z"
+}
