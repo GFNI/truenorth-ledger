@@ -1,0 +1,22 @@
+{
+    "round_id": "80bff532-55e4-4712-bb08-0a0e48b67bdf",
+    "draw_title": "TRIPLE THREAT INSTANT WIN!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/triple-threat-instant-win",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "e0c2e8d81bfbeb5328c8edce0e50bd75e62152bf4a283b00bc4eac777f10ad02",
+    "drand_seed_hash": "943a0bb48be8ab565186e8d08c0bdf249a5c3deaaa9aef56b2f58210d02a370e06080a304dae2254ac906dce1058a1d4",
+    "client_seed": "1790800864938",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47100,
+    "max_tickets": 220000,
+    "combined_hash": "c0421cd65c2ac965e8ab9b45e604c8a61bbcd41b872512278e5237271c0b68c5",
+    "result": "16321",
+    "external_round_id": "32665835",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:41:04.000000Z",
+    "revealed_at": "2026-09-30T20:41:09.000000Z"
+}
