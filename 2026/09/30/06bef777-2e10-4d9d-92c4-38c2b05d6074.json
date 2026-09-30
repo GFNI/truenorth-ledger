@@ -1,0 +1,22 @@
+{
+    "round_id": "06bef777-2e10-4d9d-92c4-38c2b05d6074",
+    "draw_title": "£30K CASH BOOSTER - £2,000 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps30k-cash-booster-ps2000-end-prize-2",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "887f9bba6171e2b793685bba18609dc6ff3625d1dba8d8504ed37b66a3290bcd",
+    "drand_seed_hash": "98c61839b86bd79e27a6fbf04d3dc4cb63048a7e1988a5f45c6925d84d331e6615bd7e62722f46616ba74f2bef52d4af",
+    "client_seed": "1790800276703",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10067,
+    "max_tickets": 60000,
+    "combined_hash": "2a977b7d0c6350c3e4e51508ec5a38754a2762a82af8dac841589779f70e19cd",
+    "result": "31627",
+    "external_round_id": "32665639",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:31:16.000000Z",
+    "revealed_at": "2026-09-30T20:31:21.000000Z"
+}
