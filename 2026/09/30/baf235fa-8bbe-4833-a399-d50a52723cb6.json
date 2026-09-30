@@ -1,0 +1,22 @@
+{
+    "round_id": "baf235fa-8bbe-4833-a399-d50a52723cb6",
+    "draw_title": "Cheep Thrills - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/cheepthrill",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "9841156f851772504884641284b9bd547940abe0e136abe1f50651f5c9de2e12",
+    "drand_seed_hash": "aa7aaf601f0accb12e25a8181987dfe0b463d4365d330f3e3958f6d5757675786861efdf0e33441a2d1d618f40bec467",
+    "client_seed": "1790797085005",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40278,
+    "max_tickets": 100000,
+    "combined_hash": "ab79704b71ff97b2f2045c782ab489f8519e1f49328859c5824ca1a4ea3a696b",
+    "result": "62380",
+    "external_round_id": "32664576",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:38:05.000000Z",
+    "revealed_at": "2026-09-30T19:38:12.000000Z"
+}
