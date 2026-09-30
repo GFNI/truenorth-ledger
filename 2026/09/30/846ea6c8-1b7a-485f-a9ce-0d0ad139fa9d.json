@@ -1,0 +1,22 @@
+{
+    "round_id": "846ea6c8-1b7a-485f-a9ce-0d0ad139fa9d",
+    "draw_title": "A PENNY TO 100 POUNDS",
+    "competition_url": "https://ryscompetitions.com/admin/products/a-penny-to-100-pounds",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "896a1b1b584c812d2a8fd13a6a1d3d36d446d9fe1bd34a3202d5e0298d1d585a",
+    "drand_seed_hash": "b32369e51eb8cf93bc6eb0e134553e97974e1209263c06c060f34e2c1d8377b42e34ecd8e42f8893dc98640166ed498b",
+    "client_seed": "1790795659782",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 489188,
+    "max_tickets": 1999999,
+    "combined_hash": "2b96a3a679204ae8b4c3366485802a175684e64a7ade2a26d04a7598e44e1fc2",
+    "result": "1740065",
+    "external_round_id": "32664101",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:14:19.000000Z",
+    "revealed_at": "2026-09-30T19:14:27.000000Z"
+}
