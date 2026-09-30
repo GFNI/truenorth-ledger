@@ -1,0 +1,22 @@
+{
+    "round_id": "0fd5c40a-aa4e-4b72-bef3-bef74d8bc8ec",
+    "draw_title": "x4 Lenor",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/x4-lenor",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "a8fa8dfc3dc8df9f66dcadc4db6ca9046fd9c5b2fefff3c2f0d0e2287fa5876e",
+    "drand_seed_hash": "a1ca4cf09ea8377200cee7904c7a3bfe4c32a9886b0bb125b2b5eea4c313d5b9d519b0470b9f38684b8f855029d799c9",
+    "client_seed": "1790794508184",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 262,
+    "max_tickets": 500,
+    "combined_hash": "82221b2929d15da5935b1b5291e824b40912ec5052b433a3e19f89a3b7e1d027",
+    "result": "163",
+    "external_round_id": "32663717",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T18:55:08.000000Z",
+    "revealed_at": "2026-09-30T18:55:15.000000Z"
+}
