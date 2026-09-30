@@ -1,0 +1,22 @@
+{
+    "round_id": "1cf559fe-9e94-465a-9405-207d80dcef75",
+    "draw_title": "Chaotic Property Empire",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-property-empire-1088",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ad65e873eb9ae2b0063213e273759a89381f76f9b9704f967130d3c890c01178",
+    "drand_seed_hash": "82d9a4f892f68029a1a2f5b62e39285523c4666d6e58aea9968c2c37db6a14d684ac1728ad2c2f9904e3b391d60dbda9",
+    "client_seed": "1790797397087",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79999,
+    "max_tickets": 79999,
+    "combined_hash": "dc96360a29d20d37de3c8052b6c246bf41969637fe04da11578de2348ecb338c",
+    "result": "71866",
+    "external_round_id": "32664680",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:43:17.000000Z",
+    "revealed_at": "2026-09-30T19:43:24.000000Z"
+}
