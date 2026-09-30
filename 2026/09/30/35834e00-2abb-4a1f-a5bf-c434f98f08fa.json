@@ -1,0 +1,22 @@
+{
+    "round_id": "35834e00-2abb-4a1f-a5bf-c434f98f08fa",
+    "draw_title": "The Penny Arcade",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-penny-arcade-8",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "3fa75092ce831e8fe3b29e9ce3433cb4ad0d93805a86b9b6962628c87a9d8981",
+    "drand_seed_hash": "b775193e8e8b943287eef34a499fb189aaaae59dca29e98473e1ed03eabead5613e56d649e8872c7d7774b11e62c4194",
+    "client_seed": "1790799006986",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1357231,
+    "max_tickets": 2900000,
+    "combined_hash": "3e41e1c8c95184740c9a69bcb7b09b103ca73a7c1579374a25322a3d39cb8458",
+    "result": "405503",
+    "external_round_id": "32665216",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:10:06.000000Z",
+    "revealed_at": "2026-09-30T20:10:12.000000Z"
+}
