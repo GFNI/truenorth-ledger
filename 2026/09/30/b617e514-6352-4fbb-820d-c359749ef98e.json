@@ -1,0 +1,22 @@
+{
+    "round_id": "b617e514-6352-4fbb-820d-c359749ef98e",
+    "draw_title": "WIN 10 TICKETS INTO 50G GOLD OR £5000 CASH LOW ODDS #1",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-10-tickets-into-50g-gold-or-ps5000-cash-low-odds-1",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "980471dd1b5361b22565f36bbfa7827ad43e187530e3a8ca8e0f0437482b8514",
+    "drand_seed_hash": "866cf1e58627d4fea3b4e0b9a0ad3d0c4b25d59bef96dca1638c1e1af2af21f78220eb2449c011d709fc9ec31401ff32",
+    "client_seed": "1790791750247",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "ffbb3602a7aaf4288f19d660d2a7c244e9e1e3590cc19110a0990326033a40cd",
+    "result": "4",
+    "external_round_id": "32662798",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T18:09:10.000000Z",
+    "revealed_at": "2026-09-30T18:09:18.000000Z"
+}
