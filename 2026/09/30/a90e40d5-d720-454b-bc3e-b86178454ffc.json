@@ -1,0 +1,22 @@
+{
+    "round_id": "a90e40d5-d720-454b-bc3e-b86178454ffc",
+    "draw_title": "LOUIS VUITTON NEVERFUL BAG OR £1,000 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/louis-vuitton-neverful-bag-or-1000-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "ad3e70ac8a9c18ddd04b783dfbf60ffc92a6b918561d010daeee6a14ba73c321",
+    "drand_seed_hash": "b98cedef7a0d954878873fe2a2a5b9701997b9185bec039518e47f9b948537456f340a773e63a2347c841cf1f8131b4d",
+    "client_seed": "1790799507447",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 496,
+    "max_tickets": 1399,
+    "combined_hash": "ba6efdd7c7e2049e73e8c87df51c467333268546168808b3a3db4a118b0eae6b",
+    "result": "1009",
+    "external_round_id": "32665383",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:18:27.000000Z",
+    "revealed_at": "2026-09-30T20:18:33.000000Z"
+}
