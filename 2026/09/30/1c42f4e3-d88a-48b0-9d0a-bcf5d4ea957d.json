@@ -1,0 +1,22 @@
+{
+    "round_id": "1c42f4e3-d88a-48b0-9d0a-bcf5d4ea957d",
+    "draw_title": "X-Terra Intrepid Tactical!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/x-terra-intrepid-tactical-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "70ee6786e894676328ef4f17452ffa6bf5a54b37010eb8d79c283bb6acba9d63",
+    "drand_seed_hash": "99c3f3c4b2c0929c9867195651dc8299d490f0d31ccd849d11b5e95d676da41cc17e4452ff40108a98303da955a3c874",
+    "client_seed": "1790796183352",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 204,
+    "max_tickets": 550,
+    "combined_hash": "93e6443596874e142632885f3554d811af793672e7f9c90506d774f04bebc5b4",
+    "result": "274",
+    "external_round_id": "32664275",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:23:03.000000Z",
+    "revealed_at": "2026-09-30T19:23:09.000000Z"
+}
