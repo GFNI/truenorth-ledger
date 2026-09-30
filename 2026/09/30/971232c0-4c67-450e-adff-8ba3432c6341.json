@@ -1,0 +1,22 @@
+{
+    "round_id": "971232c0-4c67-450e-adff-8ba3432c6341",
+    "draw_title": "G'S BANG BUS! £20,000 OF INSTANT WINS",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/gs-bang-bus-ps20000-of-instant-wins",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "177478e36c721207053b27fff649ee3a79cec518e8246780629443c9bc8b6c6e",
+    "drand_seed_hash": "a81d185779cda7396371884e7a19ab876ecee90f44aef5b4454088f90abd7b8ec11e3af54ce5737ae0f0b174dfff5e3b",
+    "client_seed": "1790797506347",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78862,
+    "max_tickets": 1000000,
+    "combined_hash": "0e3eec6a1925e4a7a048d5bd5f7a733503989eb32e6bff6666c51dcaffe33970",
+    "result": "867279",
+    "external_round_id": "32664716",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:45:06.000000Z",
+    "revealed_at": "2026-09-30T19:45:12.000000Z"
+}
