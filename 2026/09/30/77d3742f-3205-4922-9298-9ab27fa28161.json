@@ -1,0 +1,22 @@
+{
+    "round_id": "77d3742f-3205-4922-9298-9ab27fa28161",
+    "draw_title": "£1000 CASH FOR JUST 25P",
+    "competition_url": "https://magmacomps.co.uk/admin/products/1000-cash-25p-ticket",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "0026dfa1bf59da8880cf12cd7006b2fa780b3d967535e22e0731584e920a6413",
+    "drand_seed_hash": "b3351b3a34cb2a5441c8fa8dadd637910a1cd94edece2d8e0b99883cb0d86c4a8b9187752d4558fc9af2de21535fc1b7",
+    "client_seed": "1790799595425",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3845,
+    "max_tickets": 9999,
+    "combined_hash": "e680e02fc1b13d1f37d7ead008d9860233c195e01ceedf3cdb682c88a9779f3d",
+    "result": "2547",
+    "external_round_id": "32665413",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:19:55.000000Z",
+    "revealed_at": "2026-09-30T20:20:03.000000Z"
+}
