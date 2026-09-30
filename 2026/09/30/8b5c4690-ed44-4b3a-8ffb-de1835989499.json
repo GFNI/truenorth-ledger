@@ -1,0 +1,22 @@
+{
+    "round_id": "8b5c4690-ed44-4b3a-8ffb-de1835989499",
+    "draw_title": "The Bartesian Cocktail Machine",
+    "competition_url": "https://competitionsne.co.uk/admin/products/the-bartesian-cocktail-machine",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "9c88a8b2d42d8cf6d4ca485687cd2409cc564db96dc2026429f43b18cb65e5a1",
+    "drand_seed_hash": "8e80713cd75db18866d9781d3b543f4d091b0d45642c8b9189acd11ba34a12090c4de81611a688d7dd0ce291b63238bb",
+    "client_seed": "1790795419638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 391,
+    "max_tickets": 1500,
+    "combined_hash": "6ae6b12840eeebcdb24cb5652dcffffadfc72a85d30c25c38fe76e3abc112271",
+    "result": "1499",
+    "external_round_id": "32664021",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:10:19.000000Z",
+    "revealed_at": "2026-09-30T19:10:27.000000Z"
+}
