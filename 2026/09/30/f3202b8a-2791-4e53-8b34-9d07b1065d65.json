@@ -1,0 +1,22 @@
+{
+    "round_id": "f3202b8a-2791-4e53-8b34-9d07b1065d65",
+    "draw_title": "LOCH & LOADED! LOW ODDS INSTANT WIN COMP!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/loch-loaded-low-odds-instant-win-comp",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "b504cea8168384ef82d1ea26cac58fabb5b2114dfb36ab0df5a2a0ad6ace3178",
+    "drand_seed_hash": "ab55ed602be3920c64023858f3ef38ec6091937b95f0f4ce93344d632032eab7fa139fc4b7f350b52f323cae263fc442",
+    "client_seed": "1790802712039",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 691,
+    "max_tickets": 999,
+    "combined_hash": "90b65ffa7d94b70829390e05d9fc3a70296aadc034c24fc3e57ec28e84e940de",
+    "result": "438",
+    "external_round_id": "32666451",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:11:52.000000Z",
+    "revealed_at": "2026-09-30T21:11:57.000000Z"
+}
