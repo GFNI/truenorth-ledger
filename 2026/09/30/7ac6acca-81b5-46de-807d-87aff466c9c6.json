@@ -1,0 +1,22 @@
+{
+    "round_id": "7ac6acca-81b5-46de-807d-87aff466c9c6",
+    "draw_title": "FRUIT SLOTS - buy 1 get 1 FREE!",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/fruit-slots-buy-1-get-1-free",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "3ed3d3cf2833ce2defb001f39dcee9fa6f4ddd086d1fc3edd36ca693c01a457b",
+    "drand_seed_hash": "865aed1fe6076abd3b836d2e6a715ecbdafd33e6b302fe62e414e69403685dd3853f0d0dd5f3f0e491661643cff007d8",
+    "client_seed": "1790797166871",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12458,
+    "max_tickets": 48000,
+    "combined_hash": "3b20776de9278b210f7fe37160ecf77fab56095044f8787dcfceee34a254d469",
+    "result": "43580",
+    "external_round_id": "32664603",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:39:26.000000Z",
+    "revealed_at": "2026-09-30T19:39:33.000000Z"
+}
