@@ -1,0 +1,22 @@
+{
+    "round_id": "19df1320-6dac-423d-a849-8205dc84c667",
+    "draw_title": "£200 ONE4ALL VOUCHER",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps200-one4all-voucher",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "caca61df78953f749593516395e2b046efc15aa25d3b8e7ae5a704896d688291",
+    "drand_seed_hash": "abb2dda7724e00a055bc2b3dc758ed3c433bce2daa25043773e42d2f830bb4c95e0dcb1799ce1c2c17458e6cb7c1819f",
+    "client_seed": "1790802474009",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 550,
+    "max_tickets": 850,
+    "combined_hash": "70f0d4e3ec374c223a7c5f9035ab545eb0887be5c4de5b67bf54ce0d1b9e931d",
+    "result": "367",
+    "external_round_id": "32666372",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:07:54.000000Z",
+    "revealed_at": "2026-09-30T21:08:00.000000Z"
+}
