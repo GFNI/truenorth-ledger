@@ -1,0 +1,22 @@
+{
+    "round_id": "bb0ff9cf-82f0-4270-ae3a-0acf9acf1b4d",
+    "draw_title": "LIFE CHANGER - 50/50 CHANCE OF WINNING PLUS £1,000 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/life-changer-5050-chance-of-winning-plus-ps1000-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "8598c045d7aa1ce361159252f96be86158d3e6481eefcb0a892053a8f6d1ac07",
+    "drand_seed_hash": "b54d07af043e304901640aad2e41eb7d2220534326213e2e1eff3fbc0e5a7698a1a08ad578906aaa163adb7e19468d08",
+    "client_seed": "1790802682144",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3589,
+    "max_tickets": 140000,
+    "combined_hash": "edc19ea16ca03422d0a04b0fdea5c8eab48e35b2883727871eaecfe6dc441c9b",
+    "result": "16110",
+    "external_round_id": "32666441",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:11:22.000000Z",
+    "revealed_at": "2026-09-30T21:11:27.000000Z"
+}
