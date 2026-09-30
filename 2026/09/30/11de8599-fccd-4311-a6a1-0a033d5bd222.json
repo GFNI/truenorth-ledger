@@ -1,0 +1,22 @@
+{
+    "round_id": "11de8599-fccd-4311-a6a1-0a033d5bd222",
+    "draw_title": "TEST COMP 124",
+    "competition_url": "https://toolvaultcomps.co.uk/admin/products/test-comp-124",
+    "operator": {
+        "name": "toolvaultcomps",
+        "website": "https://toolvaultcomps.co.uk",
+        "company_number": "17222475"
+    },
+    "drand_server_seed": "345fce6df7d35160e0952eae198201e577aa71edabf3b3021085c516312810bc",
+    "drand_seed_hash": "a664871dbb28c90dc0c86e324c4030cd388bf3a6135ce1915fcec9bff53ad2fd44aaaaa738a8f71b4db3ece4c20e3abd",
+    "client_seed": "1790744378358",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20,
+    "max_tickets": 999,
+    "combined_hash": "c939b95ef88e8e6a92263c8f3f9871f559d4a2e109e0baa8003e05dd6fe1a2d2",
+    "result": "46",
+    "external_round_id": "32647007",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T04:59:38.000000Z",
+    "revealed_at": "2026-09-30T04:59:45.000000Z"
+}
