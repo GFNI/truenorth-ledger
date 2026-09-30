@@ -1,0 +1,22 @@
+{
+    "round_id": "995c0fc5-6eda-4048-b820-dfd6c9159356",
+    "draw_title": "Win Dalmore 15 Year Old + 15 Prizes To Be Won Instantly",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-dal-15-3",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "3a32c60220e8a4398b532d6ffb6a11f4c2e7454fc0e1dced3b6c384aa12318b4",
+    "drand_seed_hash": "b86f8a553715eb64c4c13ea6cf62c0e31c1786f4627c73ccaae1e83ddd45d487bed45fe74bfd2f3bff7ae537ad413f57",
+    "client_seed": "1790802688494",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 234,
+    "max_tickets": 310,
+    "combined_hash": "d1059cea9de5f1ba011eb5dcc9e963f590a3f91a0e895ceb436c1305082f2c72",
+    "result": "90",
+    "external_round_id": "32666444",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T21:11:28.000000Z",
+    "revealed_at": "2026-09-30T21:11:36.000000Z"
+}
