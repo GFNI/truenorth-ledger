@@ -1,0 +1,22 @@
+{
+    "round_id": "f94c6a2d-c94c-4b25-9c4d-8b923caaad4d",
+    "draw_title": "Inflatable Sensory Pod",
+    "competition_url": "https://chaotic.co.uk/competition/inflatable-sensory-pod",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5f9b118c55f75b720ff25f1ed455bee13cf1fa85f35a87755b0daae8fe64064c",
+    "drand_seed_hash": "b7d944c8126e40c94f1993489b2016fce6a39d4e27fa91efb45a3c8e3943a795d5e6fbf8307973409f75f6a075007554",
+    "client_seed": "1790797571770",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24999,
+    "max_tickets": 24999,
+    "combined_hash": "ae381c5a9a40b18f0de0dc75b79eea0e42baac9a6fcd419c9c392390e7e10a81",
+    "result": "9433",
+    "external_round_id": "32664738",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:46:11.000000Z",
+    "revealed_at": "2026-09-30T19:46:18.000000Z"
+}
