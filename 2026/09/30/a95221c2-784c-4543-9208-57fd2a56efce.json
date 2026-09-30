@@ -1,0 +1,22 @@
+{
+    "round_id": "a95221c2-784c-4543-9208-57fd2a56efce",
+    "draw_title": "Daily Free Spin 💜",
+    "competition_url": "https://njcomps.co.uk/admin/products/daily-free-spin",
+    "operator": {
+        "name": "N&J ENTERTAINMENT LTD",
+        "website": "https://njcomps.co.uk",
+        "company_number": "16826732"
+    },
+    "drand_server_seed": "5c8cb12cffbe31f9cfcb20a4c2ae41fb7594859544b0f7bd1199365de186b11c",
+    "drand_seed_hash": "b4f11fd555153375cac21d7fa480e7d81e8bae0eecc19973cdff903ee172614edead844203722e70c36f7025cbc4e2ba",
+    "client_seed": "1790795435673",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 169,
+    "max_tickets": 1500,
+    "combined_hash": "c6af011e62f7eff9a7b6be5c9910f3a263b1b5bb31ee4d3da73e9c880f1ce90b",
+    "result": "15",
+    "external_round_id": "32664026",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T19:10:35.000000Z",
+    "revealed_at": "2026-09-30T19:10:42.000000Z"
+}
