@@ -1,0 +1,22 @@
+{
+    "round_id": "33dce930-079d-4884-9ee6-1f042331829e",
+    "draw_title": "The Grand Grab",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-grand-grab-6",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "058d33fee545df6337b8c7e47a31fa78b4e0b91977c5dbf2a8d5c4b627394727",
+    "drand_seed_hash": "8b332e3883e7c994aa8000e07cd19b90c3cf0c28744b6ba7169661f3fc01d93cc540363816931b1b052e885c64f5a474",
+    "client_seed": "1790799013122",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52748,
+    "max_tickets": 250000,
+    "combined_hash": "d1f0f386795114e11b47dff6b15a24376148050e5c8857bc2083f0f540f8b22b",
+    "result": "133842",
+    "external_round_id": "32665219",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:10:13.000000Z",
+    "revealed_at": "2026-09-30T20:10:21.000000Z"
+}
