@@ -1,0 +1,22 @@
+{
+    "round_id": "4d1ff740-deae-45a0-b578-463e0d96759b",
+    "draw_title": "ROLEX GMT MASTER ll BRUCE WAYNE SEPTEMBER 2026 FULLY STICKERED",
+    "competition_url": "https://magmacomps.co.uk/admin/products/rolex-gmt-master-ll-bruce-wayne-september-2026-fully-stickered",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "b43d1986b54155c613b6d5ed6e898a0ff851a8814cfe5a39a3aebef82f54a011",
+    "drand_seed_hash": "ada5f8cb41203b6e190a6361098482dbb7221244c30e5e632e6244da3b7441ead89a0c416d0aca1c328fc41607ab69d0",
+    "client_seed": "1790800684089",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 739,
+    "max_tickets": 1799,
+    "combined_hash": "36395b1e40f7d67e11639429777cb81c9c4b94d17afd6623e14f39e05026a736",
+    "result": "1601",
+    "external_round_id": "32665775",
+    "processing_status": "completed",
+    "created_at": "2026-09-30T20:38:04.000000Z",
+    "revealed_at": "2026-09-30T20:38:09.000000Z"
+}
