@@ -1,0 +1,22 @@
+{
+    "round_id": "52ac11e7-79ff-4a4b-bf16-0cbcbd156d5b",
+    "draw_title": "£15K PUMPKIN PATCH LEADERBOARD 🎃",
+    "competition_url": "https://geardowncompetitions.com/admin/products/15k-pumpkin-patch-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1546f47e983b169b9d4e3a1a1f64ff19e0827bad80317ec6050fee55924d2572",
+    "drand_seed_hash": "b95e0353fe97038415503670d5e3fe358d97247c045b85ebb578cead1ddf9dd8aa7433850ef11b346ba33437fc46d9dd",
+    "client_seed": "1790887184538",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6173,
+    "max_tickets": 14999,
+    "combined_hash": "5bf79610b6b8b894c257cc458278e16d9e7997f719088710ccb2c69aca3c2bcb",
+    "result": "7736",
+    "external_round_id": "32694609",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:39:44.000000Z",
+    "revealed_at": "2026-10-01T20:39:51.000000Z"
+}
