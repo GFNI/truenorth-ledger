@@ -1,0 +1,22 @@
+{
+    "round_id": "5a2f4650-8bc0-4341-a919-72bae40021b3",
+    "draw_title": "2023 ROYAL ARMS 1oz GOLD COIN — PCGS MS69",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-royal-arms-1oz-gold-coin-pcgs-ms69",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "cce87698b8a3136d3230c6a4d052dde65cfabca35b3a24007a4924af75321443",
+    "drand_seed_hash": "b6d331854090a476f2486047cc5fc7f31ef90b08e0d58f2de076aec2f4d06df8711734fa230276fda1799c1f5b2a4ecd",
+    "client_seed": "1790885234884",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1525,
+    "max_tickets": 4000,
+    "combined_hash": "8e926b2e79371e33026358ac6b78480972dcd692f94861b83357f67707446e31",
+    "result": "1807",
+    "external_round_id": "32693959",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:07:14.000000Z",
+    "revealed_at": "2026-10-01T20:07:21.000000Z"
+}
