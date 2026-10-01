@@ -1,0 +1,22 @@
+{
+    "round_id": "1ac520a5-29be-47d0-a1f1-26d32e691555",
+    "draw_title": "73G 9CT GOLD CURB BRACELET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/73g-9ct-gold-curb-bracelet",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "07e419812086da6b02fd1facc1a96811cf5216dd1336f659285eeb27e204964b",
+    "drand_seed_hash": "81bae9a440d130181e89abf3f1f0002fff68c10bbf23e0c1f119120b95efc086751c2270218c9381442ba23e60d78d44",
+    "client_seed": "1790885174933",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 911,
+    "max_tickets": 3000,
+    "combined_hash": "a56f41a83550a3389580d367329317f795aab651f61f9e66959e2969b4cbf4bc",
+    "result": "1710",
+    "external_round_id": "32693939",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:06:14.000000Z",
+    "revealed_at": "2026-10-01T20:06:21.000000Z"
+}
