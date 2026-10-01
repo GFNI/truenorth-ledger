@@ -1,0 +1,22 @@
+{
+    "round_id": "6bdeab84-8727-4444-8b7c-41f831d29433",
+    "draw_title": "SMASH THE CASH🎊",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/smash-the-cash",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "8a94391c2b09725e69b64387aa35ff72744ca673d9b69e87cfed7a4d03c43387",
+    "drand_seed_hash": "b237b6182d85feb5b099c3179d6c25d89543e032b1b6b51a8e48976afe04c41a7e4450e6dbce11130f89dcab1e45c797",
+    "client_seed": "1790887267927",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12591,
+    "max_tickets": 15000,
+    "combined_hash": "1c88570b312b9542835a21ff6b4065e53b1e37385af6f2d24a42029c2ea9d820",
+    "result": "10853",
+    "external_round_id": "32694637",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:41:08.000000Z",
+    "revealed_at": "2026-10-01T20:41:15.000000Z"
+}
