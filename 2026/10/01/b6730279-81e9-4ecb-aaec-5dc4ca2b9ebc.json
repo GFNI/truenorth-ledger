@@ -1,0 +1,22 @@
+{
+    "round_id": "b6730279-81e9-4ecb-aaec-5dc4ca2b9ebc",
+    "draw_title": "Candy land Spins End prize £200 Plus Instant wins",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/candy-land-spins-end-prize-ps200-plus-instant-wins",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "b8615aa5f74b9c399c02c63973c2fc9383a350950e158a86537e9fe16bf99d91",
+    "drand_seed_hash": "85393196890da6a7b4add1777cb207aef349c0c5f50141fddd8469f213d0ec9c53a6ce9f814f8628484bb77ab178b1f9",
+    "client_seed": "1790888696930",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5513,
+    "max_tickets": 45000,
+    "combined_hash": "37fb50876865531c1e2634297a39ed8bd81e13285ddc93ce5890d709b763c1c8",
+    "result": "26352",
+    "external_round_id": "32695113",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T21:04:56.000000Z",
+    "revealed_at": "2026-10-01T21:05:03.000000Z"
+}
