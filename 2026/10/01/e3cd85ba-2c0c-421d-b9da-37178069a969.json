@@ -1,0 +1,22 @@
+{
+    "round_id": "e3cd85ba-2c0c-421d-b9da-37178069a969",
+    "draw_title": "HAPPY GO LUCKY🍀",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/happy-go-lucky",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "c17076c2fd0babdb01b2faef38faed4acb9bb3d0e7421653a169314919feb451",
+    "drand_seed_hash": "8f1d8af27a626a31b0f8e2b3bd3e31f4f99772e516de63c98d91c60ee6ab2964a6b4f608ca7d1f920bfeade51a87f71b",
+    "client_seed": "1790887091431",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15548,
+    "max_tickets": 35000,
+    "combined_hash": "d900dc20bbab92f44a64c5add35790bf9b1b06d88de078660233aee28e3636fe",
+    "result": "4050",
+    "external_round_id": "32694578",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:38:11.000000Z",
+    "revealed_at": "2026-10-01T20:38:18.000000Z"
+}
