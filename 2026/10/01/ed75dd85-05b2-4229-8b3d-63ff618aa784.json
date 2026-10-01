@@ -1,0 +1,22 @@
+{
+    "round_id": "ed75dd85-05b2-4229-8b3d-63ff618aa784",
+    "draw_title": "🪙 WIN A GOLD HALF SOVEREIGN OR £375 CASH FOR JUST 99P!",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-gold-half-sovereign-or-ps375-cash-for-just-99p",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "848320c25b643402bcf38297d4404f0da85c2a9e171a3e564fcf5166a023e41d",
+    "drand_seed_hash": "b145289cb89fc6cb8a1c5ad9ea9f4a6dde59043d0b1c692498704ab1da371df6d47fa65f83b06d6bec009a42bb87383b",
+    "client_seed": "1790881646405",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 379,
+    "max_tickets": 800,
+    "combined_hash": "78e38250f8cb2d79657d8bdc27fd55f8d592bf925a449bbae8e86cb789df04b5",
+    "result": "793",
+    "external_round_id": "32692763",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:07:26.000000Z",
+    "revealed_at": "2026-10-01T19:07:33.000000Z"
+}
