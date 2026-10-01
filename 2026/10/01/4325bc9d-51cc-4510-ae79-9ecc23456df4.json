@@ -1,0 +1,22 @@
+{
+    "round_id": "4325bc9d-51cc-4510-ae79-9ecc23456df4",
+    "draw_title": "Win a £50 LEGO® Gift Card!",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-ps50-lego-gift-card",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "63292a0fa6b830580b98c0cd4f3fd4690bf7016942042225e95a3dc965e69910",
+    "drand_seed_hash": "8c8bf3cd25d00e43102d0edc92e5149d4f13aea000f7e9326c51e40f63812e602cf179b0012ed9f93ea1c9db6aa432ff",
+    "client_seed": "1790881494922",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1141,
+    "max_tickets": 2400,
+    "combined_hash": "f22bcedca2b1158e67ee4deb0e23d677177356af8efeeee5814073fd0d17dd58",
+    "result": "787",
+    "external_round_id": "32692712",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:04:54.000000Z",
+    "revealed_at": "2026-10-01T19:05:00.000000Z"
+}
