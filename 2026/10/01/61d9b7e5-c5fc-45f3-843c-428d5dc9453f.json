@@ -1,0 +1,22 @@
+{
+    "round_id": "61d9b7e5-c5fc-45f3-843c-428d5dc9453f",
+    "draw_title": "TOTALLY 80’S 🕹️ | 80P TICKETS | WIN £2,080 INSTANTLY + £580 END PRIZE",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/totally-80s",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "ad7a90dbc6738afad91e7a1472284cb8f6fd6b23528152969bc07a50510c212e",
+    "drand_seed_hash": "9768fd8d0c85b7baaace3b1ae9e65bd28565a8dba4d5ef9e916db554480a359763f80d447012dc1b796ebda90126bafb",
+    "client_seed": "1790882096511",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4394,
+    "max_tickets": 61645,
+    "combined_hash": "f693d1976d98944cd05bbb67b2909bf46ac8b59fff462e45cc0556a131dcb88c",
+    "result": "46409",
+    "external_round_id": "32692913",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:14:56.000000Z",
+    "revealed_at": "2026-10-01T19:15:03.000000Z"
+}
