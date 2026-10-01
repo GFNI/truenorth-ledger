@@ -1,0 +1,22 @@
+{
+    "round_id": "3ce5ee87-ce7b-4fc6-b055-cefc367b99ba",
+    "draw_title": "WIN A LEGO POKÉMON PIKACHU POKÉBALL SET OR £120 CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-a-lego-pokemon-pikachu-pokeball-set-or-ps120-cash",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "9db73ffbd7f8a653e8c6e678aaf4e5eeb61715c95e0fa83df7a5d9327626e5bb",
+    "drand_seed_hash": "96a321b537cfe8b9bc6d2b26010094eda3e22cfb7b0123bbed6bfb79a6961a18453a49527b547e4345b23b81b2f21336",
+    "client_seed": "1790889093802",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 120,
+    "combined_hash": "3978615a0796d2867224eeceba1401f33a821918e57ec1b0fc6c384eabd855f5",
+    "result": "50",
+    "external_round_id": "32695245",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T21:11:33.000000Z",
+    "revealed_at": "2026-10-01T21:11:39.000000Z"
+}
