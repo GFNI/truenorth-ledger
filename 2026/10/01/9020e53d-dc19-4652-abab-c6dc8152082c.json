@@ -1,0 +1,22 @@
+{
+    "round_id": "9020e53d-dc19-4652-abab-c6dc8152082c",
+    "draw_title": "NINTENDO Switch 2 Console + Donkey Kong Bananza",
+    "competition_url": "https://geardowncompetitions.com/admin/products/nintendo-switch-2-console-donkey-kong-bananza",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "78651f25773901faf36d37ccc5bb0630a7db3d2cb596317322c68c02f5066206",
+    "drand_seed_hash": "a38bdbe02875886578b8745a2b6b954cc30b4cffabced16875e81f4c439a6c391ed843058fb499c0ce73581add9314f9",
+    "client_seed": "1790886764373",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 610,
+    "max_tickets": 1199,
+    "combined_hash": "4613c7b65f24c9dca0da7165f52591ff1be51056b2a4c381b56a6d9b10d38b8b",
+    "result": "1058",
+    "external_round_id": "32694469",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:32:44.000000Z",
+    "revealed_at": "2026-10-01T20:32:51.000000Z"
+}
