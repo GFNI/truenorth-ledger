@@ -1,0 +1,22 @@
+{
+    "round_id": "37b80c1f-c92a-40c7-95dd-5e6564dc359c",
+    "draw_title": "1G GOLD MARADONA BAR",
+    "competition_url": "https://geardowncompetitions.com/admin/products/1g-gold-maradona-bar",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1ecca55c4a20558e584a0c77c3a377b5258ef250e0b376c898d7a707c49108a7",
+    "drand_seed_hash": "b03bfca040b02fdc4d4dbad5ef2a43330979bd77d7c79797fd807ae2644954b017a356701dd9bd6e813994aeaef868e8",
+    "client_seed": "1790886605727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 99,
+    "combined_hash": "2cd69ed3aedf50fe76424c01a3d00e82e1dc0b5ebb095f9cb37ff02c9ea80b82",
+    "result": "40",
+    "external_round_id": "32694416",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:30:05.000000Z",
+    "revealed_at": "2026-10-01T20:30:12.000000Z"
+}
