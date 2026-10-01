@@ -1,0 +1,22 @@
+{
+    "round_id": "2e6dd788-b8bf-47b7-9472-9c9993b8a8b3",
+    "draw_title": "Falling Fortunes 🍂",
+    "competition_url": "https://jetcomps.co.uk/admin/products/falling-fortunes",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "6baa8045bd2cb2e37971c1572e8b6ed540b4702416337ec79fcb95c478ebd9ec",
+    "drand_seed_hash": "8aa291e2481787fd0361604e9628cc5cd9d93b571da5e706f801ab6583f3961ef153ad3e770b21a34ecb5ac16cb39053",
+    "client_seed": "1790882457142",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 181376,
+    "max_tickets": 549999,
+    "combined_hash": "8f7d2ce0b0163559051744bd9572f35bf950c0b1b1a1d20dfe7fa69669ad83bb",
+    "result": "118950",
+    "external_round_id": "32693033",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:20:57.000000Z",
+    "revealed_at": "2026-10-01T19:21:03.000000Z"
+}
