@@ -1,0 +1,22 @@
+{
+    "round_id": "9a05c7f5-8aac-4f03-8857-9daf95070518",
+    "draw_title": "Big Billy’s Bongo Bingo",
+    "competition_url": "https://ryscompetitions.com/admin/products/big-billys-bongo-bingo",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "402f7a8fd89c35bda6aa900a8c03ba9b01b5e498e31e1750b8b853d6ca0b9929",
+    "drand_seed_hash": "8bacc157f693a2d1d719d6cae10dbd7f4ee83d3348552280967dc36f7a120fade0624117d767b47274b4b20d1c4f5734",
+    "client_seed": "1790885901368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 126943,
+    "max_tickets": 899999,
+    "combined_hash": "154bf29a27f5bc6a5221029b7f5c18a048236f30cef87c984d33c07124bd798a",
+    "result": "373086",
+    "external_round_id": "32694181",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:18:21.000000Z",
+    "revealed_at": "2026-10-01T20:18:27.000000Z"
+}
