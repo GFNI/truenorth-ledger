@@ -1,0 +1,22 @@
+{
+    "round_id": "a725a819-6230-4dde-b3a3-d7d46a7845ef",
+    "draw_title": "💷£1,000 CASH + £10K Instant Wins!💷",
+    "competition_url": "https://optimisedodds.com/admin/products/ps1000-cash-ps10k-instant-wins",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "eb5c1dbb6fdbcab62aa92ae182c2957cbc2f15bdb5210f775c6cad8f8aa46c4b",
+    "drand_seed_hash": "b72cd425b20ed37e8a3831c8183b078d4ffeeeae0fb257a7d7b7e102db027706d8f12f9f2de63cbc1d6b68602c4b608c",
+    "client_seed": "1790892655896",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13608,
+    "max_tickets": 450000,
+    "combined_hash": "c486496fe93c72d3506a6bc57b9fa4b8c52ac239e57220bee5ec4954c91a4b70",
+    "result": "39605",
+    "external_round_id": "32696433",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T22:10:55.000000Z",
+    "revealed_at": "2026-10-01T22:11:03.000000Z"
+}
