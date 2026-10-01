@@ -1,0 +1,22 @@
+{
+    "round_id": "19d64f8f-32db-45a7-86ac-d3ce79143495",
+    "draw_title": "🧸 WIN A £100 SMYTHS TOYS SUPERSTORES GIFT CARD FOR JUST £1! 🎮",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-ps100-smyths-toys-superstores-gift-card-for-just-ps1-3",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "3541549f369dcd6a144a6d0d418f8f27be55a81830adf5aae26d51586e4d9d94",
+    "drand_seed_hash": "94dd1c02fcc478c726d19b74b2eb39effaa0c441b478a9784570aa5ddd8730cb0966d40c77d0b3f855d0eecd2af5c7d7",
+    "client_seed": "1790880956185",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 200,
+    "combined_hash": "8f0c77a31df50a5d1b5fccb846d8968ea450048f954433b7b7950eedbb73f162",
+    "result": "8",
+    "external_round_id": "32692533",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T18:55:56.000000Z",
+    "revealed_at": "2026-10-01T18:56:03.000000Z"
+}
