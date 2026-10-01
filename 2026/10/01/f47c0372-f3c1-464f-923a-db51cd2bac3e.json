@@ -1,0 +1,22 @@
+{
+    "round_id": "f47c0372-f3c1-464f-923a-db51cd2bac3e",
+    "draw_title": "WIN THIS ARDBEG 15 YEAR OLD TRUDERNISH!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-ardbeg-15-year-old-trudernish",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "4377be2ff41444224eeca45af6384ff08d82fef0ca98f2a01fb1babd49061711",
+    "drand_seed_hash": "9184935973abe66d35a2d8a1367fa7286ade90ea8846fe2b1075c0f3fd1d297ef16b20c2726d74faa7a3ec28fcd8d0f3",
+    "client_seed": "1790885790888",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 199,
+    "combined_hash": "ba4c2346b6bb5e380c18020bb96d567dacfa8c82eaf391e01c19d7718551926a",
+    "result": "81",
+    "external_round_id": "32694144",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T20:16:30.000000Z",
+    "revealed_at": "2026-10-01T20:16:36.000000Z"
+}
