@@ -1,0 +1,22 @@
+{
+    "round_id": "b47bf4d5-4584-4100-8bf5-07c75aec1c7e",
+    "draw_title": "💰WIN £250 FOR 99P 🤑 #4",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-ps250-for-99p-4",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "7ff66e9b6ad6a60238ece3fd69046412f52b38eff686f0705214627ce0153970",
+    "drand_seed_hash": "98acd1bb82f0e27e1e3bf5525cb6a058e59f8d2f3ad80c735605d732d6ef580280b637c51a3f834d92481b341ad93053",
+    "client_seed": "1790881573213",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 207,
+    "max_tickets": 500,
+    "combined_hash": "043181af3a658c49d2e6e4e2d206eca3e27c56036dffcc5274e91190237edbfe",
+    "result": "493",
+    "external_round_id": "32692738",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:06:13.000000Z",
+    "revealed_at": "2026-10-01T19:06:18.000000Z"
+}
