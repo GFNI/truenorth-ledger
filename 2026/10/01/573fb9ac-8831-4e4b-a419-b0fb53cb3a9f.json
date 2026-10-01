@@ -1,0 +1,22 @@
+{
+    "round_id": "573fb9ac-8831-4e4b-a419-b0fb53cb3a9f",
+    "draw_title": "DRINKO PLINKO! THE 18 YEAR OLD EDITION!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/drinko-plinko-the-18-year-old-edition",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "be4300ed2eb0cb987059c14b7df07bb92bad9a78b59de506e54e485d1eeaabed",
+    "drand_seed_hash": "882c0a62bef8a6d73828a12e2dd2467ebd3110b4c212d1a167d44576f70c321bac5702f817bc5caebd24a8982ceb14e3",
+    "client_seed": "1790894406835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1604,
+    "max_tickets": 3999,
+    "combined_hash": "2455e7cc3871a7090d25d0cb506079831297876ffb9b74d6570d5d821be03e5d",
+    "result": "320",
+    "external_round_id": "32697016",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T22:40:06.000000Z",
+    "revealed_at": "2026-10-01T22:40:12.000000Z"
+}
