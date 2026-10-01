@@ -1,0 +1,22 @@
+{
+    "round_id": "fb0ec921-a6a8-4f74-970d-758b75e5910b",
+    "draw_title": "Busters Speedway - Find A Race Car To Win £1,111",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-speedway-find-a-race-car-to-win-ps1111",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "2a1373eb354494a0145b60c8b4256443dcf90fdf1add93bb72ae45473046b336",
+    "drand_seed_hash": "b1148a3cf21e53d3bd6a52f7b7937e2365e39c22dad2d52cdf8b77da285ded98f33a3f0e3c1be8f549fe0796de61b283",
+    "client_seed": "1790881566706",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17424,
+    "max_tickets": 125000,
+    "combined_hash": "72af11b6bee88ee33e5aff9439c52342aa90ea965cd869f002ef998c988f86ed",
+    "result": "112339",
+    "external_round_id": "32692736",
+    "processing_status": "completed",
+    "created_at": "2026-10-01T19:06:06.000000Z",
+    "revealed_at": "2026-10-01T19:06:12.000000Z"
+}
