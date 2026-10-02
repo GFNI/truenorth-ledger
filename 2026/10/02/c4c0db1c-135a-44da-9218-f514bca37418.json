@@ -1,0 +1,22 @@
+{
+    "round_id": "c4c0db1c-135a-44da-9218-f514bca37418",
+    "draw_title": "WISH WHEEL WEDNESDAYS",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/wish-wheel-wednesdays-9",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "192c8f498d286cc85c6795267c01d621b8446cde296fe15e12b4e07b18b51887",
+    "drand_seed_hash": "a0d86ae716d7215d1e61b138c70c11136319d4d56e4e3671b02a87b6efdcc7150d28ad21b512ff3119bb68cc600ba997",
+    "client_seed": "1790945460855",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 100,
+    "combined_hash": "0c7e50676c0f7e373e285e328013f80b588c1368ffb7310860684ccc22b9658d",
+    "result": "97",
+    "external_round_id": "32714034",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T12:51:00.000000Z",
+    "revealed_at": "2026-10-02T12:51:06.000000Z"
+}
