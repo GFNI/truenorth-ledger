@@ -1,0 +1,22 @@
+{
+    "round_id": "3797c7a4-131b-426d-84c5-356e23aa55d3",
+    "draw_title": "5oz .999 FINE SILVER ROYAL BIRTHDAY COMMEMORATIVE MEDAL",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/5oz-999-fine-silver-royal-birthday-commemorative-medal-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "ee39144c3538933deca1b17de1c9d7a49047675a70f4ea5ad038880f626d7147",
+    "drand_seed_hash": "8cc294ed1f88751dc38b43d1ea7f7dc03e8e3e48c5204eb6c8f83cf0c5de8099199a53603610777f6aa74345122c089a",
+    "client_seed": "1790981765065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 429,
+    "max_tickets": 800,
+    "combined_hash": "c6414f4391ee16239a4481f7c41e261dbf769c03a7fed405b9d2d0247f65bbe3",
+    "result": "455",
+    "external_round_id": "32726136",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T22:56:05.000000Z",
+    "revealed_at": "2026-10-02T22:56:12.000000Z"
+}
