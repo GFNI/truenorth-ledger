@@ -1,0 +1,22 @@
+{
+    "round_id": "04ca1af3-a57d-464c-8dc5-e3eb4dc12fe0",
+    "draw_title": "Volcanic Cash Eruption",
+    "competition_url": "https://winandgrin.co.uk/admin/products/volcanic-cash-eruption",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "309e25754bb93183c674d2c889a5422abc2bcab39eac0ab54ea25f4db2766f6a",
+    "drand_seed_hash": "a067eb44f65dea1ddf9a2b3e7b27a3271718c9df9783c8c12f5c7f2ccebf6d88e764f018bc6e7ac8b357bb8f96c79565",
+    "client_seed": "1790968235163",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 324237,
+    "max_tickets": 500000,
+    "combined_hash": "7f83cbfdb7db256efa57f2dfc761ccd72628af2b8cf3a9a30055a18a668c0b40",
+    "result": "473120",
+    "external_round_id": "32721626",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T19:10:35.000000Z",
+    "revealed_at": "2026-10-02T19:10:42.000000Z"
+}
