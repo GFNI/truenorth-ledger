@@ -1,0 +1,22 @@
+{
+    "round_id": "bd1e8d15-8c97-46b6-a199-6d5fa2fcd1c3",
+    "draw_title": "1in10 Tickets Win 🍀🍀🍀",
+    "competition_url": "https://winandgrin.co.uk/admin/products/1in10-tickets-win",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "aa6f8f53fcd5555f40c29454475cc5e2123a82a0c99962554e1fda6fe7b1564f",
+    "drand_seed_hash": "b75df6caad370b8945e9d7c88a336ed47d5a32c4b094234dd32d57daed8f2562d9c022e2ed946bf6d8e4d12f56dc144d",
+    "client_seed": "1790968167535",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9944,
+    "max_tickets": 15000,
+    "combined_hash": "70d45b69ab6e86ee2995736a28749197f6a559092b5c3f46d6c7e13a8bd1c4aa",
+    "result": "10841",
+    "external_round_id": "32721603",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T19:09:27.000000Z",
+    "revealed_at": "2026-10-02T19:09:33.000000Z"
+}
