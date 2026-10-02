@@ -1,0 +1,22 @@
+{
+    "round_id": "35a04768-de47-4776-abf6-8168a8a8f5d2",
+    "draw_title": "£2,000 FOR £2!",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ps2000-for-ps2",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "76fdb94514f1c1606d7294c2e202c3662afc4ed333acd09fdadcac6c70d2429a",
+    "drand_seed_hash": "a3d3920ddad384d02deb6b38a74b4d43733d9905bd6745e8eb8ce873ad575215d213b2c260ac9ad18205c14e1a38a7f9",
+    "client_seed": "1790972372252",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 962,
+    "max_tickets": 2000,
+    "combined_hash": "012c121a4e7edecc5784d7f7433025f00f48486a4c1937fc57d1dcb67f8e4f46",
+    "result": "530",
+    "external_round_id": "32723005",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T20:19:32.000000Z",
+    "revealed_at": "2026-10-02T20:19:39.000000Z"
+}
