@@ -1,0 +1,22 @@
+{
+    "round_id": "4d0748d2-a70d-40ce-8d5f-c142d836fe3c",
+    "draw_title": "Wonga Mania!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/wonga-mania",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "72a7ca5ca4bf175d2d9c04a6d35d3348a4cc213eb090807c06c37797a7db2815",
+    "drand_seed_hash": "8f85df9a869d4ea8c428a3bbfa9f9cf4d02f63569092837a6cbe34aeea15a747fe5582d8c219c571ad286a7cf2c0387f",
+    "client_seed": "1790969622458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 279721,
+    "max_tickets": 355999,
+    "combined_hash": "0977bb768ead75dee6c6033d292179314ec8604189637fe28bc488fb187023f6",
+    "result": "182789",
+    "external_round_id": "32722088",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T19:33:42.000000Z",
+    "revealed_at": "2026-10-02T19:33:48.000000Z"
+}
