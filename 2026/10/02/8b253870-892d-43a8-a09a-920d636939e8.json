@@ -1,0 +1,22 @@
+{
+    "round_id": "8b253870-892d-43a8-a09a-920d636939e8",
+    "draw_title": "✨ Cosy Croc Slippers ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/cosy-croc-slippers",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "543a6fe476970d11b0cd5d368d06211b2f3895e7d3e337ba04bb15f26e34d917",
+    "drand_seed_hash": "9887503d29998ae90f64c289ce7afdf5bec054a458ee88b556d6353b80e64f3b75e5548bddcfae2a31747d937fee295a",
+    "client_seed": "1790980206471",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "8a71f548043bde2bb24264d743a37eca9d13c82dc39b0c560469be489f71b068",
+    "result": "139",
+    "external_round_id": "32725616",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T22:30:06.000000Z",
+    "revealed_at": "2026-10-02T22:30:12.000000Z"
+}
