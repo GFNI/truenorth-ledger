@@ -1,0 +1,22 @@
+{
+    "round_id": "ba6a48fb-48ef-4b95-8110-79b3a7b468f6",
+    "draw_title": "🐷 Smash That Piggy - £250 Main Draw + Instantly Win up to £500!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/smash-that-piggy",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "8440e59d36178718182d5ff97be0d4081c2108c4fb6d31b504c915ee9b230d7e",
+    "drand_seed_hash": "b9bb34875cadfe2d4424d9e61fc07916550a92ea41b0bc329fe11b0faf7b9189f4f3f601ed34fc6334e053bc03d2e3e7",
+    "client_seed": "1790969667869",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40850,
+    "max_tickets": 88888,
+    "combined_hash": "1ed6b7f9ff6023a417664b667c02db6c6a3d0043798a97876e90893dcbdd4884",
+    "result": "16583",
+    "external_round_id": "32722103",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T19:34:27.000000Z",
+    "revealed_at": "2026-10-02T19:34:33.000000Z"
+}
