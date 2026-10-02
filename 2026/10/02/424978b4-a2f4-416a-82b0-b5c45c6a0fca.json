@@ -1,0 +1,22 @@
+{
+    "round_id": "424978b4-a2f4-416a-82b0-b5c45c6a0fca",
+    "draw_title": "21P PRIZE POOL - OVER 600 INSTANT WINS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/21p-prize-pool",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "97f6888772a42c05b182046b94b855cf11948517d64b0cbbcc6130cd7737d772",
+    "drand_seed_hash": "b2220aac6931bbd3d4e6668d91496723a30fdd7902e01427ea5c3e1f63b39350196bf651b2c3c831e9b6aa6d541a52cb",
+    "client_seed": "1790971857880",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16477,
+    "max_tickets": 99999,
+    "combined_hash": "7cbea9f70dbe83eb10c219dc859b2ff9717d83b8ffa1b05ffd0f12a8f3500f5c",
+    "result": "38252",
+    "external_round_id": "32722833",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T20:10:57.000000Z",
+    "revealed_at": "2026-10-02T20:11:03.000000Z"
+}
