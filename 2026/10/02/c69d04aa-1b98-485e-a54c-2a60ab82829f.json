@@ -1,0 +1,22 @@
+{
+    "round_id": "c69d04aa-1b98-485e-a54c-2a60ab82829f",
+    "draw_title": "🐧 Penny Penguins + £100 End Prize",
+    "competition_url": "https://starcompetition.co.uk/admin/products/penny-penguins-ps100-end-prize",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "f5203b9be73efe09f41cf1769d30cf54ff23767cf0ae71a9366795207d34cb2b",
+    "drand_seed_hash": "a070b89491e73560bc50b9eb71ce0ba12612edc9171d69ef1eaa3fbb868511964ad81214f1a7647a6228b64125302a42",
+    "client_seed": "1790967126414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000000,
+    "max_tickets": 1000000,
+    "combined_hash": "2ea38c8b0bde6970a33e182664b75dc85c6516eea2c56a21fc46931921ae1b1c",
+    "result": "249839",
+    "external_round_id": "32721256",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T18:52:06.000000Z",
+    "revealed_at": "2026-10-02T18:52:12.000000Z"
+}
