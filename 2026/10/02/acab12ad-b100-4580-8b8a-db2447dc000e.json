@@ -1,0 +1,22 @@
+{
+    "round_id": "acab12ad-b100-4580-8b8a-db2447dc000e",
+    "draw_title": "Cash Blast Off - 5,4,3,2,1",
+    "competition_url": "https://a9competitions.co.uk/admin/products/cash-blast-off-54321-3",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "7a9813451ed46f71666dc43c98230d3d4a38bfae9ad4f946d2183227f489e77e",
+    "drand_seed_hash": "9288a17e7d2198d54eb28525c33e60da6b6f7b203eaf11f8d8c1d0e658c8ffef344fb2cf3aa52a89ea80d1de515b3fb2",
+    "client_seed": "1790973260338",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 957,
+    "max_tickets": 3400,
+    "combined_hash": "bbf539097f70be0339210c7e36b4ca4fdf0ae763ae9cb10492b509070c89799d",
+    "result": "1604",
+    "external_round_id": "32723301",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T20:34:20.000000Z",
+    "revealed_at": "2026-10-02T20:34:27.000000Z"
+}
