@@ -1,0 +1,22 @@
+{
+    "round_id": "de29e3d6-e824-4766-8f53-4d2ee5ade33e",
+    "draw_title": "Ticket booster comp",
+    "competition_url": "https://winandgrin.co.uk/admin/products/ticket-booster-comp",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "553394143da3b161a66c7d3d802cd2084fe37cb345e4b87097ded7351b2020b0",
+    "drand_seed_hash": "a14f8da4dae225881c2e1ae6468eb2f1debc1b75362b05e9fb723d119b36234c5edf58019145ecb425ec349a970f8379",
+    "client_seed": "1790968109274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1985,
+    "max_tickets": 10000,
+    "combined_hash": "b468705376fa2bd436ec783b4041a1d2709bc8cd48969e8d5c8b63b8b6b00238",
+    "result": "5765",
+    "external_round_id": "32721584",
+    "processing_status": "completed",
+    "created_at": "2026-10-02T19:08:29.000000Z",
+    "revealed_at": "2026-10-02T19:08:36.000000Z"
+}
