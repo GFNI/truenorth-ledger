@@ -1,0 +1,22 @@
+{
+    "round_id": "c5f55919-2484-4a7f-89b5-39ba9d3bc928",
+    "draw_title": "20 TICKETS INTO 50G GOLD OR £5000 CASH 04.10.26",
+    "competition_url": "https://magmacomps.co.uk/admin/products/20-tickets-into-50g-gold-or-ps5000-cash-041026",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "dd1081c0e64ac5fc1027b90b14447acf2abddaa324ba45da1a1b6d0591324184",
+    "drand_seed_hash": "a75fd3faa0f76a99050040289afcc0c5c6d5c87cbe43dd877c18e25ab154c3804d52f676da3bf8aa864c2571c9c880d5",
+    "client_seed": "1791058231328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "f530e7b3b99b76bcfec0e99cefb8c69530fad8b928aa4c669246e47ec5afa433",
+    "result": "14",
+    "external_round_id": "32751624",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T20:10:31.000000Z",
+    "revealed_at": "2026-10-03T20:10:36.000000Z"
+}
