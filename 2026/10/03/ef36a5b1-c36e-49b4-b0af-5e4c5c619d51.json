@@ -1,0 +1,22 @@
+{
+    "round_id": "ef36a5b1-c36e-49b4-b0af-5e4c5c619d51",
+    "draw_title": "Plenty of Twenties",
+    "competition_url": "https://chaotic.co.uk/competition/plenty-of-twenties",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "65ce9406a046835b325dda48de5d0d740a388b2c791f96fe961812d114c700cc",
+    "drand_seed_hash": "aaa03cc0125cbe6eb6ae38cca43fc081b425d5941af23d4aa6530980657b6ac316d0033107b139a19078c736c0458cde",
+    "client_seed": "1791056891070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "a935b371dc6fd87fb034cdfb8cf665e8fc1ae96ca748ba8a423276aa86f1bd25",
+    "result": "90",
+    "external_round_id": "32751178",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:48:11.000000Z",
+    "revealed_at": "2026-10-03T19:48:18.000000Z"
+}
