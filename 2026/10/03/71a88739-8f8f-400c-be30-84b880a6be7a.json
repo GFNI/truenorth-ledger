@@ -1,0 +1,22 @@
+{
+    "round_id": "71a88739-8f8f-400c-be30-84b880a6be7a",
+    "draw_title": "*BRAND NEW* TARGET BUZZ [YOUR CHOICE OF 3 BARRELS]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-buzz-your-choice-of-3-barrels",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "75bb888b7327f57bf922ceb574f9632cad11539055269b3d3fb5496addd99c00",
+    "drand_seed_hash": "90ed42467e8498bd784b3a666eb5aa9e7b2a24f68aab110ee7d00ea4cdb6baaced522cf77ed40c28444a364407ecdafa",
+    "client_seed": "1791056969989",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 120,
+    "combined_hash": "8a4a310baeb577bfe74ce8baeebb33667c8260ab98e3d6f4f99c057e090809a9",
+    "result": "3",
+    "external_round_id": "32751204",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:49:29.000000Z",
+    "revealed_at": "2026-10-03T19:49:36.000000Z"
+}
