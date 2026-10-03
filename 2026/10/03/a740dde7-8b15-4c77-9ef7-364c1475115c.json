@@ -1,0 +1,22 @@
+{
+    "round_id": "a740dde7-8b15-4c77-9ef7-364c1475115c",
+    "draw_title": "Win The Macallan Classic Cut 2025 Edition + Instant wins",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-macallan-classic-2025",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "22af3e0bc14127787689047822e6dc209cbae4dbde779f973457efb072097d1e",
+    "drand_seed_hash": "b78123c5412ac314227de7fccfdd20c9d779585c7095bfdd284e1aecc674fd9eaf94047b575764b78540e62991d39660",
+    "client_seed": "1791063663701",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 147,
+    "max_tickets": 415,
+    "combined_hash": "da2078688bb6d81614455468d1aeea86223af2b5adcde0f12af0cecab2d09033",
+    "result": "80",
+    "external_round_id": "32753436",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T21:41:04.000000Z",
+    "revealed_at": "2026-10-03T21:41:12.000000Z"
+}
