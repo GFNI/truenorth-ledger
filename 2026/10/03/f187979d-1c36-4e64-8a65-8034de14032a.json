@@ -1,0 +1,22 @@
+{
+    "round_id": "f187979d-1c36-4e64-8a65-8034de14032a",
+    "draw_title": "🐒 MONKEY MAYHEM! SITE CREDIT",
+    "competition_url": "https://greasemonkeycompetitions.co.uk/admin/products/monkey-mayhem-site-credit",
+    "operator": {
+        "name": "Grease Monkey Competitions Ltd",
+        "website": "https://greasemonkeycompetitions.co.uk",
+        "company_number": "17064428"
+    },
+    "drand_server_seed": "7ec3567277bc65b20b0a634bf119e4c9d84c8030758fdb7770cede4009acb32a",
+    "drand_seed_hash": "a69ff266578a7e0e824d61707e6e84f7ca35c82ca0774466c7fae0190023096beaee13b837939b23f36a8b98642f605a",
+    "client_seed": "1791058219046",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5,
+    "max_tickets": 500,
+    "combined_hash": "0ce363951397f34de058df97b6a77b8d47f363adb879ef52bb78f70c5798505a",
+    "result": "373",
+    "external_round_id": "32751620",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T20:10:19.000000Z",
+    "revealed_at": "2026-10-03T20:10:24.000000Z"
+}
