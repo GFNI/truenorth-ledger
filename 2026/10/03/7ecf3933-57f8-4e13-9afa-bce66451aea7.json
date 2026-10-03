@@ -1,0 +1,22 @@
+{
+    "round_id": "7ecf3933-57f8-4e13-9afa-bce66451aea7",
+    "draw_title": "*BRAND NEW* CHARLIE MANBY GEN 1 DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-charlie-manby-gen-1-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "954b1db739680cb1cd1e25c33e51cad66f08fdf54a14204415033d39ca9d119d",
+    "drand_seed_hash": "94e2a2bbc5f4b633276c2bbc225bbcd1e535723c5cad4675b0e70091a5ee08a390684eed829bb9d6408b9314a7025570",
+    "client_seed": "1791056736543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 96,
+    "max_tickets": 200,
+    "combined_hash": "ecc760ee0eeb2a7c18d9e1eda6654fc79dc437910ce3254890375725c4621c40",
+    "result": "45",
+    "external_round_id": "32751126",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:45:36.000000Z",
+    "revealed_at": "2026-10-03T19:45:42.000000Z"
+}
