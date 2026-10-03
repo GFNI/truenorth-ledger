@@ -1,0 +1,22 @@
+{
+    "round_id": "58d26bdd-12f7-4608-98f9-f2f462966ca8",
+    "draw_title": "EVERY SPIN WINS (x5 MAIN PRIZE WINNERS OF £100 CASH) 03/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/every-spin-wins-x5-main-prize-winners-of-ps100-cash-0310-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "9f241700e092b993981578336c4088e059c7de7e0089b7ee0ef7b504931f2513",
+    "drand_seed_hash": "aa9c8fbc852f145d23857f864a29f3146913d562350d0ceca183329ba34ccdef74daaa1c8ab36450993fdc0ea26e72b1",
+    "client_seed": "1791067208076",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1139,
+    "max_tickets": 10000,
+    "combined_hash": "82ec0e6d70753c4b68d5b0f9cc25853990f1f130fbddc037efe7e32539d24911",
+    "result": "4595",
+    "external_round_id": "32754617",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T22:40:08.000000Z",
+    "revealed_at": "2026-10-03T22:40:15.000000Z"
+}
