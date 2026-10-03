@@ -1,0 +1,22 @@
+{
+    "round_id": "f390a185-e7cf-4d61-91cb-dde101b9d4e4",
+    "draw_title": "*BRAND NEW* ADRIAN JACKPOT LEWIS SHOWDOWN DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-adrian-jackpot-lewis-showdown-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "5cfb15ec81966dc01434b0cf620edb2f4dc82e7a80d201f1ee81ca3e452d5895",
+    "drand_seed_hash": "a4f54818ab3cfcf6b8ad4e01ad37039c2be4bd5b1f7d6c55db1e40f99e42febc5ff04e5958b01a4e985a467cd5bd67f2",
+    "client_seed": "1791057044393",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 200,
+    "combined_hash": "25b3f2221a4d81856deeb306613aa9dde33e95c8ed659ee00a2625a2355b47eb",
+    "result": "118",
+    "external_round_id": "32751229",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:50:44.000000Z",
+    "revealed_at": "2026-10-03T19:50:51.000000Z"
+}
