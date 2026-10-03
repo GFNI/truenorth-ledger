@@ -1,0 +1,22 @@
+{
+    "round_id": "7e7f73cf-3a29-4b62-84d0-5fb74091dd53",
+    "draw_title": "*BRAND NEW* LUKE LITTLER FALLOUT DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-luke-littler-fallout-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "5f3a90ee7a98391b1d13b44bd47dcd5357eeb18086f1b73e5eb4ab3d14fd2caf",
+    "drand_seed_hash": "a4860a8344c0664f920e7b12800005a19a13e505dc53d50c45686ff0a30d4be0b4247150a3c068e500781fe3c3168dd6",
+    "client_seed": "1791057092551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 206,
+    "max_tickets": 250,
+    "combined_hash": "f3d47ad34d5887fad4996da6ecae8bb8642f5aa1f11b38a032ba15ca56a04fb7",
+    "result": "234",
+    "external_round_id": "32751245",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:51:32.000000Z",
+    "revealed_at": "2026-10-03T19:51:39.000000Z"
+}
