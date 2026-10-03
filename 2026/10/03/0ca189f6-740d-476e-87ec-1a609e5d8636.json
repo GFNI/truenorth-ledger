@@ -1,0 +1,22 @@
+{
+    "round_id": "0ca189f6-740d-476e-87ec-1a609e5d8636",
+    "draw_title": "£12 Flip",
+    "competition_url": "https://chaotic.co.uk/competition/ps12-flip-3077",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "7d58b3f3f98be755cb15e4e80e941a0280932cdc482ff0e58bfc950988c22b61",
+    "drand_seed_hash": "b7859e4e0eeb25218b27ac2c6601a718d0f7e72e5cf7916899379ee1fa84cb4621defc493a8d88ced1d6503749cc3ca1",
+    "client_seed": "1791057954486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "59464cda076474643dfa2b857d7b9790343e3854c79de94f2cf901c05422a5b8",
+    "result": "1834",
+    "external_round_id": "32751532",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T20:05:54.000000Z",
+    "revealed_at": "2026-10-03T20:06:00.000000Z"
+}
