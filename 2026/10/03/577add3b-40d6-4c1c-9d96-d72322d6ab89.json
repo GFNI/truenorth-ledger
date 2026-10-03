@@ -1,0 +1,22 @@
+{
+    "round_id": "577add3b-40d6-4c1c-9d96-d72322d6ab89",
+    "draw_title": "DAILY DRAW £500 CASH 3RD OCTOBER 26",
+    "competition_url": "https://magmacomps.co.uk/admin/products/daily-draw-ps500-cash-3rd-october-26",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "810603cf64a5300ac0a0c3a924412c952b0b11e9b6b2932d0563d43ea0b947b6",
+    "drand_seed_hash": "b15c348cfe597a95e60a0a32743175680a57c21e46e47a627e9176b407f90f596b83b5e3b8e59b5a8c82fbdba85173fc",
+    "client_seed": "1791061806012",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 395,
+    "max_tickets": 499,
+    "combined_hash": "b2a7c10af8a5a8e64bd808b0dc90f5e7e1edc34dfe731a195d885875ee825d98",
+    "result": "189",
+    "external_round_id": "32752816",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T21:10:06.000000Z",
+    "revealed_at": "2026-10-03T21:10:12.000000Z"
+}
