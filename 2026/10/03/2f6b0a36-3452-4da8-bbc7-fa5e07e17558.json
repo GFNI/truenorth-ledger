@@ -1,0 +1,22 @@
+{
+    "round_id": "2f6b0a36-3452-4da8-bbc7-fa5e07e17558",
+    "draw_title": "Golden glow",
+    "competition_url": "https://chaotic.co.uk/competition/golden-glow-5544",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a7a1cd7ffde706baf3536a6ff455e9322fd4b83fc7d263ab64b50c932224a3dd",
+    "drand_seed_hash": "8b6a8741969ebf9c966eeca4a43f73c98ec5c225ade122f665ec7f31a200e9b946000e11dec6f7be613db03e51909299",
+    "client_seed": "1791057023840",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "75c3ac84a859aab9185223df2e44af7c990856a99671485ca8f4971322418a0a",
+    "result": "916967",
+    "external_round_id": "32751222",
+    "processing_status": "completed",
+    "created_at": "2026-10-03T19:50:23.000000Z",
+    "revealed_at": "2026-10-03T19:50:30.000000Z"
+}
