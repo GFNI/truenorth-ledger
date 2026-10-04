@@ -1,0 +1,22 @@
+{
+    "round_id": "8ba519fd-3ba9-45c7-af9f-27dba4b86b7f",
+    "draw_title": "1000W Power Station!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/1000w-power-station-5",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "41ea588f4e2bf9170e8a6db0824daf380a04a54f65a1f33f069f7981e41596e4",
+    "drand_seed_hash": "84c4b5bb69609eee5a4a587b26f3181eeb74ff7e706ead8945aad702800d41fea9dda4466920e1bb27d9ceb6ac1d450b",
+    "client_seed": "1791141835395",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 400,
+    "combined_hash": "ecdc7605410e29f48d976dcc1dc6d08c4a81ac10f8f03be325cb0cedcee5eb78",
+    "result": "285",
+    "external_round_id": "32779493",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:23:55.000000Z",
+    "revealed_at": "2026-10-04T19:24:03.000000Z"
+}
