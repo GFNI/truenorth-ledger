@@ -1,0 +1,22 @@
+{
+    "round_id": "0924aea6-b5e9-4ffe-b190-f5eb96491f45",
+    "draw_title": "EVERY SPIN WINS! 🎡",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/every-spin-wins",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "1fdf199d1b25c02c3ecb2c568e5295bc394cb2b4f48a30f3fff6c8e7a66f5807",
+    "drand_seed_hash": "acd9ce54a447232b2fb01c09dc57da1e6de8e3de69194ead7ad062efd511e3ff1be8b7addf79b6bbc28b2834fb743161",
+    "client_seed": "1791142482526",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "2e8a755f16336affba2ed8ef8fd3531c67fd9fd577504e2b5b6554b57f3cc904",
+    "result": "38607",
+    "external_round_id": "32779708",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:34:42.000000Z",
+    "revealed_at": "2026-10-04T19:34:48.000000Z"
+}
