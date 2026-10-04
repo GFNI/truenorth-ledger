@@ -1,0 +1,22 @@
+{
+    "round_id": "9869fff9-0a5d-4923-a78d-d82f6f619260",
+    "draw_title": "⚔️ Warhammer £5K+ Instant Wins + £250 Shopping Haul End Prize!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-ps5k-instant-wins-ps250-shopping-haul-end-prize",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "1c4681dfbe03d0d60297bde1f535cb62f2b6294041073d57b6da3eb5d81213d6",
+    "drand_seed_hash": "a6c37582feba16f9be1da1f52266240bf8ec0cedba0acdd5f2784dd55ac1f905b6b52b43c1058d8ec4b0a88ae230c232",
+    "client_seed": "1791149683894",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3210,
+    "max_tickets": 15000,
+    "combined_hash": "099b9cff961a6170068d8a2e478fb705cb498a0945e049d4077a01f49daf4a57",
+    "result": "13386",
+    "external_round_id": "32782109",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T21:34:43.000000Z",
+    "revealed_at": "2026-10-04T21:34:51.000000Z"
+}
