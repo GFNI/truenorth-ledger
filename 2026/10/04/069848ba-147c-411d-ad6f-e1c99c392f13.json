@@ -1,0 +1,22 @@
+{
+    "round_id": "069848ba-147c-411d-ad6f-e1c99c392f13",
+    "draw_title": "Portable & rechargeable printer",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/portable-rechargeable-printer",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "3bdbfd3272e1870e3e2d437dd41413dcfb0bffac1778d57b0e4ab185765717e9",
+    "drand_seed_hash": "8004daf4746e6fd49d4012f84b7c596d6bef0bbb990b5e8a651d2092f62e8b0cb63d663736919ce248a1f2c42528899d",
+    "client_seed": "1791140609791",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "725547f4ece299916c602c065a6030d093c3866d4937b1669d6336c8af2fbbdb",
+    "result": "35",
+    "external_round_id": "32779084",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:03:29.000000Z",
+    "revealed_at": "2026-10-04T19:03:36.000000Z"
+}
