@@ -1,0 +1,22 @@
+{
+    "round_id": "70117901-b8e9-4f1f-984e-76059841943d",
+    "draw_title": "FIND A FAIRY 🧚🏻‍♂️ AND WIN INSTANTLY + 10 £100 END WINNERS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/find-a-fairy-and-win-instantly-10-ps100-end-winners",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "38b05dda54f22017f7f30106c65da3ab7a22c41d2d0127e07cdc120c81beaf5f",
+    "drand_seed_hash": "813cc44bc159b283b6ffb1df8fbc0f7cd44bdd35df39db7fd222de810954ee74a7a22529cb073ce9e2059691ef2f9e78",
+    "client_seed": "1791144457239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12024,
+    "max_tickets": 29999,
+    "combined_hash": "bfb7ec9c6c3c3a1239ffdc57d0d910dad73db9cc284b18f6bed9f2bf50c3084c",
+    "result": "16993",
+    "external_round_id": "32780367",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:07:37.000000Z",
+    "revealed_at": "2026-10-04T20:07:45.000000Z"
+}
