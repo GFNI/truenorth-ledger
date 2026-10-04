@@ -1,0 +1,22 @@
+{
+    "round_id": "859cec97-75fd-4dfe-bc3f-4895046b4aaa",
+    "draw_title": "TAG HEUER MONACO “STEVE McQUEEN”",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/tag-heuer-monaco-steve-mcqueen",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "1d900db000ae1e6a93839298e6912daaebcbed64dbf71d283d2f74b1617ff772",
+    "drand_seed_hash": "8971128ea34d031177863be7f0e3ec5f5c2915f415a6dc335f0314daa6cf66b06a7a957a91491c10683c81fb5a6cf3b9",
+    "client_seed": "1791144487195",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1650,
+    "max_tickets": 4000,
+    "combined_hash": "a21595878acae69522dc4c58bd3cae8df12f41f78822224e7a6c12cd06b7dd3d",
+    "result": "2563",
+    "external_round_id": "32780377",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:08:07.000000Z",
+    "revealed_at": "2026-10-04T20:08:15.000000Z"
+}
