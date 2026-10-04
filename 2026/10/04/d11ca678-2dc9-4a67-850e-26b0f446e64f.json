@@ -1,0 +1,22 @@
+{
+    "round_id": "d11ca678-2dc9-4a67-850e-26b0f446e64f",
+    "draw_title": "Every other ticket is a winner! Huge cash instants! Only 10k tickets with 5k winners",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/every-other-ticket-is-a-winner-huge-cash-instants-only-10k-tickets-with-5k",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "9b67885ebcc66756774d7b70222daedfddd593ed27ebb82fc6735f8a0a36c592",
+    "drand_seed_hash": "b6690200c09126d352c7c78dafaf799f989666d36da6f27100fb12e0ebd7b09ced3761e4a0b5a2e5edacb80b021228fd",
+    "client_seed": "1791140924196",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1802,
+    "max_tickets": 10000,
+    "combined_hash": "26613839138aadbd1dbca2ac5d82f336ca4aaf1c8224b1771e1d80d519dcaba8",
+    "result": "6199",
+    "external_round_id": "32779189",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:08:44.000000Z",
+    "revealed_at": "2026-10-04T19:08:51.000000Z"
+}
