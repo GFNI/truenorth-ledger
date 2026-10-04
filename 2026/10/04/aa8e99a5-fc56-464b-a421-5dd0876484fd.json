@@ -1,0 +1,22 @@
+{
+    "round_id": "aa8e99a5-fc56-464b-a421-5dd0876484fd",
+    "draw_title": "Site Credit Instant Wins! #4",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/site-credit-instant-wins-4",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "e1b56fc0dab2e0a8e9a4e2dbe07601bbfc1008df5da496ce66176c50fde5738a",
+    "drand_seed_hash": "8db8a3d5e3d29c72f9a7d8eba32d3b3788bfd338cfaf0b507e88acaeb31c59f1c8e12744dda00960f984350a0b0749f0",
+    "client_seed": "1791142577084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16551,
+    "max_tickets": 200000,
+    "combined_hash": "639e098457cc6e924a440398aaf352f4bc942fbcc986663162a64d99d850558d",
+    "result": "22884",
+    "external_round_id": "32779740",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:36:17.000000Z",
+    "revealed_at": "2026-10-04T19:36:24.000000Z"
+}
