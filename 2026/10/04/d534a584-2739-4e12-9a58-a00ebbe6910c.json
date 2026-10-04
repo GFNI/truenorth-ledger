@@ -1,0 +1,22 @@
+{
+    "round_id": "d534a584-2739-4e12-9a58-a00ebbe6910c",
+    "draw_title": "25K Bonkers Bingo",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-bonkers-bingo-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "63cd7cbc787f6af35d5951d8b6871ebdfccae7cd9fc6bac872c7b98d5659a2ed",
+    "drand_seed_hash": "99f8d39e79a13a0e24d3cf6cb55ad03c63917b1d6f5df9dd14fffad2f85ff82e162fe0ab828ecaa80e76f128bd112460",
+    "client_seed": "1791144924810",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22826,
+    "max_tickets": 208000,
+    "combined_hash": "264d03f32c1876348d4f5cbfa9b71ec297d469047f06b14296e456ca936d1e72",
+    "result": "71847",
+    "external_round_id": "32780522",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:15:24.000000Z",
+    "revealed_at": "2026-10-04T20:15:30.000000Z"
+}
