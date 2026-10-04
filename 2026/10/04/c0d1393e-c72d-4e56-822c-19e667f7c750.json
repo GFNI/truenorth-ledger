@@ -1,0 +1,22 @@
+{
+    "round_id": "c0d1393e-c72d-4e56-822c-19e667f7c750",
+    "draw_title": "AUDI RS6 + INSTANT WINS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/audi-rs6",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e4f1bcf6dfc42f75f09482d5a7f9d146309a83664f94f6143fbe1c10f21584d8",
+    "drand_seed_hash": "97b59f5597baa6af4525c6d3e7ce7f1f7e01ccc730107b53e83f1d52ba1274b0c18038c49ef316926c1a1af4836d5b65",
+    "client_seed": "1791145397479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 145803,
+    "max_tickets": 200000,
+    "combined_hash": "6c2fd81fc8ad5a0c223d497284a7fd4f4e1223ed49ea9b53e478834714d0e597",
+    "result": "61613",
+    "external_round_id": "32780680",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:23:17.000000Z",
+    "revealed_at": "2026-10-04T20:23:24.000000Z"
+}
