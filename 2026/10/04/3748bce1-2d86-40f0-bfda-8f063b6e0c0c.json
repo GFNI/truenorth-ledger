@@ -1,0 +1,22 @@
+{
+    "round_id": "3748bce1-2d86-40f0-bfda-8f063b6e0c0c",
+    "draw_title": "Pirate’s Payday — £250 instant wins remain! 🏴‍☠️",
+    "competition_url": "https://theprizevault.co.uk/admin/products/pirates-payday-ps250-instant-wins-remain",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "612018406de13165331113c746f59166f5be72343368ab2d7c84140e12607566",
+    "drand_seed_hash": "a2381213775e6b0a859e69f5403878edfbc921f41e8a6f68a5d26ec5c3895ee54deb79b87d3675ce1368a74393e885a4",
+    "client_seed": "1791144631399",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2962,
+    "max_tickets": 40000,
+    "combined_hash": "82e530c2741b2343a5c26ebaa0e12902991f68c9106734dccada9b06014933c7",
+    "result": "24387",
+    "external_round_id": "32780425",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:10:31.000000Z",
+    "revealed_at": "2026-10-04T20:10:39.000000Z"
+}
