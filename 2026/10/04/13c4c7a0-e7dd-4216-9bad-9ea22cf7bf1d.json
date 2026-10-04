@@ -1,0 +1,22 @@
+{
+    "round_id": "13c4c7a0-e7dd-4216-9bad-9ea22cf7bf1d",
+    "draw_title": "Win Ticket Bundles Into Apple Tech Instant Win Competition",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-ticket-bundles-into-apple-tech-instant-win-competition",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "bb3bca59924c5ae67152ccc5ad19a3be602a50ae02f805a4926fa150b9c2ccdb",
+    "drand_seed_hash": "af2f9edaeb611ee4cc356d47cff825b53a9f342544286b3f3bee609ac0afa63609903ce4d87ba6c80530f0b7db95709a",
+    "client_seed": "1791139516635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 5000,
+    "combined_hash": "946ca3d0fc7cf1bbd3b1aa1b409f3d4a97d75b5cb1d1ac5c0ffb66d3097a79f3",
+    "result": "1093",
+    "external_round_id": "32778720",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T18:45:16.000000Z",
+    "revealed_at": "2026-10-04T18:45:24.000000Z"
+}
