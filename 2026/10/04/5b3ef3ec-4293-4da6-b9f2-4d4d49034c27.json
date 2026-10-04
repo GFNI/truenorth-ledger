@@ -1,0 +1,22 @@
+{
+    "round_id": "5b3ef3ec-4293-4da6-b9f2-4d4d49034c27",
+    "draw_title": "THE PRESTIGE PRIZE VAULT",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/prestige-prize-vault",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "43cf26bcdc6410d37c4fc35add451b113ed36d31f7b0de756a3c11ff1f91d163",
+    "drand_seed_hash": "a8df59c8d18e9faec2398494e86eb1c48ec8b0b8d4700e641ea5f93f72893b3a8d8b8b2410dbbb0c47cfb9c852cb0698",
+    "client_seed": "1791144603680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73049,
+    "max_tickets": 374999,
+    "combined_hash": "0a45fd974fd8ff2501533d08f25dfd15020e96a5ed2819147117e7696df6952a",
+    "result": "339698",
+    "external_round_id": "32780416",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:10:04.000000Z",
+    "revealed_at": "2026-10-04T20:10:12.000000Z"
+}
