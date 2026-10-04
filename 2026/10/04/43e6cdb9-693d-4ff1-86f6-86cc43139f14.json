@@ -1,0 +1,22 @@
+{
+    "round_id": "43e6cdb9-693d-4ff1-86f6-86cc43139f14",
+    "draw_title": "XP Icon-X With WSAST",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/xp-icon-x-with-wsast-4",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "0829f8e3e45fad8fe5f41bd55de3b81a76b2bf37f2f38bfb5162be24a58613aa",
+    "drand_seed_hash": "82bd21d315e825002517d7e5bb231347839ac81540fdb0866ce45e818b1516accf3e0c339e05704104503c2f4dcdff3c",
+    "client_seed": "1791142284634",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 181,
+    "max_tickets": 600,
+    "combined_hash": "2fbaa1ffd931743b2e9785328db03ec4c3a08085ea4028c7f4d0d4dc6b3b6c82",
+    "result": "440",
+    "external_round_id": "32779642",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:31:24.000000Z",
+    "revealed_at": "2026-10-04T19:31:30.000000Z"
+}
