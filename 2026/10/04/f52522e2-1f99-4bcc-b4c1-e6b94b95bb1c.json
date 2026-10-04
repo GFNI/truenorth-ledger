@@ -1,0 +1,22 @@
+{
+    "round_id": "f52522e2-1f99-4bcc-b4c1-e6b94b95bb1c",
+    "draw_title": "Crypto Riches Slots",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/crypto-riches-slots",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "bee8178605e0f2b857aeded6f3594dd89ca0ca2732571c04b472f53296407717",
+    "drand_seed_hash": "8c4f7759f8e16a4052348f340418c2b2f38dc098fe6c61a475bbe718a9372ed767878edb52c1b41dc389eb4c8215732c",
+    "client_seed": "1791144444657",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 159709,
+    "max_tickets": 520000,
+    "combined_hash": "fdab48b7dd38ddba8c497316b13301a595ca0e09177fb654a5f6769f0dbac4ad",
+    "result": "233150",
+    "external_round_id": "32780362",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:07:24.000000Z",
+    "revealed_at": "2026-10-04T20:07:30.000000Z"
+}
