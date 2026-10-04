@@ -1,0 +1,22 @@
+{
+    "round_id": "2e3cfafc-5efc-47ce-abb9-e6eb4f8429e3",
+    "draw_title": "50\" Samsung Crystal Processor 4K smart TV",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/50-samsung-crystal-processor-4k-smart-tv",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "8b7c49f765e637771319a27a32609b3cf63964280db85c84a4fa94478a2bc645",
+    "drand_seed_hash": "9265b2ddf4023bca6d243a0d8326de69dbc3284408c2e6b424dd364891434cfc17416a956393ceb5d5ec945deb05fa4c",
+    "client_seed": "1791140664085",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 490,
+    "max_tickets": 500,
+    "combined_hash": "146bf8abd2c9991c0ad1c5687c64581f698ca8135e541ff4b512ea5fe5b648fb",
+    "result": "277",
+    "external_round_id": "32779102",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:04:24.000000Z",
+    "revealed_at": "2026-10-04T19:04:30.000000Z"
+}
