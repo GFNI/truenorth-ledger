@@ -1,0 +1,22 @@
+{
+    "round_id": "c383e8bb-0c2a-4cce-a7e1-c27d5045ad36",
+    "draw_title": "EPIC POKEMON BATTLE BUNDLE OR £300 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/epic-pokemon-bundle-or-300-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "8ca2a92997da7cba75f033d4696e921d52dad8fba7a4ac9779207cefc27ed12e",
+    "drand_seed_hash": "a26d7f79f3f558b9e7abd204531321ffeefdf0fdb7148aee25f4d0731c7e47b97efa53d9e7e5081852c64ca2349edb3f",
+    "client_seed": "1791145225126",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4374,
+    "max_tickets": 9999,
+    "combined_hash": "2d42763536d5ae006488e0910e53f8961d1fc6e435eaf881ba4a48ca2ef2e37e",
+    "result": "2341",
+    "external_round_id": "32780623",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:20:25.000000Z",
+    "revealed_at": "2026-10-04T20:20:33.000000Z"
+}
