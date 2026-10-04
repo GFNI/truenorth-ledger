@@ -1,0 +1,22 @@
+{
+    "round_id": "ab222fbe-8c7e-4a7f-8015-9fead787e0d2",
+    "draw_title": "TICKET BOOTH 🎪",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ticket-booth-3",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "7592664f5d95b7eda4d659b9cc2ab9c0804686a17890332f9549b2b009b356d6",
+    "drand_seed_hash": "b5bdb56177ae01796af466d785e12f44165efd5cc5bb958eef7d577e8d27fbe53ac807860c7fad953468fb55a362b429",
+    "client_seed": "1791144695521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58000,
+    "max_tickets": 58000,
+    "combined_hash": "f501294b16c499e61799eeb800f990f20c63abac7414bac901d18e62b2eba4cb",
+    "result": "678",
+    "external_round_id": "32780446",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:11:35.000000Z",
+    "revealed_at": "2026-10-04T20:11:42.000000Z"
+}
