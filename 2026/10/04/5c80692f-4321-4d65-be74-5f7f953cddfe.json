@@ -1,0 +1,22 @@
+{
+    "round_id": "5c80692f-4321-4d65-be74-5f7f953cddfe",
+    "draw_title": "Cashémon | £6000 In Instant Wins | £100 Main Draw",
+    "competition_url": "https://phatstax.co.uk/admin/products/cashemon",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "880d494dbc6b6ed369772e4ca51a86fef2876616ecae6b533be83bb0fe623cd2",
+    "drand_seed_hash": "ad9fef8494633913201b8b0afa3a7e317acde6e40d63f82f7c82936f38dbd33d0d5239e9ebc2be3a91ba5eb76c75443d",
+    "client_seed": "1791144204532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17653,
+    "max_tickets": 130000,
+    "combined_hash": "cdaea35648cdf49064f09e8f142d28538c65acc8b6180b6c402007cb17c6065e",
+    "result": "37694",
+    "external_round_id": "32780282",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:03:24.000000Z",
+    "revealed_at": "2026-10-04T20:03:30.000000Z"
+}
