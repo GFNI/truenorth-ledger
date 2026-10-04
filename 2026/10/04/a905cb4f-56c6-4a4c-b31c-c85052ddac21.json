@@ -1,0 +1,22 @@
+{
+    "round_id": "a905cb4f-56c6-4a4c-b31c-c85052ddac21",
+    "draw_title": "Ousmane Dembele 04/10 + Instant Wins!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ousmane-dembele-0410-instant-wins",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "7f765ef35582cc53f2b56d526cda950ebae61849a03ca41b37b800b007318cb9",
+    "drand_seed_hash": "a729af64d13ec68b4c0e51f19314e4a576c616756aab209ea1fc0a729d9f0e970c32ac621cb550a831e54d403641c455",
+    "client_seed": "1791142892944",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20975,
+    "max_tickets": 50000,
+    "combined_hash": "28a6029a1e5455446d6fa1923261f579d6f0a73e119e698182363de4c55d7eb7",
+    "result": "14873",
+    "external_round_id": "32779845",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:41:33.000000Z",
+    "revealed_at": "2026-10-04T19:41:39.000000Z"
+}
