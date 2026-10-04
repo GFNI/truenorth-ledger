@@ -1,0 +1,22 @@
+{
+    "round_id": "b0b184e2-8c01-4962-b0c9-0ac2904b0ef6",
+    "draw_title": "Stellar Spins - £1000 Main Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/stellar-spins",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "99b69925c2fd4f0641978ad49579aa845cc6739bf3e2717c15904995fa4d63a9",
+    "drand_seed_hash": "8e0192e9306205af7c4ddd8f74fc09dcc8a3885449e766047066743b6497fe083de7952e88b718497b95725e8c158c8f",
+    "client_seed": "1791143131187",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99999,
+    "max_tickets": 99999,
+    "combined_hash": "edb33a61da0a192666db110694d62ce20b733e14a5639cd51cd949b043b0621a",
+    "result": "53414",
+    "external_round_id": "32779924",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:45:31.000000Z",
+    "revealed_at": "2026-10-04T19:45:36.000000Z"
+}
