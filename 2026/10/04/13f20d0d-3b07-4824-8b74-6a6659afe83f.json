@@ -1,0 +1,22 @@
+{
+    "round_id": "13f20d0d-3b07-4824-8b74-6a6659afe83f",
+    "draw_title": "The Copper Vault - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/coppervault",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e2168b164397ec4c4dbb018ea8c95239a1411b6e7b801c62583744b995fe651b",
+    "drand_seed_hash": "853144375360f03c6cae6e8987ce5598d52ead1ddc7b51cf257243c19055757d25fa6a08d8713699c5d395c13933034e",
+    "client_seed": "1791142799872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 302231,
+    "max_tickets": 500000,
+    "combined_hash": "caa3f43c101a1cf12c3c5fc7a76a093a88fe1e866a929608fa079ca352446346",
+    "result": "165675",
+    "external_round_id": "32779814",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:39:59.000000Z",
+    "revealed_at": "2026-10-04T19:40:06.000000Z"
+}
