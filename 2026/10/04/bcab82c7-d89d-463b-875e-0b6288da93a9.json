@@ -1,0 +1,22 @@
+{
+    "round_id": "bcab82c7-d89d-463b-875e-0b6288da93a9",
+    "draw_title": "Win The New AirPods 5 - Just 75p!",
+    "competition_url": "https://expcomps.com/admin/products/win-the-new-airpods-5-just-75p",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "32ee458d0e41567da74e88d0985f40952bf3d8d63a307465d93839a9f6fa2150",
+    "drand_seed_hash": "ae0c8e81b9c3ae3e277109d7d1bfa4beefed9666aabffd9596d161c85b97d842e134349d2cad40f7961876d383e21a4c",
+    "client_seed": "1791144431806",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 242,
+    "max_tickets": 325,
+    "combined_hash": "ba0bc4f1d32d55ff4b282ceb73449249f73cee15352ec0315915d3729aaa3471",
+    "result": "140",
+    "external_round_id": "32780358",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:07:11.000000Z",
+    "revealed_at": "2026-10-04T20:07:18.000000Z"
+}
