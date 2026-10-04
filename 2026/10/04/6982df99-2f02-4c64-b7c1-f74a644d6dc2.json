@@ -1,0 +1,22 @@
+{
+    "round_id": "6982df99-2f02-4c64-b7c1-f74a644d6dc2",
+    "draw_title": "£25,000 OF INSTANT WINS FOR 1P (x5 MAIN PRIZE WINNERS OF £100) 04/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps25000-of-instant-wins-for-1p-x5-main-prize-winners-of-ps1000410",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "24510d45e03af77d37ee227cd4362bcf6f43680ba2cbf94a8d3ac8aa7aedde88",
+    "drand_seed_hash": "965b5fed0db84af3e0d6f366012034b4a978830b193018a23c56e815eed94f58a412a3f8b67de43844903224e94cd511",
+    "client_seed": "1791148231436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 828332,
+    "max_tickets": 5000000,
+    "combined_hash": "307d4d574f34b88c60ab6542d39e2f52a4c95bdf6e99d11bd38cc2c3a91f4fa7",
+    "result": "4696113",
+    "external_round_id": "32781625",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T21:10:31.000000Z",
+    "revealed_at": "2026-10-04T21:10:39.000000Z"
+}
