@@ -1,0 +1,22 @@
+{
+    "round_id": "e9293bf8-2298-4f50-b756-6eacf19b8ba6",
+    "draw_title": "DIOR SADDLE BAG CHOCOLATE SUEDE OR £3,000",
+    "competition_url": "https://magmacomps.co.uk/admin/products/dior-saddle-bag-chocolate-suede",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "6f5e2da924b34869b0795070ad5c0ce403ec6b161be9b5afdd13fa87a41de6fd",
+    "drand_seed_hash": "ae207ac0cff5c39e9fede2b19a57daa386245993bc3d24432a3e984015d5166ee51404f085272df3c1cd6a44b6206f9f",
+    "client_seed": "1791145373795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1117,
+    "max_tickets": 3999,
+    "combined_hash": "0d27d1c0a3003673e391cbe96463a946750560e7d161e623eb0becdf3d50b29d",
+    "result": "1429",
+    "external_round_id": "32780672",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:22:53.000000Z",
+    "revealed_at": "2026-10-04T20:23:00.000000Z"
+}
