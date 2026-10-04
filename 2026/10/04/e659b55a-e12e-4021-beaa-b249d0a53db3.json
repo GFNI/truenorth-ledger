@@ -1,0 +1,22 @@
+{
+    "round_id": "e659b55a-e12e-4021-beaa-b249d0a53db3",
+    "draw_title": "2024 THE LION & THE EAGLE 1oz GOLD COIN — PCGS MS67",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-the-lion-the-eagle-1oz-gold-coin-pcgs-ms67",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3a1a3c39ad6f5f3cdc9b2a92b70be0f021e6a6f65256e9aeb657b4d50ee0ad8b",
+    "drand_seed_hash": "aa1eede16f1b7704d45630b685b192c74539d3c68588c7173334e9f2c6304103dba6e3fba860eadea48eea038b289d6a",
+    "client_seed": "1791144553793",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5157,
+    "max_tickets": 7000,
+    "combined_hash": "b4322fba121e8500b1634c1c79b60d3d828a3c01cdefd37e7a01db42ffa68ad7",
+    "result": "3349",
+    "external_round_id": "32780399",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:09:13.000000Z",
+    "revealed_at": "2026-10-04T20:09:21.000000Z"
+}
