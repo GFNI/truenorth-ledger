@@ -1,0 +1,22 @@
+{
+    "round_id": "b5bd5780-2c00-437c-be8a-1f0e2a6b1e88",
+    "draw_title": "£5000 INSTANT WINS - £200 END PRIZE",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/ps5000-instant-wins-ps200-end-prize-12",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "cba95b9b3c13459750ccde686c49487cbd094e4f87de87a2a5f82ebe6fda326d",
+    "drand_seed_hash": "acc4dfe9255ca5925dc2d59123a64f3beb1cb8f7571184a5d87af6b2d3374fed238b614c0008966a6f75198a55359afd",
+    "client_seed": "1791144622456",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22048,
+    "max_tickets": 100000,
+    "combined_hash": "4c8df20106ce12b2b9bcf405954ad8f2e37313291d35f2ea59a728c340f3863c",
+    "result": "73101",
+    "external_round_id": "32780422",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:10:22.000000Z",
+    "revealed_at": "2026-10-04T20:10:30.000000Z"
+}
