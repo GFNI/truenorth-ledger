@@ -1,0 +1,22 @@
+{
+    "round_id": "d0c6d8f4-1d4a-4a8c-8205-c35d2ace267a",
+    "draw_title": "Booze Bundle!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/booze-bundle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "1da128c31888180812a9cdd4780d79712b5c68e295776467e4af406a9c5c4002",
+    "drand_seed_hash": "92add96de3edc24846bb5689b9ce1f62dc8915f94cd2ee9c3272e558ee745c52cb4a27e688fa6df0811ac1e46fd98549",
+    "client_seed": "1791141631962",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 350,
+    "combined_hash": "6eeb95312c7e959b8e642e18e9bf78edc37267c4264f3a76108d2fd70882c13d",
+    "result": "19",
+    "external_round_id": "32779425",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:20:32.000000Z",
+    "revealed_at": "2026-10-04T19:20:39.000000Z"
+}
