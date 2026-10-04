@@ -1,0 +1,22 @@
+{
+    "round_id": "02394ccd-de68-454b-8329-8f6d55aa3e3a",
+    "draw_title": "£3k Cash Drop Plus 5 x Unique Winners of £200!",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/ps3k-cash-drop-plus-5-x-unique-winners-of-ps200",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "5399eb86a1130209640f1263b246b4b08f3d15521ab2f2b36a56887dd6205bed",
+    "drand_seed_hash": "8ea0e8a540a023651b4f576d2e186edaec1dbf51dc1996639bece134d443d2c9618f543a5e14de24298bea671014b063",
+    "client_seed": "1791141077183",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51308,
+    "max_tickets": 120000,
+    "combined_hash": "6d02680e00c773943ea82a1aab400d43c0dabc2c6d885f3f8c2157860b5252cc",
+    "result": "17390",
+    "external_round_id": "32779240",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:11:17.000000Z",
+    "revealed_at": "2026-10-04T19:11:24.000000Z"
+}
