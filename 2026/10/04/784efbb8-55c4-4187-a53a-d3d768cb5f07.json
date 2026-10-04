@@ -1,0 +1,22 @@
+{
+    "round_id": "784efbb8-55c4-4187-a53a-d3d768cb5f07",
+    "draw_title": "HOOK A DUCK - CASH SPLASH",
+    "competition_url": "https://easybigwins.co.uk/admin/products/hook-a-duck-cash-splash",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "e6cc9b245f9510fb612d3c0651673512baed0c89ddc9339928aa431dc5431e34",
+    "drand_seed_hash": "920556c20e397027fbbf7613222128d0b64c0e56123e2f87d03f97266b00271758d6604f531d79c3cea31ba6a21668a6",
+    "client_seed": "1791145892129",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2241,
+    "max_tickets": 10600,
+    "combined_hash": "564069e195bd027a8fb71e6751cefb94e970565d8d0b7ea7ad2f4617bee45abc",
+    "result": "9351",
+    "external_round_id": "32780844",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T20:31:32.000000Z",
+    "revealed_at": "2026-10-04T20:31:36.000000Z"
+}
