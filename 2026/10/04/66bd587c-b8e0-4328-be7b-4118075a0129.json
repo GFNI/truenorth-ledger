@@ -1,0 +1,22 @@
+{
+    "round_id": "66bd587c-b8e0-4328-be7b-4118075a0129",
+    "draw_title": "Falling Fortunes - £500 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/fall-fortune",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "fdb7de73e90d80eabadd62e776c8ba44de78d9b77e037e5a2113eec757734d8e",
+    "drand_seed_hash": "8838ef923be0bff23aa41d4b7c18005d4f92ef9f04c537b65380afc777a94e1db9a764c929629ac8be65531917b25826",
+    "client_seed": "1791143013273",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44605,
+    "max_tickets": 150000,
+    "combined_hash": "53f5466d009578c4e9a1bd26fc2d63e6b73738689dad8a25fc0516f4a7124853",
+    "result": "66868",
+    "external_round_id": "32779885",
+    "processing_status": "completed",
+    "created_at": "2026-10-04T19:43:33.000000Z",
+    "revealed_at": "2026-10-04T19:43:39.000000Z"
+}
