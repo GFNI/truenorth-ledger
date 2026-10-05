@@ -1,0 +1,22 @@
+{
+    "round_id": "61800a7e-b53f-48b8-bcfd-9dcad364d69a",
+    "draw_title": "STILL STACKED WITH CASH 🎣 +  £500 END DRAW!💰",
+    "competition_url": "https://clutchcomps.com/admin/products/still-stacked-with-cash-ps500-end-draw",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "173acd236141e8bfeca184bf9daf3d2345f31c578abec203128f7d4aa8b4e24e",
+    "drand_seed_hash": "96b7948a30e4c3dc9b92a8b431af374799b45957982134b44cbc00bddd7db5d31378f18592876d281c3665d510c0730a",
+    "client_seed": "1791228042551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 174961,
+    "max_tickets": 260000,
+    "combined_hash": "c2ab0d87dd3d3267fb26afe380ac3bf0f6f70d8ed4a3bb9e0a04bd5e7e6a91e0",
+    "result": "180099",
+    "external_round_id": "32808228",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T19:20:42.000000Z",
+    "revealed_at": "2026-10-05T19:20:48.000000Z"
+}
