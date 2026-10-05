@@ -1,0 +1,22 @@
+{
+    "round_id": "283d8a4c-1970-4701-aeb9-1fe4ac39667d",
+    "draw_title": "Disneyland Paris (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/3-nights-in-disneyland-paris",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1fc4cb5a27c332753df11429edd7edc07ac680bb041eb5b548c4953f0aba358b",
+    "drand_seed_hash": "87d3814204e35f1c85eabedaa8cc41856a86a3eae85ea6752b7f45a53084726266510258fd5b3cac938b4b70c7675d56",
+    "client_seed": "1791235352371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 14000,
+    "combined_hash": "2ecf01981f1ef8f79a8275dafc3f353b3e595e0432085110f839a282956acfc8",
+    "result": "1407",
+    "external_round_id": "32810665",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T21:22:32.000000Z",
+    "revealed_at": "2026-10-05T21:22:39.000000Z"
+}
