@@ -1,0 +1,22 @@
+{
+    "round_id": "ccd7007c-f7db-44c3-88d7-d5c14badd466",
+    "draw_title": "Ace 10 Gengar EX 154/128",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-gengar-ex-154128",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "f07cf2c5017287e955231e36020ddcea1c8e3402328835536b51dc94efd3bd62",
+    "drand_seed_hash": "927eed27b22e34891d1b1d7f397fba71c2422feb6960375a06da08ef34049dd9278fb092b6ed6526f3de5845141a9815",
+    "client_seed": "1791234670388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 191,
+    "max_tickets": 550,
+    "combined_hash": "086e335ef7aed2c9019980c2a5048572a131c79a5219af65eefba74f0729514a",
+    "result": "509",
+    "external_round_id": "32810438",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T21:11:10.000000Z",
+    "revealed_at": "2026-10-05T21:11:18.000000Z"
+}
