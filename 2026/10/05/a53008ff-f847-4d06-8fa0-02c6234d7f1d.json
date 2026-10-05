@@ -1,0 +1,22 @@
+{
+    "round_id": "a53008ff-f847-4d06-8fa0-02c6234d7f1d",
+    "draw_title": "Ninja Crispi",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ninja-crispi-dual-zone-or-ps230-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "b4ba4ed37432348b719d6413832505dff86d794ee7fa6c9a673fc7c4dbfb4e9a",
+    "drand_seed_hash": "8c5067720a94e01c86b50e4f5da06028de24f4ab11a3702eb650104d212ed1129a71c4a1053dea99bb47d3a3f80e5e90",
+    "client_seed": "1791235058522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 450,
+    "combined_hash": "82ebe854c0e71eaeac379d0cd087673d2863e66b1a249c9c8a8c9fe4e0985aaa",
+    "result": "187",
+    "external_round_id": "32810567",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T21:17:38.000000Z",
+    "revealed_at": "2026-10-05T21:17:48.000000Z"
+}
