@@ -1,0 +1,22 @@
+{
+    "round_id": "19e78c91-efe7-4ff6-b15c-d9288c75f4e9",
+    "draw_title": "🧸 TEDDY BEAR BINGO 🧸",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/teddy-bear-bingo",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "06de3160e022b0aafd7c03f1bf006ae5ee4c1a2af3a4977685b1c31194d1b472",
+    "drand_seed_hash": "a47f5979ffed8fd74719efcf9767be3edc18b14476a719e2eaa3b521b01a02bb491073aeff405dc9818dd940e8db4f3a",
+    "client_seed": "1791238221116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10227,
+    "max_tickets": 300000,
+    "combined_hash": "544d63a21516e9450b721ef40ccaac60f41734a3b801840f17f0f14977dd6141",
+    "result": "116853",
+    "external_round_id": "32811621",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T22:10:21.000000Z",
+    "revealed_at": "2026-10-05T22:10:27.000000Z"
+}
