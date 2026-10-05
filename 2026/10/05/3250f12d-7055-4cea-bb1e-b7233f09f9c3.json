@@ -1,0 +1,22 @@
+{
+    "round_id": "3250f12d-7055-4cea-bb1e-b7233f09f9c3",
+    "draw_title": "2010 CANADIAN 1oz FINE SILVER MAPLE LEAF",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2010-canadian-1oz-fine-silver-maple-leaf-4",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "e300ddc10b1cb5f67bd8382b954231a817d8b75f82b94fe2c2b7b965591febdf",
+    "drand_seed_hash": "a36bb2ad7977dbf5484d4d75503023dedfe6aa5045286690c3f7f5523cc223b72b15175d415284a4ccc355cc26d2bc7e",
+    "client_seed": "1791240978495",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 150,
+    "combined_hash": "8a1a3491b4a4c613f279773e490f936c01a4a324bde1a6de6c141dd0348b0a8f",
+    "result": "137",
+    "external_round_id": "32812540",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T22:56:18.000000Z",
+    "revealed_at": "2026-10-05T22:56:24.000000Z"
+}
