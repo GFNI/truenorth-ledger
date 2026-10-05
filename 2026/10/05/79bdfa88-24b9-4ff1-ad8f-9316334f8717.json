@@ -1,0 +1,22 @@
+{
+    "round_id": "79bdfa88-24b9-4ff1-ad8f-9316334f8717",
+    "draw_title": "💎 Pokemon Prismatic Bundle 💎",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/pokemon-prismatic-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "564ac96a5ebddd25a1d30ce5442bc80f8242e5041369057ba92706657a9833d4",
+    "drand_seed_hash": "89bf3b7d770384e1acb80cd68f63508ecde340365793cadd34a6a564d9f100d229553fb48abd9f3d3817f22a27f09b36",
+    "client_seed": "1791225742070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800,
+    "max_tickets": 800,
+    "combined_hash": "ca1ce4ba919e4cd77e57dc761d22712886ba3bbcde76c444bd755a5056ecd60d",
+    "result": "555",
+    "external_round_id": "32807462",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T18:42:22.000000Z",
+    "revealed_at": "2026-10-05T18:42:30.000000Z"
+}
