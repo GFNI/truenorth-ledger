@@ -1,0 +1,22 @@
+{
+    "round_id": "09e4d91d-3201-4792-9ef3-27b8305390b9",
+    "draw_title": "FARM YARD FORTUNES 🐷 + £1000 END DRAW💰",
+    "competition_url": "https://clutchcomps.com/admin/products/farm-yard-fortunes-ps1000-end-draw",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "a1d3f1d6e7bfbdcc614225446d9e88bd8b77861b9ec5a1ea28d82bdd784c5844",
+    "drand_seed_hash": "9980d5c2b630a266a473b388d300d393d1dc842b9ab0fc62714206cbc2bd453e1010fcdfe99f7de93aa4e6b5ce031c5a",
+    "client_seed": "1791228103925",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 700000,
+    "max_tickets": 700000,
+    "combined_hash": "d74096f05540a5c7290c48308a3417df5cd1900e10a08f469cd0808be6e9a996",
+    "result": "178840",
+    "external_round_id": "32808249",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T19:21:44.000000Z",
+    "revealed_at": "2026-10-05T19:21:51.000000Z"
+}
