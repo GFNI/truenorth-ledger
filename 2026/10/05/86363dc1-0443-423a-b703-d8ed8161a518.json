@@ -1,0 +1,22 @@
+{
+    "round_id": "86363dc1-0443-423a-b703-d8ed8161a518",
+    "draw_title": "Lemon & Line Bingo🍋‍🟩",
+    "competition_url": "https://redlemonx.co.uk/admin/products/lemon-line-bingo-4",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "afff71ac80f22c5ad37de0689bb395ff15103bf6f205bc056d8d9af39b4c0634",
+    "drand_seed_hash": "ad135bb8174c83e745b5335158a566df3f066c3b38326ce558d487bed2045032516584b10fd8c586fdb52b4890ee7805",
+    "client_seed": "1791227128306",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22146,
+    "max_tickets": 30000,
+    "combined_hash": "74af419a33964471e002be755dd90659047d6b7a94b3fa4a4a98e607bc0a8d8b",
+    "result": "16021",
+    "external_round_id": "32807924",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T19:05:28.000000Z",
+    "revealed_at": "2026-10-05T19:05:36.000000Z"
+}
