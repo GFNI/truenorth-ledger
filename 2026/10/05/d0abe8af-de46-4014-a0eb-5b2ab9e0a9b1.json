@@ -1,0 +1,22 @@
+{
+    "round_id": "d0abe8af-de46-4014-a0eb-5b2ab9e0a9b1",
+    "draw_title": "Safe Cracker - £8,000 in prizes to be won",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/safe-cracker-ps8000-in-prizes-to-be-won",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "6146ba02264c1cd9eebc1ddcd764a0cc802e2196ea723a53be1bca727d561e52",
+    "drand_seed_hash": "b309dff87795910a3cb4a76cfa3eb38520ef7d40c658ad14af18fd848f08a375df2fdca1a050cecd5904026983eacae3",
+    "client_seed": "1791231173993",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3402,
+    "max_tickets": 9999,
+    "combined_hash": "de3989b6adccf2b410d9bf11f2970bed7c7e6e67de1aa63784dc7933039f0741",
+    "result": "2834",
+    "external_round_id": "32809272",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T20:12:54.000000Z",
+    "revealed_at": "2026-10-05T20:13:00.000000Z"
+}
