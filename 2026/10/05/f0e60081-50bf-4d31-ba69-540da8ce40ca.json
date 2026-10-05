@@ -1,0 +1,22 @@
+{
+    "round_id": "f0e60081-50bf-4d31-ba69-540da8ce40ca",
+    "draw_title": "🪟 £1,500 Spends with The Blind Mannie #2 🪟",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps1500-spends-with-the-blind-mannie-2-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c408c60c26357e21a0885c66367dccdbf1301fc4bb4b37893baabb8a99a66352",
+    "drand_seed_hash": "ac66794068ca5a3c26e566178f3f664431b632c3dd2f142bbe80297a4d306282d0895e8d8874bd57b09a55567d9744e8",
+    "client_seed": "1791226803333",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1319,
+    "max_tickets": 2500,
+    "combined_hash": "e5dcd208d46efee17b46c17928acffab5da02a83c3f56dcf2e42b07c2f0a1ddb",
+    "result": "1838",
+    "external_round_id": "32807815",
+    "processing_status": "completed",
+    "created_at": "2026-10-05T19:00:03.000000Z",
+    "revealed_at": "2026-10-05T19:00:09.000000Z"
+}
