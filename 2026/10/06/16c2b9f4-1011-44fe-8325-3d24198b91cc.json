@@ -1,0 +1,22 @@
+{
+    "round_id": "16c2b9f4-1011-44fe-8325-3d24198b91cc",
+    "draw_title": "GO GRAB A £100! - Low Tickets & Hot Odds!",
+    "competition_url": "https://topdogprizes.com/admin/products/go-grab-a-ps100-low-tickets-hot-odds",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "ead7ce1b204856ac309eec3a17bbd67312657d16ac2754b18a01a3c8df0757ae",
+    "drand_seed_hash": "a3c09f57baae0744122cb02da0c0fbbe2e300b06f88905f8578ba8cf628e74eeb4f836a216e45c4436905541c4bdfb66",
+    "client_seed": "1791313731266",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1132,
+    "max_tickets": 2000,
+    "combined_hash": "2ac0b2011fc0deff9a3cf8c05457d25ba7e24d7f965d121a80fe4ca52817554e",
+    "result": "1819",
+    "external_round_id": "32836791",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T19:08:51.000000Z",
+    "revealed_at": "2026-10-06T19:08:57.000000Z"
+}
