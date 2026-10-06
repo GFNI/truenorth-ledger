@@ -1,0 +1,22 @@
+{
+    "round_id": "76839890-9d14-4476-b229-916ce51be17f",
+    "draw_title": "33G 9CT GOLD HOOK & LOOP BANGLE",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/33g-9ct-gold-hook-loop-bangle",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "29b9d22c0e0b17f7574907b23223764a9acf5a99d3144af04b805d7c21c45703",
+    "drand_seed_hash": "a0e8dbe5e88b46930a1987c0c15770ae5636df4f4297afcffc3bdb3ffd008020ebcbb4c6d4af1a6a04472de0fcf96b17",
+    "client_seed": "1791317253177",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1576,
+    "max_tickets": 5000,
+    "combined_hash": "9f7d3e88ce515812577a259741b74ca794a2d81c1055b67f3c5d42684999625e",
+    "result": "1768",
+    "external_round_id": "32837965",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T20:07:33.000000Z",
+    "revealed_at": "2026-10-06T20:07:39.000000Z"
+}
