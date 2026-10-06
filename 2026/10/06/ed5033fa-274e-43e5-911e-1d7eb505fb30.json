@@ -1,0 +1,22 @@
+{
+    "round_id": "ed5033fa-274e-43e5-911e-1d7eb505fb30",
+    "draw_title": "Glendronach Cask #259 — Hand-Filled Single Cask",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/glendronach-cask-259-hand-filled-single-cask",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "b842b02510fbe6c04aef6bbfd419a344938f7bc04bf8e2d01f3abccdb0527fc9",
+    "drand_seed_hash": "a2cd7b5580adf84c67815b184e7a61aaae74911661c12ef6284fee3cbc164f1fd4566611370438955dc6ef0b2bde52b6",
+    "client_seed": "1791317770898",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 230,
+    "max_tickets": 250,
+    "combined_hash": "0cddea1edf87cb8f7d67359378ba9646f79f4ca1a89727547c526cdda78de570",
+    "result": "243",
+    "external_round_id": "32838138",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T20:16:10.000000Z",
+    "revealed_at": "2026-10-06T20:16:18.000000Z"
+}
