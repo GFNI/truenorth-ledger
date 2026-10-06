@@ -1,0 +1,22 @@
+{
+    "round_id": "64c1dfa4-31ab-4eb0-aff4-98281b9093fe",
+    "draw_title": "👻CASHPER SMASH!👻",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/cashper-smash",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "63466d37378ded2d5dc9e0627cfbde3fa28f41b909978956baa96fed206a20f6",
+    "drand_seed_hash": "90738ed4d10c313ea154928f44d718b0b7e2bc0cf946748cbb55c9ec69074f4bb0e716cc190db8ae4c20d094de36925b",
+    "client_seed": "1791310090186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 569577,
+    "max_tickets": 1000000,
+    "combined_hash": "2cef2ba265d5a92e730477caae69c8330d52fcc2b1d646a5b452a665f39cf692",
+    "result": "788269",
+    "external_round_id": "32835578",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T18:08:10.000000Z",
+    "revealed_at": "2026-10-06T18:08:18.000000Z"
+}
