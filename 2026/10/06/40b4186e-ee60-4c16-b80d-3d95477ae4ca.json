@@ -1,0 +1,22 @@
+{
+    "round_id": "40b4186e-ee60-4c16-b80d-3d95477ae4ca",
+    "draw_title": "WIN A SET OF CUSTOM GRAPHICS FROM Jtwo",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-set-of-custom-graphics-from-jtwo",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "2753053697b74d846e9ee059531a7d1170d6374c352f356e2b2001a81a4e21e2",
+    "drand_seed_hash": "a1e403452ad52aef083342c9a0d581b21beb1beedc14a7f1fdf0112a65d6208a79b0b12b6020942564b26cf5d5540125",
+    "client_seed": "1791321091835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105,
+    "max_tickets": 299,
+    "combined_hash": "ee3ad4b64d6eda2ad67ac90e2813888b0851a2933f3609f978c202bfecbaee93",
+    "result": "266",
+    "external_round_id": "32839245",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T21:11:31.000000Z",
+    "revealed_at": "2026-10-06T21:11:39.000000Z"
+}
