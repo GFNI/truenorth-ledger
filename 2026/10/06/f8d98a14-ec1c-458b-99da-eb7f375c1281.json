@@ -1,0 +1,22 @@
+{
+    "round_id": "f8d98a14-ec1c-458b-99da-eb7f375c1281",
+    "draw_title": "£100 Tax Free Cash",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/ps100-tax-free-cash-10",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "5ea95a8e1f86701860ac075c5de851ae8ed19d2036e0643d032fcd08a012d34d",
+    "drand_seed_hash": "8019aa2a3ffcb038acb85eac688f049bc237cd4126f42c640236d50770c5a9f4a0b8574946e2d2f13adf48707c5ef977",
+    "client_seed": "1791288161628",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7357,
+    "max_tickets": 17500,
+    "combined_hash": "a101a7b2faa515ec71cdcceaf232a7ef30dc447801cb13c409b7ea89d03151eb",
+    "result": "11878",
+    "external_round_id": "32828268",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T12:02:41.000000Z",
+    "revealed_at": "2026-10-06T12:02:48.000000Z"
+}
