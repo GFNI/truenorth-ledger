@@ -1,0 +1,22 @@
+{
+    "round_id": "610418f1-a0db-430a-97b5-d99194cb064d",
+    "draw_title": "🎃PUMPKIN SPICE🥧",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/pumpkin-spice",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "1657cb0753ce6a998dec4cecf4ff2d56aaaf27cecd8fe10a9e2e27ad9a5931a0",
+    "drand_seed_hash": "a80fbdee102ce186758548d61d149e0191bee50135d1e193b5c7933ccebcafbcdbe712e27016a36da88f46b0fa7c9750",
+    "client_seed": "1791310338593",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6821,
+    "max_tickets": 35000,
+    "combined_hash": "9774c7bbe1d62271017398e4085e68cb97b7a5a6521bf22dbde0d0d209796084",
+    "result": "25904",
+    "external_round_id": "32835660",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T18:12:18.000000Z",
+    "revealed_at": "2026-10-06T18:12:24.000000Z"
+}
