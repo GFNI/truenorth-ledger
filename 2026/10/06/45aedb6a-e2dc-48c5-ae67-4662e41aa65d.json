@@ -1,0 +1,22 @@
+{
+    "round_id": "45aedb6a-e2dc-48c5-ae67-4662e41aa65d",
+    "draw_title": "WIN A SHARE OF A QUARTER OF A MILLION POUND! £10,000 END PRIZE!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/win-a-share-of-a-quarter-of-a-million-pound-ps10000-end-prize",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "c887b0c03a05b574e655b57041007520ef98ec8a09329bcdd34bb1856ee568c9",
+    "drand_seed_hash": "80a30861ebe5e7338a59e98a4f3fae8d272b5c4a9c7bd114ba43b01364b7960bc11da2ab2f9e07d8de117f0d08314c84",
+    "client_seed": "1791314892740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 161092,
+    "max_tickets": 3750000,
+    "combined_hash": "71f1d9c09dfed43041fb186642fa1cb86d079dcf0189ce969bff490af4ea95c5",
+    "result": "3008594",
+    "external_round_id": "32837178",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T19:28:12.000000Z",
+    "revealed_at": "2026-10-06T19:28:18.000000Z"
+}
