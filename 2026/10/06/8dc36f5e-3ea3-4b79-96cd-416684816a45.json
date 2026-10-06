@@ -1,0 +1,22 @@
+{
+    "round_id": "8dc36f5e-3ea3-4b79-96cd-416684816a45",
+    "draw_title": "Buster's Farmyard Frenzy - Find A Pig To Win £1200",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-farmyard-frenzy-find-a-pig-to-win-ps1200",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "8ee56208eb1c538e509aedd7809c4eef25997a54cf272028d1728dd885dd2e8d",
+    "drand_seed_hash": "b829e65e45769934832b0ab3f90e79fc5945b16558a549108b728784d5ef2801f978d414e44a8eddc58f4f10b28cd43b",
+    "client_seed": "1791313684228",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25907,
+    "max_tickets": 150000,
+    "combined_hash": "24587b0795d762e7b0a69a2454e53674bd602128886604b8f417008171e11d22",
+    "result": "124005",
+    "external_round_id": "32836776",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T19:08:04.000000Z",
+    "revealed_at": "2026-10-06T19:08:12.000000Z"
+}
