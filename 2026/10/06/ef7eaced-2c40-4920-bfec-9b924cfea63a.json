@@ -1,0 +1,22 @@
+{
+    "round_id": "ef7eaced-2c40-4920-bfec-9b924cfea63a",
+    "draw_title": "THE 100 CLUB! WIN THIS MACALLAN ESTATE!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-100-club-win-this-macallan-estate",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "43b8457f05010dc48a7505f4cf51b87736c330ca0b94ab42c855e0745b4d66c8",
+    "drand_seed_hash": "a898bdcfd7259872a73d9288dc40e8e4c6416b0644615a94da7164f3a038eea6c3fe99260bb2b11310625f66a1c97dc6",
+    "client_seed": "1791321000314",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 100,
+    "combined_hash": "a1cf57d8ac9328c6b531b99c426110c1e95c52139bec5976c419348ca73dadd7",
+    "result": "42",
+    "external_round_id": "32839214",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T21:10:00.000000Z",
+    "revealed_at": "2026-10-06T21:10:06.000000Z"
+}
