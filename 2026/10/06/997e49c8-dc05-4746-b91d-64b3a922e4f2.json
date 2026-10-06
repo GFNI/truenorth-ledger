@@ -1,0 +1,22 @@
+{
+    "round_id": "997e49c8-dc05-4746-b91d-64b3a922e4f2",
+    "draw_title": "1983 SOUTH AFRICAN KRUGERRAND 1oz GOLD COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1983-south-african-krugerrand-1oz-gold-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "47d216e850d9b67d5c4a9701be179ad9cc05884a9202cdc217accd17796636e8",
+    "drand_seed_hash": "95037b0891e0de21cdae58573951dee030b67303a54de297304333c08b94d113f8a8c28dc10de0da2c7a3ed77f6a4dc2",
+    "client_seed": "1791317304801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3901,
+    "max_tickets": 8000,
+    "combined_hash": "a4f9cec860dea12ab803713aeb93b66ddce757d769cb6a66eb1d1598387fbd3e",
+    "result": "7525",
+    "external_round_id": "32837982",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T20:08:24.000000Z",
+    "revealed_at": "2026-10-06T20:08:30.000000Z"
+}
