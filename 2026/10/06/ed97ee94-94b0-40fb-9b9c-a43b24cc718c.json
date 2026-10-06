@@ -1,0 +1,22 @@
+{
+    "round_id": "ed97ee94-94b0-40fb-9b9c-a43b24cc718c",
+    "draw_title": "NEW Laphroaig Single Cask #1330 Distillery Exclusive",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/new-laphroaig-single-cask-1330-distillery-exclusive",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "5ee82b24d4881754b9fb7d1f1b361c03e4e8383c74d94084577c2e9a8fc60022",
+    "drand_seed_hash": "82ec4b492567ffc34ad2c02cb9fdd8ef38349e5c2b7bb6bf5df762ae9d562e3fb430418fdbd6f7a69c67e6851be86e58",
+    "client_seed": "1791317916695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 89,
+    "max_tickets": 89,
+    "combined_hash": "a722fbff689d51b042fc364074374ae1ba9c665bc6c739c49e45b757ed6c7a90",
+    "result": "35",
+    "external_round_id": "32838186",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T20:18:36.000000Z",
+    "revealed_at": "2026-10-06T20:18:42.000000Z"
+}
