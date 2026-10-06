@@ -1,0 +1,22 @@
+{
+    "round_id": "6164b882-6ab0-4218-9cb4-cb66dbb9c6ae",
+    "draw_title": "THE 100 CLUB! WIN THIS YAMAZAKI 12 YEAR OLD 100TH ANNIVERSARY EDITION!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-100-club-win-this-yamazaki-12-year-old-100th-anniversary-edition",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "0f553d298895a569c651b69391f81f7529d9056a5ed28e69a8e0d41a074b857f",
+    "drand_seed_hash": "8f3b98314f0b6730c904efb52dce8247045d01bb35a19941a81906b8ec23a88d334d0da9268cf78fbdc9abbf0301ae76",
+    "client_seed": "1791321007418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 100,
+    "combined_hash": "1ca7fa5e29aa08aa93fd6e4592cfed3963978952b66d603f7658884e1a1c1c59",
+    "result": "85",
+    "external_round_id": "32839217",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T21:10:08.000000Z",
+    "revealed_at": "2026-10-06T21:10:15.000000Z"
+}
