@@ -1,0 +1,22 @@
+{
+    "round_id": "be74325e-fb58-487a-a1b3-60624ee751a3",
+    "draw_title": "🔴ODDS BOOSTER - 200 ENTRIES INTO THE AUDI RS3 #6",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-200-entries-into-the-audi-rs3-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b90f02800952478d22ef595637dbbfd5dcec39183e20ac684cdbe57190a9f308",
+    "drand_seed_hash": "860c8a17700399dba3075ee3b7d5322a8d64c4588243a0f8379b59dce75f41ee087c9531d8636c9bab74ee9abd50e8ab",
+    "client_seed": "1791308516190",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 555,
+    "max_tickets": 555,
+    "combined_hash": "75ffa18d9711d0e16f045cef340856018a90586cfafe3817ef9c09ea2601f1e0",
+    "result": "510",
+    "external_round_id": "32835053",
+    "processing_status": "completed",
+    "created_at": "2026-10-06T17:41:56.000000Z",
+    "revealed_at": "2026-10-06T17:42:03.000000Z"
+}
