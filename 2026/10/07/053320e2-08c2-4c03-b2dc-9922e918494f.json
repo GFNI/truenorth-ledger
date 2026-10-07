@@ -1,0 +1,22 @@
+{
+    "round_id": "053320e2-08c2-4c03-b2dc-9922e918494f",
+    "draw_title": "Trick or Treat",
+    "competition_url": "https://chaotic.co.uk/competition/trick-or-treat-9543",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "09804953c59cb3de16c590c9ca1494235147289591405e681b9e2eb5e7f96d02",
+    "drand_seed_hash": "9322e50f5b52d1e5f6f8450b80deab11c2fd8c948a7142a21cac71284021cefd132600e38cd366ff3ed23011f129e907",
+    "client_seed": "1791401953824",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "eb8f58644465098409358a88614b38eabc8b10574a9fc9e948c7ebd409e93ee4",
+    "result": "527295",
+    "external_round_id": "32866199",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:39:13.000000Z",
+    "revealed_at": "2026-10-07T19:39:21.000000Z"
+}
