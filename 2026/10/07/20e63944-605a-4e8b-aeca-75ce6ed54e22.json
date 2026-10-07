@@ -1,0 +1,22 @@
+{
+    "round_id": "20e63944-605a-4e8b-aeca-75ce6ed54e22",
+    "draw_title": "Win £25 worth of tickets into Angling Direct Christmas Advent Calendar 2026 Carp Edition - 1p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-angling-direct-christmas-advent-calendar",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "907c28cf18893872905cbc4373ac618009e7dce9beaf37c7988aac3d0950fa6c",
+    "drand_seed_hash": "b3b563d647076b483ec9d48f92fa7faa815e83608271581b20179aa284f32290ac8a61ab7e7a4f2770a6dca98a10d9fc",
+    "client_seed": "1791393015588",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1497,
+    "max_tickets": 3500,
+    "combined_hash": "0dedf68f1695d39720c39d829fec18d14b90d64293d87e557a97915f5c5dbe68",
+    "result": "2430",
+    "external_round_id": "32863219",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T17:10:15.000000Z",
+    "revealed_at": "2026-10-07T17:10:21.000000Z"
+}
