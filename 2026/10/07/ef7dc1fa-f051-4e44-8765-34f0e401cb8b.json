@@ -1,0 +1,22 @@
+{
+    "round_id": "ef7dc1fa-f051-4e44-8765-34f0e401cb8b",
+    "draw_title": "Dukes of Hazard",
+    "competition_url": "https://competitionsne.co.uk/admin/products/dukes-of-hazard",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "28920e79d2841a229f13fae125ccdfca4f9761d1d51f43f60c9c4e174b4411f3",
+    "drand_seed_hash": "afd342d01d856aba30df4d8b7daf48ba3dc1247b7a34bd18d5398e283762cc7722f85bd5d5f6fedda986f21d9e38353f",
+    "client_seed": "1791400245849",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 41658,
+    "max_tickets": 325000,
+    "combined_hash": "bcb14efa4d0fe4e42e335714c4e4ad508cb12af6e2f001dc5ee2b7a327573a23",
+    "result": "136309",
+    "external_round_id": "32865629",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:10:45.000000Z",
+    "revealed_at": "2026-10-07T19:10:51.000000Z"
+}
