@@ -1,0 +1,22 @@
+{
+    "round_id": "6070fa31-d656-4eea-8504-adaaa7cb4065",
+    "draw_title": "BMW 1 Series OR £5,000",
+    "competition_url": "https://ogcompetitions.co.uk/lists/bmw-1-series-or-ps5000-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d9f0bc78f973afcef18204d839bff756ebe836a319f4a0f6764c40ff46463e49",
+    "drand_seed_hash": "af2bf350ba76b2f5074449c000299201f72f0311e123dcb14cb30fe227763c9a4a25c622ce1ac5747898eeb925ecfea1",
+    "client_seed": "1791408368406",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 180000,
+    "combined_hash": "520465f8ff84f61f6666def0341c6388ab3e03325ef82871b5339fa700ef4bac",
+    "result": "9811",
+    "external_round_id": "32868337",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T21:26:08.000000Z",
+    "revealed_at": "2026-10-07T21:26:18.000000Z"
+}
