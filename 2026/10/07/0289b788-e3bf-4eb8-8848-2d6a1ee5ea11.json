@@ -1,0 +1,22 @@
+{
+    "round_id": "0289b788-e3bf-4eb8-8848-2d6a1ee5ea11",
+    "draw_title": "PENNY PAYDAY - 1P INSTANT WINS!",
+    "competition_url": "https://easybigwins.co.uk/admin/products/penny-payday-1p-instant-wins",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "bbfe786974b4d26ff7317041ec2740e9a2ebb69dff915d80443b38b19e90f85d",
+    "drand_seed_hash": "80532f47f4e59a4baad64a5639d730138163b2851918af7a3ce6d426f34505f9916e32ca8c12e41268a4ecc4c698ba00",
+    "client_seed": "1791405311574",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 511053,
+    "max_tickets": 640000,
+    "combined_hash": "462e6efb42d5fe7a72dcdea0daf50df04e45eacf88ff16c85d669b12aaa8dfa6",
+    "result": "62023",
+    "external_round_id": "32867318",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T20:35:11.000000Z",
+    "revealed_at": "2026-10-07T20:35:18.000000Z"
+}
