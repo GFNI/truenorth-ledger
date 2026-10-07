@@ -1,0 +1,22 @@
+{
+    "round_id": "ba86f854-5a91-4306-ac15-ec291e677663",
+    "draw_title": "Lightning Loot!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/lightning-loot",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "e44cddda669fd3908797817d2873379e88bdd6cc6c75eed3ed0191ef5272d9b3",
+    "drand_seed_hash": "8e1c4c8e1d5f210f44431da81bc45b5b4f8e1319f74a39bd236adacad2630eca9a0cd3ddf21acfab68d9c23eb367c772",
+    "client_seed": "1791400007302",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 249999,
+    "max_tickets": 249999,
+    "combined_hash": "4e9e03b78465985fca3ab34002e0cf82dca7e56cffb13f38adbc8f553ad716a7",
+    "result": "229944",
+    "external_round_id": "32865550",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:06:47.000000Z",
+    "revealed_at": "2026-10-07T19:06:54.000000Z"
+}
