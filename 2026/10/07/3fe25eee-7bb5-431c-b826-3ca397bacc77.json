@@ -1,0 +1,22 @@
+{
+    "round_id": "3fe25eee-7bb5-431c-b826-3ca397bacc77",
+    "draw_title": "Ry's New Prize Plinko",
+    "competition_url": "https://ryscompetitions.com/admin/products/rys-new-prize-plinko",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "49c29d2becbe52e8d04655939fcc8245b1229ff924732af8e387af4d2f93ada9",
+    "drand_seed_hash": "b75da934c4ee9b566a08c03ef310c99274d9668bcc2b494f679a99f9e8b8616d24901cd5341f988081a016af0d50dc0d",
+    "client_seed": "1791402015025",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 496841,
+    "max_tickets": 800000,
+    "combined_hash": "080a3472fc3fca41df34de8f01a54925324be84e6a79f497e26a4e731ca770ce",
+    "result": "13065",
+    "external_round_id": "32866219",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:40:15.000000Z",
+    "revealed_at": "2026-10-07T19:40:21.000000Z"
+}
