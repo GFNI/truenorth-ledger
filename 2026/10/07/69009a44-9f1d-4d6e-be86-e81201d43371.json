@@ -1,0 +1,22 @@
+{
+    "round_id": "69009a44-9f1d-4d6e-be86-e81201d43371",
+    "draw_title": "50/50 CHANCE OF WINNING INSTANT WINS + £500 CHEST END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/5050-chance-of-winning-instant-wins-ps500-chest-end-draw-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "e1653d992012909566ca4192ae57e5b78c1175ddc03b23a6846bae40e4dd3ebb",
+    "drand_seed_hash": "a96545d26c7ab3e5e72f7082ba2d428bb98a7c9a815e51a8d17009380380b20859c2fa52fa80d79acee35be5a3f8297e",
+    "client_seed": "1791400239490",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 594,
+    "max_tickets": 6000,
+    "combined_hash": "20a25a4ff635d879edd43590c5487504f90e387bdf1e0b96b287b2f56d82d0d5",
+    "result": "5809",
+    "external_round_id": "32865627",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:10:39.000000Z",
+    "revealed_at": "2026-10-07T19:10:45.000000Z"
+}
