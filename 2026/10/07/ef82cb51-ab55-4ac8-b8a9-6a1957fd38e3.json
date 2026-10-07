@@ -1,0 +1,22 @@
+{
+    "round_id": "ef82cb51-ab55-4ac8-b8a9-6a1957fd38e3",
+    "draw_title": "£500 Jockey Club Voucher",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/jockey-club",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "c5f328773d00e6f334ad609319374efa95be738df7c15768127f202e342cc27e",
+    "drand_seed_hash": "8e8a891edd9681e8b154604436fe25ce17a8403e8e8ba1b678c9e8dbe716f8ebdcc1a1e968bdb6bc658e7c61ec190962",
+    "client_seed": "1791402053393",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1026,
+    "max_tickets": 2000,
+    "combined_hash": "585252eab6983c022716554dfb9e88370c2cd4a241d8eecd7e053138152c7040",
+    "result": "1577",
+    "external_round_id": "32866232",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:40:53.000000Z",
+    "revealed_at": "2026-10-07T19:41:00.000000Z"
+}
