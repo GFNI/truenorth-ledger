@@ -1,0 +1,22 @@
+{
+    "round_id": "b295960d-51f1-4be5-a235-cd20de3518dd",
+    "draw_title": "AUSTRIAN 1oz FINE SILVER PHILHARMONIC",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/austrian-1oz-fine-silver-philharmonic-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "139f5a3ccf890b0d1aad5eab2aa43f0d5de309841fe48b9324e06896e69a2ee1",
+    "drand_seed_hash": "a3773f4357096936fb142296dc8d78982eecab5567640e850ffc5f7c9ad14e2feed03ba3657b0c94a69d7f1bc89a5e82",
+    "client_seed": "1791413721657",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51,
+    "max_tickets": 150,
+    "combined_hash": "09fc6ba2c0047837f6841f50ea7dca0702ea33c176be49a6772bc4483cc7b7f9",
+    "result": "66",
+    "external_round_id": "32870121",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T22:55:21.000000Z",
+    "revealed_at": "2026-10-07T22:55:27.000000Z"
+}
