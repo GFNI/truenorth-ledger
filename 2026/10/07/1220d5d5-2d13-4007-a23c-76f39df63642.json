@@ -1,0 +1,22 @@
+{
+    "round_id": "1220d5d5-2d13-4007-a23c-76f39df63642",
+    "draw_title": "2025 BRITANNIA 5oz SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2025-britannia-5oz-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "31ac108de28ca3345ba6c3c165fcb4febeea18c70b569afee42fa82a2481f803",
+    "drand_seed_hash": "96f6bacc24f3d58e65aedb1f7d8804d2edd41277ad11c933479846b9e60111e5ac6d58f959ebfca0049c82689df8e197",
+    "client_seed": "1791413713538",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 529,
+    "max_tickets": 800,
+    "combined_hash": "7f04f191fd21cdc1bdf0cdee30049f49993f613f2e7ed6f80c96030139a3df80",
+    "result": "448",
+    "external_round_id": "32870119",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T22:55:13.000000Z",
+    "revealed_at": "2026-10-07T22:55:21.000000Z"
+}
