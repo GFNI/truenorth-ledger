@@ -1,0 +1,22 @@
+{
+    "round_id": "d5026877-ad61-43e0-90e7-16b2706ca85d",
+    "draw_title": "Chocolate Tub Bundle",
+    "competition_url": "https://ogcompetitions.co.uk/lists/10-x-chocolate-tub-bundle",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "62426707b7c97360fb455c6392edd512bf628a8af9cec3da9f840520b50cb4c5",
+    "drand_seed_hash": "83e5f8041bc9c005638dbff054a5e533d3f0dba5eeaa2d6b56b0709e066ba6c6921c6cc9a7f5640a0f3e6f0c825e4126",
+    "client_seed": "1791408218530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "52606fcc230545b7e5e6fd7d303a1122c932b1d50a2b86ac543c4237db8d7d7d",
+    "result": "179",
+    "external_round_id": "32868287",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T21:23:38.000000Z",
+    "revealed_at": "2026-10-07T21:23:48.000000Z"
+}
