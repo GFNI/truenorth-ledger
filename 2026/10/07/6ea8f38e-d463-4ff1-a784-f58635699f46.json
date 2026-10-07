@@ -1,0 +1,22 @@
+{
+    "round_id": "6ea8f38e-d463-4ff1-a784-f58635699f46",
+    "draw_title": "WIN A £200 TESCO VOUCHER!! 07/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-a-ps200-tesco-voucher-0710-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "1165c9ed43dac651db213beb6defb1b77d1f5ad2a285d41c3ebee40614a17bfa",
+    "drand_seed_hash": "b8e15dfcfb6184becd78fe41af0f11f33021da13729bed07a188c84f8d1ea4eab5572a6d1c0b3ee77d4e08fd48043b8d",
+    "client_seed": "1791407191870",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1110,
+    "max_tickets": 1999,
+    "combined_hash": "5fa4e8ab1165d28d0fddefddeb41c97f22c94cb25aa835bdf443cadea1dda9e0",
+    "result": "1164",
+    "external_round_id": "32867944",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T21:06:31.000000Z",
+    "revealed_at": "2026-10-07T21:06:36.000000Z"
+}
