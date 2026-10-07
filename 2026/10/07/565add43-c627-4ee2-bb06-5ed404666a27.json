@@ -1,0 +1,22 @@
+{
+    "round_id": "565add43-c627-4ee2-bb06-5ed404666a27",
+    "draw_title": "Wireless Indoor Outdoor Thermometer",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/wireless-indoor-outdoor-thermometer",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "732a3f4f30b4763dd016dcbb0783c5ce7d5337cecd3289be9f1dd335e327b68d",
+    "drand_seed_hash": "ad277d305ca7874c2c9b2ec3e78da45269db9f321904aceb51a68966053aa2aa74f0144080c6b6963ddc6cb59a21622a",
+    "client_seed": "1791401234786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44,
+    "max_tickets": 220,
+    "combined_hash": "0e73ee287501199c4a8f625a003ce323beafa308aa5b04f65556696e160f8c55",
+    "result": "183",
+    "external_round_id": "32865959",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:27:14.000000Z",
+    "revealed_at": "2026-10-07T19:27:21.000000Z"
+}
