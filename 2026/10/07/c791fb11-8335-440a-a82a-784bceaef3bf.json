@@ -1,0 +1,22 @@
+{
+    "round_id": "c791fb11-8335-440a-a82a-784bceaef3bf",
+    "draw_title": "£100 DRAW FROM EVERYONE WINS (DRAW 7TH OCT)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps100-draw-from-everyone-wins-draw-7th-oct",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "df2532e6fef61118952515c92b64fe9a22b9722a893c425f2666ffa6507ee9da",
+    "drand_seed_hash": "b33a7cbeb79ab5416e282dcc2e44d74bb6aa498f549288877376a9f1efe77b6913fd9b47498abc8b5efcee6bf5434653",
+    "client_seed": "1791402126935",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37402,
+    "max_tickets": 93905,
+    "combined_hash": "603b4067f2516f00efe79f9562115de4e75e76216b8a8624948395f1e7318c69",
+    "result": "91123",
+    "external_round_id": "32866257",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:42:07.000000Z",
+    "revealed_at": "2026-10-07T19:42:15.000000Z"
+}
