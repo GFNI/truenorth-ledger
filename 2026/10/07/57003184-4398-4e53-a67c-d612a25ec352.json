@@ -1,0 +1,22 @@
+{
+    "round_id": "57003184-4398-4e53-a67c-d612a25ec352",
+    "draw_title": "50 TICKETS INTO ALL DRAWS WEDNESDAY 07.10.26 WORTH £350",
+    "competition_url": "https://magmacomps.co.uk/admin/products/50-tickets-into-all-draws-wednesday-071026-worth-ps350",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "5d390bce486f4dc92009cb0b74b4f79b1ad81db3d423230e81e314f30729d1f3",
+    "drand_seed_hash": "b4ba25ff04be7a52d0d0125177ad83c132dea56e589150a8449d3770dc0d39e9370081bf6ad62213ad9e9a4c2139ba61",
+    "client_seed": "1791394443818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "d12a6ddaacfccd7f34ba2607affe4f2c6b98fec6f6526d5001cc4bfc5efd5e38",
+    "result": "224",
+    "external_round_id": "32863695",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T17:34:03.000000Z",
+    "revealed_at": "2026-10-07T17:34:09.000000Z"
+}
