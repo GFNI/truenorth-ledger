@@ -1,0 +1,22 @@
+{
+    "round_id": "51fb45e3-5922-461e-88a1-832177faa188",
+    "draw_title": "£200 M&S VOUCHER 07/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps200-ms-voucher-0710",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "72dbc9df17a445fe2549d0e584146f7195a66878e90b67cc1516de4a0d2dbcd4",
+    "drand_seed_hash": "8edac59f91b5cb71ada240c4e66147b86e73caa33b371ac77188481f837900eb0aa7a2971aef57e0558129cd0b5f2308",
+    "client_seed": "1791407144900",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2159,
+    "max_tickets": 4495,
+    "combined_hash": "501bff747d6e10bc7450a9b6e83fd3704ee186942d48bcc6a1f767b37c97ed72",
+    "result": "3624",
+    "external_round_id": "32867929",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T21:05:44.000000Z",
+    "revealed_at": "2026-10-07T21:05:51.000000Z"
+}
