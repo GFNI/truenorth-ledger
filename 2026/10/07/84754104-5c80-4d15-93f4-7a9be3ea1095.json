@@ -1,0 +1,22 @@
+{
+    "round_id": "84754104-5c80-4d15-93f4-7a9be3ea1095",
+    "draw_title": "£100 DRAW FROM INSTANT COMPS (DRAW 7TH OCT)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps100-draw-from-instant-comps-draw-7th-oct",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "71d04be64e379b9eb71542465afdb87348b05a15d8d923ce66a9f30c9a7763f0",
+    "drand_seed_hash": "8ba2328c498da650716f160269f5a55f8cd4a033692e9b41736c370db68a1b0df2e3be032d30a7f078189cf4ae2c8cea",
+    "client_seed": "1791402292148",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7349,
+    "max_tickets": 150000,
+    "combined_hash": "00de186b851b0826ce60c1fdac598f9d86071a0e46bedaba2df5d3cf42672f47",
+    "result": "91809",
+    "external_round_id": "32866312",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T19:44:52.000000Z",
+    "revealed_at": "2026-10-07T19:45:00.000000Z"
+}
