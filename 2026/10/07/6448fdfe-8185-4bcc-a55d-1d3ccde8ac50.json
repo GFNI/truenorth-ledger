@@ -1,0 +1,22 @@
+{
+    "round_id": "6448fdfe-8185-4bcc-a55d-1d3ccde8ac50",
+    "draw_title": "Spin A Fortune",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/spin-a-fortune",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "201e49939b95cd3a94561f9e9308d123bade7cfc994f0bd48591dee511fcbcff",
+    "drand_seed_hash": "8345a09cd91a8ebef6b70b3224e57a985dc35100c79c7a01f87bfa36e70aaccb389c5aac0ba43339fc5fd3ba3148ac3e",
+    "client_seed": "1791403743278",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67897,
+    "max_tickets": 99999,
+    "combined_hash": "09232ad5cc3a92a1f3383a16973f78836ab417ef1143be447a7d8a9fd50b1e2e",
+    "result": "44253",
+    "external_round_id": "32866795",
+    "processing_status": "completed",
+    "created_at": "2026-10-07T20:09:03.000000Z",
+    "revealed_at": "2026-10-07T20:09:09.000000Z"
+}
