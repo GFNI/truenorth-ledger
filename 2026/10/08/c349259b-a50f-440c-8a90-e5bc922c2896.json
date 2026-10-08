@@ -1,0 +1,22 @@
+{
+    "round_id": "c349259b-a50f-440c-8a90-e5bc922c2896",
+    "draw_title": "QUICK! Dyson Supersonic Nural #2",
+    "competition_url": "https://speedcompetitions.co.uk/competition/quick-dyson-supersonic-nural-2",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "18d3b96f5be87eab13f1583334ae64434f8d9b61c76c0f32d5ca588db1e614be",
+    "drand_seed_hash": "a64c1c20776d3dabf93889544b6b6573bf66bd841ce563ad981e19306edf8259f52cc6bbcfca8ae4f618b21470c31c23",
+    "client_seed": "1791488243974",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5941,
+    "max_tickets": 10000,
+    "combined_hash": "c8b42071a1ef2a9d4d12f5af9ee533ea10c993f64a9bea8688c387d5732e3f93",
+    "result": "8841",
+    "external_round_id": "32894962",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:37:23.000000Z",
+    "revealed_at": "2026-10-08T19:37:30.000000Z"
+}
