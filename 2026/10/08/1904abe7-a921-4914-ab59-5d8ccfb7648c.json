@@ -1,0 +1,22 @@
+{
+    "round_id": "1904abe7-a921-4914-ab59-5d8ccfb7648c",
+    "draw_title": "🍫 Wonka’s Wonga 🍫",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/wonkas-wonga",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "de1da928f806407c6ce05fda0e90957d0204f1622f8382350ed0a6f9dd95a8af",
+    "drand_seed_hash": "b19086661634c4fc44273c4b1eaaa085a978b22310f1a0f2356c3311c7ffca0b1ee867900d1df43a163245ae391e9baf",
+    "client_seed": "1791490312393",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48689,
+    "max_tickets": 52000,
+    "combined_hash": "ffbb62fa53ec5ac434e0dbbe13530c80acb0418edb539ef0f46feaa164e32e10",
+    "result": "6656",
+    "external_round_id": "32895652",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:11:52.000000Z",
+    "revealed_at": "2026-10-08T20:12:00.000000Z"
+}
