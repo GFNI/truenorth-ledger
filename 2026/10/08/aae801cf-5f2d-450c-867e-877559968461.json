@@ -1,0 +1,22 @@
+{
+    "round_id": "aae801cf-5f2d-450c-867e-877559968461",
+    "draw_title": "CORE CL1 STUNT SCOOTER",
+    "competition_url": "https://geardowncompetitions.com/admin/products/core-cl1-stunt-scooter",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "9b9ae701b2d2a47f340590d6bbe379ae487669617385b1ee781e3975d186de55",
+    "drand_seed_hash": "8aa32f80819e300bca550bc542bc7c6821afcf0e05a865aea66b4f5e74b7c98acd2d4a605152d2ad84d1acdee096539d",
+    "client_seed": "1791491358749",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 322,
+    "max_tickets": 399,
+    "combined_hash": "0367fa25a70943bfea23f1f50c072d5e7088716d6bfaa627a844487bdb741a21",
+    "result": "274",
+    "external_round_id": "32896000",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:29:18.000000Z",
+    "revealed_at": "2026-10-08T20:29:24.000000Z"
+}
