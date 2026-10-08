@@ -1,0 +1,22 @@
+{
+    "round_id": "82bc5cd6-7161-4413-9a6c-9dd1e1196634",
+    "draw_title": "📺SAMSUNG 55\" 4K Mini LED Vision AI Smart TV 2026📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-55-4k-mini-led-vision-ai-smart-tv-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d6a2973a8d92e23ff33e7a8f2b139e0c469994525f570958de91fd18e7b879ff",
+    "drand_seed_hash": "8ed598aaeece1223ac18561cb8bf7ac1dea3c6b858ca6d9bfcfddd4821e6a06fe47b8a2d22df2a497124779d76a4828f",
+    "client_seed": "1791486766608",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 890,
+    "max_tickets": 890,
+    "combined_hash": "39d55a694dc458d3b47fcfed41ea47a93382bf34ff775208b2cc362e246ad5c6",
+    "result": "36",
+    "external_round_id": "32894470",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:12:46.000000Z",
+    "revealed_at": "2026-10-08T19:12:54.000000Z"
+}
