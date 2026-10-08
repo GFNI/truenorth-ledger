@@ -1,0 +1,22 @@
+{
+    "round_id": "80342df2-7eaf-4ecd-9643-5d983b35cc9a",
+    "draw_title": "SOLD OUT GIANT JELLYCAT  BASHFUL BUNNY RRP £250",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/sold-out-giant-jellycat-bashful-bunny-rrp-ps250",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "15419eb8f57e35419e3a732e12f978ffefa14f2c6edf875caef1b1feb57593b2",
+    "drand_seed_hash": "81c1f149b2b612df876e5d1c9b6a60b5f2467d100a420a754bcc2e0c92a850061ecc665c6a9cdc7cfae75418e283685a",
+    "client_seed": "1791490213353",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 209,
+    "max_tickets": 500,
+    "combined_hash": "834aaab33d25751153489932d6a9d229de674b2469491174ce44071b3a120a90",
+    "result": "360",
+    "external_round_id": "32895619",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:10:13.000000Z",
+    "revealed_at": "2026-10-08T20:10:21.000000Z"
+}
