@@ -1,0 +1,22 @@
+{
+    "round_id": "512b6897-ad21-4882-9ce5-deb4938a84c9",
+    "draw_title": "£3K DECK OF DOOM",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps3k-deck-of-doom",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "c4f00064bdf1a0ee691d054082eb6ef28604fe1c0504756fd65855b7182040d5",
+    "drand_seed_hash": "b7007f35d9839f3d700a359b580430dc47dfd1e6cac980a082d56b9ae1fa83a42bb1af08039d1fc9224ea3d42921c1c2",
+    "client_seed": "1791491536261",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 103472,
+    "max_tickets": 199999,
+    "combined_hash": "0bb51687775b51b0227487a95bbc10390c1216395c9edb77f4e7f0ced1a4f1a2",
+    "result": "23632",
+    "external_round_id": "32896059",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:32:16.000000Z",
+    "revealed_at": "2026-10-08T20:32:21.000000Z"
+}
