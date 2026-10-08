@@ -1,0 +1,22 @@
+{
+    "round_id": "b423a2fc-163f-4fe8-b9d3-bbeccbb636dd",
+    "draw_title": "Win Tackle Instantly with a Korda Tackle Box Bundle Main Prize - 5p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-tackle-instantly-with-a-korda-tackle-box-bundle-main-prize-5p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "93893abffb4ae1a6039882a44aaa9c5fbcfbaa63b42bfa686888529cb5365ff5",
+    "drand_seed_hash": "84d12caadcbf445c7467f988e7fbd871da10eb93af11ab41028bd5c172c821183516fd00b925cc83e889c1c2f79f9e86",
+    "client_seed": "1791479745486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2689,
+    "max_tickets": 75250,
+    "combined_hash": "02fc58a744a5fbdaf9c148958c5397faffeb7464452b23261cc66617a9510b19",
+    "result": "49255",
+    "external_round_id": "32892129",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T17:15:45.000000Z",
+    "revealed_at": "2026-10-08T17:15:51.000000Z"
+}
