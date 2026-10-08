@@ -1,0 +1,22 @@
+{
+    "round_id": "8127df3f-b1e3-492c-abb0-b192bf73ab2f",
+    "draw_title": "🎉 SPINNING CASH INSTANT WINS 🎉",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/spinning-cash-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "dcac01cbe7a0c5bb1fd06aef1dcec3066f63535374011fb73ad0159b77621da4",
+    "drand_seed_hash": "b2792123f4d6953c84c55c78fc0555152b57b7b6eda3bbb91b30eae2b305cf1942d893f8b1dbba117ffb08dabbd74ddd",
+    "client_seed": "1791490206442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123499,
+    "max_tickets": 745000,
+    "combined_hash": "aada688a867feb640d405dd780bc2916e319d833fd39bf72cfc0d1e8aec5e909",
+    "result": "707531",
+    "external_round_id": "32895616",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:10:06.000000Z",
+    "revealed_at": "2026-10-08T20:10:12.000000Z"
+}
