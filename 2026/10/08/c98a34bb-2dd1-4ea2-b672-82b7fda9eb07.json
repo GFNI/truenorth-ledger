@@ -1,0 +1,22 @@
+{
+    "round_id": "c98a34bb-2dd1-4ea2-b672-82b7fda9eb07",
+    "draw_title": "JELLYCAT JINGLE BOOSTER! #1",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jellycat-jingle-booster-1",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "35b0d6edecb0894602927f4c09e3a8a3628e8190a6f9fc663cf2a86a725f1284",
+    "drand_seed_hash": "819a40d20a56e4ea555a98cbf4ddc2c16a82f54127cd764ee4a748f7ee6778b05ff6c28358929f17b1c87f69bc06a6ae",
+    "client_seed": "1791490227853",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 75,
+    "combined_hash": "0a24893a45eadaff66131ad700ffa764705c202984f83e4c5801e036fa8ac8df",
+    "result": "62",
+    "external_round_id": "32895623",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:10:27.000000Z",
+    "revealed_at": "2026-10-08T20:10:33.000000Z"
+}
