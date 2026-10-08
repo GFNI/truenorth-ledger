@@ -1,0 +1,22 @@
+{
+    "round_id": "af606cdc-11a5-456d-ad08-bc0546543f65",
+    "draw_title": "THE ONLY WAY IS £500,000 OF INSTANT WINS! - TOP INSTANT WIN £20,000 - £500 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/the-only-way-is-ps500000-of-instant-wins-top-instant-win-ps20000-ps500-end",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "ad29920e06af0372ec477af78486996d0f73931bbf74769850187f8c4a4522da",
+    "drand_seed_hash": "a3d96560b26959d47a4cefe3c8e64e2c15cf1c19b196ae54da75b13a1db8357c7eb945b207e52da750f4083b636a87c2",
+    "client_seed": "1791493819884",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48176,
+    "max_tickets": 1000000,
+    "combined_hash": "d37ca092c368f4a7c94e7066a24f999f0b95bc233f61c3c9dd831a46ec52c1e9",
+    "result": "991252",
+    "external_round_id": "32896821",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T21:10:19.000000Z",
+    "revealed_at": "2026-10-08T21:10:27.000000Z"
+}
