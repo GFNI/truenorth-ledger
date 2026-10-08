@@ -1,0 +1,22 @@
+{
+    "round_id": "9f3e862a-747a-46f6-a237-0d8d60e7b63a",
+    "draw_title": "MSI Cyborg 15 15.6\" Gaming Laptop - Intel® Core™ i5, RTX 4050, 512 GB SSD",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/msi-cyborg-15-156-gaming-laptop-intel-core-i5-rtx-4050-512-gb-ssd-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8c8dde0d9b7c0b28e6a1562fd8bd7104b0dfc9e6e8dfd1e42832983e53bc3e78",
+    "drand_seed_hash": "ab75347853fb1fc9a70fcc91b299207597bfe2131a117ded47332e6c0e7c19cf5c3d085cbf1fd225091ebf4664a9bdcc",
+    "client_seed": "1791487729969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1224,
+    "max_tickets": 1620,
+    "combined_hash": "0da019ebf9cca27662d0bdf7e4ecc70e39d381b7ce69d7c8141764cb346274bb",
+    "result": "974",
+    "external_round_id": "32894791",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:28:50.000000Z",
+    "revealed_at": "2026-10-08T19:28:57.000000Z"
+}
