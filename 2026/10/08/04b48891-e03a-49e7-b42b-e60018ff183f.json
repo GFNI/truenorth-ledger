@@ -1,0 +1,22 @@
+{
+    "round_id": "04b48891-e03a-49e7-b42b-e60018ff183f",
+    "draw_title": "Supercharger",
+    "competition_url": "https://jetcomps.co.uk/admin/products/supercharger-2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "efc7393b754a87d9f4197c7e36fabcb770f6bc19d7ad433fce4f1dfbc2eab595",
+    "drand_seed_hash": "ae3da060bf31322ed1266f795d84c22172676283a025b25f445ca73fd30ce2654382c28949c9ee416d6f46d04c925e4a",
+    "client_seed": "1791488076220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 64271,
+    "max_tickets": 156000,
+    "combined_hash": "8d8d8aaceeb91272e7ba4903629f0bb74824dd329561348399eade1f170d9231",
+    "result": "25358",
+    "external_round_id": "32894906",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:34:36.000000Z",
+    "revealed_at": "2026-10-08T19:34:42.000000Z"
+}
