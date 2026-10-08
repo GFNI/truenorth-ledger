@@ -1,0 +1,22 @@
+{
+    "round_id": "8226bb86-e59e-46ce-87c3-1a5b27d7a734",
+    "draw_title": "🟡👾 ALL NEW PENNY PAC-MAN! 👾🟡 💥 £6,000 INSTANTLY! 💥 🏆 £2,000 MAIN DRAW! 🏆 😱 WAKA WAKA… THAT’S A LOTTA WONGA! 💰🔥",
+    "competition_url": "https://winnersclubni.com/admin/products/all-new-penny-pac-man-ps6000-instantly-ps2000-main-draw-waka-waka-thats-a",
+    "operator": {
+        "name": "winners club ni",
+        "website": "https://winnersclubni.com",
+        "company_number": "NI694008"
+    },
+    "drand_server_seed": "fc40db712f8e39f1b26a363fb8c5152e65aa141082b6e81a4ade219d23145627",
+    "drand_seed_hash": "a17887968bbcf09cb85a244da4dce19796693a911076da532fa5467a1c8b96a0c22057d2585a5bda8ea4bb916e46082c",
+    "client_seed": "1791487934245",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4365239,
+    "max_tickets": 6987554,
+    "combined_hash": "a1851e1c8041463ad775af3d6e93bbe1a674cb4b755b4a6be4b819d3b6bd3c78",
+    "result": "3596220",
+    "external_round_id": "32894859",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:32:14.000000Z",
+    "revealed_at": "2026-10-08T19:32:21.000000Z"
+}
