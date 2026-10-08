@@ -1,0 +1,22 @@
+{
+    "round_id": "225f16ff-a7f6-4573-a92f-b068107deb42",
+    "draw_title": "WIN THIS GLENALLACHIE 15 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-glenallachie-15-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "73d81e4e9e432e4f2086f627ddcde0f91329b3f0ea31f1b9badd3bf7131fb8ba",
+    "drand_seed_hash": "a813e5f52bb49cd038c65ab181520acbc7896225089e96f90835156c95fda07621e9f04013a54c7675b1b9e3c9536f0e",
+    "client_seed": "1791490049339",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "3b709093dd15613e47c2599ae731bd3b6659458ae2162f9627f8f965189d6a7e",
+    "result": "68",
+    "external_round_id": "32895564",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:07:29.000000Z",
+    "revealed_at": "2026-10-08T20:07:36.000000Z"
+}
