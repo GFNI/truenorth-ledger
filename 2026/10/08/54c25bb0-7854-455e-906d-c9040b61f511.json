@@ -1,0 +1,22 @@
+{
+    "round_id": "54c25bb0-7854-455e-906d-c9040b61f511",
+    "draw_title": "WIN THIS TAMDHU 15 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-tamdhu-15-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "93b9abb80389127a26dfc11e978f28f8999592f7eb82da7e302822039f7ec3a4",
+    "drand_seed_hash": "8bc1a9cc64c64be8b1959a9fade816651dced558e49ff9e4c71aab8f14e096b4573530a5c5d42dd60aad4e20d39d01e9",
+    "client_seed": "1791489872928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "2804bed11dc73e0b53cc06ab4f8323e22a7217bf0ad286fec07daab62fba07fc",
+    "result": "49",
+    "external_round_id": "32895505",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:04:33.000000Z",
+    "revealed_at": "2026-10-08T20:04:39.000000Z"
+}
