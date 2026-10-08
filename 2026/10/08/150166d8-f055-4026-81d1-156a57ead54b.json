@@ -1,0 +1,22 @@
+{
+    "round_id": "150166d8-f055-4026-81d1-156a57ead54b",
+    "draw_title": "Luxury Low Wood Bay Stay For Two #22",
+    "competition_url": "https://speedcompetitions.co.uk/competition/luxury-low-wood-bay-stay-for-two-22",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "91e892acc4572f5d70dffc5863b7ade684e026ec34bb89ac9a62235090c11cfd",
+    "drand_seed_hash": "a110fda01013ded8785bbd5543a4abab1736caa82d4a7daa662cadfd59ab3a513bdcffbc50f078b47557ecdae8a46740",
+    "client_seed": "1791488152230",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30707,
+    "max_tickets": 49999,
+    "combined_hash": "0b753908f7ea8ce68f640cde6903b07f3d85878ca353751b052e0953164f9c32",
+    "result": "36003",
+    "external_round_id": "32894932",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:35:52.000000Z",
+    "revealed_at": "2026-10-08T19:36:00.000000Z"
+}
