@@ -1,0 +1,22 @@
+{
+    "round_id": "c9c58793-6e39-445e-a1eb-106e00b8ed71",
+    "draw_title": "WIN A FORTNUM & MASON WICKED WICKER HALLOWEEN HAMPER OR £80 CASH FOR 66P 🎃👻",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-fortnum-mason-wicked-wicker-halloween-hamper-or-ps80-cash-for-66p",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "3df940b01eb5b3ff863ba3537cc41fe2dcddd98697c4cd0febe76970d0257527",
+    "drand_seed_hash": "92f3709b19e83cafe646243e645526854b96bfc1f180f1c7d5bcb833d13e17733ba6ea23295bd1ba22c24c4feaa7f3ab",
+    "client_seed": "1791486537326",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 102,
+    "max_tickets": 255,
+    "combined_hash": "a786fcdcd94ae62b5e6aef8c863a33e4feb985261a04e565d48d832ad9266f09",
+    "result": "9",
+    "external_round_id": "32894393",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:08:57.000000Z",
+    "revealed_at": "2026-10-08T19:09:03.000000Z"
+}
