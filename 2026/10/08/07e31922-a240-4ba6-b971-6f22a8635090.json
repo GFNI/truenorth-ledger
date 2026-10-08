@@ -1,0 +1,22 @@
+{
+    "round_id": "07e31922-a240-4ba6-b971-6f22a8635090",
+    "draw_title": "THE PRIZE MACHINE - £321 MAIN PRIZE",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/the-prize-machine-ps321-main-prize-2",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "1b23882dc42ce2fe31d8f579b0464dd23fb7496abbb9cb56e26342a361e714ed",
+    "drand_seed_hash": "95caed56928a444b22abf7c91f5d6648d8ed0c3329c14abbb45139a94c2dfdd85c5d9ac26daaad643ec5893cf3fdde0a",
+    "client_seed": "1791493722281",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48246,
+    "max_tickets": 79999,
+    "combined_hash": "e11a89001bb0b42461568ee38c6f07bead21908341e6b959d5160eac1e40f9e2",
+    "result": "25426",
+    "external_round_id": "32896788",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T21:08:42.000000Z",
+    "revealed_at": "2026-10-08T21:08:48.000000Z"
+}
