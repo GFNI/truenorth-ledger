@@ -1,0 +1,22 @@
+{
+    "round_id": "0e9f028b-d345-4d08-b072-040d0f9ea2a7",
+    "draw_title": "Lucky Reels spins with huge cash and ticket instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/lucky-reels-spins-with-huge-cash-and-ticket-instants-3",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "52cf68a1fed970600d296352f2fdd0d3b9341844ecd8b753d1da0dbfbf32860a",
+    "drand_seed_hash": "952bef22888d48bafddf5a840a0f31c34a3bb563175b1748ebeadcbc88745cf345fb325c7f242f02517d3a48d3610de3",
+    "client_seed": "1791492262695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14282,
+    "max_tickets": 90000,
+    "combined_hash": "9e05f33a093e21345d9027e35a0d6014d97fd47a4712a808de51ec6e609345a3",
+    "result": "85215",
+    "external_round_id": "32896302",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:44:22.000000Z",
+    "revealed_at": "2026-10-08T20:44:30.000000Z"
+}
