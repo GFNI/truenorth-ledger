@@ -1,0 +1,22 @@
+{
+    "round_id": "91a2ba12-4b7c-4a9d-85f9-829dbbdaac4b",
+    "draw_title": "Full tank of Petrol/Diesel for 10p",
+    "competition_url": "https://giveawaycompetition.com/admin/products/full-tank-of-petroldiesel-for-10p",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "7020864722bcad20240f9410c9899c1e0650449152ae1a4bb91081e7f5653ae0",
+    "drand_seed_hash": "a7cde0e7099335f87c5bff998c3e730938a7b76f8cf91db8cd41029034489228b3ce0995252477b7924a6cfb5684f484",
+    "client_seed": "1791492897569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1803,
+    "max_tickets": 3000,
+    "combined_hash": "3d678a42a4e08e6473d11f1e14579e7f225475ee755b3aab2e0d350a998d694c",
+    "result": "654",
+    "external_round_id": "32896513",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:54:57.000000Z",
+    "revealed_at": "2026-10-08T20:55:03.000000Z"
+}
