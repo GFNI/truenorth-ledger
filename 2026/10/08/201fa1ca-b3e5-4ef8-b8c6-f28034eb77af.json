@@ -1,0 +1,22 @@
+{
+    "round_id": "201fa1ca-b3e5-4ef8-b8c6-f28034eb77af",
+    "draw_title": "WIN 2 x Oasis Tickets – Celtic Park, Glasgow! #6",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-2-x-oasis-tickets-celtic-park-glasgow-6",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "5e28576d01b462c4e7eb2dab893f48f8357e0ba6b811553d5b3cf16cf9927068",
+    "drand_seed_hash": "a9c72d3e03b5b749e21b25b563c41a2bc30803494a73b3b0bdf5c27adc5b88aadafe309a3cc21d2970bb5d039ebef0ab",
+    "client_seed": "1791490218819",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "722a0d3d2cd6f2f4c214da09d500183c127df2fdc5e07245a8735a02e8f66bb3",
+    "result": "11",
+    "external_round_id": "32895620",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:10:18.000000Z",
+    "revealed_at": "2026-10-08T20:10:24.000000Z"
+}
