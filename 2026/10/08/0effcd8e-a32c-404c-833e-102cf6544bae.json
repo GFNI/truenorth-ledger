@@ -1,0 +1,22 @@
+{
+    "round_id": "0effcd8e-a32c-404c-833e-102cf6544bae",
+    "draw_title": "APPLE iPhone 18 Pro - 256 GB, Glacier🩵",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-iphone-18-pro-256-gb-glacier",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "6342a0b308ea4e82d04cf6d1ed6ce295faae023c9a8eb15dfbc3bb7f0021e02a",
+    "drand_seed_hash": "a46285a7aa40879cbe9fc7f657c429a01f1b1e7d56300df0fd3c94363062e5227846794f8ed2f8fc1c49f01d82fc6a68",
+    "client_seed": "1791486563899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "b123ff2836cc5bdeb0efad2c0c490ce8f6fec34ae6ebf2737ab174f63c427dd7",
+    "result": "1458",
+    "external_round_id": "32894402",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:09:23.000000Z",
+    "revealed_at": "2026-10-08T19:09:30.000000Z"
+}
