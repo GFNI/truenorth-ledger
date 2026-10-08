@@ -1,0 +1,22 @@
+{
+    "round_id": "8296018e-e1fa-4ee8-b432-3a3bf1f3405f",
+    "draw_title": "🎁🎄3 Night Krakow Christmas Getaway for 2 people - 11th Dec🎄🎁",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/3-night-krakow-christmas-getaway-for-2-people-11th-dec",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "e9a86a7b9b9cdbeda404fea1d05c0939657f335fe531248b614a26b8b60c19ea",
+    "drand_seed_hash": "b4de5bf0e9b76df26c0592c223820c745243e60c473cb385f260fb5772aba9310f2c74b04990775f08a9a4fba909a1ef",
+    "client_seed": "1791487069420",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1950,
+    "max_tickets": 1950,
+    "combined_hash": "ccd0049242df851dc4399ab3cdd4d2e5710a4b6b79b4a66438352606d87ea59b",
+    "result": "233",
+    "external_round_id": "32894571",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:17:49.000000Z",
+    "revealed_at": "2026-10-08T19:17:57.000000Z"
+}
