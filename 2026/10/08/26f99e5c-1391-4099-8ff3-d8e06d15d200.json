@@ -1,0 +1,22 @@
+{
+    "round_id": "26f99e5c-1391-4099-8ff3-d8e06d15d200",
+    "draw_title": "Rocket Race",
+    "competition_url": "https://jetcomps.co.uk/admin/products/rocket-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "cd18fa78e5c4d40715bc348b3f273ca15008e902f7c0feb07c64fec02d2be8ee",
+    "drand_seed_hash": "b6d70c2ff4283c6a7ed1f2f90e3d3172036722cd3274ef49b52c94f27516c2b5071f6a3497863f1709597a941b3c2163",
+    "client_seed": "1791487937826",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72306,
+    "max_tickets": 224000,
+    "combined_hash": "da7455e963d8b746ccf1fbdb6ebd879b98789381e1eca70f9d3a4ccc59b14a97",
+    "result": "67803",
+    "external_round_id": "32894860",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:32:17.000000Z",
+    "revealed_at": "2026-10-08T19:32:24.000000Z"
+}
