@@ -1,0 +1,22 @@
+{
+    "round_id": "adc753e8-89d7-45d5-9c83-1ffadafb814e",
+    "draw_title": "10p Instant Madness - 500 instants & £300 main prize",
+    "competition_url": "https://giveawaycompetition.com/admin/products/10p-instant-madness-500-instants-ps300-main-prize",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "f1481e530be59736528642bbb05e08eba5a64e7bbb473652f097520633c768c8",
+    "drand_seed_hash": "8eadf0504c663c96a119f1ad6267109391a5ddaf1eab1395373cc6215ab222af5babf5768fbd6ae2c8c1b26c0f0de54f",
+    "client_seed": "1791492940301",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44539,
+    "max_tickets": 150000,
+    "combined_hash": "681ede2467bfe4ef70960488f128458eae2b471dbce38288875487d37dc6dcd0",
+    "result": "86553",
+    "external_round_id": "32896528",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:55:40.000000Z",
+    "revealed_at": "2026-10-08T20:55:48.000000Z"
+}
