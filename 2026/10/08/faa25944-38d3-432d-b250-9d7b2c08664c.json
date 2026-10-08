@@ -1,0 +1,22 @@
+{
+    "round_id": "faa25944-38d3-432d-b250-9d7b2c08664c",
+    "draw_title": "WIN A FIRE TV STICK 4K PLUS OR £70 CASH | 49P A TICKET",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-fire-tv-stick-4k-plus-or-ps70-cash-49p-a-ticket",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "fa8359680701bf3ba25254b378c928c1cef6c05c0a6378e7386197729cebe913",
+    "drand_seed_hash": "8c7c3660c9d2d3bf09285dd86dc531f88570d6cd01cd42b55406ea887df3e94dbfa6651943b423d994341ced57e47050",
+    "client_seed": "1791486458788",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 166,
+    "max_tickets": 310,
+    "combined_hash": "e372bd42380fcdc5a2a0f077118d7f51c20e21f1c4a1deec517c330dc11aeac4",
+    "result": "32",
+    "external_round_id": "32894367",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:07:38.000000Z",
+    "revealed_at": "2026-10-08T19:07:45.000000Z"
+}
