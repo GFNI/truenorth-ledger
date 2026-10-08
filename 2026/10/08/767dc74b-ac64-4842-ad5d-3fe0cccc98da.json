@@ -1,0 +1,22 @@
+{
+    "round_id": "767dc74b-ac64-4842-ad5d-3fe0cccc98da",
+    "draw_title": "WIN £100 CASH",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/win-ps100-cash-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "fc170d6c15624b2b4b7baf9b7d521a5316436b9b055422a305a2f782e276b6e3",
+    "drand_seed_hash": "8e31d5994e6e6d7f7b1591643c206ceed295e82007465e4e255f33903e3082e1b994e11e6778b4a2b325a7c81ffd9d18",
+    "client_seed": "1791493569717",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1246,
+    "max_tickets": 1999,
+    "combined_hash": "4b40f17365f6e326d01c3a8357f5333a77bb51cdcf0007940ff7f6a7a43aefb2",
+    "result": "1557",
+    "external_round_id": "32896737",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T21:06:09.000000Z",
+    "revealed_at": "2026-10-08T21:06:15.000000Z"
+}
