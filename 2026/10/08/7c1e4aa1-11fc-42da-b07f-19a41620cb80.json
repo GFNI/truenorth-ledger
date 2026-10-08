@@ -1,0 +1,22 @@
+{
+    "round_id": "7c1e4aa1-11fc-42da-b07f-19a41620cb80",
+    "draw_title": "Ascended Heroes - Focused Fighters Collection",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ascended-heroes-focused-fighters-collection-4",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "a143505bd2a17009e54027407775d2113ac53586b8a6d1ed25cd37cc7f12730a",
+    "drand_seed_hash": "b00b8d99522aecd66727a46158767e65a49dce4917efbab441f2865860e331758af99ca82df8344a8bdb892cfcfc3d30",
+    "client_seed": "1791493827937",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 259,
+    "max_tickets": 450,
+    "combined_hash": "ff5d18d3cdb2d36da6d30cf5bfec6533208b180d3402b9d5b41a484ee0912aad",
+    "result": "404",
+    "external_round_id": "32896824",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T21:10:28.000000Z",
+    "revealed_at": "2026-10-08T21:10:36.000000Z"
+}
