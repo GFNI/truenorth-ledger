@@ -1,0 +1,22 @@
+{
+    "round_id": "754ded93-fd68-41bd-870e-6f86870b2c07",
+    "draw_title": "👻 £15K HAUNTED HOUSE OF FORTUNE LEADERBOARD 🏚️",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps15k-haunted-house-of-fortune-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "ec6477b838a1db554506dd0937a1ed041ec9b8d3672fc7314acb93510321a082",
+    "drand_seed_hash": "8deba8cf927d463b7373d6bce6f7578fd80cef1d8c28e126271b0a55046ddb6636e1e866a8557df3976825952b1e9a0f",
+    "client_seed": "1791491655646",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6843,
+    "max_tickets": 14999,
+    "combined_hash": "e61e04787e2466efb4cfb2a500a36ac266fe501c4604546dd2ab755a1fa2ac46",
+    "result": "10219",
+    "external_round_id": "32896099",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T20:34:15.000000Z",
+    "revealed_at": "2026-10-08T20:34:21.000000Z"
+}
