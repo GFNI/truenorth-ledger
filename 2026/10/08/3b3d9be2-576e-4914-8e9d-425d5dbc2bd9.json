@@ -1,0 +1,22 @@
+{
+    "round_id": "3b3d9be2-576e-4914-8e9d-425d5dbc2bd9",
+    "draw_title": "RISK IT FOR A BISCUIT! 1 IN 2 CHANCE TO WIN WHISKY!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/risk-it-for-a-biscuit-1-in-2-chance-to-win-whisky",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "54837d5a68c599b678528a5a6c11455273dca55aff49f49c72a7f72cbed9957d",
+    "drand_seed_hash": "b2accf626ffc1c013796e8d4e8f88cd9489f3ce8d84314355ef09a06086dd2bcb64d25625a2baa9843230a6a550f4985",
+    "client_seed": "1791500129047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 854,
+    "max_tickets": 4000,
+    "combined_hash": "1f20ef2b2e597b594482ec887c3c7de1f55837cb3a2257a85f624531744535a0",
+    "result": "3616",
+    "external_round_id": "32898924",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T22:55:29.000000Z",
+    "revealed_at": "2026-10-08T22:55:36.000000Z"
+}
