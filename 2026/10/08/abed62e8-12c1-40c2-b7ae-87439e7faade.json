@@ -1,0 +1,22 @@
+{
+    "round_id": "abed62e8-12c1-40c2-b7ae-87439e7faade",
+    "draw_title": "🏆Audi RS3 Saloon 2.5 TFSI Quattro🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/audi-rs3-saloon-25-tfsi-quattro",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "282ac3f192af5b2d6f2d914c94a6c5d3311e9cb86252bc77fd1b1ef96978f76a",
+    "drand_seed_hash": "900193aeabdc5c25f66b4c04eca8be7b800f2cdadf8b59a648f78c01e1d3a01aced64575625837b1be6fbbcb4f73a89f",
+    "client_seed": "1791488522836",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27221,
+    "max_tickets": 30000,
+    "combined_hash": "40754d87f5766cc79b708d1a967f65bb4b6db4f37fc32dd7c56c50f76e99b3cb",
+    "result": "20449",
+    "external_round_id": "32895055",
+    "processing_status": "completed",
+    "created_at": "2026-10-08T19:42:03.000000Z",
+    "revealed_at": "2026-10-08T19:42:09.000000Z"
+}
