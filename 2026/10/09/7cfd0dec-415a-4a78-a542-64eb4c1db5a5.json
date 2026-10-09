@@ -1,0 +1,22 @@
+{
+    "round_id": "7cfd0dec-415a-4a78-a542-64eb4c1db5a5",
+    "draw_title": "*BRAND NEW* RAYMOND VAN BARNEVELD 95K",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-raymond-van-barneveld-95k",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "8f802b0696afa5af5885baebf85d97b0f7eae83bccac149e43332b6d23a2ff52",
+    "drand_seed_hash": "b36f88082e37b3b978b83f87d2f16b780a18f98ee3dbfa107106387eae0280aa23b929157601867974b05e4e8ef9e04b",
+    "client_seed": "1791575272589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "8cbc21d47474b11f354799e1d58713adaa4f45faf69bd7ca8224ce2e644e0f05",
+    "result": "49",
+    "external_round_id": "32923972",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T19:47:52.000000Z",
+    "revealed_at": "2026-10-09T19:48:00.000000Z"
+}
