@@ -1,0 +1,22 @@
+{
+    "round_id": "51c69e04-3be8-4293-b573-bebee40887c0",
+    "draw_title": "Friday Flash — £100 Guaranteed",
+    "competition_url": "https://theprizevault.co.uk/admin/products/friday-flash-ps100-guaranteed",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "fd3ca8042cb2ca42f509ead8af96f1565e286f759e3dcb683c83d08b45825759",
+    "drand_seed_hash": "926c556c54ef3b1c195c0830769ff188dec1a765724db6f4761693ef3524e75a7ea17faefc8df1a02636eec6db7083f7",
+    "client_seed": "1791573027837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 431,
+    "max_tickets": 2500,
+    "combined_hash": "04fd492de1cebd3ef363ccfc78a4005550e3b893b59de7ff3ce868bafaa10b9d",
+    "result": "1121",
+    "external_round_id": "32923223",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T19:10:27.000000Z",
+    "revealed_at": "2026-10-09T19:10:33.000000Z"
+}
