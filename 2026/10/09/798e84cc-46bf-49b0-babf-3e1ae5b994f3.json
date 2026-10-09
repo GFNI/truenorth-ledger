@@ -1,0 +1,22 @@
+{
+    "round_id": "798e84cc-46bf-49b0-babf-3e1ae5b994f3",
+    "draw_title": "Amazon Echo Spot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/amazon-echo-spot",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "af282c5b59f66b699011ad7b0d2f6e5d0f67aeb76b32b21b5729c3430bbfb156",
+    "drand_seed_hash": "a4f25a413db64221d631db45a573f81504dc84c4b8c63c683c09e4c246d48b4815e22caa20585543b8ac541d958f3016",
+    "client_seed": "1791576101400",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 160,
+    "combined_hash": "a710cbfd0e9984b54a3cb71e672458b62991fb735a359ce39a5ff0b479d70c2c",
+    "result": "40",
+    "external_round_id": "32924248",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T20:01:41.000000Z",
+    "revealed_at": "2026-10-09T20:01:48.000000Z"
+}
