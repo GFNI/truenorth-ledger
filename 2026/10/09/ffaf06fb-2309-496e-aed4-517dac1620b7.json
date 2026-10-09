@@ -1,0 +1,22 @@
+{
+    "round_id": "ffaf06fb-2309-496e-aed4-517dac1620b7",
+    "draw_title": "🎁 PICK A MYSTERY BOX – INSTANT WIN 🎁",
+    "competition_url": "https://PrizeFlow.co.uk/admin/products/mystery-box-instant-win",
+    "operator": {
+        "name": "PrizeFlow Ltd",
+        "website": "https://PrizeFlow.co.uk",
+        "company_number": "16748682"
+    },
+    "drand_server_seed": "931e078947b53e73fabee5f897518cb9e36394807652bf64541a2c538f1832ef",
+    "drand_seed_hash": "87906d5e932078f64fc61d42671657b09fc9cc81b98c11ce9b4963209619a30c3edc085d1763cb267e2bfd0f1d2c2aa4",
+    "client_seed": "1791573603545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 100,
+    "combined_hash": "4441b49f4f22417cd3f5edd1e15b1bcdab3e627ffdde4eee3dd0a1e401045b5a",
+    "result": "33",
+    "external_round_id": "32923415",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T19:20:03.000000Z",
+    "revealed_at": "2026-10-09T19:20:09.000000Z"
+}
