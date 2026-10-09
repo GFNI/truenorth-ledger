@@ -1,0 +1,22 @@
+{
+    "round_id": "323a16be-ebd5-4681-889c-e981bc8f7af6",
+    "draw_title": "FLASH CASH FRIDAYS – 2 x £100 WINNERS!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/flash-cash-fridays-2-x-ps100-winners-2",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "b79fb0c8f822723dfbc2dcd2dfbf095a807488aba57c74067b3d15cc5285f647",
+    "drand_seed_hash": "a80ba55b56de71b767cb54f9b0b2546fc4df8a62ca95c01e894bf2bf5598406e59ad84d21dcbe9bc590f27515ae4ad35",
+    "client_seed": "1791544210321",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4069,
+    "max_tickets": 10000,
+    "combined_hash": "429a47f936c90bb784c47aa810408a88b9a633ecd0ccde7445541dd232bce9d5",
+    "result": "9331",
+    "external_round_id": "32913618",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T11:10:10.000000Z",
+    "revealed_at": "2026-10-09T11:10:18.000000Z"
+}
