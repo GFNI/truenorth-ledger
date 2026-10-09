@@ -1,0 +1,22 @@
+{
+    "round_id": "a6f056f6-85a8-4125-b861-1d9bfd7e5abf",
+    "draw_title": "10 FREE ENTRIES TO THE MILLION POUNDER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/10-free-entries-to-the-million-pounder",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "b7931a56d66c8e781414a0edf7e770b7cac2fdf1bc438631362e01803ec4211c",
+    "drand_seed_hash": "a542b6b03203e7f9590ac654a08f5c7a8c09f71d4bf6d92b4a1e8f6098b46c7ce842d7386300f5a27e11701abb36d875",
+    "client_seed": "1791547876181",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 359,
+    "max_tickets": 1000,
+    "combined_hash": "0b7c6088c5c1e227e186e60f842f593be4d211a651fb2c59b53cff0116a6ad53",
+    "result": "588",
+    "external_round_id": "32914840",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T12:11:16.000000Z",
+    "revealed_at": "2026-10-09T12:11:24.000000Z"
+}
