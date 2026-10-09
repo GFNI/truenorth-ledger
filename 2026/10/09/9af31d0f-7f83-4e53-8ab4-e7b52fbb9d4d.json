@@ -1,0 +1,22 @@
+{
+    "round_id": "9af31d0f-7f83-4e53-8ab4-e7b52fbb9d4d",
+    "draw_title": "£150 The Range ",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-the-range-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4d20c2b579c404e5291bbcd5ece9f41b325333ef918bbe1e380ae8b7bbdf21f6",
+    "drand_seed_hash": "ad3172a4f2f947ca34579f34cdd910eaf2021ac5a69fb48c961e1d992c652a3741247acc0782f01c2ca3c92f4ef969d1",
+    "client_seed": "1791581032612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "b7ade3883afcfe65b4012b08b982a5ea0cd52059d39bd1c4a4bdb44014d330bc",
+    "result": "80",
+    "external_round_id": "32925892",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:23:52.000000Z",
+    "revealed_at": "2026-10-09T21:24:02.000000Z"
+}
