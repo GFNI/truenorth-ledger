@@ -1,0 +1,22 @@
+{
+    "round_id": "25044ba1-20d4-4ace-9900-27f8f5755e85",
+    "draw_title": "New Dragon",
+    "competition_url": "https://ogcompetitions.co.uk/lists/fat-friday-5-x-winners",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "c5ed7409843ba0b2677623007da2491e24e524b02d96847552f3f09908edec69",
+    "drand_seed_hash": "836af1cbffb4f1680545f92ed85967333e4d61049e75b41673e2f1429dae738273b23acc8fab92c252770c201751fcd1",
+    "client_seed": "1791580554139",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500,
+    "combined_hash": "519d63be0f56792c62aab87f52d88ed2da54a2b9c74157ac3f1d46cf2ae09822",
+    "result": "378",
+    "external_round_id": "32925732",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:15:54.000000Z",
+    "revealed_at": "2026-10-09T21:16:03.000000Z"
+}
