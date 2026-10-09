@@ -1,0 +1,22 @@
+{
+    "round_id": "de0006b3-4e86-4b4a-86bf-f8d3d0f0edb6",
+    "draw_title": "Heros Box",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/heros-box",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "68357b2373a42359c20f2bf26cdb8daabba9c990911e269cba89b0657206cdde",
+    "drand_seed_hash": "8bdd62a96399ae1397a84caf2abe371b0df51c19b9e4332c7acd6b16481f584b353e4fcc774fcc9d9d9b6258b0b6b4a0",
+    "client_seed": "1791578421723",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 459,
+    "max_tickets": 749,
+    "combined_hash": "8f66cbe1587a54a1d1b4052785058a3c89513a57f4b787492f89f36b77c71509",
+    "result": "595",
+    "external_round_id": "32925021",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T20:40:21.000000Z",
+    "revealed_at": "2026-10-09T20:40:27.000000Z"
+}
