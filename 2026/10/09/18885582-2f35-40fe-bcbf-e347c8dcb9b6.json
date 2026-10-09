@@ -1,0 +1,22 @@
+{
+    "round_id": "18885582-2f35-40fe-bcbf-e347c8dcb9b6",
+    "draw_title": "New Dragon (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/fat-friday-5-x-winners",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2b98547c27a008849e4815f6a8409ceba90bf8cd3322d6d226c34a67bf8e35e0",
+    "drand_seed_hash": "b2bfc03cee8509d5d2b0b7fb8e6249ea993c13a37a3c532d6600cfd0b9bf4a52ed23d3cede3dce7b5067fedaeed97c52",
+    "client_seed": "1791580639249",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500,
+    "combined_hash": "ebb18783327845982aaf72cb1058c76c1a4962d764ec36e0177937f162a56f5d",
+    "result": "204",
+    "external_round_id": "32925761",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:17:19.000000Z",
+    "revealed_at": "2026-10-09T21:17:27.000000Z"
+}
