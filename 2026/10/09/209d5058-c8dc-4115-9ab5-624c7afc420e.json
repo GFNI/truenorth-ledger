@@ -1,0 +1,22 @@
+{
+    "round_id": "209d5058-c8dc-4115-9ab5-624c7afc420e",
+    "draw_title": "£250 SITE CREDIT & 10 INSTANT WINS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ps250sc-10-iw",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "2f15c397ffbc6bee76e7db20f8903dfe18217650521e42260c4c7d8eb217c527",
+    "drand_seed_hash": "b7c36d2e15d38ce733d1141117f52d49fa46619b1e7e5cc06ca12e4695dd41b3e4bf31628644b0eddf6dc6487df465a2",
+    "client_seed": "1791577194246",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 535,
+    "max_tickets": 1500,
+    "combined_hash": "30f1efceef13e138764c7ae12e1244ef80bc0e5e837e53da57c3d15540c6d824",
+    "result": "345",
+    "external_round_id": "32924612",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T20:19:54.000000Z",
+    "revealed_at": "2026-10-09T20:20:00.000000Z"
+}
