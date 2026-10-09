@@ -1,0 +1,22 @@
+{
+    "round_id": "fa5dadf8-2daa-4fc1-a7fd-12abf4917814",
+    "draw_title": "Betty's Bingo",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/bettys-bingo-2",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "7f0decbae0dc40117500d8d32d19118e6a0405f137af371432ffa23674cce4be",
+    "drand_seed_hash": "8b666ded0da14f25bf57ad226d1f8bb1ed142f06d27bb385a398cf0d486c1efce50dc94ccf699b27225d9af058ddaeab",
+    "client_seed": "1791578414740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12345,
+    "max_tickets": 29292,
+    "combined_hash": "1402b9c0082fbf73e35a1942905edc03d7a26d7c74fe6baaf5ea2edaaa839511",
+    "result": "11329",
+    "external_round_id": "32925019",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T20:40:14.000000Z",
+    "revealed_at": "2026-10-09T20:40:21.000000Z"
+}
