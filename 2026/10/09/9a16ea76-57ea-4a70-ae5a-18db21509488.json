@@ -1,0 +1,22 @@
+{
+    "round_id": "9a16ea76-57ea-4a70-ae5a-18db21509488",
+    "draw_title": "PHANTOM FORTUNE - 40 INSTANT WINS | 10 X £200 CASH",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/phantom-fortune",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "b6d51fa6a8d349c680e5850b91d3437e125ed5fe8416a52c01f28806711986da",
+    "drand_seed_hash": "985416104b8db33d065c505ad0d055340e2d85625799b0cb93835623a3e29f4e354e770a7f2e013d5a566b51b9fd4b22",
+    "client_seed": "1791577085453",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4978,
+    "max_tickets": 22000,
+    "combined_hash": "ac07d8ed721632e2279c5114e57c6cfc1b2d3e030d66052e2dd502949fd1e9cd",
+    "result": "19933",
+    "external_round_id": "32924576",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T20:18:05.000000Z",
+    "revealed_at": "2026-10-09T20:18:12.000000Z"
+}
