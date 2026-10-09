@@ -1,0 +1,22 @@
+{
+    "round_id": "0088dc8d-68f2-4b08-84bc-299c0e35f162",
+    "draw_title": "Win Glenfiddich 23 Year Old Grand Cru + Instant wins",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenfiddich-23yo",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "d1390d6def5b7f5ce5654174275262d7f78aad11a0188bea0bd1a4b6cc786a8a",
+    "drand_seed_hash": "987441bf209ed211fac5b315a6269e8429e1d0649dbb8db4e4f928f989c9cc1e41f5709e9f5d76aa06b3cacf78f64de9",
+    "client_seed": "1791580275751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 260,
+    "max_tickets": 575,
+    "combined_hash": "7f565c42bea21e106822011bb8d4201ef38d2084460baec323a7934812c99650",
+    "result": "512",
+    "external_round_id": "32925639",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:11:15.000000Z",
+    "revealed_at": "2026-10-09T21:11:21.000000Z"
+}
