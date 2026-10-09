@@ -1,0 +1,22 @@
+{
+    "round_id": "0fd5f796-5cf2-4b80-a80a-9414e4d4978d",
+    "draw_title": "£111 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps111-for-1p",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1104bbb9bc28f30731abf3ef1e9c335ce6d9666025f242a3dd2c7d93869e8673",
+    "drand_seed_hash": "87b9b4284bb9222e79d36dcdbd77cec5601274ea4862874025449f00fcfb471a96cdc2bbd347a4fe7f31ce7f41c21fa6",
+    "client_seed": "1791580900617",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 550000,
+    "combined_hash": "380afb16e0f8a042751626e8b681e91a35a28749d8f8b9b969ab5d69cd752562",
+    "result": "905",
+    "external_round_id": "32925847",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T21:21:40.000000Z",
+    "revealed_at": "2026-10-09T21:21:50.000000Z"
+}
