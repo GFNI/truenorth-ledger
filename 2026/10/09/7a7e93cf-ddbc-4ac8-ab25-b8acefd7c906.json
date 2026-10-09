@@ -1,0 +1,22 @@
+{
+    "round_id": "7a7e93cf-ddbc-4ac8-ab25-b8acefd7c906",
+    "draw_title": "*BRAND NEW* TARGET GROUP O *MEGA ODDS*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-group-o-mega-odds",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "f99366b3a4222008343eb5778315841cf622df80e32e21a369b532df93188f1d",
+    "drand_seed_hash": "b12293d818508052be9899ad18233cf71b3a41775acabcb968b1dd3fdae94a850df613fa42d4b5214ea54d5713aac512",
+    "client_seed": "1791574814245",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 100,
+    "combined_hash": "3e795ae0bed692bc0e3473122c228d61828fd89b7a0e8d8c6d85e0b2ce7650b1",
+    "result": "63",
+    "external_round_id": "32923819",
+    "processing_status": "completed",
+    "created_at": "2026-10-09T19:40:14.000000Z",
+    "revealed_at": "2026-10-09T19:40:21.000000Z"
+}
