@@ -1,0 +1,22 @@
+{
+    "round_id": "400055a0-b9d0-4e7b-abf8-8b6a279df862",
+    "draw_title": "Dyson Red Velvet Bundle",
+    "competition_url": "https://chaotic.co.uk/competition/dyson-red-velvet-bundle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "aed36f0560c0c6d7a85338fe00320c08a333804c2b7ed110f04fd718bc3f55ac",
+    "drand_seed_hash": "848873f55dce6fca0186e582d4155fb827b0ec3e28ec3004fbff33d00042d7f4ff10995b9ab976e3ea647c3a66fca7d6",
+    "client_seed": "1791662906941",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999,
+    "max_tickets": 1999,
+    "combined_hash": "bdf3b54096e2d3661d6fdb3e4a1b92d7d189a46e5e03649c9597fcda25b83ffe",
+    "result": "1342",
+    "external_round_id": "32953183",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T20:08:27.000000Z",
+    "revealed_at": "2026-10-10T20:08:33.000000Z"
+}
