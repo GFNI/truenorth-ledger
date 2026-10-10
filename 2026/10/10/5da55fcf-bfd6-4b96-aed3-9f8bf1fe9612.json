@@ -1,0 +1,22 @@
+{
+    "round_id": "5da55fcf-bfd6-4b96-aed3-9f8bf1fe9612",
+    "draw_title": "Win Glenmorangie 18 Year Old + Instant Wins",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenmorangie18",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "506e715e962cca6fd5c6877dc122da797ad168e5408e456d8e1367364522951d",
+    "drand_seed_hash": "ac4d2bee6afc7ab6b86c6c9a04050ca8773e8fa3aeadb403403acb5caff0da9fbf04a12f1df2996594b7a8ab4a0fbdd3",
+    "client_seed": "1791668412312",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 346,
+    "max_tickets": 699,
+    "combined_hash": "34b5576eed2bef7252cfdd0c0e08f018a0500099bda92e2906a3dedfa264efad",
+    "result": "395",
+    "external_round_id": "32955018",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T21:40:12.000000Z",
+    "revealed_at": "2026-10-10T21:40:18.000000Z"
+}
