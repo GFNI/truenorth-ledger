@@ -1,0 +1,22 @@
+{
+    "round_id": "63398be4-8680-489f-8612-27451e4f0f7b",
+    "draw_title": "2023 KING CHARLES III 1/10oz GOLD BRITANNIA",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-king-charles-iii-110oz-gold-britannia-3",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "b3dde671254de51bc09e5c5bfd7e99defe6d785d4a7394bd81752140758fedab",
+    "drand_seed_hash": "8701ef92cee5aafb270db7e3e1bd653239637fe7b92e3c8f6c24408b669d1347cf31be2add0cb58cbac44e190cc73e67",
+    "client_seed": "1791672912614",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 206,
+    "max_tickets": 350,
+    "combined_hash": "729c88382da51e2ba662568ce54b520fcc13bb3bc47ed777b183dc10ca71f985",
+    "result": "143",
+    "external_round_id": "32956518",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T22:55:12.000000Z",
+    "revealed_at": "2026-10-10T22:55:18.000000Z"
+}
