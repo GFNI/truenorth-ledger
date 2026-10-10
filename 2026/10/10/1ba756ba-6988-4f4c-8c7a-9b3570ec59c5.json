@@ -1,0 +1,22 @@
+{
+    "round_id": "1ba756ba-6988-4f4c-8c7a-9b3570ec59c5",
+    "draw_title": "Leprechauns wish",
+    "competition_url": "https://chaotic.co.uk/competition/leprechauns-wish-2727",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "6491da1b0ce6d723bd870d1041bd96418acdade8dc79f450039dcf828add9ca1",
+    "drand_seed_hash": "9642798e532d35e9c7069edebb876dbb88d895fe92efc82f64e44e53f9d0e76c728223bbe746adb77f19cc67664c02cc",
+    "client_seed": "1791663271587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "edfb1a9ee00b4acf888baeb73977e5114fdeea441b5041195cb964f2fc6986a0",
+    "result": "571210",
+    "external_round_id": "32953304",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T20:14:31.000000Z",
+    "revealed_at": "2026-10-10T20:14:36.000000Z"
+}
