@@ -1,0 +1,22 @@
+{
+    "round_id": "be167c62-b4e6-417d-8f08-b550e689e298",
+    "draw_title": "WIN £100 FOR 1P! 10/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps100-for-1p-1010",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "e2369c2a383b18fc6ecb8a83ad3aa1ec3ff94be669f82b57a4889c90a39c6c24",
+    "drand_seed_hash": "8fa93e256ade675b0cc32b742c6ea895dac03fbb7a18deb1e569d3383b933eb4092c08ce8ebd5c29b19ca556a8a8c77a",
+    "client_seed": "1791672005540",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9820,
+    "max_tickets": 15000,
+    "combined_hash": "804db7b61c20bb6ff70702583c07f4b6ecc326388e519332ba861e15b4c30f67",
+    "result": "6241",
+    "external_round_id": "32956216",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T22:40:05.000000Z",
+    "revealed_at": "2026-10-10T22:40:12.000000Z"
+}
