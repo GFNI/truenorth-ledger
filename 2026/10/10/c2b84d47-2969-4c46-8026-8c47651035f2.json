@@ -1,0 +1,22 @@
+{
+    "round_id": "c2b84d47-2969-4c46-8026-8c47651035f2",
+    "draw_title": "Chaotic Case Files",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-case-files-3293",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "fe8c044e770e8fd2a90f1eb4181caa9d7de8bb8a2388747754bf55437d4ecc64",
+    "drand_seed_hash": "a3a51b2ca15174c1d12f76c8b1a59c548d8d7eecf1e6a002ec9271cf396ee5c4740dc9ebf505b4f777f02391e2760249",
+    "client_seed": "1791662151827",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "2a8ff4168c9822738bad43ee8ede1826ee29b5e470475162ddbc5cbd2a0b6b2c",
+    "result": "26187",
+    "external_round_id": "32952931",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T19:55:51.000000Z",
+    "revealed_at": "2026-10-10T19:55:57.000000Z"
+}
