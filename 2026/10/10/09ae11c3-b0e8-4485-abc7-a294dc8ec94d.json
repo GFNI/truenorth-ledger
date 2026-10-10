@@ -1,0 +1,22 @@
+{
+    "round_id": "09ae11c3-b0e8-4485-abc7-a294dc8ec94d",
+    "draw_title": "Bunch o' Money",
+    "competition_url": "https://chaotic.co.uk/competition/bunch-o-money-5089",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ba183edd9f5ac3d6190514b11db23c5d791c7f068f4edc74aa37556572623b43",
+    "drand_seed_hash": "b2a83d79c5ed820d00e12575cd64c2dcbc890e2ce42b02bd8e2db6c34981c8b357be50b3631c3995a6ed0932094920df",
+    "client_seed": "1791662224361",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 555555,
+    "max_tickets": 555555,
+    "combined_hash": "36f3c20689271e3d22494ff967f03dfef8b1768d01e7cad93d12b75358d54ecb",
+    "result": "106323",
+    "external_round_id": "32952955",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T19:57:04.000000Z",
+    "revealed_at": "2026-10-10T19:57:09.000000Z"
+}
