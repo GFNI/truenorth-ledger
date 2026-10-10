@@ -1,0 +1,22 @@
+{
+    "round_id": "68c9dcca-fd53-4e2c-9367-dfbf4f3703b2",
+    "draw_title": "THE MIGHTY INSTANT WINS 🦍",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/the-mighty-instant-wins",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d30556c5eda48fa84f2a2683255bb76e104b5e3d1a428c2ab8ebf8c7e9f3cb7a",
+    "drand_seed_hash": "8a082e3c65bb1dd57442146efcffff09083b23c1e219959f17392ff661d3c2d40cfc2c2df564158aea3046b5e40a1f21",
+    "client_seed": "1791663490976",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 976940,
+    "max_tickets": 4000000,
+    "combined_hash": "ccc37579017d8bf5632fa29ee12ff6ad65a4921b2234e353609047fdf29c7d90",
+    "result": "1760973",
+    "external_round_id": "32953378",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T20:18:11.000000Z",
+    "revealed_at": "2026-10-10T20:18:18.000000Z"
+}
