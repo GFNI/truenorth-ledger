@@ -1,0 +1,22 @@
+{
+    "round_id": "41a34ba5-60fa-43cc-8391-41ec0d8ed13a",
+    "draw_title": "💄 Fenty Beauty Gift Set 💄",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/fenty-beauty-gift-set",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "a4ef360fdb233d9ec8d08fabc837b15f4fa3400dd614ed4890fe0a05d088bffd",
+    "drand_seed_hash": "9688446bd2f4e8260400293d0734ef5a094049baff17247ca1e2f0be0ae09d049dfd0231f702b2972c2705cf745b398e",
+    "client_seed": "1791663368693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "22f0f65e2c258cb79d4e21c6110fbf87113412900767a07783d5156ce348b4b4",
+    "result": "135",
+    "external_round_id": "32953337",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T20:16:08.000000Z",
+    "revealed_at": "2026-10-10T20:16:15.000000Z"
+}
