@@ -1,0 +1,22 @@
+{
+    "round_id": "13642735-0f04-4288-8423-14df4649df48",
+    "draw_title": "Dill Dough",
+    "competition_url": "https://chaotic.co.uk/competition/dill-dough-2021",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "4ce6b896f20211278d0c33f05e6f16d1efe691dca3c3f9a401c575511d34bfe4",
+    "drand_seed_hash": "b4a58feeb93ac480340c6cd274e6be6c579b3c7a9f4b71abc7aff4e7e069a188373f8b69dcdbde2ed625c95252a15ab1",
+    "client_seed": "1791661680146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "bf3ca7bbf277261a9cf95ca84bb759d27547c28dfed81f74f1b0130f9ec2137b",
+    "result": "99456",
+    "external_round_id": "32952774",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T19:48:00.000000Z",
+    "revealed_at": "2026-10-10T19:48:06.000000Z"
+}
