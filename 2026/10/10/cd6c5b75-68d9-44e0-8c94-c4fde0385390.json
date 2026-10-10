@@ -1,0 +1,22 @@
+{
+    "round_id": "cd6c5b75-68d9-44e0-8c94-c4fde0385390",
+    "draw_title": "🔐 CAN YOU CRACK THE GOLD BANK VAULT? 🔐",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/can-you-crack-the-gold-bank-vault",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "1a9dc3292cbd5966740ba9e9101ffdd56d5b81b899d056088f79d1ee48913452",
+    "drand_seed_hash": "b3fe27323461d7792f9a174f9582da20649b7512edcf72d53b635ab4194aff51787172aa6472553c0d8281cc067ec69e",
+    "client_seed": "1791672905051",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4731,
+    "max_tickets": 5000,
+    "combined_hash": "620e84ca418d8a1b9aa0f782547fbd3a76fd6d104b3c4b6f1647375767e07018",
+    "result": "2067",
+    "external_round_id": "32956516",
+    "processing_status": "completed",
+    "created_at": "2026-10-10T22:55:05.000000Z",
+    "revealed_at": "2026-10-10T22:55:12.000000Z"
+}
