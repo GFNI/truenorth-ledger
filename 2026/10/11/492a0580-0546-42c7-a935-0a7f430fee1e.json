@@ -1,0 +1,22 @@
+{
+    "round_id": "492a0580-0546-42c7-a935-0a7f430fee1e",
+    "draw_title": "5g Gold Bar Worth £550+",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/5g-gold",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "3ffbe3078a188fac0a1f145c119011471d8fb510a0563d8b3c70c34f30a8303e",
+    "drand_seed_hash": "878381b0c9434f8226ac65965788f7373c3eedcb0b2167f9c7f828a49bb541dfd9145b1fd2c5b94a43f64c3f425ec6ec",
+    "client_seed": "1791747615652",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "c471e03d1be9bb5067a27474d11b525904ceb7b726bf6bda031802e4e0710abc",
+    "result": "365",
+    "external_round_id": "32981419",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:40:15.000000Z",
+    "revealed_at": "2026-10-11T19:40:21.000000Z"
+}
