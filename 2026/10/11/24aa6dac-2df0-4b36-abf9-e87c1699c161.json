@@ -1,0 +1,22 @@
+{
+    "round_id": "24aa6dac-2df0-4b36-abf9-e87c1699c161",
+    "draw_title": "50K Epic Slots Pot",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/50k-epic-slots-pot-4",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "18465e4bd594ddf48eba21d2b6854593a2317f6e82a6b060c5bdada86ce7c8c3",
+    "drand_seed_hash": "8c18ecc1191b8dd159a43a106c4ad107355a2aeda17a0b131bc52458fa49a571afb33ea645b578a63feed88f85969bde",
+    "client_seed": "1791749120444",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9178,
+    "max_tickets": 100000,
+    "combined_hash": "ba376c75903f3275047734085517fbce1f25ffca1e7c9bf03b17806a0d9fe26a",
+    "result": "26427",
+    "external_round_id": "32981920",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:05:20.000000Z",
+    "revealed_at": "2026-10-11T20:05:24.000000Z"
+}
