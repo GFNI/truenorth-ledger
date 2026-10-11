@@ -1,0 +1,22 @@
+{
+    "round_id": "92487267-f1b0-4ec0-b48c-35d7666a6116",
+    "draw_title": "Vanquish 360 Bundle",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/vanquish-360-bundle",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "dac6e04e0766121dc861d18ff34ed62da7ba61ef46786b51a7a10ee1b016edfe",
+    "drand_seed_hash": "8f18757fd72250802e486cf1dbc25afc021268f1e54eec8019226c47905d23503174d5ade14aa5a196c5d3c207f767f8",
+    "client_seed": "1791746741460",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 188,
+    "max_tickets": 500,
+    "combined_hash": "2ea3017ce80e19311dab86cb95d2e9049489c22dd7e22e174de2d548e8559d73",
+    "result": "95",
+    "external_round_id": "32981128",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:25:41.000000Z",
+    "revealed_at": "2026-10-11T19:25:48.000000Z"
+}
