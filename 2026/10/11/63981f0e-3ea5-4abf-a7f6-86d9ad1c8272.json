@@ -1,0 +1,22 @@
+{
+    "round_id": "63981f0e-3ea5-4abf-a7f6-86d9ad1c8272",
+    "draw_title": "GOLD SPINNER",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/gold-spinner",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "2227f99873307a37998c1773e3a3f27147c40fe9b71cc8c656bb021d6ccfd894",
+    "drand_seed_hash": "8d88fc45999d7be746afc2d8582884da6def792bf278ce89dfc27e189becbd4d8b4577c75dd66a752c50e924a493bcc5",
+    "client_seed": "1791752720065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5222,
+    "max_tickets": 60100,
+    "combined_hash": "22eaab738853325a088b1822e25ea8e202be2cc5ebd900aeb861d9d7b1bb6d19",
+    "result": "17435",
+    "external_round_id": "32983121",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:05:20.000000Z",
+    "revealed_at": "2026-10-11T21:05:27.000000Z"
+}
