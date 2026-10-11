@@ -1,0 +1,22 @@
+{
+    "round_id": "fd82827b-41d8-4566-8d49-db8359176eca",
+    "draw_title": "🛡️ Warhammer Space Marines Bundle + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/warhammer-space-marines-bundle-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "a520d75aca1f7eb30da5365dd940a4deb9a754806539760181a9da4dac2a567e",
+    "drand_seed_hash": "ae796dbfdc224f4fa3b25acce7d1cc994645abfc35843d77d32d06616f540df665e99aff916646d8deb87487e4ea35ee",
+    "client_seed": "1791754874961",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 417,
+    "max_tickets": 1066,
+    "combined_hash": "a3efbde741bb0220f3c5e256e7c2dd153f87b7e613578395e7118a194b7037ee",
+    "result": "58",
+    "external_round_id": "32983839",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:41:15.000000Z",
+    "revealed_at": "2026-10-11T21:41:21.000000Z"
+}
