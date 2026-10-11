@@ -1,0 +1,22 @@
+{
+    "round_id": "00882ed8-c212-4da0-b689-569147f0401f",
+    "draw_title": "10G GOLD BAR OR £1,000 CASH ALTERNATIVE",
+    "competition_url": "https://magmacomps.co.uk/admin/products/10g-gold-bar-or-ps1000-cash-alternative",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "8b9fa9f2a4bad7237ee50eb033ff4f17ec1c2c9f81631b4fe6df0ffe6a50444e",
+    "drand_seed_hash": "86fddabf75f440db9b8c9cf8cdaaa2b5ed0e9e1eff18d86e032119817cf1bd41bdc5360581ccfcfbe1979d8100d3a71a",
+    "client_seed": "1791749805505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 809,
+    "max_tickets": 1249,
+    "combined_hash": "47da2a3c81acc154c64edb357887a33053ebfaa93e55f03848c9a044f7930324",
+    "result": "801",
+    "external_round_id": "32982149",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:16:45.000000Z",
+    "revealed_at": "2026-10-11T20:16:51.000000Z"
+}
