@@ -1,0 +1,22 @@
+{
+    "round_id": "2aef322f-4ee9-4886-b478-26853613df21",
+    "draw_title": "Odds Booster - Win 25 Entries into Philips Shaver Main Draw",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/odds-booster-win-25-entries-into-philips-shaver-main-draw",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "47eb9149979d5718e7f1e71be8b74acc33fddf4c61f6349bc1605d6c5dcd4081",
+    "drand_seed_hash": "b12a466d4a537286082c8ba30d3e0db2a1785c5f9368d8d4d3efd37c04f56bdfbb2d50251bd27f0f3598c785a0dfcff2",
+    "client_seed": "1791749228391",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12,
+    "max_tickets": 100,
+    "combined_hash": "eb96f0d3a8e106b6135812fbe269786367e80f89ef31955f0508f80e0238826a",
+    "result": "52",
+    "external_round_id": "32981957",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:07:08.000000Z",
+    "revealed_at": "2026-10-11T20:07:15.000000Z"
+}
