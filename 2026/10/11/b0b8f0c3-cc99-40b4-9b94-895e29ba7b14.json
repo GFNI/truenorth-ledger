@@ -1,0 +1,22 @@
+{
+    "round_id": "b0b8f0c3-cc99-40b4-9b94-895e29ba7b14",
+    "draw_title": "Van Gogh Pikachu",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/van-gogh-pikachu",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "1ac81841b129f492091bb5d0c8c05288141171cc71b8354fa37f5123b9f5d193",
+    "drand_seed_hash": "8346a034c912272fff5d1a2b82e9b1c42c9b56b62e920bee217125ab6f693d9fa7104cc38729ff936750128a1398ac58",
+    "client_seed": "1791747714344",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4307,
+    "max_tickets": 10000,
+    "combined_hash": "cac2354afa97e3c35d2753d3f51cae7b9f1cbfd5a66a375ffe97a4b3c90a691c",
+    "result": "7259",
+    "external_round_id": "32981452",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:41:54.000000Z",
+    "revealed_at": "2026-10-11T19:42:00.000000Z"
+}
