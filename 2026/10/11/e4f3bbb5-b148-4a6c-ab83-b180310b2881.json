@@ -1,0 +1,22 @@
+{
+    "round_id": "e4f3bbb5-b148-4a6c-ab83-b180310b2881",
+    "draw_title": "Shark CryoGlow",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/shark-cryoglow-3",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "42f83e9bcffab38f2a0d119ca0fb83fe2307089c92f89ed75f11fe8c77eae637",
+    "drand_seed_hash": "8c5b3970ae32508c607a31ddc90789f2239a1e2ae307af1491ea477044be1e02580709461127ab16e2e14017efe7f494",
+    "client_seed": "1791749306714",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 300,
+    "combined_hash": "a1fae6417505d48fa243306853cb4f3adb3706bf72ee816759d429c6d78e0235",
+    "result": "182",
+    "external_round_id": "32981983",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:08:26.000000Z",
+    "revealed_at": "2026-10-11T20:08:33.000000Z"
+}
