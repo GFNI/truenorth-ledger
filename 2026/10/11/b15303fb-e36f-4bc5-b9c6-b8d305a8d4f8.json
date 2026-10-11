@@ -1,0 +1,22 @@
+{
+    "round_id": "b15303fb-e36f-4bc5-b9c6-b8d305a8d4f8",
+    "draw_title": "APPLE MACBOOK PRO 14\" OR £1,500 CASH ALTERNATIVE",
+    "competition_url": "https://magmacomps.co.uk/admin/products/apple-macbook-pro-14-or-ps1500-cash-alternative",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "cae318df308dde9a357659f6174fc04ec1af92c88bdb591b35eb4012ec70afe7",
+    "drand_seed_hash": "aac280639e407e3e09b75c37e856e4363b2827eb1d722602733a0ef303b61155d4f881b780802f5faba70e196b2e3aa3",
+    "client_seed": "1791750276276",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1031,
+    "max_tickets": 1999,
+    "combined_hash": "8e908e869d9595e531008f19a36dcd85fe1d53cd6a359f9bd3289bc3883fa8af",
+    "result": "1372",
+    "external_round_id": "32982306",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:24:36.000000Z",
+    "revealed_at": "2026-10-11T20:24:42.000000Z"
+}
