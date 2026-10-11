@@ -1,0 +1,22 @@
+{
+    "round_id": "1a11d61b-b130-4301-874b-5315007e90d7",
+    "draw_title": "£200 CASH BLAST",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps200-cash-blast",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "8dbe080f409c0a0d584e42fde64900aac53ea7b86f917ebc9a913a4911c94a8d",
+    "drand_seed_hash": "a085c2ecd919b7cf85191ac604716acb5425955acc5160a2032f512d85e1f5c6638458e8d70838d50afa0ceffa1e19b1",
+    "client_seed": "1791748240389",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 400,
+    "combined_hash": "5fa8ec1e10d6e055d77b665945d55e6527642fd4191b11470327a3abfb072f0b",
+    "result": "80",
+    "external_round_id": "32981628",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:50:40.000000Z",
+    "revealed_at": "2026-10-11T19:50:48.000000Z"
+}
