@@ -1,0 +1,22 @@
+{
+    "round_id": "76cf0ab7-b98d-4682-9a52-356fe9e60077",
+    "draw_title": "THE TICKET BOOTH: WIN Scotch or Watch Tickets!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-ticket-booth-win-scotch-or-watch-tickets",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "58f9af1e7c35bfe0e138a293f1fd6f4b3382d63c75c6249375de2ab0966d7a51",
+    "drand_seed_hash": "ad36e8d9d64395078a18c704dc1c5b007fbf190b99fca5ccc005281dd0542c5a9e07b5f6a2701c22e3a33b839add0018",
+    "client_seed": "1791753024751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36619,
+    "max_tickets": 50000,
+    "combined_hash": "dd8ac958aa810fa52536aaae364538337b0af85f6ce1bb4a712115a675bde5f0",
+    "result": "3294",
+    "external_round_id": "32983222",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:10:24.000000Z",
+    "revealed_at": "2026-10-11T21:10:30.000000Z"
+}
