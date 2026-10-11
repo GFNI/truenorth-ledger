@@ -1,0 +1,22 @@
+{
+    "round_id": "58df801a-5bf9-4822-bfaa-be37ddd43dcc",
+    "draw_title": "OP13 Vs OP17",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/op13-vs-op17",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "67d77f9eb3b164f6c39ed783aeb22e508acd5a17474ac1ca92cae55af0756371",
+    "drand_seed_hash": "8be2b0bf5ffa0d7970011f5dfe3f28989ed171b46fc5ce5e6f4b56aa1c6da00744012d6ef07fe2eb4f31d418e45720f3",
+    "client_seed": "1791747508895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5938,
+    "max_tickets": 36000,
+    "combined_hash": "eab84194c0621f7ece80c9001a43b58f45f6c90e15e28d8809e885cf65f4acd1",
+    "result": "23147",
+    "external_round_id": "32981384",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:38:28.000000Z",
+    "revealed_at": "2026-10-11T19:38:36.000000Z"
+}
