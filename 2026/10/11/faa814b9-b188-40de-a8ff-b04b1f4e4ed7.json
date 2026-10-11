@@ -1,0 +1,22 @@
+{
+    "round_id": "faa814b9-b188-40de-a8ff-b04b1f4e4ed7",
+    "draw_title": "💸🌊 ADAMS CASH TSUNAMI 🌊💸 — Instant wins up to £2000, low tickets, £500 main prize… EVERY ticket wins, so even your bad luck’s taking the day off!",
+    "competition_url": "https://winnersclubni.com/admin/products/adams-cash-tsunami-instant-wins-up-to-ps2000-low-tickets-ps500-main-prize-2",
+    "operator": {
+        "name": "winners club ni",
+        "website": "https://winnersclubni.com",
+        "company_number": "NI694008"
+    },
+    "drand_server_seed": "993f6d18aebfce8dcaa6ae4c9dcf11a7f547f787e42aa0d0c63978f1d96ad824",
+    "drand_seed_hash": "b11ef00fcd13d048c31aba82de79ac00114bfb0c48614bb53e478b0c9227fa6e2fb83d8805dd69a37ea1cd2515806705",
+    "client_seed": "1791745825360",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6067,
+    "max_tickets": 7978,
+    "combined_hash": "b554fcfdb695aebb3f9021993cbfecd484ccc6d105f45237ec2909c66ef1bd7a",
+    "result": "2936",
+    "external_round_id": "32980823",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:10:25.000000Z",
+    "revealed_at": "2026-10-11T19:10:33.000000Z"
+}
