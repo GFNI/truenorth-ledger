@@ -1,0 +1,22 @@
+{
+    "round_id": "c46e7fac-d65a-4ae7-9bd1-99a6af7a0cde",
+    "draw_title": "£10,000 INSTANT WINNER - JUST 49P A TICKET",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps10000-instant-winner-just-49p-a-ticket",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "ec40e40f0623f16d09ae1093a8e01b8b88faa84b97e9d1642b07cbea6397a577",
+    "drand_seed_hash": "8e191690aefa21cb4a6d1b11e8b5684cffe7212a8555ef14718b0a7c907035dff875a7310f183d8fe1c0022cf977e3bc",
+    "client_seed": "1791748448869",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13100,
+    "max_tickets": 40000,
+    "combined_hash": "291b1ae48784b2fe3201df97a104e5a2fc537c71f3ce12b1a6d1e851735d03c1",
+    "result": "36138",
+    "external_round_id": "32981697",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:54:08.000000Z",
+    "revealed_at": "2026-10-11T19:54:15.000000Z"
+}
