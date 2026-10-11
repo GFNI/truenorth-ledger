@@ -1,0 +1,22 @@
+{
+    "round_id": "b7399cb3-6293-4abd-90be-e5ed172ab8f7",
+    "draw_title": "2p Slot Machine",
+    "competition_url": "https://ecnicompetitions.com/admin/products/2p-slot-machine",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "6061751236ec0cb53f19a4279d454bf39d6ea8416eaaaa9ccaa3f60fd43845e8",
+    "drand_seed_hash": "918b2d00b7bd3ecef49fe3d12bd56403017096105ad18543785b2c3a31121a373cb0bbe6fe7cea7e2d231fd355cd40a7",
+    "client_seed": "1791753070149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54067,
+    "max_tickets": 549999,
+    "combined_hash": "9926c38de777a2be3165f84b041fdd34441e0b0e3c531b8cd3140205f6e70261",
+    "result": "181182",
+    "external_round_id": "32983238",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:11:10.000000Z",
+    "revealed_at": "2026-10-11T21:11:18.000000Z"
+}
