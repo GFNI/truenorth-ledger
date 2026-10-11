@@ -1,0 +1,22 @@
+{
+    "round_id": "f67b663f-b1f3-459a-b829-56797a88e474",
+    "draw_title": "2020 BATTLE OF BRITAIN 80TH ANNIVERSARY 1oz SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2020-battle-of-britain-80th-anniversary-1oz-silver-proof-coin-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c249b251ceed9a1d80931e13834bd9fae7d6012cfe6e19cb46f719fbdbcef8ac",
+    "drand_seed_hash": "894ae112ae8850719b7ecefb265756fdc4887d91d6b4e1eb9d65c28be234559f6d0ddf03f75c8f44c26014e539f981d3",
+    "client_seed": "1791759331030",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 150,
+    "combined_hash": "c3c00cce195da71e0d0453569e7286649f555a4818007312a09dce13fbdb580f",
+    "result": "126",
+    "external_round_id": "32985325",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T22:55:31.000000Z",
+    "revealed_at": "2026-10-11T22:55:39.000000Z"
+}
