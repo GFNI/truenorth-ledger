@@ -1,0 +1,22 @@
+{
+    "round_id": "fa5fae5a-e8d3-4dc9-a089-8879a1400009",
+    "draw_title": "PUMPKIN PAYDAY",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/pumpkin-payday",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "0fc64071352efb450092b0abb94f985125e27c968b6e54a847aa0967e03a4fbb",
+    "drand_seed_hash": "a8070974a408d08983a3418fcd5af07f97424659c499bbe1a65613da66e9455bd409b44a77bf29cc9915f2bafad7ad3a",
+    "client_seed": "1791749413942",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2121,
+    "max_tickets": 15000,
+    "combined_hash": "9d25ef562795784dd8040f7bb9e8d2979a4612ad265a1251b3add668ed473f75",
+    "result": "3310",
+    "external_round_id": "32982019",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:10:14.000000Z",
+    "revealed_at": "2026-10-11T20:10:21.000000Z"
+}
