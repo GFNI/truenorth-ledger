@@ -1,0 +1,22 @@
+{
+    "round_id": "50ac0ec5-f649-465b-a672-bafad5638f10",
+    "draw_title": "Win A 2026 1oz Fine Silver Britannia - Just 50p!",
+    "competition_url": "https://expcomps.com/admin/products/win-a-2026-1oz-fine-silver-britannia-just-50p",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "2e0e10976f8e98d989bca384501cf59104a7c8e11340c6b73da15742906879f9",
+    "drand_seed_hash": "ada76fb8c327813c6777aaa18df3782c0ef5760a2ba0c871efc2937c5c0166c48df9daf1860fd23a0d88d4a9266ae23c",
+    "client_seed": "1791749561505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189,
+    "max_tickets": 250,
+    "combined_hash": "053de1ccd8ad394dc1da516000fedfa81926b9e86e5563e3c4038712e1ed33c9",
+    "result": "36",
+    "external_round_id": "32982068",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:12:41.000000Z",
+    "revealed_at": "2026-10-11T20:12:48.000000Z"
+}
