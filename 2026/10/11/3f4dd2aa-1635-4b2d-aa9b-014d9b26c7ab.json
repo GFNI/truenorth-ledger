@@ -1,0 +1,22 @@
+{
+    "round_id": "3f4dd2aa-1635-4b2d-aa9b-014d9b26c7ab",
+    "draw_title": "3p Wonder - Win up to £500 CASH!",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/3p-wonder-win-up-to-ps500-cash",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "76ee7d52852cc6a66b0005b98d4582f3edd42ff14d362bbd738af70f40d634cc",
+    "drand_seed_hash": "adf73ddfc3895f3ba75d9c99378977ec078a13af89c185617d3b4736a4c8e929599140382ddd2100b073ddffd4c26bea",
+    "client_seed": "1791749428038",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34221,
+    "max_tickets": 685000,
+    "combined_hash": "00b87dd7abe213978289480c865291a144293149c3c7cb6155ce7090071ea2d0",
+    "result": "595545",
+    "external_round_id": "32982024",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:10:28.000000Z",
+    "revealed_at": "2026-10-11T20:10:36.000000Z"
+}
