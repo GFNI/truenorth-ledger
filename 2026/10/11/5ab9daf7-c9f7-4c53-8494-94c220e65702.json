@@ -1,0 +1,22 @@
+{
+    "round_id": "5ab9daf7-c9f7-4c53-8494-94c220e65702",
+    "draw_title": "WIN A £75 JUST EAT GIFT CARD – SUNDAY QUICK WIN",
+    "competition_url": "https://prizerush.co.uk/admin/products/win-75-just-eat-gift-card-sunday-quick-win",
+    "operator": {
+        "name": "Performance Competitions UK Ltd",
+        "website": "https://prizerush.co.uk",
+        "company_number": "17209860"
+    },
+    "drand_server_seed": "3ffbe3078a188fac0a1f145c119011471d8fb510a0563d8b3c70c34f30a8303e",
+    "drand_seed_hash": "878381b0c9434f8226ac65965788f7373c3eedcb0b2167f9c7f828a49bb541dfd9145b1fd2c5b94a43f64c3f425ec6ec",
+    "client_seed": "1791747613633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52,
+    "max_tickets": 349,
+    "combined_hash": "633ce8e53b4f11710389173b52c61a5a04924bcb66b038d5ca345d0bcfd7bebd",
+    "result": "181",
+    "external_round_id": "32981419",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:40:13.000000Z",
+    "revealed_at": "2026-10-11T19:40:21.000000Z"
+}
