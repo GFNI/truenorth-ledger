@@ -1,0 +1,22 @@
+{
+    "round_id": "91d94c2a-2628-49e3-a9e7-f893a65a02be",
+    "draw_title": "NEW £500 Galore. Plus 9 Chances to win £500 Instantly.",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-ps500-galore-plus-9-chances-to-win-ps500-instantly-2",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "4ced96f2e31e68d9ba5d18b931d4d764b8d84a6d2fbf16e54a6f04560f600ee1",
+    "drand_seed_hash": "90b00407e3e23d5206ec96a3a490d7fbbd92dc701e4859d42f97adfb375c87c05aa829084961ae36877da05363c86333",
+    "client_seed": "1791746159379",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35930,
+    "max_tickets": 260000,
+    "combined_hash": "fe5d4488f2971b61153c20352f46b172de351f745bd3f8b5a7dcb23dda5399ac",
+    "result": "1887",
+    "external_round_id": "32980934",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:15:59.000000Z",
+    "revealed_at": "2026-10-11T19:16:06.000000Z"
+}
