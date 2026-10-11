@@ -1,0 +1,22 @@
+{
+    "round_id": "b7807e69-7ed5-46a4-82f5-87e6a4d48a60",
+    "draw_title": "Carpet Spotwasher",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/carpet-spotwasher",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f2853226bf3249ddc57d3bef691c6c72635cee3e5ecc3991053d206c45ed6317",
+    "drand_seed_hash": "b2214b6b37ce7e7ff4ac84ff9a1ca0dbb3d5a812d79cc7a06bfce93d38e4844f5e4d37359194730d7c3114a8d7631b80",
+    "client_seed": "1791746458229",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 220,
+    "combined_hash": "7f99c67babda8baa616725cd95f7c5843d59ac95601869f779e8d11fab1e856e",
+    "result": "212",
+    "external_round_id": "32981033",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:20:58.000000Z",
+    "revealed_at": "2026-10-11T19:21:03.000000Z"
+}
