@@ -1,0 +1,22 @@
+{
+    "round_id": "889d3b5d-c9ee-4a9f-9c14-8ad05f068634",
+    "draw_title": "FARMYARD PLINKO!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/farmyard-plinko",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "82efc134138016f11807d7ef52c5d0e25aa35475c2a718aed8f2827d1e6d84d9",
+    "drand_seed_hash": "a7477189205127c0850f09e40be68a858be452ac3482acfb08f8a5112dd8b347a92963d0219fc72ce121e26ce04c5c61",
+    "client_seed": "1791753018891",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100031,
+    "max_tickets": 279999,
+    "combined_hash": "2499b60bcd227eb6be823a6050aba9c7369bf8b02ab16c51cc4ce187149b75a8",
+    "result": "236834",
+    "external_round_id": "32983220",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:10:18.000000Z",
+    "revealed_at": "2026-10-11T21:10:24.000000Z"
+}
