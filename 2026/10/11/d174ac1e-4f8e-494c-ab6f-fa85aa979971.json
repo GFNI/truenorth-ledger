@@ -1,0 +1,22 @@
+{
+    "round_id": "d174ac1e-4f8e-494c-ab6f-fa85aa979971",
+    "draw_title": "WIN THIS HIGHLAND PARK 17 YEAR OLD BETWEEN YOU & I + 10 BOTTLES AS INSTANT WINS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-highland-park-17-year-old-between-you-i-10-bottles-as-instant-wins",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "f3f0a3a19b5ffae7675a45d341b57a1883cd9c85e6e8ecc86aee465d7b12dcc3",
+    "drand_seed_hash": "8c420caf1a32d6232c654bbc6093c02304ea1372d8fb04a324edc1f83854bc217f0ec8938485b83d7a1f74d970d8a2a1",
+    "client_seed": "1791758420767",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 521,
+    "max_tickets": 1999,
+    "combined_hash": "969e20c379a8360ec6119fabf927278d670affe45b883648a25a3594f7eec102",
+    "result": "537",
+    "external_round_id": "32985021",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T22:40:20.000000Z",
+    "revealed_at": "2026-10-11T22:40:27.000000Z"
+}
