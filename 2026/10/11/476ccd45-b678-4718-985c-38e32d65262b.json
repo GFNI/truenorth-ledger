@@ -1,0 +1,22 @@
+{
+    "round_id": "476ccd45-b678-4718-985c-38e32d65262b",
+    "draw_title": "£100 - INSANE ODDS - ONLY 20 TICKETS",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/ps100-insane-odds-only-20-tickets",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "d41b1e967ace92b4ad6c276a8751280c7393c5d8e6b1eb8fdb657b3c87785274",
+    "drand_seed_hash": "8be400fcb2bc2e64c46245046f69cfd0ec6158947809b21d6c8abb9186ff8b15e151c9f19a9eb2683fc7fa726cdcecc2",
+    "client_seed": "1791748112219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9,
+    "max_tickets": 20,
+    "combined_hash": "e98148b06aed7de856ae06c21575b23917f0a5796542db92c007247f2b8eb04f",
+    "result": "6",
+    "external_round_id": "32981585",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:48:32.000000Z",
+    "revealed_at": "2026-10-11T19:48:39.000000Z"
+}
