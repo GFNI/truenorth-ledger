@@ -1,0 +1,22 @@
+{
+    "round_id": "9102a5ff-dbff-4ed6-9fe7-96103819d966",
+    "draw_title": "CREED AVENTUS 240ML OR £400 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/creed-aventus-240ml-or-ps400-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "f791e548b523dc05e1f8db7dcf27f72648ccd416c4ffaae96026e3c8ff0e4304",
+    "drand_seed_hash": "b479d8ac3304d97046470ecb08e9ac770720ef7f7b29b87129022c1138310c7c94c3d4e068716b91ca269da4a5220fb8",
+    "client_seed": "1791749506304",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 356,
+    "max_tickets": 1099,
+    "combined_hash": "765c209f541c72c027f2acb6cfb39bd622e2da4bb94adfc04b3d1c0f6b1f7b65",
+    "result": "773",
+    "external_round_id": "32982050",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:11:46.000000Z",
+    "revealed_at": "2026-10-11T20:11:54.000000Z"
+}
