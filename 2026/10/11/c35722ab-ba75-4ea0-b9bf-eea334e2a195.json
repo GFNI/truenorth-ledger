@@ -1,0 +1,22 @@
+{
+    "round_id": "c35722ab-ba75-4ea0-b9bf-eea334e2a195",
+    "draw_title": "Duck Race - LIVE ON FACEBOOK",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/duck-race-live-on-facebook",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "2e8c443754c27e34ede434937fb54055e22313f6eba12ed6521da66f6d72ade1",
+    "drand_seed_hash": "a1e990588c7390fba0dc31e6cc582a9f61b031dc6d64acfa80a2a0ead8b414de4380176afc9dd57dd0b7e529abd6c141",
+    "client_seed": "1791749357382",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36,
+    "max_tickets": 100,
+    "combined_hash": "d4feea0a453318fdb4305218d6f2184b6a1921ae35be18a487b9acfe10512b92",
+    "result": "21",
+    "external_round_id": "32982000",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:09:17.000000Z",
+    "revealed_at": "2026-10-11T20:09:24.000000Z"
+}
