@@ -1,0 +1,22 @@
+{
+    "round_id": "1b267511-6ebd-4ac7-8789-9c26576cc513",
+    "draw_title": "Win A Brand New PS5 For Just £1.99!",
+    "competition_url": "https://expcomps.com/admin/products/win-a-brand-new-ps5-for-just-ps199",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "d02272b71111284ee55c4b0b764241391b0612c0687dcc4ec124f1d9d487c66e",
+    "drand_seed_hash": "8d7d80097dec4e6d2ea232bc9c4d9926e4c56d105da6b8ce8cb130240b504cff23b569dc49b2b9713abcf64b4e0218d8",
+    "client_seed": "1791749451227",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 460,
+    "max_tickets": 599,
+    "combined_hash": "9d85139897f754544a0f8f5d33067b68c438b187eb4f4a575a8a4168556895eb",
+    "result": "281",
+    "external_round_id": "32982031",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:10:51.000000Z",
+    "revealed_at": "2026-10-11T20:10:57.000000Z"
+}
