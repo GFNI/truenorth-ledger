@@ -1,0 +1,22 @@
+{
+    "round_id": "e2768aed-c7d9-4c65-b5e3-a70c3d931017",
+    "draw_title": "Money Grows On Trees - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/moneytree",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "8ab02ffa03de9be76be6d61079b386ca917d0ee71a63ef5fe9a773b8fa5a0800",
+    "drand_seed_hash": "85ec6fbfffe4aa2dd549d20ce4ffcb944bedd67d9ca973f66072331e75809ea7d38795427ccb11bf7f2864816924e848",
+    "client_seed": "1791747402430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "ab489127f2e489fdc4e1ed0a6705391f1c3c0f1d031cf6ba0e5bd037018a6c64",
+    "result": "232748",
+    "external_round_id": "32981348",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:36:42.000000Z",
+    "revealed_at": "2026-10-11T19:36:49.000000Z"
+}
