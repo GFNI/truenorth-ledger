@@ -1,0 +1,22 @@
+{
+    "round_id": "c7b6505e-eb39-4339-95d4-d0d79d853df3",
+    "draw_title": "TEST",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/test",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "32eee8755ae49a3c3f1003bb3a778ca8bac286e7d35c1566f04641e1439aa785",
+    "drand_seed_hash": "81765f4a1cc1b49f7afd9ca97697493cd7ff9dd82db80c691c397035233db724c1868b5e6a32669aa9745ce4bac9729e",
+    "client_seed": "1791744554895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 5000,
+    "combined_hash": "7f53b79e90d4862ece4e096e910e7f70a0d203728e8313751c517eadef415ea8",
+    "result": "4592",
+    "external_round_id": "32980399",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T18:49:14.000000Z",
+    "revealed_at": "2026-10-11T18:49:21.000000Z"
+}
