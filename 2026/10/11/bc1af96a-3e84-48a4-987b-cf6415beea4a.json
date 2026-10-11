@@ -1,0 +1,22 @@
+{
+    "round_id": "bc1af96a-3e84-48a4-987b-cf6415beea4a",
+    "draw_title": "Microwave & Air Fryer",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/microwave-air-fryer",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "86adb19b10935e40c2e639fe6b5c456bff163fc54ef7049487978935e9bc7161",
+    "drand_seed_hash": "86241e3711efc66b55669744a4b2413c06cbaf9aa3a22e27a1cf10b49bf3f0b417c6b2737e8988400dc893af093eaf3c",
+    "client_seed": "1791746577296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 140,
+    "max_tickets": 300,
+    "combined_hash": "1f6e93c31a2bbe6303503205f25e1ca11fb12e3478ccf4de23d691bc152dd4e1",
+    "result": "4",
+    "external_round_id": "32981073",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:22:57.000000Z",
+    "revealed_at": "2026-10-11T19:23:03.000000Z"
+}
