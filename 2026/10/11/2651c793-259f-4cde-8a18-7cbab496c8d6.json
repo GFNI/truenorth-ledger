@@ -1,0 +1,22 @@
+{
+    "round_id": "2651c793-259f-4cde-8a18-7cbab496c8d6",
+    "draw_title": "GUCCI GIGLIO TOTE BAG OR £1,000 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/gucci-giglio-tote-bag-or-ps1000-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "59533ffbaa66a3d9dcd20038b0b522c6d3dc984a35205c1981cdfcfec4a56700",
+    "drand_seed_hash": "8c010dc6d8d057256af3e69041ea5bd23608e2683022bdea3295f6853c22d0e9998f8380b63bdecf2385278e93635456",
+    "client_seed": "1791749748687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 601,
+    "max_tickets": 1499,
+    "combined_hash": "2ef39ba5398dee66f5fd02c5184b8a5f818203e1bed05747f0dc81516175bcf3",
+    "result": "18",
+    "external_round_id": "32982130",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:15:48.000000Z",
+    "revealed_at": "2026-10-11T20:15:54.000000Z"
+}
