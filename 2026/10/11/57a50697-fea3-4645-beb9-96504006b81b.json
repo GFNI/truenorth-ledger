@@ -1,0 +1,22 @@
+{
+    "round_id": "57a50697-fea3-4645-beb9-96504006b81b",
+    "draw_title": "Nuclear Spin to win. Huge instants wins",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/nuclear-spin-to-win-huge-instants-wins",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "8a95f5750962352fe5312beb56d315232bc0a480723435eea0f61bc083d5979f",
+    "drand_seed_hash": "8bbf1a8baf8a94ceb53239664770314225bb7fa1a01d51834a4d5b495c76842b2159f92973b94855669b4066496c78e6",
+    "client_seed": "1791745926390",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 748,
+    "max_tickets": 15000,
+    "combined_hash": "73af56dcdffc83d040129771f4a3e846d094df05e11f8ee396ac2e5138405c9e",
+    "result": "8532",
+    "external_round_id": "32980856",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:12:06.000000Z",
+    "revealed_at": "2026-10-11T19:12:12.000000Z"
+}
