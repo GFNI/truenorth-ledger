@@ -1,0 +1,22 @@
+{
+    "round_id": "4e0f5cf2-8f4a-4c96-a377-fba28eac3185",
+    "draw_title": "Free £50 M&S  Voucher",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/free-ps50-ms-voucher",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "9a71e2cea2f1f1f6cf6f7f9e8e1f0c36dc72589118a7ea7ab3644c563328087f",
+    "drand_seed_hash": "884b6cfeefab22974c3c5d5c71e74438508bf6c97c60a819e0a746f434eddd841c8d1e32a510c94337ff93dfea8c30bb",
+    "client_seed": "1791752552532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 769,
+    "max_tickets": 2500,
+    "combined_hash": "4e0a6a50e0c96fb586ce4fd567ca626f40d40a481af4736e73da308081c08748",
+    "result": "1735",
+    "external_round_id": "32983064",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T21:02:32.000000Z",
+    "revealed_at": "2026-10-11T21:02:36.000000Z"
+}
