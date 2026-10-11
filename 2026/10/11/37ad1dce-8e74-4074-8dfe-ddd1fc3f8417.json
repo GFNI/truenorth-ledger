@@ -1,0 +1,22 @@
+{
+    "round_id": "37ad1dce-8e74-4074-8dfe-ddd1fc3f8417",
+    "draw_title": "MULBERRY BLUE BAYSWATER TOTE",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/mulberry-blue-bayswater-tote",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "8d4fb52baee6bd22639c2a0c6c543876b4334b86ed6c17a99e623393c0195282",
+    "drand_seed_hash": "a5de4d8ce3c93b75cc256d9e12415ec93ca861dee47e1af019072e7547da01543ed0a962f5f8acc7cf826e814920e59b",
+    "client_seed": "1791749556543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 472,
+    "max_tickets": 999,
+    "combined_hash": "1174ffe19e3b998e200809b7a30f50365e495cbe45e853235f69d234c0488dd2",
+    "result": "404",
+    "external_round_id": "32982066",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:12:36.000000Z",
+    "revealed_at": "2026-10-11T20:12:42.000000Z"
+}
