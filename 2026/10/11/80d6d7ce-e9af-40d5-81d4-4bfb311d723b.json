@@ -1,0 +1,22 @@
+{
+    "round_id": "80d6d7ce-e9af-40d5-81d4-4bfb311d723b",
+    "draw_title": "FREE GIVEAWAY POKÉMON TCG POWER PACK BUNDLE",
+    "competition_url": "https://magmacomps.co.uk/admin/products/free-giveaway-pokemon-tcg-power-pack-bundle",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "f188eef0a8c2d6310ee3d95d3df969042d64ac13698fa0e98c38615c5ad0ca99",
+    "drand_seed_hash": "867ec5799718a01125190344919b14cb769913ad07a19c5106bc3b2b1c3697e7bc28fbba6fb3a2fc80a78403ce8c1639",
+    "client_seed": "1791749433545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 244,
+    "max_tickets": 5000,
+    "combined_hash": "7d98b462446ff917e4a0a447dd020b45d77e9cf7ed8b7d40c36209748465a09a",
+    "result": "2686",
+    "external_round_id": "32982025",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:10:33.000000Z",
+    "revealed_at": "2026-10-11T20:10:39.000000Z"
+}
