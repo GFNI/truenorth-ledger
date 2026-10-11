@@ -1,0 +1,22 @@
+{
+    "round_id": "dfff3f27-abbc-492c-ad2f-92e7edbe6f8e",
+    "draw_title": "1oz Perth Mint Silver Bar",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/1oz-perth-mint-silver-bar",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f90d1d6181bd0d10ddc492a9e1087cd1e22c5997edd11bc362effda47a4cb816",
+    "drand_seed_hash": "ac2b2c9f1f97ba5e90de632e8cc13df5aafbf8315c4107f0fa7bf9114164e998aef7990db37006e834c1a1960096960b",
+    "client_seed": "1791746655616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136,
+    "max_tickets": 220,
+    "combined_hash": "618558349505d2df75df574a6b9a9459818de42b16d5ba3d19ebceda7d710d18",
+    "result": "86",
+    "external_round_id": "32981099",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:24:15.000000Z",
+    "revealed_at": "2026-10-11T19:24:21.000000Z"
+}
