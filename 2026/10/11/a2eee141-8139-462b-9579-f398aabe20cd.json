@@ -1,0 +1,22 @@
+{
+    "round_id": "a2eee141-8139-462b-9579-f398aabe20cd",
+    "draw_title": "POKÉMON INSTANTS ⚡ 37 INSTANT WINS + ETB MAIN PRIZE | 99P A TICKET",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/pokemon-instants-37-instant-wins-etb-main-prize-99p-a-ticket",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "50f2e1bd0a13298d3b915ad3c465949cfe96bda48a9d5eab10d673c62816f5a3",
+    "drand_seed_hash": "80cc01f68ebfbefec318d1fe2656be96673dd9182bf79ee98689c4ced8d07e3e247a733480efbe1c5791bd97f81c0c20",
+    "client_seed": "1791744684747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1310,
+    "max_tickets": 1310,
+    "combined_hash": "a2b477dadc5562df5b68079bdbb311b2297710bc7e70e57ddbbb7f6f56442362",
+    "result": "295",
+    "external_round_id": "32980442",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T18:51:24.000000Z",
+    "revealed_at": "2026-10-11T18:51:30.000000Z"
+}
