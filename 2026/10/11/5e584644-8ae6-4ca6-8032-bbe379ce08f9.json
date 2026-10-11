@@ -1,0 +1,22 @@
+{
+    "round_id": "5e584644-8ae6-4ca6-8032-bbe379ce08f9",
+    "draw_title": "2026 Samsung 65\" TV",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/2026-samsung-65-tv",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "848a7d4ed012c85f17cf0786882692727bf9ca6a44eb3be80d66ec9dd47ce93f",
+    "drand_seed_hash": "83ed5437ede585075c3f2924f9a5633b1c0499575bbd42d0754768ce9ce1355052f9c9e90f6d68180e172a1e0098d986",
+    "client_seed": "1791749323556",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999,
+    "max_tickets": 999,
+    "combined_hash": "9a3af41e0bd0955a9f23f770c6e6167e1940714ac5e0b1787f5615a017f0c185",
+    "result": "109",
+    "external_round_id": "32981989",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:08:43.000000Z",
+    "revealed_at": "2026-10-11T20:08:51.000000Z"
+}
