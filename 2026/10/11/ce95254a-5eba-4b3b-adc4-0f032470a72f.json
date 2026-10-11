@@ -1,0 +1,22 @@
+{
+    "round_id": "ce95254a-5eba-4b3b-adc4-0f032470a72f",
+    "draw_title": "Monkey madness 🙉",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/monkey-madness-instant-reveal",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "6ab674cd0feb2622b2f523d53acb3f7282e112640b335238f49b0f2a3e837960",
+    "drand_seed_hash": "8d78f379978b09cfe87147d4d79560bec442e670e2c974a40b4d4add4c7c02adc0cf65ccb3b2736b4b008dad6105a817",
+    "client_seed": "1791749222609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 611874,
+    "max_tickets": 999999,
+    "combined_hash": "cf9acec80574cfcc0226ae096e37e3f6a7056fe8037d285d67e388a78b532e64",
+    "result": "986616",
+    "external_round_id": "32981955",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:07:02.000000Z",
+    "revealed_at": "2026-10-11T20:07:09.000000Z"
+}
