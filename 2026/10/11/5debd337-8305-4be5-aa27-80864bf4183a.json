@@ -1,0 +1,22 @@
+{
+    "round_id": "5debd337-8305-4be5-aa27-80864bf4183a",
+    "draw_title": "LUSH halloween bundle",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/lush-halloween-bundle",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "f4aac104797cd2cb9401a6015b9b13f8353517b54545613266444417d8ef18a5",
+    "drand_seed_hash": "b133f1a260c60a42bda9d78109c23933c726c775ae606eec9f8df1c1db6af2fd9d7629e23cd54a21667104623d6adbe0",
+    "client_seed": "1791745580849",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 157,
+    "max_tickets": 250,
+    "combined_hash": "6ba4de956f06906024d622aaa94421280d7e89cf0f39b6b38dd0da5d6e48e599",
+    "result": "18",
+    "external_round_id": "32980741",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T19:06:20.000000Z",
+    "revealed_at": "2026-10-11T19:06:27.000000Z"
+}
