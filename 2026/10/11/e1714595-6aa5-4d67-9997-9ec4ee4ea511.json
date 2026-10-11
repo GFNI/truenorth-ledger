@@ -1,0 +1,22 @@
+{
+    "round_id": "e1714595-6aa5-4d67-9997-9ec4ee4ea511",
+    "draw_title": "POKEMON INSTANT WIN BOOSTER! #1",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/pokemon-instant-win-booster-1",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "9b81f5ad1277200bb276b73fe318be860cd3be3d143dfbc090b8c209c55fffe7",
+    "drand_seed_hash": "a5afe6af29f0ab0f6c0761ce7a8b092ebc0b7968e3ef697198d6448d768e97f41dae4ea39a3d8d53fc9bc074d409159b",
+    "client_seed": "1791749478128",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 79,
+    "max_tickets": 300,
+    "combined_hash": "2221d4d6b80551ccebad21535d38cac4e4f9b2dbf48063108133f3f44e792d9f",
+    "result": "239",
+    "external_round_id": "32982040",
+    "processing_status": "completed",
+    "created_at": "2026-10-11T20:11:18.000000Z",
+    "revealed_at": "2026-10-11T20:11:24.000000Z"
+}
