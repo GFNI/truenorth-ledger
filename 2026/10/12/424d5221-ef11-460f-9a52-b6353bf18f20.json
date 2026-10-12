@@ -1,0 +1,22 @@
+{
+    "round_id": "424d5221-ef11-460f-9a52-b6353bf18f20",
+    "draw_title": "Win £100 For 1p 💰 Daily Draw - Monday",
+    "competition_url": "https://topdogprizes.com/admin/products/win-ps100-for-1p-daily-draw-monday-15",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "fb96d7f3953f7882535e4a3d6b4b36fcc268c715d06db14dcefa531da3d900e5",
+    "drand_seed_hash": "8a8edb45448758ccf766ff0de35971294a1872663d09ad3f5835662701b9b167f2e392cb5a7525078780466972c2b172",
+    "client_seed": "1791839491863",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10274,
+    "max_tickets": 21999,
+    "combined_hash": "05cdeabef39ee07f764581556d5626ec64f5ebab3225adb93c1723425b88c9e6",
+    "result": "4550",
+    "external_round_id": "33012045",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T21:11:31.000000Z",
+    "revealed_at": "2026-10-12T21:11:39.000000Z"
+}
