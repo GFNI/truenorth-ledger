@@ -1,0 +1,22 @@
+{
+    "round_id": "ba68e9c8-8bf1-4097-9d84-36db170efcc3",
+    "draw_title": "💤 Velvet Ottoman Bed with Winged Headboard + Mattress 💤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/velvet-ottoman-bed-with-winged-headboard-mattress",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9416ff9dff088e7134b45ed8931b7f30dce1b3a2063f761df3a90205dbb7e927",
+    "drand_seed_hash": "8108eda9f23c58deb36f19fe257cb15ff8d71e2f722094dd83482abbc622c86f97d3348376722c05b4f0beb78c09a1b1",
+    "client_seed": "1791834285095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1200,
+    "max_tickets": 1200,
+    "combined_hash": "db421dc42f7e6279186b7abb02ecb4a22c0c406e2c8e818efdce41a47e34414f",
+    "result": "796",
+    "external_round_id": "33010309",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:44:45.000000Z",
+    "revealed_at": "2026-10-12T19:44:51.000000Z"
+}
