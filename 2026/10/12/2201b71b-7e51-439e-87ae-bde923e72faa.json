@@ -1,0 +1,22 @@
+{
+    "round_id": "2201b71b-7e51-439e-87ae-bde923e72faa",
+    "draw_title": "Grab A Grand Over £100,000 to be won!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/grab-a-grand-over-ps100000-to-be-won",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "07f31115ba3db5e3b6990db0af726c095de4ea640149c885b48f020513707fe9",
+    "drand_seed_hash": "a13bd0f636227cd46923e3cc4c235f050eb5c03ff6ce5e966bf62fd712d918e31e3f5ddb04c478f293bb447f539704fc",
+    "client_seed": "1791832140213",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2499999,
+    "max_tickets": 2499999,
+    "combined_hash": "c9ddefbb8fa2aaff7701bf54531d185a1369ff1193e717c5790f653af369a394",
+    "result": "560535",
+    "external_round_id": "33009594",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:09:00.000000Z",
+    "revealed_at": "2026-10-12T19:09:06.000000Z"
+}
