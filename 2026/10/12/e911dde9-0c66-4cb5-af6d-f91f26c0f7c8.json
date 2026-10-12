@@ -1,0 +1,22 @@
+{
+    "round_id": "e911dde9-0c66-4cb5-af6d-f91f26c0f7c8",
+    "draw_title": "£200 Pyramid",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ps200-pyramid",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "8529361d581fbe817d2d08f75a9da4226113dbb5d0dabb3482d9011b0309408c",
+    "drand_seed_hash": "b84d241ede5d11e8aecccc198a6503622315769fc203759d09c65c8cf411340ab63edbfa518ce9ed5203e5fde54c755c",
+    "client_seed": "1791833348401",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13653,
+    "max_tickets": 36300,
+    "combined_hash": "28c023c46a9aae7ee357051e2c78b164dd4572a382ae32384a1f58b5689e1b42",
+    "result": "9689",
+    "external_round_id": "33009997",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:29:08.000000Z",
+    "revealed_at": "2026-10-12T19:29:15.000000Z"
+}
