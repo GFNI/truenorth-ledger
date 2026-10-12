@@ -1,0 +1,22 @@
+{
+    "round_id": "85e96324-1370-4e59-9d3c-4a3d7e74ddbb",
+    "draw_title": "🔴ODDS BOOSTER -5 WINNERS OF 1000 ENTRIES INTO THE BMW M2 COMPETITION",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-5-winners-of-1000-entries-into-the-bmw-m2-competition",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "952c69b41105118fdbde7aed4fd451520e1ae2b0ab9be27ff34f87dae88e5827",
+    "drand_seed_hash": "b23c5843890ed3b0725b55337c8a4c0828651f03e66ab63996304c9e691c534f6317ace6b642037306a71d84d08224d4",
+    "client_seed": "1791828660251",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 229,
+    "max_tickets": 500,
+    "combined_hash": "efda1876e0c3d93731ebab99ec54f3c098b87026933a4c3eae971840028664b4",
+    "result": "400",
+    "external_round_id": "33008434",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T18:11:00.000000Z",
+    "revealed_at": "2026-10-12T18:11:06.000000Z"
+}
