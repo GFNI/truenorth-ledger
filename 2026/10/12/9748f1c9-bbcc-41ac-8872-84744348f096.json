@@ -1,0 +1,22 @@
+{
+    "round_id": "9748f1c9-bbcc-41ac-8872-84744348f096",
+    "draw_title": "Glasgow OR Edinburgh XMAS",
+    "competition_url": "https://ogcompetitions.co.uk/lists/glasgow-or-edinburgh-xmas-market-break",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "d28f178225a58addf5aa69f3d345ce800f49b4e6d790c4f9089218b5e4d17b20",
+    "drand_seed_hash": "8f6868b2053729d357611ac14470699909b58ee93d075622f683c57ce74084fa159ee09a6722e03462fedfa05ead8501",
+    "client_seed": "1791840095483",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 1600,
+    "combined_hash": "b3b58a33dd33a337767489a11d5d5c8cb09f0e2d161b0524721a8aafa974d38a",
+    "result": "500",
+    "external_round_id": "33012246",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T21:21:35.000000Z",
+    "revealed_at": "2026-10-12T21:21:45.000000Z"
+}
