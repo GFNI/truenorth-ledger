@@ -1,0 +1,22 @@
+{
+    "round_id": "113484be-70b9-4129-a7d2-162c97241ef5",
+    "draw_title": "2K PENNY TO PLENTY",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/2k-penny-to-plenty",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "ad40b2676a0f69886363f9f1f4be51adf0f36921d50fee43f4c7035c0a6d1930",
+    "drand_seed_hash": "a2843f9c184f9ca305cb3b22eb1c34bcd3ee9c2e07d02abda1c9b9d8e201575114c63569f80176b572146026a399f8dc",
+    "client_seed": "1791832387874",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 102967,
+    "max_tickets": 300000,
+    "combined_hash": "70aa5294287cc21b594817838b482f48f66e40742ad5ca8414e8efdd0e54bb4f",
+    "result": "245553",
+    "external_round_id": "33009677",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:13:07.000000Z",
+    "revealed_at": "2026-10-12T19:13:15.000000Z"
+}
