@@ -1,0 +1,22 @@
+{
+    "round_id": "96eccca2-7e31-4e68-8015-ff92c50d253c",
+    "draw_title": "8P INSTANT WINS",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/8p-instant-wins-4130",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "0d92fe4f67557826e1fdc3ad9783cc16edfbb2b6dcf5807cf654a4089ed94cf2",
+    "drand_seed_hash": "9129059c3b5fa727800810b1b4eb464347b4ee63e34cda72e2065d21c8a300a95b3cb55dd31c3219e727f6c34b6f6925",
+    "client_seed": "1791839477847",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 29750,
+    "max_tickets": 70000,
+    "combined_hash": "60346e1df9929c84fd0469bbcf8d61bebe7288d9e645998235539c8fa28f68d7",
+    "result": "51633",
+    "external_round_id": "33012040",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T21:11:17.000000Z",
+    "revealed_at": "2026-10-12T21:11:24.000000Z"
+}
