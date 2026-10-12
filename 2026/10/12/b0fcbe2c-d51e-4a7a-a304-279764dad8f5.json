@@ -1,0 +1,22 @@
+{
+    "round_id": "b0fcbe2c-d51e-4a7a-a304-279764dad8f5",
+    "draw_title": "🏆Bmw M2 Competition🏆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bmw-m2-competition",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "77f09548f3184452f306e112b96f414c344bdf8737d738fdd1118edf1cc31d06",
+    "drand_seed_hash": "822da062c017543c45e93f77deb02ccec0c5828e06d525a7b0049bc2acc4fce0adc2fc769a29b2f5c22b72b05bfc903c",
+    "client_seed": "1791835056196",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44022,
+    "max_tickets": 48000,
+    "combined_hash": "4c3509ef5b768b3ef5a46f47b3b10a082e093c72f40dc7591a5a23b1f1c8b097",
+    "result": "6093",
+    "external_round_id": "33010566",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:57:36.000000Z",
+    "revealed_at": "2026-10-12T19:57:42.000000Z"
+}
