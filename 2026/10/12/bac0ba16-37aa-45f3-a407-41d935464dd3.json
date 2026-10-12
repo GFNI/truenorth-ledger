@@ -1,0 +1,22 @@
+{
+    "round_id": "bac0ba16-37aa-45f3-a407-41d935464dd3",
+    "draw_title": "£150 M&SS",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-ms-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "75aa4945717c84e83f6be04ebd49ef30f939eb55c4a7cb2282efb87e8f3f101b",
+    "drand_seed_hash": "833b199cce207d7e50a216b4d5584009a0daa4ab8e87ec036e482257146093dd8454e3176905f3dd5126eb61392f9369",
+    "client_seed": "1791839975246",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "2417d87ca44cab05b693da8f9730b9aa4f3d79a039b66ff897810d530246af7b",
+    "result": "125",
+    "external_round_id": "33012206",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T21:19:35.000000Z",
+    "revealed_at": "2026-10-12T21:19:44.000000Z"
+}
