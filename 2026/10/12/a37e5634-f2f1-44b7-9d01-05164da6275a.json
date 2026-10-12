@@ -1,0 +1,22 @@
+{
+    "round_id": "a37e5634-f2f1-44b7-9d01-05164da6275a",
+    "draw_title": "🔔 Eufy Video Doorbell E340 Premium Home Bundle 🔔",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/eufy-video-doorbell-e340-premium-home-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d1fbdcd462aa0db482795c41fd369b25154ceaef4a2ad1f9cd234f15bed37151",
+    "drand_seed_hash": "878422e77b08f60e28699109f95b97d18f3358fd781a8f44047038b039652347b840f31f6c3935ef67c3e5bb6e8030af",
+    "client_seed": "1791833726661",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 762,
+    "max_tickets": 985,
+    "combined_hash": "4b69d7132601e7299a34baa92bb41d7f684729e44f2d45b1cc7c5db9914eb965",
+    "result": "595",
+    "external_round_id": "33010123",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:35:26.000000Z",
+    "revealed_at": "2026-10-12T19:35:33.000000Z"
+}
