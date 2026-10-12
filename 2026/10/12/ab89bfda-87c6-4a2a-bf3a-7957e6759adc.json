@@ -1,0 +1,22 @@
+{
+    "round_id": "ab89bfda-87c6-4a2a-bf3a-7957e6759adc",
+    "draw_title": "Win £1500 cash!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-ps1500-cash-3",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "6a3c8ba392aaab884d85c6529f212aae00b1dc32cb2981b8677cc99ca57aed79",
+    "drand_seed_hash": "862c9201f7e634818c62b60497ee3887556b84df75cc554758d170e416398ffc57c9352db6405611af29d127c50facde",
+    "client_seed": "1791834063370",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1493,
+    "max_tickets": 2299,
+    "combined_hash": "ebcae9d739915947d013d729830bc26f6944fab933a652f4f6af757a933c48d5",
+    "result": "1627",
+    "external_round_id": "33010235",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:41:03.000000Z",
+    "revealed_at": "2026-10-12T19:41:09.000000Z"
+}
