@@ -1,0 +1,22 @@
+{
+    "round_id": "8df6bb69-70bf-46d5-8f01-8660ffc0d9c9",
+    "draw_title": "2P and A Dream - £100 End Prize",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/2p-and-a-dream-ps100-end-prize-7",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "0cb92aeac216b3acc1a76d209b97bf6981d26c933e34449174875028b02b673b",
+    "drand_seed_hash": "b899e947b21220c1a41764cefc4ddbbef8726fcd6338a64c18f6c76152b91fb84887318825fe69ed65460627b1d48258",
+    "client_seed": "1791835374524",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 130815,
+    "max_tickets": 250000,
+    "combined_hash": "7c79799c287b7874dbb2d1f56d89d9157ca3706e5f5f6283d8c2fc203c7cd066",
+    "result": "206653",
+    "external_round_id": "33010672",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:02:54.000000Z",
+    "revealed_at": "2026-10-12T20:03:00.000000Z"
+}
