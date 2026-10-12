@@ -1,0 +1,22 @@
+{
+    "round_id": "8c4314f7-4209-4f92-94cd-95c6af402ef0",
+    "draw_title": "Foxy Fivers",
+    "competition_url": "https://chaotic.co.uk/competition/foxy-fivers",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c08f9cfbd0655cfa45575c267fc3ed123183491d6ff9a27559d694c11961d4fb",
+    "drand_seed_hash": "91711964a647094caa39348879eccf88052dec150beaabf937926e7906f83e6ffa9c19105f763e089e25edaac65beeeb",
+    "client_seed": "1791835130239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "c26f682f568c4f896389f909a9040b8ff433b1b8ff24e08794cdaeb1e3060cce",
+    "result": "1507",
+    "external_round_id": "33010591",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:58:50.000000Z",
+    "revealed_at": "2026-10-12T19:58:57.000000Z"
+}
