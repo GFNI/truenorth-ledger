@@ -1,0 +1,22 @@
+{
+    "round_id": "58f912ea-a59b-4899-8801-54f4039a1a7a",
+    "draw_title": "Tech Drop",
+    "competition_url": "https://chaotic.co.uk/competition/tech-drop-6728",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8dd4eeb78ce208584f7aab288c9e662d30f43684d4a4fb08e3a87db5f0fe15cb",
+    "drand_seed_hash": "94407940900321540e586ed4df12c4bf1cdc5f8869ccca0ba8c1a1127cb80c2f29813547ee67e93eee4b826b72a45392",
+    "client_seed": "1791835000991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49999,
+    "max_tickets": 49999,
+    "combined_hash": "31c342a5647f8c5a60bf0029ba32b4ccfc6e2070e8fa3d8d973802efa55c9d10",
+    "result": "21439",
+    "external_round_id": "33010548",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:56:41.000000Z",
+    "revealed_at": "2026-10-12T19:56:48.000000Z"
+}
