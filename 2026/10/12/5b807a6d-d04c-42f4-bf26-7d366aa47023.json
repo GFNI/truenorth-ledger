@@ -1,0 +1,22 @@
+{
+    "round_id": "5b807a6d-d04c-42f4-bf26-7d366aa47023",
+    "draw_title": "Float or Fall 🎈",
+    "competition_url": "https://redlemonx.co.uk/admin/products/float-or-fall",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "d9a557d4f5a94d6e00f4db0eb522cc613f9583e514cc40466ea82a59e4722a23",
+    "drand_seed_hash": "8a68725f099fc3b663b45ce99650a89772e85816053ceba78e7cf488f48e2cd85313753276a17a9edddbf53c55b17d5e",
+    "client_seed": "1791833100738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4641,
+    "max_tickets": 7500,
+    "combined_hash": "ccc0685fd3a1796ee3aafd6852a76613ac3e36cfc2b1ff81fdfe2e20c56b6712",
+    "result": "5621",
+    "external_round_id": "33009914",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:25:00.000000Z",
+    "revealed_at": "2026-10-12T19:25:06.000000Z"
+}
