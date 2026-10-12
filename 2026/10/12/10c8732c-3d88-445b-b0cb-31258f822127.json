@@ -1,0 +1,22 @@
+{
+    "round_id": "10c8732c-3d88-445b-b0cb-31258f822127",
+    "draw_title": "🏍️M2R Racing KX110F 110cc Pit Bike🏍️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/m2r-racing-kx110f-110cc-pit-bike",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "59f8816f8f27fb77c487f88488f1824a13d09e86a7e33d81674e8a115b2999e4",
+    "drand_seed_hash": "8232e2676e1940b63913bd4241d813475fae039ef6c14350205ee967d3045232e21dffd878f910a3da254f11edfca51b",
+    "client_seed": "1791834441551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 840,
+    "max_tickets": 1220,
+    "combined_hash": "bdcb89cf1ea683ae2a9a4e052f3a5608087eb51f7802b75e969ed3aecbaf86f3",
+    "result": "142",
+    "external_round_id": "33010361",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:47:21.000000Z",
+    "revealed_at": "2026-10-12T19:47:27.000000Z"
+}
