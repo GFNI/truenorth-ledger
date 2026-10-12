@@ -1,0 +1,22 @@
+{
+    "round_id": "08bb97e5-f2b4-41e7-b1b7-f1ea5dc3cdb0",
+    "draw_title": "Penny Bingo",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/penny-bingo",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "3a9bdd3ee39060e0c5c7a9c2aac8eb7944ff5ad61686b3e3f7da5605a9b6edfa",
+    "drand_seed_hash": "872fa043f91674e06845b5fc8a625a5070217954fc407f56757cf28140d6e6fdf8c90797b29b7dbce58afc1e219deced",
+    "client_seed": "1791835933782",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 429898,
+    "max_tickets": 1250000,
+    "combined_hash": "dc6576dc8db68cc2627d8ee989995090a26d2f95014708e2eb6663909640f7c8",
+    "result": "1246845",
+    "external_round_id": "33010859",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:12:13.000000Z",
+    "revealed_at": "2026-10-12T20:12:21.000000Z"
+}
