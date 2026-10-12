@@ -1,0 +1,22 @@
+{
+    "round_id": "b2433793-6dba-4315-8a26-51706b4c33af",
+    "draw_title": "£7500 - Scratch me if you can",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps7500-scratch-me-if-you-can",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "cafb98a8659bf25279ea652240a474acdb8f247ee0cf5ab108802e0ee2939a9f",
+    "drand_seed_hash": "990cf48f4693939b463e1d79574bb4d4c55000dcab5cc51743f97030deb180edfa1b8bd869ab94162f8a722c3e62b92f",
+    "client_seed": "1791838478084",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5869,
+    "max_tickets": 13500,
+    "combined_hash": "fc461cf4165ebc27ebbe6d236ebbfa031d706261b59fbdb84d5852a006af2d76",
+    "result": "12385",
+    "external_round_id": "33011707",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:54:38.000000Z",
+    "revealed_at": "2026-10-12T20:54:45.000000Z"
+}
