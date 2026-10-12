@@ -1,0 +1,22 @@
+{
+    "round_id": "037077dd-731d-47a3-a304-7f69355907a6",
+    "draw_title": "WIn a Stanley Cup",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/win-a-stanley-cup",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "db7974abebeff6f67630937169d9037ab9daae8d9ddbc2f287398a56dd8d0425",
+    "drand_seed_hash": "98e8876c76e63148cfb4127d27f327fbda47d7c1786ef4bfe28161703556a35266438d56e566cfd2aca7c2fc388d5309",
+    "client_seed": "1791835963970",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 90,
+    "combined_hash": "b236a95ef04c114e7fcea8263de3a60d83d96c5d40ccdebd6c5a4f97cc5cf068",
+    "result": "61",
+    "external_round_id": "33010869",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:12:44.000000Z",
+    "revealed_at": "2026-10-12T20:12:51.000000Z"
+}
