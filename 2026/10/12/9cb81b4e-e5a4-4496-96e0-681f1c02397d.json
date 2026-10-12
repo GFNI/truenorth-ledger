@@ -1,0 +1,22 @@
+{
+    "round_id": "9cb81b4e-e5a4-4496-96e0-681f1c02397d",
+    "draw_title": "Lucky Lady’s Charms",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/lucky-ladys-charms",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "1a1894c982806c8fdcaaa010ec082f1becdb1b3a911fc85ed98795e83fc7f404",
+    "drand_seed_hash": "8878ced3ac1c0593bbd1344e1939c3ed2a7439c9cd56869c63926f2b988005503bee9dddcada362f1479fed297577282",
+    "client_seed": "1791843012906",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3723,
+    "max_tickets": 160000,
+    "combined_hash": "5b1148507655d36ee7b4bd844c02bdd044f9f26f5a08d4d6455e033e892fd153",
+    "result": "20316",
+    "external_round_id": "33013218",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T22:10:12.000000Z",
+    "revealed_at": "2026-10-12T22:10:18.000000Z"
+}
