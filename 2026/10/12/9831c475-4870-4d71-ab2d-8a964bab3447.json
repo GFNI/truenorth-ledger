@@ -1,0 +1,22 @@
+{
+    "round_id": "9831c475-4870-4d71-ab2d-8a964bab3447",
+    "draw_title": "🎄 Jellycat Christmas Bundle 🎄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/jellycat-christmas-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "55bcd5e4a4c24f7ef1324b44ed72864b5ccd7407e5453f975fcd5333bd091ed2",
+    "drand_seed_hash": "b350de308d2eba2e94c8905c7c45579e53d16ee187b9a83af3b533f3c0a195efd2b6e2b48cbc0d55bf180a5f415a4d1f",
+    "client_seed": "1791832871765",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1195,
+    "max_tickets": 1195,
+    "combined_hash": "5d561edf51e30f9cc57ed2a5cb06ae3f201d5e212b803a9d299a7fb1278805d5",
+    "result": "928",
+    "external_round_id": "33009838",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T19:21:11.000000Z",
+    "revealed_at": "2026-10-12T19:21:18.000000Z"
+}
