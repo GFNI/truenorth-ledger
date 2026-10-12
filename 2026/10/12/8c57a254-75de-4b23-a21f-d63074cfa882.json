@@ -1,0 +1,22 @@
+{
+    "round_id": "8c57a254-75de-4b23-a21f-d63074cfa882",
+    "draw_title": "Digging For Bones",
+    "competition_url": "https://chaotic.co.uk/competition/digging-for-bones",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "bab0b49178f6d82a607d1a542443af2a4261ca3937fcc732b5f1c326e789eca1",
+    "drand_seed_hash": "966e1a06a72fe51f98647a88879f03d5fe43b04ab652d84b57e9c0c20750420e888bb607ddff610abbedcbf488e99bf1",
+    "client_seed": "1791835369804",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150000,
+    "max_tickets": 150000,
+    "combined_hash": "7062ff718d0137c77892be10efe4628bf099cf98c11ada8e983ceb2fd605e18c",
+    "result": "62289",
+    "external_round_id": "33010671",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:02:49.000000Z",
+    "revealed_at": "2026-10-12T20:02:57.000000Z"
+}
