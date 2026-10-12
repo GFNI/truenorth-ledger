@@ -1,0 +1,22 @@
+{
+    "round_id": "03a5a466-870f-43fd-85f4-9f0109f5c248",
+    "draw_title": "Steal £150 for 5p",
+    "competition_url": "https://giveawaycompetition.com/admin/products/steal-ps150-for-5p",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "ea10117c36937cc95b49fb03eba944a159fae223569f27f75f1e06428d07a771",
+    "drand_seed_hash": "b336a8629dd9b6e18c327cbdff845d4a05ea132c44c8c2b1d58a78a92aaf7431677f77623e4766298ff7f3d0ef0c5a0c",
+    "client_seed": "1791838433661",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1585,
+    "max_tickets": 6000,
+    "combined_hash": "f92c62db42de027c3c7723d7bf702b38d4c5bfce62539c19f9b7b66ea6da9ae3",
+    "result": "4346",
+    "external_round_id": "33011692",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T20:53:53.000000Z",
+    "revealed_at": "2026-10-12T20:54:00.000000Z"
+}
