@@ -1,0 +1,22 @@
+{
+    "round_id": "3d0e9357-c243-4be1-bf88-bbf9eab6c41e",
+    "draw_title": "PENNIES TO POUNDS - £100 MAIN PRIZE",
+    "competition_url": "https://Cosmiccomps.co.uk/admin/products/pennies-to-pounds-ps100-main-prize-3",
+    "operator": {
+        "name": "Cosmic comps",
+        "website": "https://Cosmiccomps.co.uk",
+        "company_number": "Sole trader"
+    },
+    "drand_server_seed": "8cad020a1b3a7ef6fade1b32b481a04ac60804b7db34a9d531267401c32018ea",
+    "drand_seed_hash": "af9c5765a2bb7fc6f26cf43499dd7abb238b13ffca029983ff91714cf4630aeed6c1e97f5e7f57aa608cd8b251e7903a",
+    "client_seed": "1791839546679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 170388,
+    "max_tickets": 500000,
+    "combined_hash": "a26e9b9ee25db9ea31c7f08e7f0e7ed627f5d90d32be0e68b5f768ba8ee4cfb4",
+    "result": "486531",
+    "external_round_id": "33012063",
+    "processing_status": "completed",
+    "created_at": "2026-10-12T21:12:26.000000Z",
+    "revealed_at": "2026-10-12T21:12:33.000000Z"
+}
