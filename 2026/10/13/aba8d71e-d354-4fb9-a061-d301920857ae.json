@@ -1,0 +1,22 @@
+{
+    "round_id": "aba8d71e-d354-4fb9-a061-d301920857ae",
+    "draw_title": "Odds Booster for Bowmore Anthology Series No1",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/odds-booster-for-bowmore-anthology-series-no1",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "ea56fb48a931795425f68c4707ad1de7d27357bd11a1b30bfad630aadcbc41c8",
+    "drand_seed_hash": "a37b8c166064395f2fabf78c052ff13bc1893abc852d6bed82ce4326de05c13ef1b2ae937ec7f4ccb5ca6f9d436c7577",
+    "client_seed": "1791911463932",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "4ea2fa166cc89c5c4372c491710d803aa1dd9c1d310b0ab092f5bdc39183d403",
+    "result": "3",
+    "external_round_id": "33036036",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T17:11:04.000000Z",
+    "revealed_at": "2026-10-13T17:11:12.000000Z"
+}
