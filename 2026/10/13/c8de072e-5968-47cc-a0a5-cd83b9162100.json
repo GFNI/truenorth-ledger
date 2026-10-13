@@ -1,0 +1,22 @@
+{
+    "round_id": "c8de072e-5968-47cc-a0a5-cd83b9162100",
+    "draw_title": "💦 Baldy’s Leaky Pipe",
+    "competition_url": "https://toolvaultcomps.co.uk/admin/products/baldys-leaky-pipe",
+    "operator": {
+        "name": "toolvaultcomps",
+        "website": "https://toolvaultcomps.co.uk",
+        "company_number": "17222475"
+    },
+    "drand_server_seed": "16e24e8761ee45515fb7b05f513f10d2b26bcca9dc0448e07665a30225af17d0",
+    "drand_seed_hash": "8eafab23b6982e0ef1a9cdf17926cdc610ae49d8f6870985e79a60282a9eba12c9aac0e0e329b4ed2133f6f7d6c5527e",
+    "client_seed": "1791921794693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 620,
+    "max_tickets": 9999,
+    "combined_hash": "402189b168b5827155ff8d156b0f13bf19423419ea8aa328e143c725185d163d",
+    "result": "2062",
+    "external_round_id": "33039479",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:03:14.000000Z",
+    "revealed_at": "2026-10-13T20:03:21.000000Z"
+}
