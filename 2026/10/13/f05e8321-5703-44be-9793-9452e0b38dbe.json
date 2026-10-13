@@ -1,0 +1,22 @@
+{
+    "round_id": "f05e8321-5703-44be-9793-9452e0b38dbe",
+    "draw_title": "Moolah Mayhem - Whack a Win",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/moolah-mayhem-whack-a-win",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "c6618b9f87395144d1df7c2788cc7301e35e3ea39d08e7bdd10e5724348529e0",
+    "drand_seed_hash": "82d22ea571c49380847e7874e35beb8297bf92cfa88f53bb234b79f827fbfe02e7129537130a9caebb7066c5bd63992d",
+    "client_seed": "1791922182676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7859,
+    "max_tickets": 49999,
+    "combined_hash": "ca97d5154c0c34cc814c5beea70cd6886b7257a9fa1d915f720da4732234dd8e",
+    "result": "26889",
+    "external_round_id": "33039608",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:09:42.000000Z",
+    "revealed_at": "2026-10-13T20:09:48.000000Z"
+}
