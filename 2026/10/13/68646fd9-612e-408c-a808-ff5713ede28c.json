@@ -1,0 +1,22 @@
+{
+    "round_id": "68646fd9-612e-408c-a808-ff5713ede28c",
+    "draw_title": "WIN £100 OF ENTRIES INTO THE MAIN DRAW - AUDI A3 BLACK EDITION #3",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/win-ps100-of-entries-into-the-main-draw-audi-a3-black-edition-3",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "3d293f1949c07d1c7f73495ec10c1505a63ef99070030d297a26c926ca6b7fda",
+    "drand_seed_hash": "94435625b99effe8f5ea27f90f0b295148a81f38504a531159c0fec62c1cef6f93080e94afa0f9eccdb03e75ea95e978",
+    "client_seed": "1791922269526",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 125,
+    "combined_hash": "51a7c68e3c661c4f02945782a51134fda905a5148d2c75e977e761da0707d923",
+    "result": "9",
+    "external_round_id": "33039637",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:11:09.000000Z",
+    "revealed_at": "2026-10-13T20:11:15.000000Z"
+}
