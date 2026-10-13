@@ -1,0 +1,22 @@
+{
+    "round_id": "73f18212-3f50-43c3-bdd0-56fdaa094a54",
+    "draw_title": "2023 KING CHARLES III GOLD DOUBLE LAUREL",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-king-charles-iii-gold-double-laurel",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "5053aa8b61c788d67733188dc93adbd093a4e1da4613cc795a3d1e6e552e6840",
+    "drand_seed_hash": "b7883e2254f329ccfef15cb4b3c4faaa9ad3af408e601e59380398fb7911160ecc17a803b4e4c7994c1d0d3435601e1c",
+    "client_seed": "1791922242988",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 918,
+    "max_tickets": 1750,
+    "combined_hash": "1b4ab13a2241b2dc440c590d249608e09a16b5688390a049f7f97dce16dfd9a0",
+    "result": "372",
+    "external_round_id": "33039629",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:10:43.000000Z",
+    "revealed_at": "2026-10-13T20:10:51.000000Z"
+}
