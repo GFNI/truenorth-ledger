@@ -1,0 +1,22 @@
+{
+    "round_id": "16b73fb6-ec15-4dac-a6a6-d990fa6f301c",
+    "draw_title": "WIN THIS EDRADOUR 12 CASK STRENGTH BATCH 8!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-edradour-12-cask-strength-batch-8",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "dc1796b4c66a7b0facf4db461e737093df486d2d3fcb36a05cdd0247c0986d76",
+    "drand_seed_hash": "adda97bfd73e5bf92e1e2e3e8c74484154113b424eb5bc48462e582d6b1888bb8ed1bb02a25065e79e57c89aa1b7b940",
+    "client_seed": "1791911822902",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "3fed8c37f41c6a04cb1b632c7cc3f1cec95291ff19cbdfba95cc560f5f0feea4",
+    "result": "56",
+    "external_round_id": "33036155",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T17:17:03.000000Z",
+    "revealed_at": "2026-10-13T17:17:09.000000Z"
+}
