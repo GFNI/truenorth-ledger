@@ -1,0 +1,22 @@
+{
+    "round_id": "1cdda54d-0c62-433d-b2df-8bf5c7f35702",
+    "draw_title": "Bowmore Sherry Single Cask",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/bowmore-sherry-single-cask",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "47e9bd740fafee2cdeb4d801102cb11301cb436e9708071e8bda906b41b9746a",
+    "drand_seed_hash": "83162716681bd5bc79e57c4661e2b8717e9ce9f42cc7e4e1837af6b19fff77d761e4aaefea6f499887c1176ff5a915a0",
+    "client_seed": "1791922257873",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71,
+    "max_tickets": 75,
+    "combined_hash": "109f9ef2f1eaaa8113db82d3410ea78bc2ed180ab1b2343ec4771e7d9420f47f",
+    "result": "6",
+    "external_round_id": "33039633",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:10:57.000000Z",
+    "revealed_at": "2026-10-13T20:11:03.000000Z"
+}
