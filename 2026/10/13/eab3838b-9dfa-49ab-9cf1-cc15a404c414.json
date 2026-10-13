@@ -1,0 +1,22 @@
+{
+    "round_id": "eab3838b-9dfa-49ab-9cf1-cc15a404c414",
+    "draw_title": "🐾 PETS WIN PRIZES! 🐶🐱 🦴 WIN UP TO £7,000 INSTANTLY! 💰 PLUS £1,500 MAIN DRAW SPLIT 6 WAYS — 6 WINNERS! 🏆🐾",
+    "competition_url": "https://winnersclubni.com/admin/products/pets-win-prizes-win-up-to-ps7000-instantly-plus-ps1500-main-draw-split-6",
+    "operator": {
+        "name": "winners club ni",
+        "website": "https://winnersclubni.com",
+        "company_number": "NI694008"
+    },
+    "drand_server_seed": "7fd820a536d82c08525cba1ccd971b1919ee336508453fdaf5d45b19e4efc0ef",
+    "drand_seed_hash": "89f65527978a13fa6d4db3686ecfda2ea4766ebe19388255338266cbab9cfcaab278100c59ea44c3bb72c7047c67dac9",
+    "client_seed": "1791918802923",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70066,
+    "max_tickets": 430303,
+    "combined_hash": "bf89a36c4b2f3cfd09985ae77505bd629c293ba420e7b1c4a95b1598990cda38",
+    "result": "323755",
+    "external_round_id": "33038482",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T19:13:23.000000Z",
+    "revealed_at": "2026-10-13T19:13:30.000000Z"
+}
