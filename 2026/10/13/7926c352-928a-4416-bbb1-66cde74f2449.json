@@ -1,0 +1,22 @@
+{
+    "round_id": "7926c352-928a-4416-bbb1-66cde74f2449",
+    "draw_title": "Golden Ticket Tueaday",
+    "competition_url": "https://ogcompetitions.co.uk/lists/golden-ticket-tuesday",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "7a2df575fbf6c0fd1fd30e356629a366dc97a15264b14def930ddcd6594d4648",
+    "drand_seed_hash": "98fa3e7337ab60ddb20761649b74f4cc62f4d632e2dd3aef4fab038a65d9f5a3f0ad4ab4772ffd49f62d04756900da4e",
+    "client_seed": "1791921947823",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "23e962fbf3a794590c7820dc6293e4896a123749f08eb144858e005e31079cd6",
+    "result": "228",
+    "external_round_id": "33039530",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:05:47.000000Z",
+    "revealed_at": "2026-10-13T20:05:57.000000Z"
+}
