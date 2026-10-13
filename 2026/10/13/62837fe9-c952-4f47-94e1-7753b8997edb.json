@@ -1,0 +1,22 @@
+{
+    "round_id": "62837fe9-c952-4f47-94e1-7753b8997edb",
+    "draw_title": "£15K VAMPIRE’S VAULT",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps15k-vampires-vault",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "c713b4357668365d591ae3ae975d8ee64a19f05b37824608aae000e1d57b3f4e",
+    "drand_seed_hash": "b2a0f8497e0f387cbb8d8c41c1a02aff7f7c5f6673fd6789a054b014a174ee48d5e3b98be9936eb02194a6e7542aeaa8",
+    "client_seed": "1791922520055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 252119,
+    "max_tickets": 750000,
+    "combined_hash": "bf723b60dcf5258ead9df740a26162d5e47dd1de7834d784801b43e0beab9c43",
+    "result": "508736",
+    "external_round_id": "33039721",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:15:20.000000Z",
+    "revealed_at": "2026-10-13T20:15:27.000000Z"
+}
