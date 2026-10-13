@@ -1,0 +1,22 @@
+{
+    "round_id": "06c476f0-73eb-4183-b9cb-d1ed0bf5cae3",
+    "draw_title": "Full set of Octomore Series 17",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/full-set-of-octomore-series-17",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "97e2c87eef7031b479011c10c204b086b38645ddb9237d2ba16995de29ccfe4e",
+    "drand_seed_hash": "8ba680427da1cb8051c417c7be3cfc609ccf91fef920a0d955e18ade49dca8102bb6a254f0088a1dadbffdf0c0bf9d3f",
+    "client_seed": "1791922584551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "86e28b6fee3d0ea9f783aaca751d7476715fd2440da7931dfed890658163e03c",
+    "result": "89",
+    "external_round_id": "33039742",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:16:24.000000Z",
+    "revealed_at": "2026-10-13T20:16:30.000000Z"
+}
