@@ -1,0 +1,22 @@
+{
+    "round_id": "71af1014-0a6d-410c-9148-c91abfc64f6e",
+    "draw_title": "2002 GOLDEN JUBILEE HALF SOVEREIGN CUFFLINKS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2002-golden-jubilee-half-sovereign-cufflinks",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3b36a5342c9eb64895be6e689c5d6ef8f05bbb00778251bf9003f80fc152a053",
+    "drand_seed_hash": "a60ff8f746377761358013b0fdd7c3c4cab402fcaeeb9e7165cc4e1ab38c8c7e6b8c30ea8baaa9610caad5bad4448093",
+    "client_seed": "1791922186670",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 572,
+    "max_tickets": 1250,
+    "combined_hash": "cfb6bf4c46980c9501d304f87f5106053876b3a41434e7a0b43128a6f30965e6",
+    "result": "92",
+    "external_round_id": "33039610",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:09:46.000000Z",
+    "revealed_at": "2026-10-13T20:09:54.000000Z"
+}
