@@ -1,0 +1,22 @@
+{
+    "round_id": "d44858df-1ba3-4158-9a5e-c2fc21129aaf",
+    "draw_title": "Our First Competition",
+    "competition_url": "https://the900club.co.uk/admin/products/our-first-competition",
+    "operator": {
+        "name": "The 900 Club LTD",
+        "website": "https://the900club.co.uk",
+        "company_number": "SC901243"
+    },
+    "drand_server_seed": "a1bde17435518d06c7cb3610ecb45d5f40b595d6a6ed8cf08bf4ab8d87761143",
+    "drand_seed_hash": "b929b99fd2358edfad88ec26a81d0ee29cec99ac6a2e699e637cbb9d5f2de4af166f01392febe7595164448302d6e56b",
+    "client_seed": "1791919214476",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 314,
+    "max_tickets": 900,
+    "combined_hash": "80899c45b1e3b78d631e342fc1c298531cd97f83b147acbfbe06737a4360ab7e",
+    "result": "821",
+    "external_round_id": "33038619",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T19:20:14.000000Z",
+    "revealed_at": "2026-10-13T19:20:21.000000Z"
+}
