@@ -1,0 +1,22 @@
+{
+    "round_id": "baf9fb21-3429-450a-9921-9a20188acabd",
+    "draw_title": "🧹WE'RE GOING ON A WITCH HUNT!🧹",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/were-going-on-a-witch-hunt",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "7daf9994b414902b1baa2bff6f6cea50086e12b4f1d292b01d02f527e676309c",
+    "drand_seed_hash": "906a23bc5f1e5c62688bfefe44f0c081b8754f41f8cd89152e3a17c2fc9a9f7979ecfee4d9013da5ffa1cf32aaf46b1e",
+    "client_seed": "1791915068291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4325,
+    "max_tickets": 27000,
+    "combined_hash": "69fd3dc50c5121b8f8ddf564d5a554feb86162734e476c17fbc6c816fdfeb966",
+    "result": "122",
+    "external_round_id": "33037237",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T18:11:08.000000Z",
+    "revealed_at": "2026-10-13T18:11:15.000000Z"
+}
