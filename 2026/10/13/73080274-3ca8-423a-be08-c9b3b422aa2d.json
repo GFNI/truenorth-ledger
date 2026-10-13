@@ -1,0 +1,22 @@
+{
+    "round_id": "73080274-3ca8-423a-be08-c9b3b422aa2d",
+    "draw_title": "Bunnahabhain 19YO - Single Cask",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/bunnahabhain-19yo-single-cask",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "2f2064dd0b463ad4186ca7ec617cc8ec5666f6cb4012e473fc865880719e389d",
+    "drand_seed_hash": "81c9a2c6a8dc950a8021662f7f78defd75fe17d9c54c9558d7f54cdf04317aab7d0680560356bb089a4f4b3d0f4ef66e",
+    "client_seed": "1791922466181",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 85,
+    "combined_hash": "aaf8b3c0cf8a25d4262144b740150fc16cfea1e04ab543dc1e33b10b4cec197f",
+    "result": "25",
+    "external_round_id": "33039703",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:14:26.000000Z",
+    "revealed_at": "2026-10-13T20:14:33.000000Z"
+}
