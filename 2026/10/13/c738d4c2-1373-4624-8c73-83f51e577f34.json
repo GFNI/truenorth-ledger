@@ -1,0 +1,22 @@
+{
+    "round_id": "c738d4c2-1373-4624-8c73-83f51e577f34",
+    "draw_title": "MONSTER STONE-SET BELCHER NECKLACE & BRACELET",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/monster-stone-set-belcher-necklace-bracelet",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "8783e34ab37bda5def0f734d5d58f89c2df83ce6c474e2330f08fc9d6ebd23b1",
+    "drand_seed_hash": "a02ca7aa3a571e43d8e0f60731331a85a6a3fb303fd676072019c013e0d21500bd3aeac7d66bcd39b69bf5dabb6b385c",
+    "client_seed": "1791922104638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 943,
+    "max_tickets": 3000,
+    "combined_hash": "8d3f0cc9d52e412990aaa5743b12a2d6cace64bebade3a450daaef23d9aacfa9",
+    "result": "118",
+    "external_round_id": "33039582",
+    "processing_status": "completed",
+    "created_at": "2026-10-13T20:08:24.000000Z",
+    "revealed_at": "2026-10-13T20:08:30.000000Z"
+}
