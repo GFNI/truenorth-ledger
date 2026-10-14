@@ -1,0 +1,22 @@
+{
+    "round_id": "3d6b6e0a-038a-4df9-9ed5-c6657cd9b044",
+    "draw_title": "MYSTERY ARCADE - £75,000 INSTANT WINNER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/mystery-arcade-ps75000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "36dc2dd448b7b08c5d24f489165a421596821fe21ea3a48c9dd772403d4a3cc6",
+    "drand_seed_hash": "971f77139334e8f710d048202823c29858cad86bccf93473366f80bdfe190bcf74a2be79d6738c6e155aed5c3e686835",
+    "client_seed": "1792006796998",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 111537,
+    "max_tickets": 3000000,
+    "combined_hash": "2fba1fed87f5dd429c556b1bbddd641d75ef6308fcf7d24ac4e12ba19b61aef2",
+    "result": "279472",
+    "external_round_id": "33067813",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:39:57.000000Z",
+    "revealed_at": "2026-10-14T19:40:03.000000Z"
+}
