@@ -1,0 +1,22 @@
+{
+    "round_id": "6c3b96c7-f59c-4b38-891b-e152f7160b73",
+    "draw_title": "Win £25 worth of tickets into Ridgemonkey Connect Pan & Griddle XXL + Instant Wins - 2p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-ridgemonkey-connect-pan-griddle-xxl-instant",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "ec1d8c9e5ddd516a010300da5f9db25fce8613eb10a047f4168ebecba809e58d",
+    "drand_seed_hash": "87047d764b2c7dedf26d5190854d8a7ae1dece22e4d0f06ef8ed9bd60f07aeaae09b05995298475b20fd82877c104bcc",
+    "client_seed": "1791997815620",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1035,
+    "max_tickets": 1750,
+    "combined_hash": "cd70dbfed9491c5e689f293cf727355b62fca40ebc0a53ac5ef55e01f039c3cd",
+    "result": "1626",
+    "external_round_id": "33064819",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T17:10:15.000000Z",
+    "revealed_at": "2026-10-14T17:10:21.000000Z"
+}
