@@ -1,0 +1,22 @@
+{
+    "round_id": "f4c490b8-7c43-49ce-b881-0e6e71ca81cf",
+    "draw_title": "Happy Dumplings Advent Calendar",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/happy-dumplings-advent-calendar",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "726f2eb7a846e8ccaffcfd93f86d844efe76190c5d2b77a8a99c0bdff2e15c69",
+    "drand_seed_hash": "ac88a2f9085e44b226a9098b8005383277112265b6c339c1fad840cc1f9627da39ee0e99a7f6fd849484e4636a0c6bde",
+    "client_seed": "1792005021512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 118,
+    "max_tickets": 300,
+    "combined_hash": "5c22f7363dc2d2f129db1f3ec234954db014b554ec015bb0c588f80f0689372c",
+    "result": "53",
+    "external_round_id": "33067221",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:10:21.000000Z",
+    "revealed_at": "2026-10-14T19:10:28.000000Z"
+}
