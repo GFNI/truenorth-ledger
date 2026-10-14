@@ -1,0 +1,22 @@
+{
+    "round_id": "9ea080ff-40d2-4fde-b973-2a6609fa65a2",
+    "draw_title": "The Everlasting Ticket Takeover!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/the-everlasting-ticket-takeover2",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "c12b6440ce6ab3065d61a0ab6ac6f08eb4d532cb62b6f9c5735e554b7a9b0608",
+    "drand_seed_hash": "92b1e2065c5e932d6b859d570ec3517ea405ed054d16631a26e130280d398fada76c2826eae6323a12b3ad96023ee0da",
+    "client_seed": "1791981535428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6134,
+    "max_tickets": 33333,
+    "combined_hash": "93e24a402781e040fa2262157f2082f27f2372f35d9d6a8ba5b1ec7473940a19",
+    "result": "26945",
+    "external_round_id": "33059393",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T12:38:55.000000Z",
+    "revealed_at": "2026-10-14T12:39:03.000000Z"
+}
