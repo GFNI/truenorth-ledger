@@ -1,0 +1,22 @@
+{
+    "round_id": "e93cbebd-a35d-4c12-919b-a2c66dec413d",
+    "draw_title": "Milwaukee Advent",
+    "competition_url": "https://ogcompetitions.co.uk/lists/milwaukee-advent-calendar-or-ps80-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "92ea179ffb896ac34f9bdce7212fff949fee0f97bfd56fdfc8be803cd83486d1",
+    "drand_seed_hash": "b58e51445c14dab7fdaf807b57d0efc9fb3a669b9df07a9375ec0503bd1d0045f089c9f5d71d0302233406fac8488ba8",
+    "client_seed": "1792012463618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 800,
+    "combined_hash": "1323df25b53ef36bb323f5eafbdbaeb5138c07a8c40e31b38f038fa4d83f5974",
+    "result": "500",
+    "external_round_id": "33069702",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:14:23.000000Z",
+    "revealed_at": "2026-10-14T21:14:33.000000Z"
+}
