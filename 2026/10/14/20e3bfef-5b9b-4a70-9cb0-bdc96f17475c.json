@@ -1,0 +1,22 @@
+{
+    "round_id": "20e3bfef-5b9b-4a70-9cb0-bdc96f17475c",
+    "draw_title": "As Easy As 123 - £123 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/easyas123",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "ac3dcaab106584671aac968e799929307e24a6ac47b5841e64d95f6b29ce5eed",
+    "drand_seed_hash": "900bfbf143d80b373481e45f48c71a564488028c41bb07369b5588fa6f049d8f7b7181ed3c4ac4556a11654017e55581",
+    "client_seed": "1792006603131",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 127636,
+    "max_tickets": 250000,
+    "combined_hash": "be02408b4cd504399c369bed2c526e0b1b3166c3a7577ffdd5c4d1e6ef8a5498",
+    "result": "228031",
+    "external_round_id": "33067749",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:36:43.000000Z",
+    "revealed_at": "2026-10-14T19:36:51.000000Z"
+}
