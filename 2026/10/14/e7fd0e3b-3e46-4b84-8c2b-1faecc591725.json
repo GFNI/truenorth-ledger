@@ -1,0 +1,22 @@
+{
+    "round_id": "e7fd0e3b-3e46-4b84-8c2b-1faecc591725",
+    "draw_title": "Jellyfish Aquarium",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/jellyfish-aquarium",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "1085df15e536e7556c4338d4d9660bfda10eb1fc1b0a5496c075277182f7dccb",
+    "drand_seed_hash": "8df4f9903b4220417d159bd4df0d48fe59de51db7cf70fbf996d553c2dc8b262d0280d264fad07b1de3b6cfd1bdd5ec3",
+    "client_seed": "1792005528133",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 84,
+    "max_tickets": 220,
+    "combined_hash": "5473aedbd57e5be8fc09ba2719e1f8c8b64c466e8758f2f555afd6fa7782e2b2",
+    "result": "33",
+    "external_round_id": "33067390",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:18:48.000000Z",
+    "revealed_at": "2026-10-14T19:18:54.000000Z"
+}
