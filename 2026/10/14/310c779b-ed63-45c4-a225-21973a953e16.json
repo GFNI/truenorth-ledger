@@ -1,0 +1,22 @@
+{
+    "round_id": "310c779b-ed63-45c4-a225-21973a953e16",
+    "draw_title": "🎃👻 HIP HIP’S TRICK OR TREAT 👻🎃",
+    "competition_url": "https://hiphipprizehub.com/admin/products/hip-hips-trick-or-treat",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "3ed95f3fcc965fd403b0793f12d5510722a2d7d197770f09057b568adfbe65b0",
+    "drand_seed_hash": "92709a741267bacb169690b940933ae4137d444dc9d9e023585ba0dafa705f4ccacc87ef8a5a43ac2f12f0b239b33530",
+    "client_seed": "1792008899558",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1400,
+    "max_tickets": 1400,
+    "combined_hash": "9d106016ab9232d29555383ec81ea99e3356497718c005e92d096ca9bdab374f",
+    "result": "1262",
+    "external_round_id": "33068514",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T20:14:59.000000Z",
+    "revealed_at": "2026-10-14T20:15:06.000000Z"
+}
