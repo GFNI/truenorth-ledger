@@ -1,0 +1,22 @@
+{
+    "round_id": "a21f403f-16eb-4140-947a-6108f1ea2af3",
+    "draw_title": "Mrs Hinch Woodland Wonder",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/mrs-hinch-woodland-wonder",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "01404addac59198890cecd26262534e0ad1d7a0cc9b6257e621f307ec15fea2a",
+    "drand_seed_hash": "8826bdc89dd0585f08b6edf1d2ddb5c36fc6ccff7bc21bb8d224406bdf1b2abe18e5bc116ee70dc5a532303a8edeca92",
+    "client_seed": "1792005007090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 139,
+    "max_tickets": 400,
+    "combined_hash": "982871fe7bed36fe161acded224484338e4f6833ad174f43ce6bd911f5de8dd6",
+    "result": "25",
+    "external_round_id": "33067217",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:10:07.000000Z",
+    "revealed_at": "2026-10-14T19:10:15.000000Z"
+}
