@@ -1,0 +1,22 @@
+{
+    "round_id": "a8cb7bae-4fc8-459f-ba21-a3a7d3e33314",
+    "draw_title": "£500 Golfbreak Voucher",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/golfbreak",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "24aea035190443173b3637c898c1bb6dae2d3cb395d130aeca50f8f2318b2aed",
+    "drand_seed_hash": "8af5b23032eb92555f4fbe54279c1d09504c173e117f1ed065ace0a77ea5b25471ac4bb880c0b58eaef4c4aa6cb3ad63",
+    "client_seed": "1792006925503",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 295,
+    "max_tickets": 400,
+    "combined_hash": "8ea0994bcc1e64e61ecca818e03a05db3e30e3129d603a061a0940789b33f5ca",
+    "result": "111",
+    "external_round_id": "33067856",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:42:05.000000Z",
+    "revealed_at": "2026-10-14T19:42:12.000000Z"
+}
