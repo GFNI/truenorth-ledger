@@ -1,0 +1,22 @@
+{
+    "round_id": "96d09820-c1e0-4bae-a57d-3c8280ca043b",
+    "draw_title": "Win 4 tickets to see Disney On Ice at P&J Live in Aberdeen!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-4-tickets-to-see-disney-on-ice-at-pj-live-in-aberdeen",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "ae7776fe321080eced34cc67d85dd8ae89eda512f2bdef771260a93d62219456",
+    "drand_seed_hash": "b25612e260d09b4a58f324462e08da24ac5cb3bcecb68439e33435345dec55054fa09e02f4282cfd8e76415b8206bdbe",
+    "client_seed": "1792008796262",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116,
+    "max_tickets": 199,
+    "combined_hash": "37793ed7c1df9a0b59906b7c095a581dfe21c0e4f8688e89992bfe11c68230ee",
+    "result": "16",
+    "external_round_id": "33068480",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T20:13:16.000000Z",
+    "revealed_at": "2026-10-14T20:13:24.000000Z"
+}
