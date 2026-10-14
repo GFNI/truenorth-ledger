@@ -1,0 +1,22 @@
+{
+    "round_id": "82468a8e-abf2-4249-bc55-9690eba558eb",
+    "draw_title": "SCOTCH n SCRATCH! BRAND NEW BALVENIE!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/scotch-n-scratch-brand-new-balvenie",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "0669add76b1ab608d975a2e06a30e14c8e8f4018f047beef60c534d4d65e686a",
+    "drand_seed_hash": "83797ff9995978140c7a507b76bf88f04161b23bc622e2b711091fb2957ff48d9ca3821880607db3400f86ffd43bfcfe",
+    "client_seed": "1792012240018",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3234,
+    "max_tickets": 9999,
+    "combined_hash": "b4a73d192c04644afbbdb50fbd511a3529b9783053aef8c741605401ac98a9ee",
+    "result": "3380",
+    "external_round_id": "33069628",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:10:40.000000Z",
+    "revealed_at": "2026-10-14T21:10:48.000000Z"
+}
