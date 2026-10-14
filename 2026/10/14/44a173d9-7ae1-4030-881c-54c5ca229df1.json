@@ -1,0 +1,22 @@
+{
+    "round_id": "44a173d9-7ae1-4030-881c-54c5ca229df1",
+    "draw_title": "WIN AN XBOX SERIES X + GRAND THEFT AUTO VI!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-an-xbox-series-x-grand-theft-auto-vi",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "65e4e5a2b501e7008815750e71fcd73a81b3aafc45103af757aab6dec1d7476c",
+    "drand_seed_hash": "84ed555fba49ec2aadfcfaa4e0a566dcbc67d8f4f67b42ce7c6753e2a25d549066e25a9a01e83c3bd263c25264320fd3",
+    "client_seed": "1792009070443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 631,
+    "max_tickets": 1199,
+    "combined_hash": "10107578d8f225d9a3a4e0fe8cf7bd1f9fd8e056dd8f030ba96a95c6cbe1dc89",
+    "result": "464",
+    "external_round_id": "33068571",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T20:17:50.000000Z",
+    "revealed_at": "2026-10-14T20:17:57.000000Z"
+}
