@@ -1,0 +1,22 @@
+{
+    "round_id": "928172e3-a5fb-4d55-8e72-cf41c06afdbb",
+    "draw_title": "The Cash Father",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/the-cash-father",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "6ca6867a75f8306d2209b530b87b1541fd3732219e4b9c6fd7153a0bd7646995",
+    "drand_seed_hash": "a7c274f43807015e067954eaa6d92a73262abd27e92b1130687b15cf0f23e2680ad4834f355ed125b3966404aa6a399e",
+    "client_seed": "1792011869417",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 285762,
+    "max_tickets": 2000000,
+    "combined_hash": "ac78cb551221f7ef5d2592e7f03268f7787b3e3b4db546f0988c17e7afbbb161",
+    "result": "1398061",
+    "external_round_id": "33069504",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:04:29.000000Z",
+    "revealed_at": "2026-10-14T21:04:36.000000Z"
+}
