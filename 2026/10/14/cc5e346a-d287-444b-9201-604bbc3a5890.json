@@ -1,0 +1,22 @@
+{
+    "round_id": "cc5e346a-d287-444b-9201-604bbc3a5890",
+    "draw_title": "GARMIN FORERUNNER® 970 OR £400 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/garmin-forerunner-970-or-ps400-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "b0374853ba6be823491f2f648a1860dd8a66505f3c08a25cdf3811e437738298",
+    "drand_seed_hash": "a4602939e36c99eb7be7943b31d68c713e128e58eb4b538a7df98ebe1a24486d415996cb3e9bd7fa26f339a84dee57e3",
+    "client_seed": "1792008941780",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248,
+    "max_tickets": 649,
+    "combined_hash": "1da4d4a063d0231dad8afc40b440244ca7f3dd3e302f56ebe27f4049fd9180d7",
+    "result": "18",
+    "external_round_id": "33068528",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T20:15:41.000000Z",
+    "revealed_at": "2026-10-14T20:15:48.000000Z"
+}
