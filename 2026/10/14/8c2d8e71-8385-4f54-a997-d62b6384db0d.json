@@ -1,0 +1,22 @@
+{
+    "round_id": "8c2d8e71-8385-4f54-a997-d62b6384db0d",
+    "draw_title": "The Lucky Penny",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/the-lucky-penny-6033",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "b567ad644a2ec9947b011f250afb1b52f9b9c48466ccd3bcc91a1c10b748ed36",
+    "drand_seed_hash": "a1c0fdc4c70d2542de18ced08ba9170c0ecefc2c388a7204ec3e07205f04c9c6db38ee6a8ae12c71e107bed87c7a7cd4",
+    "client_seed": "1792009028099",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 609421,
+    "max_tickets": 3500000,
+    "combined_hash": "bc4a44bba4c51d5a4c5603223bb889494cf01287fe7104e8eebf592b527655d5",
+    "result": "2314973",
+    "external_round_id": "33068557",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T20:17:08.000000Z",
+    "revealed_at": "2026-10-14T20:17:15.000000Z"
+}
