@@ -1,0 +1,22 @@
+{
+    "round_id": "96740be7-2e3f-4e2f-874c-8cf8ce38a9b6",
+    "draw_title": "700W Jumpstarter",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/700w-jumpstarter",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c099eea77d22821d047066d67b7f13b65d35e47b90cb4f6c94d86cc27428d735",
+    "drand_seed_hash": "a36596d8fbc8aca53d6086f8e7825682a4fc5e0628c393f3d52bb1a7c8d5f9319e66dd4fa8f31becd47c796b222e6eab",
+    "client_seed": "1792005652148",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 84,
+    "max_tickets": 220,
+    "combined_hash": "139fd894b2910157bcde1a92fda8cabc9ab0796f6eeaaa57416fafd3cf691c03",
+    "result": "68",
+    "external_round_id": "33067432",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:20:52.000000Z",
+    "revealed_at": "2026-10-14T19:21:00.000000Z"
+}
