@@ -1,0 +1,22 @@
+{
+    "round_id": "a2eb47d8-0225-440a-a317-9e8a98d04640",
+    "draw_title": "CHRISTMAS NEEDOH INSTANT WINS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/christmas-needoh-instant-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "978690543ef56e828b3875678ab35c52d9025ed170ce08dd78c766311e69945a",
+    "drand_seed_hash": "93bf9e59f7869d408d8a9fd9b443fb590c640a21e72ca7fca7cca4313fe2ad0a01c18bf6260c980da7486b7d0932b7aa",
+    "client_seed": "1792018869116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999,
+    "max_tickets": 1999,
+    "combined_hash": "24843f2841e34280d47c87e2e4792e312517d6a433d45117f83a1953bee02911",
+    "result": "1031",
+    "external_round_id": "33071837",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T23:01:09.000000Z",
+    "revealed_at": "2026-10-14T23:01:15.000000Z"
+}
