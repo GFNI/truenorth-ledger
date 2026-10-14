@@ -1,0 +1,22 @@
+{
+    "round_id": "20703090-e9b9-4b67-8a71-bc817d7106d4",
+    "draw_title": "🧱✨ BUILDING SET – WINNER CHOOSES! ✨🧱",
+    "competition_url": "https://hiphipprizehub.com/admin/products/building-set-winner-chooses",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "acea2657bd9a976a79d21b17d1bf340c8902d125d473c716522e5bfe26336f0f",
+    "drand_seed_hash": "8764d3c1e17a219af530d630b79942ea3ddd1413eb2821b7bbdfe278c70eebc1ddac7d8e7068a6c30d791173aeead12c",
+    "client_seed": "1792007705679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 260,
+    "max_tickets": 260,
+    "combined_hash": "93ef0cceac13c52355a9e69c90d22730fe479e76a696b46d8edea67827b00351",
+    "result": "240",
+    "external_round_id": "33068116",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T19:55:05.000000Z",
+    "revealed_at": "2026-10-14T19:55:12.000000Z"
+}
