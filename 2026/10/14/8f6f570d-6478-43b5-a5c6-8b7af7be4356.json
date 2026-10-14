@@ -1,0 +1,22 @@
+{
+    "round_id": "8f6f570d-6478-43b5-a5c6-8b7af7be4356",
+    "draw_title": "Platform 22!",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/platform-22",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "b9367a5a50725578e4c87bec40556a9270f17e179019b4b19a4d25a3529638da",
+    "drand_seed_hash": "a8da6b5db4aff90dab177043b4b139bfa21b9c149353123d4b9cdd1677eef62dad3eaac569672cb15c02bd15f616de98",
+    "client_seed": "1791981841075",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91412,
+    "max_tickets": 222222,
+    "combined_hash": "64f704f11feab971647548dbc857b80552dd5fad66740318484d6c345f332f37",
+    "result": "83021",
+    "external_round_id": "33059495",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T12:44:01.000000Z",
+    "revealed_at": "2026-10-14T12:44:09.000000Z"
+}
