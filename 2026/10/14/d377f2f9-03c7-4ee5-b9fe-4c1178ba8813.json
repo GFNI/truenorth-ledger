@@ -1,0 +1,22 @@
+{
+    "round_id": "d377f2f9-03c7-4ee5-b9fe-4c1178ba8813",
+    "draw_title": "Signatory Showdown! Tomintoul 30 Year Old End Prize!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/signatory-showdown-tomintoul-30-year-old-end-prize",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "1053c2d24f3dfdd101a45f44b838e9e5fa34292af392f3ef61fb09d46b047f0f",
+    "drand_seed_hash": "99e069a06025622bbb1d751ba19d64ed1258200997a4f8f3ec21c30ec610c5747e3cf2e4f668f129211dd4b95a68dfe7",
+    "client_seed": "1792012248521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 384,
+    "max_tickets": 399,
+    "combined_hash": "233dc69e6f163bf63a30a40d2f8f0893e9a0760720d7bf4d21ece26b78b3fd98",
+    "result": "78",
+    "external_round_id": "33069630",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:10:48.000000Z",
+    "revealed_at": "2026-10-14T21:10:54.000000Z"
+}
