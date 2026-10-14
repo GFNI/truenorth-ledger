@@ -1,0 +1,22 @@
+{
+    "round_id": "9cad40fe-688e-4b2c-afb4-2276da3bd8eb",
+    "draw_title": "DEAL OR NO DEAL - ROUND 4 - JACKPOT £1800",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/deal-or-no-deal-round-4-jackpot-ps1800",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "ba35de893d88e5b42d4a0d29bdfb3285f571a7408bab61ad7acf3d8ee9f0dbea",
+    "drand_seed_hash": "94c016ceb194b406245d9839d6da271b604717011b343b93ef02967362ac1d0889ee12e97fc527faa94deddc0cda03a5",
+    "client_seed": "1791987852884",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3154,
+    "max_tickets": 10000,
+    "combined_hash": "349c3728cdc720c4e8644a724504d21c1baaf0ba2978d5cb384bbdfe980f024d",
+    "result": "3109",
+    "external_round_id": "33061498",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T14:24:12.000000Z",
+    "revealed_at": "2026-10-14T14:24:18.000000Z"
+}
