@@ -1,0 +1,22 @@
+{
+    "round_id": "a42d9104-8241-4b3c-8afd-04c49e575bdb",
+    "draw_title": "£250 Cash 1 In 5",
+    "competition_url": "https://ogcompetitions.co.uk/lists/1-in-5-wins-ps250-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8d61e8dcfbe24c8b19e6b92938e242c483308b03220121ed24f364c62d0a3683",
+    "drand_seed_hash": "8739dfaffc6554e0372af8411ef30a83c48c40457b84b359951138d2471323f2dd1578319a83ead03ba40ea5baefe911",
+    "client_seed": "1792012559684",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 5000,
+    "combined_hash": "e9b535d27bbc2478ab3789477e77a0e24908ebb9e7bd97c2eb25784d7345e296",
+    "result": "338",
+    "external_round_id": "33069734",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:15:59.000000Z",
+    "revealed_at": "2026-10-14T21:16:09.000000Z"
+}
