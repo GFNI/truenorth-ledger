@@ -1,0 +1,22 @@
+{
+    "round_id": "1c6273d6-f5e9-44fc-b334-d09cd5732ac4",
+    "draw_title": "Winner Wednesday (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/winner-wednesday-30",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4f253ef6f1d7091f9f1f57d9229b619b75d25a6ac608ed8d686b5e3a16cf9fe7",
+    "drand_seed_hash": "88e8de6d1d5e22d6c98d82930c08eb13a71365afdfb94add90c93e036e8f8de42925231aae4c91f08b035d9af5c5b733",
+    "client_seed": "1792012285775",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "b9d9eb8a539026e6125c9e18c85c942ae9170b40171d257f5199345274b52506",
+    "result": "106",
+    "external_round_id": "33069643",
+    "processing_status": "completed",
+    "created_at": "2026-10-14T21:11:25.000000Z",
+    "revealed_at": "2026-10-14T21:11:33.000000Z"
+}
