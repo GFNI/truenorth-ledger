@@ -1,0 +1,22 @@
+{
+    "round_id": "b4b40c63-b7af-4fd0-ad5b-27cf6e0b5486",
+    "draw_title": "Emoji Hunt",
+    "competition_url": "https://jetcomps.co.uk/admin/products/emoji-hunt",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "551f543980826b56116fab6608fba82eef4c1c123381fcb48bf5231ea47cf0af",
+    "drand_seed_hash": "a21ce3048087e0b44b45d70257d4f1be97e0b3b7bf69d021b90cfe18d42e30a1f303b4128f1249a238786a2bc1ac9bab",
+    "client_seed": "1792092296451",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70976,
+    "max_tickets": 330000,
+    "combined_hash": "37d8d17893bcb69a47ff750d76c7c3727aed5e7f1d24370ed026610e849a7134",
+    "result": "158296",
+    "external_round_id": "33096313",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:24:56.000000Z",
+    "revealed_at": "2026-10-15T19:25:03.000000Z"
+}
