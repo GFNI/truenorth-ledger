@@ -1,0 +1,22 @@
+{
+    "round_id": "573ffad8-2356-4c70-a63e-1232f1fd0434",
+    "draw_title": "Mega Low Odds - £100 Site Credit",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/mega-low-odds-ps100-site-credit",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "70062fd71a0e18a880a671e084492b2c7c1e4d1b22d3db2c55c5d5c46c26f78a",
+    "drand_seed_hash": "a51ed9baecaf4ec181c84326d5521df9086a22d555cf69f05283ff94b898b9583d9bf8a6723703c4b46c77d698779050",
+    "client_seed": "1792094760281",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 40,
+    "combined_hash": "fdb140916d30cb069d8634c6dc6ec1af5ca3b1a7ce74e59721bd5ca319bbab7b",
+    "result": "30",
+    "external_round_id": "33097134",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:06:00.000000Z",
+    "revealed_at": "2026-10-15T20:06:06.000000Z"
+}
