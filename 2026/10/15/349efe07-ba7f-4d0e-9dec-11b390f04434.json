@@ -1,0 +1,22 @@
+{
+    "round_id": "349efe07-ba7f-4d0e-9dec-11b390f04434",
+    "draw_title": "🧸 Grab A Jelly 🧸",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/grab-a-jelly",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "6f82f78ae5b85027d636b5b9451a5fc3feea75d16388947f7e6b6ef9610301ed",
+    "drand_seed_hash": "8495e539f4a3e845599c58c8d68b2c5533df2f2f22155a16adec64532235c88f7b901d6ecfd1aa3e3c140c86a3448f40",
+    "client_seed": "1792098289805",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4300,
+    "max_tickets": 4300,
+    "combined_hash": "f03d10a6009f182945456ac5f01be6ea6190d4a825e4202cd9d24d56f7d59df1",
+    "result": "489",
+    "external_round_id": "33098311",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T21:04:49.000000Z",
+    "revealed_at": "2026-10-15T21:04:57.000000Z"
+}
