@@ -1,0 +1,22 @@
+{
+    "round_id": "61cd7a7d-9efc-4368-8385-07ace4a02ef0",
+    "draw_title": "1969 PRINCE OF WALES INVESTITURE MEDAL",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1969-prince-of-wales-investiture-medal",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "cc97f69165cf5b7e78fd9ef153e9d4b7b6e7918a3b3cff706d2d0dc6ab279786",
+    "drand_seed_hash": "b34fe9ab65cfaf7a254e5b4ce180edc8ecc76bf4a943cb47fa0ec6de7b3c7b7f7086e324e50c69e286f168328c4cc914",
+    "client_seed": "1792104903869",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 212,
+    "max_tickets": 400,
+    "combined_hash": "2af3b63b3ddc27b24e2dda2afe50f39ffe8070f4f763f3d03b602a71a3b3cd68",
+    "result": "347",
+    "external_round_id": "33100515",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T22:55:03.000000Z",
+    "revealed_at": "2026-10-15T22:55:09.000000Z"
+}
