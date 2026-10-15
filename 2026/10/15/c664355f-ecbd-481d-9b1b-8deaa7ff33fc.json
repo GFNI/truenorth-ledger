@@ -1,0 +1,22 @@
+{
+    "round_id": "c664355f-ecbd-481d-9b1b-8deaa7ff33fc",
+    "draw_title": "The Golden Ticket",
+    "competition_url": "https://topdogprizes.com/admin/products/the-golden-ticket",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "34362ba3760b36d404a2ece8fbb374fbc17dfa62cdaa13eebbe8f4fd8b0f343d",
+    "drand_seed_hash": "8553c4bc4d0b98f97a488baabcc8f845de41b3b77355b97049066d45866c86fc17a28930984491af2508b0cbaf3aeeab",
+    "client_seed": "1792091411243",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1344,
+    "max_tickets": 1999,
+    "combined_hash": "b57346f7cef16ec99dccba5a396282b0f910faf5a8d356712de3b189d5cdaa0e",
+    "result": "826",
+    "external_round_id": "33096018",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:10:11.000000Z",
+    "revealed_at": "2026-10-15T19:10:18.000000Z"
+}
