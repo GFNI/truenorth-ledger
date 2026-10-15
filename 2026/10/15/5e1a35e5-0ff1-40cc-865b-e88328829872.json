@@ -1,0 +1,22 @@
+{
+    "round_id": "5e1a35e5-0ff1-40cc-865b-e88328829872",
+    "draw_title": "Holiday Village Turkey",
+    "competition_url": "https://jetcomps.co.uk/admin/products/holiday-village-turkey",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "9d2bb9e047b326b57321f29dd47a682c6092d6f9a9489ea82f5bc6c675ce181e",
+    "drand_seed_hash": "a32f50d1a14ec64233e89db2f12d2d418b0f8c0cdbdb158c644b5df49ba7a147d1b3996ed047c0e056f66b50dcb210be",
+    "client_seed": "1792092731373",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31895,
+    "max_tickets": 69300,
+    "combined_hash": "615a7681848a4d425e01953b9d5c83a30cd3b89d550a57f03b2da79045172791",
+    "result": "16650",
+    "external_round_id": "33096458",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:32:11.000000Z",
+    "revealed_at": "2026-10-15T19:32:18.000000Z"
+}
