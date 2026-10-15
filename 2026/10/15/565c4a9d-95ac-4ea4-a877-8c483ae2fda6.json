@@ -1,0 +1,22 @@
+{
+    "round_id": "565c4a9d-95ac-4ea4-a877-8c483ae2fda6",
+    "draw_title": "THE WHISKY WHEEL! WIN THIS MACALLAN 18 YEAR OLD JAMES BOND DIAMONDS ARE FOREVER + 10 WIN SPINS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-whisky-wheel-win-this-macallan-18-year-old-james-bond-diamonds-are",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "a9ab01361a5e4f7f56d57d9ae745f17958f9bc588e78c57b42e60e051016273b",
+    "drand_seed_hash": "8de49075a27357ccbe4a44ebf3df5c2d18c1de03e823b901d2138150296ce960df14fce2fa204bc1ec71b0748ca94dcd",
+    "client_seed": "1792096660060",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 296,
+    "max_tickets": 299,
+    "combined_hash": "e2f84223194842354fc02c41fb3a456e80e7f8532f0aba5fcccfc508a8365d8f",
+    "result": "118",
+    "external_round_id": "33097768",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:37:40.000000Z",
+    "revealed_at": "2026-10-15T20:37:48.000000Z"
+}
