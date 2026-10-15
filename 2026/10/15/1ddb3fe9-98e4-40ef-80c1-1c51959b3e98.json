@@ -1,0 +1,22 @@
+{
+    "round_id": "1ddb3fe9-98e4-40ef-80c1-1c51959b3e98",
+    "draw_title": "All the 2's - 22 Chances to win £222 Instantly",
+    "competition_url": "https://giveawaycompetition.com/admin/products/all-the-2s-22-chances-to-win-ps222-instantly",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "0a3c393b41667579753b60af625a94364463e55eecbce0b3d3a22f39c8a745b6",
+    "drand_seed_hash": "a3de59af1c1aadc7d1216b9339a4291442d12ff92b25582e371ad09d31ac3d8b6e75a8ccdd922cc52494eb0ba3736edf",
+    "client_seed": "1792097606315",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 68142,
+    "max_tickets": 500000,
+    "combined_hash": "ed59cc2577cff8d270e48670db67ea7ec918f0e6f73fc9e99e2b2c8bb9953aca",
+    "result": "149358",
+    "external_round_id": "33098083",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:53:26.000000Z",
+    "revealed_at": "2026-10-15T20:53:33.000000Z"
+}
