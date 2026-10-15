@@ -1,0 +1,22 @@
+{
+    "round_id": "6d6a1934-890a-49f8-acfb-dcc660abeb23",
+    "draw_title": "Win a JBL Flip 7 Wireless Speaker",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-jbl-flip-7-wireless-speaker",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "d94fb49604f5cebc3f63fdd6be29d7e1193eab99ebb4e8d7253885d9131c3e7f",
+    "drand_seed_hash": "a867e57a595c5a1f0f4dcb9efcbf7a21e5525b430378b5aa9a0ec6e2380acc6efe69360996db39606d8dbfe29f2ea499",
+    "client_seed": "1792091451208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 308,
+    "max_tickets": 999,
+    "combined_hash": "03714fe25b61db8374de1f491f6682e0b7a3aded2ee354be1377bd778b272f98",
+    "result": "749",
+    "external_round_id": "33096031",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:10:51.000000Z",
+    "revealed_at": "2026-10-15T19:10:57.000000Z"
+}
