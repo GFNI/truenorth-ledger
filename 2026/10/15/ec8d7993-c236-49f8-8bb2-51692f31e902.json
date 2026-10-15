@@ -1,0 +1,22 @@
+{
+    "round_id": "ec8d7993-c236-49f8-8bb2-51692f31e902",
+    "draw_title": "Hydraulic Bike lift!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/hydraulic-bike-lift",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "cb0ad49f83ba101445ba4d30166239f9c842cf9a3a88b7f4e46b643d89424e5e",
+    "drand_seed_hash": "b029d4f0ff9b6fbec6693fb2c32c10579ec6640638b885af7dfc7ad2ed3a3ebd9730d5d6e1b358864fc9536175e9546f",
+    "client_seed": "1792098624456",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 170,
+    "max_tickets": 300,
+    "combined_hash": "a84c747b89d5ad60b759698321a99226c5d6398d1c0ed74cb90fde42374dbb7d",
+    "result": "169",
+    "external_round_id": "33098422",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T21:10:24.000000Z",
+    "revealed_at": "2026-10-15T21:10:30.000000Z"
+}
