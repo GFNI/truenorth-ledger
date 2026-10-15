@@ -1,0 +1,22 @@
+{
+    "round_id": "12e702b2-cb5f-41d3-9b6c-9ce6cbed3238",
+    "draw_title": "Win a £100 Smyths Toy Store Voucher",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/win-a-ps100-smyths-toy-store-voucher",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "4e80455ee3e9d984713a5c6a5338a08ecd166bb52b3d208aa55c88ff5f034c2b",
+    "drand_seed_hash": "944c5ab178d45ee2fb26297ddb08ca93e9327da45c1aea69e1f43c79708eba49275971ed2289980357fa6e7cfa953df0",
+    "client_seed": "1792084245824",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1320,
+    "max_tickets": 2400,
+    "combined_hash": "b7c64aa7051c3372a415738da0da8f998edd70e2c946038a3895a95ce6dded9b",
+    "result": "1208",
+    "external_round_id": "33093629",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T17:10:45.000000Z",
+    "revealed_at": "2026-10-15T17:10:51.000000Z"
+}
