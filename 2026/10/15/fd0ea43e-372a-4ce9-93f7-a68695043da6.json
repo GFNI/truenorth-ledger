@@ -1,0 +1,22 @@
+{
+    "round_id": "fd0ea43e-372a-4ce9-93f7-a68695043da6",
+    "draw_title": "Bingo Jackpot Rush",
+    "competition_url": "https://ryscompetitions.com/admin/products/bingo-jackpot-rush-0",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "e5aee8874b6e956b8c2978801ace3455630cae1048a97d1f39188c16ae685ad2",
+    "drand_seed_hash": "81428abe8255f49f91b06ca61491d72ae191c9a676159c4975c954b48248938219fe30857c5f76e93bc56b74cd80e1f8",
+    "client_seed": "1792092486190",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51028,
+    "max_tickets": 229999,
+    "combined_hash": "f9960baa660312011501291b8b43dab96af3de9412d69148a2479b95a2f0232a",
+    "result": "208669",
+    "external_round_id": "33096376",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:28:06.000000Z",
+    "revealed_at": "2026-10-15T19:28:12.000000Z"
+}
