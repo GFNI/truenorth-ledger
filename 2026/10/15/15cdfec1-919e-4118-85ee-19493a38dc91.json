@@ -1,0 +1,22 @@
+{
+    "round_id": "15cdfec1-919e-4118-85ee-19493a38dc91",
+    "draw_title": "Win a Korda Bundle - Korda Compac Large Cool Bag (Dark Kamo) plus Korda Compac Cookware Bag (Dark Kamo) - 35p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-korda-bundle-korda-compac-large-cool-bag-dark-kamo-plus-korda-compac",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "b577345da6689d924f4e79244291f8b71beb7fbe3dc9cce5390b9c5045b56b90",
+    "drand_seed_hash": "b4c547fa1d02725f853eaff223c6a25ad95afc7cb976d369bc7dad5492232526eecd33b62afe63ae49bde871900ee365",
+    "client_seed": "1792080976328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 860,
+    "combined_hash": "c07968334c41a2dbb8e88719276ea93f36447d092e07b7700a8661bb56672d86",
+    "result": "389",
+    "external_round_id": "33092540",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T16:16:16.000000Z",
+    "revealed_at": "2026-10-15T16:16:24.000000Z"
+}
