@@ -1,0 +1,22 @@
+{
+    "round_id": "95dded42-2806-44a3-bbad-d9648275786f",
+    "draw_title": "CANDY SPIN WINS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/candy-spin-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "0300f70af79c43d5c2bab00e7cd34233156ee337aaeaab00b9c606c3ae518453",
+    "drand_seed_hash": "b35cc253e81390cbef19ca5fdb54fb62250d847ea8b537c26864969c5f0674ce9def699e0bc6a901812727b354d4ab22",
+    "client_seed": "1792095024708",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2178,
+    "max_tickets": 9999,
+    "combined_hash": "98a7a22c6c9aeaf3676fe8a8f5ef14140b8bcf6772d870dfe19211dc3e8a4f6b",
+    "result": "2134",
+    "external_round_id": "33097222",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:10:24.000000Z",
+    "revealed_at": "2026-10-15T20:10:30.000000Z"
+}
