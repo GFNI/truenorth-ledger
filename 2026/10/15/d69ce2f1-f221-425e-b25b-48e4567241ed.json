@@ -1,0 +1,22 @@
+{
+    "round_id": "d69ce2f1-f221-425e-b25b-48e4567241ed",
+    "draw_title": "£10K SUPERHERO SHOWDOWN LEADERBOARD",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-superhero-showdown-leaderboard-4",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "d92b8bbf375b6921e5c60d69874cf4b1d28d590291126fbbaa4a8838edefd0a2",
+    "drand_seed_hash": "96d6596496d622d09060324a140ca7ec69961483d9c7945b0511d11cab2cf6b898254710f55f1a9c25c7e43b97e5b634",
+    "client_seed": "1792096556817",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6259,
+    "max_tickets": 9999,
+    "combined_hash": "884a98a459cc9ab834d3baec23764bdc9cabcd83daed691e7e042a4671dc2bd9",
+    "result": "149",
+    "external_round_id": "33097733",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:35:56.000000Z",
+    "revealed_at": "2026-10-15T20:36:03.000000Z"
+}
