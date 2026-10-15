@@ -1,0 +1,22 @@
+{
+    "round_id": "a4403b22-0c09-4282-9239-38070f07996a",
+    "draw_title": "Win £10,000 Cash",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps10000-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "2a854bf2686dcb40e8eb334fb8722ae183766b26814335c1e0b4255e3ae2ae00",
+    "drand_seed_hash": "899d78237bcf5f3f561eafa2b5d1d121a5f660d2aa8d5c3a4224c339e8f6377883224fb35b026f3813440af2a09656f3",
+    "client_seed": "1792095106879",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5299,
+    "max_tickets": 7500,
+    "combined_hash": "bb2685c15200054e16a503ba66605923ada877aad6857a68e393edd2d40229af",
+    "result": "1392",
+    "external_round_id": "33097250",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:11:46.000000Z",
+    "revealed_at": "2026-10-15T20:11:54.000000Z"
+}
