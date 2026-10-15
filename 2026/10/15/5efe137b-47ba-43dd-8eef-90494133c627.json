@@ -1,0 +1,22 @@
+{
+    "round_id": "5efe137b-47ba-43dd-8eef-90494133c627",
+    "draw_title": "🎮 WIN AN XBOX SERIES X OR PS5 CONTROLLER OR £50 CASH – JUST £1 A TICKET!",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-an-xbox-series-x-or-ps5-controller-or-ps50-cash-just-ps1-a-ticket",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "11a551726649c64d2afac443279c10325318f9e37015e98c06b3f053843a4efb",
+    "drand_seed_hash": "8a886de3a09f8b193b1b31af41bb64cf5e1d0429cd0ac82449f66762e0d0a5363ec6e9f83081af3cb731e01fcf1bc124",
+    "client_seed": "1792091983203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87,
+    "max_tickets": 120,
+    "combined_hash": "8bc2cc5824e46083abe59b64357c2b0036d7b462fb8106b636cc3d73d7332fbc",
+    "result": "116",
+    "external_round_id": "33096208",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T19:19:43.000000Z",
+    "revealed_at": "2026-10-15T19:19:48.000000Z"
+}
