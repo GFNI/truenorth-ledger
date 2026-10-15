@@ -1,0 +1,22 @@
+{
+    "round_id": "9d938600-aea8-4375-9659-c8cfe039c193",
+    "draw_title": "Oasis @ Slane Castle",
+    "competition_url": "https://giveawaycompetition.com/admin/products/oasis-at-slane-castle",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "82cae40930b1940640e286bfa09085219bc1a6a1868c491601d6a98760fc069f",
+    "drand_seed_hash": "8ffed97b8f0cbcc3bacf2d1f6189a4647aef26a7b18fd8bd7d045b37f81f2824271f928504f509d62ef1d09186a9d9de",
+    "client_seed": "1792097695430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 440,
+    "max_tickets": 1000,
+    "combined_hash": "af71e92e061d0d17bc043079616fbcf74467139c629076c845ea6c5c9dfc30c8",
+    "result": "928",
+    "external_round_id": "33098113",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:54:55.000000Z",
+    "revealed_at": "2026-10-15T20:55:03.000000Z"
+}
