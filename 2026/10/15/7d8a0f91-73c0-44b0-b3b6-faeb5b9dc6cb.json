@@ -1,0 +1,22 @@
+{
+    "round_id": "7d8a0f91-73c0-44b0-b3b6-faeb5b9dc6cb",
+    "draw_title": "£50 Cineworld Voucher - plus 10 x £5 INSTANT WINS",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/ps50-cineworld-voucher-plus-10-x-ps5-instant-wins",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "d1e053e22f113972dd1e91ae6a1633c062516d372c888fd928fa668b1cef9e15",
+    "drand_seed_hash": "81cb479492352ea8182f400d5f4cfc0ce178bf1d20a08f4b64def084c0abb3a20520e0805dda5f483ca05cbfc1166c32",
+    "client_seed": "1792095006152",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 96,
+    "max_tickets": 369,
+    "combined_hash": "1ce0bae2f06eb10be321ee5d2d60a61ebd67b73f546c961721e5ba71cf51ad1f",
+    "result": "131",
+    "external_round_id": "33097216",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T20:10:06.000000Z",
+    "revealed_at": "2026-10-15T20:10:12.000000Z"
+}
