@@ -1,0 +1,22 @@
+{
+    "round_id": "1529e9ac-9341-4ae5-aeb1-b6f6a236da3c",
+    "draw_title": "WIN PORSCHE TAYCAN GTS TICKETS PLUS £500 TICKET END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/win-porsche-taycan-gts-tickets-plus-ps500-ticket-end-draw-2",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "010721ae2755f11cd541f8131767c2412d0234c6b0572d2f45ba6a18d7d3c0a3",
+    "drand_seed_hash": "88570686deae5a58962245d11474615acd539019a5f85fafcf6c621d0dc16f2d7e48c9e3769ed05d0a05b45d85d2a31e",
+    "client_seed": "1792105750237",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 219124,
+    "max_tickets": 538999,
+    "combined_hash": "a217723d9d5c2a833259ce6480ad1174801a321e2110b7713fe1c07bddd42e16",
+    "result": "321243",
+    "external_round_id": "33100798",
+    "processing_status": "completed",
+    "created_at": "2026-10-15T23:09:10.000000Z",
+    "revealed_at": "2026-10-15T23:09:18.000000Z"
+}
