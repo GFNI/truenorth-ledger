@@ -1,0 +1,22 @@
+{
+    "round_id": "24b52985-f313-4e6b-ae45-f053d8c59c2c",
+    "draw_title": "🥷 Every Ticket Is A Winner – Ninja Style 🥷",
+    "competition_url": "https://hiphipprizehub.com/admin/products/every-ticket-is-a-winner-ninja-style-2",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "8524801fb27861379ff77bf29a9562458d037d6e96db92ecb9f16138003e8893",
+    "drand_seed_hash": "97eec43ca071b0e836fd516ec10b8adc9b60b715705a2bcd18d145cf79aedd58b200c7511d1bd97e66b197706f9528d7",
+    "client_seed": "1792181193498",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "e21deeafa7e07e3885499a0c1f85e26e94ffe223b10c84fdd68db08824d42821",
+    "result": "19",
+    "external_round_id": "33125945",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:06:33.000000Z",
+    "revealed_at": "2026-10-16T20:06:39.000000Z"
+}
