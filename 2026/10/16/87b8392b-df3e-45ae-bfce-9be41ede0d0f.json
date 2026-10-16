@@ -1,0 +1,22 @@
+{
+    "round_id": "87b8392b-df3e-45ae-bfce-9be41ede0d0f",
+    "draw_title": "*BRAND NEW* TARGET JAPAN MAYUKO MORITA MAYO G8 DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-japan-mayuko-morita-mayo-g8-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "c569db6a6821986f8c80578f2bb1fcc172d452e1ee75ab18df06ee5c02596bbe",
+    "drand_seed_hash": "87d9c5da48cce4d2608ab88b838d7c82cc70c47ddbd540d7f4218b8af354a09aab648cb60580f62785d39ad15dce5942",
+    "client_seed": "1792177838239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 200,
+    "combined_hash": "5f56affc6b1fc4c92ab308103a376ff9b9cab1da2a53a49096a1aae198010107",
+    "result": "144",
+    "external_round_id": "33124827",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T19:10:38.000000Z",
+    "revealed_at": "2026-10-16T19:10:45.000000Z"
+}
