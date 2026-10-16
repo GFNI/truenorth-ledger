@@ -1,0 +1,22 @@
+{
+    "round_id": "7e746967-60ec-49b2-ae34-d8cfd0f4a15a",
+    "draw_title": "THE SAFE CRACKER! COLLECTIBLE WHISKY & SOLID GOLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-safe-cracker-collectible-whisky-solid-gold",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "0c2f96dc3eaac4be679d9910f42fa727b22458bb363e6fd12de00fef60c19e16",
+    "drand_seed_hash": "af4819340731affb1405faad62cddcd147f32187e52d0afd91bd0fa91c47dc025ac2ae30e9857870b109f0143d58c7bb",
+    "client_seed": "1792149850561",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6501,
+    "max_tickets": 21999,
+    "combined_hash": "fc60fd615a3e99abab536e589a7560c91e7a8fb680b6318ba89d552610fc3eff",
+    "result": "10119",
+    "external_round_id": "33115498",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T11:24:10.000000Z",
+    "revealed_at": "2026-10-16T11:24:18.000000Z"
+}
