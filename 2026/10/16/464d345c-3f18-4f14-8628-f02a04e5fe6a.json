@@ -1,0 +1,22 @@
+{
+    "round_id": "464d345c-3f18-4f14-8628-f02a04e5fe6a",
+    "draw_title": "GOLDEN TICKET - WIN £1,000 OF ENTRIES INTO THE MAIN DRAW - AUDI A3 BLACK EDITION",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/golden-ticket-audi",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "440296dd3ce137f7ce76bb977f49797852fdc0aab2b7c3469792ca1a31f79bfc",
+    "drand_seed_hash": "ac8b7f74cf71bcc469da4c78113a339395b567b16128782f7569f7b5744b278a4a6cd306c40a41d397049a034a23f55b",
+    "client_seed": "1792177818583",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 86,
+    "max_tickets": 120,
+    "combined_hash": "e77c2fcd0159e81fad03e7faa509128ba68e64caac47002370ee99c0bc043dfa",
+    "result": "8",
+    "external_round_id": "33124820",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T19:10:18.000000Z",
+    "revealed_at": "2026-10-16T19:10:24.000000Z"
+}
