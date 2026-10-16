@@ -1,0 +1,22 @@
+{
+    "round_id": "61a6104f-b600-44f2-ba40-0a91bbf3824b",
+    "draw_title": "The Grinch Christmas Eve box 🩷",
+    "competition_url": "https://redlemonx.co.uk/admin/products/the-grinch-christmas-eve-box",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "635319374f4ba1652b3d9e85d98c8cfbd4e49ee928571a6a6945012c150ff29b",
+    "drand_seed_hash": "b8b89818f80310889758f19d99c7d6e39e285cc2ff477a1992cc7cf6f77e15b1526b6a2774cd20916240de61943c2f73",
+    "client_seed": "1792143132775",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "89167d061531c9f6be782fdea7f45d82ce46feaad929937d20cff4bb9c225f69",
+    "result": "66",
+    "external_round_id": "33113258",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T09:32:12.000000Z",
+    "revealed_at": "2026-10-16T09:32:18.000000Z"
+}
