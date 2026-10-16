@@ -1,0 +1,22 @@
+{
+    "round_id": "a08334a6-bfb3-4e8d-8ee5-ed44989e2330",
+    "draw_title": "Apple Watch Series 12",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/apple-watch-series-12",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "501bc6bdc8c46a76cf9322d8cad0fb3274c3f59b7e8188c62871bdebd51e2f3f",
+    "drand_seed_hash": "8fc1c7b023236e4a78a1c09e195b3bd03ce4e75a80ad46fa74ef2df72f48424624ffaca740a1b93d77f93a42602cd695",
+    "client_seed": "1792181084385",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 971,
+    "max_tickets": 1480,
+    "combined_hash": "97d3133ee5a20f798ed5c8e3fb4b3df252b9a823e3035b7108cecc94b17f51f0",
+    "result": "384",
+    "external_round_id": "33125909",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:04:44.000000Z",
+    "revealed_at": "2026-10-16T20:04:51.000000Z"
+}
