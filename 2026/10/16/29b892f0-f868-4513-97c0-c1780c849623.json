@@ -1,0 +1,22 @@
+{
+    "round_id": "29b892f0-f868-4513-97c0-c1780c849623",
+    "draw_title": "*BRAND NEW* PHIL TAYLOR CHRONO DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-phil-taylor-chrono-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "a671030a6dc4871ec0d7c6616142c9be17b1d5317e23274ac09f747bb3b0f690",
+    "drand_seed_hash": "985bdc4eda73596765ef20adfc2aa624df4a0408d4a16fbfd8db1ec9ec5d84eb35dedaba009be41d3bc591441f7a3399",
+    "client_seed": "1792177857466",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 116,
+    "max_tickets": 200,
+    "combined_hash": "0c92da2246117bc79bb1f6ace4268511ee0a9f78a5271648100c6c71fdb4b0da",
+    "result": "181",
+    "external_round_id": "33124833",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T19:10:57.000000Z",
+    "revealed_at": "2026-10-16T19:11:03.000000Z"
+}
