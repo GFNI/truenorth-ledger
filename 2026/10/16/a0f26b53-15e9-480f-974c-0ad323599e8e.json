@@ -1,0 +1,22 @@
+{
+    "round_id": "a0f26b53-15e9-480f-974c-0ad323599e8e",
+    "draw_title": "AUDI A3 - QUATTRO BLACK EDITION",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/audi-a3-quattro-black-edition",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "57069ab48b18a935c5613ce2a97393426fdf0ece62e95c20999943cbb97daa6f",
+    "drand_seed_hash": "b41f812f1d78ed7547c348b42281e1474f767ee0d9526092a6e12129fde117a41bfced1556c962d2528134fbc8a794ab",
+    "client_seed": "1792181731735",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26328,
+    "max_tickets": 43000,
+    "combined_hash": "5c156cbf8586af4afb4f060909e7294cc47d05d8dc3a95b96962d3bd5ae53818",
+    "result": "33613",
+    "external_round_id": "33126124",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:15:31.000000Z",
+    "revealed_at": "2026-10-16T20:15:36.000000Z"
+}
