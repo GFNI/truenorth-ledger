@@ -1,0 +1,22 @@
+{
+    "round_id": "d52f51d4-c6d4-43f1-9114-d8904de9bd1e",
+    "draw_title": "WIN THE BRAND-NEW iPHONE DUO!",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-the-brand-new-iphone-duo",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "71e29d9916da9be26703fa2a961ee51eedf228a506baa53948d9ed4e1a0bd311",
+    "drand_seed_hash": "aebe90f4a1558e50ee8ab9d28a55b976dd98786da2df7dfae636829b9f845ae4f29de9fc8088c011adf30fe9faaaab60",
+    "client_seed": "1792185024899",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1594,
+    "max_tickets": 4000,
+    "combined_hash": "7a101d5f6f38bb9bf9b910e69ae57a57b738de97892b7d80009bfc1d70f8f2ec",
+    "result": "283",
+    "external_round_id": "33127222",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T21:10:24.000000Z",
+    "revealed_at": "2026-10-16T21:10:30.000000Z"
+}
