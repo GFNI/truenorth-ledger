@@ -1,0 +1,22 @@
+{
+    "round_id": "53944ffd-e61f-402a-8750-2cc1ef7e6103",
+    "draw_title": "Cash Comet",
+    "competition_url": "https://competitionsne.co.uk/admin/products/cash-comet",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "de049424c093154aa6c314fce31a73117b3410504332f610f7387ab08299e219",
+    "drand_seed_hash": "b878b13f7af02d4499369f450734fefd4c0139afdd547e8c6a0e9b2077a82b0a749309820dd1afa6e945eed1c1c0d165",
+    "client_seed": "1792181998479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18252,
+    "max_tickets": 500000,
+    "combined_hash": "abc85ce5d9136c4167e4463ea28cf04e959f8ae7af0ba857f4a46d4316a5cd25",
+    "result": "63148",
+    "external_round_id": "33126213",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:19:58.000000Z",
+    "revealed_at": "2026-10-16T20:20:03.000000Z"
+}
