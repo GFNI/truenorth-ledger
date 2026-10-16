@@ -1,0 +1,22 @@
+{
+    "round_id": "fa80c754-b6f0-4b9b-92c6-aa146f924638",
+    "draw_title": "10K GHOULS GOLD",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/10k-ghouls-gold",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "9cf5f7ecc5dc4e82d4afac7aa96ef09519e4001b67c09bf15b4d311c8fbc3dba",
+    "drand_seed_hash": "82fe7a95e901e1748d8e3be04ce884a8cfe5bb50f10fb6642c739d9a3cf0563e2510a89dfc99ce00469ad0af840d80f7",
+    "client_seed": "1792181331357",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18158,
+    "max_tickets": 88000,
+    "combined_hash": "74c2ce33680eb57c414aaa50f7940465e453a14942c0a9e279368be46706be51",
+    "result": "12213",
+    "external_round_id": "33125991",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:08:51.000000Z",
+    "revealed_at": "2026-10-16T20:08:57.000000Z"
+}
