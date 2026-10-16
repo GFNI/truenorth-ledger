@@ -1,0 +1,22 @@
+{
+    "round_id": "9c98ecf5-c727-4565-901d-f977b7af230d",
+    "draw_title": "Every Ticket Is A Treat £200 ",
+    "competition_url": "https://ogcompetitions.co.uk/lists/every-ticket-is-a-treat-ps200-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1cf72700dc96e9285eb4deb1add9ca35b5b008e8d03134cdb0d72f211c419c3d",
+    "drand_seed_hash": "b4c06a82f922c15dafb4b6784a8738ef30dbe5e5dfc39beb33f8a892041072fcd322ec4e6ea63185c15242b00356e55a",
+    "client_seed": "1792185164371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 3500,
+    "combined_hash": "0d46dd6ab50b3d4910a11f70069479a5c47ac9c5ebeef769b5055a79fa9f3d66",
+    "result": "786",
+    "external_round_id": "33127268",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T21:12:44.000000Z",
+    "revealed_at": "2026-10-16T21:12:54.000000Z"
+}
