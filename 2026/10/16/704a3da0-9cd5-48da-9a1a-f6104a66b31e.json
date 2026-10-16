@@ -1,0 +1,22 @@
+{
+    "round_id": "704a3da0-9cd5-48da-9a1a-f6104a66b31e",
+    "draw_title": "£250 Cash + Site Credit Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps250-cash-site-credit-instant-wins-4",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "6153edc026d7656e274958789bd11b89224a29f88448c7e11012fbd79f2db5e1",
+    "drand_seed_hash": "aa15b2ed8da98440c1a4deb973599cb2275e899f233931dfa993739f148a25ee76d5ae6be09ce20157a47df70723bd80",
+    "client_seed": "1792182764623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 299,
+    "max_tickets": 799,
+    "combined_hash": "6cd519333f96d6ebeb6030049506d63fa23ec29fd7f9266cf9752a701b92502e",
+    "result": "58",
+    "external_round_id": "33126468",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:32:44.000000Z",
+    "revealed_at": "2026-10-16T20:32:48.000000Z"
+}
