@@ -1,0 +1,22 @@
+{
+    "round_id": "4253e5e3-92d0-4817-b514-c629104fedfb",
+    "draw_title": "VOUCHER VAULT FRIDAY",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/voucher-vault-friday-10",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "eb95910c27275234598cd4b4cea14623183bd806ab61afd2b0812d52361afd26",
+    "drand_seed_hash": "8e02795a0477e4a8424e8d8aed663fd55a7789e1527df1684c2791ad802f6f1b747d1cbc6fd670c824093769debb1c60",
+    "client_seed": "1792181437544",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56,
+    "max_tickets": 100,
+    "combined_hash": "a5b306ccd7e56a33b49d7bb3941e46ec33214ec126e88f85306d1b85b6651907",
+    "result": "70",
+    "external_round_id": "33126026",
+    "processing_status": "completed",
+    "created_at": "2026-10-16T20:10:37.000000Z",
+    "revealed_at": "2026-10-16T20:10:42.000000Z"
+}
