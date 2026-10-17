@@ -1,0 +1,22 @@
+{
+    "round_id": "e537c175-f79d-42e4-b204-3746d4571f6b",
+    "draw_title": "Cash for Man & Dog",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/cash-for-man-dog",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "49d000638b81861098e62a799bb2e70d040fc61e5f93df4eacdd89119a0987a6",
+    "drand_seed_hash": "a8581dbcd74ec59d2d8f154172d7eac948ed0e5aa7dc32b5da54b969378e2234c9b23f8e8a751305c6567acebf91e367",
+    "client_seed": "1792264112463",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93850,
+    "max_tickets": 141999,
+    "combined_hash": "932255a054d2971e3636a8955f6af9d6384105c40448d66b45384c343011e2dd",
+    "result": "46915",
+    "external_round_id": "33153585",
+    "processing_status": "completed",
+    "created_at": "2026-10-17T19:08:32.000000Z",
+    "revealed_at": "2026-10-17T19:08:39.000000Z"
+}
