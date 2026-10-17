@@ -1,0 +1,22 @@
+{
+    "round_id": "44441e10-6c06-4348-ac91-a915301a4eb6",
+    "draw_title": "The Bigger Chaotic Catch",
+    "competition_url": "https://chaotic.co.uk/competition/the-bigger-chaotic-catch-1241",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "f7fa52d5233f3a780c9e4f06de0c5add803d9fc013b86e932b5ff449bf3c7e24",
+    "drand_seed_hash": "b0bb24f9750a109898a78a4f45d6e656ed2452a942dcc210f3f7c0db6d95461ed135f743b1c010096ebcd6ef05c44774",
+    "client_seed": "1792266131564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400000,
+    "max_tickets": 400000,
+    "combined_hash": "6d575511f4b7c836c21e933841aa61367c481e61d19e55eeb747fa98b5e9f4db",
+    "result": "5614",
+    "external_round_id": "33154257",
+    "processing_status": "completed",
+    "created_at": "2026-10-17T19:42:11.000000Z",
+    "revealed_at": "2026-10-17T19:42:15.000000Z"
+}
