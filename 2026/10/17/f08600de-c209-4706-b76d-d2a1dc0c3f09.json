@@ -1,0 +1,22 @@
+{
+    "round_id": "f08600de-c209-4706-b76d-d2a1dc0c3f09",
+    "draw_title": "Zombie Saturday",
+    "competition_url": "https://competitionsne.co.uk/admin/products/zombie-saturday",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "29703d21301c85f64d4924764c81f70330e7940c308dc871aea6ac06bf652264",
+    "drand_seed_hash": "8967c6a8959f3498dddda1907402b77d46da1190f5fb176aa22dddd10095d236d62a31a9812719b0f7b7940299de0590",
+    "client_seed": "1792267804112",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1871,
+    "max_tickets": 3000,
+    "combined_hash": "6ee926ac5a2b2a9db45db38c61838937785383a3e7f5de9b675cd1baefdf243b",
+    "result": "2279",
+    "external_round_id": "33154816",
+    "processing_status": "completed",
+    "created_at": "2026-10-17T20:10:04.000000Z",
+    "revealed_at": "2026-10-17T20:10:12.000000Z"
+}
