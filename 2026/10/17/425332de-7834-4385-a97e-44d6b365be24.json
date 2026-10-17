@@ -1,0 +1,22 @@
+{
+    "round_id": "425332de-7834-4385-a97e-44d6b365be24",
+    "draw_title": "Win £25 worth of tickets into Trakker Levelite Transformer Chair Camo - 5p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-trakker-levelite-transformer-chair-camo-5p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "b66bb5e036cf92ff64c1ffed003b2ff5e9f06499540ee50317a903cccb3bb9f0",
+    "drand_seed_hash": "93d1b3f17754921cdb07b2a09cf5cec04c3a2fbf8a2eb878b402a9951df4a1728e5a6155cb1cf4fa9920204a0abde131",
+    "client_seed": "1792256471322",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 700,
+    "max_tickets": 700,
+    "combined_hash": "a979ce054cd06d5ef0afe9f8f1b7adf7fb1a756607cea177c37182ca756f0128",
+    "result": "42",
+    "external_round_id": "33151038",
+    "processing_status": "completed",
+    "created_at": "2026-10-17T17:01:11.000000Z",
+    "revealed_at": "2026-10-17T17:01:18.000000Z"
+}
