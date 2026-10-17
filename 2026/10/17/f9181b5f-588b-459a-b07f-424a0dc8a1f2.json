@@ -1,0 +1,22 @@
+{
+    "round_id": "f9181b5f-588b-459a-b07f-424a0dc8a1f2",
+    "draw_title": "Goldmine",
+    "competition_url": "https://chaotic.co.uk/competition/goldmine-6009",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "beeff56a354f9f5b7bbaca81be8f540685e37bab1279dd8627935fe01c4c852a",
+    "drand_seed_hash": "b173379a325d9f270c3f1248b73b7dd5adf1f614ccb3e53ddc9600602a4d4dde97cac367a499a0de2e0ab8db98697b9b",
+    "client_seed": "1792266022407",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30000,
+    "max_tickets": 30000,
+    "combined_hash": "2bf52fe4c4ed46349fb6898300bcc56c4c8c10c746f54fbc8f5c553a480d4391",
+    "result": "18204",
+    "external_round_id": "33154222",
+    "processing_status": "completed",
+    "created_at": "2026-10-17T19:40:22.000000Z",
+    "revealed_at": "2026-10-17T19:40:30.000000Z"
+}
