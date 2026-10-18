@@ -1,0 +1,22 @@
+{
+    "round_id": "add225c3-1f08-4fe1-b490-8e24c5c33213",
+    "draw_title": "Bowmore Rum Single Cask",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/bowmore-rum-single-cask",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "34c4de5d51ca6686b54efec98200c6f66a30dcd6e32b33cb3ebb225b302522a0",
+    "drand_seed_hash": "a2d37f90193f602a9c1ab114c130ada1a52779a5331a1e8ee88052a880f3e1f453a12c633fca01c07968506b2b4aa46c",
+    "client_seed": "1792346210756",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18,
+    "max_tickets": 18,
+    "combined_hash": "39fbec044767d3500a723050e7bc491c91e89cb3f5a3f92ce6431bfd4902d936",
+    "result": "18",
+    "external_round_id": "33180951",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T17:56:50.000000Z",
+    "revealed_at": "2026-10-18T17:56:57.000000Z"
+}
