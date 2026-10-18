@@ -1,0 +1,22 @@
+{
+    "round_id": "1f4d8433-d0ef-4c90-8889-5a500be45e83",
+    "draw_title": "Haunted Vault",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/haunted-vault",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "43c9cf7a1dfcbd27280a5e544b8850f6e35aa2ddbbb7143dfc6d193ce545931f",
+    "drand_seed_hash": "8e35aa21d0f5aa08833d3bb360c0db121d244e159cc80b2aefa7bbe005defd3affb95e050f9eceea40edc1f52a03fb75",
+    "client_seed": "1792352563786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10631,
+    "max_tickets": 26000,
+    "combined_hash": "2adeb0feebbbb98159208363deea305c77747d6fcdf80ef39e81eaccac8b168e",
+    "result": "8075",
+    "external_round_id": "33183069",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:42:43.000000Z",
+    "revealed_at": "2026-10-18T19:42:51.000000Z"
+}
