@@ -1,0 +1,22 @@
+{
+    "round_id": "53259ed5-c436-4f1c-8004-20a0cb96820a",
+    "draw_title": "SHOT SCRATCHCARD! [INSTANT WINS] + END PRIZE",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/shot-scratchcard-instant-wins-end-prize",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "a1761dbd85f7532f69bcd2ab594a7ab91655845a97e7467d4df274ff2e0c44fa",
+    "drand_seed_hash": "a092ed5ef7458668f7c5a5f428a9dabd134156c2b5b4ecfc0069a1cfa49f891b84d9632e06f9911d3a820ae25385034a",
+    "client_seed": "1792349325265",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2966,
+    "max_tickets": 49999,
+    "combined_hash": "3059b0fba9c33efae71f67162d86e8fbdbe8619986bbe96a03702ed9c651ef06",
+    "result": "22839",
+    "external_round_id": "33181989",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T18:48:45.000000Z",
+    "revealed_at": "2026-10-18T18:48:51.000000Z"
+}
