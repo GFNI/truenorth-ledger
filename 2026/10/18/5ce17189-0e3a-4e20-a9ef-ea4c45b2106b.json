@@ -1,0 +1,22 @@
+{
+    "round_id": "5ce17189-0e3a-4e20-a9ef-ea4c45b2106b",
+    "draw_title": "✨ Tech Tornado Mini Game ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/tech-tornado-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "b648e00a16ef6429002a8c7b4d121e8f009410ea909481ffc7ae6029a1eae6d0",
+    "drand_seed_hash": "907d0f5a18e81400cf22f398ae7293b0967859078dd2ccb2d30fc404cd1147ad33a5e222a587699e97033758be92cc80",
+    "client_seed": "1792337655297",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "199afad8dbd0c95ad8ecdba71c001fe27bfaf50370ef38464077d027cc5d2950",
+    "result": "106",
+    "external_round_id": "33178099",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T15:34:15.000000Z",
+    "revealed_at": "2026-10-18T15:34:21.000000Z"
+}
