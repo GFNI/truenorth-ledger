@@ -1,0 +1,22 @@
+{
+    "round_id": "2c99a3af-b915-46c7-b962-490ec10f5b20",
+    "draw_title": "5K FALLING FORTUNE",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/5k-falling-fortune",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "36c53b960c3d17b7a09fce1df2309d87628f81f52dde082c9bc5d45e70ead1de",
+    "drand_seed_hash": "8eb4606e7a45690fa8420930020f9d7d8d7873b602360a8c95da0738c3f418f4902491b7e17fda052e5276a2edf14283",
+    "client_seed": "1792348996186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93211,
+    "max_tickets": 850000,
+    "combined_hash": "6d89d3ae5740756f978e0b25f98f11ff47216e994ae42b308c5761c5ca1c4f84",
+    "result": "598862",
+    "external_round_id": "33181880",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T18:43:16.000000Z",
+    "revealed_at": "2026-10-18T18:43:24.000000Z"
+}
