@@ -1,0 +1,22 @@
+{
+    "round_id": "443e5eaf-488b-4b4b-9d4b-f40c61b497d2",
+    "draw_title": "Sunday Funday — £500 Guaranteed",
+    "competition_url": "https://theprizevault.co.uk/admin/products/sunday-funday-ps500-guaranteed",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "1e3e064e82f589d11ead8d9ea48f04a50c1deb500fb22b8ab06f9aeacbccc4d4",
+    "drand_seed_hash": "b13fd80e6d4a0bedfb87849371e10361bf2f19e2a3a0c46a052a9cc4ecc283c024e7572c74b591e157aa210b9ba006a2",
+    "client_seed": "1792354240060",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2283,
+    "max_tickets": 8000,
+    "combined_hash": "7d5ce9ce867764076dc3a8e8840e06ca533df7b884ab16faacc441d9f62d8924",
+    "result": "62",
+    "external_round_id": "33183628",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:10:40.000000Z",
+    "revealed_at": "2026-10-18T20:10:48.000000Z"
+}
