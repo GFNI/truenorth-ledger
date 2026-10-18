@@ -1,0 +1,22 @@
+{
+    "round_id": "11e637e6-ee0a-4108-bfbf-d35f8cfdde3b",
+    "draw_title": "Win £50,000 Tax Free Cash",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps50000-tax-free-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b6f25896f62a61ec9610ed9bb94db0ac8970315a450bc4a5f350e6e0f9f78bec",
+    "drand_seed_hash": "a42d5c4de6d557331f9c7f4209bfffd647be7254f78aec27d4e7f6e6597dc9ea260477f6bc123604d70fd5105f8e9d6e",
+    "client_seed": "1792354498932",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26979,
+    "max_tickets": 29999,
+    "combined_hash": "922159915acc02f077509f9b20fc4ad18cbc425bdb2490fdcbc42f98504d488d",
+    "result": "8906",
+    "external_round_id": "33183714",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:14:59.000000Z",
+    "revealed_at": "2026-10-18T20:15:06.000000Z"
+}
