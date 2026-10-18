@@ -1,0 +1,22 @@
+{
+    "round_id": "c901a33b-e855-432c-8b08-aecda1fe65a1",
+    "draw_title": "iPhone 18 Pro (256GB)",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/iphone-18-pro-256gb",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "b65f67af27dcd35825dcc1b1d7425a8f7103c5168150299fab9e14df882c2aac",
+    "drand_seed_hash": "8f9b5bac506c6e75cdafa5d3ad00dc371f07cfc8a4d57ef26ea2e5a8193a185b9084be3e6a0ba88d6b746d75e2c70762",
+    "client_seed": "1792354144893",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4794,
+    "max_tickets": 4800,
+    "combined_hash": "34e74ac71f6c154285fb5287ecb1e01c83c86c030a08df60d48ac19afa7afb8d",
+    "result": "437",
+    "external_round_id": "33183596",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:09:04.000000Z",
+    "revealed_at": "2026-10-18T20:09:12.000000Z"
+}
