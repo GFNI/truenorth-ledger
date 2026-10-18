@@ -1,0 +1,22 @@
+{
+    "round_id": "7502bb21-770d-4a1c-b0fa-8ca35c02b039",
+    "draw_title": "2021 ROBIN HOOD 1oz GOLD COIN + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2021-robin-hood-1oz-gold-coin-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "936bee41de2efedbc741b7f24a83714515cfacaae794ef35949a3c937240a828",
+    "drand_seed_hash": "8d709794787eb42c359f96cc755ae6cce839a5dd4dd488e7116bf6d1998c128146d41232c1e68dbd878a5e85af880193",
+    "client_seed": "1792354064815",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "f2ac72309bf364dca973b26fd0c7e21ec92df2339ec25a6a1e83de246f68f806",
+    "result": "1747",
+    "external_round_id": "33183569",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:07:44.000000Z",
+    "revealed_at": "2026-10-18T20:07:51.000000Z"
+}
