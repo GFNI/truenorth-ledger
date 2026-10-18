@@ -1,0 +1,22 @@
+{
+    "round_id": "0a0c39e9-62fc-4ead-9dca-cdfd7296d482",
+    "draw_title": "QUICK CASH",
+    "competition_url": "https://easybigwins.co.uk/admin/products/quick-cash",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "123a4e57c0c08d37ba4dff912d836b7fdf004336408b268f38ba5ab3f5ea5788",
+    "drand_seed_hash": "b68a70727230263760c98fa0c32fa624a9183f9745bc9809bb685d7b3433efb6b8751a5ac6c198574662b452cbe48381",
+    "client_seed": "1792355085144",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77433,
+    "max_tickets": 100000,
+    "combined_hash": "4e9bac7d63dd15906dad3c8d7801637ee5cf2eb629eacb0b5d3ff59f240ffe19",
+    "result": "63951",
+    "external_round_id": "33183909",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:24:45.000000Z",
+    "revealed_at": "2026-10-18T20:24:51.000000Z"
+}
