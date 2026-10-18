@@ -1,0 +1,22 @@
+{
+    "round_id": "3d1e6b27-23e4-479f-bf5a-ae9d196d998b",
+    "draw_title": "ONE HUNDRED AND EEEEEIIIIGHHHHTTTTY",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/180",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "58bb83a13bbfbb9d2ab739bba858c6755f697e472efee7d714af9ed51cffa503",
+    "drand_seed_hash": "aed4e3335cc9b4601c59e489b04623d965ce9b92f41fe20f2c0b795d0b4155588d1e723c8269b173edfb745f2e2ca44b",
+    "client_seed": "1792348808290",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14085,
+    "max_tickets": 42000,
+    "combined_hash": "09201628a74481c3a18e51217deeea8090906d74468e55765b0ac07fc271f52e",
+    "result": "34634",
+    "external_round_id": "33181817",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T18:40:08.000000Z",
+    "revealed_at": "2026-10-18T18:40:15.000000Z"
+}
