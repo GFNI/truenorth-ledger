@@ -1,0 +1,22 @@
+{
+    "round_id": "aaa7f452-2824-4991-85a7-ae8bbb78dfb3",
+    "draw_title": "⚡ Pokémon Scarlet & Violet Bundle + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-scarlet-violet-bundle-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "ef97b6ee458c6ed59f9adbd32748de796874f23272b7a04a22bc55e6126ba067",
+    "drand_seed_hash": "a849892646b1911804caf73ba99b0381c3025bd627328eb6269478875bc28f29d7f6ba1f48c2d0baa7ece47d41e5ba2a",
+    "client_seed": "1792358629867",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 304,
+    "max_tickets": 1066,
+    "combined_hash": "8c6576d7541cf11080d8455e84c69b55f60d4df02f452cf33f8ff98ca4c909a3",
+    "result": "319",
+    "external_round_id": "33185091",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T21:23:49.000000Z",
+    "revealed_at": "2026-10-18T21:23:57.000000Z"
+}
