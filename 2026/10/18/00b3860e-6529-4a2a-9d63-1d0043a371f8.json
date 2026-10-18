@@ -1,0 +1,22 @@
+{
+    "round_id": "00b3860e-6529-4a2a-9d63-1d0043a371f8",
+    "draw_title": "CRACK THE SAFE- 1 IN 2 WINS",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/crack-the-safe-1-in-2-wins",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "7393bae376d33bad7da995e85743aebca09485672a88bf86f1eff3ff51b8f561",
+    "drand_seed_hash": "b05810b3598b5129d7e89af2c253d3fb7ff09c6ec83e4d2eed939f50574a647855ff49310ddd1433c49ba0cfba68d7d6",
+    "client_seed": "1792348942884",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 963,
+    "max_tickets": 5000,
+    "combined_hash": "f3d55dc5d09f85f965577fbb1521e0e065496e5602ff400add8f3ee1278af193",
+    "result": "1172",
+    "external_round_id": "33181862",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T18:42:22.000000Z",
+    "revealed_at": "2026-10-18T18:42:30.000000Z"
+}
