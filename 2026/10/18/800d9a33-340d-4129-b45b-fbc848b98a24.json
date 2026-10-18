@@ -1,0 +1,22 @@
+{
+    "round_id": "800d9a33-340d-4129-b45b-fbc848b98a24",
+    "draw_title": "Minelab Equinox 700 + Instants",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/minelab-equinox-700-instants",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "3c7f77cf2c4188b670d08d8957bca2698f536f665dcec8049be54d7657beffae",
+    "drand_seed_hash": "ae8173e6e966be027b7c3406a488add49facfc63eb04e5ba39e6946c68c0be74dcbbb42437f99779c4cbadf69ccf9fef",
+    "client_seed": "1792351818919",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 213,
+    "max_tickets": 750,
+    "combined_hash": "f83fa9fa3eb9d4e2a862376e991126123854ac905903ef1601fed41c83191257",
+    "result": "461",
+    "external_round_id": "33182820",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:30:18.000000Z",
+    "revealed_at": "2026-10-18T19:30:24.000000Z"
+}
