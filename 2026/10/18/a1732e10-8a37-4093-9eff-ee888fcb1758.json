@@ -1,0 +1,22 @@
+{
+    "round_id": "a1732e10-8a37-4093-9eff-ee888fcb1758",
+    "draw_title": "BMW M4 + Range Rover SVR TICKET BUNDLES",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/bmw-m4-range-rover-svr-ticket-bundles",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "0c984b75ebeda7838099fb2ddc32d8aa7621158a7f8123c962d5453c8fa189b3",
+    "drand_seed_hash": "a3cba171c8db41fe504d6a5eaead1f56e22a758a083aa412d6258ef26d80d049106a46a9fc6ccbe68f32a56b4ce18e2b",
+    "client_seed": "1792353660510",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 345,
+    "max_tickets": 9999,
+    "combined_hash": "a6f201564f31bfcbeb30cf8895287648359b4bb5b646013fe47c5260e1dcd3ee",
+    "result": "2542",
+    "external_round_id": "33183434",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:01:00.000000Z",
+    "revealed_at": "2026-10-18T20:01:06.000000Z"
+}
