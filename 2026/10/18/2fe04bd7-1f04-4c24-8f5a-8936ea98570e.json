@@ -1,0 +1,22 @@
+{
+    "round_id": "2fe04bd7-1f04-4c24-8f5a-8936ea98570e",
+    "draw_title": "✨ Coin Flipper Mini Game ✨",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/coin-flipper-mini-game",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "6fea08787e2ea58b835e2d738e3574d1cf345b0b389f5279fbd8750174c435f2",
+    "drand_seed_hash": "a8b158f6e5898bef2c852388e08fecbf5aae25794e6ec8a1ea1d038a4ae22b8d81683e24df8b8527fc20bc5d7da1f898",
+    "client_seed": "1792342630150",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "a6011c52fa4e20247be9a0369eb949b18948cc607f4cf96cea0e5440880411c9",
+    "result": "143",
+    "external_round_id": "33179757",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T16:57:10.000000Z",
+    "revealed_at": "2026-10-18T16:57:15.000000Z"
+}
