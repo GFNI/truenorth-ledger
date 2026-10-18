@@ -1,0 +1,22 @@
+{
+    "round_id": "24200aa0-40f0-4eb1-9c55-b46d686dda15",
+    "draw_title": "Apple AirPods Max 2 - New Model - Just £1.49",
+    "competition_url": "https://expcomps.com/admin/products/apple-airpods-max-2-new-model-just-ps149",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "4905e53418e9b3f77171420b013104741edf015488d24f538a74afb39bcc9ac1",
+    "drand_seed_hash": "b3584f06129005e8bc4020365d881f2d2d61f96d7e4f3963e49d211257dffc219ae8231c6f4756813ce5e27e5ef897b7",
+    "client_seed": "1792354461103",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 240,
+    "max_tickets": 675,
+    "combined_hash": "298b6c14abf3621c99552073a14c23a567bb4fb6b45958203c2ab684755bc6da",
+    "result": "159",
+    "external_round_id": "33183701",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:14:21.000000Z",
+    "revealed_at": "2026-10-18T20:14:27.000000Z"
+}
