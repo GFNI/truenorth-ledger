@@ -1,0 +1,22 @@
+{
+    "round_id": "24293fbe-3e01-4053-a6d7-6bfb1e5b3038",
+    "draw_title": "Leader Of The Pack",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/lotp",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "236c78df557567da764665cf7af47a46e84d6aa70f486e98063d689ee221b600",
+    "drand_seed_hash": "b1fab67e2c21a5e9f80203ee912c14be3bae39c4fd3b70ccb08669c9485ab324e6f9a32951fc85b96401ee630c1e31eb",
+    "client_seed": "1792348815778",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 217641,
+    "max_tickets": 300000,
+    "combined_hash": "b58482fa113efdb182fc9938b67d6a66b714c238b8a615495bb837e0de6563db",
+    "result": "157654",
+    "external_round_id": "33181819",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T18:40:15.000000Z",
+    "revealed_at": "2026-10-18T18:40:21.000000Z"
+}
