@@ -1,0 +1,22 @@
+{
+    "round_id": "e9d886f3-4835-471d-beb9-e983e74ffdf8",
+    "draw_title": "APPLE AIRPODS MAX 2 OR £400 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/apple-airpods-max-2-or-ps400-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "9e70ca6680b57ca75be447a8114d28a55cb9aedfd5041ea6c71a331115988f20",
+    "drand_seed_hash": "b202c53452a8ab1f353378cb4482d2a3683afb27fec4d0edbd50d0fd06632e25f2c568cd430e580dd7bfcc3a9e12373a",
+    "client_seed": "1792354315861",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 503,
+    "max_tickets": 999,
+    "combined_hash": "8851595389156b3ab1c547e6d90e82ef230e10e4ccedc3230adc0d3220fd6323",
+    "result": "267",
+    "external_round_id": "33183653",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:11:55.000000Z",
+    "revealed_at": "2026-10-18T20:12:03.000000Z"
+}
