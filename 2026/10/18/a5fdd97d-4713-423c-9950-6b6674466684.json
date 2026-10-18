@@ -1,0 +1,22 @@
+{
+    "round_id": "a5fdd97d-4713-423c-9950-6b6674466684",
+    "draw_title": "FREE Pre Ordered Copy Of GTA 6",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/free-gta-6",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "e06553d1fac4e1b1af54e4634576125d47fc5d0291b5826788e53b7abfbebea9",
+    "drand_seed_hash": "80d0b628fa8fe145212ab417add7fa5323b615b11cb6e20c1475da9f8d53868cd6cd84ff95ae4bed63c2754ff8fa1773",
+    "client_seed": "1792352408388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 200,
+    "combined_hash": "96db2ed90df7ca8acae542e783dcf07254548157fc51c685ecb9669549293c0d",
+    "result": "143",
+    "external_round_id": "33183017",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:40:08.000000Z",
+    "revealed_at": "2026-10-18T19:40:15.000000Z"
+}
