@@ -1,0 +1,22 @@
+{
+    "round_id": "5ca5f560-1b6a-4184-9329-3bcf713e864b",
+    "draw_title": "Free BPerfect Skin Recovery Edit",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/free-bperfect-skin-recovery-edit",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "a8e8a3252466cf564bdaf4481331bfd03cd93f3492aa70bfd8ff0526c8475ef0",
+    "drand_seed_hash": "a00f2d5d22b3be129f1e1946bd9230f8b671565df095559582c2345925476fe45ef12240e1c95a4c9f70978644574e5d",
+    "client_seed": "1792356000427",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 781,
+    "max_tickets": 2500,
+    "combined_hash": "81823a9b6106c6c0d176f31a643b18ea39bcbe9e477f4b00e8bc510316da58f1",
+    "result": "478",
+    "external_round_id": "33184214",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:40:00.000000Z",
+    "revealed_at": "2026-10-18T20:40:06.000000Z"
+}
