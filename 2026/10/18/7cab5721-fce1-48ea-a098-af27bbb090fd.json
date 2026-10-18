@@ -1,0 +1,22 @@
+{
+    "round_id": "7cab5721-fce1-48ea-a098-af27bbb090fd",
+    "draw_title": "Shamrock Surprise - 10x£500 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/shamrock-surprise",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "0c226e7aa125778de6d555b22167c74d618d668e9dfdbc6c686e45c343d56fb1",
+    "drand_seed_hash": "b1dcff16a0cc7f361f211c796347f0e2811f35d194bea0d0e0f309f2213e1c676d08121575cb5901a9244fa417af88cc",
+    "client_seed": "1792353125186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135897,
+    "max_tickets": 250000,
+    "combined_hash": "268136348596a8748098774dc56ca9a98a80e664856799a4e479db9371d16cd7",
+    "result": "237239",
+    "external_round_id": "33183256",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:52:05.000000Z",
+    "revealed_at": "2026-10-18T19:52:12.000000Z"
+}
