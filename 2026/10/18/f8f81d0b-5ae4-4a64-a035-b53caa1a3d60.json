@@ -1,0 +1,22 @@
+{
+    "round_id": "f8f81d0b-5ae4-4a64-a035-b53caa1a3d60",
+    "draw_title": "Win A Bottle Of Creed Aventus 100ml Plus Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/creed",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "2d2f6c1ad803c1ec937e3e66884158e25291c28ba68707f374c052b9531fdc75",
+    "drand_seed_hash": "9575a1610df5d9d09457a0b271e4507c27124f39c9375bfa430f59e02a4a6be3ad2b4c1916c8bdd9ee20bd0815a86439",
+    "client_seed": "1792352560568",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14576,
+    "max_tickets": 15000,
+    "combined_hash": "9e678ac82f65b7dec861883da4608105750ea71e883b5677268247d08e264d55",
+    "result": "13695",
+    "external_round_id": "33183068",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:42:40.000000Z",
+    "revealed_at": "2026-10-18T19:42:48.000000Z"
+}
