@@ -1,0 +1,22 @@
+{
+    "round_id": "8c2457f3-485c-4bde-905f-d8ff280e2b83",
+    "draw_title": "✨🧼 HEATHER’S HOUSEHOLD BUNDLE✨🧼",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/heathers-household-bundle",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "84a1bf87278b8fb40f18aca5d38be8f66a72080b0a575f7c6dc3a3413769f668",
+    "drand_seed_hash": "a4d8bcf55054a9587324c3eab8a4aee4d0b74dea3fa65e9f71b70e7356cc87cadef90de30a52dc143f020d2558e7d274",
+    "client_seed": "1792330541289",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1060,
+    "max_tickets": 5000,
+    "combined_hash": "4d4cf16b58c50c982da3621f4f5b4e0a7701bccc13e10b89a41e319b472050cd",
+    "result": "822",
+    "external_round_id": "33175728",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T13:35:41.000000Z",
+    "revealed_at": "2026-10-18T13:35:48.000000Z"
+}
