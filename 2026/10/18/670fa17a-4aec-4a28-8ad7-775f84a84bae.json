@@ -1,0 +1,22 @@
+{
+    "round_id": "670fa17a-4aec-4a28-8ad7-775f84a84bae",
+    "draw_title": "Ronaldinho Patch Auto /10",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ronaldinho-patch-auto-10",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "5f36c569e4611cab3ccd1a943ee5af10ef2354dc534464c310b41d39d4cf22f6",
+    "drand_seed_hash": "9913cca9a96abb3237cad67dc5a70686016c2d3bc38f8ee9274806f6943471640f9d70ed2e32b14a95a49db4b5c7d6e3",
+    "client_seed": "1792352260969",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19763,
+    "max_tickets": 62000,
+    "combined_hash": "00c3abee193cad9073197d787ecdc185c0dd82ed1b6cb72612bd024e00083c46",
+    "result": "25985",
+    "external_round_id": "33182968",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:37:41.000000Z",
+    "revealed_at": "2026-10-18T19:37:48.000000Z"
+}
