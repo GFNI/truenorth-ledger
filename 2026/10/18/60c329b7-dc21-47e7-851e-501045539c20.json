@@ -1,0 +1,22 @@
+{
+    "round_id": "60c329b7-dc21-47e7-851e-501045539c20",
+    "draw_title": "2023 YALE OF BEAUFORT 10oz SILVER COIN — OR £500 CASH",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-yale-of-beaufort-10oz-silver-coin-or-ps500-cash",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "403e1eaf2ad924ef824c62a84a7b9d91fed1b7b18b0e2e80cf3b4c286f32c8cc",
+    "drand_seed_hash": "95e316ea3e6a7bb90a9c1cdf392e6fe9ab28228392530b0bdf4e1dc1eab3508ee60f47ed773d3e8bdb2c62bbc0bbcfc0",
+    "client_seed": "1792364163635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1926,
+    "max_tickets": 4000,
+    "combined_hash": "90c61eceb684d9ff0b06bda833db1fc93d1b21f2293b60d8106fb7c3783b31e8",
+    "result": "3409",
+    "external_round_id": "33186935",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T22:56:03.000000Z",
+    "revealed_at": "2026-10-18T22:56:09.000000Z"
+}
