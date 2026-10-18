@@ -1,0 +1,22 @@
+{
+    "round_id": "57c6ef6f-f61f-439c-8361-42352cd81cf2",
+    "draw_title": "Toy Factory Instant Win",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/toy-factory-instant-win",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "9945daeec7cdad768bc43cdb0a58c1805165f8c71fdc4656c3d0d0dd9ebafa1f",
+    "drand_seed_hash": "81f4a03bedfdc3b393d7fac4395957f81b11c92202d55d5317db59258ab53f2514ba74eb31df07d58dc6f68785bdbbde",
+    "client_seed": "1792350273121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10543,
+    "max_tickets": 70000,
+    "combined_hash": "b5347baa0709685f4d67530eb43cb0afe172f65d70fd4904e5a7ec12a34bc7d8",
+    "result": "1142",
+    "external_round_id": "33182305",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:04:33.000000Z",
+    "revealed_at": "2026-10-18T19:04:39.000000Z"
+}
