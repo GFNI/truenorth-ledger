@@ -1,0 +1,22 @@
+{
+    "round_id": "ead6e910-107d-4610-bd41-322925aee71d",
+    "draw_title": "WIN £100 FOR FREE! REFER FAMILY AND FRIENDS DRAW",
+    "competition_url": "https://championwincompetitions.co.uk/admin/products/win-ps100-for-free-refer-family-and-friends-draw",
+    "operator": {
+        "name": "Champion Win Competitions Ltd",
+        "website": "https://championwincompetitions.co.uk",
+        "company_number": "16303779"
+    },
+    "drand_server_seed": "9580e3574bf67c66e2856742a8d3052c9cdabb8aedadf35d14e1ef0202fa6b67",
+    "drand_seed_hash": "88c8d7dc877f1cf290ee77818f29c9fceb2fed76c9d39eee06dc6ebd7c5396d9cc45f0b97712fa0b1f7a1cfdcee6980e",
+    "client_seed": "1792364955656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 10000,
+    "combined_hash": "e3e50059b90974b5300246bf84d7ec1acb9e400776f371166738945309bc5d94",
+    "result": "1076",
+    "external_round_id": "33187199",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T23:09:15.000000Z",
+    "revealed_at": "2026-10-18T23:09:21.000000Z"
+}
