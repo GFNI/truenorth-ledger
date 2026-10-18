@@ -1,0 +1,22 @@
+{
+    "round_id": "d715b4ab-e04d-4eb4-a96c-e01835a30011",
+    "draw_title": "🔧Baldy Has Lost His Drill 😬 Freebie🔥",
+    "competition_url": "https://toolvaultcomps.co.uk/admin/products/baldy-has-lost-his-drill-freebie",
+    "operator": {
+        "name": "toolvaultcomps",
+        "website": "https://toolvaultcomps.co.uk",
+        "company_number": "17222475"
+    },
+    "drand_server_seed": "70a660168229d0e00990c90e137dcb9383c54698c8312127a848d69078dbba03",
+    "drand_seed_hash": "a83793fdbcdd8fbf6a10c7affe0adb77cc5e8113da6c34e76e207557c94f8f825445cf406c56e0677384db818ff030a4",
+    "client_seed": "1792353852296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 657,
+    "max_tickets": 7500,
+    "combined_hash": "ed9150b77fd0180b90fd00aef0821f5087eb67f85be5e18eaf793d8c848c3430",
+    "result": "766",
+    "external_round_id": "33183498",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:04:12.000000Z",
+    "revealed_at": "2026-10-18T20:04:18.000000Z"
+}
