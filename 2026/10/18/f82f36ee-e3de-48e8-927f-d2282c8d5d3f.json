@@ -1,0 +1,22 @@
+{
+    "round_id": "f82f36ee-e3de-48e8-927f-d2282c8d5d3f",
+    "draw_title": "PICK YOUR PRO! Iphone 18 Pro Instant Wins!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/pick-your-pro-iphone-18-pro-instant-wins",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "4920b6990fb76f14b23e2d965b15efeb761ccd972cf7fdee1f531118960969a3",
+    "drand_seed_hash": "9007bbafc7c75639dd23fb10d53d603512ead8e00d69bb24f56f9b2813191518c661270cb38fb90fdf0e10a13ae4e1b7",
+    "client_seed": "1792353672293",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6499,
+    "max_tickets": 6499,
+    "combined_hash": "56b47b5df4b2ffa2a0adad657840ce0f30cd8a64bc9a6012d3c61f8ffb5cae50",
+    "result": "4010",
+    "external_round_id": "33183438",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T20:01:12.000000Z",
+    "revealed_at": "2026-10-18T20:01:18.000000Z"
+}
