@@ -1,0 +1,22 @@
+{
+    "round_id": "d9285185-6685-417f-ac93-e60cb51cd32a",
+    "draw_title": "🐱 Jellycat Instant Win #2 🐻",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/jellycat-instant-win-2",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "40c72a494f4eec9f86af57041dd400cc1f9e31c7cfb382491fe3c64d4dc84548",
+    "drand_seed_hash": "98dbb5ec9463a50e216973c3c3160e5ced1339b60bda10a56f044c264f9442c4504c61558ff3661bd8cab3da7ce6a4fc",
+    "client_seed": "1792350216250",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11810,
+    "max_tickets": 20000,
+    "combined_hash": "7385932158776f5e679accccc9adc41c7cf2bd2d1fd613b379fc43d13f96b8ba",
+    "result": "16084",
+    "external_round_id": "33182286",
+    "processing_status": "completed",
+    "created_at": "2026-10-18T19:03:36.000000Z",
+    "revealed_at": "2026-10-18T19:03:42.000000Z"
+}
