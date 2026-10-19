@@ -1,0 +1,22 @@
+{
+    "round_id": "f6d45e51-2ec7-403a-a4cb-ceeab4b245ce",
+    "draw_title": "LEGO MARVEL BUNDLE🦸🏼🦸🏼🦸🏼",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/lego-marvel-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7823fab53bf0319731e068b9757013039a614ffc21d3b6fc99414417f29125ac",
+    "drand_seed_hash": "b2f8864b6541ea92c4f486a5e2c8bfdb07f3e22d30bd28127a724f3d38e5095979e4aa4b148de8c76215312f151ba3a1",
+    "client_seed": "1792436254961",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 936,
+    "max_tickets": 1000,
+    "combined_hash": "887d9012792c07f0999838a8aa43ab5fe28d0116aadef2303d07cc845a8bdcac",
+    "result": "209",
+    "external_round_id": "33210966",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T18:57:35.000000Z",
+    "revealed_at": "2026-10-19T18:57:42.000000Z"
+}
