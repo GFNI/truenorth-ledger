@@ -1,0 +1,22 @@
+{
+    "round_id": "9b894d15-8247-4b46-980a-95b638b1f013",
+    "draw_title": "£100 CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps100-cash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "750dddced65a385ff45d4b46d455e62ebc78fd5e3d2f3ad352e1299d99e1e993",
+    "drand_seed_hash": "b345d9c2b59965e752011ad2ac60e49752a7e4139555421c6fd5ada6c9b2885b41a4586e5437a6cc8cbd015d004ccd0a",
+    "client_seed": "1792440008550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "dd107420042a3711fdfac542fe1aff891a16dd9f061efda5d8ffe96cbb6d112d",
+    "result": "17406",
+    "external_round_id": "33212217",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:00:08.000000Z",
+    "revealed_at": "2026-10-19T20:00:15.000000Z"
+}
