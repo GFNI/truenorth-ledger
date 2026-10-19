@@ -1,0 +1,22 @@
+{
+    "round_id": "14035aaf-e812-4881-a7f5-b9549f5883ce",
+    "draw_title": "🎄 Fortnum & Mason The Merry Christmas Hamper 🎄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/fortnum-mason-the-merry-christmas-hamper",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4ce5f80cefe38ab3384013aa9fddf08d5fd7bf2db257838ff3844a38082d0ed2",
+    "drand_seed_hash": "a4dec0542a5428eab5d74bf609ea02ad8b52b57c116dd01cf7fd1d2382f1b9f8ddd0e796ba9ef7b4626b227a293c874d",
+    "client_seed": "1792435332734",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 975,
+    "max_tickets": 975,
+    "combined_hash": "dc6fd45c3478e411a8d39c196e63c45245a9dad76f106487ddcc172bd68bbdb4",
+    "result": "141",
+    "external_round_id": "33210658",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T18:42:12.000000Z",
+    "revealed_at": "2026-10-19T18:42:18.000000Z"
+}
