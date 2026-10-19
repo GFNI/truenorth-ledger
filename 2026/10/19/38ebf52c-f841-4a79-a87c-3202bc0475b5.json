@@ -1,0 +1,22 @@
+{
+    "round_id": "38ebf52c-f841-4a79-a87c-3202bc0475b5",
+    "draw_title": "SCRATCHIE - 5 X £50 END PRIZE",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/scratchie-5-x-ps50-end-prize",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "16a0e51625b496ecf22c0068dabe934490ba644760288848a2c2f60ea62bd71e",
+    "drand_seed_hash": "ac5186f55e01926b51f582655e449bdb067e29e40b2f93c96f822fc6887b5e75d4a7f4b6e4a9437ef7c1c8e7e7c68628",
+    "client_seed": "1792440717027",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 915,
+    "max_tickets": 10999,
+    "combined_hash": "757e2837495d4389bcba0f4f0fff116d9ca784327f5644925be134dfcfb08b7d",
+    "result": "10828",
+    "external_round_id": "33212453",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:11:57.000000Z",
+    "revealed_at": "2026-10-19T20:12:03.000000Z"
+}
