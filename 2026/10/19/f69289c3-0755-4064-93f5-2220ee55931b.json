@@ -1,0 +1,22 @@
+{
+    "round_id": "f69289c3-0755-4064-93f5-2220ee55931b",
+    "draw_title": "Operation Payday #2",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/operation-payday-2",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "13c87cfa1731bd18177a51f10005bc19daa11e9bc029b760722c9bd50e1ee4f9",
+    "drand_seed_hash": "80a3dc530d8562d62b026479fbf56ebf2004c47e5bbc2904443596547ef1a1eb68346d167b547d94b461935d93082e2c",
+    "client_seed": "1792437114439",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 599914,
+    "max_tickets": 599999,
+    "combined_hash": "c22a8b34771c0daa58047a2cfe1e460adf185deac02d14b8d51189b71b6c69c6",
+    "result": "137152",
+    "external_round_id": "33211252",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:11:54.000000Z",
+    "revealed_at": "2026-10-19T19:12:00.000000Z"
+}
