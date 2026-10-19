@@ -1,0 +1,22 @@
+{
+    "round_id": "90200469-20d9-4a5c-8893-d98b853334e6",
+    "draw_title": "It's Raining Fogstar's Instant Win Competition!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/its-raining-fogstars-instant-win-competition-7928",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "14f1dcc1311d917d79c943cf4bd31cc1933663d5c4cf43f22b2fd8cee527ff9f",
+    "drand_seed_hash": "8a2ce304db7bf2273824c1016ae2762880bb5fc8e043096a2a84e92f7a545309f2e32509fd57ab49cff6c9f9bf02f013",
+    "client_seed": "1792438200238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5149,
+    "max_tickets": 14499,
+    "combined_hash": "4efdd1e98400c46fdec2268da7e2a278cef0078d4a29930ac3a54047826b991f",
+    "result": "3759",
+    "external_round_id": "33211614",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:30:00.000000Z",
+    "revealed_at": "2026-10-19T19:30:06.000000Z"
+}
