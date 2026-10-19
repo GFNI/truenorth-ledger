@@ -1,0 +1,22 @@
+{
+    "round_id": "ee30ddfa-1f62-41b9-8b32-8d8e3888a566",
+    "draw_title": "APPLE iPhone 18 Pro - 256 GB, Black 🖤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-iphone-18-pro-256-gb-black",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fad09491a01f0e7bdc670c2d18ff39fa92cf09c10abe3ace86031a86e083a4db",
+    "drand_seed_hash": "a616578020c274bbde2b31b48472d16f69f03e22f7ae54a67a2315c91a85603c75e63b05242d82e248624373eebae73f",
+    "client_seed": "1792435432036",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "275c1cf5a9dcaae9f7f81d4412dfe794479a1476a2a1df14fb9bf1cd2987b9c2",
+    "result": "520",
+    "external_round_id": "33210692",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T18:43:52.000000Z",
+    "revealed_at": "2026-10-19T18:44:00.000000Z"
+}
