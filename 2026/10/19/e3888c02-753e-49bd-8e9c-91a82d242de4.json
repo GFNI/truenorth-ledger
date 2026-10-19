@@ -1,0 +1,22 @@
+{
+    "round_id": "e3888c02-753e-49bd-8e9c-91a82d242de4",
+    "draw_title": "The Hell Hound £100 🔥",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-hell-hound-ps100",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "b49a92e31da2b62551c848ed8256b89fb21f6f2a388727d1125c2267e1d99703",
+    "drand_seed_hash": "b9fffadbd5ebeea04f4f94ee1f0056ce6cd72bb309a314fa9f261cd683c4a26b6c449586bbe10ee92d281d6b043c9807",
+    "client_seed": "1792435969423",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 309,
+    "max_tickets": 800,
+    "combined_hash": "6b7c819a3d2968a986f7d4293993f361ebf9cb38fb5c7ffad06cd22cc2d41537",
+    "result": "460",
+    "external_round_id": "33210871",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T18:52:49.000000Z",
+    "revealed_at": "2026-10-19T18:52:57.000000Z"
+}
