@@ -1,0 +1,22 @@
+{
+    "round_id": "86682989-e237-4549-bd9a-13965974f8cc",
+    "draw_title": "Liverpool vs Chelsea  - 2 Hospitality tickets + Overnight Stay",
+    "competition_url": "https://giveawaycompetition.com/admin/products/liverpool-vs-chelsea-2-hospitality-tickets-overnight-stay",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "436d6f175e584b1e948d679806ccdd83c62c5316da58d3daf57e8fe7d06b5986",
+    "drand_seed_hash": "81fa2ff8978e07345b7b13d950cb4fee3fa7da42c10401cbfd758651576a9c9b7ee2678ac7aad7ac41e4a30fdf379736",
+    "client_seed": "1792443100627",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 155,
+    "max_tickets": 600,
+    "combined_hash": "1bf91c1b0a51c46b512b5117fc0e53b4cc1c06a2498adb315098f30f9b3d82b5",
+    "result": "212",
+    "external_round_id": "33213248",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:51:40.000000Z",
+    "revealed_at": "2026-10-19T20:51:48.000000Z"
+}
