@@ -1,0 +1,22 @@
+{
+    "round_id": "14a719d3-1b62-40e9-ad0b-6ba21769040b",
+    "draw_title": "Win Elmer the Auto VW Crafter Camper plus £2000 cash!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-elmer-the-auto-vw-crafter-camper-plus-ps2000-cash",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "bf3fa9de189f3c87ea6bfaeb07736c2a91b0554432c69293d1d97b140ffc5020",
+    "drand_seed_hash": "88db827141d5d42d7686c3ea55bd19bed8f4e931b8750704cfce25d09f66d38f4e4c3f50134b2b1b93a16d30294db0ed",
+    "client_seed": "1792439097299",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25312,
+    "max_tickets": 32499,
+    "combined_hash": "6e4c2408842691c4567c9905152f836f32cd3d29730fa30f3caaceb3b2c96edd",
+    "result": "3294",
+    "external_round_id": "33211913",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:44:57.000000Z",
+    "revealed_at": "2026-10-19T19:45:03.000000Z"
+}
