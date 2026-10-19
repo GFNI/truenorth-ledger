@@ -1,0 +1,22 @@
+{
+    "round_id": "8c82e482-1057-4616-b587-8e6137920b7c",
+    "draw_title": "🪄 24 Days Of MAC Icons Advent Calendar + £100 Spends 🪄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/24-days-of-mac-icons-advent-calendar-ps100-spends",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8df5f3c6f624c739580a3e1ad0fbfcdb995ebd78c4c0dd6377235819d8ebd4d5",
+    "drand_seed_hash": "b3df3b09136ac70d3013471eb57bddcd6bf52349e98617da22c9d68020e1522b88c97cff25e475a000851c03249e0d79",
+    "client_seed": "1792435935194",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1025,
+    "max_tickets": 1025,
+    "combined_hash": "002fce8bc437cc84bc3d82831635518f78c6701839b9790a9ec4fd05d84900ae",
+    "result": "48",
+    "external_round_id": "33210859",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T18:52:15.000000Z",
+    "revealed_at": "2026-10-19T18:52:21.000000Z"
+}
