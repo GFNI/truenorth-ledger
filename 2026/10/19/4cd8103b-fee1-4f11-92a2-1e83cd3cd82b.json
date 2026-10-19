@@ -1,0 +1,22 @@
+{
+    "round_id": "4cd8103b-fee1-4f11-92a2-1e83cd3cd82b",
+    "draw_title": "One Penny Big Shop or £250 Cash",
+    "competition_url": "https://jetcomps.co.uk/admin/products/one-penny-big-shop-or-ps250-cash",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "2a3d0121760528ac154a13cbdc56475d09094067bac8ac332890016cca4a2a82",
+    "drand_seed_hash": "8adfb49bd4d7d9e602283c16ddfc71f26e3848d31471b3806e381c99d38be337f6814a3fda57090460c3ef865dcdc2b5",
+    "client_seed": "1792438367075",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33767,
+    "max_tickets": 37500,
+    "combined_hash": "2c7059f3358f45977faa74813d391affbedcff1d4919a5c142ee748ab8b2edb1",
+    "result": "24909",
+    "external_round_id": "33211670",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:32:47.000000Z",
+    "revealed_at": "2026-10-19T19:32:54.000000Z"
+}
