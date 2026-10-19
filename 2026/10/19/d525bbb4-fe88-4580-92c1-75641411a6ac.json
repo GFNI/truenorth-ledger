@@ -1,0 +1,22 @@
+{
+    "round_id": "d525bbb4-fe88-4580-92c1-75641411a6ac",
+    "draw_title": "🎃🐺 THE WOLF & MISS JAYJAY’S PUMPKIN PICK! 🐺🎃",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/the-wolf-miss-jayjays-pumpkin-pick",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "4f23ffa7248fc2bfd4d2d975e4c10ab1fe1f36f397fe1a700b6bf60517faaed6",
+    "drand_seed_hash": "9866d8ce9819f1eed5cb7f061d32b971cfbe5add444b6c14608c90ecb7631c23c8ac38e38dba8f9a5edeb1fa44516e0a",
+    "client_seed": "1792444026303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23926,
+    "max_tickets": 24000,
+    "combined_hash": "d84e7258ce47dbe48f343ecb3d612214e8086e394abc423b4a3b5453934d3ce6",
+    "result": "14297",
+    "external_round_id": "33213556",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T21:07:06.000000Z",
+    "revealed_at": "2026-10-19T21:07:12.000000Z"
+}
