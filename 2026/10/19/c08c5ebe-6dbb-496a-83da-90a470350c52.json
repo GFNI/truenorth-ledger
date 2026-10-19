@@ -1,0 +1,22 @@
+{
+    "round_id": "c08c5ebe-6dbb-496a-83da-90a470350c52",
+    "draw_title": "£15,000 Cash",
+    "competition_url": "https://chaotic.co.uk/competition/ps15000-cash",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "0f1242c3c8377aac62e579fcc6cd51736e5b2a416eaa5db55611bf656ebd0d11",
+    "drand_seed_hash": "8c6902d8ffc3272118bc5221723b4e44329ce58c4293267bbc71220b1fe059f11f1b474d86330a205a37d64d40d45496",
+    "client_seed": "1792440582599",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 159999,
+    "max_tickets": 159999,
+    "combined_hash": "debb030ac744737985c6a2dba932c28db26c9cb16bfbb3f8b832521483a6789a",
+    "result": "17913",
+    "external_round_id": "33212408",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:09:42.000000Z",
+    "revealed_at": "2026-10-19T20:09:48.000000Z"
+}
