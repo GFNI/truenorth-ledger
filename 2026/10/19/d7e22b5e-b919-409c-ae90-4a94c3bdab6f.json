@@ -1,0 +1,22 @@
+{
+    "round_id": "d7e22b5e-b919-409c-ae90-4a94c3bdab6f",
+    "draw_title": "UFO GO!",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ufo-go",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "34a8f553787401e64c5b145e2dfb6c28094789daee6d0e8d3b555601a8349df1",
+    "drand_seed_hash": "ae584da00d2fc594ef56230d1094959edfd03c10dc747d2d475e42ed857f67b347c9e810c0f256019014168d8179dbdc",
+    "client_seed": "1792438042836",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69000,
+    "max_tickets": 69000,
+    "combined_hash": "19002119b8e0c90ca856de3f29995590da09e5ea08547c86dce18b89ecab3854",
+    "result": "3114",
+    "external_round_id": "33211562",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:27:22.000000Z",
+    "revealed_at": "2026-10-19T19:27:30.000000Z"
+}
