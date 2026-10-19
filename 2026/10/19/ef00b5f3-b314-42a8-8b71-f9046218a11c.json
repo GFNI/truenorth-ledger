@@ -1,0 +1,22 @@
+{
+    "round_id": "ef00b5f3-b314-42a8-8b71-f9046218a11c",
+    "draw_title": "✈️ £1,500 Jet2 spends + £500 cash 💸",
+    "competition_url": "https://windropcompetitions.com/admin/products/ps1500-jet2-spends-ps500-cash",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "f544fa775a1f2d88cf115740de1dee587d74c0a82717595f9e295bb13914aaf2",
+    "drand_seed_hash": "b6f89d90711c12895662e962a9f98d9688115fa0173fed72e2456b0d66f84c86cb75918aa9b8560ec323b3d1511bbde0",
+    "client_seed": "1792436514622",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 772,
+    "max_tickets": 3299,
+    "combined_hash": "33db35a4a58addf6232b0162b9796d0c589242a95e9e8d6e6d7ce25ed198fd53",
+    "result": "1347",
+    "external_round_id": "33211052",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:01:54.000000Z",
+    "revealed_at": "2026-10-19T19:02:00.000000Z"
+}
