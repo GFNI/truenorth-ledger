@@ -1,0 +1,22 @@
+{
+    "round_id": "97c98cd9-f12c-451e-8659-2c09ebe8df76",
+    "draw_title": "⭐£2000 ENTER FOR 49P⭐",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps2000-enter-for-49p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f544fa775a1f2d88cf115740de1dee587d74c0a82717595f9e295bb13914aaf2",
+    "drand_seed_hash": "b6f89d90711c12895662e962a9f98d9688115fa0173fed72e2456b0d66f84c86cb75918aa9b8560ec323b3d1511bbde0",
+    "client_seed": "1792436515490",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6946,
+    "max_tickets": 8100,
+    "combined_hash": "6993b696da07406fd2c5999cf11e5d637226d5b5e15bbce643b7ff9134285b42",
+    "result": "3090",
+    "external_round_id": "33211052",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:01:55.000000Z",
+    "revealed_at": "2026-10-19T19:02:00.000000Z"
+}
