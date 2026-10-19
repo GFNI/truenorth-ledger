@@ -1,0 +1,22 @@
+{
+    "round_id": "d5fadb87-cdbd-4669-85a0-7f218a40db0f",
+    "draw_title": "Catch A Ghost",
+    "competition_url": "https://ogcompetitions.co.uk/lists/catch-a-ghost-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "a7f48f6cda5566a2265f0aa30f6dd58120b46e0505bce2382304334cc6252044",
+    "drand_seed_hash": "ab751b3cbe451d74444d86c734b35345995f0cc24ee9940595266b894e852ee167a85de8afa946f78a54621c33bda070",
+    "client_seed": "1792444469677",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 43000,
+    "combined_hash": "833b9a3d75c40673a92996842e2906d7e925fa9cf16a9a4eaaa2b6b04fd0c898",
+    "result": "12956",
+    "external_round_id": "33213704",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T21:14:29.000000Z",
+    "revealed_at": "2026-10-19T21:14:39.000000Z"
+}
