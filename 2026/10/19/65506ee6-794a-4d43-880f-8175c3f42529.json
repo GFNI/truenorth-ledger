@@ -1,0 +1,22 @@
+{
+    "round_id": "65506ee6-794a-4d43-880f-8175c3f42529",
+    "draw_title": "Late Night Loot",
+    "competition_url": "https://chaotic.co.uk/competition/late-night-loot-7596",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "cdae5dfcd405ef6b835c109199081092bb809409f61e3d95d6fd771ae203df35",
+    "drand_seed_hash": "b573143c23ac07d3f3012c8355dbcaae4450a143ec3d32404e229b6f5c3c91deba1894273ae8b46d17fedee1ffe7797c",
+    "client_seed": "1792438964733",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "56bf3c2d0b4176ad5157ba8b7786a3b4a851faa663208fe569dc127dd5768d2e",
+    "result": "1863",
+    "external_round_id": "33211869",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T19:42:44.000000Z",
+    "revealed_at": "2026-10-19T19:42:51.000000Z"
+}
