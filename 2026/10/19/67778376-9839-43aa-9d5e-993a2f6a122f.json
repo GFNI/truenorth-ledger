@@ -1,0 +1,22 @@
+{
+    "round_id": "67778376-9839-43aa-9d5e-993a2f6a122f",
+    "draw_title": "Lizards Luck",
+    "competition_url": "https://chaotic.co.uk/competition/lizards-luck-6131",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "8fabdffa26009701759ced0be632891aa69d7e86aa1ed6328ef9cdb33d60822f",
+    "drand_seed_hash": "a0a6a93b5c24acbbe7f8921f5887dd99ae4209a511c0ed8ef5d2029c0b6818e92931fffb89a1e0dac510d91ecde81435",
+    "client_seed": "1792440202138",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500000,
+    "max_tickets": 500000,
+    "combined_hash": "e9910e758c1ee73391673110b8b9b78bb2e6ac9d18cf6f86ca7ab3c1d8023254",
+    "result": "389130",
+    "external_round_id": "33212282",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:03:22.000000Z",
+    "revealed_at": "2026-10-19T20:03:30.000000Z"
+}
