@@ -1,0 +1,22 @@
+{
+    "round_id": "1c2e426b-addb-409b-a3ef-98ca250fce77",
+    "draw_title": "Reel of Chaos",
+    "competition_url": "https://chaotic.co.uk/competition/reel-of-chaos-5248",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "08b6f3dd5546c382724ff7b46821b0c19346a83e31cfc8f078b20dd2de085fec",
+    "drand_seed_hash": "9848f480714756455cb5bb539a20868ab3b2772a1d9af5cb2fa9a49f4b7600faa60f20a0a505b30cbe909bf24296cbcf",
+    "client_seed": "1792440057656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 249999,
+    "max_tickets": 249999,
+    "combined_hash": "7f95aa6f6928bbf050a1debf736ad1aa102dcf39701cea5286908162be1a5166",
+    "result": "207861",
+    "external_round_id": "33212233",
+    "processing_status": "completed",
+    "created_at": "2026-10-19T20:00:57.000000Z",
+    "revealed_at": "2026-10-19T20:01:03.000000Z"
+}
