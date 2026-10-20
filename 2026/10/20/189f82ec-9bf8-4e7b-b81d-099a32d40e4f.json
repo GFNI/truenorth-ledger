@@ -1,0 +1,22 @@
+{
+    "round_id": "189f82ec-9bf8-4e7b-b81d-099a32d40e4f",
+    "draw_title": "2022 Maid Marian 1oz Fine Silver Coin",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2022-maid-marian-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "4cb78888f5ab30f1273355fad963b9127fc15296b1f93eb6196ea16928d361cf",
+    "drand_seed_hash": "acdaedcb5b94ba149cb8258c795ab6e49aca7143776dc94fd5bd4bd7415cecab77e4f39697cb29dcdea008df9e3dd674",
+    "client_seed": "1792536966695",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 150,
+    "combined_hash": "5b6a5a592bf630369092be10f1255be71a58862587e7516ed1fec4e195396619",
+    "result": "92",
+    "external_round_id": "33244536",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T22:56:06.000000Z",
+    "revealed_at": "2026-10-20T22:56:12.000000Z"
+}
