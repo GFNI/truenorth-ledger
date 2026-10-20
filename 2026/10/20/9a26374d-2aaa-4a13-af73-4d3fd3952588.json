@@ -1,0 +1,22 @@
+{
+    "round_id": "9a26374d-2aaa-4a13-af73-4d3fd3952588",
+    "draw_title": "Daily Autodraw 1 to win ticket Bundle into this weeks live draws on 25/10",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/daily-autodraw-1-to-win-ticket-bundle-into-this-weeks-live-draws-on-2510",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "df9241063d9cfe86d13d4004238131d20af82779a220ccc1487c60f41e4ee827",
+    "drand_seed_hash": "aec1ac8bddc604068b4f0b89c2876c0547490d4ff3ea2089897522682bfea83315e92b93293d9dd226f728064ff55976",
+    "client_seed": "1792529763685",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 50,
+    "combined_hash": "9098aa7f5e80fd159dacdce6c2345509921f704090aa0abafbbf2acfabc0b1c9",
+    "result": "9",
+    "external_round_id": "33242135",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T20:56:03.000000Z",
+    "revealed_at": "2026-10-20T20:56:09.000000Z"
+}
