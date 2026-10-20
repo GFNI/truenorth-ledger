@@ -1,0 +1,22 @@
+{
+    "round_id": "30f52d8f-5021-420c-a9cb-1256119ed8ca",
+    "draw_title": "SCAPA 21 PLUS INSTANT WINS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/scapa-21-plus-instant-wins",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "e9429d5263c46f48502520de5d7275a19a61faa1e8f9f94e0d6d756c75ca3fe4",
+    "drand_seed_hash": "a35565876e8585e7ed6aeb52cec41bff6fc152d85759c8766259d4b4d9e37b697fcd5cae2990d56a2b605d75c7ef9824",
+    "client_seed": "1792530694641",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 422,
+    "max_tickets": 2499,
+    "combined_hash": "ac7a6db138e234c8f34bb61914a51cea9ddaf8cfd8ba1324543b5d1de6ca6545",
+    "result": "734",
+    "external_round_id": "33242446",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T21:11:34.000000Z",
+    "revealed_at": "2026-10-20T21:11:42.000000Z"
+}
