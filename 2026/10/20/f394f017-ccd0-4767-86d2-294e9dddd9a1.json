@@ -1,0 +1,22 @@
+{
+    "round_id": "f394f017-ccd0-4767-86d2-294e9dddd9a1",
+    "draw_title": "Gold Rush",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/gold-rush-2",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "fb53fe66154a3003ee428569d1e604903afb3860771ab2dc9ccdb08efbce40f2",
+    "drand_seed_hash": "a1e0ea67034ebfea4ab5d60a93d972e01d6691024a658558dd09967673fec23facc20e560164262a946aa6cc4f3638a0",
+    "client_seed": "1792526648205",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12724,
+    "max_tickets": 250000,
+    "combined_hash": "64fd9df99fdd30d42d6f4bcfe2947a73d1911adf4b343e3f1fabfc840b409b91",
+    "result": "130805",
+    "external_round_id": "33241097",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T20:04:08.000000Z",
+    "revealed_at": "2026-10-20T20:04:15.000000Z"
+}
