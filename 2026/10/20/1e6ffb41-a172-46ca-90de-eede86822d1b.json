@@ -1,0 +1,22 @@
+{
+    "round_id": "1e6ffb41-a172-46ca-90de-eede86822d1b",
+    "draw_title": "⚡ POKÉMON 30TH CELEBRATION – 10 X ETB INSTANT WINS + ETB END PRIZE! | £1 A TICKET",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/pokemon-30th-celebration-10-x-etb-instant-wins-etb-end-prize-ps1-a-ticket",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "5fe6ef2219ceb96165452fb2c27f17a1bbdf862d4a82798c0c94dce97b12eeb0",
+    "drand_seed_hash": "a1c2ddf37328add7cec0527fb4dbf5c75cdc55226f16b259d5ce65c7744b77d21605f27d60d389f38c1d7895bff18801",
+    "client_seed": "1792522723359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "f647cfa83e54e1a018a12c3d1a42e892b50cd2a3d8f1fa1b13439f15a5c4bfa7",
+    "result": "663",
+    "external_round_id": "33239789",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T18:58:43.000000Z",
+    "revealed_at": "2026-10-20T18:58:51.000000Z"
+}
