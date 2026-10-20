@@ -1,0 +1,22 @@
+{
+    "round_id": "eb7e1933-aca2-4d46-8c95-ddd5e8247cc0",
+    "draw_title": "WIN THE GLENALLACHIE ADVENT CALENDAR!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-the-glenallachie-advent-calendar",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "84afaca4e7b6d7a6a494ce36f16d31373af445241e5a77e772a18029ccab33cd",
+    "drand_seed_hash": "81a11ffc33d07850e96aeddca6c385a389b960806f511403e869782e9c376be773d5eb8e22b63b251504c1fe1eecab27",
+    "client_seed": "1792530702550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92,
+    "max_tickets": 100,
+    "combined_hash": "5fb0442d8e83698ac2b421a868271e3ded9b558fd82e9b6c3becaf5a78ff1f47",
+    "result": "20",
+    "external_round_id": "33242448",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T21:11:42.000000Z",
+    "revealed_at": "2026-10-20T21:11:48.000000Z"
+}
