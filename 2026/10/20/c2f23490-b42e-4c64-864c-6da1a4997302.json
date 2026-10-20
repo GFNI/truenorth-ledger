@@ -1,0 +1,22 @@
+{
+    "round_id": "c2f23490-b42e-4c64-864c-6da1a4997302",
+    "draw_title": "PLAY YOUR CARDS RIGHT TONIGHT LIVE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/play-your-cards-right-tonight-live",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "806d8a7d23d74d143e5cc15169a5e7b8de86aed9e56fb5995aa7a9d9bb2f32cf",
+    "drand_seed_hash": "95ad47bb926ca199c5b7d4fdbb4b8ecd855e30ba63330c63295029b77b4cede38e2ebe112e8803836a131dd9c9624682",
+    "client_seed": "1792529701720",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24,
+    "max_tickets": 500,
+    "combined_hash": "05b519aee3e423384889e6227a9a151ba49cb2ecf84831534b700ecc955db32a",
+    "result": "326",
+    "external_round_id": "33242115",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T20:55:01.000000Z",
+    "revealed_at": "2026-10-20T20:55:09.000000Z"
+}
