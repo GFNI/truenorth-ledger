@@ -1,0 +1,22 @@
+{
+    "round_id": "9622af45-e9d2-459f-83dd-5c1a2f1e143e",
+    "draw_title": "£250 Autowin",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps250-autowin-9772",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "81e323e3023ccf6746521bf54e8a58b748e0f32d70aa705a4544c37b67df064f",
+    "drand_seed_hash": "b8baa77316e906ce6962ffb543f27be3f96ae8ee5071136c75c1ea1dae9e2882049eac6baa7fac6dde9e436a43f6e7cd",
+    "client_seed": "1792501810594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10763,
+    "max_tickets": 60000,
+    "combined_hash": "53ba6406f298c378f86131f991684fcbefae2edf5176abc9510f8675d3b313fb",
+    "result": "44596",
+    "external_round_id": "33232818",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T13:10:10.000000Z",
+    "revealed_at": "2026-10-20T13:10:18.000000Z"
+}
