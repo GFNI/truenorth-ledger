@@ -1,0 +1,22 @@
+{
+    "round_id": "e73bc1bb-9ac2-4172-92aa-e08238d387d8",
+    "draw_title": "🪏GHOUL DIGGER🪏",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/ghoul-digger",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "f98379fe06c838b39e1e455c4b87d8fab0dc0b57f439bc07a95326b5a48fdc14",
+    "drand_seed_hash": "a9239436caf1ff58356979b97aa81b0a2853fef76112228e8bc996539720c99b126a0449c6c2f08053841a298d3ed789",
+    "client_seed": "1792520075227",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2218,
+    "max_tickets": 17000,
+    "combined_hash": "ec3c93f9827dc5d2d94b1d9e9f9f02e6865a71062476f815acd5d17f4601a37d",
+    "result": "8173",
+    "external_round_id": "33238906",
+    "processing_status": "completed",
+    "created_at": "2026-10-20T18:14:35.000000Z",
+    "revealed_at": "2026-10-20T18:14:42.000000Z"
+}
