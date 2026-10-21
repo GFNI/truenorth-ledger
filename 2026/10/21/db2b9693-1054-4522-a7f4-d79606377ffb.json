@@ -1,0 +1,22 @@
+{
+    "round_id": "db2b9693-1054-4522-a7f4-d79606377ffb",
+    "draw_title": "WIN THE GLENALLACHIE 35 YEAR OLD + 20 BOTTLE INSTANT WINS",
+    "competition_url": "https://whiskyclubuk.com/admin/products/glenallachie-35-year-old-20-bottle-instant-wins",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "b74f48da7aed9b156b3abb1290c661222b3d053a5ea284fe61400d0d8f6d488f",
+    "drand_seed_hash": "acbfb69b5df01e4d6aef467b4838d13fa5608c2060fd41a8594e83eaa21e33598c05347b78365fc6f69b7f268a352f0a",
+    "client_seed": "1792617012538",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1452,
+    "max_tickets": 2999,
+    "combined_hash": "cbe67360d45476232e9a0382f1debb69bd4344e827fe96637f277f53e9d797de",
+    "result": "2042",
+    "external_round_id": "33271218",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T21:10:12.000000Z",
+    "revealed_at": "2026-10-21T21:10:18.000000Z"
+}
