@@ -1,0 +1,22 @@
+{
+    "round_id": "237b5be2-3a85-4af5-9be6-55ae7ddad513",
+    "draw_title": "Pop A Pika",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/pop-a-pika",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "e1022f84adce8886a02783f67d94886c4cae852ca51cd1e00cee64e51acfaf57",
+    "drand_seed_hash": "b2290c4d1147213b3a26462ed6988f1a8aefaf8ea07518398d768b92f7fef5c55629822be85715409bf3a700244e14de",
+    "client_seed": "1792591959142",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119032,
+    "max_tickets": 300000,
+    "combined_hash": "6c7a29ef4603f5447b785a4aadf561ecf0fe35b0b95062104c24f69041050d79",
+    "result": "272941",
+    "external_round_id": "33262867",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T14:12:39.000000Z",
+    "revealed_at": "2026-10-21T14:12:45.000000Z"
+}
