@@ -1,0 +1,22 @@
+{
+    "round_id": "32396995-6ba0-4404-98e6-7d2ee75b11e7",
+    "draw_title": "£1,000 CASH PLUS 10 X £100 CASH INSTANT WINS - LOW ODDS",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps1000-cash-plus-10-x-ps100-cash-instant-wins-low-odds-2",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "3042d4ad47521ecc942f3dd90705563ecc57c455a5f569bea073a3df562e1d21",
+    "drand_seed_hash": "b0ce233f06c2cc8014f93ed3b65964cbbc4647e696ece810741bb0de917dd536ea34a943a838fd0db0c287d75fdfe65a",
+    "client_seed": "1792614389700",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "9683ed52e95df15842d945f3040e3f765e53e55187e527d3fcda498e150ce842",
+    "result": "2431",
+    "external_round_id": "33270344",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:26:29.000000Z",
+    "revealed_at": "2026-10-21T20:26:36.000000Z"
+}
