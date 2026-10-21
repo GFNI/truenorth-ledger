@@ -1,0 +1,22 @@
+{
+    "round_id": "95e4027f-2368-4a10-8a6a-a3c149a21df8",
+    "draw_title": "DeWalt 18V XR Combi Drill & SDS+ Drill Twin Pack with 2x 5.0Ah Batteries🔋🔋",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/dewalt-18v-xr-combi-drill-sds-drill-twin-pack-with-2x-50ah-batteries",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "fbac4eb8ad957078fc54a9420c1f4003f77e9628e3e5d4a17b6773a6eaccbbee",
+    "drand_seed_hash": "b65ecb3510351bf9da9e30097b27bf20f187f73b353b269acd5582627bd636a27c37181f1873548aada9a691e4e06d00",
+    "client_seed": "1792608466319",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 828,
+    "max_tickets": 1100,
+    "combined_hash": "ffe23eb1d4faec608f1347eedf75f4f6f5eb1a4f807b1377a2c7b813d0a1971b",
+    "result": "276",
+    "external_round_id": "33268370",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T18:47:46.000000Z",
+    "revealed_at": "2026-10-21T18:47:54.000000Z"
+}
