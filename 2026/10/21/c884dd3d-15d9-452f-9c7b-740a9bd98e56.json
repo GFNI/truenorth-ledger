@@ -1,0 +1,22 @@
+{
+    "round_id": "c884dd3d-15d9-452f-9c7b-740a9bd98e56",
+    "draw_title": "Kaiweets Explorer X MkII Detector!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/kaiweets-explorer-x-mkii-detector",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "b3b0cee642b26e967ad13ee2892d2c01d8cc64a8a4b08bfd63c723bff2385fd8",
+    "drand_seed_hash": "a46abcedc75e06f7356362d919b7dd27f5011dc0416fa8d0f7f8187b48dd544e593c6233ba6d4a8b311a9927e90ef291",
+    "client_seed": "1792610402757",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112,
+    "max_tickets": 450,
+    "combined_hash": "aed3d9fa848f86bfa14a34875108105c8fb1a4942b009e18a2e95801a3302c06",
+    "result": "403",
+    "external_round_id": "33269015",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:20:03.000000Z",
+    "revealed_at": "2026-10-21T19:20:09.000000Z"
+}
