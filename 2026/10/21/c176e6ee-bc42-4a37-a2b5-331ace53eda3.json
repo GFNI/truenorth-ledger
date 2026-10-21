@@ -1,0 +1,22 @@
+{
+    "round_id": "c176e6ee-bc42-4a37-a2b5-331ace53eda3",
+    "draw_title": "BRAND NEW iPHONE 18 PRO 256GB - 21/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/brand-new-iphone-18-pro-256gb-2110",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "9ed7de6509e0c95213fc9127415f734b852a9ba1013c75d1ce22d294d50bb5ea",
+    "drand_seed_hash": "99b296c1b80199a201d8c041a0e18309887e7da27e08c310444da438c396645758a975263e9a8981c8540fb35b847b06",
+    "client_seed": "1792616707174",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20959,
+    "max_tickets": 49995,
+    "combined_hash": "8fd04426240bd7afebbe4ed32b501873bdb23e151bee65d7cc18c90d09d44334",
+    "result": "8258",
+    "external_round_id": "33271117",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T21:05:07.000000Z",
+    "revealed_at": "2026-10-21T21:05:15.000000Z"
+}
