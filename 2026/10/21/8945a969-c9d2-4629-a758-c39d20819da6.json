@@ -1,0 +1,22 @@
+{
+    "round_id": "8945a969-c9d2-4629-a758-c39d20819da6",
+    "draw_title": "99 TICKETS: WIN This Ninja DualBrew Coffee Machine",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/99-tickets-win-this-ninja-dualbrew-coffee-machine",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "072020def204c98d2e39a252ff7e6811c81f72efbf2118bdbe248937ff989143",
+    "drand_seed_hash": "81d5a549bb9a058df9c33db87c0c0d59cb28c133e6b24810084d2f9e32a3389041968e8c76b8b530d7673e58f5661aa5",
+    "client_seed": "1792611873094",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 99,
+    "combined_hash": "bdb07863f545c80e625dcf36e23b6dd77b1b211adab0d38500e4fe9f1dd8d604",
+    "result": "60",
+    "external_round_id": "33269505",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:44:33.000000Z",
+    "revealed_at": "2026-10-21T19:44:39.000000Z"
+}
