@@ -1,0 +1,22 @@
+{
+    "round_id": "ba397f8d-9cb7-48fd-adf6-6dfa37d8148b",
+    "draw_title": "💎✨ INSTANT CASH GEMS – £20,000 WORTH OF WINS! ✨💎",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/instant-cash-gems-ps20000-worth-of-wins",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "727f2ac48c6ce324df135ccc6142fcbed4b0e0b88b58f42c371f3cb8722483ca",
+    "drand_seed_hash": "800ae0f194fb0cfb7f973a305e965b60dcf23c44d52c01cc3d63ace74d9d7eca8d21f860b303b750a8281a8f7018c7f6",
+    "client_seed": "1792611966980",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9112,
+    "max_tickets": 110000,
+    "combined_hash": "eabc1adec5a0f9a597f5a1184714655a8c0a4488c3dc66f6f6c0285d1e42f7ad",
+    "result": "44251",
+    "external_round_id": "33269537",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:46:07.000000Z",
+    "revealed_at": "2026-10-21T19:46:15.000000Z"
+}
