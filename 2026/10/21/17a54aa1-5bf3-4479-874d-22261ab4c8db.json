@@ -1,0 +1,22 @@
+{
+    "round_id": "17a54aa1-5bf3-4479-874d-22261ab4c8db",
+    "draw_title": "STEVEN'S BIG WINS 1p PENNY PUSHER",
+    "competition_url": "https://gamechangercomps.co.uk/admin/products/stevens-big-wins-1p-penny-pusher",
+    "operator": {
+        "name": "Game Changer Comps Ltd",
+        "website": "https://gamechangercomps.co.uk",
+        "company_number": "SC607610"
+    },
+    "drand_server_seed": "c21b6dbcfa50b2fdb0dcd5140d4f0b65a6beb6ead007f6f3bab33f702914d95a",
+    "drand_seed_hash": "b8a1523f37836850527631e60792782d6673094e8db7b0aa7cc0cf35b1888a62308c9fd56a71352736bb64d8c58a15d5",
+    "client_seed": "1792611786572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 375824,
+    "max_tickets": 750000,
+    "combined_hash": "b352b00e825c9d0fd962ca260f6090075bdd23e03a8611431be3d46e6ea3f0b2",
+    "result": "436532",
+    "external_round_id": "33269476",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:43:06.000000Z",
+    "revealed_at": "2026-10-21T19:43:12.000000Z"
+}
