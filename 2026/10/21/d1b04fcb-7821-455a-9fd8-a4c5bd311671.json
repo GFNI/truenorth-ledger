@@ -1,0 +1,22 @@
+{
+    "round_id": "d1b04fcb-7821-455a-9fd8-a4c5bd311671",
+    "draw_title": "Win £25 worth of tickets into Trakker NXG Hot Water Bottles + Instant Wins - 1p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-trakker-nxg-hot-water-bottles-instant-wins",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "4aa2d578f3851e152b1b985b308af9384bdc10eb0d34a80c229baf1ab7ba624d",
+    "drand_seed_hash": "a01d99190729311f9bd6688469b809a1eadc271ba4140730fb68b67d6c681635503f29a1cbd02ed2bb73046dbf85fd61",
+    "client_seed": "1792602655915",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2268,
+    "max_tickets": 3500,
+    "combined_hash": "eae17f7b3237bf9900c3009420e6fc6771af61b5da8acfb99f8ff5a924d492a2",
+    "result": "2975",
+    "external_round_id": "33266433",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T17:10:55.000000Z",
+    "revealed_at": "2026-10-21T17:11:03.000000Z"
+}
