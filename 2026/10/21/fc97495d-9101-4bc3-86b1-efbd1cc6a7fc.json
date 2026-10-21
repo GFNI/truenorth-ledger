@@ -1,0 +1,22 @@
+{
+    "round_id": "fc97495d-9101-4bc3-86b1-efbd1cc6a7fc",
+    "draw_title": "WIN This Whole British Beef Fillet",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-this-whole-british-beef-fillet",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "67c939764c397c37602d3b21952bc7afae6bfb73b9a3e7f2a63c47c3250479fc",
+    "drand_seed_hash": "883cc426709ff14a61b6ddbf7073b39e7666d3f9f9d565d5fc5a604762c7a80598081f66b3b1bc4b18b18ad44395a5ab",
+    "client_seed": "1792611966929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 543,
+    "max_tickets": 867,
+    "combined_hash": "9d6e4c57e67157efd1d8a5524342d1c515617f160304714aa9fc4746eacd292c",
+    "result": "278",
+    "external_round_id": "33269536",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:46:07.000000Z",
+    "revealed_at": "2026-10-21T19:46:12.000000Z"
+}
