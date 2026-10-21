@@ -1,0 +1,22 @@
+{
+    "round_id": "179d1b1e-44f7-4a46-8d46-f047a0b71578",
+    "draw_title": "12 Weeks Of Christmas Week 3",
+    "competition_url": "https://ecnicompetitions.com/admin/products/12-weeks-of-christmas-week-3",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "ed6f18f4176115a7f3969db08163f65b14143f243919d99838e16aaff014b07e",
+    "drand_seed_hash": "b576b34c6045f7e6109e54ed55084f5e54947356d0a73adb16ca416baae897bf976a20d0b1debd44b0f763a46bc00ed6",
+    "client_seed": "1792614902823",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1581,
+    "max_tickets": 2000,
+    "combined_hash": "8a4513a90f410a774635c67b3eb30917fabbdc29b9cecc5069b7abf1235ba378",
+    "result": "491",
+    "external_round_id": "33270515",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:35:03.000000Z",
+    "revealed_at": "2026-10-21T20:35:09.000000Z"
+}
