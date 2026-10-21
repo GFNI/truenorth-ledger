@@ -1,0 +1,22 @@
+{
+    "round_id": "b33739d1-0e54-43fd-bfec-f7ed4222a149",
+    "draw_title": "Win £25 worth of tickets into Korda Tackle Box Bundle + Instant Wins - 10p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-korda-tackle-box-bundle-instant-wins-10p-2",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "398f9fbd26a2ddba962135ed184974f2e722b05f1888841c4522f5111511b93e",
+    "drand_seed_hash": "8c12bc890306398486ae0b52025507618e112e2910b997d978dbfc5bb18c6695fbf21156d88ae47fef6dd18a59c4f802",
+    "client_seed": "1792602663796",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 350,
+    "combined_hash": "4ed5e36d7b4d36b1e6533a443994dd6e82e4f195bfc25357cf75215a26a67e54",
+    "result": "73",
+    "external_round_id": "33266435",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T17:11:03.000000Z",
+    "revealed_at": "2026-10-21T17:11:09.000000Z"
+}
