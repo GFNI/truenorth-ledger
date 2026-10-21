@@ -1,0 +1,22 @@
+{
+    "round_id": "564e69f5-7c23-4b1a-8f83-e86e8a9e8431",
+    "draw_title": "CRACK THE CRAB! - 100 X £500’s",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/crack-the-crab-100-x-ps500s",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "961f9471376e371f3a18f70bf16ee07f2626cc0760db99fc420c3c5ace70af86",
+    "drand_seed_hash": "9923bf7a028f2133c18032233ed8d0f5d3582abbf6a5b6e8cb628c2983757a7f8ee6d0bb73077138b0a54b63d3025f97",
+    "client_seed": "1792611129786",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10210,
+    "max_tickets": 59999,
+    "combined_hash": "eb021b9f9abd7feadce3aa9542ad6c9f1004c980ce8bed8293f2c177ebcb23a5",
+    "result": "52053",
+    "external_round_id": "33269257",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:32:09.000000Z",
+    "revealed_at": "2026-10-21T19:32:15.000000Z"
+}
