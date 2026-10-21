@@ -1,0 +1,22 @@
+{
+    "round_id": "2594ab64-adbf-451e-8a50-5bf83696698d",
+    "draw_title": "Wednesday Wonga",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/wednesday-wonga-2",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "e921b8053c8d6fc47bd67264e2b0bca96860527139973b2b3bcb2dc6c34ce809",
+    "drand_seed_hash": "a452596ba066ce8bf97ca5dc241b2e43fe92270fe73a8ab842e74f0b43ea66f51e293961d7cbaee6e9546c5b3944cff5",
+    "client_seed": "1792617447340",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10213,
+    "max_tickets": 40000,
+    "combined_hash": "2e891abdc61c1f8ddf4a545615a80d55319c4c396a735b8ecf91b33086283d3d",
+    "result": "32879",
+    "external_round_id": "33271363",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T21:17:27.000000Z",
+    "revealed_at": "2026-10-21T21:17:33.000000Z"
+}
