@@ -1,0 +1,22 @@
+{
+    "round_id": "d529954b-9a69-4f54-b84e-920808d98f24",
+    "draw_title": "WIN £400 FOR 30P!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-ps400-for-30p",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "03327d441823e99eae53ccfb81ee9421da06d71f1a7ec38e5640e51cc73a5628",
+    "drand_seed_hash": "82514dfaae40bb0bba5df1e7fc0a4ab71ca3d8751c2623b85942d7405c5130264f4138a66de396139371430e734da9ab",
+    "client_seed": "1792610114835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1195,
+    "max_tickets": 2600,
+    "combined_hash": "8fe14b4376e497f7cd5a2a2c489799fe59d6365773588afba50bdcaf045b5d82",
+    "result": "1616",
+    "external_round_id": "33268919",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:15:14.000000Z",
+    "revealed_at": "2026-10-21T19:15:21.000000Z"
+}
