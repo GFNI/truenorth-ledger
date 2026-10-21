@@ -1,0 +1,22 @@
+{
+    "round_id": "47ceeee6-af36-4e04-83a8-05f3f0bd87c1",
+    "draw_title": "GRANDS ONLY! – NON STOP £1K WINS!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/grands-only-non-stop-ps1k-wins",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "ac825f2c93ffbaf35071591a6fb610ce7d08466c1db881641ba4e468b0d25ab8",
+    "drand_seed_hash": "8de31443f55c6f238400a268e9e3eb998e539660afdbea3fc88f03c54c1ed0279a3da2e5eec7435cbb4a743e62a42b22",
+    "client_seed": "1792609906263",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11391,
+    "max_tickets": 100000,
+    "combined_hash": "3fa7a23aa4e6cd8af9de8432040538d4d6d4dbe1f647574e8d7c46dc623d0d34",
+    "result": "38176",
+    "external_round_id": "33268850",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:11:46.000000Z",
+    "revealed_at": "2026-10-21T19:11:54.000000Z"
+}
