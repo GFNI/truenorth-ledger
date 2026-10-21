@@ -1,0 +1,22 @@
+{
+    "round_id": "8fcf2e7d-82fe-4b47-b66d-a3f77c967a0a",
+    "draw_title": "Frankenstein’s Funds",
+    "competition_url": "https://competitionsne.co.uk/admin/products/frankensteins-funds",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "98cc595bbf1f34411bba0c2968dfe4eef1bb5116c587778af031e58a61cded10",
+    "drand_seed_hash": "a618b5e91ba0b3ffaaf18824d2cc748a630ca3e2dbaace3375911a53d7a8b6b018723a742cdf5d6be423d86c74a44ad4",
+    "client_seed": "1792613412942",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33225,
+    "max_tickets": 250000,
+    "combined_hash": "ca1f81e101eb48df3589bad97cca63665dc4fe74e4464ba41da3e17f0bcc8235",
+    "result": "85883",
+    "external_round_id": "33270018",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:10:12.000000Z",
+    "revealed_at": "2026-10-21T20:10:18.000000Z"
+}
