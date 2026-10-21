@@ -1,0 +1,22 @@
+{
+    "round_id": "b4958e15-9870-4036-967b-cb059511cc8f",
+    "draw_title": "£100 CASH DRAW FROM COMPETITIONS LAUNCHED ON 16 SEP (DRAWN 21ST OCT)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps100-cash-draw-from-competitions-launched-on-16-sep-drawn-21st-oct",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "b15cce5dbd5e4be55f120c342bb552e4b170bd837b61ca77369b2f21c342e514",
+    "drand_seed_hash": "aaf67451c7f3cebdcd87dc65dce0156d4937af3202764c720462b043c36c49c96c27f579054f885cb51f7e66cfda7a94",
+    "client_seed": "1792611719029",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49398,
+    "max_tickets": 400000,
+    "combined_hash": "e31ae2422794e6ef13b1257dccd093f09511416be61d0b23311f9d0c43988cf7",
+    "result": "114276",
+    "external_round_id": "33269454",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:41:59.000000Z",
+    "revealed_at": "2026-10-21T19:42:06.000000Z"
+}
