@@ -1,0 +1,22 @@
+{
+    "round_id": "ff9fce5b-06b6-4809-8ff3-0a8cb502433b",
+    "draw_title": "£2,000 Cash - Low Odds",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps2000-cash-low-odds",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "d9fb7b5a283f8845cc205437ae1036999e336c3c6fed808a7097e53bc33fd2cc",
+    "drand_seed_hash": "b23d2d6e8dac125e29320b3044cd0f7fb5b86739420ba1dcd5dd5ff8804f5f13a9a0111caea8d557db51ff7f2699b879",
+    "client_seed": "1792609236569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 750,
+    "max_tickets": 1399,
+    "combined_hash": "68bc6b221f717c9818d53c2d52f0b4959db1acddc900148b56af3d914b2ec8ad",
+    "result": "1113",
+    "external_round_id": "33268626",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:00:36.000000Z",
+    "revealed_at": "2026-10-21T19:00:42.000000Z"
+}
