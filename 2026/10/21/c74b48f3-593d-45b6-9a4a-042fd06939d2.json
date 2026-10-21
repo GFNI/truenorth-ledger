@@ -1,0 +1,22 @@
+{
+    "round_id": "c74b48f3-593d-45b6-9a4a-042fd06939d2",
+    "draw_title": "⚡ Pokémon 30th Anniversary ETB — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-30th-anniversary-etb-low-odds-wednesday-4",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "cb6b2485cb0cf53d70520b7cfe6ef8d724cd14780c4c7473dfb62b6cda29a5fe",
+    "drand_seed_hash": "8bb0d3b487a4fff586c17b9241cf4c38831bef429f4acae273dc6410fc2f127702caee25ccbe554c1aeda74894923f14",
+    "client_seed": "1792618927794",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 167,
+    "max_tickets": 175,
+    "combined_hash": "638bf2012093ea7e988cf1db1915d6baa946e4deb81bf12d3414cc171770942a",
+    "result": "112",
+    "external_round_id": "33271857",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T21:42:07.000000Z",
+    "revealed_at": "2026-10-21T21:42:15.000000Z"
+}
