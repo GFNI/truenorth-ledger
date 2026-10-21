@@ -1,0 +1,22 @@
+{
+    "round_id": "5804cf56-b537-4cc7-937b-adb591013a59",
+    "draw_title": "The Witching Wager",
+    "competition_url": "https://competitionsne.co.uk/admin/products/the-witching-wager",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "bc8e669ab3ec157a7a0ac8e01d518dd7b8b80672e90aef4353cc652e7f930646",
+    "drand_seed_hash": "92219c0fec4212aec392044dcdf66b3314f5fd44dfc111b16aad89fe819dc3cf33d253f79b802280e98dc62b21cfebf4",
+    "client_seed": "1792613424529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11286,
+    "max_tickets": 250000,
+    "combined_hash": "cbd1470cbde7ad5594e4ece2f3e8d34e4eefa003e1a3ce23b95e8d4133616242",
+    "result": "33356",
+    "external_round_id": "33270022",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:10:24.000000Z",
+    "revealed_at": "2026-10-21T20:10:30.000000Z"
+}
