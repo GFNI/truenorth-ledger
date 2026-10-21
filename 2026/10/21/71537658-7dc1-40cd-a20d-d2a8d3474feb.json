@@ -1,0 +1,22 @@
+{
+    "round_id": "71537658-7dc1-40cd-a20d-d2a8d3474feb",
+    "draw_title": "2021 Robin Hood 1oz Fine Silver Coin",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2021-robin-hood-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "e056ae020292be66a2368ba7443c374762d1bf463ec68167282e1d02a694adc7",
+    "drand_seed_hash": "826400e1168db2fab0b91a80b85fd493986b8eec168e8b325ec9fce9b10607eede6f07aa9575996ec74f01f7a4c5b3f5",
+    "client_seed": "1792623310743",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 90,
+    "max_tickets": 150,
+    "combined_hash": "915a5a7c63bda65c8c44743934e32e651f62ffb6c5135a59cec5b366d853a131",
+    "result": "60",
+    "external_round_id": "33273317",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T22:55:10.000000Z",
+    "revealed_at": "2026-10-21T22:55:15.000000Z"
+}
