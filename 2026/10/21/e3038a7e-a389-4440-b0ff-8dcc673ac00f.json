@@ -1,0 +1,22 @@
+{
+    "round_id": "e3038a7e-a389-4440-b0ff-8dcc673ac00f",
+    "draw_title": "Harry Potter Monopoly",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/harry-potter-monopoly",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "3ebc72a59f4b8142ba9dbfa4fd9c220ba4cf0d2ab46468e9a211201b13d5823b",
+    "drand_seed_hash": "b437b6893acd86908571bd32f4a3524a953ced91c90517c27320037acd78d70f09862dd2e372303468978a51950e863b",
+    "client_seed": "1792610339478",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 220,
+    "combined_hash": "9df576852b0304cf6691aa35d1f2763bf674354c2a0ca41b4051e575c3731b1b",
+    "result": "134",
+    "external_round_id": "33268994",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:18:59.000000Z",
+    "revealed_at": "2026-10-21T19:19:06.000000Z"
+}
