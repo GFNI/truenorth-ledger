@@ -1,0 +1,22 @@
+{
+    "round_id": "2a635a82-9b74-403f-b443-884eb78d629d",
+    "draw_title": "gold",
+    "competition_url": "https://cheekycomps.co.uk/competition/win-a-geiger-100g-silver-bar",
+    "operator": {
+        "name": "CheekyComps Ltd",
+        "website": "https://cheekycomps.co.uk",
+        "company_number": "16415377"
+    },
+    "drand_server_seed": "21230169d047457daf9bb573e0652def3342cb4d962a7bbba1d84b09cb4e9338",
+    "drand_seed_hash": "b3d378f4a8a821abdd8280eb6bf324639422216070d33168bae9384ef3101d0a37e6ebc1ff9bb299ea3c28690e9b18d9",
+    "client_seed": "1792613613766",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "d517e1e9e2d24ceb0f0465e7f28a239aacc1444768d09c40ef8788cf71f32368",
+    "result": "30",
+    "external_round_id": "33270085",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:13:33.000000Z",
+    "revealed_at": "2026-10-21T20:13:43.000000Z"
+}
