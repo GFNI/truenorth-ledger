@@ -1,0 +1,22 @@
+{
+    "round_id": "5f3ad7f1-e0f1-4a89-8d22-df87d16d9bda",
+    "draw_title": "Win The Macallan 18 Year Old + instant prizes",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-macallan-18",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "487020e07372ce693ae3903826879c3054bad641daed4885988f8fb94235102a",
+    "drand_seed_hash": "88743019268513895e26e4939a89d0069e9393df87823097c6c47d76316583c254271b35b5c1c12262aebce34eb25427",
+    "client_seed": "1792617069608",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 259,
+    "max_tickets": 759,
+    "combined_hash": "72f09bb5b5546422fca4d3c370733c600d7dff639c6ba25b52610e4f8a68500e",
+    "result": "286",
+    "external_round_id": "33271237",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T21:11:09.000000Z",
+    "revealed_at": "2026-10-21T21:11:15.000000Z"
+}
