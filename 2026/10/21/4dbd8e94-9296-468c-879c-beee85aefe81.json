@@ -1,0 +1,22 @@
+{
+    "round_id": "4dbd8e94-9296-468c-879c-beee85aefe81",
+    "draw_title": "Win The Spooky Jellycat Trio Plus Cash Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/jctrio",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "e570484c4b1a993422f826c6a86dbbe78b6ecc5cba1a3341090960609f9f155a",
+    "drand_seed_hash": "8e9355ae7088d106bacfa19048bed37f6aff76617910832d99fd989f40fddde0f5a569e3b82ae46d94ba94427a57e192",
+    "client_seed": "1792611817333",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "861d9da08165e30e2f099017a8a4bb3512bef5045f831e87c5ab461e2a07c1d2",
+    "result": "1271",
+    "external_round_id": "33269487",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:43:37.000000Z",
+    "revealed_at": "2026-10-21T19:43:45.000000Z"
+}
