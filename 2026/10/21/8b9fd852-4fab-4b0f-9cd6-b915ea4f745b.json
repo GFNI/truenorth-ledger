@@ -1,0 +1,22 @@
+{
+    "round_id": "8b9fd852-4fab-4b0f-9cd6-b915ea4f745b",
+    "draw_title": "🍵☕ Silver 50's Style Kettle and 4 Slice Toaster 🍵☕",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/silver-50s-style-kettle-and-4-slice-toaster",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d46931211896b5acc08828e04c9a39a9e90e8d1a90d92a10bc5697d7d608629f",
+    "drand_seed_hash": "9274604f64fe1cd9f16173b93161e59b2e41b3c27e4c35107aa7c1709940222f1f03e6bc76d9c69bc532b267ee693055",
+    "client_seed": "1792608155315",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 660,
+    "max_tickets": 1025,
+    "combined_hash": "bc9076cafed617e7dec9690da9a84bf1c47b18b1602417a0539d0ce335f1c147",
+    "result": "958",
+    "external_round_id": "33268266",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T18:42:35.000000Z",
+    "revealed_at": "2026-10-21T18:42:42.000000Z"
+}
