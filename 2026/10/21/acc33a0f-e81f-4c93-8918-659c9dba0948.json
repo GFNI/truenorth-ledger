@@ -1,0 +1,22 @@
+{
+    "round_id": "acc33a0f-e81f-4c93-8918-659c9dba0948",
+    "draw_title": "£150 Restaurant Voucher of Your Choice for that Magical Christmas Dining Experience",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps150-restaurant-voucher-of-your-choice-for-that-magical-christmas-dining",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "db075341edc3d9eb9c581f9ec276b8798e5592a999eb73efbf08a2b246f31915",
+    "drand_seed_hash": "a0369bd834819dd1c705fa9a0a5e5a73330a0e40070e64a1585448e11d8882f0193b098730b597a7adb9dc3e098bd438",
+    "client_seed": "1792613211859",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 275,
+    "max_tickets": 275,
+    "combined_hash": "cd6d13c7c280da5fe6e339858f5aedc8eba5b91522e51ca143f9e1966957d652",
+    "result": "203",
+    "external_round_id": "33269951",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:06:51.000000Z",
+    "revealed_at": "2026-10-21T20:06:57.000000Z"
+}
