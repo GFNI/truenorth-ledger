@@ -1,0 +1,22 @@
+{
+    "round_id": "b37c6a08-f77e-4f39-90f4-e2f15e956dfe",
+    "draw_title": "£3250 ENTER FOR 55P",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps3250-enter-for-55p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "5cd62f1e4cefa5e75ec6c9857cef6952ce3ca284bf16bbed698cffdd49b04be2",
+    "drand_seed_hash": "ad4bd0f4c7cd2e7ff7bf16eca3252e0087a4434c719275dda6e4ebd274c44a0118df9892bf3df0b2ffd3cd0e9974fe4d",
+    "client_seed": "1792609713770",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7155,
+    "max_tickets": 9455,
+    "combined_hash": "4f751e73ce593acf5e9ccee4746c19bdfa2b8c367eb3b57ab51bfcb840e14163",
+    "result": "3102",
+    "external_round_id": "33268785",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:08:33.000000Z",
+    "revealed_at": "2026-10-21T19:08:39.000000Z"
+}
