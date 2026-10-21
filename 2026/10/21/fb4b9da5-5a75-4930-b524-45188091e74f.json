@@ -1,0 +1,22 @@
+{
+    "round_id": "fb4b9da5-5a75-4930-b524-45188091e74f",
+    "draw_title": "The Addam's Family Shopping Spree - £1,000 Worth Of Giftcards",
+    "competition_url": "https://ryscompetitions.com/admin/products/the-addams-family-shopping-spree-ps1000-worth-of-giftcards",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "4247c3cd577a74806545b87716435cda7e8e76f05faa5963ffb2c01f4f68a3a1",
+    "drand_seed_hash": "8f2159dc9e22f0c289cedc2bb2ed645a9b7afdb9a72d9ff27486779273c1d4b5af6ba3f677ae423ca8f2b194b82200a5",
+    "client_seed": "1792609224532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 567,
+    "max_tickets": 699,
+    "combined_hash": "316a22b40bb06bf5ffe569e9709a6da12299a9c459445cbe44e500a8aabb9282",
+    "result": "529",
+    "external_round_id": "33268622",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:00:24.000000Z",
+    "revealed_at": "2026-10-21T19:00:30.000000Z"
+}
