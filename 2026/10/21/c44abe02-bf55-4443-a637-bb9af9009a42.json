@@ -1,0 +1,22 @@
+{
+    "round_id": "c44abe02-bf55-4443-a637-bb9af9009a42",
+    "draw_title": "🥅Topps Museum UEFA Club Competitions 2025/26 Hat Trick Box🥅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/topps-museum-uefa-club-competitions-202526-hat-trick-box",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "3c045aaeee2b3fd56333e2cbb93a9cd9d910a0d5ca83293535351e76bc2a3c65",
+    "drand_seed_hash": "8ecdfb8b324121dfe12d746d76f87529b166cd65bd21c98f31f0072eac7debc77c8753fc4ae13717a32ba10daf0e1c5a",
+    "client_seed": "1792609382879",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1378,
+    "max_tickets": 2930,
+    "combined_hash": "d55d4c0bf998c303ba3d425ca00fd95553f556a311aafa1b0a9b59cb5a5e7d99",
+    "result": "714",
+    "external_round_id": "33268675",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:03:03.000000Z",
+    "revealed_at": "2026-10-21T19:03:09.000000Z"
+}
