@@ -1,0 +1,22 @@
+{
+    "round_id": "e7a91359-0520-4ea6-bab7-32023f88b2f4",
+    "draw_title": "DAY 3 - TRICK OR TREAT BUNDLE - £100 CASH + SWEET HAMPER 🍬",
+    "competition_url": "https://geardowncompetitions.com/admin/products/day-3-trick-or-treat-bundle-ps100-cash-sweet-hamper",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "10d1c019af63477bd2387c800f1ae58150b9483abf48a60f3d5ffe827b5370d9",
+    "drand_seed_hash": "a32367d55761dfdc7e3b3a7c0ae7d5a66e74275a305266e4bde277bc14f42a199e1c6190456b3b4f9a99a1a43bc64278",
+    "client_seed": "1792586809767",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 751,
+    "max_tickets": 1999,
+    "combined_hash": "851d395f001fbcbbc79bd51e204ecbe42c48c841010ca448547a1f382d7211c1",
+    "result": "1818",
+    "external_round_id": "33261151",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T12:46:49.000000Z",
+    "revealed_at": "2026-10-21T12:46:57.000000Z"
+}
