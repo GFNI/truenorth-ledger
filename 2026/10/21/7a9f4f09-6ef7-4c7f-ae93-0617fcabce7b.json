@@ -1,0 +1,22 @@
+{
+    "round_id": "7a9f4f09-6ef7-4c7f-ae93-0617fcabce7b",
+    "draw_title": "ARM-AZING ANDREW! - £18,000 INSTANT WINNER",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/arm-azing-andrew-ps18000-instant-winner",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "129acf1ba0324137382551927f54c71b16995cbb5a539ffc41286cc7d01af52d",
+    "drand_seed_hash": "a9fcf07c5492de0c8a6f1f7fdbf07341400af92248a8c9a71d1ec74a6e0a64c235dcdf577c732f12186c9c75a8b46a04",
+    "client_seed": "1792612567387",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12031,
+    "max_tickets": 20000,
+    "combined_hash": "61d12810a90466288b9e7513a144b8611c84d877c4915a34bf8b609d09803716",
+    "result": "10498",
+    "external_round_id": "33269736",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:56:07.000000Z",
+    "revealed_at": "2026-10-21T19:56:12.000000Z"
+}
