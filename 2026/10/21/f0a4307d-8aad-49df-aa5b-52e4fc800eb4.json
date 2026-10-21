@@ -1,0 +1,22 @@
+{
+    "round_id": "f0a4307d-8aad-49df-aa5b-52e4fc800eb4",
+    "draw_title": "WIN £300 FOR 5P!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-ps300-for-5p-2",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "8c486a33ed96d0a9feb07e1f2492b8ab735583a49911a383ef4d0d7091064940",
+    "drand_seed_hash": "acb1656af9aff00f477f678aa86214b55da52cd2a6ad5cbf51c40893b6e3d74858c56f5aaa4b6ae39209536580d67968",
+    "client_seed": "1792610067972",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6243,
+    "max_tickets": 12000,
+    "combined_hash": "57020e13539d3ebc0f3cfa5b6f0156dae7bac56f533987e6278e89341ab33e44",
+    "result": "5208",
+    "external_round_id": "33268904",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:14:28.000000Z",
+    "revealed_at": "2026-10-21T19:14:36.000000Z"
+}
