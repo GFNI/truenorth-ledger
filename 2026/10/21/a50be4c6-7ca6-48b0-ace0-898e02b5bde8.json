@@ -1,0 +1,22 @@
+{
+    "round_id": "a50be4c6-7ca6-48b0-ace0-898e02b5bde8",
+    "draw_title": "XL Cadbury Dairy Milk Chocolate Bar!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/xl-cadbury-dairy-milk-chocolate-bar",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "e07ba2a6b7098d2f54950a1297b493a04acce31715dc98adf087e7754e7f37b5",
+    "drand_seed_hash": "8eb2d67bcd01e6f16e9cac078a15eec65fe22dc72cd051ccb1b9d6d63d391ea5eadd3d30b21fd86e8483dad84470d50e",
+    "client_seed": "1792609863728",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 113,
+    "max_tickets": 300,
+    "combined_hash": "c49cc142f0cc732bcccc717270ae1a9937ac38e2ded3b17050748ca407c8371f",
+    "result": "237",
+    "external_round_id": "33268835",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:11:03.000000Z",
+    "revealed_at": "2026-10-21T19:11:09.000000Z"
+}
