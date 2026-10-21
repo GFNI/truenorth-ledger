@@ -1,0 +1,22 @@
+{
+    "round_id": "3a379128-651c-40a5-93ac-a545a7be4353",
+    "draw_title": "Orange Chocolate Bundle",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/orange-chocolate-bundle",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "a395e860ba8706667be91dff8dfd0e25a6fe0625fba0215c5452815d3c09d149",
+    "drand_seed_hash": "abe109ce1c7815a615fe24d35c72d3e86723d4a22221c92c9fc922937a6348db134b82fb62a016cdc57ad389e7e874f0",
+    "client_seed": "1792609869615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 127,
+    "max_tickets": 450,
+    "combined_hash": "3f0c1953c9722b38752dd5dc849ec1b21bf50b1a2497ad55d71acf9683f95f11",
+    "result": "64",
+    "external_round_id": "33268837",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:11:09.000000Z",
+    "revealed_at": "2026-10-21T19:11:15.000000Z"
+}
