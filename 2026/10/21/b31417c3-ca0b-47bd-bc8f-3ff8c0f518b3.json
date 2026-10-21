@@ -1,0 +1,22 @@
+{
+    "round_id": "b31417c3-ca0b-47bd-bc8f-3ff8c0f518b3",
+    "draw_title": "LOW ODDS £41k Coin Flip | £41,250 in Prizes With a £1,250 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/low-odds-ps41k-coin-flip-ps41250-in-prizes-with-a-ps1250-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "a719ca3f07f0d0f4c886d9bca2500058e539337bf41d610f90c32afd9b7dda04",
+    "drand_seed_hash": "ac06b82d536cb5210934782f6ffad339fe79f0333f1fcf58f88255372f4a252c3415b19d295692fd859b1a8fadf29246",
+    "client_seed": "1792612336640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1457,
+    "max_tickets": 9195,
+    "combined_hash": "1859ad7fee588d16683e226abff51f89e99a96e9c9a25eed4cd16f26bae733c0",
+    "result": "8964",
+    "external_round_id": "33269660",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T19:52:16.000000Z",
+    "revealed_at": "2026-10-21T19:52:24.000000Z"
+}
