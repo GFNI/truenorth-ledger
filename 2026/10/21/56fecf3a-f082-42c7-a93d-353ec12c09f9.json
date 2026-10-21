@@ -1,0 +1,22 @@
+{
+    "round_id": "56fecf3a-f082-42c7-a93d-353ec12c09f9",
+    "draw_title": "🤪 Whacky Wacky Instants 🤪",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/whacky-wacky-instants",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "81e5449ef584a75a37c55a658d8938857929aa53cafb3dae4f22ee7397128d04",
+    "drand_seed_hash": "aef9486701c6375ac70c81a7bd8d05ced48dac21c2f05666752d66148f4b25a1aaf7260998fcde72cd33158cc36f4d09",
+    "client_seed": "1792613407861",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94717,
+    "max_tickets": 500900,
+    "combined_hash": "10fc11bd176f06e7d72759d2eb81f8e6c3726a0e32f58a313204a5c9a70e36eb",
+    "result": "373665",
+    "external_round_id": "33270016",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:10:07.000000Z",
+    "revealed_at": "2026-10-21T20:10:12.000000Z"
+}
