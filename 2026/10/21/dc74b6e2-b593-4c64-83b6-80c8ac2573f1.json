@@ -1,0 +1,22 @@
+{
+    "round_id": "dc74b6e2-b593-4c64-83b6-80c8ac2573f1",
+    "draw_title": "APPLE iPHONE 18 PRO OR 18 PRO MAX OR £1,000 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/apple-iphone-18-pro-or-18-pro-max-or-ps1000-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "22303cd6920f1b912d2925871b33590c97a01fd38f4c0c6eecea730040feee06",
+    "drand_seed_hash": "ad41558683d66dfbc7059e7c6584c724e23bf632f339d53e17d0ef20d53572af71a735b11f1ef1241727262469973953",
+    "client_seed": "1792613428972",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1104,
+    "max_tickets": 1999,
+    "combined_hash": "1da00e16e716f598a46f1ba02a0268bd062166743c4d2c737d12ef926e3997ed",
+    "result": "367",
+    "external_round_id": "33270024",
+    "processing_status": "completed",
+    "created_at": "2026-10-21T20:10:29.000000Z",
+    "revealed_at": "2026-10-21T20:10:36.000000Z"
+}
