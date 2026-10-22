@@ -1,0 +1,22 @@
+{
+    "round_id": "d441f67c-a970-4ee6-bc9a-489dd8053158",
+    "draw_title": "The Treasure Hunt! Find a Map 🗺️ Win up to £1,500 Instantly!",
+    "competition_url": "https://topdogprizes.com/admin/products/the-treasure-hunt-find-a-map-win-up-to-ps1500-instantly",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "d15e45f62eedf021b261c8c04b930975d3dec431a5c9236c148dd3c8f18f3bd9",
+    "drand_seed_hash": "95a257969e7369aea86b5b206cbb10a079c6b8ac933abfb8230acaa7f6d626182ab03c8805f48abe178fbc63e8b7cabd",
+    "client_seed": "1792696695139",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120626,
+    "max_tickets": 437500,
+    "combined_hash": "4794d058abd21536c608050cc9e1aed662c2e224ecc7185e58df725714d31e02",
+    "result": "376956",
+    "external_round_id": "33297779",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T19:18:15.000000Z",
+    "revealed_at": "2026-10-22T19:18:21.000000Z"
+}
