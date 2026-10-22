@@ -1,0 +1,22 @@
+{
+    "round_id": "719d0e3e-cc8b-4836-bde2-488320f2f022",
+    "draw_title": "30th anniversary ETB, Greninja ex box (30th), 2 Tech Sticker collection, 2 knockout collection boxes and a booster bundle.",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/30th-anniversary-etb-greninja-ex-box-30th-2-tech-sticker-collection-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c30ac355ce9fe387e103e40cfac9b78e6f1d4ccc8452d0a54b3daac5c6ea2387",
+    "drand_seed_hash": "ac0fbecbb14251102bd1956a7913b3e576c3f3f68c1f8a819f2fdda0e5787595d96137fc68fe36d15f3a1d4aaa86d267",
+    "client_seed": "1792699584147",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 820,
+    "max_tickets": 820,
+    "combined_hash": "381385d38784410159d16627dab13f42c70b131b39c5f39c4e7ce10c786a38bb",
+    "result": "605",
+    "external_round_id": "33298742",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:06:24.000000Z",
+    "revealed_at": "2026-10-22T20:06:30.000000Z"
+}
