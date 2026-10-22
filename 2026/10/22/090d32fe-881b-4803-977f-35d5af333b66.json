@@ -1,0 +1,22 @@
+{
+    "round_id": "090d32fe-881b-4803-977f-35d5af333b66",
+    "draw_title": "1925 FULL GOLD SOVEREIGN + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1925-full-gold-sovereign-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2318235542c137a8a6a7100d911f7b5a4942c4af9b0a2a92c18851af8a85ce88",
+    "drand_seed_hash": "a446213ce1d222bb80139debc6e857d40c3b08d4220ba7f95f28e6d1dbd2a6b83a5f0280ca0839ce8e90563c98cb3ae1",
+    "client_seed": "1792700245371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3514,
+    "max_tickets": 4000,
+    "combined_hash": "fed994e2c71564a60da74edd583838d62f7b941a3868b098eec530f7d169b535",
+    "result": "1951",
+    "external_round_id": "33298963",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:17:25.000000Z",
+    "revealed_at": "2026-10-22T20:17:33.000000Z"
+}
