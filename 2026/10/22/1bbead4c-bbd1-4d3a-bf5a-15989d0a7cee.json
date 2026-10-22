@@ -1,0 +1,22 @@
+{
+    "round_id": "1bbead4c-bbd1-4d3a-bf5a-15989d0a7cee",
+    "draw_title": "JELLYCAT INSTANT WINS!",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/jellycat-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "0cbdbe143af1ccc298cf35539f5583132eb93d9d31edb07c94e1a3b02e11dc71",
+    "drand_seed_hash": "ad70022d504aa25e5dd2f51b6e2ba24be9ad3bd1f7fe604067c0e9fafbf8027e4bd007f1a1b3cefef2053365940c43cc",
+    "client_seed": "1792692428298",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 195000,
+    "max_tickets": 195000,
+    "combined_hash": "16d64d1ae36b7cd71f50cb990a2efbb8a649af6dec5dc231e6597b5b8cd04397",
+    "result": "23695",
+    "external_round_id": "33296357",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T18:07:08.000000Z",
+    "revealed_at": "2026-10-22T18:07:15.000000Z"
+}
