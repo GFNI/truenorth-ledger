@@ -1,0 +1,22 @@
+{
+    "round_id": "d57be907-1923-4d25-b746-55ca10189a9a",
+    "draw_title": "Find the Golden Conker",
+    "competition_url": "https://phatstax.co.uk/admin/products/find-the-golden-conker",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "273533887feaaf16b111104e285c9e8635f7adb288af76603040f0b7b9081a48",
+    "drand_seed_hash": "b7edd23429e7ec945b4689513ce93720d1f61287b54e1ecb90059d79c5e472dc3e23eec75fe1c73cbaf7570b311bb144",
+    "client_seed": "1792699419504",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 162005,
+    "max_tickets": 300000,
+    "combined_hash": "0bcbcb0a1a5719cc9af324c9f3a205a85f53813dd6ffcab671c35c0fd2f0de0f",
+    "result": "227948",
+    "external_round_id": "33298687",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:03:39.000000Z",
+    "revealed_at": "2026-10-22T20:03:45.000000Z"
+}
