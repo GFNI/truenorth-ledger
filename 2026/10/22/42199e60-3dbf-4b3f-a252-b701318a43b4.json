@@ -1,0 +1,22 @@
+{
+    "round_id": "42199e60-3dbf-4b3f-a252-b701318a43b4",
+    "draw_title": "2019 Valiant St George & the Dragon 1oz Fine Silver Coin",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2019-valiant-st-george-the-dragon-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "4511214f30058ef4a1083e5f12e19d67ca5d70ccce75ccbef1677f04333ce7d0",
+    "drand_seed_hash": "ae424669eeb65a5ba48f973da194cddd5cb13925a8e13a45c7288c29830b52769aaa878af0dd3cf6e150f695e212e248",
+    "client_seed": "1792709708578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 150,
+    "combined_hash": "008d3498774c5117cf3f45b8dcabe81261ea1c901992b88a78d4001d2c1752cc",
+    "result": "1",
+    "external_round_id": "33302117",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T22:55:08.000000Z",
+    "revealed_at": "2026-10-22T22:55:15.000000Z"
+}
