@@ -1,0 +1,22 @@
+{
+    "round_id": "b9c4fa17-129f-4718-b546-1d4d708f30d6",
+    "draw_title": "JACQUEMUS JACKPOT - 5 BAGS TO FIND INSTANTLY",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jacquemus-jackpot-5-bags-to-find-instantly",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "6c2d63470875502fa98c9cf2c0f2496a9191b2c58087f97b759a76cdffcadbab",
+    "drand_seed_hash": "91b3a4bbdf905a8d0818702f1c719e96b5883b58da5ec5a5613230f6e169edd50c33544013cd13d9a30333f30b2de5ba",
+    "client_seed": "1792699800814",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3638,
+    "max_tickets": 4999,
+    "combined_hash": "b5f2cb1f67027369172931cf3692dbdf32842cffdfc884f3696084264f4a212e",
+    "result": "1351",
+    "external_round_id": "33298814",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:10:00.000000Z",
+    "revealed_at": "2026-10-22T20:10:06.000000Z"
+}
