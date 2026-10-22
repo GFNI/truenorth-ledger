@@ -1,0 +1,22 @@
+{
+    "round_id": "a206880c-36b8-4552-b8bc-8113ffb9d384",
+    "draw_title": "£1000 CASH",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ps1000-cash",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "5397e2d0616044c61e6b49b4f957164e5c87e6e30a341d01260a78fbc4d0f368",
+    "drand_seed_hash": "a19a2ae9724f847d3d2b6e074e90c2fb09919b8f1313f8699a7040530ff32e410970e281b610fe781fa6bf298d392100",
+    "client_seed": "1792696224731",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "56cc0f73d9746b82bd899e200177bac6fbe49069210eedbb2e9c7b8108fc1312",
+    "result": "191",
+    "external_round_id": "33297622",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T19:10:24.000000Z",
+    "revealed_at": "2026-10-22T19:10:30.000000Z"
+}
