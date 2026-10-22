@@ -1,0 +1,22 @@
+{
+    "round_id": "1d603fe9-a687-4253-9e98-a8e49faeb7a1",
+    "draw_title": "Harvest Scratch",
+    "competition_url": "https://phatstax.co.uk/admin/products/harvest-scratch",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "3da658450e82ff74b96fb10b93e61048c71ea2458bc4b46592e3d312506b977c",
+    "drand_seed_hash": "8a350b79844b7e854837e3dcd704300373c7771f76b22a97326b342b838781d2fbe04db19696c6b967b3c15f985dc9a8",
+    "client_seed": "1792699602290",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26843,
+    "max_tickets": 80000,
+    "combined_hash": "e27caf242f62f5f122cef0aa758040b282a2cea4dc3f9b8bfc132e96fc7415e8",
+    "result": "40547",
+    "external_round_id": "33298748",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:06:42.000000Z",
+    "revealed_at": "2026-10-22T20:06:48.000000Z"
+}
