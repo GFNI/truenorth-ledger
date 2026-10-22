@@ -1,0 +1,22 @@
+{
+    "round_id": "d2694ff7-9632-4a89-a95d-afd99f9ffe5f",
+    "draw_title": "Grab A Thing - Win £500 Cash Instantly!",
+    "competition_url": "https://ryscompetitions.com/admin/products/grab-a-thing-win-ps500-cash-instantly",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "b934aa36126c521d156b74180d0c961b101effee7eae2895abbf5e3aa653fd8a",
+    "drand_seed_hash": "b2aabbf5940d7a2fe19d75a83d55277c61acacbe70e04cc84c15b55b2e877e2ba0cbd99774c0043a86d2ab3c8c9ec0ef",
+    "client_seed": "1792700441258",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81974,
+    "max_tickets": 400000,
+    "combined_hash": "e31234f6a052761810dae188129a11884fdb1a55e80a20d808eb10eff18dea60",
+    "result": "207844",
+    "external_round_id": "33299028",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:20:41.000000Z",
+    "revealed_at": "2026-10-22T20:20:48.000000Z"
+}
