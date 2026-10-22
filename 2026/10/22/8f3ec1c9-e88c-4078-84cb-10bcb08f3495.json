@@ -1,0 +1,22 @@
+{
+    "round_id": "8f3ec1c9-e88c-4078-84cb-10bcb08f3495",
+    "draw_title": "TOXIC WINS ☣️ | £2,000 TOP INSTANT WIN | 89P TICKETS",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/toxic-wins-ps2000-top-instant-win-89p-tickets",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "4fe6521d9946d1b7f63b1e84c84d9b81ba8e95acf05fbcd0896b19ed8e6c1c63",
+    "drand_seed_hash": "824c1b43d28158c306c84b2d9db662da289dcbbf52384326f8da8f3f0fd353665610dd36d7e472372d38ed71107d115a",
+    "client_seed": "1792695891572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3806,
+    "max_tickets": 27500,
+    "combined_hash": "a7f1e42589f112fefa0e4b3dd98a7ce01b5c127a31fb2c4833dcbcf3c253968c",
+    "result": "16064",
+    "external_round_id": "33297511",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T19:04:51.000000Z",
+    "revealed_at": "2026-10-22T19:04:57.000000Z"
+}
