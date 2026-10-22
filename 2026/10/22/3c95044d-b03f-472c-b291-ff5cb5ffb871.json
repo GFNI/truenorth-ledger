@@ -1,0 +1,22 @@
+{
+    "round_id": "3c95044d-b03f-472c-b291-ff5cb5ffb871",
+    "draw_title": "Money Moles: Allotment",
+    "competition_url": "https://phatstax.co.uk/admin/products/money-moles-allotment",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "1b47f4e9d1f7374ad1cfeba331be4fc7b80ad948d90d9c1e40212d4fc02459bc",
+    "drand_seed_hash": "a8b4d95189a06956f7a8a78644d01ca72a36a65d630dca6d3493058b9f33ca18236eaf7839902116f61e999a528c8c87",
+    "client_seed": "1792699516584",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28078,
+    "max_tickets": 100000,
+    "combined_hash": "6b60c3d51825c0a732a596b90c75c766d88aecdd9bd2aa32a022977a78cf00fb",
+    "result": "51212",
+    "external_round_id": "33298720",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:05:16.000000Z",
+    "revealed_at": "2026-10-22T20:05:24.000000Z"
+}
