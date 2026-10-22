@@ -1,0 +1,22 @@
+{
+    "round_id": "401016e2-c409-4a29-960a-6d000520875f",
+    "draw_title": "Nuclear Fishy Frenzy spins with huge cash instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/nuclear-fishy-frenzy-spins-with-huge-cash-instants",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "3838ed71ccffa02a7622e8a0e6a38a74b501ec52b7dc7f8e906cd56a6a070fcd",
+    "drand_seed_hash": "b8d7bcf8cc9535ff8a14157bb406aa50c95e2cf609109975835e6f60e3fdfc39b9aad3a552039e431bdab939fdfc19ce",
+    "client_seed": "1792700760858",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3158,
+    "max_tickets": 45000,
+    "combined_hash": "4d6608b7315fadbf210880684ab4fddc2c81d1340b2d68432295cf7be05c03b9",
+    "result": "26006",
+    "external_round_id": "33299134",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:26:00.000000Z",
+    "revealed_at": "2026-10-22T20:26:06.000000Z"
+}
