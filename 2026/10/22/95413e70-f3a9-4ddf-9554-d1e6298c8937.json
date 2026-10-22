@@ -1,0 +1,22 @@
+{
+    "round_id": "95413e70-f3a9-4ddf-9554-d1e6298c8937",
+    "draw_title": "MEGA LOW ODDS - Win a £1,000 Golden Ticket Into The Incredible VW Campervan or £40,000 cash draw #2a",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/mega-low-odds-win-a-ps1000-golden-ticket-into-the-incredible-vw-campervan-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "4fe0f989f1ae96b92195a1e961f70cd0387f262d9e2f8509dc1ecae3f380fe75",
+    "drand_seed_hash": "af86c23d3b172a9772614e5a8a19b197af53c273fcbf3bafad2e0d1b3952dc85ba348553f4a862e13d442d498a20cbfd",
+    "client_seed": "1792699733194",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "74cf20b91e69910cd6dbded1b0aefda5b89dfaccd43bee13efd875273775e794",
+    "result": "21",
+    "external_round_id": "33298792",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:08:53.000000Z",
+    "revealed_at": "2026-10-22T20:09:00.000000Z"
+}
