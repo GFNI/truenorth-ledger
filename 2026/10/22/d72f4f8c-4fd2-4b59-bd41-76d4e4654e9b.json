@@ -1,0 +1,22 @@
+{
+    "round_id": "d72f4f8c-4fd2-4b59-bd41-76d4e4654e9b",
+    "draw_title": "£200 for 12p",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps200-for-12p",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "50b24fffc44ee74d5415767faa6a793186e4e258bd384525822d1250eee4563a",
+    "drand_seed_hash": "8b4c74d832c11c36dc7f2356f106e9daf3df26727fddae25b3da4550e2b7bd4de0a5c01ad5a1dd64c614fadad3203a7b",
+    "client_seed": "1792702265575",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1787,
+    "max_tickets": 3000,
+    "combined_hash": "3d1da1606e72a29d0c3c55b8db35f88d4dfce6fe8b5f8322929233fd223fcbcd",
+    "result": "1518",
+    "external_round_id": "33299636",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:51:05.000000Z",
+    "revealed_at": "2026-10-22T20:51:12.000000Z"
+}
