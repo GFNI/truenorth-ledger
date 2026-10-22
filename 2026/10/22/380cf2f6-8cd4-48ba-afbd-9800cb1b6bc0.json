@@ -1,0 +1,22 @@
+{
+    "round_id": "380cf2f6-8cd4-48ba-afbd-9800cb1b6bc0",
+    "draw_title": "🪦 GRAVEYARD BINGO 🪦",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/graveyard-bingo",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "04ad2de924d96675dccee6105050a5474c39a9c63636ca866316da3fe464715e",
+    "drand_seed_hash": "821eb579227594419233098d14f029529f9e13e84be5da823817c73b1e8dfefd59eecd05c86713e02e463b7e766a6ad8",
+    "client_seed": "1792692514010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 222753,
+    "max_tickets": 333333,
+    "combined_hash": "7015bf3c556c86c284a9759d2c93976787d18014b4f202be58864e3e3995b1c4",
+    "result": "156844",
+    "external_round_id": "33296386",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T18:08:34.000000Z",
+    "revealed_at": "2026-10-22T18:08:42.000000Z"
+}
