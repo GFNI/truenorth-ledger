@@ -1,0 +1,22 @@
+{
+    "round_id": "2744d370-af59-411e-906b-70111d19cc01",
+    "draw_title": "£10K GHOST TRAIN LEADERBOARD🚂 👻",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-ghost-train-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "f269a69ce402ede4f62e967c63dd935121db05f81d4e38a52f1a492df8f2ba38",
+    "drand_seed_hash": "86da6723b49dd35838666c63e162e681fcd4c46d651dd5e0bfb0c1d72e09fd8b592f3e608c03af0bf226d3b96e96c048",
+    "client_seed": "1792702124877",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4533,
+    "max_tickets": 9999,
+    "combined_hash": "5c65df4d8afe6cd44a2a63018acb45d2735ca748a2f0b7aff6f49b9380aaef72",
+    "result": "6770",
+    "external_round_id": "33299589",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:48:44.000000Z",
+    "revealed_at": "2026-10-22T20:48:51.000000Z"
+}
