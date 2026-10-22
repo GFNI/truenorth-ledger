@@ -1,0 +1,22 @@
+{
+    "round_id": "138f18b8-fbcd-4032-8bbc-1f138d5cc821",
+    "draw_title": "HALLOWEEN LUCKY DIP INSTANT WINS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/halloween-lucky-dip-instant-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "365d4e6d01c28529c9b90c63f68aae75e7e3c872aacafd5fde768cbcd15f3186",
+    "drand_seed_hash": "b9da2df03993c18603297a422fa43289ec89ff103f45e1042b0be0e6e1237fb47639922c6d022db413994bcc28c01ae1",
+    "client_seed": "1792699806618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1366,
+    "max_tickets": 2999,
+    "combined_hash": "5d52a4176e41768072544ac556018efc8212c646a8c79a1ecd1b03d9bc25fa02",
+    "result": "217",
+    "external_round_id": "33298816",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:10:06.000000Z",
+    "revealed_at": "2026-10-22T20:10:12.000000Z"
+}
