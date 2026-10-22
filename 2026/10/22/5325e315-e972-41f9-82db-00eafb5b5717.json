@@ -1,0 +1,22 @@
+{
+    "round_id": "5325e315-e972-41f9-82db-00eafb5b5717",
+    "draw_title": "£500 for 5p",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps500-for-5p-5",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "2e3a2c03356174c015229ff439ac27e524a596f7a08e0cda4e7a1174e2587a5c",
+    "drand_seed_hash": "b6c7b89aeedab31f0e95e611c13a65e11f9fb1ccda0128930ccf287ae125b8e659aad794c341eb799c33d9cbcefcd1b5",
+    "client_seed": "1792699814797",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13863,
+    "max_tickets": 20000,
+    "combined_hash": "61ad7601fb2ded775ad210e058dadc6de9e7914826f194100cbfa450489b5029",
+    "result": "14850",
+    "external_round_id": "33298819",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:10:14.000000Z",
+    "revealed_at": "2026-10-22T20:10:21.000000Z"
+}
