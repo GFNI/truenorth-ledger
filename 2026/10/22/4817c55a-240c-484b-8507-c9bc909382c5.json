@@ -1,0 +1,22 @@
+{
+    "round_id": "4817c55a-240c-484b-8507-c9bc909382c5",
+    "draw_title": "68g 9ct GOLD ROLLERBALL BRACELET + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/68g-9ct-gold-rollerball-bracelet-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "e1b4543e2cd4cde13550e40880162943b93728a92d68569704b33d67cffb4578",
+    "drand_seed_hash": "90f8213dcfcfe7153e77723ecd5e17e66dbe4201d6f8d3674a1bb61f4d93fc663014043cde87f6219fae3263ce730ee3",
+    "client_seed": "1792700307610",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1659,
+    "max_tickets": 4000,
+    "combined_hash": "4de36c116c3ec3c6321ca5e55bb9817b975c1868ed0737c4788c5cf400e98037",
+    "result": "750",
+    "external_round_id": "33298983",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:18:27.000000Z",
+    "revealed_at": "2026-10-22T20:18:33.000000Z"
+}
