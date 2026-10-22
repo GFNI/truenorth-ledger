@@ -1,0 +1,22 @@
+{
+    "round_id": "a08ce5d6-af19-4fd3-9135-98921108dbd0",
+    "draw_title": "Zombie Race",
+    "competition_url": "https://jetcomps.co.uk/admin/products/zombie-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "2e1c5050de049c7a4a2dae27625c4a7e68516e74e2aca2a2bf0dae6940f26ebe",
+    "drand_seed_hash": "857d1ed639fa2886809aae96f9e430b341108c6274bf5f286de02ca3b0b74476eacfd301132865c462cd32ff94069826",
+    "client_seed": "1792697467268",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146370,
+    "max_tickets": 350000,
+    "combined_hash": "bd55f60974a5e85b3cdeb3f38bb00a1b27ebac62639e234c2518ae8272a175c3",
+    "result": "188750",
+    "external_round_id": "33298037",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T19:31:07.000000Z",
+    "revealed_at": "2026-10-22T19:31:15.000000Z"
+}
