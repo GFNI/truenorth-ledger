@@ -1,0 +1,22 @@
+{
+    "round_id": "54578b7c-56eb-4dcd-a934-260bf43e8820",
+    "draw_title": "WHACK A MOLE  🔨 WIN £1K INSTANTLY!",
+    "competition_url": "https://geardowncompetitions.com/admin/products/whack-a-mole-win-ps1k-instantly",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1f08e4c2e3cd1c02e83ba4d64bf7205f442413a94212874023ff2686ce0fb622",
+    "drand_seed_hash": "b749eb02fac929b4cad65bd4ff920733ea20cd5e969685bf92d16f1c2bc3a257467e9d087bf4f4af39973596fbb9cb37",
+    "client_seed": "1792701988206",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23048,
+    "max_tickets": 159999,
+    "combined_hash": "98ccf27c72430ccd6a1c6c491bf207fcb8c1871a7490b952c0548600bb5ad94b",
+    "result": "139974",
+    "external_round_id": "33299544",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T20:46:28.000000Z",
+    "revealed_at": "2026-10-22T20:46:36.000000Z"
+}
