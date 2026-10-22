@@ -1,0 +1,22 @@
+{
+    "round_id": "6d1ca894-3b6a-4ad2-b961-00e1ed8590ae",
+    "draw_title": "Slots Game - Find the Symbols to Win Cash Prizes - 2x £100 Main Draw Prize Winners",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/slots-game-find-the-symbols-to-win-cash-prizes-2x-ps100-main-draw-prize",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "e49436950efc935d467f3cada82e1491bc3ddf6b470ca3f3c7afaa8b3343eb26",
+    "drand_seed_hash": "a8ac590bd6cef43a1732b11a876e10ef8c6a6d87aeb9df6791f01c2bee9f073b5b610e7e8b6e5c1e81663b651b2334de",
+    "client_seed": "1792692867616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4170,
+    "max_tickets": 24000,
+    "combined_hash": "2f0ef7243a692104312f4274dddd62f8bbe4f8c302f81736a459951c103f4caf",
+    "result": "10800",
+    "external_round_id": "33296503",
+    "processing_status": "completed",
+    "created_at": "2026-10-22T18:14:27.000000Z",
+    "revealed_at": "2026-10-22T18:14:33.000000Z"
+}
