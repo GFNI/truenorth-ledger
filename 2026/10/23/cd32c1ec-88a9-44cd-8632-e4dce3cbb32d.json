@@ -1,0 +1,22 @@
+{
+    "round_id": "cd32c1ec-88a9-44cd-8632-e4dce3cbb32d",
+    "draw_title": "Pokemon Destined Rivals ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/pokemon-destined-rivals-etb-5",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "911a2e770b2bb8301a287800f05596c94d5522337616495dea859e9c6249f54a",
+    "drand_seed_hash": "b8903d2d6ba0f9bc103f08f4808921ae6c0d4955ba06cb85d354bd973244ad1b90435dd9c5d6ca23e21adc049ca35e3f",
+    "client_seed": "1792789890807",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 161,
+    "max_tickets": 200,
+    "combined_hash": "131e390575f55f8f0f0e2b8b3999f561537ccd38908b9982a632cc6c67288bf2",
+    "result": "132",
+    "external_round_id": "33328844",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T21:11:30.000000Z",
+    "revealed_at": "2026-10-23T21:11:36.000000Z"
+}
