@@ -1,0 +1,22 @@
+{
+    "round_id": "d832cebe-b43a-414b-a763-2c291a3393e5",
+    "draw_title": "WIN A £75 TESCO GIFT CARD – FRIDAY QUICK WIN",
+    "competition_url": "https://prizerush.co.uk/admin/products/win-75-tesco-gift-card-friday-quick-win",
+    "operator": {
+        "name": "Performance Competitions UK Ltd",
+        "website": "https://prizerush.co.uk",
+        "company_number": "17209860"
+    },
+    "drand_server_seed": "ec1c1ea51eb620367642872ef672fa3d90326b537b6af23cd7cf9914c365f633",
+    "drand_seed_hash": "899eeff3bc2c5ee0de1903aa6d7780a968c2501c47ea7abd1f11e950e2f0a6f97a35c78fe7e1e03494ee1d5601147298",
+    "client_seed": "1792784403282",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97,
+    "max_tickets": 429,
+    "combined_hash": "b40b450d185974214f93afcd9860701e55a912f269b898660d61e4d5feec1a63",
+    "result": "97",
+    "external_round_id": "33327015",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T19:40:03.000000Z",
+    "revealed_at": "2026-10-23T19:40:09.000000Z"
+}
