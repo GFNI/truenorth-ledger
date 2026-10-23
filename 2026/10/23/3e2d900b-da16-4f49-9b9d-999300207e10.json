@@ -1,0 +1,22 @@
+{
+    "round_id": "3e2d900b-da16-4f49-9b9d-999300207e10",
+    "draw_title": "£500 Cash Spooky Street (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/spooky-street-ps500-cash-ps150-for-neighbours",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "24ed0bc6a35203a112c208e24ab5ea37e1893c29c811121b29b6ac902b5259fd",
+    "drand_seed_hash": "a0d4084110e7ad0c99e5b96ff850592bf053f805dc3c0a8a1a32951e31334c4a1f14b6b4f04cbf110e61411c4a4d1414",
+    "client_seed": "1792790165368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 348000,
+    "combined_hash": "07ed1d0fc40a247b9af6ac28834d11e3116a729c871eeb5f75f443ccc70dae6e",
+    "result": "275464",
+    "external_round_id": "33328935",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T21:16:05.000000Z",
+    "revealed_at": "2026-10-23T21:16:09.000000Z"
+}
