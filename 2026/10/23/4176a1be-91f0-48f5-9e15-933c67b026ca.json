@@ -1,0 +1,22 @@
+{
+    "round_id": "4176a1be-91f0-48f5-9e15-933c67b026ca",
+    "draw_title": "75\" LG 4K SMART TV OR £500 CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/75-tv-or-ps500-cash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f52f7cf6d7b1a5b8b71f02b577c2ceee1ad7dbf68d9d9c648cbabbeb30671c35",
+    "drand_seed_hash": "99287a426c7fa907fef320ea99837d41415b217e81882d89c7b778ae9c21e5d61eea255448521989531989d78fc5a8ad",
+    "client_seed": "1792785829955",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3663,
+    "max_tickets": 5000,
+    "combined_hash": "dbf31987d470c1b3c0333dcfe25b1be34ae0be6c901a236b964546f3a7cd1b90",
+    "result": "4988",
+    "external_round_id": "33327491",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:03:50.000000Z",
+    "revealed_at": "2026-10-23T20:03:57.000000Z"
+}
