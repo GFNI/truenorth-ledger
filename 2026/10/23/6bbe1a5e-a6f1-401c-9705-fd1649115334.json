@@ -1,0 +1,22 @@
+{
+    "round_id": "6bbe1a5e-a6f1-401c-9705-fd1649115334",
+    "draw_title": "*BRAND NEW* MVG W-MAX PLAYER COLLECTION SET",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-mvg-w-max-player-collection-set",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "ae23c16918791df3107cc4d105ada3ffcd8b9916c129b84a7f7c2210070a76e6",
+    "drand_seed_hash": "b5b8536fbe90499dfa28bc34ffdeac378ba48a438bd98715722ed372cb3573a2a7138744a807d4f2ac63008aa2b03257",
+    "client_seed": "1792783524523",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 133,
+    "max_tickets": 200,
+    "combined_hash": "ba29b5f8053cfb83421aebe936b6394aaed9bbaeb873f00d04e7352bd1bf9ade",
+    "result": "67",
+    "external_round_id": "33326722",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T19:25:24.000000Z",
+    "revealed_at": "2026-10-23T19:25:30.000000Z"
+}
