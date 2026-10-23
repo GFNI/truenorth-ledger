@@ -1,0 +1,22 @@
+{
+    "round_id": "6318bff1-b201-4e30-bd94-30119749cb07",
+    "draw_title": "🎯 DROP, SPIN & WIN! (MAYBE) UP TO £500 INSTANTLY",
+    "competition_url": "https://carleycomps.co.uk/admin/products/drop-spin-win-maybe-up-to-ps500-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "40d6a516198e73f10c9f01202fa7c7dedfd4e11a3fe7c3a3c810d56510d9a1c1",
+    "drand_seed_hash": "a6e7df9d0b89fac19a0d8094693ef4afb4c73a398e7b1dba72a94bde5f959bfba9bea8f26b2be647a0670f4730b51369",
+    "client_seed": "1792775256682",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16505,
+    "max_tickets": 99999,
+    "combined_hash": "b61178f4dd60914e2c10b838b41c0d00214469784e5be5d4477cc0cae6830025",
+    "result": "50574",
+    "external_round_id": "33323966",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T17:07:36.000000Z",
+    "revealed_at": "2026-10-23T17:07:42.000000Z"
+}
