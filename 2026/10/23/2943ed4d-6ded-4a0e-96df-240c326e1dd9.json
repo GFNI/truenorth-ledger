@@ -1,0 +1,22 @@
+{
+    "round_id": "2943ed4d-6ded-4a0e-96df-240c326e1dd9",
+    "draw_title": "£250 Pot - Only 25p per ticket",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps250-pot-only-25p-per-ticket-6",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "a8c58ba9362182fa295ac76594813d09714ea998062b75255970c39d89a16940",
+    "drand_seed_hash": "82b390607eb033a96bf75330091d082b0d1875258c8fd0736a014626cef716bef2b641cd128bf07ca58131055f0fab0e",
+    "client_seed": "1792787582872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 11596,
+    "max_tickets": 40000,
+    "combined_hash": "6835357d16b218ef63f028c06aba493185aa89c60e785f2b724ba9460c35ff42",
+    "result": "39081",
+    "external_round_id": "33328075",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:33:03.000000Z",
+    "revealed_at": "2026-10-23T20:33:09.000000Z"
+}
