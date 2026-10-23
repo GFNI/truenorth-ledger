@@ -1,0 +1,22 @@
+{
+    "round_id": "71b97dee-ac74-45f4-8902-13862ab24a9e",
+    "draw_title": "RAPID INSTANT WINS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/rapid-instant-wins",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "1e9b021f3542ae85d7ef2558a994fdd1cbca08d5bd4c9183f3dcfd5967f79a7a",
+    "drand_seed_hash": "90c248d4d277aec0280aae4d1ccd3ef2d32790384205c6a634990483ccd222fac8ae7530ff93bbc7297424b047923a68",
+    "client_seed": "1792786508273",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7238,
+    "max_tickets": 16000,
+    "combined_hash": "0dcfefc3c03fb88974185eda25bce87df6020f733c1f9fdaa3acf5c4bdb505ad",
+    "result": "9230",
+    "external_round_id": "33327717",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:15:08.000000Z",
+    "revealed_at": "2026-10-23T20:15:15.000000Z"
+}
