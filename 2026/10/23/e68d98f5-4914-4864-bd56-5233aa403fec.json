@@ -1,0 +1,22 @@
+{
+    "round_id": "e68d98f5-4914-4864-bd56-5233aa403fec",
+    "draw_title": "Scratchcards",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps100-scratch-card-bundle-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "57d5a1ac40c318548e9f7e4ce48f2c77b5527c97f6c052bb3c02689b4b944de7",
+    "drand_seed_hash": "8c0460433b4200db19770480b52690208db2ba0165e96186cf750737f1fa58a314603323cfbf1a120c2d4480f9ecc093",
+    "client_seed": "1792789913628",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 149,
+    "combined_hash": "69c250e8c585caf6218555efc43163687d3a18494f2fbaca118879e60002c87c",
+    "result": "96",
+    "external_round_id": "33328852",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T21:11:53.000000Z",
+    "revealed_at": "2026-10-23T21:12:03.000000Z"
+}
