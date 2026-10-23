@@ -1,0 +1,22 @@
+{
+    "round_id": "f72c1c54-cd70-4e5a-aedf-2d23519707fe",
+    "draw_title": "£1,000 Cash Jackpot Plus 50 x £50 Instant wins to find",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps1000-cash-jackpot-plus-50-x-ps50-instant-wins-to-find",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1e9b021f3542ae85d7ef2558a994fdd1cbca08d5bd4c9183f3dcfd5967f79a7a",
+    "drand_seed_hash": "90c248d4d277aec0280aae4d1ccd3ef2d32790384205c6a634990483ccd222fac8ae7530ff93bbc7297424b047923a68",
+    "client_seed": "1792786510522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1626,
+    "max_tickets": 2250,
+    "combined_hash": "093fac6567edd3d3fd0952e9e2a55e1cb2a9504a5907c049e21fa773d668716c",
+    "result": "1396",
+    "external_round_id": "33327717",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:15:10.000000Z",
+    "revealed_at": "2026-10-23T20:15:15.000000Z"
+}
