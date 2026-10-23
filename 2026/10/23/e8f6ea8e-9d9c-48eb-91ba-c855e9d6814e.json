@@ -1,0 +1,22 @@
+{
+    "round_id": "e8f6ea8e-9d9c-48eb-91ba-c855e9d6814e",
+    "draw_title": "Samsung 50\" TV",
+    "competition_url": "https://ogcompetitions.co.uk/lists/samsung-50-smart-tv",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "2e4bb25420b2c384973c0d8a60ff8e38d36c181ace3ec0605a51728a034ba6a3",
+    "drand_seed_hash": "a6709c262944e45e487200fbcc8a0575cbd194fe4dc74261979a26a5c85411ef5e5b577e32fda79954b4580373616b4b",
+    "client_seed": "1792790018854",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "20abe6d5c55c2821c212486fc2b41c5a0a5d09ea8ea0c667b1fddad366c1a9c3",
+    "result": "97",
+    "external_round_id": "33328887",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T21:13:38.000000Z",
+    "revealed_at": "2026-10-23T21:13:48.000000Z"
+}
