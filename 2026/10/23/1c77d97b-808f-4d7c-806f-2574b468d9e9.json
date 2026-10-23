@@ -1,0 +1,22 @@
+{
+    "round_id": "1c77d97b-808f-4d7c-806f-2574b468d9e9",
+    "draw_title": "*BRAND NEW* ADAM LIPSCOMBE DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-adam-lipscombe-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "245d57633651c01c12268a9cc12607260d3d8551272a9f43b5dd4303d1f2f269",
+    "drand_seed_hash": "9263073fa3fa8aff861228e236bcc4f176a02eefb14dae8cc0b23fa13910febe6abe5e7dbee25c13d701230fe357d8f7",
+    "client_seed": "1792783503131",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 200,
+    "combined_hash": "3e994aed5a1586dcc5042f88f80148dc6b1470773de3e1eb5b962f44e0cd273e",
+    "result": "87",
+    "external_round_id": "33326715",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T19:25:03.000000Z",
+    "revealed_at": "2026-10-23T19:25:09.000000Z"
+}
