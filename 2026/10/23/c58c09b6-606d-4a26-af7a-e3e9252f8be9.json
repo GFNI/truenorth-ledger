@@ -1,0 +1,22 @@
+{
+    "round_id": "c58c09b6-606d-4a26-af7a-e3e9252f8be9",
+    "draw_title": "A Zombie Apocalypse",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/a-zombie-apocalypse",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "680e302ba56e2a89bd8694fd4f5b4ef38a89181021979173de97a5ca9e790e2f",
+    "drand_seed_hash": "8922a0375b94bb8cb3e5330b787ba3889c0900967e5f55c29a25b9bf1ba879b346f3b8a0d991fcc27da3bb16fcc4bc12",
+    "client_seed": "1792785399442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 317477,
+    "max_tickets": 500000,
+    "combined_hash": "380e28b9affd12065148d0616cd9773575ba46d30f2267cbad2a28447f3b7a67",
+    "result": "410041",
+    "external_round_id": "33327347",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T19:56:39.000000Z",
+    "revealed_at": "2026-10-23T19:56:45.000000Z"
+}
