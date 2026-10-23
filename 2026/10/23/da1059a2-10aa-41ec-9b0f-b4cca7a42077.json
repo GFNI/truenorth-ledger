@@ -1,0 +1,22 @@
+{
+    "round_id": "da1059a2-10aa-41ec-9b0f-b4cca7a42077",
+    "draw_title": "2000 AUSTRALIAN SILVER ROO — 1oz FINE SILVER OR £60 CASH",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2000-australian-silver-roo-1oz-fine-silver-or-ps60-cash",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2a2607de22023276a83319219c68b04f8e929f46adb6aa1a21e193464e32e956",
+    "drand_seed_hash": "80480db752ced76a9f5719f232d16c3a698be5cd8d4ceb1a2d98f1d61a3b9e5e3730aee9cba6adef748e41ef80037f02",
+    "client_seed": "1792796175511",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63,
+    "max_tickets": 150,
+    "combined_hash": "7cc51d1eb331345efec1fbe6b40c28235906b99efa353f8ba274c2f5e1dd8e83",
+    "result": "81",
+    "external_round_id": "33330939",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T22:56:15.000000Z",
+    "revealed_at": "2026-10-23T22:56:21.000000Z"
+}
