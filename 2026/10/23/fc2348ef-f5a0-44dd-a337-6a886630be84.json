@@ -1,0 +1,22 @@
+{
+    "round_id": "fc2348ef-f5a0-44dd-a337-6a886630be84",
+    "draw_title": "£200 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/friday-flyer-ps200-free-to-enter",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "a62f2517018a0fd99a5a241581f2bf9c288b5f6c24b7b0e5955a20b54f10d154",
+    "drand_seed_hash": "b4f87304ed69bdbe04f33e12fa4ca157e0ae9bbd5f690aa069639d8b5ff19e60a848928675f258738d9243ffd60739fd",
+    "client_seed": "1792789821715",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 500,
+    "combined_hash": "21c07bc0affbcdf75278fa51a475033bdb4d60cddce8839929efa434a2fa0973",
+    "result": "86",
+    "external_round_id": "33328821",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T21:10:21.000000Z",
+    "revealed_at": "2026-10-23T21:10:31.000000Z"
+}
