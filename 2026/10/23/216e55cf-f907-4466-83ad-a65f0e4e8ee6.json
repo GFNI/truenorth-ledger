@@ -1,0 +1,22 @@
+{
+    "round_id": "216e55cf-f907-4466-83ad-a65f0e4e8ee6",
+    "draw_title": "£300 Cash plus 30 Instant Wins",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps300-cash-plus-30-instant-wins-4",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "3f672e0732d5226cb4e8e10ff4b0ea11c1b1c36e844b6f87b6329e1240f002b0",
+    "drand_seed_hash": "a665b757612c350bc1d7033cc8cb61dd569fda9df8b51d991bc809868599f8fd1414a2757fcbe74dc744dab7f679e45e",
+    "client_seed": "1792786284366",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 499,
+    "max_tickets": 499,
+    "combined_hash": "57185f9820ea9aa3de012389d0e78b62ecaaf9882ca6b3f68837a008d1ff7f94",
+    "result": "467",
+    "external_round_id": "33327642",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:11:24.000000Z",
+    "revealed_at": "2026-10-23T20:11:30.000000Z"
+}
