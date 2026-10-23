@@ -1,0 +1,22 @@
+{
+    "round_id": "057f3144-2e10-4aa1-8978-f176f24c5c44",
+    "draw_title": "Penny Palace 👑",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/penny-palace",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "380874a144b6346e46d82920aa4d3ebd6e50534ec01d5b1b502c1ff73186d300",
+    "drand_seed_hash": "8f489aadfaad94873484883e71e95fcfe94f05b858a2cec6da0b067077c046156d123663f24a197a54edb36c646cb5b1",
+    "client_seed": "1792787226137",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 608161,
+    "max_tickets": 1000000,
+    "combined_hash": "f1819998930dddbc025b00f0272057ae655f18e623bfe5b01017b9bfb471fbde",
+    "result": "197106",
+    "external_round_id": "33327956",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T20:27:06.000000Z",
+    "revealed_at": "2026-10-23T20:27:12.000000Z"
+}
