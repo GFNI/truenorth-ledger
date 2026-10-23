@@ -1,0 +1,22 @@
+{
+    "round_id": "1fdecd2c-052f-4907-ad47-58082429866f",
+    "draw_title": "🎃 Angry Pumpkins - £500 Main Draw + InstaWin up to £1000",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/angry-pumpkins-ps500-main-draw-instawin-up-to-ps1000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "0a7c0dbd250da8ee33dbbe9bbcc2c4535f622b3727c430ee2edd96a1edc3f174",
+    "drand_seed_hash": "ad67c64d97477a7d9cdb3600e4b272b7420172e91453b561039dca12ac1b47f79c74027643e39bc1db5604994a8c34eb",
+    "client_seed": "1792783922789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44927,
+    "max_tickets": 110000,
+    "combined_hash": "7062fe43d596d086db7236da957a6b6c9e62df833dc70f1541005b127d35b2c4",
+    "result": "44817",
+    "external_round_id": "33326855",
+    "processing_status": "completed",
+    "created_at": "2026-10-23T19:32:03.000000Z",
+    "revealed_at": "2026-10-23T19:32:09.000000Z"
+}
