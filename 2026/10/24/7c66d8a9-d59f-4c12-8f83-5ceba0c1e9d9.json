@@ -1,0 +1,22 @@
+{
+    "round_id": "7c66d8a9-d59f-4c12-8f83-5ceba0c1e9d9",
+    "draw_title": "Hush Money",
+    "competition_url": "https://chaotic.co.uk/competition/hush-money-1182",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "cc853aba9c92c1a0c66b7cd1cb47c5e7105b20f625bfeb5bb304415ae86b73d2",
+    "drand_seed_hash": "863917fbcbbb1f5542b3980d9659616e2fc402e7a8dffcf78a8b58fcf2ac6754c880b9d7b1f4dc2398e4700488b4a5cf",
+    "client_seed": "1792872763666",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200000,
+    "max_tickets": 200000,
+    "combined_hash": "1f289e89c4e8fd6f8270327c925c353a96b2222c97521f3c0b3c92d92f7a562b",
+    "result": "43552",
+    "external_round_id": "33356469",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T20:12:43.000000Z",
+    "revealed_at": "2026-10-24T20:12:51.000000Z"
+}
