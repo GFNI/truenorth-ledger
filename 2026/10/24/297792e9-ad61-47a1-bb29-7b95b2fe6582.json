@@ -1,0 +1,22 @@
+{
+    "round_id": "297792e9-ad61-47a1-bb29-7b95b2fe6582",
+    "draw_title": "£500 Primark Voucher",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps500-primark-voucher",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "db1af1766ddb6913597d34118f19a1a1c703dc0f43817d7a199c34f5dc5adacd",
+    "drand_seed_hash": "b536080bb956ae6babb0a97cc5690b771cc54acaf389603b12591b398049c6d16e7efca3564b17be3bd0f27e210a0bce",
+    "client_seed": "1792869903613",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6341,
+    "max_tickets": 10999,
+    "combined_hash": "c169f30bf22cd85f04672bccf0215776a68558558a17485276908593b3a2797d",
+    "result": "927",
+    "external_round_id": "33355516",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T19:25:04.000000Z",
+    "revealed_at": "2026-10-24T19:25:12.000000Z"
+}
