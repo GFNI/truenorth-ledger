@@ -1,0 +1,22 @@
+{
+    "round_id": "034cf98a-7a23-4a16-895c-2ba219eb6317",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into the VW Campervan or £40,000 Cash draw #3",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-the-vw-campervan-or-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b0e5ad4ea62cfa2628b8691dea34d095e08873d06a793d7dd08dc47c86859199",
+    "drand_seed_hash": "83894f6eb3117db3e039fc2835cf58085fd688e324e42ddb91bae1a76a81f672a7fef98e439aa30bc799f611c97ebde5",
+    "client_seed": "1792872006094",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "e3be8ef3a06ebb3510febb7ee577fed27bce08aa05d05b6b092af79490b2b7a1",
+    "result": "68",
+    "external_round_id": "33356216",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T20:00:06.000000Z",
+    "revealed_at": "2026-10-24T20:00:12.000000Z"
+}
