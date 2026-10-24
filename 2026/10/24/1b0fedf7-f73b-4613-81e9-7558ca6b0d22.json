@@ -1,0 +1,22 @@
+{
+    "round_id": "1b0fedf7-f73b-4613-81e9-7558ca6b0d22",
+    "draw_title": "2024 AMERICAN SILVER EAGLE — 1oz FINE SILVER OR £60 CASH",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-american-silver-eagle-1oz-fine-silver-or-ps60-cash",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "03f0455a58389bdd34f65ba66ae8fb9503cae7aee0187f6b2a37c8241442471a",
+    "drand_seed_hash": "886da6446ce03ca70e50d3faa04fe332be24e95ff7fce5cfca05e80da5ca8a913b115892c3d0172e08a5477e19da3c98",
+    "client_seed": "1792882578861",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74,
+    "max_tickets": 150,
+    "combined_hash": "ec61265f831dfe4f29d904f5900185ac3704194b0d99675198982d66464a8712",
+    "result": "107",
+    "external_round_id": "33359740",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T22:56:18.000000Z",
+    "revealed_at": "2026-10-24T22:56:24.000000Z"
+}
