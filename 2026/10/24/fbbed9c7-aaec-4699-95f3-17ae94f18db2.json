@@ -1,0 +1,22 @@
+{
+    "round_id": "fbbed9c7-aaec-4699-95f3-17ae94f18db2",
+    "draw_title": "🎰 HIGH ROLLING HOUNDS 🎰",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/high-rolling-hounds",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "17cbfea86dd62275e221b042ddd58619b507e95bebc365253e02681af334fae1",
+    "drand_seed_hash": "88dcf422a1ac011c7e78ac4cc9cbd646737c71984492077ad43ca5cf088e24838f3fd1fb408c4c7c6b82e8ad8d98bb17",
+    "client_seed": "1792868919885",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 599,
+    "combined_hash": "f21921b9dcc37245e4ddef05862ddc0a49c808d3a240f53ede22ac30d16b77a8",
+    "result": "323",
+    "external_round_id": "33355187",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T19:08:39.000000Z",
+    "revealed_at": "2026-10-24T19:08:45.000000Z"
+}
