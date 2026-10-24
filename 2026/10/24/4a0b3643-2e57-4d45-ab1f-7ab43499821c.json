@@ -1,0 +1,22 @@
+{
+    "round_id": "4a0b3643-2e57-4d45-ab1f-7ab43499821c",
+    "draw_title": "FLORIDA FUR-TUNE 🐊🌴☀️",
+    "competition_url": "https://twintailscompetitions.co.uk/admin/products/florida-fur-tune",
+    "operator": {
+        "name": "TwinTails Competitions Ltd",
+        "website": "https://twintailscompetitions.co.uk",
+        "company_number": "17048936"
+    },
+    "drand_server_seed": "9a2b08834cff84860b64c3de470dfcad5b19e5418c120b63be246823e4b93329",
+    "drand_seed_hash": "a1311dc32ec7c50297f3b471b2be0d9d3659164d01acac5802c4e7f988b9371553cbbf3a144007ba23d45252f9925934",
+    "client_seed": "1792869104152",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5022,
+    "max_tickets": 24999,
+    "combined_hash": "5f090d08ea633e0ba15a37765655eaf6ee199a4163858392a36fde98fa27bc36",
+    "result": "2499",
+    "external_round_id": "33355249",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T19:11:44.000000Z",
+    "revealed_at": "2026-10-24T19:11:51.000000Z"
+}
