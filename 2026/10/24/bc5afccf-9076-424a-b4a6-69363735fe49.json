@@ -1,0 +1,22 @@
+{
+    "round_id": "bc5afccf-9076-424a-b4a6-69363735fe49",
+    "draw_title": "50 X ENTRIES - £50,000 FIREWORK FORTUNE",
+    "competition_url": "https://geardowncompetitions.com/admin/products/50-x-entries-ps50000-firework-fortune-2",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "42ec9aa1b11128f6f4bfc17ef9c12dc802574f46e8e0f97a0542b6752e7e8661",
+    "drand_seed_hash": "8f2868a0e69359eb489394fe0f44d249f5433e99e5cd4b4bc3ec1c1bfb0337949563a7517de1ec3a5d18b6d821c26bab",
+    "client_seed": "1792876314749",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1296,
+    "max_tickets": 1999,
+    "combined_hash": "eaf8ab56ab659d9e8a163ee5f75ad9e5006ee28772b08e13ae22e6457a4d0ba2",
+    "result": "374",
+    "external_round_id": "33357652",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T21:11:54.000000Z",
+    "revealed_at": "2026-10-24T21:12:00.000000Z"
+}
