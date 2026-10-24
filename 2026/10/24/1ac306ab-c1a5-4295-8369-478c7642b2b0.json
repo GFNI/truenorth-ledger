@@ -1,0 +1,22 @@
+{
+    "round_id": "1ac306ab-c1a5-4295-8369-478c7642b2b0",
+    "draw_title": "Win Glenmorangie Instantly.  Over 90 instant prizes",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenmorangie-instantly",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "41f3aee150cbc96baaceb312d83fe9e97706271f6818cbb8f96adceb51c11ba6",
+    "drand_seed_hash": "a3c966fe2dee20a4b20fa63c84654c3d82ab86167b823654e07f71b79c676c903e733d12af6d4efb000dbb2ad33831b6",
+    "client_seed": "1792878001127",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 306,
+    "max_tickets": 1499,
+    "combined_hash": "d9622f4a740c8ebf0fac90acb1237ba959f14eb5205d64a596d5da51de585a0a",
+    "result": "1281",
+    "external_round_id": "33358215",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T21:40:01.000000Z",
+    "revealed_at": "2026-10-24T21:40:09.000000Z"
+}
