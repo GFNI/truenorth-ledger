@@ -1,0 +1,22 @@
+{
+    "round_id": "ca80781c-3dad-426e-b32d-480352671865",
+    "draw_title": "Fairy Fortune",
+    "competition_url": "https://chaotic.co.uk/competition/fairy-fortune-1870",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c7f2cf6a56d861c605bf2e8f258ee6aee35920e8729c26fdd14fb59cdb9a25f2",
+    "drand_seed_hash": "805c2248075f4c9634ffb1f99d88e2d5e09faa44b4ee94901ef3dc36365a2edef9f08260ebc48c6409f602b668fa7590",
+    "client_seed": "1792871351618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "843a77a89c320c2fea3a82d08e3dad658fb26b461b5e0884f9f04db3a67a46eb",
+    "result": "86053",
+    "external_round_id": "33355998",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T19:49:11.000000Z",
+    "revealed_at": "2026-10-24T19:49:18.000000Z"
+}
