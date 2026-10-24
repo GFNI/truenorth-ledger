@@ -1,0 +1,22 @@
+{
+    "round_id": "5a997982-171d-4cd2-8527-a0dc700b4588",
+    "draw_title": "🐺£15K PRIZE EVERY TIME!🩸  - £200 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/ps15k-prize-every-time-ps200-end-prize-3",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "b97563dde9f54753bbf8bd161f2c81cb935f572359e392118892cf366c22f32a",
+    "drand_seed_hash": "874dc2aeb72f19bdedb08362d7caf6268e5d5ac12daf783810859613937fda5ad7bdbb22bcd5a9e197caf7b16667eff6",
+    "client_seed": "1792879814663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1144,
+    "max_tickets": 30000,
+    "combined_hash": "6be62329a38ecfcf3171c9a7c00213ee731363fc70f36870f801d51b0061e785",
+    "result": "8604",
+    "external_round_id": "33358819",
+    "processing_status": "completed",
+    "created_at": "2026-10-24T22:10:14.000000Z",
+    "revealed_at": "2026-10-24T22:10:21.000000Z"
+}
