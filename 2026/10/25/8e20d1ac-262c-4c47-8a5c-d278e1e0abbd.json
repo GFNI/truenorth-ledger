@@ -1,0 +1,22 @@
+{
+    "round_id": "8e20d1ac-262c-4c47-8a5c-d278e1e0abbd",
+    "draw_title": "⚔️🔥 WIN YOUR £250 WARHAMMER ARMY OF CHOICE + INSTANT WINS!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/win-your-ps250-warhammer-army-of-choice-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0c1685e642826665b642f6e2f2ef16761c657ae552a940005749ebc8ebcf97a9",
+    "drand_seed_hash": "a6f458062dd5f3834ddf500b6a32ec272bb93abc791964b76d046a4a36ffbe45f220277ef6ffff0f203aaa20809704c6",
+    "client_seed": "1792968104843",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 443,
+    "max_tickets": 1066,
+    "combined_hash": "17adaccceb974c6caa499af8b40bfc66162634ac56846ec2d5e0fb7f5f71b3aa",
+    "result": "78",
+    "external_round_id": "33388249",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T22:41:44.000000Z",
+    "revealed_at": "2026-10-25T22:41:51.000000Z"
+}
