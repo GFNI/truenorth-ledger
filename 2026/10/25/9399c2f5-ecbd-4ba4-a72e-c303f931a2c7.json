@@ -1,0 +1,22 @@
+{
+    "round_id": "9399c2f5-ecbd-4ba4-a72e-c303f931a2c7",
+    "draw_title": "FRUITFUL FORTUNES (x10 £100 END PRIZE WINNERS!!) 25/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/fruitful-fortunes-2510-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "9d84cab8ab6285145bb4e1aa4f5b9fbdd4d0926c832dd3efeb63990565fa6efb",
+    "drand_seed_hash": "9530f1c90f44a3b1e46fc8d7ef09d787affd8874957bccef1345901b3bae89b129270f2cf6bb8d9570015c9a7e4f3fe9",
+    "client_seed": "1792966065824",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 160855,
+    "max_tickets": 999999,
+    "combined_hash": "2e39f1b9b4503eecc82e844fb9016202ca960158b6a95efc9748b660dcf663b9",
+    "result": "596894",
+    "external_round_id": "33387569",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T22:07:45.000000Z",
+    "revealed_at": "2026-10-25T22:07:51.000000Z"
+}
