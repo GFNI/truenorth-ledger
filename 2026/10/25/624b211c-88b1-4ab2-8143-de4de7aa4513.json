@@ -1,0 +1,22 @@
+{
+    "round_id": "624b211c-88b1-4ab2-8143-de4de7aa4513",
+    "draw_title": "Nothing adds up - £3753.57 End Prize #16",
+    "competition_url": "https://speedcompetitions.co.uk/competition/nothing-adds-up-ps375357-end-prize-16",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "da1dac873ea0cb8f78b88754f040ed9a99b3bc393b498489c7f2a01a79f480e8",
+    "drand_seed_hash": "b5bd8b40bb66170887cddbecdfce4da38128da8f28ba959b68ddee7c421ad7c6914ac9cd00daa7330dfaa0e36d8a9011",
+    "client_seed": "1792960862546",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 726449,
+    "max_tickets": 760931,
+    "combined_hash": "d058185673e3a3613154f16d48a8d93c622a03ceac02d6e0e100554545edf49d",
+    "result": "189139",
+    "external_round_id": "33385835",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:41:03.000000Z",
+    "revealed_at": "2026-10-25T20:41:09.000000Z"
+}
