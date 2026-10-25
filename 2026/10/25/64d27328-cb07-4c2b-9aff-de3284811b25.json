@@ -1,0 +1,22 @@
+{
+    "round_id": "64d27328-cb07-4c2b-9aff-de3284811b25",
+    "draw_title": "5 x FREEBIES",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/5-x-freebies",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "bdd03df10b183faf9bcab1a7e13dc5d9b706c29c824c770091095876ece1502f",
+    "drand_seed_hash": "85243d1d3f69e180a0d564a0e00c5bdf05d5cc3724ebaa02328c63d7c0888678ba803693b0c76f762bfe4bdbb1ccab41",
+    "client_seed": "1792960800508",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 250,
+    "combined_hash": "6057b8d10a703a9a33a82f91f2b5d47458eb32b454760790d0f7daa41f1ac62e",
+    "result": "137",
+    "external_round_id": "33385814",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:40:00.000000Z",
+    "revealed_at": "2026-10-25T20:40:06.000000Z"
+}
