@@ -1,0 +1,22 @@
+{
+    "round_id": "5af49adb-4cb7-4eb0-915f-f18e600a51ed",
+    "draw_title": "Win A Nintendo Switch2 - Just 75p!",
+    "competition_url": "https://expcomps.com/admin/products/win-a-nintendo-switch2-just-75p",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "5783a40803bb9697526962c943b6b1056b2f80e3a8c30c307dbeaa9d11fbffa6",
+    "drand_seed_hash": "ad1e673fc0b708e355b14f0fcb3f90850c343825e416c584b8c0cfc0b854b0b901e6ca88ccef7e839b2ec256ad3a566f",
+    "client_seed": "1792962271220",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1207,
+    "max_tickets": 1299,
+    "combined_hash": "14ed168f658cd8f305d702065c1c9b1a778aa642a4172490dff29539a1365e4a",
+    "result": "144",
+    "external_round_id": "33386305",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:04:31.000000Z",
+    "revealed_at": "2026-10-25T21:04:39.000000Z"
+}
