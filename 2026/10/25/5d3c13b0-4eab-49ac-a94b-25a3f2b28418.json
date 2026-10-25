@@ -1,0 +1,22 @@
+{
+    "round_id": "5d3c13b0-4eab-49ac-a94b-25a3f2b28418",
+    "draw_title": "Win a Fiamma f45s or f80s awning!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-fiamma-f45s-or-f80s-awning",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "00fe6d40633d456573eaf7fdb1beadec46e01858be1af162415826874fb484b9",
+    "drand_seed_hash": "8130186190d8aa8035c668dcbb97ac3f0a61d0ba306fe11846615da251b91c7930e5df9c6ce2a8a44d3da600d86be849",
+    "client_seed": "1792959048806",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 991,
+    "max_tickets": 1199,
+    "combined_hash": "be0da77ad631b553a0bd79fc16e3ba417cedbf37f4c266de810ff61dc0091588",
+    "result": "220",
+    "external_round_id": "33385230",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:10:48.000000Z",
+    "revealed_at": "2026-10-25T20:10:54.000000Z"
+}
