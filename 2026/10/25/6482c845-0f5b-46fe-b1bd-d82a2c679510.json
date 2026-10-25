@@ -1,0 +1,22 @@
+{
+    "round_id": "6482c845-0f5b-46fe-b1bd-d82a2c679510",
+    "draw_title": "Win £3,000 for 3p + Win Upto £3,000 Cash Instantly",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-ps3000-for-3p-win-upto-ps3000-cash-instantly-3",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "78b966a67d0f6d0589ae9ff41c88e007f6ebb01f5fae3d3b20bee16b6747fe42",
+    "drand_seed_hash": "88e7ad1aa125fd566f90513b4c0abfd12c4e816ea7e30070d3335d415a133bb2aa41a9aea2b11d6acc6d2e5aad40bb55",
+    "client_seed": "1792962643103",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1291283,
+    "max_tickets": 1400000,
+    "combined_hash": "e55dc8615c0420416c3a7c12be89b772a53c524e329ccfd56e3c31ea409351d8",
+    "result": "1121190",
+    "external_round_id": "33386428",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:10:43.000000Z",
+    "revealed_at": "2026-10-25T21:10:48.000000Z"
+}
