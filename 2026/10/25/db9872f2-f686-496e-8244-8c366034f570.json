@@ -1,0 +1,22 @@
+{
+    "round_id": "db9872f2-f686-496e-8244-8c366034f570",
+    "draw_title": "THE BRAND NEW CIGAR MALT RESERVE 18 YEAR OLD! BRAND NEW WHISKY!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-brand-new-cigar-malt-reserve-18-year-old-brand-new-whisky",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "360b4f62e8da8b4ffc14beb9e09761442e2d7bf5d63f69f241475b81248424fa",
+    "drand_seed_hash": "8fe219966d1ab5d0fc676d94e1fc5eda6d1b74420d3e20714be937d96195e8bec932a49f17af0abd6751e3985019d9ef",
+    "client_seed": "1792966264785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 509,
+    "max_tickets": 2999,
+    "combined_hash": "f559eb5546c1221b5590e5a09ccf6cb11dade8efe46ec0cc77191d95648bdbb7",
+    "result": "6",
+    "external_round_id": "33387636",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T22:11:04.000000Z",
+    "revealed_at": "2026-10-25T22:11:12.000000Z"
+}
