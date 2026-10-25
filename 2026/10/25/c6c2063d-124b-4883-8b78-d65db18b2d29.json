@@ -1,0 +1,22 @@
+{
+    "round_id": "c6c2063d-124b-4883-8b78-d65db18b2d29",
+    "draw_title": "HALLOWEEN CASH HUNT - OVER £5,000 INSTANT CASH",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/halloween-cash-hunt",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "e6ff273861f810aae3a51a29f6b511f426cdb61e18b265242cd3fd126ca339de",
+    "drand_seed_hash": "97e9878a8457a08781cec7dee17049b4bd4993c9bf4c527430915949bf991769475e3bf2913592ed8aa24f0e001b67e2",
+    "client_seed": "1792962630507",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 135,
+    "max_tickets": 700,
+    "combined_hash": "fd613b1cc01035ffd61a2b5d4b19dfd17fbe4a5faeb4ccf3c11957723e9afbbe",
+    "result": "158",
+    "external_round_id": "33386424",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:10:30.000000Z",
+    "revealed_at": "2026-10-25T21:10:36.000000Z"
+}
