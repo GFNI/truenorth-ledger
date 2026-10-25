@@ -1,0 +1,22 @@
+{
+    "round_id": "5ec79125-c6ce-4d73-9281-0109dcaca2b2",
+    "draw_title": "THE 'TRIPLE R' BATTLE FOR GLORY",
+    "competition_url": "https://onthepodiumprizes.com/admin/products/the-triple-r-battle-for-glory",
+    "operator": {
+        "name": "On The Podium Prizes",
+        "website": "https://onthepodiumprizes.com",
+        "company_number": "NI699937"
+    },
+    "drand_server_seed": "9b181adbafe1a332063f3b4329767dd4ea55689f3aa3954440ddf3cf491640a9",
+    "drand_seed_hash": "a56d9ab290ec8ac63acda04049ad7b7ecadb7c4afbdde983ca02a65ea2842a55dc751afced65cb9443fc6ada0a4c79f9",
+    "client_seed": "1792961998716",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 963,
+    "max_tickets": 6000,
+    "combined_hash": "e6fb9beca319f355fdbe54692d4c0645f73dbe4f04b70fb3c53f4482b2a29f8c",
+    "result": "3543",
+    "external_round_id": "33386214",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:59:58.000000Z",
+    "revealed_at": "2026-10-25T21:00:06.000000Z"
+}
