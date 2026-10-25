@@ -1,0 +1,22 @@
+{
+    "round_id": "b9fbd008-7ec7-41d6-8e2d-9efc01a8d455",
+    "draw_title": "EVERY TICKETS A WINNER (30K INSTANT WINS)",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/every-tickets-a-winner-30k-instant-wins",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2807ce36a3e5d4444aec96601bb4c68f6d168dd73698fbaeb0b47ee71b21a5a7",
+    "drand_seed_hash": "a7c70e1773973cc7b87eedd335b5efb7b645c775801937f5541f93d6d41b01b6096040587afae482702e26da8a056054",
+    "client_seed": "1792962922650",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5248,
+    "max_tickets": 30000,
+    "combined_hash": "9b26d3bfbb9cb4bf2066540ccb1beb79968dc909ed35f7104bb594011a4e7085",
+    "result": "6236",
+    "external_round_id": "33386521",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:15:22.000000Z",
+    "revealed_at": "2026-10-25T21:15:27.000000Z"
+}
