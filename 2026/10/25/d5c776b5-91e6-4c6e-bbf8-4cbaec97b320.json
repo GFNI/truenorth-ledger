@@ -1,0 +1,22 @@
+{
+    "round_id": "d5c776b5-91e6-4c6e-bbf8-4cbaec97b320",
+    "draw_title": "Perfect Storm!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/perfect-storm",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "47ba7cc2955555093ef76a978988168274dde869cdcd0b6026e97425e957d029",
+    "drand_seed_hash": "8857a913805e376ee6d3c119bf9d108bfbbf46c8e42d07e2d3b7d6a731685124fa855d159610421e4b8002c7859e3cc4",
+    "client_seed": "1792960784479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7726,
+    "max_tickets": 31000,
+    "combined_hash": "996b4fe786a7494e989fa800c550e1a261d7d2590399e6cf8ee32be2ee64741b",
+    "result": "6786",
+    "external_round_id": "33385809",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:39:44.000000Z",
+    "revealed_at": "2026-10-25T20:39:51.000000Z"
+}
