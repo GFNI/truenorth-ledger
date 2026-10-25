@@ -1,0 +1,22 @@
+{
+    "round_id": "7e5e4a1f-4074-4f07-b2a4-441a45c1a1af",
+    "draw_title": "WIN £2.50 OR £250!",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/win-ps250-or-ps250",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "75db9cdf28fdec99670ac4d9d0f72d9461aac330e156901f92085355aaf6b596",
+    "drand_seed_hash": "a834649618d233722ba83f7fb24da1b7e4ccf2216164f1132515b34431e875f838cc0edac391ee90c325dbfa511f8c20",
+    "client_seed": "1792963769063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25378,
+    "max_tickets": 100000,
+    "combined_hash": "4b9bad77ba528ce72b8cb23cb5a6b81cb0ccade4a572a2c356eaa5188ca1fc5a",
+    "result": "66188",
+    "external_round_id": "33386804",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:29:29.000000Z",
+    "revealed_at": "2026-10-25T21:29:36.000000Z"
+}
