@@ -1,0 +1,22 @@
+{
+    "round_id": "00576b3e-bf27-4d14-95b1-ad8e72e92e45",
+    "draw_title": "£100 Scratch & WIN ! £100 DRAW DAY PRIZE 🏆 Prize",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/ps100-scratch-win-ps100-draw-day-prize-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "78b966a67d0f6d0589ae9ff41c88e007f6ebb01f5fae3d3b20bee16b6747fe42",
+    "drand_seed_hash": "88e7ad1aa125fd566f90513b4c0abfd12c4e816ea7e30070d3335d415a133bb2aa41a9aea2b11d6acc6d2e5aad40bb55",
+    "client_seed": "1792962642529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 474,
+    "max_tickets": 4499,
+    "combined_hash": "60b3993dda075510634f68490043dd430741b681d92e07dd7499fffba6f720ce",
+    "result": "4318",
+    "external_round_id": "33386428",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:10:42.000000Z",
+    "revealed_at": "2026-10-25T21:10:48.000000Z"
+}
