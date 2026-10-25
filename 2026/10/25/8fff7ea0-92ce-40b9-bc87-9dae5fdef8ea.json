@@ -1,0 +1,22 @@
+{
+    "round_id": "8fff7ea0-92ce-40b9-bc87-9dae5fdef8ea",
+    "draw_title": "Jungle Bounce - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/jungle-bounce-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6691f0fa1abbc0964a05e3353119f1373c15fe53b28e0d31f9e9347d55b5bdb5",
+    "drand_seed_hash": "84d2bd98df544a8b556a030fabc985f651024457a9b7e1c35ec03092310850d44c8d4851c28cf753f9d3ed7ea482fb13",
+    "client_seed": "1792960611732",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2999999,
+    "max_tickets": 2999999,
+    "combined_hash": "58d2956fcd495adb4cec0be0602e5ebb8e0b96432fb5b0c05003ffc76728c8da",
+    "result": "90313",
+    "external_round_id": "33385751",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:36:51.000000Z",
+    "revealed_at": "2026-10-25T20:36:57.000000Z"
+}
