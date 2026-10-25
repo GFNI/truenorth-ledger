@@ -1,0 +1,22 @@
+{
+    "round_id": "566cca0f-b994-488c-8ea2-c2190802a184",
+    "draw_title": "Win A Shark CryoGlow Mask Plus Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/sharkmask",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "f58dbad7bbc758cfd8dc974f33ce4c6dfc90eabcb4373077ae9b38107be3e6b1",
+    "drand_seed_hash": "b3cbc6fc007a322d0cc3a02d1bc6450dad54066dc80e4d2d024f1623bff40cb2b90c1f800726a3ee5a61e0b18608d8fb",
+    "client_seed": "1792960961720",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "790475d87b61b9fde6d7072e7323b36b27f41b62224685ced257629eacee717a",
+    "result": "7514",
+    "external_round_id": "33385868",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:42:41.000000Z",
+    "revealed_at": "2026-10-25T20:42:48.000000Z"
+}
