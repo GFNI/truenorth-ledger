@@ -1,0 +1,22 @@
+{
+    "round_id": "b8a7aa78-2178-4fb4-bce6-8522c23d5aee",
+    "draw_title": "PET! £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/pet-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "5d8d7e317c6a4bd65088fba1bf68924847f3896820857372fee6bddb30529656",
+    "drand_seed_hash": "ab8fbd3193b950ebf2dfc4f6d2e386a4e35a083af42b666836d11550cc986edf00ba848833c535efe637831ee718e424",
+    "client_seed": "1792960698133",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18999,
+    "max_tickets": 18999,
+    "combined_hash": "d59abdd7d124b63dc28e5cccc8975424a99f3afe90fb4b0238960e6dcbc75c96",
+    "result": "8893",
+    "external_round_id": "33385780",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:38:18.000000Z",
+    "revealed_at": "2026-10-25T20:38:24.000000Z"
+}
