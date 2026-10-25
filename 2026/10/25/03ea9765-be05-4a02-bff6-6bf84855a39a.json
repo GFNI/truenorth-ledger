@@ -1,0 +1,22 @@
+{
+    "round_id": "03ea9765-be05-4a02-bff6-6bf84855a39a",
+    "draw_title": "GPS Smart Watch",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/gps-smart-watch",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "67d981a22510908b9db1ae016fe7f9cb4fc70a523d7f6bb163d9bd33b484b941",
+    "drand_seed_hash": "8affee0438afcfb1915f7e501c16836a8cd833f1c1b12aaf8f051f63cbf1f2a2b92378fa642157539273158e51b38508",
+    "client_seed": "1792959783788",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 77,
+    "max_tickets": 250,
+    "combined_hash": "07b0bc9e49c0ad284606912f0a44176e637fdc069e7060ff85c30653efda25bd",
+    "result": "210",
+    "external_round_id": "33385476",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:23:04.000000Z",
+    "revealed_at": "2026-10-25T20:23:12.000000Z"
+}
