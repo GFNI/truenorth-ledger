@@ -1,0 +1,22 @@
+{
+    "round_id": "810e621e-7d48-455f-818e-e67d4291265b",
+    "draw_title": "WIN £100 FREE! OR £200 WHEN YOU SPEND £1+",
+    "competition_url": "https://championwincompetitions.co.uk/admin/products/win-ps100-free-or-ps200-when-you-spend-ps1-4",
+    "operator": {
+        "name": "Champion Win Competitions Ltd",
+        "website": "https://championwincompetitions.co.uk",
+        "company_number": "16303779"
+    },
+    "drand_server_seed": "7d6f638129cee99f0b90d9d08015fe09f3ad06f72a9dde8e009844c2a291bc1d",
+    "drand_seed_hash": "abe6fd31ecd8786e3da581e1ebc15c7a3c20f0ffb21252a6918fa5eb02a8a8ed6d21859dbbda72b5285ba835f3d25ab8",
+    "client_seed": "1792959619380",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 6000,
+    "combined_hash": "ce5e5aea9218007f388237b9d78ca9f6854e77f925c6d904c4cb519e3c338891",
+    "result": "3055",
+    "external_round_id": "33385421",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:20:19.000000Z",
+    "revealed_at": "2026-10-25T20:20:27.000000Z"
+}
