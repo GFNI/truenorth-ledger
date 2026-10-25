@@ -1,0 +1,22 @@
+{
+    "round_id": "d3b266e1-2c35-411a-9454-506b7af7e50a",
+    "draw_title": "£1000 IMPACT LEAGUE TCG GIFT CARD",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/ps1000-impact-league-tcg-gift-card-2",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "cf1cfe2759a844808dcce51797dd8f90cd6fbb38c295370ca925e14df5cab912",
+    "drand_seed_hash": "986ec0df920a920dd5bb355899cd54a19ef8bc81a35bde057d89ccbf1b93124439afee3fb9a4d549bf0f8391c54121b6",
+    "client_seed": "1792963285103",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5877,
+    "max_tickets": 7666,
+    "combined_hash": "bcd0b77f03ebf0d1f00e7690bc3f616dc59a3a33ad1612eaf5635a8cd9ddee33",
+    "result": "6299",
+    "external_round_id": "33386643",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:21:25.000000Z",
+    "revealed_at": "2026-10-25T21:21:33.000000Z"
+}
