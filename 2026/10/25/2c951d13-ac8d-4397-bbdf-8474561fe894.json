@@ -1,0 +1,22 @@
+{
+    "round_id": "2c951d13-ac8d-4397-bbdf-8474561fe894",
+    "draw_title": "Pinball Wizard",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/pinball-wizard",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "a773bd160094b1b8efa2425676c08bd809008bdef8b2a46b83406b5f35d065d7",
+    "drand_seed_hash": "82fcb78569ff43b77ec8e66f9b68b9d8bd3cc4c611a93f9114573bd74702646473a878abcf81d669bdc8abb6201bb0a8",
+    "client_seed": "1792961876435",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78149,
+    "max_tickets": 175000,
+    "combined_hash": "744db79a8b068078fb66f618a7fd2f32a2d61e4e1ef543be85f9b8d089764921",
+    "result": "104181",
+    "external_round_id": "33386173",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:57:56.000000Z",
+    "revealed_at": "2026-10-25T20:58:03.000000Z"
+}
