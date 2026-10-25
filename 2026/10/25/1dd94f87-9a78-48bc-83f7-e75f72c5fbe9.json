@@ -1,0 +1,22 @@
+{
+    "round_id": "1dd94f87-9a78-48bc-83f7-e75f72c5fbe9",
+    "draw_title": "GOLDEN EGG SMASH",
+    "competition_url": "https://theprizevault.co.uk/admin/products/golden-egg-smash",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "1f19a2b40fa0e024027eefb836ed35ad18b6f247fe3393e9db8a87ff21e11b52",
+    "drand_seed_hash": "abb91fbbec20c49c523b9a7c5a1f8553c4cfb36f5a694414c620c123142a890d5dddcb663107a52d8a18f43023a4f83a",
+    "client_seed": "1792959039985",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3185,
+    "max_tickets": 35000,
+    "combined_hash": "ed8256bddcfdde7280dd942128b56a97cfc182d6a32947c8aabb71ab68ceceee",
+    "result": "33438",
+    "external_round_id": "33385228",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:10:40.000000Z",
+    "revealed_at": "2026-10-25T20:10:48.000000Z"
+}
