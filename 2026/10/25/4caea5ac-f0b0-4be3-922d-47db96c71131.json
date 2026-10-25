@@ -1,0 +1,22 @@
+{
+    "round_id": "4caea5ac-f0b0-4be3-922d-47db96c71131",
+    "draw_title": "🎈 Jason The Truckboy & Mrs Moo Balloon Pop🎈",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/jason-the-truckboy-mrs-moo-balloon-pop",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "e1b8cbb2601aba1de9c541fd952ee7350b3e4af69d8bd576b38be3c6ab601a6e",
+    "drand_seed_hash": "83bc3c74661135d25cf6c536102eb8d25ffc548fa2b4c47db510da599f5294e66cf576cccc714e7158a56dd2a46d9aab",
+    "client_seed": "1792939026798",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9184,
+    "max_tickets": 32000,
+    "combined_hash": "8db4ca9ea4fb73d91e726857866407c5131ba0be0613fba2f86f807225ca5703",
+    "result": "20622",
+    "external_round_id": "33378557",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T14:37:07.000000Z",
+    "revealed_at": "2026-10-25T14:37:15.000000Z"
+}
