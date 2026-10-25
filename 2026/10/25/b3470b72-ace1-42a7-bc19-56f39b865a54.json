@@ -1,0 +1,22 @@
+{
+    "round_id": "b3470b72-ace1-42a7-bc19-56f39b865a54",
+    "draw_title": "NOW THATS WHAT I CALL EPIC",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/now-thats-what-i-call-epic",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f0b4c3cbc4a44c3516a4eb4c063c10eb2ef1b51b46946d8554cd25f3c963a64d",
+    "drand_seed_hash": "b5eff05b1c3a7a82fbc80c7e01483dc75d24f13f87a7960a3c04acdf84e60da570b22c5d11f6a6a479e051b00a3203f0",
+    "client_seed": "1792962320656",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21547,
+    "max_tickets": 316000,
+    "combined_hash": "b25f003534a964f54703d4ef4a500984017cf2f94f2f4380d727c31faab7c33f",
+    "result": "308947",
+    "external_round_id": "33386321",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:05:20.000000Z",
+    "revealed_at": "2026-10-25T21:05:27.000000Z"
+}
