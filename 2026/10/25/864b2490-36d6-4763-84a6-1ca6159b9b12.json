@@ -1,0 +1,22 @@
+{
+    "round_id": "864b2490-36d6-4763-84a6-1ca6159b9b12",
+    "draw_title": "62g 9ct STONE-SET BELCHER BRACELET + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/62g-9ct-stone-set-belcher-bracelet-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "5cf22ecbe3f6fc561cfb6da32c7c9fd8dd742d249a9ef7de4ca7b044e9336442",
+    "drand_seed_hash": "b2c9283ce752c02c0b03a4ac09df7f9530fff462c273a6360a6ddf3cd3f2d31065cca6021f437072f25bbfcfce192812",
+    "client_seed": "1792962473463",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2965,
+    "max_tickets": 8000,
+    "combined_hash": "5832246bc8877673b69ed2d0224c33678a9a88d4220610c0217c4f038c97343a",
+    "result": "6297",
+    "external_round_id": "33386372",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:07:53.000000Z",
+    "revealed_at": "2026-10-25T21:08:00.000000Z"
+}
