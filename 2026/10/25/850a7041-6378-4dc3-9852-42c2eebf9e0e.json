@@ -1,0 +1,22 @@
+{
+    "round_id": "850a7041-6378-4dc3-9852-42c2eebf9e0e",
+    "draw_title": "10 X ENTRIES - FLIP FOR A GRAND + £10,000 JACKPOT",
+    "competition_url": "https://geardowncompetitions.com/admin/products/10-x-entries-flip-for-a-grand-ps10000-jackpot-2",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "ac232cdcacf7a96747b2cf40a69d32ac9e9d4aedb1973f52385ddbe22474fca9",
+    "drand_seed_hash": "831a7799f727d8d71f2707b86d711e556117cdaaac0848aaf96b0fad992303f47426278c16a6528f46dc731723daf360",
+    "client_seed": "1792966240274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 190,
+    "max_tickets": 399,
+    "combined_hash": "9a69abd75247647f14dc3ed7654378d517cd30a9209d08574ea2d4013726a7d2",
+    "result": "40",
+    "external_round_id": "33387627",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T22:10:40.000000Z",
+    "revealed_at": "2026-10-25T22:10:45.000000Z"
+}
