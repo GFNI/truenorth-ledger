@@ -1,0 +1,22 @@
+{
+    "round_id": "8a4e2fb7-7748-4131-bdc5-7a6b6e8d360d",
+    "draw_title": "Football Frenzy",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/football-frenzy-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "41862a937a5e1726c7850d94e0371c8abed6b33f9cac1f595019fd69624448cc",
+    "drand_seed_hash": "8d07c8cf239869c514d75f5a14615a6f6ae12516d1e32b5c4bc714b4b764d8d142a8d391c7cd5238ad44cbf5ea88a824",
+    "client_seed": "1792960620827",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10640,
+    "max_tickets": 52000,
+    "combined_hash": "d9003b8189d4cadb8fb6636006433c8c85ea0543958904a1e4f8514208c1bb48",
+    "result": "39706",
+    "external_round_id": "33385754",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:37:00.000000Z",
+    "revealed_at": "2026-10-25T20:37:06.000000Z"
+}
