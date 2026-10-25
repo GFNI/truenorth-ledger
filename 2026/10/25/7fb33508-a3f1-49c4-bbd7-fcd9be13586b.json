@@ -1,0 +1,22 @@
+{
+    "round_id": "7fb33508-a3f1-49c4-bbd7-fcd9be13586b",
+    "draw_title": "iPhone 18 Pro 256GB",
+    "competition_url": "https://a9competitions.co.uk/admin/products/iphone-18-pro-256gb",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "0ff767cad1bc903baafc230532682fdba5e00b4bd0eed238d2a1c453f94df6a2",
+    "drand_seed_hash": "a940d7ef575e2fcdbebc1be282e3f99facb714c386f75aca6af736d9cab55a8620e8af030a5a6d1434b3763aaff0b6e8",
+    "client_seed": "1792964030564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 510,
+    "max_tickets": 1199,
+    "combined_hash": "9162dacad99686898291f63a79ac7eb9fa083357fe5cada97a581dc516c964a0",
+    "result": "970",
+    "external_round_id": "33386891",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:33:50.000000Z",
+    "revealed_at": "2026-10-25T21:33:57.000000Z"
+}
