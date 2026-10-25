@@ -1,0 +1,22 @@
+{
+    "round_id": "6da9c68c-dcfc-495b-8f78-b4e98c55c32d",
+    "draw_title": "JELLYCAT SOLD OUT SKELETON BOB",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jellycat-sold-out-skeleton-bob",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "f972fabd0904281474c84aeab48e6c1fd48bf78f5aeb1005578d34a66af54708",
+    "drand_seed_hash": "a27ecbe9d8c34ca9a232e17f3abfabaac67958309f0f6daf711263af058384b27a2d506ceb39d5d168c1e273c389743f",
+    "client_seed": "1792962589830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 138,
+    "max_tickets": 199,
+    "combined_hash": "f8a0e7ac52c10540222923f03c926654aa33a88551eb933ece746c5ef4f162e8",
+    "result": "168",
+    "external_round_id": "33386411",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T21:09:49.000000Z",
+    "revealed_at": "2026-10-25T21:09:57.000000Z"
+}
