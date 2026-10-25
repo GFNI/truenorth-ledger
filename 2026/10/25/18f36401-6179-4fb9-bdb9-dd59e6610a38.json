@@ -1,0 +1,22 @@
+{
+    "round_id": "18f36401-6179-4fb9-bdb9-dd59e6610a38",
+    "draw_title": "WIN FOR FREE - WIN £100 Cash | Spend £1+ For an EXTRA £100",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-for-free-win-ps100-cash-spend-ps1-for-an-extra-ps100",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "8cb7842bc4d47efd453982ab488a5e77aca45010eac7188b6ed44c174953c23f",
+    "drand_seed_hash": "b63362d57d0bb68ef53955d86347661d908082e1754902c0c92a1d07c9ad409e864cd4863fed695d4195d686f5acf2e4",
+    "client_seed": "1792960982927",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 442,
+    "max_tickets": 1500,
+    "combined_hash": "d0b497afa7792d5251541d168cbcad06baffaab76b97f1a32f2a354697b52d20",
+    "result": "25",
+    "external_round_id": "33385875",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T20:43:03.000000Z",
+    "revealed_at": "2026-10-25T20:43:09.000000Z"
+}
