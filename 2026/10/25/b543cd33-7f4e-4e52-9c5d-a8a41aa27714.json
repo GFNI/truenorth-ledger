@@ -1,0 +1,22 @@
+{
+    "round_id": "b543cd33-7f4e-4e52-9c5d-a8a41aa27714",
+    "draw_title": "Christmas Chocolate Tubs x 4",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/christmas-chocolate-tubs-x-4",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "54912eab4c202907501377d90f47caddd37f5f35e9d45a5a010e0af55d0156c1",
+    "drand_seed_hash": "aa9278dc9e5ba66036cac45eb7e6e8ef50515f64011781d7f11b416c49321a86531c7353cacb7164f3b7cdd526c33baf",
+    "client_seed": "1792925869261",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 25,
+    "combined_hash": "6a82082d8301752fe8703f5c959c957407c11064370bf1fde7c6e9822f1dda21",
+    "result": "20",
+    "external_round_id": "33374171",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T10:57:49.000000Z",
+    "revealed_at": "2026-10-25T10:57:57.000000Z"
+}
