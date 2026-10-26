@@ -1,0 +1,22 @@
+{
+    "round_id": "432abc01-9858-4de6-b4e5-8c10b535547a",
+    "draw_title": "BRUCEYS DAILY CASH £10",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/bruceys-daily-cash-ps10",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "352121d9247dbcbbc17895827ae70cc5a6b65d82d809a05ce7619855c0a9f9e1",
+    "drand_seed_hash": "a0321a3b5b39f6375aee7b1ebc5d4bc49eb0f408d0bc13954b567d910c37b49bb3edc7e8d513cb169f20cb53d1eb9dc0",
+    "client_seed": "1793043528863",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "988d0770f124e518291ffe73a0420058f132e1bb6b021fb1b92993a6e20767ae",
+    "result": "143",
+    "external_round_id": "33413390",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T19:38:48.000000Z",
+    "revealed_at": "2026-10-26T19:38:54.000000Z"
+}
