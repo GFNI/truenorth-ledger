@@ -1,0 +1,22 @@
+{
+    "round_id": "2333ab19-ad98-48f3-8cb2-67a71742c3c6",
+    "draw_title": "🧹 It's a Witch Hunt - £500 AutoDraw + Find a Witch to win up to £2000!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/its-a-witch-hunt-ps500-autodraw-find-a-witch-to-win-up-to-ps2000",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "b475c6a11ff21fdecca7d998d82c3d80e7c3add3d6e15e5b776f3d22e8ab4f1e",
+    "drand_seed_hash": "ab2bb23e171a54a3eee9126be53cf231d3fe8300d951ecaa512b073118a74b59635ca28eb78e965c2cd71b3c97ac9a41",
+    "client_seed": "1793045476012",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55462,
+    "max_tickets": 187500,
+    "combined_hash": "fad1b6c86a36a740178e15d42ca4d15cf0e778676f322e27208d94fe970cfe82",
+    "result": "112007",
+    "external_round_id": "33414040",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T20:11:16.000000Z",
+    "revealed_at": "2026-10-26T20:11:24.000000Z"
+}
