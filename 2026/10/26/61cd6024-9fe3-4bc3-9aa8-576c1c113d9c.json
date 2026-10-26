@@ -1,0 +1,22 @@
+{
+    "round_id": "61cd6024-9fe3-4bc3-9aa8-576c1c113d9c",
+    "draw_title": "WIN an eFun Pusa 50 Electric Moped",
+    "competition_url": "https://cheekycomps.co.uk/admin/products/win-an-efun-pusa-50-electric-moped",
+    "operator": {
+        "name": "CheekyComps Ltd",
+        "website": "https://cheekycomps.co.uk",
+        "company_number": "16415377"
+    },
+    "drand_server_seed": "2c12b40eabfc6e31fc69ea60b18755efd9c3241bc53018b265982d98e2329a96",
+    "drand_seed_hash": "89dc92383eaaff3fa58735a0b4b2958b065ba18008a1f8686e9c0eedbdbc127fba4a18e3280860c52ce848d6e3421573",
+    "client_seed": "1793029541790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 170,
+    "max_tickets": 200,
+    "combined_hash": "1a98e04e469a119a3675f8e47ff46bf8edbb0b484d79463f3b0c412c9cfb0c50",
+    "result": "51",
+    "external_round_id": "33408728",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T15:45:41.000000Z",
+    "revealed_at": "2026-10-26T15:45:48.000000Z"
+}
