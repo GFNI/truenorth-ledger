@@ -1,0 +1,22 @@
+{
+    "round_id": "1d60e20d-075b-4df8-8779-d6fcb23677c6",
+    "draw_title": "Elephant Trunk",
+    "competition_url": "https://chaotic.co.uk/competition/elephant-trunk-5820",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "03d6b5508dbdbbdc055f4f37424cb4eb80aea4ae12d5452c3d336c6fd9b0b97a",
+    "drand_seed_hash": "b73675f5e628a023a11f9749eef656e732ddf033e4960da1e409580c579e01f1cf41c89dc5abe6262f5cf4187717181e",
+    "client_seed": "1793048181132",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2499999,
+    "max_tickets": 2499999,
+    "combined_hash": "eda0cd73a88f6f7f55150803d7e95ed73843cf2bf16a37a30c1be726780a0bee",
+    "result": "356695",
+    "external_round_id": "33414941",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T20:56:21.000000Z",
+    "revealed_at": "2026-10-26T20:56:27.000000Z"
+}
