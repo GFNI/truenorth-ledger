@@ -1,0 +1,22 @@
+{
+    "round_id": "a7401aac-69e9-41be-8314-0248aa910738",
+    "draw_title": "Prismatic Evolutions Figure Collection",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/prismatic-evolutions-figure-collection-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "455334b3c1c9a9c4e2e1df644c37de7660f4609d4e6b158eb0a0ea8f7e048e8b",
+    "drand_seed_hash": "946b2208b684e203bfc8eeb864bd83114f93cd9cbb739ef9a36758a8242a6b243f661fbaffe7cde33d95eb143c531f9d",
+    "client_seed": "1793052673055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 219,
+    "max_tickets": 350,
+    "combined_hash": "f4dfa4d8778bd53353ec873da49bda9d44298411aa2ef0cc0f9e38fbd97dc7c2",
+    "result": "43",
+    "external_round_id": "33416439",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T22:11:13.000000Z",
+    "revealed_at": "2026-10-26T22:11:21.000000Z"
+}
