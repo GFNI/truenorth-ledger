@@ -1,0 +1,22 @@
+{
+    "round_id": "9cbb8ab3-fa88-4891-b387-c45dde21fcc1",
+    "draw_title": "CHUBBSAFES HOMEVAULT S2 15K SECURITY SAFE",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/chubbsafes-homevault-s2-15k-security-safe-4",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "34635daa940da69ca99677643c4d971c6ef807764448b7d0dade0dacae181597",
+    "drand_seed_hash": "a70ce726d1f08561e62243b43f5f99a30464b6b5f93d6be835fe393465bbd0b1c47c84f89d906490ac21e5bdc778f173",
+    "client_seed": "1792972503477",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 198,
+    "max_tickets": 600,
+    "combined_hash": "c3feef0019792ed43f36a41f47b064f927793b0adc31c2a4d9d396b6d14ccad5",
+    "result": "524",
+    "external_round_id": "33389715",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T23:55:03.000000Z",
+    "revealed_at": "2026-10-25T23:55:09.000000Z"
+}
