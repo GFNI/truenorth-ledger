@@ -1,0 +1,22 @@
+{
+    "round_id": "5d9eace1-9c09-4770-8707-4fb500ad8eb5",
+    "draw_title": "SPLIT OR STEAL - ONLY ENTER IF YOU ARE ATTENDING TONIGHTS LIVE!",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/split-or-steal-only-enter-if-you-are-attending-tonights-live-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "4113c7fa85e34333ca63f17946ae446753ae013265f9c63e17ba424ac8d88fd5",
+    "drand_seed_hash": "ab2d56f8508b32684103858d89bf420d2232bd0f3451c4b52cbb2d346339d9bf8aebbcd556776264f5545f4b5bea3983",
+    "client_seed": "1793046657700",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 150,
+    "combined_hash": "caf49f704b88d2a35a2f6983bf1edc6bc1981c693752fd533fd9c9cf7b697d0f",
+    "result": "133",
+    "external_round_id": "33414433",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T20:30:57.000000Z",
+    "revealed_at": "2026-10-26T20:31:03.000000Z"
+}
