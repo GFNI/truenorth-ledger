@@ -1,0 +1,22 @@
+{
+    "round_id": "f7a8622f-ade4-44f4-8cdc-36bf0de55ccf",
+    "draw_title": "Slots Test",
+    "competition_url": "https://light.demo.rafflex.io/admin/products/slots-test",
+    "operator": {
+        "name": "23r23r2",
+        "website": "https://light.demo.rafflex.io",
+        "company_number": "1234"
+    },
+    "drand_server_seed": "de7a6e3866ad5560e28a96866dc180bf5434415ea149cedb4ec8587dbe87adfe",
+    "drand_seed_hash": "b1afaa0c9086f53a03e000de93e8d7cea2d93f6f66f7af9a7e15bde784398c9eed794e9ac847389bc7fa0d6e712d3805",
+    "client_seed": "1793013159967",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19,
+    "max_tickets": 1000,
+    "combined_hash": "b9f17ff5e89378300a3ed8130eef29e8584d41a9e8bbd7e46ebdeb363d6386e9",
+    "result": "874",
+    "external_round_id": "33403267",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T11:12:39.000000Z",
+    "revealed_at": "2026-10-26T11:12:45.000000Z"
+}
