@@ -1,0 +1,22 @@
+{
+    "round_id": "6aa3f001-3bff-4b50-908e-f9a2370bd1b1",
+    "draw_title": "Family Holiday To Greece",
+    "competition_url": "https://chaotic.co.uk/competition/family-holiday-to-greece",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5ecd28433d7d4153a2117339e7896b737a5974ed9da74339a9e9b8de7e9c92f5",
+    "drand_seed_hash": "9308d5cc88bb2e9b337a72bc4b31fde9662d6c177b7749977a872f7dd42930084dd0f1bad1e05e0f72dda1e13f57183b",
+    "client_seed": "1793048530052",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8209,
+    "max_tickets": 11999,
+    "combined_hash": "61c5acc5f9df30d696e7efee579dd4adb1b6238ca5798d77e589ebbea5877489",
+    "result": "6666",
+    "external_round_id": "33415058",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T21:02:10.000000Z",
+    "revealed_at": "2026-10-26T21:02:18.000000Z"
+}
