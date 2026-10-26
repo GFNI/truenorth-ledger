@@ -1,0 +1,22 @@
+{
+    "round_id": "f6eb0906-1e90-491d-9e05-327ee7fc0830",
+    "draw_title": "50/50 COIN FLIP",
+    "competition_url": "https://competitionsne.co.uk/admin/products/5050-coin-flip",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "1427526b05dddbf7053cd2004d866d94a16faed80f4854932fb330c34006a438",
+    "drand_seed_hash": "95ff27bd94d1236689a2577edee67e773403ea1cbda5a79d85ae56e085acc6035309086324006ba165dff7bbf26ff098",
+    "client_seed": "1793045463572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12642,
+    "max_tickets": 200000,
+    "combined_hash": "5ff9eeabbf19b4a3f32b8f96427780cff8e5f8ac176c95a15bd4040789a98716",
+    "result": "165344",
+    "external_round_id": "33414036",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T20:11:04.000000Z",
+    "revealed_at": "2026-10-26T20:11:12.000000Z"
+}
