@@ -1,0 +1,22 @@
+{
+    "round_id": "86daa19b-e45d-4271-bba3-2fa3c0113017",
+    "draw_title": "💰£8K ENTER FOR 95P💰",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps8k-enter-for-95p-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b1a5f1242a25c755351e03198bbb5d10e7578987dbf76e012eddd01886fbe325",
+    "drand_seed_hash": "892c27afcbf817df5c67c1d7af3467b62288998a9ffe270c8166d4b96524eb57b8c5fe0b0b01b97834347f58c0bfd74e",
+    "client_seed": "1793045037917",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13475,
+    "max_tickets": 13475,
+    "combined_hash": "d4a311f7fd7ef0e3dc85ed71dd36c2c2eeb0cf7d2eb394808a478130f627b5a9",
+    "result": "2805",
+    "external_round_id": "33413893",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T20:03:57.000000Z",
+    "revealed_at": "2026-10-26T20:04:03.000000Z"
+}
