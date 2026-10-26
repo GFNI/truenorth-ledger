@@ -1,0 +1,22 @@
+{
+    "round_id": "a85247b2-e8ca-4a0c-809b-f1bb139dd8d2",
+    "draw_title": "DAY 7 - £1200 MIDNIGHT MONEY 🌙",
+    "competition_url": "https://geardowncompetitions.com/admin/products/day-7-ps1200-midnight-money",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "d8d48d03e2257e8d7c4376e9fe3b9779f1fa1d2dec0d9bf56ad9128f1dab1905",
+    "drand_seed_hash": "808c5b61ca7367a631f15f541c21bee7bdb0f4ec9beb73a2bf17f322211bfd31f5b75b98cf6f5366e13a8428f382ad1d",
+    "client_seed": "1792973416405",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 568,
+    "max_tickets": 1999,
+    "combined_hash": "8c1ca2d70688dd7befdd1a42f09e631dadcc0b5817200159df189a94b7d3803f",
+    "result": "1348",
+    "external_round_id": "33390020",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T00:10:16.000000Z",
+    "revealed_at": "2026-10-26T00:10:24.000000Z"
+}
