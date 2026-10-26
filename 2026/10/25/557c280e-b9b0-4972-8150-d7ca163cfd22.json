@@ -1,0 +1,22 @@
+{
+    "round_id": "557c280e-b9b0-4972-8150-d7ca163cfd22",
+    "draw_title": "2016 YEAR OF THE MONKEY — 1oz FINE SILVER OR £60 CASH",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2016-year-of-the-monkey-1oz-fine-silver-or-ps60-cash",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "7487cb2bce09489e2ed446aea7f7f6c9a8656a6a3425473baf0f5d114fd53cc6",
+    "drand_seed_hash": "8561114eb1889bb579d42b44dde6092b2496d62f0943f591d256b7de91315bd29d0d1b0f9e0905882914096e68b09153",
+    "client_seed": "1792972515466",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 150,
+    "combined_hash": "3bcacf120ab90b8bc2e8cbc4ce377cc4b6925e6e24cc6246d3c6cbac357a6356",
+    "result": "112",
+    "external_round_id": "33389719",
+    "processing_status": "completed",
+    "created_at": "2026-10-25T23:55:15.000000Z",
+    "revealed_at": "2026-10-25T23:55:21.000000Z"
+}
