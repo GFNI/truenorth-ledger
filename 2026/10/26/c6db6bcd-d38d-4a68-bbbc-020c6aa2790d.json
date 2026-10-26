@@ -1,0 +1,22 @@
+{
+    "round_id": "c6db6bcd-d38d-4a68-bbbc-020c6aa2790d",
+    "draw_title": "Prime Fam",
+    "competition_url": "https://primecompetitions.com/admin/products/prime-fam",
+    "operator": {
+        "name": "Prime Competitionz Limited",
+        "website": "https://primecompetitions.eu",
+        "company_number": "14920535"
+    },
+    "drand_server_seed": "d27e81a8673a7613042229f3580e77c290207d3496f3733ce66ff7524377ed61",
+    "drand_seed_hash": "8cd41a77968fe842b140a0e2d5484d7d9b21b534707f1480f6179c8bece5f9e405819da91a8eeb5f5e968afb417fecc6",
+    "client_seed": "1793049025422",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97,
+    "max_tickets": 500,
+    "combined_hash": "0977b364610ad4101659979ebe3e166f01d918764e8e582a2215287730dfa0be",
+    "result": "18",
+    "external_round_id": "33415223",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T21:10:25.000000Z",
+    "revealed_at": "2026-10-26T21:10:33.000000Z"
+}
