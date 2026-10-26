@@ -1,0 +1,22 @@
+{
+    "round_id": "ad9cb51c-072d-416b-ac7b-e242d0cd1fd8",
+    "draw_title": "DAY 8 - THE SKELETON STASH 💀",
+    "competition_url": "https://geardowncompetitions.com/admin/products/day-8-the-skeleton-stash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e1ac86415e49d70e95680048933a67c991bda017c08fd2d499afb40fe986596e",
+    "drand_seed_hash": "853f258ba865eb6c43b4de96b64ee4f15791dd0f183814c38917ed2aaa30612a4f4e2dbf9b258d69641eb60bbe5b6642",
+    "client_seed": "1793022221879",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13830,
+    "max_tickets": 19999,
+    "combined_hash": "f27690a97892c6cf802239702bae72a1ae66d2c06d930bdc3f512dcfc2bf5a45",
+    "result": "19386",
+    "external_round_id": "33406288",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T13:43:41.000000Z",
+    "revealed_at": "2026-10-26T13:43:48.000000Z"
+}
