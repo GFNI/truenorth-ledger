@@ -1,0 +1,22 @@
+{
+    "round_id": "db298b45-e217-41f1-b670-f9c0594bb51b",
+    "draw_title": "£666 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/the-devil-wears-dosh-ps666-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4ce1506b89157b86d8a98f9f1ffe20342886fbf4c53c93a4fb46a7eed07105f9",
+    "drand_seed_hash": "a29d12a3990568137dd7f4a382d007ba6dcd4f4d9282228e9b35450c4cf32b55c4d6626381610f80d8af90288e71cc33",
+    "client_seed": "1793052910635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 183333,
+    "combined_hash": "cfebcdd900f26b6f34e2e3f0623dde7f07d9f1237cad37187db4f0f00add1d1e",
+    "result": "141097",
+    "external_round_id": "33416517",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T22:15:10.000000Z",
+    "revealed_at": "2026-10-26T22:15:26.000000Z"
+}
