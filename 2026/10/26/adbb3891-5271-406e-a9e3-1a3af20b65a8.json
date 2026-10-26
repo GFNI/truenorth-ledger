@@ -1,0 +1,22 @@
+{
+    "round_id": "adbb3891-5271-406e-a9e3-1a3af20b65a8",
+    "draw_title": "Siemens EQ700 TP713GB9 Bean to Cup Coffee Machine",
+    "competition_url": "https://cheekycomps.co.uk/admin/products/siemens-eq700-tp713gb9-bean-to-cup-coffee-machine",
+    "operator": {
+        "name": "CheekyComps Ltd",
+        "website": "https://cheekycomps.co.uk",
+        "company_number": "16415377"
+    },
+    "drand_server_seed": "522987277d6bcac567d9e132b21ac28d4e2a0b0dc6113f8c3c6ca2705d564db1",
+    "drand_seed_hash": "b26220a72299850174c27f5e9574aae36132e276bf0dcb93153b2983c58fe99de9f10e8b29684d2235d48b16c03db065",
+    "client_seed": "1793024104898",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "1253bef358f036574af56cc7a213052c46132deee0b68050bbd639d46854b1f5",
+    "result": "95",
+    "external_round_id": "33406916",
+    "processing_status": "completed",
+    "created_at": "2026-10-26T14:15:05.000000Z",
+    "revealed_at": "2026-10-26T14:15:12.000000Z"
+}
