@@ -1,0 +1,22 @@
+{
+    "round_id": "04286cd4-d580-4cc9-8aa2-b85dc387c8ea",
+    "draw_title": "Win a £50 Marks & Spencer Gift Card",
+    "competition_url": "https://topdogprizes.com/admin/products/win-a-ps50-marks-spencer-gift-card-3",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "28942f79f28825dcf9229117cbca7e687d39ccca60ca2fa0db6a53ec901f9e26",
+    "drand_seed_hash": "acd49bfeb91dc6c153fed53675145aaa024b952de1b783752dc86866338014af60e4a3c43a10a0fa08e811ddcf4602d7",
+    "client_seed": "1793131842521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1229,
+    "max_tickets": 2400,
+    "combined_hash": "b22f60dfac933b15388b6749334c99f02bd17cc016977d84ea750e1426a17d02",
+    "result": "1235",
+    "external_round_id": "33442828",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T20:10:42.000000Z",
+    "revealed_at": "2026-10-27T20:10:48.000000Z"
+}
