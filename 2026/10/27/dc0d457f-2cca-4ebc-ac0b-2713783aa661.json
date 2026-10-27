@@ -1,0 +1,22 @@
+{
+    "round_id": "dc0d457f-2cca-4ebc-ac0b-2713783aa661",
+    "draw_title": "WIN A HARROWS FORTIS DARTBOARD",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-harrows-fortis-dartboard",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "233712be93f1327fd6ea1364ef4ba977d5f2b2e2f811f95128b99cd982ea8977",
+    "drand_seed_hash": "a2d7801260ceeaea25265b4fe5ea087f87663b7f03934f62166b570f371f5110ee57afde7d6e67287744685e9a8e690d",
+    "client_seed": "1793133456815",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 130,
+    "combined_hash": "8570b359423874fe76c7767c834eec838db16b75154e1675d078fe06c15be769",
+    "result": "104",
+    "external_round_id": "33443366",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T20:37:36.000000Z",
+    "revealed_at": "2026-10-27T20:37:42.000000Z"
+}
