@@ -1,0 +1,22 @@
+{
+    "round_id": "d68ae8ea-aa28-43b2-b34a-9f4b60304168",
+    "draw_title": "DOUBLE OR NOTHING",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/double-or-nothing",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "e4e770f2fbf3611ab80c9ebb97a7a4e6e3f5b387f522334e82c44f5f41f8920d",
+    "drand_seed_hash": "9782eec6ce043eae8575991e50f47f068bf72418b94e433fad436f96c71bb6e51aba92505acc9a9b9e22ef06dd2d804d",
+    "client_seed": "1793135404236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27,
+    "max_tickets": 100,
+    "combined_hash": "09d31859d6ff591147e105bef6f5e6102cac1e6ccf397b34924f1c4e8ed09e12",
+    "result": "14",
+    "external_round_id": "33444016",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T21:10:04.000000Z",
+    "revealed_at": "2026-10-27T21:10:12.000000Z"
+}
