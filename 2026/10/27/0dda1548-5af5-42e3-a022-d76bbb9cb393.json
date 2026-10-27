@@ -1,0 +1,22 @@
+{
+    "round_id": "0dda1548-5af5-42e3-a022-d76bbb9cb393",
+    "draw_title": "WHACK A MOLE #1! NEW GAME FEATURE WITH CASH PRIZES!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/whack-a-mole-1-new-game-feature-with-cash-prizes",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "0c28a32b7f37d5f7b40230a0b6d3f4bc63878260bcd35b9bf3b9f876d93d7e93",
+    "drand_seed_hash": "a9764cf2350e9c70d21b3ee37a3d83133147f9f179950dca2eab54b69bef8dbe5b1156fc2f6922bd4e6f9a4d147e9ae7",
+    "client_seed": "1793139051747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 430,
+    "max_tickets": 1999,
+    "combined_hash": "276cee5b707ad8bb5cecd54cb528aafbaf08661eb68e7ee860262c013b9c6387",
+    "result": "1473",
+    "external_round_id": "33445231",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T22:10:51.000000Z",
+    "revealed_at": "2026-10-27T22:10:57.000000Z"
+}
