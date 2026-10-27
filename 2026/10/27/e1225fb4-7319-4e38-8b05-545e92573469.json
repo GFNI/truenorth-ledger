@@ -1,0 +1,22 @@
+{
+    "round_id": "e1225fb4-7319-4e38-8b05-545e92573469",
+    "draw_title": "🟥 CUBE CASH! 🟥",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/cube-cash",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "6ad18cd05a15ae93f610c8fcaa61cf0fb081cf0dead1c7042bf6d8cefc026ff0",
+    "drand_seed_hash": "928f9bb9acc111203572e577502ff5389f3988621b7182e3e59338508663e3a1c3fbe853058bf7120ce6c35de9ad2ee7",
+    "client_seed": "1793128092884",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2789,
+    "max_tickets": 26000,
+    "combined_hash": "901ff20597531a2ac8f0fee8dc86cd848de09fb5aa4de05b609d953700dfdad2",
+    "result": "17873",
+    "external_round_id": "33441578",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T19:08:12.000000Z",
+    "revealed_at": "2026-10-27T19:08:18.000000Z"
+}
