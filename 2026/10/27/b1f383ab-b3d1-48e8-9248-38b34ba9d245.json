@@ -1,0 +1,22 @@
+{
+    "round_id": "b1f383ab-b3d1-48e8-9248-38b34ba9d245",
+    "draw_title": "48g 9ct BELCHER CHAIN & HEART PENDANT + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/48g-9ct-belcher-chain-heart-pendant-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "474dc40b8f05a5fa403f225cb5008fe9b5dc62d682291a8e6b9f10fa1b836c86",
+    "drand_seed_hash": "91c4c7d365c5c1943ffabb0a6b2da8db5ca6624ed61f604c14d9751d2c4354217e44c5c8e49497567c48acbe66b8e806",
+    "client_seed": "1793135177999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2931,
+    "max_tickets": 5000,
+    "combined_hash": "e9d8ab1e0a1d74d982b17fc408c62cc94b4c19a52ca3d021f54b5d1e1d120bd4",
+    "result": "3666",
+    "external_round_id": "33443940",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T21:06:18.000000Z",
+    "revealed_at": "2026-10-27T21:06:24.000000Z"
+}
