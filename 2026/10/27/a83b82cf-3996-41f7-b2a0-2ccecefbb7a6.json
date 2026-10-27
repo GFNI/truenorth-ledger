@@ -1,0 +1,22 @@
+{
+    "round_id": "a83b82cf-3996-41f7-b2a0-2ccecefbb7a6",
+    "draw_title": "500 X ENTRIES - £50K SPIN YOUR WEB OF FORTUNE",
+    "competition_url": "https://geardowncompetitions.com/admin/products/500-x-entries-ps50k-spin-your-web-of-fortune-3",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1a177ea84adb8eac04103199f4717fd7bca84c9d80d93e86172fb85452b493cd",
+    "drand_seed_hash": "8b40079a2773281a4997ef9b1ceb26f5f58f5a305685ae8516c8192e551cba47ad8f09bebf8390bcd3393c039a67185b",
+    "client_seed": "1793139025053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2297,
+    "max_tickets": 4999,
+    "combined_hash": "1f84726c2abcf71fab888464f1f25b2f0d718651b33c7322350bede3737dbdc6",
+    "result": "3217",
+    "external_round_id": "33445223",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T22:10:25.000000Z",
+    "revealed_at": "2026-10-27T22:10:33.000000Z"
+}
