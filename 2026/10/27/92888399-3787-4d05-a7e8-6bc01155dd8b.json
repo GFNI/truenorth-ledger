@@ -1,0 +1,22 @@
+{
+    "round_id": "92888399-3787-4d05-a7e8-6bc01155dd8b",
+    "draw_title": "Minifire 27inch Curved Monitor",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/minifire-27inch-curved-monitor",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "5841c1023568b12814a9c4d5120ae8149d186b2ca4c798474f94bbbc4c39c6ec",
+    "drand_seed_hash": "8d76fe9a650b523147dfea4221da093238fc780ad075fd577ee17d4574ad82065b4be7a484e7c96ba76403e4a7f2d5b4",
+    "client_seed": "1793106953835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 200,
+    "combined_hash": "79985a80def60c2c2eec2aacb7e77880049f82a9825a511577c9c5581a01e0e7",
+    "result": "122",
+    "external_round_id": "33434532",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T13:15:53.000000Z",
+    "revealed_at": "2026-10-27T13:16:00.000000Z"
+}
