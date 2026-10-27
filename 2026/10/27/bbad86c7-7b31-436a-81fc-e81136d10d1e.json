@@ -1,0 +1,22 @@
+{
+    "round_id": "bbad86c7-7b31-436a-81fc-e81136d10d1e",
+    "draw_title": "SPIN TO WIN - £250 END PRIZE",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/spin-to-win-ps250-end-prize",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "44f32ea812048d8defcfb7a278d6508d9a87d6d43168c8daaf541b23fdf15606",
+    "drand_seed_hash": "99a822cc5062a1a06dc96850116e87d63416af874d4fde4ce9005269ba4f08147fb3e72908ef4671b53ea9a7d764c951",
+    "client_seed": "1793107057636",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 713,
+    "max_tickets": 9750,
+    "combined_hash": "37d4c9a6b8c235c52471aad97fae20281b1f74f5f52df6d47d6a6bea7609aa79",
+    "result": "4670",
+    "external_round_id": "33434567",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T13:17:37.000000Z",
+    "revealed_at": "2026-10-27T13:17:45.000000Z"
+}
