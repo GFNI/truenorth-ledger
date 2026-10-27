@@ -1,0 +1,22 @@
+{
+    "round_id": "c38fcb1f-35f1-4667-b22e-d22397f34cf9",
+    "draw_title": "HALLOWEEN CASH HUNT",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/halloween-cash-hunt-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "51f54f03a14a6af9322b96cecad25c34dc1deaa0cbecd83838f6619f8b9bc29e",
+    "drand_seed_hash": "969ddca95754cdd3056f9a983d47651600f1f772d12d515086270d9e023fa93d69e13e26a0ab75231171e6f69b57ff82",
+    "client_seed": "1793135429589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7010,
+    "max_tickets": 25000,
+    "combined_hash": "01c9639cbc7faf03ce879bae1ab396db02d592e540bbdc29df60fb4f9dfbbf81",
+    "result": "10218",
+    "external_round_id": "33444024",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T21:10:29.000000Z",
+    "revealed_at": "2026-10-27T21:10:36.000000Z"
+}
