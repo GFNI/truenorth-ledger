@@ -1,0 +1,22 @@
+{
+    "round_id": "58337f11-7b70-4cce-b8a1-5d16b28dcd69",
+    "draw_title": "WIN A Winmau x Red Dragon Advent Calendar",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-winmau-x-red-dragon-advent-calendar",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "20e052e5938c02dff7d2815467463f0780f08be3230a56d0d1db91a31b98ddf7",
+    "drand_seed_hash": "972bebf2ba73959eeb8be0bcacf48edb1753b50eeddceabd34b6a760bc82ca4457e1754e0ca49c7a1b83b519d1883d21",
+    "client_seed": "1793133340513",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 95,
+    "max_tickets": 120,
+    "combined_hash": "727b7f7c6a5a727a74d547b1866b2d83fdbc9cf1ddb3c1c5ca71d2c9b677a575",
+    "result": "99",
+    "external_round_id": "33443328",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T20:35:40.000000Z",
+    "revealed_at": "2026-10-27T20:35:48.000000Z"
+}
