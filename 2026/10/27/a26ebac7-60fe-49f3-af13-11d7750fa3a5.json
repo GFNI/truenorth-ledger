@@ -1,0 +1,22 @@
+{
+    "round_id": "a26ebac7-60fe-49f3-af13-11d7750fa3a5",
+    "draw_title": "Cash Is King",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/cash-is-king",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "9ab8ed17c12a8580be30d2c655b6ada6a1525f1f5f5e2b15aa619ffafe340dd0",
+    "drand_seed_hash": "acea80bbf0ee01a212e10bd26e4f894deb349071fd275a3859ef97b917c05125ecb2b0c3bd6d3c4682c356fc8dc97f07",
+    "client_seed": "1793139043947",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55622,
+    "max_tickets": 235000,
+    "combined_hash": "eb2aad97bd27f06a8f694cf6614c1669fcb323050a4ced87089051d8f67bf001",
+    "result": "128332",
+    "external_round_id": "33445229",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T22:10:44.000000Z",
+    "revealed_at": "2026-10-27T22:10:51.000000Z"
+}
