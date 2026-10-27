@@ -1,0 +1,22 @@
+{
+    "round_id": "1feba9d5-451d-4fa7-bf13-d4f91b00dd24",
+    "draw_title": "👻TRICK OR TREAT!👻",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/trick-or-treat",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "b1bdb2a275864a1ea9b447f265d7f9ed4bc207312d9522e4e81c8c00ae47ead1",
+    "drand_seed_hash": "8f1d443a64ef9aee15614cd6af3c1c48284f43805152d142c1a7453c8ccb7ae1e8ff3755b7c3f32c48b50cf24fa55103",
+    "client_seed": "1793128179358",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3304,
+    "max_tickets": 15000,
+    "combined_hash": "192a9de74d73e9fa901bc9f21fe6c58876791fc4ab7d6dcfcf45373eb8f20dff",
+    "result": "11826",
+    "external_round_id": "33441607",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T19:09:39.000000Z",
+    "revealed_at": "2026-10-27T19:09:45.000000Z"
+}
