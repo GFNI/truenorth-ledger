@@ -1,0 +1,22 @@
+{
+    "round_id": "bd429383-b28e-4f85-8e84-1c808914303e",
+    "draw_title": "Win £150 Website Credit for 99p",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/win-ps150-website-credit-for-99p",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "d0336dd7864f8ed80356112289ca3614604f917502cac9ba06482358cd9811c1",
+    "drand_seed_hash": "b68bfafa5e71a9522567325401a210e31a020bc8bbb5a3c2423b88eaeef280ff16ac4246cb4aeba147e0496dc4461416",
+    "client_seed": "1793221809910",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 329,
+    "combined_hash": "6b28283164e2e3efe7f5a109efb19892822a7aea2e0906b3c8c7ca1de78f6e5a",
+    "result": "215",
+    "external_round_id": "33472817",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:10:09.000000Z",
+    "revealed_at": "2026-10-28T21:10:15.000000Z"
+}
