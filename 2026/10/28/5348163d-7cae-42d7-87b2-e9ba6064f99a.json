@@ -1,0 +1,22 @@
+{
+    "round_id": "5348163d-7cae-42d7-87b2-e9ba6064f99a",
+    "draw_title": "🐈‍⬛ Jellycat Bundle 🐈‍⬛",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/jellycat-bundle-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1c8d9aa7dbac33c57a50b5d4764c75698e38a73906eef06028034c2a2b30ece9",
+    "drand_seed_hash": "b01ff902bab4c39ba399e3dcba5149bbe7a81f3d3401e28d27fd9f073761182d51ec33b8f15e2734b75499a7be171f94",
+    "client_seed": "1793216808149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "2cb4a71240051d893170835cd9af2442953ae2fd68eb877df699ff857dd5d1f9",
+    "result": "525",
+    "external_round_id": "33471150",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T19:46:48.000000Z",
+    "revealed_at": "2026-10-28T19:46:54.000000Z"
+}
