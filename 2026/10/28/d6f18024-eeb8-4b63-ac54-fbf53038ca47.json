@@ -1,0 +1,22 @@
+{
+    "round_id": "d6f18024-eeb8-4b63-ac54-fbf53038ca47",
+    "draw_title": "£300 SMYTHS TOYS VOUCHER OR £200 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/ps300-smyths-toys-voucher-or-ps200-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "b41367d0f8ea66245bb0020f4a60e91ca30f340cc0c38c4d9cbfa4e8ec4874de",
+    "drand_seed_hash": "a0c8eaa25d74fe06036684a2a72dcec2fb10627de1b3854f057e7f445e3a17441d2ecfd0c95c8f6017ec6162b2be9044",
+    "client_seed": "1793221654726",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 863,
+    "max_tickets": 1999,
+    "combined_hash": "a6f5d542792c5ca98b6722383f0815340c92634520d3b21070a9ec811f6f963b",
+    "result": "1250",
+    "external_round_id": "33472766",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:07:34.000000Z",
+    "revealed_at": "2026-10-28T21:07:42.000000Z"
+}
