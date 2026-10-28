@@ -1,0 +1,22 @@
+{
+    "round_id": "17db215b-1408-466e-9bcc-c85f7da501b8",
+    "draw_title": "£20 Game Credit",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ps20-game-credit-6",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "0e4dd90fc8a55ccb0bfe02d76a5c82ba93ef13220b4e8d6d8469d91715e448bf",
+    "drand_seed_hash": "8b33d63b61f36fd4112fa477ec293d861e77c9c1c1c2faf16ff052cf50b532d78b61c5b86ba258cefe216cfbc401c658",
+    "client_seed": "1793218460315",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 60,
+    "combined_hash": "5bd06f23573d3d91c909bf69f96a49c3582bf71646d13294c1b34d90620e4a4d",
+    "result": "56",
+    "external_round_id": "33471701",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:14:20.000000Z",
+    "revealed_at": "2026-10-28T20:14:27.000000Z"
+}
