@@ -1,0 +1,22 @@
+{
+    "round_id": "81452c48-6d6e-496b-9092-c8bdfdd070c2",
+    "draw_title": "Ninja CREAMi Scoop & Swirl NC701UK — Free Draw",
+    "competition_url": "https://winraff.co.uk/admin/products/ninja-scoop-swirl-free-draw",
+    "operator": {
+        "name": "Winraff Ltd",
+        "website": "https://winraff.co.uk",
+        "company_number": "16633512"
+    },
+    "drand_server_seed": "9ee59c20eb9671c436b2cfd37a748aa31c14227ae8d0f525026fa1da939e2952",
+    "drand_seed_hash": "a78b4ebc31c9194016c5d2ae179259611a032c2c60bd3962a8024666c552129c99a1792311103305cc2af3ebb73b66e5",
+    "client_seed": "1793211004095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 1000,
+    "combined_hash": "b417df491a54fd3fe077286b55b2ac926c8560c7318dc152bd147f7ccd932f6e",
+    "result": "365",
+    "external_round_id": "33469216",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T18:10:04.000000Z",
+    "revealed_at": "2026-10-28T18:10:12.000000Z"
+}
