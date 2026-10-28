@@ -1,0 +1,22 @@
+{
+    "round_id": "ffd203fb-009c-479b-a7b2-f74c1bbb6f92",
+    "draw_title": "ABERDEEN VS HIBERNIAN- MATCH DAY EXPERIENCE FOR 4",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/aberdeen-vs-hibernian",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "d4d3afe892622c10b9381f69757d5f967f7111d9d872237757a79ea215b7f888",
+    "drand_seed_hash": "81fe90cd22b797c7f73e4fc34c8f4f8881614f8e7e45a8c1be5e042d6519a702ddc1a7fd43247d5929618c97b995739d",
+    "client_seed": "1793221766024",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 317,
+    "max_tickets": 1000,
+    "combined_hash": "12e5e070b8d4d68d390fde675de8eb0d3982658beac9dd0b0bcb4546a0365391",
+    "result": "899",
+    "external_round_id": "33472803",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:09:26.000000Z",
+    "revealed_at": "2026-10-28T21:09:33.000000Z"
+}
