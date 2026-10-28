@@ -1,0 +1,22 @@
+{
+    "round_id": "7fcd199f-0471-4101-b163-0c466518acbc",
+    "draw_title": "4K Trail Cam with Colour Screen",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/4k-trail-cam-with-colour-screen-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "c0b9389afce796df2e048735d2d8245d1aa3ae2329640e29d87df8b976fd79fa",
+    "drand_seed_hash": "8b88d3bd516f893ef55adc6c54b38ae8c584aed50865affbc3157f70d381f1959970493edb7c8533846f6384a025a393",
+    "client_seed": "1793218631951",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 250,
+    "combined_hash": "f0b16bb2f67b7935e35861ddcd2fcffd1860a15a631dca7e51481fd311887b16",
+    "result": "103",
+    "external_round_id": "33471758",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:17:11.000000Z",
+    "revealed_at": "2026-10-28T20:17:18.000000Z"
+}
