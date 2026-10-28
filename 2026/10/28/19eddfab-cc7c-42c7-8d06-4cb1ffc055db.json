@@ -1,0 +1,22 @@
+{
+    "round_id": "19eddfab-cc7c-42c7-8d06-4cb1ffc055db",
+    "draw_title": "WIN a BMX Invert Camo - 20\" Wheel",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-bmx-invert-camo-20-wheel",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "d28b1624167aff403a42e565af23d726c7ae804e9ffdf37383b02a2b44e53555",
+    "drand_seed_hash": "abc20cc0aff847a57bfeaf6721126969a261d56fa1e77f2bb094e3efa2a9e078d365a95baa92af68ad94db2ee45d1511",
+    "client_seed": "1793220666624",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1844,
+    "max_tickets": 3800,
+    "combined_hash": "a177a35daed1f15887e15876dcb50675171a890eeca416d812da71f6ae69e546",
+    "result": "1882",
+    "external_round_id": "33472436",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:51:06.000000Z",
+    "revealed_at": "2026-10-28T20:51:12.000000Z"
+}
