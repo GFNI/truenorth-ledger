@@ -1,0 +1,22 @@
+{
+    "round_id": "a286d006-50e6-4de0-b76a-e65f15ddd96b",
+    "draw_title": "🎄💖 BAYLIS & HARDING ADVENT CALENDAR 💖🎄",
+    "competition_url": "https://hiphipprizehub.com/admin/products/baylis-harding-advent-calendar",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "696e3314c783c9b9b5628d7568ad6dab968c6d94df5792c70ea154bdca03cb72",
+    "drand_seed_hash": "8ab115de79d302399ecd64063510964876594951952ec476518a10f77d19af97f7593b365dc18f0def3856eb40e16de2",
+    "client_seed": "1793221414408",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 186,
+    "max_tickets": 186,
+    "combined_hash": "6590aec427324938df24ac64dd9a86085e67f97a82a9a2cca001e9af18f3f7d0",
+    "result": "88",
+    "external_round_id": "33472686",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:03:34.000000Z",
+    "revealed_at": "2026-10-28T21:03:42.000000Z"
+}
