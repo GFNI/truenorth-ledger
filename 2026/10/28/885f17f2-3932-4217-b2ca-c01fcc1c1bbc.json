@@ -1,0 +1,22 @@
+{
+    "round_id": "885f17f2-3932-4217-b2ca-c01fcc1c1bbc",
+    "draw_title": "Edinburgh Christmas Market Stay & Dine Experience for Two! PLUS £500 SPENDING CASH",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/edinburgh-christmas-market-stay-dine-experience-for-two-plus-ps500",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "86fd4a3c3096cc2b7be402ca761df902e9f1d835d7ea5356d0141c93b8a1ff5f",
+    "drand_seed_hash": "80a4beaeb4ee093078101b4feb3d6d8f7efa4006b3051092370e367c17fc228eb4eb64c052c9835e6ec7734a8d1a20c3",
+    "client_seed": "1793224062081",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 799,
+    "max_tickets": 799,
+    "combined_hash": "8a0afa195dc516c6605daa93d203fa129d242615dffaa87836fcd012a25a1adc",
+    "result": "152",
+    "external_round_id": "33473568",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:47:42.000000Z",
+    "revealed_at": "2026-10-28T21:47:48.000000Z"
+}
