@@ -1,0 +1,22 @@
+{
+    "round_id": "68e0a8f2-ecb4-4c91-b24a-c82caa323ffb",
+    "draw_title": "2500 Orders Promotion - Team Rocket's Dugtrio ACE10",
+    "competition_url": "https://prizeforge.co.uk/admin/products/2500-orders-promotion-team-rockets-dugtrio-ace10",
+    "operator": {
+        "name": "PrizeForge",
+        "website": "https://prizeforge.co.uk",
+        "company_number": "17154643"
+    },
+    "drand_server_seed": "84dd0031e5dfeaf54dae68b9215ea579d6485a74964fc81aa68bd2ad98814b7c",
+    "drand_seed_hash": "a5282a901fe4342c9b5def03da96951a86e5c1d4fd35a1502667e9defd7dfabebe8f5ddb367f6c026439bc9f8dba8d09",
+    "client_seed": "1793221252130",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 100,
+    "combined_hash": "94905af50c193c363f9459be65d9d369edf2dd4fc98ef82097d5a5a26d51c396",
+    "result": "73",
+    "external_round_id": "33472632",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:00:52.000000Z",
+    "revealed_at": "2026-10-28T21:01:00.000000Z"
+}
