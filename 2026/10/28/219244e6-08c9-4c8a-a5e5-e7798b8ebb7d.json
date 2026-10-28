@@ -1,0 +1,22 @@
+{
+    "round_id": "219244e6-08c9-4c8a-a5e5-e7798b8ebb7d",
+    "draw_title": "Ardbeg Homecoming Distillery Exclusive",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/ardbeg-homecoming-distillery-exclusive",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "1e72113eab67b4cdf5eca7fc000b3dba7e1936b3cb2aee971bbc926b57011217",
+    "drand_seed_hash": "9610e9a78772a31517a8d752d4a0ced4e361115b4a1fba1bc5eebd1408617565286bd087eaee26f9768c04631c400131",
+    "client_seed": "1793218360117",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 125,
+    "combined_hash": "11cbe34198c4647a30b2aefbb583bda012599c0c39fe01eead879ed95f1b1388",
+    "result": "73",
+    "external_round_id": "33471668",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:12:40.000000Z",
+    "revealed_at": "2026-10-28T20:12:48.000000Z"
+}
