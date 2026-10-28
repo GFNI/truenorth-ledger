@@ -1,0 +1,22 @@
+{
+    "round_id": "362dae17-aa09-41fd-b835-b1533cf6ca1c",
+    "draw_title": "🚤 3 Night Hot Tub Break For Up To 6 People, Perthshire 🚤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/3-night-hot-tub-break-for-up-to-6-people-perthshire",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "a1b30d24872ed785a90b34b1ea30cc93e6e607b1df2bcc3e0ec1943e01cf4c75",
+    "drand_seed_hash": "a806ba9505c7e83ed9eb11efcad4d5b2c2cb7e73d5e1033eac345e16f42bbc562339479bb08c777b7a4e57ebd30e2d05",
+    "client_seed": "1793216897286",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1575,
+    "max_tickets": 1575,
+    "combined_hash": "14d3525de1e95cfb1454e0c6a65f400fbe5d178c29cae6077336bde3ed79bbdd",
+    "result": "2",
+    "external_round_id": "33471180",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T19:48:17.000000Z",
+    "revealed_at": "2026-10-28T19:48:24.000000Z"
+}
