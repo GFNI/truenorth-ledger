@@ -1,0 +1,22 @@
+{
+    "round_id": "3f2efeb7-78ec-4b3a-bc43-711ed16fa7b7",
+    "draw_title": "Highland Cow Advent Calendar",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/highland-cow-advent-calendar",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "54234cf6394dd98b889a294490b0ed1e79e10a6607755e4ed7716b6bbee8060b",
+    "drand_seed_hash": "8ad72264789efbfc7c055cb12b3ce32911a3254e12bc2c7aefa03d040d64c47e86f0d250fb031ad40ea128f242a80e36",
+    "client_seed": "1793218551152",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 86,
+    "max_tickets": 220,
+    "combined_hash": "9a88263459080b2e21373e222a65d2eb1f19077555b81201e482bbc1d71d3336",
+    "result": "131",
+    "external_round_id": "33471731",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:15:51.000000Z",
+    "revealed_at": "2026-10-28T20:15:57.000000Z"
+}
