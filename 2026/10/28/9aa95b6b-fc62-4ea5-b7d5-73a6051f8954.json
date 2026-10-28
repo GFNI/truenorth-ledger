@@ -1,0 +1,22 @@
+{
+    "round_id": "9aa95b6b-fc62-4ea5-b7d5-73a6051f8954",
+    "draw_title": "WIN 200 ENTRIES INTO £3,000 OCTOBER'S CASH CARNAGE!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-200-entries-into-ps3000-octobers-cash-carnage",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "375998f1942a2da75d162076a5e65ad2ec5397cb1515e30f484ae5a7b1162419",
+    "drand_seed_hash": "97462cb43615db89d09f9e00db3136e9bcb6f2509c6cab37c397ceb1553f64bbf4f915bd7e41c1ffea437251e025cfce",
+    "client_seed": "1793218201075",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 346,
+    "max_tickets": 2000,
+    "combined_hash": "9f91443b6f1a277c6234269e90c52f056d1534d1bf83844447b33b59be801a87",
+    "result": "1472",
+    "external_round_id": "33471614",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:10:01.000000Z",
+    "revealed_at": "2026-10-28T20:10:06.000000Z"
+}
