@@ -1,0 +1,22 @@
+{
+    "round_id": "46a588b7-c7c6-4f3c-a8d5-218bae6d3fbe",
+    "draw_title": "WIN  a FULL Crate of Kiln Dried Firewood",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-full-crate-of-kiln-dried-firewood",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "f98c8a170003250a11d704d95b59b17deebfcb119ec7e389dc07d53ee9913012",
+    "drand_seed_hash": "91eefdf7a8ac0eb6d0584f05c784361de3c1f2d03d684d2812a556d8d0642f84af87bce800af19be4187ced8d3fefa55",
+    "client_seed": "1793220404317",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 429,
+    "max_tickets": 800,
+    "combined_hash": "c53a10bea86eaccf1f29d6868faa2b393ade144ea1db07d36992b19d89bc8178",
+    "result": "262",
+    "external_round_id": "33472349",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:46:44.000000Z",
+    "revealed_at": "2026-10-28T20:46:51.000000Z"
+}
