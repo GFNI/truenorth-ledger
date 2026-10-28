@@ -1,0 +1,22 @@
+{
+    "round_id": "f598d9a6-aae0-45b9-84be-0bb179aea954",
+    "draw_title": "FREE ENTRY - LEGO MINI POKEMON CENTER",
+    "competition_url": "https://prizeforge.co.uk/admin/products/free-entry-lego-mini-pokemon-center",
+    "operator": {
+        "name": "PrizeForge",
+        "website": "https://prizeforge.co.uk",
+        "company_number": "17154643"
+    },
+    "drand_server_seed": "12344e5061b43622b5436b95be09d214f90ce7d63d1fe834a7a7f9171c09cee9",
+    "drand_seed_hash": "8f0ae344a1d374cce615ddc91b3de64461b6b650cfe8144fa01c35243c81327a81b0d78150548f04da0fd3b343962eb0",
+    "client_seed": "1793221311075",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 224,
+    "max_tickets": 500,
+    "combined_hash": "01779cd2a83d20951cf4f1ed02341cc6b7b71709a51f1d7bbc107e88274a1000",
+    "result": "442",
+    "external_round_id": "33472651",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:01:51.000000Z",
+    "revealed_at": "2026-10-28T21:01:57.000000Z"
+}
