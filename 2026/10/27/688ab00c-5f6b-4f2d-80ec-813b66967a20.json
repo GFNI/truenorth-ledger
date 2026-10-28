@@ -1,0 +1,22 @@
+{
+    "round_id": "688ab00c-5f6b-4f2d-80ec-813b66967a20",
+    "draw_title": "5oz Fine Silver Queen Elizabeth II Diamond Jubilee Coin",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/5oz-fine-silver-queen-elizabeth-ii-diamond-jubilee-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3567b62c36f8cce0ab373543cbab39d7322815329ab248e9897b181509421cce",
+    "drand_seed_hash": "84c0247edca59d9c892d0203d4c78c9d284117c2ed1bd1405f0c45e73cfe0e39c10ad1dcf4d5f6e314cca8e3621a1539",
+    "client_seed": "1793145305615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 472,
+    "max_tickets": 800,
+    "combined_hash": "dd94cd288020aa939a498b2614d2de0404066ded77f5a7433a2380b38b9e50ee",
+    "result": "30",
+    "external_round_id": "33447316",
+    "processing_status": "completed",
+    "created_at": "2026-10-27T23:55:05.000000Z",
+    "revealed_at": "2026-10-27T23:55:12.000000Z"
+}
