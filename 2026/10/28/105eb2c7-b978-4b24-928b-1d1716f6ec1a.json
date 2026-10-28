@@ -1,0 +1,22 @@
+{
+    "round_id": "105eb2c7-b978-4b24-928b-1d1716f6ec1a",
+    "draw_title": "5 x Free Loob Or £15 (Sarah Special)",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/sarahs-sexy-sauce",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "293ffd43024e88af0971558b6f0a18109bf779069ebc53d0bad5a76170e7176d",
+    "drand_seed_hash": "80bfb3404acc1ddc14c4e8b854e4265c6f439e0adbbcc6711db5c0275b5b01f0eb510f94a30bddff5e5375354f767201",
+    "client_seed": "1793220167488",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 250,
+    "combined_hash": "9a1c89d5ad9af02321aea4ea350d864c834edbfad5a036c6359b96ee621cf656",
+    "result": "13",
+    "external_round_id": "33472270",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:42:47.000000Z",
+    "revealed_at": "2026-10-28T20:42:54.000000Z"
+}
