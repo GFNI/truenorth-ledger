@@ -1,0 +1,22 @@
+{
+    "round_id": "ee57ecdb-9e31-4bd5-92e4-4fc01f090b8a",
+    "draw_title": "Cash Stampede",
+    "competition_url": "https://chaotic.co.uk/competition/cash-stampede-4131",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "a57b7f2af55073314de1a497fb1c6a572c62b6a6a909c434738086747e128682",
+    "drand_seed_hash": "8dfd3ebfee5ca6f7d20b16617578aa78227e8372e42e58b857d14166498eb1c98c97b1932b81f454d961137b81da6a57",
+    "client_seed": "1793219838002",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3999999,
+    "max_tickets": 3999999,
+    "combined_hash": "fc61cc528d09d5dd797a2f332ad91ea1906204bc9ae5fc73f3a0096060649795",
+    "result": "1126488",
+    "external_round_id": "33472160",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:37:18.000000Z",
+    "revealed_at": "2026-10-28T20:37:24.000000Z"
+}
