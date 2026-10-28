@@ -1,0 +1,22 @@
+{
+    "round_id": "2bbcd2e8-aff2-4b76-bb85-602f8e4c801d",
+    "draw_title": "DEAL OR NO DEAL - ROUND 8 - JACKPOT = £3300",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/deal-or-no-deal-round-8-jackpot-ps3300-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "b548835c2501f172e33d7c0089aae09c54f13dae5f6a758a7d170f96be8e786d",
+    "drand_seed_hash": "b6c812378745988d2d7926380c7aa8a468b6937c03404e4e048e4ae108d1c43fab0a2eb28545bd9bb2768d8e94fab16b",
+    "client_seed": "1793200469065",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4234,
+    "max_tickets": 10000,
+    "combined_hash": "37309672d9379df95c010119b50a77a21c51f903c7ef403b7a14453d2f3c5b2e",
+    "result": "5368",
+    "external_round_id": "33465704",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T15:14:29.000000Z",
+    "revealed_at": "2026-10-28T15:14:36.000000Z"
+}
