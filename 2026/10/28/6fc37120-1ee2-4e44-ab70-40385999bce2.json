@@ -1,0 +1,22 @@
+{
+    "round_id": "6fc37120-1ee2-4e44-ab70-40385999bce2",
+    "draw_title": "DYSON Purifier Hot+Cool HP1 Smart Fan 🪭",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/dyson-purifier-hotcool-hp1-smart-fan-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0f197f4301bcd37a21aec26431fb13834c19ec46362825eacbc3b6a4e0fddf10",
+    "drand_seed_hash": "91f779093c99e5f3fba9a31bbf274c30712d3095a981d4ec37966c7e72b31e9c7bfcd34fc37e3ca61e9f00924766ecde",
+    "client_seed": "1793218212354",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 704,
+    "max_tickets": 1250,
+    "combined_hash": "4349eb655de736f559005341a229556713a72f5d0053e5fbd801e6b09d00ce24",
+    "result": "1032",
+    "external_round_id": "33471618",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:10:12.000000Z",
+    "revealed_at": "2026-10-28T20:10:18.000000Z"
+}
