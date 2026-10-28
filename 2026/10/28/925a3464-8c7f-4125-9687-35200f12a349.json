@@ -1,0 +1,22 @@
+{
+    "round_id": "925a3464-8c7f-4125-9687-35200f12a349",
+    "draw_title": "Drop Dead Lucky",
+    "competition_url": "https://ogcompetitions.co.uk/lists/drop-dead-lucky-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8033c3169208a3fb404755b5495cbc3a3523535bf82d6f0a788e818397e7a228",
+    "drand_seed_hash": "9961d06d35f448f8dddab5acb54f69bd0cd77033e8ff2e29c337dc7bebcea62cf1014877dd697069825c76a0c8059c27",
+    "client_seed": "1793225948340",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 362250,
+    "combined_hash": "4d3a26e546a75c474e9402239592176cb4de2ec1ac27d6a010a34cf6802057c5",
+    "result": "290758",
+    "external_round_id": "33474197",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T22:19:08.000000Z",
+    "revealed_at": "2026-10-28T22:19:18.000000Z"
+}
