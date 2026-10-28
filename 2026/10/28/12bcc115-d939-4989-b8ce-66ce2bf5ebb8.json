@@ -1,0 +1,22 @@
+{
+    "round_id": "12bcc115-d939-4989-b8ce-66ce2bf5ebb8",
+    "draw_title": "Unwrap the Magic with Pandora - WIN £250 Gift Voucher",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/unwrap-the-magic-with-pandora-win-ps250-gift-voucher",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "c59cfa563e2a848e71694071ff9976b203e047d8ca4e94c04972b181fb251801",
+    "drand_seed_hash": "89a0f729a341e751821ebb625fcdcd97eaf96cffcfd59d98afcb82e0a079f81cfb47b52dfd579072292d7c38a6dd85c9",
+    "client_seed": "1793223789816",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 351,
+    "max_tickets": 425,
+    "combined_hash": "add1fedeb53f7e23c619773da35355e25b5cef93173e9a12510db768634be565",
+    "result": "349",
+    "external_round_id": "33473477",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T21:43:09.000000Z",
+    "revealed_at": "2026-10-28T21:43:15.000000Z"
+}
