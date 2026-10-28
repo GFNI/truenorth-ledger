@@ -1,0 +1,22 @@
+{
+    "round_id": "f6e383c8-65f7-4f00-8671-b162d028c47e",
+    "draw_title": "THE LEADERBOARD IS BACK! DAILY PRIZES FOR 1ST, 2ND, 3RD PLACE",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/the-leaderboard-is-back-daily-prizes-for-1st-2nd-3rd-place",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "3421c1d5a0e3bf260a636d869c4da45c7d93450e3352758898cf89e260e319d1",
+    "drand_seed_hash": "af5a9ca3b4f9486ef3ff3374acde17888273e1cc4182b7f4e1119ddea13ecc845326ede429928414e7d2ae927c1ed1d1",
+    "client_seed": "1793218524141",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4672,
+    "max_tickets": 13750,
+    "combined_hash": "467988bdc208fac8c84cb80ad52b5c0487361ccb0f30d0ec2439555692c3083f",
+    "result": "12767",
+    "external_round_id": "33471722",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:15:24.000000Z",
+    "revealed_at": "2026-10-28T20:15:30.000000Z"
+}
