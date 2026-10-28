@@ -1,0 +1,22 @@
+{
+    "round_id": "3ee34275-ddf8-4d2a-a9c2-644319d70cbf",
+    "draw_title": "FIND A SANDERSON SISTER TO WIN £1,000!!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/find-a-sanderson-sister-to-win-ps1000",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "fa86631c98bfae71a421bb5e95ff1dd9e816c1214ae9ce7931d4746a214905c0",
+    "drand_seed_hash": "a769d50153ed29e94ebff6bbe23acec6b909d2800c690fe90e38440d70cc87eb61712f70eb79ba6428c6f747159cb86b",
+    "client_seed": "1793218232305",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21146,
+    "max_tickets": 44999,
+    "combined_hash": "a0aac642ffa00229f980a1b74416428f560df5e609fa8c2061b29633fb29efb9",
+    "result": "20961",
+    "external_round_id": "33471625",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:10:32.000000Z",
+    "revealed_at": "2026-10-28T20:10:39.000000Z"
+}
