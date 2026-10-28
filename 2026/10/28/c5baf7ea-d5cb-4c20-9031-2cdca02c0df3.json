@@ -1,0 +1,22 @@
+{
+    "round_id": "c5baf7ea-d5cb-4c20-9031-2cdca02c0df3",
+    "draw_title": "ENTRY INTO £100 CASH FOR COMPS LAUNCHED 23 SEPT  (DRAWN 28TH OCT)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/entry-into-ps100-cash-for-comps-launched-23-sept-drawn-28th-oct",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "75c8ccb92c2f763aa7303e6c75b14ec852f9500b3b2cdb10927f606dbd04dc35",
+    "drand_seed_hash": "b5171476881ae0f67eda937e12bdde0b5fe95e0f05c1394e3aa7401a4b31601ffd94d761c0d4cdb2f1913713f28264be",
+    "client_seed": "1793219604149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3636,
+    "max_tickets": 100000,
+    "combined_hash": "734d43bb351d4d8e19ef38f07e87090327ce76b41d89fa72d96ca4328d7337fd",
+    "result": "50132",
+    "external_round_id": "33472082",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:33:24.000000Z",
+    "revealed_at": "2026-10-28T20:33:30.000000Z"
+}
