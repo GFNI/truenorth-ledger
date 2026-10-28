@@ -1,0 +1,22 @@
+{
+    "round_id": "df9f9414-f25c-471e-bbd8-c78de33effa4",
+    "draw_title": "Digging For Gold",
+    "competition_url": "https://chaotic.co.uk/competition/digging-for-gold-4897",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "426c9d291c5d58a658f8bb8113b3515fd4cec338b18fa65e9a8e3dc56d08d0cf",
+    "drand_seed_hash": "98282752e8f23c721b8495b71e230f6600d6c1d0ceacc992e571f0acc49d42025df563bf2546a716d36e28ac3bfcf179",
+    "client_seed": "1793220059255",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100000,
+    "max_tickets": 100000,
+    "combined_hash": "2a2d26acf64080e05a8c8c1d8ebe7ef1664ccafa36d5bfb9633323933179f4ea",
+    "result": "83083",
+    "external_round_id": "33472234",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:40:59.000000Z",
+    "revealed_at": "2026-10-28T20:41:06.000000Z"
+}
