@@ -1,0 +1,22 @@
+{
+    "round_id": "c3fa2411-98e7-4212-87e4-b1f79a01ce9e",
+    "draw_title": "GOAT'S BINGO - WIN UP TO £2,000 INSTANTLY!! 28/10",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/goats-bingo-win-up-to-ps2000-instantly-2810-2",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "1b4f8c692d8436efdf6e75d1b813c24c023f2d917683b5460aa23386b1b6f6fa",
+    "drand_seed_hash": "b9a4a4e545e22137e1227b60f820b9a3445cfb8822a743716b26b236cf63c9f4dee944521650631fd46d5294b901fa52",
+    "client_seed": "1793225013974",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76568,
+    "max_tickets": 450000,
+    "combined_hash": "90e26de7c04b85ac1a74ef369db02a79601c803835df9bbd3914d6ea5a5081a7",
+    "result": "138321",
+    "external_round_id": "33473886",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T22:03:34.000000Z",
+    "revealed_at": "2026-10-28T22:03:42.000000Z"
+}
