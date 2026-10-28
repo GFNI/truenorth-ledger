@@ -1,0 +1,22 @@
+{
+    "round_id": "fc932f7c-e986-45ff-a2d0-2c7b1248b0c8",
+    "draw_title": "3 Times The Charm",
+    "competition_url": "https://chaotic.co.uk/competition/3-times-the-charm-6475",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "1a66dd2812af0309512d7b68e8f5af391e3a98758333a29d7ead59c25260ee9f",
+    "drand_seed_hash": "8226a131e90baeef566bf43a427aa8c5a4c0f4e866a68e03d6f59207cc1de8720c6028d8d520f9683c95ee7acce24d8a",
+    "client_seed": "1793220198038",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100000,
+    "max_tickets": 100000,
+    "combined_hash": "a948ea41e01e5e0f2ad0cf6e0038cd96ccef003ed03fcedc3e40f5376996dab7",
+    "result": "73066",
+    "external_round_id": "33472280",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:43:18.000000Z",
+    "revealed_at": "2026-10-28T20:43:24.000000Z"
+}
