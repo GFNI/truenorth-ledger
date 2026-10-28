@@ -1,0 +1,22 @@
+{
+    "round_id": "409216ac-c491-4ecc-993e-14b4f3c3df85",
+    "draw_title": "Pick Your Poison - Reveal A Mystery",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/poisonpick",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "893a5ce2aff60f2524fc01156d7ffbba7414c13275ae202e47a4a78286c9b862",
+    "drand_seed_hash": "b9deb73f2361e9c4d68c76744e6a6d2f4c21a47dadfbbc64ce5d440af17c4bbde6d8fc43c2cc2dcd7b83b2c7d9d3a357",
+    "client_seed": "1793220379919",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40000,
+    "max_tickets": 40000,
+    "combined_hash": "c29248e9a410290ad4628256729b0a573b871ba648a2a792d00403651bb0607c",
+    "result": "7491",
+    "external_round_id": "33472341",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T20:46:20.000000Z",
+    "revealed_at": "2026-10-28T20:46:27.000000Z"
+}
