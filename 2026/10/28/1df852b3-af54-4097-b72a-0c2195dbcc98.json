@@ -1,0 +1,22 @@
+{
+    "round_id": "1df852b3-af54-4097-b72a-0c2195dbcc98",
+    "draw_title": "Trick Or Treat",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/trick-or-treat",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "81ddc4d5c764f9173d37e9a0a0c27d317e311735436e3a5ce8b01de4bf2d9588",
+    "drand_seed_hash": "a22b0c48d54d60a85df41853fd367bf7755cc484c2bee9ddf95b2551976e6f866d1ded100975741d616ed7688e42b241",
+    "client_seed": "1793228461663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 224652,
+    "max_tickets": 695000,
+    "combined_hash": "aa4bc26448c6d145be131823cb23aa802c4697436770e4252888d3b0518f92a1",
+    "result": "214955",
+    "external_round_id": "33475035",
+    "processing_status": "completed",
+    "created_at": "2026-10-28T23:01:01.000000Z",
+    "revealed_at": "2026-10-28T23:01:09.000000Z"
+}
