@@ -1,0 +1,22 @@
+{
+    "round_id": "8d595d35-9889-4b40-83e4-d86f72c09155",
+    "draw_title": "Prismatic Evolutions ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/prismatic-evolutions-etb-6",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "66ee455d66bbff9b7f8f36c92c20a2c5616994d24c02d5000bcffba7005d685b",
+    "drand_seed_hash": "a2056743e9c6a2d37544b29e6b6fc146289573430df1fe8ec2878afc31a063dc73c613936bbf099e454fdc6b2977d4ab",
+    "client_seed": "1793311815589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 164,
+    "max_tickets": 300,
+    "combined_hash": "3b056c87689fc24f338ea3b092640f6b2bc83cad39830b63559ac3e1f6b9fa62",
+    "result": "188",
+    "external_round_id": "33502819",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T22:10:15.000000Z",
+    "revealed_at": "2026-10-29T22:10:21.000000Z"
+}
