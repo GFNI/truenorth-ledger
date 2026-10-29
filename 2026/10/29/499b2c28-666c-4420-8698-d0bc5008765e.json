@@ -1,0 +1,22 @@
+{
+    "round_id": "499b2c28-666c-4420-8698-d0bc5008765e",
+    "draw_title": "Haunted House",
+    "competition_url": "https://jetcomps.co.uk/admin/products/haunted-house",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "2606f093d088d7c05650d23fbfdb4fe03dda58c249c908e925eb519fa2617286",
+    "drand_seed_hash": "86651b9d8c778846ec3bb7c0ed654d6a895604d7e934cd148986c7a8baf436b62fde7613121d4e5b82bae921be9719bc",
+    "client_seed": "1793305921800",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248522,
+    "max_tickets": 609571,
+    "combined_hash": "c65f75c851bfa4f2f6bf5232b52e7334e0c0f1d0d21174e585dbb3eb99db0624",
+    "result": "132224",
+    "external_round_id": "33500855",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:32:02.000000Z",
+    "revealed_at": "2026-10-29T20:32:09.000000Z"
+}
