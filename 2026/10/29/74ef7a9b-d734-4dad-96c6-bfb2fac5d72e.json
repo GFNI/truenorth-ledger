@@ -1,0 +1,22 @@
+{
+    "round_id": "74ef7a9b-d734-4dad-96c6-bfb2fac5d72e",
+    "draw_title": "WIN THE ASP 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-the-asp-95k-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "2396031d517e27083cbc9d9a623b43a1cd2b0cb07970dd32c965c949d5d6fd00",
+    "drand_seed_hash": "a83ff4ed8a67267524af88823ab29e47c098100e9621008baf479be43cb198c02588bb4db4ee508f747279241e9295e7",
+    "client_seed": "1793306885916",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 145,
+    "combined_hash": "ada1288896d420491ad689db9c6fe8169052b3d61ba2cff35973b28486390677",
+    "result": "131",
+    "external_round_id": "33501176",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:48:06.000000Z",
+    "revealed_at": "2026-10-29T20:48:12.000000Z"
+}
