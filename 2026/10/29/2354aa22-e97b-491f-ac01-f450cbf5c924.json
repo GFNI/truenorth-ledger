@@ -1,0 +1,22 @@
+{
+    "round_id": "2354aa22-e97b-491f-ac01-f450cbf5c924",
+    "draw_title": "Gem Hunter: Amber",
+    "competition_url": "https://phatstax.co.uk/admin/products/gem-hunter-amber",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "7f1c1e5961bef0d6939ae92b6ad6e23ee34168cace10653760d6ac832a556d4b",
+    "drand_seed_hash": "b4159bf460f800669c634606b28ec81922f7152955569365e797bc3c6787df28e25d03aed8147404501e3fefeb214a11",
+    "client_seed": "1793307906938",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10161,
+    "max_tickets": 50000,
+    "combined_hash": "843f2f90166074848ddbd2db40560ece511ef5182a9d0d6d36ca18a1709bff9f",
+    "result": "15557",
+    "external_round_id": "33501517",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:05:07.000000Z",
+    "revealed_at": "2026-10-29T21:05:15.000000Z"
+}
