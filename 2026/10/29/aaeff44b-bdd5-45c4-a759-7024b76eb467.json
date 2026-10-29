@@ -1,0 +1,22 @@
+{
+    "round_id": "aaeff44b-bdd5-45c4-a759-7024b76eb467",
+    "draw_title": "WIN THIS MACALLAN TIME:SPACE SHERRY CASK 20 YEAR OLD! LOWEST ODDS EVER!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-macallan-timespace-sherry-cask-20-year-old-lowest-odds-ever",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "6e83a543f1d9e29a86b16f73e96db08dcaefb4be1382001b44f414f9ce411ad7",
+    "drand_seed_hash": "9808da6dcb77c465a7a79b952da9a7eeaeea8f356c9e2455dc80de44b2738ec925598301e99913a7fb78e935377696ca",
+    "client_seed": "1793309578222",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 149,
+    "max_tickets": 149,
+    "combined_hash": "250830c2f68482e8f3e67c322204f709c4e4b52573383168cc9f8c6abcc98980",
+    "result": "104",
+    "external_round_id": "33502074",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:32:58.000000Z",
+    "revealed_at": "2026-10-29T21:33:06.000000Z"
+}
