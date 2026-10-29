@@ -1,0 +1,22 @@
+{
+    "round_id": "5c62e7d8-f972-4a99-a889-6aaa94991630",
+    "draw_title": "Phat Loot: Every Ticket Wins",
+    "competition_url": "https://phatstax.co.uk/admin/products/phat-loot-every-ticket-wins",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "2d0d063f452aad9a6eeadb5d65293745415f2532b1258bdaaa88de6955ad82b1",
+    "drand_seed_hash": "a669220f4b6a43714edceb85d2eb0cff91904f21cc917185edff815c09984d825cd1d0496947c8362b091c68da2cc693",
+    "client_seed": "1793307836578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 249,
+    "max_tickets": 1323,
+    "combined_hash": "c5b125d4ff14f77977caca7dd3acaca0563062bd83283ce597e4e81802ab9855",
+    "result": "1017",
+    "external_round_id": "33501493",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:03:56.000000Z",
+    "revealed_at": "2026-10-29T21:04:03.000000Z"
+}
