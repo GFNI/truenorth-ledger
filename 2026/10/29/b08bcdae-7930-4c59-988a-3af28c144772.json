@@ -1,0 +1,22 @@
+{
+    "round_id": "b08bcdae-7930-4c59-988a-3af28c144772",
+    "draw_title": "£150 for £1 -  Only 200 entries",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps150-for-ps1-only-200-entries",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "5a459fa8e5ef08c4505ad243dd019b9c61a1be2e4a4600626e2322182fa03b84",
+    "drand_seed_hash": "a7d50143df23dbe28cb31b400029e08712b25045e3c779ce5d4e89028541138454464c1a7288b3740b11881ab1f6747e",
+    "client_seed": "1793300243232",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "ec50611c0f6071d179d01889c413a24feb86aea581f00321e3c0f3eb261165bf",
+    "result": "157",
+    "external_round_id": "33498962",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T18:57:23.000000Z",
+    "revealed_at": "2026-10-29T18:57:30.000000Z"
+}
