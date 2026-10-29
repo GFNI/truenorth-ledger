@@ -1,0 +1,22 @@
+{
+    "round_id": "73100f32-71f3-4a39-af94-6cc3fe6da287",
+    "draw_title": "THE HALLOWEEN CAULDRON",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-halloween-cauldron",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "4d83127ba00bef3c546fc1b5d69446e3e5a5bfb7b4ed4b8290794b13f442ec1c",
+    "drand_seed_hash": "985c4108afcc2a12d0d90617fab549de2e40d00ab9fd13dc38b2c914c4e02292efd56b92bc8514333f849a2fa5c862b5",
+    "client_seed": "1793302605028",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1345,
+    "max_tickets": 7410,
+    "combined_hash": "588ced1550e913db35bf928b1f2cda5342d4383423667f84dabf0613403cedc9",
+    "result": "5227",
+    "external_round_id": "33499749",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T19:36:45.000000Z",
+    "revealed_at": "2026-10-29T19:36:51.000000Z"
+}
