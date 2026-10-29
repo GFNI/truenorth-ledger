@@ -1,0 +1,22 @@
+{
+    "round_id": "6abde42a-5168-44c4-8f7a-fa8a41657484",
+    "draw_title": "Trick Or Treat",
+    "competition_url": "https://jetcomps.co.uk/admin/products/trick-or-treat",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "a7ca0e3e981651041c4ca8175346fb81cbefd24b085324c3d27c79bdd20f8aee",
+    "drand_seed_hash": "95d5fed249e8672555028db27fa984964e3a2cd0895a06034deaf04e3fe7179cecc086a59e58b1a47eaad2245aee2551",
+    "client_seed": "1793305733536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83388,
+    "max_tickets": 340850,
+    "combined_hash": "548566b39b65bb9439032a018af35654447b20ce3c69463781a0fab1fa5c4adf",
+    "result": "134969",
+    "external_round_id": "33500792",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:28:53.000000Z",
+    "revealed_at": "2026-10-29T20:29:00.000000Z"
+}
