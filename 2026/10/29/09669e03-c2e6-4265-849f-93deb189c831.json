@@ -1,0 +1,22 @@
+{
+    "round_id": "09669e03-c2e6-4265-849f-93deb189c831",
+    "draw_title": "Free Draw - £25 Site Credit",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/free-draw-ps25-site-credit-5",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "27d6afeac862320ff0708c601b017c6ca1c7a1114d1e5ba2dcd27dca9351a100",
+    "drand_seed_hash": "a50d66a3bfc8af4b8c337e93219b1d47937f6b8bbea6a45b0394d35a9a343d67bcaa0da4d6bda63cb050598a65ce209c",
+    "client_seed": "1793304627882",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 89,
+    "max_tickets": 200,
+    "combined_hash": "a320152b1b70f7a420053e3a5fac81a2ce0a93428e7530f738d7e1755863c707",
+    "result": "100",
+    "external_round_id": "33500423",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:10:27.000000Z",
+    "revealed_at": "2026-10-29T20:10:33.000000Z"
+}
