@@ -1,0 +1,22 @@
+{
+    "round_id": "eba530e6-f9e5-4c52-810f-236d33230adf",
+    "draw_title": "Pumpkin Payday",
+    "competition_url": "https://phatstax.co.uk/admin/products/pumpkin-payday",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "bea284a8d0609a723208278570eb5580919d8d24b16c3f81e9cf2d06300bec30",
+    "drand_seed_hash": "8f0398dae1ba2035660c80a7c99d3ab53aba654298f0aecf6ae7c763cfbf81eed948f5d990983023f077cd36a4a51fd7",
+    "client_seed": "1793308035787",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87627,
+    "max_tickets": 140000,
+    "combined_hash": "bff47cba74a638ec3f46bb33e130ce9dfc0d8f03989fcd76fd597a8fb66f3e35",
+    "result": "31296",
+    "external_round_id": "33501559",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:07:15.000000Z",
+    "revealed_at": "2026-10-29T21:07:21.000000Z"
+}
