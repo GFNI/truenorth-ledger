@@ -1,0 +1,22 @@
+{
+    "round_id": "682e1f12-8b36-4cc3-a05f-0d007efaa223",
+    "draw_title": "THE WHEEL OF WHISKY! WIN GLENROTHES 25 YEAR OLD + 10 BONUS WIN SPINS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-wheel-of-whisky-win-glenrothes-25-year-old-10-bonus-win-spins",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "8c53d862245459b4ca09963c3edcdfa9e58f4f09a0ea766dc4470ba47f4755c5",
+    "drand_seed_hash": "9551fc9cfd025ad98d17f68c703d7a72d20757ebb3631a6f995a000d97fabd61ba56d89b48b1069ef90a80ae93f765b1",
+    "client_seed": "1793309952291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 273,
+    "max_tickets": 299,
+    "combined_hash": "c5bd5ceda9c28e0451e57083690afadce4e67d1978059e25cfaf44269a4f263e",
+    "result": "241",
+    "external_round_id": "33502198",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:39:12.000000Z",
+    "revealed_at": "2026-10-29T21:39:18.000000Z"
+}
