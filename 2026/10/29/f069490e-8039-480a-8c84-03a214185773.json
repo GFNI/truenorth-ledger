@@ -1,0 +1,22 @@
+{
+    "round_id": "f069490e-8039-480a-8c84-03a214185773",
+    "draw_title": "Jurrasic Jackpot - Win £5,000 Cash Instantly",
+    "competition_url": "https://ryscompetitions.com/admin/products/jurrasic-jackpot-win-ps5000-cash-instantly",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "5ed8e4810b542cf3323f5e3eadb83e03ea9084f1b6d54b6918d084a7b83d1739",
+    "drand_seed_hash": "b1e71bcf2ddbb5962454714f597dbc68256922e36a72baaee000e5d44fce6f181fefb4a3ae4808abc7b2c78c6a73ea01",
+    "client_seed": "1793305669928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 395293,
+    "max_tickets": 1000000,
+    "combined_hash": "e1dca1d21724b7cbc619207914bc43d8d6d49150eb3c9b96d848296efc526272",
+    "result": "823202",
+    "external_round_id": "33500771",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:27:50.000000Z",
+    "revealed_at": "2026-10-29T20:27:57.000000Z"
+}
