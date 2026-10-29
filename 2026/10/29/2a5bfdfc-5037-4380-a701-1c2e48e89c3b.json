@@ -1,0 +1,22 @@
+{
+    "round_id": "2a5bfdfc-5037-4380-a701-1c2e48e89c3b",
+    "draw_title": "WIN THIS Loch Lomond 2015 11 Year Old FF Bourbon RMW Exclusive",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-loch-lomond-2015-11-year-old-ff-bourbon-rmw-exclusive",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "84f6a13149eff66c2b5f704c5d8ca0cf8ae484a7e67f99030e8f5f0e80aa2358",
+    "drand_seed_hash": "ae56038cce2f7e8ad5157cf92fb024e6d7e5f445b7481a65b62884b3601c0beedce60b1cb2498d7daea85b574bd091d0",
+    "client_seed": "1793308811175",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65,
+    "max_tickets": 100,
+    "combined_hash": "e3b7441b770d207321d7ba0252a76b1aeba322ad9aae28c985f3c98207ad1bcb",
+    "result": "56",
+    "external_round_id": "33501818",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:20:11.000000Z",
+    "revealed_at": "2026-10-29T21:20:18.000000Z"
+}
