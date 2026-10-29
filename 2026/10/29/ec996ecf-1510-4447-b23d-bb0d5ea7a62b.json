@@ -1,0 +1,22 @@
+{
+    "round_id": "ec996ecf-1510-4447-b23d-bb0d5ea7a62b",
+    "draw_title": "WIN 30 TICKETS ON THE BRAND NEW SURRON! DRAW 2",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-30-tickets-on-the-brand-new-surron-draw-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "4f5d7f0cd47bc690482558397a02af0026bff7205d0128e1ebb487b4f45088b5",
+    "drand_seed_hash": "a1588c6cc880f58b099c5da181d604d948fdb26da896608260eafa8ecbdc5ab26c74cf1b9d135a0c3e2ee3b367fce261",
+    "client_seed": "1793300592020",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 225,
+    "max_tickets": 225,
+    "combined_hash": "599484d3d2ac9e230cd15a6c6be0bba45d4bc255f6cfa9f1895144c166fe4744",
+    "result": "206",
+    "external_round_id": "33499078",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T19:03:12.000000Z",
+    "revealed_at": "2026-10-29T19:03:18.000000Z"
+}
