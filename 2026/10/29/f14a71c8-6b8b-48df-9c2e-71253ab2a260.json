@@ -1,0 +1,22 @@
+{
+    "round_id": "f14a71c8-6b8b-48df-9c2e-71253ab2a260",
+    "draw_title": "WIN * NEW * Winmau MvG W-Max Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-winmau-mvg-w-max-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "6f7a1a707fd5233b0ff3e2547e4dd11b3311f5d074ebee5a4a351f1f9acef52c",
+    "drand_seed_hash": "9819c1c050de6b8a239fa24316368692fd8dcf942d173998a01bdf1bc436415d0b87315cc66dd037e9a0d510c0ebf1eb",
+    "client_seed": "1793306767363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 70,
+    "combined_hash": "de09bd589c23b3a9d4966abdead30544f2261d555c9e7ae0bec821bc79bf58ef",
+    "result": "39",
+    "external_round_id": "33501137",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:46:07.000000Z",
+    "revealed_at": "2026-10-29T20:46:15.000000Z"
+}
