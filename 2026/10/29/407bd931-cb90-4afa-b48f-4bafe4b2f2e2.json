@@ -1,0 +1,22 @@
+{
+    "round_id": "407bd931-cb90-4afa-b48f-4bafe4b2f2e2",
+    "draw_title": "Huge XL Sweets & Chocolate Hamper + Instant Wins",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/huge-xl-sweets-chocolate-hamper-instant-wins",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "26e6b83499ef63d83692fb40f208fac1380867c39c58bd69cf8163cb4e4ccb13",
+    "drand_seed_hash": "84b653d4a5a32d9ef30c751f181128ac129f41f805c6acdf1e3e01bf1601b90a479a75f3cca5be4e5d5cf47b5439a4a0",
+    "client_seed": "1793301049167",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1117,
+    "max_tickets": 3400,
+    "combined_hash": "a5f6826e4e08f75ea1e5bda86ead76eaff519eb839083b3445537d9697d04732",
+    "result": "2182",
+    "external_round_id": "33499231",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T19:10:49.000000Z",
+    "revealed_at": "2026-10-29T19:10:57.000000Z"
+}
