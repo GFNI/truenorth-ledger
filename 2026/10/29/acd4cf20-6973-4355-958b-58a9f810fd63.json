@@ -1,0 +1,22 @@
+{
+    "round_id": "acd4cf20-6973-4355-958b-58a9f810fd63",
+    "draw_title": "Balloon Pop Game - Mini Comp - £200 Jackpot Prize - £50 Site Credit Main Prize",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/balloon-pop-game-mini-comp-ps200-jackpot-prize-ps50-site-credit-main-prize",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "16ced0b1505f915f42271458dfcd3335224eb7b5a7218f2f83393540942f0ec5",
+    "drand_seed_hash": "b1b9ed8a56db264e05260e7101690f080f4de69e1c9b7d84151cfd6211a9662b317c8199081524d39b5b5b260576cc6e",
+    "client_seed": "1793300929010",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2122,
+    "max_tickets": 6050,
+    "combined_hash": "062caf21cf2c6538a9b8e34376b7f824ffe5e8dc535a70b6546a23907219b553",
+    "result": "3749",
+    "external_round_id": "33499191",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T19:08:49.000000Z",
+    "revealed_at": "2026-10-29T19:08:57.000000Z"
+}
