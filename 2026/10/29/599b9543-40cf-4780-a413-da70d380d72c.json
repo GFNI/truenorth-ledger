@@ -1,0 +1,22 @@
+{
+    "round_id": "599b9543-40cf-4780-a413-da70d380d72c",
+    "draw_title": "WIN A £300 OCHE ADDICTS VOUCHER - www.ocheaddicts.co.uk",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-ps300-oche-addicts-voucher-wwwocheaddictscouk",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "05b6cb730d135bada1ddfef8db980559d0c1f1cbdc0e9e45d63fd4bf832afae5",
+    "drand_seed_hash": "973bcedfc68b7f90c9ac3e2164631bb38e426a9a7f8692aea0890dfdd46df6368262451dd955fb0b2e473cb4861c8e34",
+    "client_seed": "1793306841587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 444,
+    "max_tickets": 1200,
+    "combined_hash": "6123179b33673cbe42ce7e90fd890139584dc278a0f9a7bb3f582fed6174d1f3",
+    "result": "866",
+    "external_round_id": "33501161",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:47:21.000000Z",
+    "revealed_at": "2026-10-29T20:47:27.000000Z"
+}
