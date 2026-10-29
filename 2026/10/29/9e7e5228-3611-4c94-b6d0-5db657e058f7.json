@@ -1,0 +1,22 @@
+{
+    "round_id": "9e7e5228-3611-4c94-b6d0-5db657e058f7",
+    "draw_title": "SPOOKY SLOTS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/spooky-slots",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "4738965c101d34ec870883824f80ba3eb47976778621e4483259311247cc8ffc",
+    "drand_seed_hash": "b5368b4aff522150fe197d1613506878c08faac57ed1287540bce27c748dfa4df78f4ba3ca81fbdf322c4148859be3f0",
+    "client_seed": "1793308206458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4724,
+    "max_tickets": 10999,
+    "combined_hash": "56609a560fafb62914139a3b9f22415ded3abcdf264059ce8771248c567fc9ea",
+    "result": "882",
+    "external_round_id": "33501616",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T21:10:06.000000Z",
+    "revealed_at": "2026-10-29T21:10:12.000000Z"
+}
