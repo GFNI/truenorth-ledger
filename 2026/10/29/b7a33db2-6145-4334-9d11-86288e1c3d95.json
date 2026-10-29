@@ -1,0 +1,22 @@
+{
+    "round_id": "b7a33db2-6145-4334-9d11-86288e1c3d95",
+    "draw_title": "WIN AN APPLE NEO - 256GB",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-an-apple-neo-256gb",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "2715a8c1f0794a441422acd292b228700f9c44192650f3fe9260b57d6680d5a9",
+    "drand_seed_hash": "a61e7ddab8559aa779b88e54d11fbe4de350babf7b5ea5dedebbefe35a66f0a2511f55a237f055110feeabaedc142fa8",
+    "client_seed": "1793305508924",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10904,
+    "max_tickets": 40000,
+    "combined_hash": "0d45e47682b2e8e7b0be208e67a82ffa325ac9fe921ccafcc1aead764ae85187",
+    "result": "31374",
+    "external_round_id": "33500717",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T20:25:09.000000Z",
+    "revealed_at": "2026-10-29T20:25:15.000000Z"
+}
