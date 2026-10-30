@@ -1,0 +1,22 @@
+{
+    "round_id": "4dab3463-68b1-4e19-96c6-f12345697ecc",
+    "draw_title": "THE HALLOWEEN CASH CAULDRON! £40,000 CASH!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-halloween-cash-cauldron-ps40000-cash",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "cb439c33017c16f36f75732af0f3ad28f7df35107cfe36d55e3b514a8158abc9",
+    "drand_seed_hash": "83770ba0dc55d36b1c338237b8a9338919b1573af1910d3e6d82ef350db7d57cedb4834dce6b4f2295a2c3941f85a7b0",
+    "client_seed": "1793362413780",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31535,
+    "max_tickets": 199999,
+    "combined_hash": "8b391df17bc8a33a68357fe269c33b0ea0b3c2b3fa86a1df4f5b8063befea8c1",
+    "result": "44558",
+    "external_round_id": "33519685",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T12:13:33.000000Z",
+    "revealed_at": "2026-10-30T12:13:39.000000Z"
+}
