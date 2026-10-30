@@ -1,0 +1,22 @@
+{
+    "round_id": "b65b7e15-6fe9-4bb3-b6be-5b46ab01850e",
+    "draw_title": "THE HOLESHOT INSTANT WIN",
+    "competition_url": "https://sparkcompetitions.com/admin/products/the-holeshot-instant-win",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "8c4468a99aac645b0869c7eab2a1b952623269fd9641f9ae61c1b4ae9eb4b063",
+    "drand_seed_hash": "ac3e01b26cc00a1744f29687ed6ebaf016779a71e93e11448d5cce480fe8070cf750bfb3f1e43f995bbd940b94cd00a4",
+    "client_seed": "1793394666957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52748,
+    "max_tickets": 220000,
+    "combined_hash": "74e3420a040bcc3f9d946f916f195f648574742b68262b517aabb972c8bef944",
+    "result": "115765",
+    "external_round_id": "33530437",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:11:07.000000Z",
+    "revealed_at": "2026-10-30T21:11:15.000000Z"
+}
