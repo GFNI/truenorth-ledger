@@ -1,0 +1,22 @@
+{
+    "round_id": "1202d3f6-ee59-4bda-a2fa-4f3f2411d9d0",
+    "draw_title": "WIN GARY ANDERSON PHASE 6 WORLD CHAMPION DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-gary-anderson-phase-6-world-champion-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "31342dcf2ce999c6c7e1a19fe625a7367ee97d3246366716c10debf13cb688c8",
+    "drand_seed_hash": "b93199bc739db15c641522a5c89081297c441e4f2aa96a43c749fc09ff3c80bccc8b458bb0ee20e956cbca81e9932fe0",
+    "client_seed": "1793398305574",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 80,
+    "combined_hash": "88b181448d1043a15bb5be54e3405cc1648489aff72159b30ed46c34d8058fa8",
+    "result": "41",
+    "external_round_id": "33531649",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T22:11:45.000000Z",
+    "revealed_at": "2026-10-30T22:11:51.000000Z"
+}
