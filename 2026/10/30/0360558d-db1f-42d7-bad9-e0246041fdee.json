@@ -1,0 +1,22 @@
+{
+    "round_id": "0360558d-db1f-42d7-bad9-e0246041fdee",
+    "draw_title": "Pirate Payday - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/pirate-payday-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "0c77252a1b5915499d6d70f4741f2ecea6253a890e9f4e08a3314e893d7d6d84",
+    "drand_seed_hash": "965b934d94bc560f733b987ca86e845e286b34c54a353e97e1f47cf68edd9c80e398c2d25b459d21ba6f5e8fdbdb1ed7",
+    "client_seed": "1793392546329",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 301806,
+    "max_tickets": 399999,
+    "combined_hash": "26f678a557ad8c0448a3da945b5a638f37440fa0ffd79daa81dc376327e1e0fa",
+    "result": "174915",
+    "external_round_id": "33529730",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:35:46.000000Z",
+    "revealed_at": "2026-10-30T20:35:54.000000Z"
+}
