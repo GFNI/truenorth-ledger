@@ -1,0 +1,22 @@
+{
+    "round_id": "4e880ab3-8a0f-47cf-9429-8209f4bc7d14",
+    "draw_title": "*BRAND NEW* TARGET TOR EVO DARTBOARD",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-tor-evo-dartboard-2",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "239acc3d926b0f91902a2c683c8939163bea606c41b261310f481ccc4a11fd12",
+    "drand_seed_hash": "a1f3ebfc4ab58d4c125d1ecb4187dad4e8e24effbf836397ab87afed87629624121a07efe71b3b9a895e21f097c45008",
+    "client_seed": "1793393102524",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131,
+    "max_tickets": 200,
+    "combined_hash": "e28999acd1b19f347107e660be063e9b793b78c0f05c267fbddc72bf3a92fd6b",
+    "result": "59",
+    "external_round_id": "33529915",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:45:03.000000Z",
+    "revealed_at": "2026-10-30T20:45:09.000000Z"
+}
