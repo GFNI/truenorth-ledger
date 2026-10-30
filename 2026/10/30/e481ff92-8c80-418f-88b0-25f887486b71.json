@@ -1,0 +1,22 @@
+{
+    "round_id": "e481ff92-8c80-418f-88b0-25f887486b71",
+    "draw_title": "Cashquake RELOADED! 10 x £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cashquake-reloaded-10-x-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "f0f8a4b8676226f27241e973fae64710e910222348852c8ca05a15f982813ab6",
+    "drand_seed_hash": "b1303f2a7ebb370e977a06929ce0bdadd29a03ac76ce6ba1630b497a3d157ecd8bb12b782b07be60e2a6928e11424b95",
+    "client_seed": "1793392692286",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3120830,
+    "max_tickets": 3999999,
+    "combined_hash": "2efbf05b46f7a2cf181edbd9114137b9dab3f9c37c88e28e27a53b7142c05d44",
+    "result": "2519984",
+    "external_round_id": "33529778",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:38:12.000000Z",
+    "revealed_at": "2026-10-30T20:38:18.000000Z"
+}
