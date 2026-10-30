@@ -1,0 +1,22 @@
+{
+    "round_id": "80523b91-88f2-4aaf-99e4-b0742ab0a586",
+    "draw_title": "QUICK! Dyson Airstrait #3",
+    "competition_url": "https://speedcompetitions.co.uk/competition/quick-dyson-airstrait-3",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6ba9512f6848ca3ab2dbae72afbb728bd7c81f43aa964a9508dabb5279651c4d",
+    "drand_seed_hash": "96181a6f4fae375065d7284988293bc526ac63fbe002554d69e5a6e9a9986e4b206f2861296fe7fc08fd76a6ed26d5cc",
+    "client_seed": "1793392510785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "07aa98947ad63a2d1361ef694a1a04d5819f2fc661b82e20fb1a0aad122a64b8",
+    "result": "32968",
+    "external_round_id": "33529718",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:35:10.000000Z",
+    "revealed_at": "2026-10-30T20:35:18.000000Z"
+}
