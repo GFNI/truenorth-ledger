@@ -1,0 +1,22 @@
+{
+    "round_id": "84779c93-5cf2-42f4-af30-ad779fadd96b",
+    "draw_title": "The History of the Royal Navy – 18 Silver Proof £5 Coins",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/the-history-of-the-royal-navy-18-silver-proof-ps5-coins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "36295c57d0eaaa680741b7e0a80127320743b0aee156b4e783c4cdd41726e84b",
+    "drand_seed_hash": "a091f317a283b6159783180c9dfe68bd341e3436fed2686a1831217a2a99abab56c66a5800d46183d8329c46bb3f641f",
+    "client_seed": "1793318107162",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1171,
+    "max_tickets": 2000,
+    "combined_hash": "f2f871adbba2d3955c6f181548158163f21ac9f55c6eed8b6399fcd429fe6283",
+    "result": "1667",
+    "external_round_id": "33504917",
+    "processing_status": "completed",
+    "created_at": "2026-10-29T23:55:07.000000Z",
+    "revealed_at": "2026-10-29T23:55:15.000000Z"
+}
