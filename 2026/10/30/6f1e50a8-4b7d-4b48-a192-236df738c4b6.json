@@ -1,0 +1,22 @@
+{
+    "round_id": "6f1e50a8-4b7d-4b48-a192-236df738c4b6",
+    "draw_title": "The CandyMan Challenge",
+    "competition_url": "https://competitionsne.co.uk/admin/products/the-candyman-challenge",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "c458b0cb73aafc1fece2785d3c37022ce0beba58fb0bc4f03e3fe5d6994123f2",
+    "drand_seed_hash": "a99da2773d632b9abe0e7a8a835d36b59aec429ea7a03abf996e8d285b2e322cb6da4fc145e9be3f13f862299439c507",
+    "client_seed": "1793391926943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2785,
+    "max_tickets": 60000,
+    "combined_hash": "6013ef34cd432ae495fffeb9f1808cae75639a5cab71a6520d9d95802b72685d",
+    "result": "23297",
+    "external_round_id": "33529523",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:25:27.000000Z",
+    "revealed_at": "2026-10-30T20:25:33.000000Z"
+}
