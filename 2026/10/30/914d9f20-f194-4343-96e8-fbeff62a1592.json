@@ -1,0 +1,22 @@
+{
+    "round_id": "914d9f20-f194-4343-96e8-fbeff62a1592",
+    "draw_title": "30 Entries to F.F.S.",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-to-ffs-7",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "a3f80d7c71631ab87b3c5fa910aa9f0103fddcb1e8e39f539aa34e3a268b4fb6",
+    "drand_seed_hash": "a32766ccf9d661b330ea7ecf2999e4d84080cd7b802fb116ab139a3f9b188e2a139ea1312fa665a0aedba5014f22e474",
+    "client_seed": "1793395844583",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "833e1b2719d35cd7c033e3481a866f20d3b12d1abd8cebb64c6bb0f0d6fa33eb",
+    "result": "50",
+    "external_round_id": "33530829",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:30:44.000000Z",
+    "revealed_at": "2026-10-30T21:30:51.000000Z"
+}
