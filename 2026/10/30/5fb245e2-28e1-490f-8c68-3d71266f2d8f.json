@@ -1,0 +1,22 @@
+{
+    "round_id": "5fb245e2-28e1-490f-8c68-3d71266f2d8f",
+    "draw_title": "25K CASH BUSTERS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-cash-busters",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f04201834bbc25ff671cca144fa6c2fc991012aae720fd5088c3787ecc6b0175",
+    "drand_seed_hash": "a2d2cf1f420031ce1b6cab80958e9513ee484f7d5606552f7370f3fe141acee52c801cb4a1139044e0170c20809fe576",
+    "client_seed": "1793394885427",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76808,
+    "max_tickets": 520000,
+    "combined_hash": "e1242d38934f4751064c49242ecc79d34e7ea9dabafce24bc4ac15d550523452",
+    "result": "242658",
+    "external_round_id": "33530509",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:14:45.000000Z",
+    "revealed_at": "2026-10-30T21:14:51.000000Z"
+}
