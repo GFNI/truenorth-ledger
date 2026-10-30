@@ -1,0 +1,22 @@
+{
+    "round_id": "a6706d1b-21e8-422c-b7af-b8779f9ce788",
+    "draw_title": "Cash Surge - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cash-surge-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6c29c72fc61ec3ece242317185cc6a854dd905e0068b64b70abac71622f9338e",
+    "drand_seed_hash": "af87eb25d5a951d6fc96d1128828c13c3dce301653f10c3478fc0c4d6abca8deecd3034d2d0a3993a21e3a66404909c6",
+    "client_seed": "1793392600235",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1518017,
+    "max_tickets": 1849999,
+    "combined_hash": "b26f1d66a25096333a25099f9c17a30959b5cd17761802d0752e9e03de9ac368",
+    "result": "106097",
+    "external_round_id": "33529748",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:36:40.000000Z",
+    "revealed_at": "2026-10-30T20:36:48.000000Z"
+}
