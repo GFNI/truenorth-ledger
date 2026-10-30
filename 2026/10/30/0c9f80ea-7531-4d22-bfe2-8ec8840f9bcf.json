@@ -1,0 +1,22 @@
+{
+    "round_id": "0c9f80ea-7531-4d22-bfe2-8ec8840f9bcf",
+    "draw_title": "Triple Vault - £1333.33 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/triple-vault-ps133333-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "9d30a90ff14f86b6808c380ccb3b19da60b839918c245a006eee7ce93c27cd31",
+    "drand_seed_hash": "949a5c89c2af7402cf70e3137e50734ecba50a574f8e950c7fdad3a9f5e498fcab98bbb718890a75c26f0216ed9bd603",
+    "client_seed": "1793392584479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1624351,
+    "max_tickets": 1999999,
+    "combined_hash": "7983d2b41f86e361d85e53b2bfd42371fa64af1eb80ae37d5c868e35075499d4",
+    "result": "1696614",
+    "external_round_id": "33529742",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:36:24.000000Z",
+    "revealed_at": "2026-10-30T20:36:30.000000Z"
+}
