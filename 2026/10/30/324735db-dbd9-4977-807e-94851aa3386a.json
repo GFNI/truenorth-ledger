@@ -1,0 +1,22 @@
+{
+    "round_id": "324735db-dbd9-4977-807e-94851aa3386a",
+    "draw_title": "Birthday BOO-Nanza finale - £333 winner!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/boonanza333",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "bfa8e4320478b0769e0afa6f25bc8acb6c8b847a094392b2775675437635505e",
+    "drand_seed_hash": "b80b31f7e97fa9df9b0dcaf9e534c55b3172004698f4265e221ed76ce4995ccf57f87b82752a54b4e23efa9179dcd433",
+    "client_seed": "1793397771449",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 150,
+    "combined_hash": "e3828b47d31725fc94c7b23f8e1f548e9c5df32cf1c1dce0e745d9e9471914db",
+    "result": "148",
+    "external_round_id": "33531471",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T22:02:51.000000Z",
+    "revealed_at": "2026-10-30T22:02:57.000000Z"
+}
