@@ -1,0 +1,22 @@
+{
+    "round_id": "65150b27-c8b5-477b-bf2c-3c9c44566994",
+    "draw_title": "£500 Cash for £4.99",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps500-cash-for-ps499",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "9320bc1c33eeafa090237bcd557675530ba4ae5ecd05e84e7dd998d2340c2645",
+    "drand_seed_hash": "84beaae16db9b1981e1c013fc23d147db5977ff47715e45d03e1b67d37647da9274d0282793d94901b9b04a382b7ea7c",
+    "client_seed": "1793395877999",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110,
+    "max_tickets": 180,
+    "combined_hash": "04436c0e692a049243113cf8447849773bad6c4b262009329072d30f08d48809",
+    "result": "89",
+    "external_round_id": "33530840",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:31:18.000000Z",
+    "revealed_at": "2026-10-30T21:31:24.000000Z"
+}
