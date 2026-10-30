@@ -1,0 +1,22 @@
+{
+    "round_id": "04b23073-aba7-4329-859c-6e2757f98bff",
+    "draw_title": "5000 TICKETS - Penny's 10k Fright Night",
+    "competition_url": "https://ryscompetitions.com/admin/products/5000-tickets-pennys-10k-fright-night",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "f361fe803868400644f324995b591640b50a36dd9459ca578c08532641c0af30",
+    "drand_seed_hash": "b1d2c290b987cb790d82047c83b298a2172e7c6d089171b7a4a42946adeabe5a0189dfe20cc6232adb4055f22144a252",
+    "client_seed": "1793392579364",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 35585,
+    "max_tickets": 50000,
+    "combined_hash": "73ee7cf9fb88b11f0b4c419cab988774e76b6a46bce6d72be015cad31d4bae92",
+    "result": "14292",
+    "external_round_id": "33529741",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:36:19.000000Z",
+    "revealed_at": "2026-10-30T20:36:27.000000Z"
+}
