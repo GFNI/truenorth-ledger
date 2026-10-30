@@ -1,0 +1,22 @@
+{
+    "round_id": "086d490c-6864-44fc-a899-065b1077cd76",
+    "draw_title": "PERFECT NINE TIMEPIECE COLLECTION [PRECISION CHRONO] *ONLY 250 MADE*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/perfect-nine-timepiece-collection-precision-chrono-only-250-made",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "ccaccaf66076ad95f5bb2627cacac450c999b4a8de2def9711e656ed4dba7a97",
+    "drand_seed_hash": "81a2c57ef2dc9c92604e3b1585db1c300e631744e1b92ed92b6970ce7f6941749dfb7429423bb275b63a5034564e3713",
+    "client_seed": "1793393235571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81,
+    "max_tickets": 120,
+    "combined_hash": "4212b0bd4a38cdad95118c1ff468626e688565700d23c8cab7c4993e9ce68848",
+    "result": "75",
+    "external_round_id": "33529959",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:47:15.000000Z",
+    "revealed_at": "2026-10-30T20:47:21.000000Z"
+}
