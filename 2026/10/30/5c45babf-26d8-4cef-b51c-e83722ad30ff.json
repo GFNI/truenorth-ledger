@@ -1,0 +1,22 @@
+{
+    "round_id": "5c45babf-26d8-4cef-b51c-e83722ad30ff",
+    "draw_title": "🔴FRIDAY £10K - ENTER FOR 20P #173💷",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/friday-ps10k-enter-for-20p-173",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c650b9129c3c9b63e01d53534fe4b28fa9d3c62fe0911462bde12ad4b914b010",
+    "drand_seed_hash": "b990f3071d36e67f7f8a440f432a27dd072faa9e840bf4830fd847cef6210a268ad2922d022d93fdc135701691b8d9a7",
+    "client_seed": "1793394912587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75000,
+    "max_tickets": 75000,
+    "combined_hash": "03a7f55434162eff98f1a6922dba8f2b08a9d71cbe959e7e88988757337ae1c2",
+    "result": "10220",
+    "external_round_id": "33530518",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:15:12.000000Z",
+    "revealed_at": "2026-10-30T21:15:18.000000Z"
+}
