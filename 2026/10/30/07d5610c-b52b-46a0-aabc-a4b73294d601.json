@@ -1,0 +1,22 @@
+{
+    "round_id": "07d5610c-b52b-46a0-aabc-a4b73294d601",
+    "draw_title": "Penny's £30k Prize Pot - £2,500 End Prize",
+    "competition_url": "https://ryscompetitions.com/admin/products/pennys-ps30k-prize-pot-ps2500-end-prize",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "793e4a8a342a6617a185870e6d248617d46cca86cbe6459b4d193e982b177a73",
+    "drand_seed_hash": "ac6494f024c1d5598013948e382072f4c4b60f23fba5aa1adc292ef3de8356d9ed5ac0d795f3a41e375573d6b2891607",
+    "client_seed": "1793394826394",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146955,
+    "max_tickets": 455000,
+    "combined_hash": "260db18c6b117a64c86028f8f986b0f2a7efb15c5efd9b7c2b645fa98827d6ef",
+    "result": "328479",
+    "external_round_id": "33530489",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:13:46.000000Z",
+    "revealed_at": "2026-10-30T21:13:51.000000Z"
+}
