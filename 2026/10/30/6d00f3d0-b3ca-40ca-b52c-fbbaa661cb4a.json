@@ -1,0 +1,22 @@
+{
+    "round_id": "6d00f3d0-b3ca-40ca-b52c-fbbaa661cb4a",
+    "draw_title": "A9 Traitors Game",
+    "competition_url": "https://a9competitions.co.uk/admin/products/a9-traitors-game",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "72b320d6f5d6fa3fec59a3215ceb41aa112ff5af70882e7e44c9687551d7c13d",
+    "drand_seed_hash": "8f3b59517d64333f6ca89ba25f33d2a04ab9b0f70ed73d2ddd6d9d36c9daee10e6be3ec07203ac05afc56e5349a7e420",
+    "client_seed": "1793395926187",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2150,
+    "max_tickets": 4749,
+    "combined_hash": "d138007dab7f7bbc3e8fe03b779f179bcbb8c819849f2f6fa55cfcc4ecc933c7",
+    "result": "3397",
+    "external_round_id": "33530856",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:32:06.000000Z",
+    "revealed_at": "2026-10-30T21:32:12.000000Z"
+}
