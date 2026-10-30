@@ -1,0 +1,22 @@
+{
+    "round_id": "e7d6baf6-d52f-49ef-a6a5-da80da2d6c20",
+    "draw_title": "Pumpkin Plinko",
+    "competition_url": "https://competitionsne.co.uk/admin/products/pumpkin-plinko-2",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "99cdbcda47760fe6d6e7fd450eaf55d8168326d0a8fbb234b22707dbf98a94e7",
+    "drand_seed_hash": "8f350436680140a6678b8f9fe0869e7474456b2898339599b2046383a5d55cad4e21f569e73f58dddef0ee7f72af305a",
+    "client_seed": "1793391934176",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62329,
+    "max_tickets": 350000,
+    "combined_hash": "8ecccc29ea600347e4b7fd3f83b89a7e9d9f4acffea3474ab65c49b6843ade0e",
+    "result": "237567",
+    "external_round_id": "33529526",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:25:34.000000Z",
+    "revealed_at": "2026-10-30T20:25:42.000000Z"
+}
