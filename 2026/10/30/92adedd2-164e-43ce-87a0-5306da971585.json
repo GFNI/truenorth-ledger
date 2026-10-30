@@ -1,0 +1,22 @@
+{
+    "round_id": "92adedd2-164e-43ce-87a0-5306da971585",
+    "draw_title": "Win your choice of fogstar battery!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-your-choice-of-fogstar-battery",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "8708c98489c61aec59ba3d42b5ece3257ea1e5984e75a2378016876f88c99a94",
+    "drand_seed_hash": "a1dfb579d0a5c413ad93fed13be7e307213a82ade09d0a95725008343afa4f9e33ee0fb4d532610da5a1c541528fcd46",
+    "client_seed": "1793394687580",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1002,
+    "max_tickets": 1599,
+    "combined_hash": "4b6dfe35e70f2f2d7004f17ec84ddb62f56f75e89abcd8efe53d52e8688769e6",
+    "result": "1092",
+    "external_round_id": "33530443",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:11:27.000000Z",
+    "revealed_at": "2026-10-30T21:11:33.000000Z"
+}
