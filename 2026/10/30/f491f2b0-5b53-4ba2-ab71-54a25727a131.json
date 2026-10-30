@@ -1,0 +1,22 @@
+{
+    "round_id": "f491f2b0-5b53-4ba2-ab71-54a25727a131",
+    "draw_title": "5 TO FIND! Glenmorangie 21 Year Old!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/5-to-find-glenmorangie-21-year-old",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "02632cb88553fcb676a8cc9b7025fb517510efae43a3e2253faf22465f65b34c",
+    "drand_seed_hash": "8166247dce8ffa9d10ade67139837c88b8662ad8ae8cf3f03a9bb54363a646c60f526f9268e7f4a9a82df9b889d63779",
+    "client_seed": "1793380238588",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19230,
+    "max_tickets": 20000,
+    "combined_hash": "00cfb87a6c38e36254de7ffbdc5fde06e99dbb75010d818c90ec486ba84787b6",
+    "result": "11969",
+    "external_round_id": "33525627",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T17:10:38.000000Z",
+    "revealed_at": "2026-10-30T17:10:45.000000Z"
+}
