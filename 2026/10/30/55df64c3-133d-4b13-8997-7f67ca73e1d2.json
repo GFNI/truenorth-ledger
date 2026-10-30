@@ -1,0 +1,22 @@
+{
+    "round_id": "55df64c3-133d-4b13-8997-7f67ca73e1d2",
+    "draw_title": "500 TICKETS FOR 75K COMP",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-75k-comp-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f933bd37a3ac75b4515f7ce925b8597e509eb0e63095390e6bc8b0a2bd8e321b",
+    "drand_seed_hash": "a8249d9e2da92d790c8ae582217ee40bea61d7dcff21fe11cd006f7c14dcd9873c5b8d32c8f668d70ad4bd46f14e2b45",
+    "client_seed": "1793394145597",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "6e432102c298ab4fbf7a64b035bd9f2887969ef674fcc8893baf670d190fcb88",
+    "result": "1883",
+    "external_round_id": "33530263",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T21:02:25.000000Z",
+    "revealed_at": "2026-10-30T21:02:33.000000Z"
+}
