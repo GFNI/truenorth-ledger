@@ -1,0 +1,22 @@
+{
+    "round_id": "fe730469-9cea-46a6-885b-750551f31eae",
+    "draw_title": "£100 Site Credit",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps100-site-credit-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "0db407e57a2ff1b74305e76d476d45149b1490e9eef2e6c70bda7713e69717fe",
+    "drand_seed_hash": "909e3073d87c224e80d17a3760ce2447491217ba12c241553dd3a4d8c8a0f33effcdbe56b7655c0f256aa7c60fc6a98c",
+    "client_seed": "1793398076491",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 113000,
+    "combined_hash": "18eb6dd2756d16b63cbce34602f285b10a0c05fdc612e9313ac58c09a1e5ccf2",
+    "result": "72969",
+    "external_round_id": "33531573",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T22:07:56.000000Z",
+    "revealed_at": "2026-10-30T22:08:06.000000Z"
+}
