@@ -1,0 +1,22 @@
+{
+    "round_id": "969042b6-0291-4340-8dfe-08aa0df02573",
+    "draw_title": "Fright Night Fortune - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/fright-night-fortune-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "bfcea53ffbbcaaaacf52aecd02b06cfcbe8d41b2f05f881dd58f36e966048306",
+    "drand_seed_hash": "8808b7c6c7ac86ba966456cc597e77435a04bb626ef7b7753ce254915e5187acc18b0339d8f50f9d72518bab3c6208af",
+    "client_seed": "1793392648165",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399999,
+    "max_tickets": 399999,
+    "combined_hash": "83721e555bd9837e1c8618ec746ff8f1d16de3d1fb41219f070c75c395e3ec93",
+    "result": "62326",
+    "external_round_id": "33529764",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:37:28.000000Z",
+    "revealed_at": "2026-10-30T20:37:36.000000Z"
+}
