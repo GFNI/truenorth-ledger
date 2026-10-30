@@ -1,0 +1,22 @@
+{
+    "round_id": "47417ff9-f01d-46fe-824f-865135965f8b",
+    "draw_title": "*BRAND NEW* TARGET CORONO DARTBOARD SURROUND [YOUR CHOICE]",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-corono-dartboard-surround-your-choice",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "385fed8f833961b18ccaf9b6e7c0a7492a7d7736a94838eabc9102cddd380cf7",
+    "drand_seed_hash": "aa4baa17be9b2cb968e9ae405292453692ad8cd27eb2988dbef13ec5ea1ada1c247e18290b60146ed95113471ee6bdfb",
+    "client_seed": "1793393150816",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 120,
+    "combined_hash": "cb42a15c4ba29c671cdd3b8a154aa008343c8ebb06f9871384c18da11e4e5bbf",
+    "result": "28",
+    "external_round_id": "33529931",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:45:50.000000Z",
+    "revealed_at": "2026-10-30T20:45:57.000000Z"
+}
