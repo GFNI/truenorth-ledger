@@ -1,0 +1,22 @@
+{
+    "round_id": "f0e0ff9f-556c-4db7-bdf6-dd35b79e156a",
+    "draw_title": "WIN PHIL TAYLOR POWER CHRONO 2026 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-phil-taylor-power-chrono-2026-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "7647a647b9bcacb8cab795c3239f156cb1dd51e7010ebeb693fc2fa4c77d1333",
+    "drand_seed_hash": "98ca305f275fd7e8d5f6caf67922845bc0876c514418cddf6734a960b19db365f78ea0da32ac7a6254f987b54fdbcc97",
+    "client_seed": "1793398324687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 195,
+    "combined_hash": "fec68e1eef94077771ef12b04970540b29c1ac5d2f49e1bc3cb96ce8282fe7fb",
+    "result": "10",
+    "external_round_id": "33531656",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T22:12:04.000000Z",
+    "revealed_at": "2026-10-30T22:12:12.000000Z"
+}
