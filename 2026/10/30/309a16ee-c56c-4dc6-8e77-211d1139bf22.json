@@ -1,0 +1,22 @@
+{
+    "round_id": "309a16ee-c56c-4dc6-8e77-211d1139bf22",
+    "draw_title": "Flamingo Fortune - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/flamingo-fortune-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "401cf96e98d3dd6df0971ab81d8c37413cbf1e965df59acc86e8b46f46e10961",
+    "drand_seed_hash": "a574ebb20331f2167da54c53b7e0553900268f31c6b8fa6dd9491187981d37a4e2000fa5290134b6d49617211cecf531",
+    "client_seed": "1793392619754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 272030,
+    "max_tickets": 399999,
+    "combined_hash": "e82d950e8bb501ec47a902b074aa70803d04a75cbe461a37df9cc57f130b6737",
+    "result": "258252",
+    "external_round_id": "33529754",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:36:59.000000Z",
+    "revealed_at": "2026-10-30T20:37:06.000000Z"
+}
