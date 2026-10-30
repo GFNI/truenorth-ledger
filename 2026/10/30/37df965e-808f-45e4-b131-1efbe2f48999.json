@@ -1,0 +1,22 @@
+{
+    "round_id": "37df965e-808f-45e4-b131-1efbe2f48999",
+    "draw_title": "Win a Ring 2K Video Doorbell Plus & Chime",
+    "competition_url": "https://PrizeFlow.co.uk/admin/products/win-a-ring-2k-video-doorbell-plus-chime",
+    "operator": {
+        "name": "PrizeFlow Ltd",
+        "website": "https://PrizeFlow.co.uk",
+        "company_number": "16748682"
+    },
+    "drand_server_seed": "c7722410446ea1f50b887d8d08bf29e78f6ea83e0e734811b41a790f4cd4ca6c",
+    "drand_seed_hash": "961d62270d228f7bdf38b5c7c9e1fd6c09bed895dcc04b52145ef7b9371d9a2ab6cee347edeca9b0b8e873947e904ba8",
+    "client_seed": "1793383839652",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30,
+    "max_tickets": 125,
+    "combined_hash": "1314bd1a7217acbbede926b35a38d1aefa01b35c32e90ecb31defdc0e68b3422",
+    "result": "60",
+    "external_round_id": "33526827",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T18:10:39.000000Z",
+    "revealed_at": "2026-10-30T18:10:45.000000Z"
+}
