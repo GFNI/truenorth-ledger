@@ -1,0 +1,22 @@
+{
+    "round_id": "14aa1ba8-5290-43f9-8778-51d0f634ac3f",
+    "draw_title": "Haunted Heist - £2500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/haunted-heist-ps2500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "6987c95eb335ce9b64c2e4ab44bd757592304846c368fdc45f20f17be7c4c8d8",
+    "drand_seed_hash": "8ba768c48611f82e93bf079b3fff18c5b2a175c7e8f4f8931c0da57df19eaa4a1eabf479d7bc7195531d0e8be3e6d1df",
+    "client_seed": "1793392563704",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 313788,
+    "max_tickets": 399999,
+    "combined_hash": "ed290ba49dfcc37f2a25889110d02b49b27781f529af53d34b6888df5f2b7c46",
+    "result": "201934",
+    "external_round_id": "33529736",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T20:36:04.000000Z",
+    "revealed_at": "2026-10-30T20:36:12.000000Z"
+}
