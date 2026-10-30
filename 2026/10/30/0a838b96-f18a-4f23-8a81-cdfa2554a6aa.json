@@ -1,0 +1,22 @@
+{
+    "round_id": "0a838b96-f18a-4f23-8a81-cdfa2554a6aa",
+    "draw_title": "£250 Hide & Hunt 💷",
+    "competition_url": "https://carleycomps.co.uk/admin/products/ps250-hide-hunt",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "525f215f31888120be455eba4ebf5f5004014b2ec4c7d790fb7d9ca276ff92fb",
+    "drand_seed_hash": "a62c7ca208b96275749b1232c64cee996da7041999aaa8b44fd3b8cffa6697e72893a2b52e06f1b4ac031e5953d41c6b",
+    "client_seed": "1793383572208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3112,
+    "max_tickets": 35000,
+    "combined_hash": "dd10b6c18bcb9e65856846aa3cf6eb6b051bc8350dae0b8e91e83c890b36c737",
+    "result": "9558",
+    "external_round_id": "33526738",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T18:06:12.000000Z",
+    "revealed_at": "2026-10-30T18:06:18.000000Z"
+}
