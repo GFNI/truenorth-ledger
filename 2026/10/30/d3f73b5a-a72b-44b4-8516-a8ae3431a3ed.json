@@ -1,0 +1,22 @@
+{
+    "round_id": "d3f73b5a-a72b-44b4-8516-a8ae3431a3ed",
+    "draw_title": "£250 Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps250-cash-12",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "e374791dd029389949fc9529f1658a293ab51a3ca001a9302eed818a4f6ff00c",
+    "drand_seed_hash": "9079bd7bae1c1fdd07e0cbed77634c539f17b162ac54fb1b2ab27cf6a9f670c81969c44e8daa9fdece3870c2caa2aa5e",
+    "client_seed": "1793398699615",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 609,
+    "max_tickets": 995,
+    "combined_hash": "ccc830b0e1e477f3b8ecebb9dc4e85f6220ea145aee0b47c24d407b75b6c7dec",
+    "result": "354",
+    "external_round_id": "33531781",
+    "processing_status": "completed",
+    "created_at": "2026-10-30T22:18:19.000000Z",
+    "revealed_at": "2026-10-30T22:18:27.000000Z"
+}
