@@ -1,0 +1,22 @@
+{
+    "round_id": "c63e9ce5-1418-4b0f-a457-2c0e70b6b20d",
+    "draw_title": "👻 Gonzo's Spooktacular Suds!",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/gonzos-spooktacular-suds",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "4982bdbfb9e20d20264223bcfa74ddabc80604a6fa61dec748a5142b06b06d35",
+    "drand_seed_hash": "95b4dbf249e6d8c73c7f0c0288242711655e7170e5e1ce07dd0f9abaac8eb532b0c9ff07eef6b6bfd821d8c7aaf4cdf7",
+    "client_seed": "1793482829811",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3613,
+    "max_tickets": 100000,
+    "combined_hash": "71045f29fc30a8137136a8c33a19c08433c0718e933b88998f0c3e08262c3ebb",
+    "result": "92914",
+    "external_round_id": "33559824",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:40:29.000000Z",
+    "revealed_at": "2026-10-31T21:40:36.000000Z"
+}
