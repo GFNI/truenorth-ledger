@@ -1,0 +1,22 @@
+{
+    "round_id": "6df7b095-fbfb-4dab-94f2-f1a6deecaab0",
+    "draw_title": "WIN A SCOLIA HOME 2 FLEX",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-scolia-home-2-flex-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "b24bba48406de9508b3b6415eb1b7d05c6523ce1cd00dd940db1648f6194a162",
+    "drand_seed_hash": "a4eaf3c4c660a5405803928c8029e447219f46430ca05e5be7b1fce6e304071d3336b78a54ba84e3522b0aa505341f09",
+    "client_seed": "1793484762453",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 55,
+    "combined_hash": "31ae2b7fd6c4cd37e4d6c72ec15313421ac15368c7435ea1c8573c012457a906",
+    "result": "54",
+    "external_round_id": "33560468",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T22:12:42.000000Z",
+    "revealed_at": "2026-10-31T22:12:48.000000Z"
+}
