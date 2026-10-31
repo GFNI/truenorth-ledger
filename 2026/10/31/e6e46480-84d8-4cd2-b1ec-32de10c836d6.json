@@ -1,0 +1,22 @@
+{
+    "round_id": "e6e46480-84d8-4cd2-b1ec-32de10c836d6",
+    "draw_title": "£500 FREE CASH ON HALLOWEEN! 🎃",
+    "competition_url": "https://qualityprizesqp.com/admin/products/ps500-free-cash-on-halloween",
+    "operator": {
+        "name": "Quality Prizes QP LTD",
+        "website": "https://qualityprizesqp.com",
+        "company_number": "13193494"
+    },
+    "drand_server_seed": "c074805990f8833c57522ef83136f91a1e578043e46af8450ee53d0fe378dcd3",
+    "drand_seed_hash": "b7e7f20953dffd8f25b3c63570cd517e06725001a573b955d08b02c323ea172da9fd742322eba51bde55dbc46cbf571e",
+    "client_seed": "1793470292211",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2150,
+    "max_tickets": 3000,
+    "combined_hash": "eff8108993342b4e029e002eb83e88da2ac7f3683c2b1591c75d28f130f9aed0",
+    "result": "896",
+    "external_round_id": "33555645",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T18:11:32.000000Z",
+    "revealed_at": "2026-10-31T18:11:39.000000Z"
+}
