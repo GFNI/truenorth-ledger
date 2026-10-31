@@ -1,0 +1,22 @@
+{
+    "round_id": "6eec53e0-f3da-4529-83d7-40e918fb030a",
+    "draw_title": "Pick A Pumpkin - £30 End Prize (Autodraw)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/pick-a-pumpkin-ps30-end-prize-autodraw",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "54000512fbc226db9c0a2477a8104d14e5a66da385a7d49e577c5d9bfdb2125c",
+    "drand_seed_hash": "852f650b65f17e5af79fd46be14530ab2c46162b6eee5b324838ca918dba8b6f144b210380ba8e9d95ebcec68025ea7e",
+    "client_seed": "1793477418649",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4695,
+    "max_tickets": 28000,
+    "combined_hash": "c0c6ffe57cafc89b9516862c189124b78f9da2e16e962b410a031568a9a4d2e7",
+    "result": "9025",
+    "external_round_id": "33558020",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:10:18.000000Z",
+    "revealed_at": "2026-10-31T20:10:24.000000Z"
+}
