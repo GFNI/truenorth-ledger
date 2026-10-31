@@ -1,0 +1,22 @@
+{
+    "round_id": "a9274dd8-621a-4b1f-82dc-91acbda9050e",
+    "draw_title": "Haunted Mansion- £100,000 Prize Pool with Progressive JACKPOT!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/haunted-mansion-ps100000-prize-pool-with-progressive-jackpot",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "f6c643ceff67e5506366296abb9010ebf719e31cf882d5d475289f48475ee13e",
+    "drand_seed_hash": "b61ed49e1ecf4ee7a2b16cf97280aafacd52c893532adbc9e3f89304d01c7bfcfd8c4eb57e15740e9c9e3c334778e68f",
+    "client_seed": "1793473277662",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 585065,
+    "max_tickets": 1500000,
+    "combined_hash": "38f505ea440cc4c7c52e54f47b2c81f0c00b6dc13eee76acdc327ead5621f93c",
+    "result": "759001",
+    "external_round_id": "33556640",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T19:01:17.000000Z",
+    "revealed_at": "2026-10-31T19:01:24.000000Z"
+}
