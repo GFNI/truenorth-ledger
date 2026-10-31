@@ -1,0 +1,22 @@
+{
+    "round_id": "6943e39c-670e-4873-bc3b-69d57d53eaf0",
+    "draw_title": "👻 Ghost Grab 👻",
+    "competition_url": "https://competitionsne.co.uk/admin/products/ghost-grab",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "e174bf2eb34a7f3487d6aed192b275136dbe1e89dd3dd02788107782d641c0f9",
+    "drand_seed_hash": "a6d8f8294d7884c69729d3f452643be2b8d11c0579fd1f18037b68a03ed00bec3350ce74f9c95caa7d077e2f0f38fb90",
+    "client_seed": "1793481027568",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22899,
+    "max_tickets": 250000,
+    "combined_hash": "06c9116574352574f7ee84cbd4ce26fc510ee8260fd772b7510dddc2ef40ba96",
+    "result": "164391",
+    "external_round_id": "33559223",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:10:27.000000Z",
+    "revealed_at": "2026-10-31T21:10:33.000000Z"
+}
