@@ -1,0 +1,22 @@
+{
+    "round_id": "ab527609-99ba-42b0-9ea4-484f798b9f02",
+    "draw_title": "👻 TRICK OR TREAT 👻",
+    "competition_url": "https://greasemonkeycompetitions.co.uk/admin/products/trick-or-treat",
+    "operator": {
+        "name": "Grease Monkey Competitions Ltd",
+        "website": "https://greasemonkeycompetitions.co.uk",
+        "company_number": "17064428"
+    },
+    "drand_server_seed": "c968a087b3200cb9910f426a5eaf18252817a5b9e586153cd099277100bf7273",
+    "drand_seed_hash": "b2cdb98287cdf946b1ae391ef91266b44429ceb1a0cf579af2a1738506895fd8c8a181f6cebd1795f8a16b8e0fe0d58d",
+    "client_seed": "1793481040368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131,
+    "max_tickets": 1000,
+    "combined_hash": "bef6a8a2d391a71eb5d8fb89327816ffca474443f75877d2ee1245e4711c63aa",
+    "result": "207",
+    "external_round_id": "33559228",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:10:40.000000Z",
+    "revealed_at": "2026-10-31T21:10:48.000000Z"
+}
