@@ -1,0 +1,22 @@
+{
+    "round_id": "029b12c6-7c9c-4d3b-b994-63b2f345e6a9",
+    "draw_title": "WIN A £50 JUST EAT GIFT CARD – HALLOWEEN QUICK WIN",
+    "competition_url": "https://prizerush.co.uk/admin/products/win-a-50-just-eat-gift-card-halloween-quick-win",
+    "operator": {
+        "name": "Performance Competitions UK Ltd",
+        "website": "https://prizerush.co.uk",
+        "company_number": "17209860"
+    },
+    "drand_server_seed": "7f3b83fe6b691802dc8dd8b09a9fa8edf1c23dfbc394b3b29a9ba3cbe0b3c13e",
+    "drand_seed_hash": "987198ddb4c91e9746edf487cb967a4b39bc797d518ee4b9c35748678cf170d51215fc5d507b481a5bc5d65c416c471a",
+    "client_seed": "1793479256458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 499,
+    "combined_hash": "2cec97ca23c06588050e0ec5bc0d1423d5ae66a15d6396aea6b664ed7b810b54",
+    "result": "60",
+    "external_round_id": "33558633",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:40:56.000000Z",
+    "revealed_at": "2026-10-31T20:41:03.000000Z"
+}
