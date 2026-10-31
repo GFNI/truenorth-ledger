@@ -1,0 +1,22 @@
+{
+    "round_id": "c8fccb41-15e0-44bb-99a2-5a076cf2229d",
+    "draw_title": "Lenor & Persil Bundle",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/lenor-persil-bundle",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "19cad45f5f9cb9e90bd1cb3531d42148ae6af092a2ce2860606254611de59b0c",
+    "drand_seed_hash": "abcefe3c58d3210aa19710393d03bad9753fd2ea437b23ea3c0a877723cd70e6486f12ab386e0bd878a892d06a2d25ac",
+    "client_seed": "1793477436506",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 188,
+    "max_tickets": 400,
+    "combined_hash": "969e931a60e8b1ba0d138d8c3b9ae588a4580fb3a349dbd78a6c178a7ac519c0",
+    "result": "7",
+    "external_round_id": "33558026",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:10:36.000000Z",
+    "revealed_at": "2026-10-31T20:10:42.000000Z"
+}
