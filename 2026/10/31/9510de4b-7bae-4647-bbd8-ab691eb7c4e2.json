@@ -1,0 +1,22 @@
+{
+    "round_id": "9510de4b-7bae-4647-bbd8-ab691eb7c4e2",
+    "draw_title": "HALLOWEEEN SCARIES WIN UP TO £1000 INSTANTLY",
+    "competition_url": "https://magmacomps.co.uk/admin/products/halloweeen-scaries-win-up-to-ps1000-instantly",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "89a99926f7a1d51d103d9cd3687000f720a4a54d9b18bc1eb5e88f5c74bb0799",
+    "drand_seed_hash": "ac983e4d5bce0fe244632de3ec7058bd4a35a4a2aaa91348f23cfa75313cd7093abc00f932b3b815e1c17a045855fa68",
+    "client_seed": "1793488228474",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22564,
+    "max_tickets": 999999,
+    "combined_hash": "2bb52af607095017fed3659145d201f80f75dd4aebc805c3d6cd8e39fbf7142d",
+    "result": "998157",
+    "external_round_id": "33561623",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T23:10:28.000000Z",
+    "revealed_at": "2026-10-31T23:10:33.000000Z"
+}
