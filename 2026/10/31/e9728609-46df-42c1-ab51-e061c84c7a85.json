@@ -1,0 +1,22 @@
+{
+    "round_id": "e9728609-46df-42c1-ab51-e061c84c7a85",
+    "draw_title": "The £1,000 Haunted Vault 🎃",
+    "competition_url": "https://theprizevault.co.uk/admin/products/the-ps1000-haunted-vault",
+    "operator": {
+        "name": "Etharla Entertainments Ltd",
+        "website": "https://theprizevault.co.uk",
+        "company_number": "NI730514"
+    },
+    "drand_server_seed": "71cace3b25b0cc0080e2dd7490a00e354886dffcf98171584fe5010e97fc7569",
+    "drand_seed_hash": "a7f059fa4ad89819ac6721630c93ea29af8fbc6825dfc79f8d5725320255fffffd04a5b9530d79dee13f4a61e3683144",
+    "client_seed": "1793477485127",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3941,
+    "max_tickets": 10000,
+    "combined_hash": "3620573e2afa59981996ef567ebf6a3cedb75320a5e7bd87e86a90923ae959ff",
+    "result": "7271",
+    "external_round_id": "33558043",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:11:25.000000Z",
+    "revealed_at": "2026-10-31T20:11:33.000000Z"
+}
