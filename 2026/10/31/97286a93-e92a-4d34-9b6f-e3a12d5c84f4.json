@@ -1,0 +1,22 @@
+{
+    "round_id": "97286a93-e92a-4d34-9b6f-e3a12d5c84f4",
+    "draw_title": "🔴WIN 100 ENTRIES INTO THE CHANEL #6",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-100-entries-into-the-chanel-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "7a1444223eae3dbd481c56ad40b21adfcf37ca02c15b74350c29989fe14372a7",
+    "drand_seed_hash": "af55eb5f9c7ab70a84237a205d95b4c551e03f3731ba7400170e08b15efea4a6a126ac5a2de812c95bd7ff0564315e68",
+    "client_seed": "1793463934481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 140,
+    "max_tickets": 140,
+    "combined_hash": "2c0051202cb27adb65ebb348e2621cdfac4431819ceec542a322188b41815d3d",
+    "result": "113",
+    "external_round_id": "33553526",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T16:25:34.000000Z",
+    "revealed_at": "2026-10-31T16:25:42.000000Z"
+}
