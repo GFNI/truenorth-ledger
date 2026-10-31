@@ -1,0 +1,22 @@
+{
+    "round_id": "f4812999-82cd-4f4f-a4aa-ff34aaeb0c67",
+    "draw_title": "SPARK SLOTS - 20P TO SPIN",
+    "competition_url": "https://sparkcompetitions.com/admin/products/spark-slots-20p-to-spin-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "237adfe484513a09ed4f17c34f0dd17066d80d253ebb23077a1c891164ad0012",
+    "drand_seed_hash": "a8ab7c55362429d6adf72b9ff3ede5fc84712c9ff90b9ae9c85d0738eb062de4d11aaa7ed6bedf79c087a395e9f2ccbb",
+    "client_seed": "1793484798824",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42662,
+    "max_tickets": 230000,
+    "combined_hash": "f3c6a9d850e01e007ecec3a191d5856e6fda4e4aeab839260c5d09eb5360ed4d",
+    "result": "85172",
+    "external_round_id": "33560480",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T22:13:18.000000Z",
+    "revealed_at": "2026-10-31T22:13:24.000000Z"
+}
