@@ -1,0 +1,22 @@
+{
+    "round_id": "9994d92e-c4a5-4658-9df2-6823ea9dd45a",
+    "draw_title": "Broadway Bank Job",
+    "competition_url": "https://competitionsne.co.uk/admin/products/broadway-bank-job",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "867e39a88b4f1b860f87645b30c3a214819f728bb2495c0afc06e730a838a1a0",
+    "drand_seed_hash": "85822338cf121a3297ccabb4e25e25cea54f3270a3b3e82643be0248107f415201c4e5336ceab567019d529ee5b175d6",
+    "client_seed": "1793481020505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100941,
+    "max_tickets": 325000,
+    "combined_hash": "c1711f45f1988dd1f00f32d806fadc2f2a7ed0bc8cf1e9a4b234a97f613e7845",
+    "result": "88642",
+    "external_round_id": "33559221",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:10:20.000000Z",
+    "revealed_at": "2026-10-31T21:10:27.000000Z"
+}
