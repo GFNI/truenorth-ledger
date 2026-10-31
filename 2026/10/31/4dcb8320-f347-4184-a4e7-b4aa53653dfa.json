@@ -1,0 +1,22 @@
+{
+    "round_id": "4dcb8320-f347-4184-a4e7-b4aa53653dfa",
+    "draw_title": "50/50 CHANCE OF WINNING TRICK OR TREAT - PLUS END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/5050-chance-of-winning-trick-or-treat-plus-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "c408b0b5884294a203e89acc1db41c270eb48037e0d863b2cb9b3e59885c0706",
+    "drand_seed_hash": "8377428327dc177a134f0c8138d9a6fb1331de7926fca2568cf268ef2caa2b78273ddc82b54bad2c6cd33b7d27cb3b82",
+    "client_seed": "1793484624595",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 827,
+    "max_tickets": 6000,
+    "combined_hash": "92f2ad0f327d45e9fede34c48a94d55675b3a2e113fb1b5f936d06407d369a45",
+    "result": "67",
+    "external_round_id": "33560422",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T22:10:24.000000Z",
+    "revealed_at": "2026-10-31T22:10:30.000000Z"
+}
