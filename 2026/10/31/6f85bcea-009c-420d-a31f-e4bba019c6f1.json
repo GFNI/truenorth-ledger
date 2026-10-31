@@ -1,0 +1,22 @@
+{
+    "round_id": "6f85bcea-009c-420d-a31f-e4bba019c6f1",
+    "draw_title": "P-Louise 2026 Advent Calendar",
+    "competition_url": "https://ryscompetitions.com/admin/products/p-louise-2026-advent-calendar",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "2485e1ab9b5ec0c963e2d6f21399bb99d3f893051fcc1a8dbfc0ea13f786ac56",
+    "drand_seed_hash": "a19d8a6096187c54b78d86043739aeba5b01bc72a512bb8b8e199cc33b6639ddf09b710e64a8724ccb6646b543f270e0",
+    "client_seed": "1793447620914",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "24ac6c44642493eab099119276f372cc15795c7dd971eb92e9faa4b12b0627c3",
+    "result": "2645",
+    "external_round_id": "33548088",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T11:53:40.000000Z",
+    "revealed_at": "2026-10-31T11:53:48.000000Z"
+}
