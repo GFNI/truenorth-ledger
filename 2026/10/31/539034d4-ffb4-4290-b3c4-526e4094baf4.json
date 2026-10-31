@@ -1,0 +1,22 @@
+{
+    "round_id": "539034d4-ffb4-4290-b3c4-526e4094baf4",
+    "draw_title": "PUMPKIN SMASH - Instant win - (Auto Draw)",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/pumpkin-smash-instant-win-auto-draw",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "3bb3c9acbc07956187d7fed0d9b13885aedc7768977499865c58f4d145b59800",
+    "drand_seed_hash": "94d7c27976aedc382b0eb35b0f0b96f9501217bceb2aa66b9739c8e087db3a7634dac74fdda1424122e8492b81dfcae3",
+    "client_seed": "1793481011454",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98351,
+    "max_tickets": 160000,
+    "combined_hash": "de4977174c41522d81996d6ebdcdadf9143677aa457e26afcc3425dedf733757",
+    "result": "93663",
+    "external_round_id": "33559218",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:10:11.000000Z",
+    "revealed_at": "2026-10-31T21:10:18.000000Z"
+}
