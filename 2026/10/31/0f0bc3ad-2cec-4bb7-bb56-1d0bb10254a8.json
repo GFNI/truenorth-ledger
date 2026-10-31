@@ -1,0 +1,22 @@
+{
+    "round_id": "0f0bc3ad-2cec-4bb7-bb56-1d0bb10254a8",
+    "draw_title": "Mini Comp! Win 250 Tickets Into Carrera Competition",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/mini-comp-win-250-tickets-into-carrera-competition",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "30c3491776986a6d002d7bd7a0242001b771768d55c6e86ccca94a70d18581ff",
+    "drand_seed_hash": "a8072fab7bd376ec09f6ab768706192b757df58c8b92359af1c9bc28c06b8d1602edc5e02c8f3a366f9bdc873f31ae1b",
+    "client_seed": "1793477466972",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 500,
+    "combined_hash": "06975a2838a6cb397c2f6d409c99a8f873f753101700ecb7cc1a9591ed5c1219",
+    "result": "43",
+    "external_round_id": "33558037",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:11:07.000000Z",
+    "revealed_at": "2026-10-31T20:11:15.000000Z"
+}
