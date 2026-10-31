@@ -1,0 +1,22 @@
+{
+    "round_id": "21f1b302-978e-4600-b82e-b601e4f40f28",
+    "draw_title": "LOW ODDS SPOOKY £50k Plinko 1 in 3 | £51,500 in Prizes with a £1,500 Jackpot",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/low-odds-spooky-ps50k-plinko-1-in-3-ps51500-in-prizes-with-a-ps1500-jackpot",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "103ccd3545e639d18cdb62375d260cc824eae657bf95cceb569588554c16d9bf",
+    "drand_seed_hash": "940e964dfbea4c537af501cb5c6cd43876d35ea15c0d035c23f8c7a2616e2ad32311859fb8f32b078e02c5ead0f33002",
+    "client_seed": "1793479248531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1042,
+    "max_tickets": 10290,
+    "combined_hash": "b0097ea925ff2ad8738524a10d00b841c549565fdb40600d7b0b17728a8bdc04",
+    "result": "9181",
+    "external_round_id": "33558630",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:40:48.000000Z",
+    "revealed_at": "2026-10-31T20:40:54.000000Z"
+}
