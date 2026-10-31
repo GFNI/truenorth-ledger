@@ -1,0 +1,22 @@
+{
+    "round_id": "d2ac3079-e532-4719-b794-2f90da331546",
+    "draw_title": "WIN CHRIS DOBEY 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-chris-dobey-95k-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "a5e59d534c8d3e911f2cddf8dc7ab93b3cfc4ecb9e2a326b5bc5ee0ef348b3e3",
+    "drand_seed_hash": "8bf9394438c042cea006bee601a6fd48b9d96671ee83cb9fc711fbdbcad059bbefca4d3802893a85b48f3e61d6df5ae6",
+    "client_seed": "1793484724479",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 120,
+    "combined_hash": "0a125d5dd38f80eac57acfda3b82fb450a41fbc033d2c9fdf66e8cfd7c39cd75",
+    "result": "35",
+    "external_round_id": "33560456",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T22:12:04.000000Z",
+    "revealed_at": "2026-10-31T22:12:12.000000Z"
+}
