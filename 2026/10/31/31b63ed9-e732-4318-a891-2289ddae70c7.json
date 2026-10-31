@@ -1,0 +1,22 @@
+{
+    "round_id": "31b63ed9-e732-4318-a891-2289ddae70c7",
+    "draw_title": "🎃PUMPKIN PLINKO! 🎃 - £500 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/pumpkin-plinko-ps500-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "070bbbae3bfca899a8232e57b43e331651ebd8400de49ea1eaa2d30dbe15407a",
+    "drand_seed_hash": "894a0205f165a18ae8b151adfad1590b2df60b90aeb773e7a62787fd9d55840e0be30e22799702720ff1ebc6d89ff415",
+    "client_seed": "1793488234054",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37020,
+    "max_tickets": 400000,
+    "combined_hash": "46737015f887b358f6c7fb22fd286c719da8f24c8d1b929e59676030c65a61a0",
+    "result": "91079",
+    "external_round_id": "33561625",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T23:10:34.000000Z",
+    "revealed_at": "2026-10-31T23:10:39.000000Z"
+}
