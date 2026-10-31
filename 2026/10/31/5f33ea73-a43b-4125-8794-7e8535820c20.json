@@ -1,0 +1,22 @@
+{
+    "round_id": "5f33ea73-a43b-4125-8794-7e8535820c20",
+    "draw_title": "NEW GAME - CARPY PLINKO 15000 PRIZES PLUS £500 END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/new-game-carpy-plinko-15000-prizes-plus-ps500-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "dea11de457255d7df1220655b87e13b191e73aa9508de330e6b6826202f8d3d7",
+    "drand_seed_hash": "993fad290d0f94397c62ffded1c879f0e0088c7270d6989404a19cc2049364d9a04a892870d3818508063fda865fd04b",
+    "client_seed": "1793484630532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5606,
+    "max_tickets": 527777,
+    "combined_hash": "618a2a0c03abed2b54896bef77fc672c372d1473d7cbf7d471e5970cdd417855",
+    "result": "392608",
+    "external_round_id": "33560424",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T22:10:30.000000Z",
+    "revealed_at": "2026-10-31T22:10:36.000000Z"
+}
