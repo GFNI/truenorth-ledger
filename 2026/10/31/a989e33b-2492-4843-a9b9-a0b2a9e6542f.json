@@ -1,0 +1,22 @@
+{
+    "round_id": "a989e33b-2492-4843-a9b9-a0b2a9e6542f",
+    "draw_title": "ODDS BOOSTER INSTANT WINS",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/odds-booster-instant-wins-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "0098a09f9b4860f4267227a33a2d5383ecc489c718e84428fed759950ae9b4d2",
+    "drand_seed_hash": "b1d3fc7b30aec17dbc439b270daa74cbda9341ee75235f6c1eceb964a463f58837ba215d4796dae85f815f507f4f40f9",
+    "client_seed": "1793480825837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5358,
+    "max_tickets": 20000,
+    "combined_hash": "a533d83d56d66394de623bb0b41cc5ac7bb38a8ac0205031fe06d16166a326b1",
+    "result": "19174",
+    "external_round_id": "33559156",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:07:06.000000Z",
+    "revealed_at": "2026-10-31T21:07:12.000000Z"
+}
