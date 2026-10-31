@@ -1,0 +1,22 @@
+{
+    "round_id": "a32fc997-55d2-442f-8bbd-86adf1a35d21",
+    "draw_title": "FREE £100 ENDS TONIGHT! 🤑",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/free-ps100-ends-tonight-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d8e688db9c1a2b5a3686953f839615d547d017f3207e21f69e3e094ca416c2d7",
+    "drand_seed_hash": "b02dae5fe43650fd9b955467b0a8891a337c27144a2e3fcde510ca3f4ec3b306539102f2b939c51ec822621db38e16e7",
+    "client_seed": "1793481218327",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "721fc8a2feaab18ff02438af383df58aeac0e73dccd6e17619b978bb3a899961",
+    "result": "243",
+    "external_round_id": "33559287",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:13:38.000000Z",
+    "revealed_at": "2026-10-31T21:13:45.000000Z"
+}
