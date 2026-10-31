@@ -1,0 +1,22 @@
+{
+    "round_id": "274071a9-5b0d-405b-a161-56eeccef859a",
+    "draw_title": "PENNY PAYDAY",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/penny-payday",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "715ac0e461be73cdff0187ea45d436dda9aa2dcc4ba795e17d4a03e128288472",
+    "drand_seed_hash": "92db0738ad1cd3b3a4caf31fb90f338b5f055c995054d92acf2b9a8b3ee4fa94263a29db0dda66099382f6ad10e72d2a",
+    "client_seed": "1793483846522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "ade1c0c02a6fa0c76b35486579fe8d10c9f83fea0a41501807adf57718523a40",
+    "result": "16158",
+    "external_round_id": "33560162",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:57:26.000000Z",
+    "revealed_at": "2026-10-31T21:57:30.000000Z"
+}
