@@ -1,0 +1,22 @@
+{
+    "round_id": "b1a584ed-394c-4230-a676-d2c321473765",
+    "draw_title": "Halloween Hunt - £36.66 End Prize (Autodraw)",
+    "competition_url": "https://budgetcomps.co.uk/admin/products/halloween-hunt-ps3666-end-prize-autodraw",
+    "operator": {
+        "name": "Budget Comps Ltd",
+        "website": "https://budgetcomps.co.uk",
+        "company_number": "17212451"
+    },
+    "drand_server_seed": "96e5dd4e4e052991f3bdd3e60a55a671c1ddbd5734fd2e1f630b7a746f3df88b",
+    "drand_seed_hash": "a100225fccdee41de8595c707a6bf20470d6c242491876f61cf1b4979e358ae803cd403dfc2a52e51fd6c163c4d8c80e",
+    "client_seed": "1793477411742",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3024,
+    "max_tickets": 76666,
+    "combined_hash": "ef2f9e8533ef9d1469f6f3d01ee661f6ddd226475bb400f54d163a2d5342f832",
+    "result": "22848",
+    "external_round_id": "33558018",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:10:11.000000Z",
+    "revealed_at": "2026-10-31T20:10:18.000000Z"
+}
