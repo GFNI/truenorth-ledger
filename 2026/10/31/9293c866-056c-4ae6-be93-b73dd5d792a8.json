@@ -1,0 +1,22 @@
+{
+    "round_id": "9293c866-056c-4ae6-be93-b73dd5d792a8",
+    "draw_title": "Big Money Halloween",
+    "competition_url": "https://chaotic.co.uk/competition/big-money-halloween-4909",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "4e6b671f649ce68897108eea84dd05c73c20da48482961963c354ab4a8546db7",
+    "drand_seed_hash": "82bd64f0d193be044849f7d090ae839057a5ed7175349aa8f1cf536ecb7898c632edbad6059b547561bdd2d0fa8fc5cf",
+    "client_seed": "1793482528375",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 761972,
+    "max_tickets": 799999,
+    "combined_hash": "be11d917441b229bea5681d6ad43463cace0a2e2554f6067774ecdd1d617dd94",
+    "result": "102323",
+    "external_round_id": "33559724",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T21:35:28.000000Z",
+    "revealed_at": "2026-10-31T21:35:36.000000Z"
+}
