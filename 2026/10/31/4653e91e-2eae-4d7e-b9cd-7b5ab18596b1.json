@@ -1,0 +1,22 @@
+{
+    "round_id": "4653e91e-2eae-4d7e-b9cd-7b5ab18596b1",
+    "draw_title": "Cadbury Chocolate Bundle!",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/cadbury-chocolate-bundle",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "98c8ebd8cf07832ba6281da86677f518ac8f5df841e5b874359a47cd89427fc0",
+    "drand_seed_hash": "b75d19b874535dcfea30675d678c79083ffed00b7b7593ea8c598a31991a4c265102d9bd95d6773e5a8a98357db13142",
+    "client_seed": "1793477442715",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189,
+    "max_tickets": 300,
+    "combined_hash": "c11b07b700ab2286e89b79e37cb0f53c1f5cb0bcdd1f42a92ea1aa76781858dc",
+    "result": "186",
+    "external_round_id": "33558028",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:10:42.000000Z",
+    "revealed_at": "2026-10-31T20:10:48.000000Z"
+}
