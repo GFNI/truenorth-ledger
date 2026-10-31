@@ -1,0 +1,22 @@
+{
+    "round_id": "6c26f2da-0929-4973-ac70-db4b3e805262",
+    "draw_title": "WIN FOR FREE - Nintendo Switch Lite | Spend £1+ For an EXTRA £100",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-for-free-nintendo-switch-lite-spend-ps1-for-an-extra-ps100",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "01f3fdc726bbbf875cbdf33f7369d4b91a7abedab759060c12db357a0e9f90a2",
+    "drand_seed_hash": "a1cfb5d7a51b2fa4c95f2c8685d955c17f0685cf4c6061260fdc51258a6aabd03aad10b0c1848f9196b6f0c93abf40ea",
+    "client_seed": "1793479236679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 458,
+    "max_tickets": 1500,
+    "combined_hash": "a3ee430f56d1f684d439731746c8a316e150ec8e05e5bf9694b7cd4352ccee1b",
+    "result": "244",
+    "external_round_id": "33558626",
+    "processing_status": "completed",
+    "created_at": "2026-10-31T20:40:36.000000Z",
+    "revealed_at": "2026-10-31T20:40:42.000000Z"
+}
