@@ -1,0 +1,22 @@
+{
+    "round_id": "61c02406-9faf-4293-82e1-d74b80a3577d",
+    "draw_title": "NINJA BUNDLE",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ninja-bundle",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "be56a54fb7e671a489bbcfa6505c1b000f582cfe3e91098c099f990e1a2065bc",
+    "drand_seed_hash": "957793731161d02e57ed5171dd0a2eb62f4b93ee689d556b94a2cf3ccbfe0481d7aa9e80b8f73830808297af470bce87",
+    "client_seed": "1793567433601",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 583,
+    "max_tickets": 1350,
+    "combined_hash": "e520fd2a0ccd750545ea2bae64ad269b43e42771e36805eb7c7c5dff1d2d63b5",
+    "result": "2",
+    "external_round_id": "33588025",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:33.000000Z",
+    "revealed_at": "2026-11-01T21:10:39.000000Z"
+}
