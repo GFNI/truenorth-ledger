@@ -1,0 +1,22 @@
+{
+    "round_id": "5cdbccc9-b061-44a6-b309-c3474f50711d",
+    "draw_title": "Anker Soundcore Q20i",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/anker-soundcore-q20i-5",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "8ba83b375d919d2ab6cae484d09c602ac4c3851c5909dfa7c5f7e1cac0f9d994",
+    "drand_seed_hash": "94a01ca9d14bccfe6a83ae64173410fd8ed0ff284b5c132bd387fa33e8c92354bc924981d278813494c96163a4ea24ff",
+    "client_seed": "1793564227611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 150,
+    "combined_hash": "2e0c71de21b9b69cd5860a28eb2fa26a43b5b64f82136caaf0ebbb08575ab7c8",
+    "result": "139",
+    "external_round_id": "33586957",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:17:07.000000Z",
+    "revealed_at": "2026-11-01T20:17:15.000000Z"
+}
