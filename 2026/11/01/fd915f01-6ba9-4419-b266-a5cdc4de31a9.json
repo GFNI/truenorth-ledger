@@ -1,0 +1,22 @@
+{
+    "round_id": "fd915f01-6ba9-4419-b266-a5cdc4de31a9",
+    "draw_title": "Lamine Yamal Patch Auto /10",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/lamine-yamal-patch-auto-10",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "644970834f32ad91924a01ebc196c1d5e8fd16bd080c8d2eb66c9644f2482765",
+    "drand_seed_hash": "985ec0eb2f1d2991e26c1e3d548e82fcb5cc0bf7a76ef477178d16f7a62b1c4adb9bc55581eaa6b185c123991ef5e830",
+    "client_seed": "1793565715957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31623,
+    "max_tickets": 83000,
+    "combined_hash": "77e81f696a682ee081949cf9342bc861903f638bf23c7f8bdef59edfb8464a95",
+    "result": "31808",
+    "external_round_id": "33587452",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:41:55.000000Z",
+    "revealed_at": "2026-11-01T20:42:00.000000Z"
+}
