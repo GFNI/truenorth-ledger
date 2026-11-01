@@ -1,0 +1,22 @@
+{
+    "round_id": "af59721f-520a-45bc-b597-48e058d9b2df",
+    "draw_title": "Makita Advent Calendar 2026",
+    "competition_url": "https://a9competitions.co.uk/admin/products/makita-advent-calendar-2026",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "4e0a0ca98480a7a346c00378f3f4f3e92ea45722c22f85dbaaab3ee2e3ec07a2",
+    "drand_seed_hash": "a4758aa6b3a76bd736dc968566905953f1d0564d9cf718bb1f8b7a98fff8720e3c2e2cde11f31e44c72f190f536f906a",
+    "client_seed": "1793568762376",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 163,
+    "max_tickets": 249,
+    "combined_hash": "34e9845be490f0257067ee211577d1d5716f33f7614f86cded649e455d8d4120",
+    "result": "23",
+    "external_round_id": "33588468",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:32:42.000000Z",
+    "revealed_at": "2026-11-01T21:32:48.000000Z"
+}
