@@ -1,0 +1,22 @@
+{
+    "round_id": "95241789-364d-4eb3-861b-7a4fc7fb893b",
+    "draw_title": "WIN A TARGET TOR EVO 2026 DARTBOARD",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-target-tor-evo-2026-dartboard-5",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "33a9995b24f5975dd5e11f67b124c010c5975ff5b42b35acdc9ba5e69fb8894d",
+    "drand_seed_hash": "b3ceeee3b2550dcd64bcc88d68da68ee717adf2e8f0069252564c32a0ea4ee2888b1915cc873054cfff395d055a42c25",
+    "client_seed": "1793565424182",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74,
+    "max_tickets": 115,
+    "combined_hash": "eb0c4e627e760cfa92154ef77bbca801f97ced815b50a00fd1bc30541cc77b9c",
+    "result": "9",
+    "external_round_id": "33587355",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:37:04.000000Z",
+    "revealed_at": "2026-11-01T20:37:09.000000Z"
+}
