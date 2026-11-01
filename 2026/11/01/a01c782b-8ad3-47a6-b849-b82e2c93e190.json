@@ -1,0 +1,22 @@
+{
+    "round_id": "a01c782b-8ad3-47a6-b849-b82e2c93e190",
+    "draw_title": "NIGELS SCRATCH CARD + 5 X £100 END DRAWS! 🎃",
+    "competition_url": "https://clutchcomps.com/admin/products/nigels-scratch-card-5-x-ps100-end-draws",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "fc83046dd050e5418c72b234b515df43dc5ce0da4de5dc3e2b8dcfaec049145b",
+    "drand_seed_hash": "84a76991a8a5448c0c4f6d076207bd7096c350af52d4f321a12fea6ffcc41aabefecf580bdeff82123ecefa2ec10eede",
+    "client_seed": "1793563299920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21250,
+    "max_tickets": 85000,
+    "combined_hash": "3b14841612791419aedb12df4b00417930d572dfaaa400659c3f0fbea95995c7",
+    "result": "14684",
+    "external_round_id": "33586647",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:01:39.000000Z",
+    "revealed_at": "2026-11-01T20:01:45.000000Z"
+}
