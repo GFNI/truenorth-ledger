@@ -1,0 +1,22 @@
+{
+    "round_id": "bbf14632-0c60-432a-ac8f-d3433b3cf44b",
+    "draw_title": "Hull-O-Ween Trick Or Treat - Win Instant Cash - £250 End Prize",
+    "competition_url": "https://expcomps.com/admin/products/hull-o-ween-trick-or-treat-win-instant-cash-ps250-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "4652437efcbbe769a497e1e74046907d232fdd3d7daa1e752e7773f950a0e629",
+    "drand_seed_hash": "b5d4fadfd1e398c360071badc4027215baaef4f058bc43f5107c215dbc5b8c6bdc43fd5c9b96c297bca30ef04938784f",
+    "client_seed": "1793567906148",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5517,
+    "max_tickets": 20750,
+    "combined_hash": "d4785b2c42aed222c8f4eb6eda423f9efcdb3112e6e1859fa1fbb5f4b686a340",
+    "result": "14213",
+    "external_round_id": "33588182",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:18:26.000000Z",
+    "revealed_at": "2026-11-01T21:18:30.000000Z"
+}
