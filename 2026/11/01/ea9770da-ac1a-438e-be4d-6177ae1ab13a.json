@@ -1,0 +1,22 @@
+{
+    "round_id": "ea9770da-ac1a-438e-be4d-6177ae1ab13a",
+    "draw_title": "Apple 2026 Apple MacBook Air 13.6\", M5 Processor, 16GB RAM, 512GB",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/apple-2026-apple-macbook-air-136-m5-processor-16gb-ram-512gb",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b3467b903af3a247363709b58aa1bc2c280fffab880b916438b40314a576516b",
+    "drand_seed_hash": "ae71cad5643282b0e774f800ea69952e0a8fb47272ed2a475d5d9031047e150b4d999a38108485b61a2ba46e00703fcf",
+    "client_seed": "1793567588532",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999,
+    "max_tickets": 1999,
+    "combined_hash": "318080001a2bf5a0d11ad35a8a2947588aeee134db8d4b14bd22343baf6f3b33",
+    "result": "1638",
+    "external_round_id": "33588077",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:13:08.000000Z",
+    "revealed_at": "2026-11-01T21:13:15.000000Z"
+}
