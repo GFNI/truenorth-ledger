@@ -1,0 +1,22 @@
+{
+    "round_id": "4b336fa5-03cd-4b6d-b8f0-2f62a5c46f36",
+    "draw_title": "Win £400 Christmas Cash",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps400-christmas-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b610411178e4598fbf75473665c05cc9b212a04ea0e91a036c24c6780c9af9ec",
+    "drand_seed_hash": "a4b1823f3a9f2c2adb3f9a61d8a61e3365d8f7daf5a2168c8a85faa8240779381062d58e4ba549a193dfe9d0ac23e5ec",
+    "client_seed": "1793567403410",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1865,
+    "max_tickets": 1865,
+    "combined_hash": "ee749d1dc22903294862c70842974955c8578fe7a25a7f95642515829a936aba",
+    "result": "1836",
+    "external_round_id": "33588016",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:04.000000Z",
+    "revealed_at": "2026-11-01T21:10:12.000000Z"
+}
