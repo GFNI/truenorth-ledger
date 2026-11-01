@@ -1,0 +1,22 @@
+{
+    "round_id": "d6af162b-3f28-4223-9d5a-823deffce16f",
+    "draw_title": "WIN A BMW 123 OR £20,000 CASH!",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/win-a-bmw-123-or-ps20000-cash",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "fc0d9b9f08c642184f1dabf02f19b8cd46d9691130eec322dfc733db6366c9ec",
+    "drand_seed_hash": "98c12c97f2b4a5a41e260d14b571f68e33849aa33396b2ee3bb0c79ce51a68e5d85552169f654aba22394e330cd70ee6",
+    "client_seed": "1793566504129",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120743,
+    "max_tickets": 175000,
+    "combined_hash": "1d0d7700a219b1ad816f179fa879a4a3f542ebca3caaa8fb6f7f5f7d973de9d5",
+    "result": "102142",
+    "external_round_id": "33587716",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:55:04.000000Z",
+    "revealed_at": "2026-11-01T20:55:12.000000Z"
+}
