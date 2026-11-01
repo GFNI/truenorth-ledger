@@ -1,0 +1,22 @@
+{
+    "round_id": "86bd4af4-a323-4ea4-8209-e5eb6883ac54",
+    "draw_title": "5p Instant Win | £7,500 in Prizes with a £100 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/5p-instant-win-ps7500-in-prizes-with-a-ps100-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "c14e0a7229f4bb4a9d1536c74a825d218b5b31c2727a7c782360dbd61cc52949",
+    "drand_seed_hash": "b42be522174a7060e45b07cca977e76e240492a61425b8aa2c834682a2b89656ee5e5369b30098b12728974f0b990a1c",
+    "client_seed": "1793565601007",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25673,
+    "max_tickets": 250000,
+    "combined_hash": "4f29906b5153b65d9cdb91731498541fa96a9e009d8dca5824e1c86f636826b2",
+    "result": "109872",
+    "external_round_id": "33587414",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:40:01.000000Z",
+    "revealed_at": "2026-11-01T20:40:06.000000Z"
+}
