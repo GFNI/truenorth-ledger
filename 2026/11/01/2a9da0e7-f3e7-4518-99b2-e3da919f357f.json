@@ -1,0 +1,22 @@
+{
+    "round_id": "2a9da0e7-f3e7-4518-99b2-e3da919f357f",
+    "draw_title": "Low Odds BIG Cash | £151,000 in Cash Prizes + £1,000 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/low-odds-big-cash-ps151000-in-cash-prizes-ps1000-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "cfa092f753070d5802f769854a498224a6d72efaf20f91b50e7fece77262fc6f",
+    "drand_seed_hash": "9001f4d9b52c38329335098a67a4dd85cdab40e31de05bc90723c0ddd526e90ae15cbfa6ba7a010ae165ec1db913bd44",
+    "client_seed": "1793565719780",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8571,
+    "max_tickets": 99999,
+    "combined_hash": "53dca530646f2470e99c13d648a89a27eb24296ca5626cb6b8f7baf9ed2bbf12",
+    "result": "84373",
+    "external_round_id": "33587454",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:41:59.000000Z",
+    "revealed_at": "2026-11-01T20:42:06.000000Z"
+}
