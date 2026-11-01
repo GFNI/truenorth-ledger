@@ -1,0 +1,22 @@
+{
+    "round_id": "7e97dc1a-dac0-4a70-84a2-162ea949f466",
+    "draw_title": "WIN a £250 Amazon Voucher!",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-ps250-amazon-voucher",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "0f264219c5491b9647556c789016f04de18f9f48bc90b08afc6b8b0040d5d6c0",
+    "drand_seed_hash": "a0fe896a6bebb88bac72aa0032ef1c9bf9422ceb316a3d7b96e6323bdbe33ab44a8e081b66ae0d7d295b054799881879",
+    "client_seed": "1793565514203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2811,
+    "max_tickets": 4500,
+    "combined_hash": "04951120614e065176fdc17a8b9a3945335f3847b27ae1d7c9c361b335fa6068",
+    "result": "3173",
+    "external_round_id": "33587385",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:38:34.000000Z",
+    "revealed_at": "2026-11-01T20:38:39.000000Z"
+}
