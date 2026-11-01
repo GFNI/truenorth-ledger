@@ -1,0 +1,22 @@
+{
+    "round_id": "3de16209-92d3-42eb-a6f5-ad967501a5e0",
+    "draw_title": "🔴WIN 250 ENTRIES INTO THE HOUSE COMP #11 🏘️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-250-entries-into-the-house-comp-11",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "3c753827e8af17660d7ac19dd1897ca3a5c24abadd7e06f922c002a4c51cf835",
+    "drand_seed_hash": "80eedb476462e10e99f74d9a01ed849d24421370753d867cb7d4b3761f9c1eca9a56c88eb05f4c939602a579574e16fb",
+    "client_seed": "1793558916780",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "f8ab2eeec0b96a3fd812d5b61c3fd3f2302335565ab791d533e33cca152c24ff",
+    "result": "89",
+    "external_round_id": "33585186",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T18:48:36.000000Z",
+    "revealed_at": "2026-11-01T18:48:42.000000Z"
+}
