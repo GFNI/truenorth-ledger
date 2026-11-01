@@ -1,0 +1,22 @@
+{
+    "round_id": "2cdcf2db-2e5f-4453-98be-a11194bfab14",
+    "draw_title": "Trick Or Treat?",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/trick-or-treat",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "b48a56c3502dcc6d1ebeaaba47431dfd1dd05540cbd482479f7d06440929df2d",
+    "drand_seed_hash": "98bb7839036c18e8e449294ed13a3046bc8c2b347b2b4ea739619d4846c7d582094658587bef61aea08ba71c29470b71",
+    "client_seed": "1793566063711",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16263,
+    "max_tickets": 50000,
+    "combined_hash": "0e75383cf64fbf0772458ff3a75f14a0ffe18f7213a57c695f26e20a220f0cb5",
+    "result": "32943",
+    "external_round_id": "33587568",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:47:43.000000Z",
+    "revealed_at": "2026-11-01T20:47:48.000000Z"
+}
