@@ -1,0 +1,22 @@
+{
+    "round_id": "0861d25a-736d-4d86-8d38-8496d7f6568c",
+    "draw_title": "Charlotte Tilbury Advent Calendar",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/charlotte-tilbury-advent-calendar",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "1f6062b43f7abea56842e52288dcdb71952e02a7d1cbec1de7147b56b1252515",
+    "drand_seed_hash": "a17a89a6df89e8b7017fc7511b2877af139efcf7ee362e5ab6d73643e31190136f8c8ae8ea9e4a0f57e2570f8ad382dc",
+    "client_seed": "1793567163225",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 192,
+    "max_tickets": 300,
+    "combined_hash": "1cfbcf19c7bd3bf2e3f090a4447508362db001c9d124380c1823f86e4ee4a077",
+    "result": "137",
+    "external_round_id": "33587936",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:06:04.000000Z",
+    "revealed_at": "2026-11-01T21:06:12.000000Z"
+}
