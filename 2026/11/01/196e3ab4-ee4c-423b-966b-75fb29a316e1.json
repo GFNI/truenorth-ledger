@@ -1,0 +1,22 @@
+{
+    "round_id": "196e3ab4-ee4c-423b-966b-75fb29a316e1",
+    "draw_title": "WIN 100 TICKETS INTO ROLEX + £30000 OF INSTANTS LOW ODDS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-100-tickets-into-rolex-ps30000-of-instants-low-odds",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "be55cf4317fd4b694b238fbd2f9602e9a9a45a5a28b7da90417d4e02a20c7087",
+    "drand_seed_hash": "af5e591a7e5012e80ab148a0f6d3df0fe24299f0accdb35ff1328cf7d997307a6eecfe7262033ecd36192bd5cf7664d4",
+    "client_seed": "1793558715436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "e6a4956baacefc1c7408ed66883ea45215393bf9bce82cc7d6dbf1082e60c87a",
+    "result": "66",
+    "external_round_id": "33585119",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T18:45:15.000000Z",
+    "revealed_at": "2026-11-01T18:45:21.000000Z"
+}
