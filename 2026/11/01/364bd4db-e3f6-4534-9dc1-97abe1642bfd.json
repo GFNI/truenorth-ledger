@@ -1,0 +1,22 @@
+{
+    "round_id": "364bd4db-e3f6-4534-9dc1-97abe1642bfd",
+    "draw_title": "10K Cops & Dobbers",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/10k-cops-dobbers",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "be1082f134f4d85eadc9fc6e0817325fc1dc9fa6779bd2d381e37b453a818a99",
+    "drand_seed_hash": "a80554a5d54ef804525b01923cfebb1556a904b59db5aef7fe708a648ea2647096985bf35c8b0f28018d810cc927b905",
+    "client_seed": "1793567225877",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21808,
+    "max_tickets": 80000,
+    "combined_hash": "2e788e5ffca8f51074f52f3b990e029fd27dc577186d4e7e78442c7c4c352ca8",
+    "result": "52399",
+    "external_round_id": "33587956",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:07:05.000000Z",
+    "revealed_at": "2026-11-01T21:07:12.000000Z"
+}
