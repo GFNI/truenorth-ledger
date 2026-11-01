@@ -1,0 +1,22 @@
+{
+    "round_id": "3ade0abf-f404-4322-91a6-cb79c33d85a6",
+    "draw_title": "Mercedes-Benz A35h MHEV AMG Touring Edition",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/mercedes-benz-a35h-mhev-amg-touring-edition",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "e0bb508b2443600fbeb636951e5d1baba0947c06858df4c7217bc02220ecc78e",
+    "drand_seed_hash": "97dddc274ecf79418edaa0db0ac79f3c660ca63ff1a424ba3dba460a26f3a81b479e7ad4dd44c2f84f7e287f543e981d",
+    "client_seed": "1793567900973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7195,
+    "max_tickets": 9999,
+    "combined_hash": "9fe471f6d75d02447333432051f6d2553994e753844700f8e216c50e7ee2e766",
+    "result": "2739",
+    "external_round_id": "33588181",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:18:21.000000Z",
+    "revealed_at": "2026-11-01T21:18:27.000000Z"
+}
