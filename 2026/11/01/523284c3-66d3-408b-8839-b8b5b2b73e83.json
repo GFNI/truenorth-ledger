@@ -1,0 +1,22 @@
+{
+    "round_id": "523284c3-66d3-408b-8839-b8b5b2b73e83",
+    "draw_title": "STOCKING FILLER SPECIAL – WIN £150 IN GAMING VOUCHERS",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/stocking-filler-special-win-ps150-in-gaming-vouchers",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b24821ca5da63b60e0cb23b629db8a685ba4069f0ef745a128d3d81d29084162",
+    "drand_seed_hash": "a9316c3e307afd6b066ffd9d473bc34a739258f9a9d3d948cac6e0a116c3c30b2aef62065f2f45645e23f9c34aff217c",
+    "client_seed": "1793567330022",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 275,
+    "max_tickets": 275,
+    "combined_hash": "d3cc215c92058bf0c3d5bc58ce2e415a1f1e07a1742c52065584fcd395bbd045",
+    "result": "96",
+    "external_round_id": "33587991",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:08:50.000000Z",
+    "revealed_at": "2026-11-01T21:08:57.000000Z"
+}
