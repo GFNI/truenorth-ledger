@@ -1,0 +1,22 @@
+{
+    "round_id": "4fc45862-16cc-4c00-ba86-c8f0e16b9fb7",
+    "draw_title": "Vanquish 460",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/vanquish-460-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "46d35eaef685f097fd32941b7bd80d4a035def875f4b2bda4cbdf3f25c8debe3",
+    "drand_seed_hash": "8b17408a9c861d808ccf1f821df631f70502e464d2ef2d6bcdc538f5548119aafaf32869e9a32284c188db0da845d086",
+    "client_seed": "1793564733447",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 174,
+    "max_tickets": 450,
+    "combined_hash": "e6b71f4e695ea9d9db3bb4997c41216f4f8b70f2a7f8f843e6ed18f26123014b",
+    "result": "43",
+    "external_round_id": "33587125",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:25:33.000000Z",
+    "revealed_at": "2026-11-01T20:25:39.000000Z"
+}
