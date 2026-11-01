@@ -1,0 +1,22 @@
+{
+    "round_id": "fbfd8048-a90c-493d-8ae3-da501f2e775f",
+    "draw_title": "£1,000 Cash for £9.99",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps1000-cash-for-ps999",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "318ea41f2dbac648e345f80be144119d271d98279404e2630783bc2ce93c467d",
+    "drand_seed_hash": "b79cd4c912aa77e1b8dc8cc24607237ec9e51b32b3bb38543ff214a6ac76e18b99e08167d9b86395029830cd400ea50c",
+    "client_seed": "1793568799158",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 98,
+    "max_tickets": 150,
+    "combined_hash": "795b274c32f04b9c972945f76f9203faef30b50600f453ead09c97492c5de1bf",
+    "result": "88",
+    "external_round_id": "33588480",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:33:19.000000Z",
+    "revealed_at": "2026-11-01T21:33:24.000000Z"
+}
