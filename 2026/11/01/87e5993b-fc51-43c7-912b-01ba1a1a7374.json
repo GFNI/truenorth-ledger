@@ -1,0 +1,22 @@
+{
+    "round_id": "87e5993b-fc51-43c7-912b-01ba1a1a7374",
+    "draw_title": "Scotch Or Watch: JACKPOT EDITION",
+    "competition_url": "https://whiskyclubuk.com/admin/products/scotch-or-watch-jackpot-edition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "dd92d100fe79edbbf2d04b81b5ab1f4681c6aef8ee20fe39535429c1334d5d1d",
+    "drand_seed_hash": "94a1a42446872fc2b9f1c384d41024caa3aa1abb7687ced1cbb772c8a5460e316415308a08c95261e10f0a8973f10924",
+    "client_seed": "1793571047792",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44608,
+    "max_tickets": 199999,
+    "combined_hash": "b5da81157bf33054c3e9007f889a217a38db9874fd71dba97430286f7424b902",
+    "result": "33474",
+    "external_round_id": "33589230",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T22:10:47.000000Z",
+    "revealed_at": "2026-11-01T22:10:54.000000Z"
+}
