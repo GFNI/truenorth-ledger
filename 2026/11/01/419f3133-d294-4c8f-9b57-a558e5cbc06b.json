@@ -1,0 +1,22 @@
+{
+    "round_id": "419f3133-d294-4c8f-9b57-a558e5cbc06b",
+    "draw_title": "GOAT'S BIG BASS BONANZA!! 01/11",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/goats-big-bass-bonanza-0111",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "32c907b08b191373993dffc3ae8788ef02a0833f981f5a2c4944cb070d02de48",
+    "drand_seed_hash": "99bd041e5a64398b3870c9e66c7cad828a4439b597fbfe9585175d1690aaa9edfa169791923192e059507717a04ba315",
+    "client_seed": "1793570742743",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2833,
+    "max_tickets": 10000,
+    "combined_hash": "c232a4ee3d13f3bf7a65b11945d29aa3ba296a61e25d6e56a0314aac61d880f7",
+    "result": "8307",
+    "external_round_id": "33589128",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T22:05:42.000000Z",
+    "revealed_at": "2026-11-01T22:05:48.000000Z"
+}
