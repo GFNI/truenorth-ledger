@@ -1,0 +1,22 @@
+{
+    "round_id": "b5255e2e-4391-49c5-b81d-aafb9b9b9d99",
+    "draw_title": "The Mercury Grey Aston Martin V8 Vantage IS BACK! 🇬🇧",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/the-mercury-grey-aston-martin-v8-vantage-is-back",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "e20f2e340c43c31dd6209d7164cf0cd7e42b67fd6f8235282bec90aaef54f217",
+    "drand_seed_hash": "811410da102ce0711c33f2581c68caaa310fec449fd221dadca0b4df919413f9af5d6c1315ee888950490fcdfc552cd0",
+    "client_seed": "1793570870037",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3851,
+    "max_tickets": 4000,
+    "combined_hash": "edf0ee6b1cc9b446b38fb1af4b696fd360e6b46e5721616c040472375119ccdf",
+    "result": "1358",
+    "external_round_id": "33589171",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T22:07:50.000000Z",
+    "revealed_at": "2026-11-01T22:07:57.000000Z"
+}
