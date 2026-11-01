@@ -1,0 +1,22 @@
+{
+    "round_id": "535bea56-898e-4658-882b-e2661323657b",
+    "draw_title": "🏥 SteeLee's Lucky Break 🏥",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/steelees-lucky-break",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "58855a4eb719c17cd294c400e39d06da681640906881b38d01ede32638e2c30d",
+    "drand_seed_hash": "b1d6b7601d517ff6f71df77ef297783350cf04409a7c76de3d0a199bfad1db4e6e5caad396be98029cabfa6ef1f34203",
+    "client_seed": "1793543742085",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2011,
+    "max_tickets": 27500,
+    "combined_hash": "9b0d3b027b6e5d40b44c3c1f8a853da6acdc19be0818cb88f440c8a1901b74d2",
+    "result": "24540",
+    "external_round_id": "33580128",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T14:35:42.000000Z",
+    "revealed_at": "2026-11-01T14:35:48.000000Z"
+}
