@@ -1,0 +1,22 @@
+{
+    "round_id": "2338c7d9-31de-42a8-8f8a-55902d76d32f",
+    "draw_title": "Aberdeen Prize Catch - £1000 AUTODRAW End Prize",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/aberdeen-prize-catch-ps1000-autodraw-end-prize",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "dafe4ecae4281f2589d3cb146c42e2445dbf8cd4d3e15f0e6cf688567b64a882",
+    "drand_seed_hash": "a35bbc5a7a7cb4493c9d2b53045d51c36e58706414c205921851a1a9d006573bbb00413475a613eca48221b8afe6eb6b",
+    "client_seed": "1793567445992",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9452,
+    "max_tickets": 100000,
+    "combined_hash": "a64c03588bf8fe70e94b7bf1d9dca378980aae0656e5fa44e7e947bb63a07b5b",
+    "result": "11239",
+    "external_round_id": "33588029",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:45.000000Z",
+    "revealed_at": "2026-11-01T21:10:51.000000Z"
+}
