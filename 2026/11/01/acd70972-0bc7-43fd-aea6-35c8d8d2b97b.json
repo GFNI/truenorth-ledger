@@ -1,0 +1,22 @@
+{
+    "round_id": "acd70972-0bc7-43fd-aea6-35c8d8d2b97b",
+    "draw_title": "Safe Cracker #4",
+    "competition_url": "https://fireprizes.co.uk/admin/products/safe-cracker-4",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "b3d34725de45d737de7132f38b41dcedcb9f9cbeb4f16324e8dc0fac989fa3e3",
+    "drand_seed_hash": "86bd030a74f8967c4446cc5f634fa09b1ca07c7c5edf0355c233bc4cc3161758fbd8731b0222bd3ed33fe804b5a6f132",
+    "client_seed": "1793491833714",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 199,
+    "combined_hash": "4a3153763981968d5095fda3718b5ef8f6e8df5c5362bb52d4045ae19566504b",
+    "result": "91",
+    "external_round_id": "33562825",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T00:10:33.000000Z",
+    "revealed_at": "2026-11-01T00:10:39.000000Z"
+}
