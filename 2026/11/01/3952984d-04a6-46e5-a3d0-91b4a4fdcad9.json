@@ -1,0 +1,22 @@
+{
+    "round_id": "3952984d-04a6-46e5-a3d0-91b4a4fdcad9",
+    "draw_title": "WIN £3,000 TAX FREE CASH!! 01/11",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-ps3000-tax-free-cash-0111",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "c1bb18353370292cac0398f75bb29fd14cc9386f1bf66600f85f27d727ad8f00",
+    "drand_seed_hash": "8f7dac194f43ab14eb8f83e280f852aee10484c119d15cecd64ba9c9cf35b05edadc472169cf8c1577194bb3307d1de9",
+    "client_seed": "1793570864357",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 643605,
+    "max_tickets": 750000,
+    "combined_hash": "6e7152904b300fb8c6f5baf9aa0a5a090775f0055f3b368e203938fc2adffc46",
+    "result": "322095",
+    "external_round_id": "33589169",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T22:07:44.000000Z",
+    "revealed_at": "2026-11-01T22:07:51.000000Z"
+}
