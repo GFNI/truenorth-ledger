@@ -1,0 +1,22 @@
+{
+    "round_id": "43611d53-cb80-4ae6-b0c6-bb69507956ca",
+    "draw_title": "💎Starburst Slots💥Big Wins💎",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/starburst-spins-big-wins",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "c30e63f6a6298a553a1cc5c3ef7552cee340c91c5c81815ecde5272a9c432514",
+    "drand_seed_hash": "b65c73bfe60a4ee23d82205b86d69f414cd6b385aa284ebe61d804c969373dd40580d1c2f4e300416486915be78f0fb2",
+    "client_seed": "1793567053376",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2096,
+    "max_tickets": 19999,
+    "combined_hash": "c3f4a719b99032bc7f18d40a37cbc30addfdbdd343b6a08d264daf580e7c23b9",
+    "result": "19094",
+    "external_round_id": "33587898",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:04:13.000000Z",
+    "revealed_at": "2026-11-01T21:04:18.000000Z"
+}
