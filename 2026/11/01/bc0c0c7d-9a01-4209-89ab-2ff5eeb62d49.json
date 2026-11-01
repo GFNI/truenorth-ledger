@@ -1,0 +1,22 @@
+{
+    "round_id": "bc0c0c7d-9a01-4209-89ab-2ff5eeb62d49",
+    "draw_title": "CHARLOTTE TILBURY BEAUTY ADVENT CALENDAR",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/charlotte-tilbury-beauty-advent-calendar",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "8e55c597e7b14b715ec74fccffc065cfc10e6b48f4aa12a758f201a23614fb16",
+    "drand_seed_hash": "8501fc038597ca6e99b55d5d190dc3d85f89da6f8fa2b9e2d2a656dff60d7e14a9c22b17fb18b237ae00309c1f7bd5cc",
+    "client_seed": "1793566310238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 350,
+    "max_tickets": 350,
+    "combined_hash": "42c4f116cb2d154640f78ce04b996c0e78bc34c61924cc4ffb41a1d102be0016",
+    "result": "221",
+    "external_round_id": "33587650",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:51:50.000000Z",
+    "revealed_at": "2026-11-01T20:51:54.000000Z"
+}
