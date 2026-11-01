@@ -1,0 +1,22 @@
+{
+    "round_id": "d5a9d4a8-be2c-4e39-9f10-283a16a4da1a",
+    "draw_title": "DOUBLE RAPID Autodraw 8 to win ticket Bundle into this weeks live draws on 1/11",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/double-rapid-autodraw-8-to-win-ticket-bundle-into-this-weeks-live-draws-on",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "0cbb64ba00d157cccbc45ccb82bf420f1a0a14c69574217217963e80bb0db6de",
+    "drand_seed_hash": "a7801faa78ebe1504f501bfc4dd903ed8ba9643543fb6b234d79b05061c5be53b5aebe8833ffc63adde58ac85c91f1d4",
+    "client_seed": "1793561508545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "e5bd58d73c20383f6124fc838593d079c77892b842af136e5a266825eadb5ce3",
+    "result": "2",
+    "external_round_id": "33586050",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T19:31:48.000000Z",
+    "revealed_at": "2026-11-01T19:31:54.000000Z"
+}
