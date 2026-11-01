@@ -1,0 +1,22 @@
+{
+    "round_id": "4a321bc3-c6e5-429c-bcc0-2f8954d5c74d",
+    "draw_title": "OMEGA SPEEDMASTER BLUE SIDE OF THE MOON + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/omega-speedmaster-blue-side-of-the-moon-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "d947e9b66c4a5a92fb2f0517132279fb8c0e7397640607fed0317ad08e43be9c",
+    "drand_seed_hash": "96f9f205fe2c555af7831dbb133f9b003373a162bd5c4ff6fb393c014817a034f546601da572f05fe80363f69e409c69",
+    "client_seed": "1793567412817",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6030,
+    "max_tickets": 10000,
+    "combined_hash": "b0778c21bd51f491fc4dfedbf2d720beace46c2ae2eb301cbd9a0ac9563c7cbb",
+    "result": "3809",
+    "external_round_id": "33588018",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:12.000000Z",
+    "revealed_at": "2026-11-01T21:10:18.000000Z"
+}
