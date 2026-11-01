@@ -1,0 +1,22 @@
+{
+    "round_id": "85eb742d-6d8c-4066-a873-14dec7fcdba4",
+    "draw_title": "£250 M&S VOUCHER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps250-ms-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "3464b36d3eff2a7cf3edd611ff815aad948e7f387d59cc84c8b681168b2b15b1",
+    "drand_seed_hash": "a25cbb6c65a5e4e86dafeb83d897dc71eb731adf8f7c789dfd12d9aac18ae25d95cfe3eeb5c517517d46fcab51791cf9",
+    "client_seed": "1793566355267",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1049,
+    "max_tickets": 2000,
+    "combined_hash": "41bb6bc1c7e4c65fce9e7e717be90d1a69f4d5f9b6a31d714ab60d9bd32c023a",
+    "result": "978",
+    "external_round_id": "33587665",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:52:35.000000Z",
+    "revealed_at": "2026-11-01T20:52:39.000000Z"
+}
