@@ -1,0 +1,22 @@
+{
+    "round_id": "f2ba9990-a7d7-4302-a38f-80e823b607db",
+    "draw_title": "BIG BANG BUCKS - £1,000 CASH - 50 INSTANT WINS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/big-bang-bucks",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "73c699f1a0016bcddf4d433aba16a3db801b79dec8db2d55733bde58abdc4004",
+    "drand_seed_hash": "b9d9efb3477ddf054f5cbbf41e80eb167e4eab84824afe01b7f53866e2c6249646febb24da11630c1465ee80baf9ed46",
+    "client_seed": "1793567439533",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2816,
+    "max_tickets": 14200,
+    "combined_hash": "caa0634412675256b6e4561963ed0311cbfc6201a10b53f2d4ccfdb276914c40",
+    "result": "5715",
+    "external_round_id": "33588027",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:39.000000Z",
+    "revealed_at": "2026-11-01T21:10:45.000000Z"
+}
