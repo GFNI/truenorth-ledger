@@ -1,0 +1,22 @@
+{
+    "round_id": "134adf61-369c-44af-8f54-42dd9dc2daae",
+    "draw_title": "ROLEX SUBMARINER DATE OR £10,000 CASH + £30,000 OF CASH INSTANT WINS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/rolex-submariner-date-or-ps10000-cash-ps30000-of-cash-instant-wins",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "e68cd7a75d69653e7a89c4975df1f9637bf75e8e287020bd8ad43201fc3f8f0c",
+    "drand_seed_hash": "b0f7ca1b1e14536c11c461581ec88958a4fea26c4bfdc44ca9f2d21ccc210ee4f08d934f2d2cc3fa4880e17a879f4a0e",
+    "client_seed": "1793568655901",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10384,
+    "max_tickets": 42999,
+    "combined_hash": "86ed0e1b58a6cdcd059ee08a5b88c79fa31f5a196037a779acec1ae7417f471d",
+    "result": "22700",
+    "external_round_id": "33588432",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:30:55.000000Z",
+    "revealed_at": "2026-11-01T21:31:00.000000Z"
+}
