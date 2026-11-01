@@ -1,0 +1,22 @@
+{
+    "round_id": "1fa42054-1936-436a-b001-6395b72ba739",
+    "draw_title": "Win An iPhone 18 Pro - Choose Your Colour!",
+    "competition_url": "https://expcomps.com/admin/products/win-an-iphone-18-pro-choose-your-colour",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "9a105137bf86dfdcfb6c07f618eefe279d45c2296fcc94c567a96d56b9638f7c",
+    "drand_seed_hash": "ac0d2ce0692031281d66f963460c7e4a9962a12e81d298d74bb5088faa3718ae7987e53992df32b1c688048acbecc7c6",
+    "client_seed": "1793567533916",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1209,
+    "max_tickets": 2999,
+    "combined_hash": "9593f0ec8972c0a6d122646eacef9bf128d787db6612726628a6722433bd5517",
+    "result": "2902",
+    "external_round_id": "33588058",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:12:13.000000Z",
+    "revealed_at": "2026-11-01T21:12:18.000000Z"
+}
