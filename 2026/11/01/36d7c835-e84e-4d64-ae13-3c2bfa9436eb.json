@@ -1,0 +1,22 @@
+{
+    "round_id": "36d7c835-e84e-4d64-ae13-3c2bfa9436eb",
+    "draw_title": "£2500 CASH",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/ps2500-cash-3",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "1e0a3979841087621cc88b3b7a76459a258619e6b88c223985e964a951827dc3",
+    "drand_seed_hash": "a15a801f93add2e9f286db4aa6592a31a68249fb5a1e334431e06462a08a103139eb2af185609480175332e361e248ff",
+    "client_seed": "1793568451958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 349871,
+    "max_tickets": 500000,
+    "combined_hash": "fbdbfcbae970052c1ae37dd5c4c4b7ce1d0c7fcd9e1beb9bb15f6348160b2b76",
+    "result": "133564",
+    "external_round_id": "33588364",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:27:31.000000Z",
+    "revealed_at": "2026-11-01T21:27:36.000000Z"
+}
