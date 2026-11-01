@@ -1,0 +1,22 @@
+{
+    "round_id": "7c788842-42fa-486f-b0c6-95dd39b4f85e",
+    "draw_title": "Nintendo Switch 2",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/nintendo-switch-2-5",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "a427c6d860a08fdefd7219e547b3f0d71ba0f267aa1027f4afaea77d94fc9146",
+    "drand_seed_hash": "a74aaa0cb418a29c458e230ceb887927c69acccd84874f98923649ef97db563a2d1bef83a5b5e3fb5478a95325a08d49",
+    "client_seed": "1793565453828",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3148,
+    "max_tickets": 5600,
+    "combined_hash": "9efa5aeab8bfa3129123a80af9fc23db05c1f5a0e5004f53b8c60ce1d58c9042",
+    "result": "3743",
+    "external_round_id": "33587365",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:37:33.000000Z",
+    "revealed_at": "2026-11-01T20:37:39.000000Z"
+}
