@@ -1,0 +1,22 @@
+{
+    "round_id": "f0dadf55-6bb3-4414-a151-71aa618f28c4",
+    "draw_title": "F.F.S. Competition",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ffs-competition-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "298201331ec5fd6ffa7f9ef20b955ebe2e3eb3f2a2cff8aa5fb2ccb0617ce3b6",
+    "drand_seed_hash": "ae2c7995def7e1528e82a344eb70c1fdccdf15f36400f958f4701d124452b3ba14c2af436bf1d118043d77c9b8fc507c",
+    "client_seed": "1793568838430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6714,
+    "max_tickets": 70999,
+    "combined_hash": "55468dd3f737742a5401ba154ecabfdd81fe94f437845ebe9c6b77b4fe9a5a67",
+    "result": "11148",
+    "external_round_id": "33588493",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:33:58.000000Z",
+    "revealed_at": "2026-11-01T21:34:03.000000Z"
+}
