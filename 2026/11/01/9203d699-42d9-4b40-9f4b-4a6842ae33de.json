@@ -1,0 +1,22 @@
+{
+    "round_id": "9203d699-42d9-4b40-9f4b-4a6842ae33de",
+    "draw_title": "Lil' Angels",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/lil-angels",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "2f95c09cd6243d63ab35033ce863b22a12bb5827c00919d88f56721cdffc57db",
+    "drand_seed_hash": "a415f91ff2ad6de7f2cb12d3d273479e219adfbfaa19c95dcabc5dfd0905e0e8970bafc6403485b22c77910df7c0c64c",
+    "client_seed": "1793566368838",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 74176,
+    "max_tickets": 150000,
+    "combined_hash": "8b68c3e4791c0364f48f3e4297b6b2b805db79f4a656e000926761a5e2980cc2",
+    "result": "111532",
+    "external_round_id": "33587670",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:52:48.000000Z",
+    "revealed_at": "2026-11-01T20:52:54.000000Z"
+}
