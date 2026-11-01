@@ -1,0 +1,22 @@
+{
+    "round_id": "f7ecb7d8-c25c-47b1-8bd1-a1cd1fca35f2",
+    "draw_title": "Have Yourself a Merry Little Staycation - Malmaison Hotel",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/have-yourself-a-merry-little-staycation-malmaison-hotel",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "4b4f5b41ca4c64a5c5e7db708302c65006dd3d876b9986eefda2456bb2d48b23",
+    "drand_seed_hash": "af1c98f7e2b46d05968363d1f5d41de53e00ea6c0d1deb0f28720c42dcf4e61aabca153b50b6da07d1c4cb4bca6dd289",
+    "client_seed": "1793567443864",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "3471a18ccc1f0c955dff2f392a23bb98a8794ba93aa2c530fedf0a724b66edf6",
+    "result": "17",
+    "external_round_id": "33588028",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:10:43.000000Z",
+    "revealed_at": "2026-11-01T21:10:48.000000Z"
+}
