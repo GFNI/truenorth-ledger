@@ -1,0 +1,22 @@
+{
+    "round_id": "05a39617-127b-486e-9912-74f2338a4294",
+    "draw_title": "*INSTANT WINS BOOSTED*X4 SMYTHS VOUCHER WINNERS + 10 x £100 INSTANT WIN VOUCHERS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/x4-smyths-voucher-winners-10-x-ps100-instant-win-vouchers",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "d91405adf0d39080db7b01b9e0774e6989712f99f95e3a95db57884d83c3ef16",
+    "drand_seed_hash": "a41f33e8911874ad45e3d1aa6978d405399dfe0de8b1aa59f9aa71669744a5d7c4f45a5b530986b70a026e0ceb3f0f54",
+    "client_seed": "1793567969175",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3646,
+    "max_tickets": 4999,
+    "combined_hash": "ad6e6db885ae666223601d92ac2d63124e75985b714e2782bdcff00c3f9c1bd8",
+    "result": "3461",
+    "external_round_id": "33588203",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:19:29.000000Z",
+    "revealed_at": "2026-11-01T21:19:33.000000Z"
+}
