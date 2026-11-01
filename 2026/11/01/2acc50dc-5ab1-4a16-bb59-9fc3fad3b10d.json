@@ -1,0 +1,22 @@
+{
+    "round_id": "2acc50dc-5ab1-4a16-bb59-9fc3fad3b10d",
+    "draw_title": "🎃👻 1066 Halloween Site Credit Spooktacular — £1,000 Pool of Instant Wins & £50 Site Credit End Prize!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/1066-halloween-site-credit-spooktacular-ps1000-pool-of-instant-wins-ps50-site-credit-end-prize",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "23ac227791200871f0d83d6dbbc2df0aa47139fc4a6b2282d32920fcfc123494",
+    "drand_seed_hash": "91d98106ee56963fb8f8d98d945831225089626c322e48a913f23bce853ed3744084b9f143709ec0cf1579a66c4e993c",
+    "client_seed": "1793571217137",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 910,
+    "max_tickets": 3000,
+    "combined_hash": "75eb76cccf58d410649a21daea9c9130b32327c417c7a30b489c078e2f82c6be",
+    "result": "1590",
+    "external_round_id": "33589286",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T22:13:37.000000Z",
+    "revealed_at": "2026-11-01T22:13:42.000000Z"
+}
