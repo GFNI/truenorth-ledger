@@ -1,0 +1,22 @@
+{
+    "round_id": "8a624c82-b234-479b-add2-19c38e76cb28",
+    "draw_title": "WIN A FIAT 500X + £1,000 CASH FOR JUST £1",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-a-fiat-500x-ps1000-cash-for-just-1",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "9d32a43f1d972593a6bfc22a985d674909480eac2c3abb68f0140915e73b0cb2",
+    "drand_seed_hash": "8e681f56da862e9ec71806c6e5a0b3f54be6334949998f0e663cd20cb756efee6bce06ae82c529b8c685afd0cc496373",
+    "client_seed": "1793567974490",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4441,
+    "max_tickets": 12999,
+    "combined_hash": "02896c58cf8de4027e2d5564c92ad874da1c9baf9cd6c9f9a39eb9c0e88b04a5",
+    "result": "10095",
+    "external_round_id": "33588205",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T21:19:34.000000Z",
+    "revealed_at": "2026-11-01T21:19:39.000000Z"
+}
