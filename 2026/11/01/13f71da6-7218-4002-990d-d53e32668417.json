@@ -1,0 +1,22 @@
+{
+    "round_id": "13f71da6-7218-4002-990d-d53e32668417",
+    "draw_title": "Halloween Madness!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/halloween-madness",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "c9436c18fc081bd6a9463d4701e0a1d5ae5b66ed5fafec5d2fb4a531e1d4a428",
+    "drand_seed_hash": "8b1778c42ced22f7f609f8ee1e025a7a92727eb3d3e70a6b530adb955ee0dd61bbcb2abd62cc354f0a4875861995ba20",
+    "client_seed": "1793566052438",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100743,
+    "max_tickets": 415000,
+    "combined_hash": "45c9e362fdfd4427ea873e3bbf054b9e69315beb725a0a0fde4d628ea264eacf",
+    "result": "340366",
+    "external_round_id": "33587564",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:47:32.000000Z",
+    "revealed_at": "2026-11-01T20:47:36.000000Z"
+}
