@@ -1,0 +1,22 @@
+{
+    "round_id": "e98ac0ab-4275-436c-bbea-273a042e5593",
+    "draw_title": "WIN THE BRAND NEW DEVIL'S CASKS 22YO BOWMORE! 20 MORE DEVILS CASK BOTTLES TO BE WON!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-the-brand-new-devils-casks-22yo-bowmore-20-more-devils-cask-bottles-to",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "5a6b509c4df9671779d496cbb7928102a12d7e8ca197e17bbd413b1330321fcd",
+    "drand_seed_hash": "903ff3d8e55d135be2bd37e303c759867e15c4bbe58050d22a0d67d29bfcd7b6d78cf045b323524454babaaed6e71d39",
+    "client_seed": "1793574628428",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 515,
+    "max_tickets": 2499,
+    "combined_hash": "534898b3880e16e02206217966cafbc16ab8f4c104bf6a7c737d54e297481089",
+    "result": "2374",
+    "external_round_id": "33590424",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T23:10:28.000000Z",
+    "revealed_at": "2026-11-01T23:10:36.000000Z"
+}
