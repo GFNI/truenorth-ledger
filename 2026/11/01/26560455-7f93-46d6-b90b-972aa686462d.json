@@ -1,0 +1,22 @@
+{
+    "round_id": "26560455-7f93-46d6-b90b-972aa686462d",
+    "draw_title": "Rainbow Wonga + 4x £50 End draw winners!",
+    "competition_url": "https://njcomps.co.uk/admin/products/rainbow-wonga-4x-ps50-end-draw-winners",
+    "operator": {
+        "name": "N&J ENTERTAINMENT LTD",
+        "website": "https://njcomps.co.uk",
+        "company_number": "16826732"
+    },
+    "drand_server_seed": "284cc027c4d95bf544b61b8dd9823e595df999e3c99133dfef389ba289467eb8",
+    "drand_seed_hash": "914968d411a684fd7fa4cdfd3d85dd1b009ea6a5c55220025a26dcc6ca4759a9efc67b5359db45f1b4f7740629553a35",
+    "client_seed": "1793548094467",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5700,
+    "max_tickets": 5700,
+    "combined_hash": "ab00f978446c1118f4b9e14f106224195c4109a106035cacb28f500b7025ec5c",
+    "result": "2656",
+    "external_round_id": "33581578",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T15:48:14.000000Z",
+    "revealed_at": "2026-11-01T15:48:18.000000Z"
+}
