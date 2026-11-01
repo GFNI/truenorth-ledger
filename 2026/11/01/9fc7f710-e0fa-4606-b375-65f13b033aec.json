@@ -1,0 +1,22 @@
+{
+    "round_id": "9fc7f710-e0fa-4606-b375-65f13b033aec",
+    "draw_title": "WIN a 15.6\" ACER Aspire Lite Laptop",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-156-acer-aspire-lite-laptop",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "20fd2fb06d6f4935cd269a5b705a98f00fd52232838649007995ca53e31a298e",
+    "drand_seed_hash": "97c7a7cc970d1ae53b40f64f2dcc57b84af0fb2d0095488adcd61fe21c7eac7208283e03d574cc379b726aa5ceaebc4d",
+    "client_seed": "1793565294058",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 265,
+    "combined_hash": "1257005990d88c7d0415bcdcf908fae7d2a414100242462dbc6b0d9daafa69e0",
+    "result": "75",
+    "external_round_id": "33587312",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:34:54.000000Z",
+    "revealed_at": "2026-11-01T20:35:00.000000Z"
+}
