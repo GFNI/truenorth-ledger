@@ -1,0 +1,22 @@
+{
+    "round_id": "f16262b5-e1fa-46b3-9ce0-8cc2dc0cec50",
+    "draw_title": "WIN AND PICK YOUR 95K",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-and-pick-your-95k-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "fd5e91fca163f0f69cbc702b7864fd93363c87b9ce9957a7ebae3f9c22b1e08f",
+    "drand_seed_hash": "88586fd8bfec8e295ee7cc852b7ed85a9432e9b7a3cec28e760e59f6b832c40c75bdde30b0a94f5a90a6623d1c0548ad",
+    "client_seed": "1793565485904",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 248,
+    "max_tickets": 285,
+    "combined_hash": "9252728f76e3a223aa98d6b87a340765cd93d12c69b6831bfedd861383802b40",
+    "result": "81",
+    "external_round_id": "33587376",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:38:05.000000Z",
+    "revealed_at": "2026-11-01T20:38:12.000000Z"
+}
