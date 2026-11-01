@@ -1,0 +1,22 @@
+{
+    "round_id": "fd4d376b-45e9-4f2b-a91c-4f781819a426",
+    "draw_title": "COPS AND ROBBERS! 🚓 £500 END DRAW 💰",
+    "competition_url": "https://clutchcomps.com/admin/products/cops-and-robbers-ps500-end-draw",
+    "operator": {
+        "name": "CLUTCH COMPETITIONS LTD",
+        "website": "https://clutchcomps.com",
+        "company_number": "15116549"
+    },
+    "drand_server_seed": "8818514e44fa2b656a7bf6605167e5c70944ad9ce94cd346c3289d9ceb011bde",
+    "drand_seed_hash": "b7ea8e992e9514cc6de7cf8e65bfb6a4c0955166aa9990b8d4aa9a82d8309ec36613ce2710f6cfac7684e20eaf82a1ef",
+    "client_seed": "1793563526238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 183000,
+    "max_tickets": 183000,
+    "combined_hash": "730281c625a21a1523dc9957a8abc1e56cea80df2a85d689623f8c3a8f12387b",
+    "result": "109540",
+    "external_round_id": "33586722",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T20:05:26.000000Z",
+    "revealed_at": "2026-11-01T20:05:30.000000Z"
+}
