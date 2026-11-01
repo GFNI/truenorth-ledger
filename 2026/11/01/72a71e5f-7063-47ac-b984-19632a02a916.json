@@ -1,0 +1,22 @@
+{
+    "round_id": "72a71e5f-7063-47ac-b984-19632a02a916",
+    "draw_title": "🔔 Marv’s Ding Dong Giveaway 🔔",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/marvs-ding-dong-giveaway",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "c056fbd211c29be626d3315634a1336a950d73920a9389c361302616f889cd24",
+    "drand_seed_hash": "8e15bf008f9cee5172629149d88a35e95a9a1bb5adb6d77a250490fed5562ecfd218ffaeb9208a8607d5200ec812ea52",
+    "client_seed": "1793543308366",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 306,
+    "max_tickets": 3000,
+    "combined_hash": "3ff2cd174b09090f40ce45caea6459360430c3fbf16f2a3ca08388c84370b980",
+    "result": "864",
+    "external_round_id": "33579983",
+    "processing_status": "completed",
+    "created_at": "2026-11-01T14:28:28.000000Z",
+    "revealed_at": "2026-11-01T14:28:33.000000Z"
+}
