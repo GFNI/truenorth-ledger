@@ -1,0 +1,22 @@
+{
+    "round_id": "fecf3dc6-dad3-4191-b686-544bd5c0017d",
+    "draw_title": "WIN Prime Series Mayo G8 SP Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-prime-series-mayo-g8-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "b7c07729940e3c09eb59fe2b459dadd04e6ee10e3b176bbf3392e172a72480b6",
+    "drand_seed_hash": "ad6997537f5cbcf8219b017d970de0b4078d48866fb23cdb8671dabce2f32b7153ebb4b2d4babe351c7ee8ff74b22ca4",
+    "client_seed": "1793657514462",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 120,
+    "combined_hash": "da0fa8621ccaf92bca070f3bbab358deb4606840daf94f08e5f584dcd3779755",
+    "result": "35",
+    "external_round_id": "33618052",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T22:11:54.000000Z",
+    "revealed_at": "2026-11-02T22:12:00.000000Z"
+}
