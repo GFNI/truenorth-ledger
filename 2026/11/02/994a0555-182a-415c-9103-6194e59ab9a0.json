@@ -1,0 +1,22 @@
+{
+    "round_id": "994a0555-182a-415c-9103-6194e59ab9a0",
+    "draw_title": "APPLE IPHONE 18 PRO MAX📱",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/apple-iphone-18-pro-max",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "ad6505144ffb1ccb7cdbefa7216c4f76b1850e9bb272f6dc0f6eb57cb2e0e380",
+    "drand_seed_hash": "ab0627da2409b552ab26e866e3047adb85f28c514d4ffad42a03838de6d1a18de6181b6bafcda06de2c3ff729cecea3c",
+    "client_seed": "1793652665797",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10078,
+    "max_tickets": 20000,
+    "combined_hash": "0b61abc385fbc99aab34fafd2d55273350d5ae9d8963aa35c684876620c5d99e",
+    "result": "8620",
+    "external_round_id": "33616436",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:51:05.000000Z",
+    "revealed_at": "2026-11-02T20:51:12.000000Z"
+}
