@@ -1,0 +1,22 @@
+{
+    "round_id": "20bcb985-540f-4c8d-94f6-4ca0adb8888e",
+    "draw_title": "👻 HAUNTED HOUSE 🏚️",
+    "competition_url": "https://windropcompetitions.com/admin/products/haunted-house",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "2028c689f5aa48977bb0d1cf1241238d3be04163d61386fd5a1edf0a60065739",
+    "drand_seed_hash": "a6db6f895a8a6364455e5109e7feb245c219b96c2d59603c78de09f7e69672f035c0e93db26a09e1b1d3bb6ea2697f60",
+    "client_seed": "1793649844083",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5288,
+    "max_tickets": 39996,
+    "combined_hash": "c1619f4d565b43f09551ae7a83d93c64b72607b797ff72872245d93b84e0ba0e",
+    "result": "21122",
+    "external_round_id": "33615496",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:04:04.000000Z",
+    "revealed_at": "2026-11-02T20:04:12.000000Z"
+}
