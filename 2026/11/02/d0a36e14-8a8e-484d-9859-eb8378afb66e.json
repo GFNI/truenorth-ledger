@@ -1,0 +1,22 @@
+{
+    "round_id": "d0a36e14-8a8e-484d-9859-eb8378afb66e",
+    "draw_title": "TUI Blue Aura Ibiza or £3000 Cash",
+    "competition_url": "https://jetcomps.co.uk/admin/products/tui-blue-aura-ibiza",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "fea6835e032c94201be68c4fb2c0e0f2cd67b035b8a578379729cd2baee4aa7e",
+    "drand_seed_hash": "94544b91d2f623b0a3d161fbb0f2c0c308f64967921ac96f1b58511a2783cad3ae186ea972733cb7efcfd83ac629ed18",
+    "client_seed": "1793651877910",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42140,
+    "max_tickets": 103125,
+    "combined_hash": "77ddc6c3a83f11cee43d6ecf0e75066a5b6d5f50d63311840b73ea37dce321be",
+    "result": "58694",
+    "external_round_id": "33616173",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:37:57.000000Z",
+    "revealed_at": "2026-11-02T20:38:03.000000Z"
+}
