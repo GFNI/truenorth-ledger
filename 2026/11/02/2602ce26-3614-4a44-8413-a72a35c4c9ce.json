@@ -1,0 +1,22 @@
+{
+    "round_id": "2602ce26-3614-4a44-8413-a72a35c4c9ce",
+    "draw_title": "🗽New Year in New York for 2 people 29th Dec '26 🗽",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-year-in-new-york-for-2-people-29th-dec-26",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "a16fa85dc083a59a9d7f147766a3d274d96c537a22f286f2f0eefd18743854cf",
+    "drand_seed_hash": "a303f4f696962dce84e7d52f58877368d6fcf5be41e217b84718b7f6f7bab70fcc47f4cd2eb7f034de228eb21cad34c5",
+    "client_seed": "1793652801893",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5900,
+    "max_tickets": 5900,
+    "combined_hash": "56d47f02c3388c831ac361949a02b2bcdd030d6a817fae53ed076fbbf9bb2fea",
+    "result": "563",
+    "external_round_id": "33616481",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:53:21.000000Z",
+    "revealed_at": "2026-11-02T20:53:27.000000Z"
+}
