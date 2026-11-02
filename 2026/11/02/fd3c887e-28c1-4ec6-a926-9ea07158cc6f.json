@@ -1,0 +1,22 @@
+{
+    "round_id": "fd3c887e-28c1-4ec6-a926-9ea07158cc6f",
+    "draw_title": "🎾 Nintendo Switch 2 Sports Resort Bundle 🎾",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/nintendo-switch-2-sports-resort-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "604fe3cd61eb09261d2ac0e3af506695c93b7547164315905e19005845dd8da8",
+    "drand_seed_hash": "a0e99942084f712d1f76cda492d99839f7007ff690f2072e70d03a851e3589def479a0a8ebac5cf804936e61e81c9ad1",
+    "client_seed": "1793651584496",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 995,
+    "max_tickets": 995,
+    "combined_hash": "07934ee1ee75055163d6ae3bc4cc0c75f3616bb32ca5a9bfaccf2ec8f614f821",
+    "result": "138",
+    "external_round_id": "33616076",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:33:04.000000Z",
+    "revealed_at": "2026-11-02T20:33:12.000000Z"
+}
