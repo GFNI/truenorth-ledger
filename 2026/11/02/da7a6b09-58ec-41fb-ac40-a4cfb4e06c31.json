@@ -1,0 +1,22 @@
+{
+    "round_id": "da7a6b09-58ec-41fb-ac40-a4cfb4e06c31",
+    "draw_title": "Old McClaire's Farm 👩🏼‍🌾",
+    "competition_url": "https://redlemonx.co.uk/admin/products/old-mcclaires-farm-2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "563194596fd49e00488ce8b242de63106c084f6a4b890fba9d9a798d84627af0",
+    "drand_seed_hash": "a2c7400e61a7f55fe8787c6d38fe48446c93dd8ed929c3b8de6b1690f67ac88c3027ae9e6e1f28c116b58875d4ff3b06",
+    "client_seed": "1793651445638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 876823,
+    "max_tickets": 1000000,
+    "combined_hash": "ca0bed72413c1efc0514e30a4b5a5fb2d7ee13715fb1b12c60bd9572be59a86b",
+    "result": "137675",
+    "external_round_id": "33616029",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:30:45.000000Z",
+    "revealed_at": "2026-11-02T20:30:51.000000Z"
+}
