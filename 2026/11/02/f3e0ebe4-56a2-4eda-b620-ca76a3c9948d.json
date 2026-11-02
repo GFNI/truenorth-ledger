@@ -1,0 +1,22 @@
+{
+    "round_id": "f3e0ebe4-56a2-4eda-b620-ca76a3c9948d",
+    "draw_title": "WIN NEW DAMON HETA GEO DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-damon-heta-geo-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "7bb5c2bd2b2e4f375cf1edec3c432d0444e26d056c20a44bd4a5d9db62ca0ac9",
+    "drand_seed_hash": "b5d2d3af06e89c84d70c4a6f5cf6beeb9b817000bf8bd16bf207ece0643f98fde1cc4cb4f31d55c6f90d00e5b2c2426f",
+    "client_seed": "1793657562485",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 115,
+    "combined_hash": "f9b1646f38690770debc14aa9bcb1e5f083e062982dc8d9f9d4a61a22b548092",
+    "result": "78",
+    "external_round_id": "33618068",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T22:12:42.000000Z",
+    "revealed_at": "2026-11-02T22:12:48.000000Z"
+}
