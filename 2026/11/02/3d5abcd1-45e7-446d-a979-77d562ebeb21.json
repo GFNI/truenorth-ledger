@@ -1,0 +1,22 @@
+{
+    "round_id": "3d5abcd1-45e7-446d-a979-77d562ebeb21",
+    "draw_title": "🩸 SCARY SLOTS: FIND THE PREGNANCY TEST!",
+    "competition_url": "https://carleycomps.co.uk/admin/products/scary-slots-find-the-pregnancy-test",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "8f75f5f9d64193c7cedfade7f9b0d9830be52f2f835cb9bcd107a92c632ab294",
+    "drand_seed_hash": "90ea3b0b9001cea92d5f945a542f9dc971aade692339073635811c34c46f53395262410e259cb2cd5b5999482ff08ffd",
+    "client_seed": "1793628281886",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7431,
+    "max_tickets": 49999,
+    "combined_hash": "226ab8591a944618ecb598ddbdba0a3fa9deb6abd132958d3cd5cfcfba7e3bc0",
+    "result": "38124",
+    "external_round_id": "33608308",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T14:04:41.000000Z",
+    "revealed_at": "2026-11-02T14:04:48.000000Z"
+}
