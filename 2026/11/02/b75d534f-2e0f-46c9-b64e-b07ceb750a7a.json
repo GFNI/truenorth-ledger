@@ -1,0 +1,22 @@
+{
+    "round_id": "b75d534f-2e0f-46c9-b64e-b07ceb750a7a",
+    "draw_title": "Plane Race",
+    "competition_url": "https://jetcomps.co.uk/admin/products/plane-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "d374c7f58ace413b1bad7747bb16e5cb6fae916836f9bd48a893e0fe96a056d2",
+    "drand_seed_hash": "b1c512e14cab63492d50b45a291344572fd90a607e0f4d4a93c0418f1e988f069cddc64046b08c58926b442894842186",
+    "client_seed": "1793651080083",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 340971,
+    "max_tickets": 560000,
+    "combined_hash": "f3f2b992a5f873677d0729396cc0be6467d4a458b987d5d8c0064370381cbba5",
+    "result": "459892",
+    "external_round_id": "33615908",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:24:40.000000Z",
+    "revealed_at": "2026-11-02T20:24:48.000000Z"
+}
