@@ -1,0 +1,22 @@
+{
+    "round_id": "43a0211d-e8dc-49ca-9db1-d28da68004ef",
+    "draw_title": "💥 The CCD 💷🔥 – £100 Edition!",
+    "competition_url": "https://carleycomps.co.uk/admin/products/the-ccd-ps100-edition-2",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "ac744611ea67cd6d4d7682d245687e90200d400617c02b128792dcb1f7bc22cf",
+    "drand_seed_hash": "8032869f323b6df2613e413d35fea2ae4e7a97b290b84547cfca84f6dab677a720b71473446616ab19f82b6ea6220d3d",
+    "client_seed": "1793628252674",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131810,
+    "max_tickets": 499999,
+    "combined_hash": "85dad881fc1e1cbdf7e6393e97e9d081bf8a5a60cb0d491de23b030295d6abe3",
+    "result": "476938",
+    "external_round_id": "33608298",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T14:04:12.000000Z",
+    "revealed_at": "2026-11-02T14:04:18.000000Z"
+}
