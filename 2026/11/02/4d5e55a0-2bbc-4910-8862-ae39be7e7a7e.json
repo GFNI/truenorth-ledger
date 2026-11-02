@@ -1,0 +1,22 @@
+{
+    "round_id": "4d5e55a0-2bbc-4910-8862-ae39be7e7a7e",
+    "draw_title": "The Legends Weekly - TTG Credit Overload - Plinko Edition",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/the-legends-weekly-ttg-credit-overload-plinko-edition",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "73d554fd37528acc096e00d5d3d033fb8ef9fc01724bc8be9188293095ad7e36",
+    "drand_seed_hash": "b34cf6267f572dafcc438d8b0c3d4c21f780e33fa46d0265050c433032f06e7f32d14f94e98e636d99d510226e0427cf",
+    "client_seed": "1793648415730",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "b03fdcd034d12051036e79fc8b84b84c24aaf30ac281a857bc86220df280a9bc",
+    "result": "153",
+    "external_round_id": "33615019",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T19:40:15.000000Z",
+    "revealed_at": "2026-11-02T19:40:21.000000Z"
+}
