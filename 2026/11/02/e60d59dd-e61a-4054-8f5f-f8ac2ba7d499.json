@@ -1,0 +1,22 @@
+{
+    "round_id": "e60d59dd-e61a-4054-8f5f-f8ac2ba7d499",
+    "draw_title": "🎞️  LG NANO AI NU85 85\" 4K Ultra HD Smart TV 🎞️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/lg-nano-ai-nu85-85-4k-ultra-hd-smart-tv",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "3751df82035e0e1710db0207ad051f83dba01285ff1436abe52693ffeff92d38",
+    "drand_seed_hash": "846eecd9c2699eb4b06530a7e6cffd5a7ccc8c42b7c43be3dd48e3a2c82d932f66b0eaf3305134cb4770f9eab69944c7",
+    "client_seed": "1793651887377",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1875,
+    "max_tickets": 1875,
+    "combined_hash": "8622afe46575e52500126e94c835b09389c3f17d0d2c5e1b36d2a39316008c8f",
+    "result": "1637",
+    "external_round_id": "33616177",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:38:07.000000Z",
+    "revealed_at": "2026-11-02T20:38:15.000000Z"
+}
