@@ -1,0 +1,22 @@
+{
+    "round_id": "794d6cda-f098-41cf-bac0-540623345fa6",
+    "draw_title": "Lucky Flips (NEW)",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/lucky-flips-new",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "924893557a43271a3f5a46109973d1492462f83c7d6b409025614fed0061d257",
+    "drand_seed_hash": "aaf880aa4d10dad1bd1691fc7937dfbc75dafc9808be8a8175518b3842cb20712e55c01ecd4c38adfc162f75303e67cc",
+    "client_seed": "1793653852389",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112426,
+    "max_tickets": 400000,
+    "combined_hash": "a8577eba7a48481b4c198130697a075e279a1ddf1db30601ab8d7fbf10f33bc0",
+    "result": "42153",
+    "external_round_id": "33616832",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T21:10:52.000000Z",
+    "revealed_at": "2026-11-02T21:11:00.000000Z"
+}
