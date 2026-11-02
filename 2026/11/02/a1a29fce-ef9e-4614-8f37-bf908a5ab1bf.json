@@ -1,0 +1,22 @@
+{
+    "round_id": "a1a29fce-ef9e-4614-8f37-bf908a5ab1bf",
+    "draw_title": "👶🎰 BABY SLOTS – WIN UP TO £60 INSTANTLY! 💷🍼✨",
+    "competition_url": "https://carleycomps.co.uk/admin/products/baby-slots-win-up-to-ps60-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "b4a4bb26bd203e49c8a6a0fec2edaa4a0a3b8600527389e15c06ab8ba493cd44",
+    "drand_seed_hash": "b28a5698ca4b1338435c342c66a53a6aa9b32103412e9bc1cf053b695a29005f3ac63bb5fbe674126e3aa4ffa4a2529c",
+    "client_seed": "1793628218757",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8005,
+    "max_tickets": 99999,
+    "combined_hash": "c088ca3c93443591a61363defd41c9ad90277b5b4ddc3258957f4a807bfc60ec",
+    "result": "16440",
+    "external_round_id": "33608287",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T14:03:38.000000Z",
+    "revealed_at": "2026-11-02T14:03:45.000000Z"
+}
