@@ -1,0 +1,22 @@
+{
+    "round_id": "b2e5f31d-47c9-4e0c-9be9-1167d10e66fa",
+    "draw_title": "🍂AUTUMN ABUNDANCE✨",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/autumn-abundance",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "6336b2825299ff1bd7053aa3aea610f6d429211fed19cc52bcd30c495cadfdce",
+    "drand_seed_hash": "969a7b751b7a65f97edc8c4499a66cd285710fb3b1da511b647b150877f6487626570eeb0d8e3c35f4f327ceecd236e0",
+    "client_seed": "1793652727698",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 205390,
+    "max_tickets": 250000,
+    "combined_hash": "c329215d9cd7505f480ba130f2e610d7397f78f96a0d2e5aae7d1cfd9205aee5",
+    "result": "204468",
+    "external_round_id": "33616456",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:52:07.000000Z",
+    "revealed_at": "2026-11-02T20:52:12.000000Z"
+}
