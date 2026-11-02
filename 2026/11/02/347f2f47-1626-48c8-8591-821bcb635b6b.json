@@ -1,0 +1,22 @@
+{
+    "round_id": "347f2f47-1626-48c8-8591-821bcb635b6b",
+    "draw_title": "Chase The Rainbow",
+    "competition_url": "https://jetcomps.co.uk/admin/products/chase-the-rainbow",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "e6a5a5182a3f0f59b4c0dcf9c8506c69f7d7520d5e43ef8c31e36d2cb78bd23c",
+    "drand_seed_hash": "97d05e534f2587fda90273ee94bc4fde4a8ac27adc17865606606e0e45c7a233b438d4b255b6e6fc91ccba1de6865432",
+    "client_seed": "1793650676968",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136991,
+    "max_tickets": 465000,
+    "combined_hash": "7a81b8cfa8cce5e62f7c666e50d83793dc9bbfb26e683c50891ae5802f3442a3",
+    "result": "265483",
+    "external_round_id": "33615773",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:17:57.000000Z",
+    "revealed_at": "2026-11-02T20:18:03.000000Z"
+}
