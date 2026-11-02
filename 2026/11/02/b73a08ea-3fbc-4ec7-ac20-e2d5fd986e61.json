@@ -1,0 +1,22 @@
+{
+    "round_id": "b73a08ea-3fbc-4ec7-ac20-e2d5fd986e61",
+    "draw_title": "JELLY CAT SURPRISE - £100 END PRIZE",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/jelly-cat-surprise-ps100-end-prize",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "f59dc5d584eb3fcb2a90997f5c00eb904cbb9d5618dc372ab254caf4ea8a67ef",
+    "drand_seed_hash": "815adeb725fd54b15db22dcb48f743a6e38e189c66c777f3ba110d9ee8df9f9d4112af5e3ccdd7f3ccf7496df9ea4d6d",
+    "client_seed": "1793650648150",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1830,
+    "max_tickets": 7500,
+    "combined_hash": "971f3716dc23770ba849106e0340b02413e49de22837edb872786c7470465adb",
+    "result": "6320",
+    "external_round_id": "33615764",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:17:28.000000Z",
+    "revealed_at": "2026-11-02T20:17:36.000000Z"
+}
