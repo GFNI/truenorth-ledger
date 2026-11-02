@@ -1,0 +1,22 @@
+{
+    "round_id": "4da05548-7b2f-4f86-a41d-4d16b6e9a2c0",
+    "draw_title": "30k pumpkin smash - 1 in 6 Pumpkins win",
+    "competition_url": "https://giveawaycompetition.com/admin/products/30k-pumpkin-smash-1-in-6-pumpkins-win",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "3d10f59035d97ddeabae158f2fd32fa6abca4a1ba63de76359db4599104e31cd",
+    "drand_seed_hash": "8474cab69780003dd27a75945de7a28e090a367d9ea1692545749bac4ac78db6b3d2156d0661b132b88530a155754f7f",
+    "client_seed": "1793656254959",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9012,
+    "max_tickets": 25000,
+    "combined_hash": "6b2b237ae9dbd0e55f455d4f4afdd3bcfeac01b93d8280291256e444da958d3b",
+    "result": "228",
+    "external_round_id": "33617633",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T21:50:55.000000Z",
+    "revealed_at": "2026-11-02T21:51:03.000000Z"
+}
