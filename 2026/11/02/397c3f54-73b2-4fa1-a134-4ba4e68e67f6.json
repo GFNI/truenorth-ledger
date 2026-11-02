@@ -1,0 +1,22 @@
+{
+    "round_id": "397c3f54-73b2-4fa1-a134-4ba4e68e67f6",
+    "draw_title": "📱 APPLE iPhone 18 Pro Max 256GB + AirPods 5 with Wireless Charging Case 📱",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-iphone-18-pro-max-256gb-airpods-5-with-wireless-charging-case",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0579f42e6d45214eb6452fadd4bc2b0a4104997a4f8fb3c6b32990733f8500ae",
+    "drand_seed_hash": "add678806973359aa9dd8549f4bc7f9c04c8f4ef46f1edf62dfd397596a7705ec23f7a4f1f1cd8c365d6f1885814b80a",
+    "client_seed": "1793651643649",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2400,
+    "max_tickets": 2400,
+    "combined_hash": "2a6c54feb8eaf7f2790723311536e968289154645d0ec985c68e2dc4e67b4581",
+    "result": "2379",
+    "external_round_id": "33616095",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:34:03.000000Z",
+    "revealed_at": "2026-11-02T20:34:09.000000Z"
+}
