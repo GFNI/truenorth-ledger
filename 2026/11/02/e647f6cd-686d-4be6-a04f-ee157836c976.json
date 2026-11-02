@@ -1,0 +1,22 @@
+{
+    "round_id": "e647f6cd-686d-4be6-a04f-ee157836c976",
+    "draw_title": "Big Balls Bingo - £200 Autodraw + Instawin up to £1500!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/big-balls-bingo-ps200-autodraw-instawin-up-to-ps1500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "cf816202b2e4c140788b1adc712ae04287c0a57eb2ae344bb4e1a72b2dc6c3a7",
+    "drand_seed_hash": "9453c5796a9fbb872eaf2baa8b61ddf7ede1eebfd1bb609fda6a93481598301a9d28a08f04f16c00c91c980e2de437a7",
+    "client_seed": "1793650224172",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14744,
+    "max_tickets": 15000,
+    "combined_hash": "b10f7a2e3f39e467cefaca1c0eae93dadc5ce0eb56df96d5318dc61a6d14ffff",
+    "result": "6346",
+    "external_round_id": "33615622",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:10:24.000000Z",
+    "revealed_at": "2026-11-02T20:10:30.000000Z"
+}
