@@ -1,0 +1,22 @@
+{
+    "round_id": "ef58fcfc-bc4b-43a0-8950-edd6c5e15708",
+    "draw_title": "The Bounty Hunt",
+    "competition_url": "https://chaotic.co.uk/competition/the-bounty-hunt-7011",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "445b44c65290193c5697380428d11ce60b4ed753feededc5b91d5e0ce17b97f2",
+    "drand_seed_hash": "abde7c7fa6fae470dee0d544022ed775883c987a85185345ea57aaf1bafe8e33c716ddfeb1510db6ee5c14808c2d66a9",
+    "client_seed": "1793653327446",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600000,
+    "max_tickets": 600000,
+    "combined_hash": "2439dcb313594cd67cf479994edad1cbbc5b13d8efba7b52413d6bd8af793d8d",
+    "result": "154213",
+    "external_round_id": "33616657",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T21:02:07.000000Z",
+    "revealed_at": "2026-11-02T21:02:15.000000Z"
+}
