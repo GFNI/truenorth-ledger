@@ -1,0 +1,22 @@
+{
+    "round_id": "c8e3eb59-4e1b-40f7-af13-6d55ed4b15e4",
+    "draw_title": "Space Explorer",
+    "competition_url": "https://chaotic.co.uk/competition/space-explorer-9747",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "94f071f275af8a5e5df69c80250351b2cf7e1c901c43eb394dc87b64f9c65a1f",
+    "drand_seed_hash": "958e4d406bb44cf2e9c418def3b449350cd107ac5e47287b529911ee872d6ed73882efefcc90df55638362bd5fd892c9",
+    "client_seed": "1793652044769",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1999999,
+    "max_tickets": 1999999,
+    "combined_hash": "96cac72fecea08bb651ad1684736f9cc44bee255a91b82082869e2eedc8c4ba7",
+    "result": "1623079",
+    "external_round_id": "33616229",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:40:44.000000Z",
+    "revealed_at": "2026-11-02T20:40:51.000000Z"
+}
