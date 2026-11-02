@@ -1,0 +1,22 @@
+{
+    "round_id": "7c10da9d-9fb9-46b8-9b6b-5e37fb3917fe",
+    "draw_title": "ONE PENNY 3x DELKIM EV-R SET",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/one-penny-3x-delkim-ev-r-set",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "10dee7bc3b3f4e42efc8d8560c121e598efe5c1f34f8548bc0092d644dcf6dc3",
+    "drand_seed_hash": "816fc7cd71726cfc06ed8f670ef046f568424ae67c432c342a432c3db0ed6335a7fff8823f3843a9dfd9eca550e02297",
+    "client_seed": "1793657418670",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47011,
+    "max_tickets": 90000,
+    "combined_hash": "9b3432feac41a386d5ff6519e52d025404a7a9d5f77631df684d9a3f534eca24",
+    "result": "53132",
+    "external_round_id": "33618020",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T22:10:18.000000Z",
+    "revealed_at": "2026-11-02T22:10:24.000000Z"
+}
