@@ -1,0 +1,22 @@
+{
+    "round_id": "682df6b8-8774-429b-ad49-24d748194568",
+    "draw_title": "🆓 £200 \"Active Players\" Only!",
+    "competition_url": "https://optimisedodds.com/admin/products/ps200-active-players-only-2",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "1a65664e9cf63e4f6cb7e1148b77bc875050cb37f0a040e4c046d3b9c4894ecf",
+    "drand_seed_hash": "b95c6929a0e6b5d7a00b7bc11900f396b550a25c4d5825f716e6926da02204871c8c430a512a8ed2e58ca14ba9568347",
+    "client_seed": "1793661021200",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 42,
+    "max_tickets": 50,
+    "combined_hash": "dfa59ce0ff009a4d125812291fe428e2dac39ac56cb584ca262a43ae590ac0a9",
+    "result": "14",
+    "external_round_id": "33619221",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T23:10:21.000000Z",
+    "revealed_at": "2026-11-02T23:10:27.000000Z"
+}
