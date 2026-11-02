@@ -1,0 +1,22 @@
+{
+    "round_id": "217cf69b-498a-4b6c-8254-858eb69053c2",
+    "draw_title": "Win a ninja luxe pro coffee machine!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-ninja-luxe-pro-coffee-machine",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "010ad40a5c86e3420f91968b006bbb73474a0135d48ad4532e33570e5694de76",
+    "drand_seed_hash": "861b6f1279a771703800276693860942784546cc007a7732da51bad5d655758a574d3a0df327a152a213aead28ebdd96",
+    "client_seed": "1793652615891",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1007,
+    "max_tickets": 1799,
+    "combined_hash": "6b0fbbcd63f4c2b010ddb1439052300c2548a29bd45bc9a12be386469f16e00f",
+    "result": "75",
+    "external_round_id": "33616419",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:50:15.000000Z",
+    "revealed_at": "2026-11-02T20:50:21.000000Z"
+}
