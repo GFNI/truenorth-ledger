@@ -1,0 +1,22 @@
+{
+    "round_id": "59873280-97ea-405d-a683-97de21f31a0b",
+    "draw_title": "MONDAY - SPARKLER STASH - £200 CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/monday-sparkler-stash-ps200-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e9db2cd9c6aa74aaebac452adefd52cb66599d1243957ffe84cc2c40551fb570",
+    "drand_seed_hash": "a78c0b40925e0c7c2ae5ab9acd8ca84b473d6a7f0487f9acd6f5a9d29f8772678d75e90f0d07dcffe05446d1ad4e7b2c",
+    "client_seed": "1793627206040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1137,
+    "max_tickets": 1999,
+    "combined_hash": "9090992bcc386760caaa6f3dfb251b6c862824715f95287d72b4d8ab580e0f71",
+    "result": "230",
+    "external_round_id": "33607950",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T13:46:46.000000Z",
+    "revealed_at": "2026-11-02T13:46:54.000000Z"
+}
