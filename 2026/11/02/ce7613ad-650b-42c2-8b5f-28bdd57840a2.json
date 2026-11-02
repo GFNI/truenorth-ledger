@@ -1,0 +1,22 @@
+{
+    "round_id": "ce7613ad-650b-42c2-8b5f-28bdd57840a2",
+    "draw_title": "£10K Christmas Cash Cow",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps10k-christmas-cash-cow",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "6eebc35438f0ab5be77c74ce33e5cc332d39a70fd3a3dd594037beabc02ebbcf",
+    "drand_seed_hash": "97df5f063287103b6b4093a50883185c0ffc2f845f3fba9acf267af731f51a483f9c5ff57389317c60f5246bde2acd0d",
+    "client_seed": "1793653977626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5513,
+    "max_tickets": 7999,
+    "combined_hash": "d730f3bf6d9305e285c4a0600550767d96f4f947835902ddaf40b39461d91e9e",
+    "result": "4606",
+    "external_round_id": "33616873",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T21:12:57.000000Z",
+    "revealed_at": "2026-11-02T21:13:03.000000Z"
+}
