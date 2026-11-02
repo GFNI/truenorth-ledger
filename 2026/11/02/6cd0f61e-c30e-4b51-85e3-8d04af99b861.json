@@ -1,0 +1,22 @@
+{
+    "round_id": "6cd0f61e-c30e-4b51-85e3-8d04af99b861",
+    "draw_title": "Win a Victron Battery Ip22!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-victron-battery-ip22-3",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "8ebd39ca531655feafe0e22ee36e278cd812c00442c00641e7a147575c6d20bf",
+    "drand_seed_hash": "b16ca29c181fb10aa2f5159c337f77227a765173d83be0553f89adb64ba3fa326599a6ffa0b922f29c975e6db0886fbe",
+    "client_seed": "1793651533303",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 251,
+    "max_tickets": 279,
+    "combined_hash": "cce3f0135ca57fe204e1a1f640577a0abd852083b93eac8af536ecc3defbb37b",
+    "result": "139",
+    "external_round_id": "33616059",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T20:32:13.000000Z",
+    "revealed_at": "2026-11-02T20:32:21.000000Z"
+}
