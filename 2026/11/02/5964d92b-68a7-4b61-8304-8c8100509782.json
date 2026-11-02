@@ -1,0 +1,22 @@
+{
+    "round_id": "5964d92b-68a7-4b61-8304-8c8100509782",
+    "draw_title": "WIN A £350 MYSTERY BOX",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-ps350-mystery-box-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "de17af546c14947e20f72e71446e52ecc01c2de677489b3f3db382e980cbd834",
+    "drand_seed_hash": "953a56069572366cc52caacfab14ded9a50f0c37471e83652f7d3d5db1e8bde6bd6abfe1d18e98e38ba35b734dc071e3",
+    "client_seed": "1793657484446",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 644,
+    "max_tickets": 1400,
+    "combined_hash": "5541717de9785203cf07e3f3967fd585f1e833a39b658c5a4da2f8c69adbf4a5",
+    "result": "494",
+    "external_round_id": "33618042",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T22:11:24.000000Z",
+    "revealed_at": "2026-11-02T22:11:30.000000Z"
+}
