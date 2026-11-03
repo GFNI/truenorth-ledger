@@ -1,0 +1,22 @@
+{
+    "round_id": "73062c8a-261e-497a-b0bb-5753146b9431",
+    "draw_title": "£5K HOOK A DUCK",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-hook-a-duck",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "33c8452b536db8291aa43ce1056b03143b08f3fdd00fd4b735b6b5ffc8c49b34",
+    "drand_seed_hash": "b2c25e2c4da2690039dc3425bd8146a7518aa2a29c9dd4033910b093a12ac9371d4de62978c0f76bc0069acb352d8d2f",
+    "client_seed": "1793742628660",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72745,
+    "max_tickets": 159999,
+    "combined_hash": "b05fcdbbc0029997c650ba272194a6f62bc6942bd1f5ffbc74a2cd3f5947273c",
+    "result": "98461",
+    "external_round_id": "33646424",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T21:50:28.000000Z",
+    "revealed_at": "2026-11-03T21:50:36.000000Z"
+}
