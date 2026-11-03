@@ -1,0 +1,22 @@
+{
+    "round_id": "71abb740-6e59-42e3-878f-42d23eb07dde",
+    "draw_title": "£10K SHOOTING CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-shooting-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "3aef2f21f4197fc43aa2f5efdfffc25b41981ca5247e191f87dde0bff34c1feb",
+    "drand_seed_hash": "b25b210eb6a7f2e62b4e6934f93ef42a7045caa4352db26f11cd03383f782ef37aac73d01aa68639c585a2fe74beca09",
+    "client_seed": "1793742432172",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24476,
+    "max_tickets": 87500,
+    "combined_hash": "cb97c3d45004dd89da48ab5b03328fbefc64efd83a1faf25520c61b137b99d2d",
+    "result": "25672",
+    "external_round_id": "33646358",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T21:47:12.000000Z",
+    "revealed_at": "2026-11-03T21:47:18.000000Z"
+}
