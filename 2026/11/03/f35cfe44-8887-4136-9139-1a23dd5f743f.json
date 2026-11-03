@@ -1,0 +1,22 @@
+{
+    "round_id": "f35cfe44-8887-4136-9139-1a23dd5f743f",
+    "draw_title": "Win an iPhone 17 256 GB!",
+    "competition_url": "https://the900club.co.uk/admin/products/win-an-iphone-17-256-gb",
+    "operator": {
+        "name": "The 900 Club LTD",
+        "website": "https://the900club.co.uk",
+        "company_number": "SC901243"
+    },
+    "drand_server_seed": "7c1b7c72c3929ee1396e88485052d1cf8c167e216d04a8a8e7968438971c15e8",
+    "drand_seed_hash": "988ed6a311390ed0f6b1801a1595cc92d7f0096e0ab3eb8aa832f34f5dfb21f800f8758abf72075df21d1a27742aa2f0",
+    "client_seed": "1793735004478",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 337,
+    "max_tickets": 900,
+    "combined_hash": "18e999c278c4f7dbabe861c326741cde982c924be05caf10287f5ac2939a05d8",
+    "result": "485",
+    "external_round_id": "33643882",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T19:43:24.000000Z",
+    "revealed_at": "2026-11-03T19:43:30.000000Z"
+}
