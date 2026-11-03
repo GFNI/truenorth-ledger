@@ -1,0 +1,22 @@
+{
+    "round_id": "005db50e-8d4d-4a8c-aed4-8c9f1d556e93",
+    "draw_title": "BANGERS AND CASH 🧨💥💷 £500 END PRIZE! PLUS INSTANT WINS! 💰",
+    "competition_url": "https://lockoscompetitions.com/admin/products/bangers-and-cash-ps500-end-prize-plus-instant-wins",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "7ed6b417d2142aaa3b1321279cfb534a212d4a64f0facdc99108e5c993036fe4",
+    "drand_seed_hash": "a94a12a7153a0a6232bc4e55cde80a0a66cddd7e54fc746e14d518161b31a3618318497d633e512b6dbd4825de982f0a",
+    "client_seed": "1793737889589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 92134,
+    "max_tickets": 310000,
+    "combined_hash": "39ff767b309ba3fcc4ed36b9f4fbfa9fb27ef93c7e683d735543b2b2b37bef79",
+    "result": "286154",
+    "external_round_id": "33644844",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T20:31:29.000000Z",
+    "revealed_at": "2026-11-03T20:31:36.000000Z"
+}
