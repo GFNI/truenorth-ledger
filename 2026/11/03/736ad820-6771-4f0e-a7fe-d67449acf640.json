@@ -1,0 +1,22 @@
+{
+    "round_id": "736ad820-6771-4f0e-a7fe-d67449acf640",
+    "draw_title": "£500 Cash",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps500-cash-3",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f66d9d1c1df57c1236f3674eee43e0e768146c6ebc2ea37dffb08b022ac8a419",
+    "drand_seed_hash": "ae892bac625ca2e946697ff50f12f0c60f54b696732b84c9f8123b6cbaf444b2d061b0ba6f5a75af706be72dc4b92b80",
+    "client_seed": "1793740222738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18180,
+    "max_tickets": 25000,
+    "combined_hash": "20d5d412701e1918d9af72a3cae17181a8ffcc824f23c384aaba0ae1731a35d9",
+    "result": "13081",
+    "external_round_id": "33645621",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T21:10:22.000000Z",
+    "revealed_at": "2026-11-03T21:10:27.000000Z"
+}
