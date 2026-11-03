@@ -1,0 +1,22 @@
+{
+    "round_id": "aae74d25-bde4-45fd-8950-7d3bc1464b88",
+    "draw_title": "[AutoTest TN] Ordinary draw",
+    "competition_url": "https://preview/admin/products/autotest-tn-ordinary",
+    "operator": {
+        "name": "Preview",
+        "website": "https://preview",
+        "company_number": "1234567"
+    },
+    "drand_server_seed": "8f2a5d3a5235992950693424d96dd525c7c33d0efc3eb6a9d42b3cb8b52109c9",
+    "drand_seed_hash": "a125ad44f5cc647605e240a1ea7cb3a2a8dc1afc2b1e73c6eef99a852c3c5ad0b625a483f32d8999da5205c063a61a72",
+    "client_seed": "1793749149846",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 1000,
+    "combined_hash": "fe03c17b2c8821fd984f6794a674c9a5ff22cc04c03f152e128095ba5072bbf1",
+    "result": "39",
+    "external_round_id": "33648597",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T23:39:09.000000Z",
+    "revealed_at": "2026-11-03T23:39:15.000000Z"
+}
