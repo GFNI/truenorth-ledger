@@ -1,0 +1,22 @@
+{
+    "round_id": "cc6e9a44-19d7-4eb4-a578-de000a7bff40",
+    "draw_title": "THE TICKET EATER: WIN FREE TICKET BUNDLES UP TO 150 + £150 END PRIZE",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-ticket-eater-win-free-ticket-bundles-up-to-150-ps150-end-prize",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "5e31a8e6ceb27b702e22d7c2170c319b66b4ba27976d304aaa76c4a7d6872139",
+    "drand_seed_hash": "9175bd8e97679056c242fc4fd7d2cb125fd95d79ed99a284151e2bdcdaad9934d5bf02a9f9a53c63676a8d2ec045c777",
+    "client_seed": "1793734700925",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 444,
+    "max_tickets": 3000,
+    "combined_hash": "086a09d52fba39a7209082ad751dd27579ad2c2c636543a2dda5fd639716cf96",
+    "result": "2977",
+    "external_round_id": "33643781",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T19:38:21.000000Z",
+    "revealed_at": "2026-11-03T19:38:27.000000Z"
+}
