@@ -1,0 +1,22 @@
+{
+    "round_id": "efa17cf7-8519-4898-be3f-7f1dfdf2ef40",
+    "draw_title": "MIDDAY MADHOUSE 🤯- WIN THE ASP 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/midday-madhouse-win-the-asp-95k-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "479cdd5ea0e3af18965732d7618cf723edbdae486c8aafdbaeb5f7cd3678d9a1",
+    "drand_seed_hash": "92e2cb4771643b89e92df5a281bf8fc8b28c806c42072f3afa8b2de1ad06691bf7404e526d1fa8c6f896349324fa44b6",
+    "client_seed": "1793707824607",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 226,
+    "max_tickets": 320,
+    "combined_hash": "deb4aa0745988d4abab40a805fe9bf1039e85c42d98dd8c6e1da5d968d60e7e2",
+    "result": "95",
+    "external_round_id": "33634822",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T12:10:24.000000Z",
+    "revealed_at": "2026-11-03T12:10:30.000000Z"
+}
