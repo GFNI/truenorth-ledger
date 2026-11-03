@@ -1,0 +1,22 @@
+{
+    "round_id": "7cf8264b-665a-4729-835f-428dec2d086b",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into £20,000 Cash Main Draw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-ps20000-cash-main",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1f2318232427d0257f66f1d34a70112cfe59d5d616a64cdea002d0b05b1ff60a",
+    "drand_seed_hash": "93ae0fa50a4c245d3890950b3a0ddcc7708a76a407f9537ff0dc698d47b91871c5496b34fe4c32959637a406437d7e70",
+    "client_seed": "1793740317807",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "d8703341501cf8e7814ab760b6cd9afbd79e974b0d7d1d36d25cf85d3976323f",
+    "result": "65",
+    "external_round_id": "33645653",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T21:11:57.000000Z",
+    "revealed_at": "2026-11-03T21:12:03.000000Z"
+}
