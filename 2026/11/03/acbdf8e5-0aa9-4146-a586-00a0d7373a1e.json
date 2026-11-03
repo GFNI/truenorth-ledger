@@ -1,0 +1,22 @@
+{
+    "round_id": "acbdf8e5-0aa9-4146-a586-00a0d7373a1e",
+    "draw_title": "🏆 RACE FOR RICHES 🏆",
+    "competition_url": "https://topdogprizes.com/admin/products/race-for-riches",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "b5296d8570f4158e04b8cfcad96041d300d899bf5002dcd436d92c1df6a3fdc2",
+    "drand_seed_hash": "b8b68c757cc93fd36bea2f4b1b6225c648dd0860cc22dfb0752fbe184f3af08d567e0a0cf0cbe42e9f5ca52ebd7b8793",
+    "client_seed": "1793737717443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8766,
+    "max_tickets": 80000,
+    "combined_hash": "b62600f276bb21a8996af1fba390a0e82559326e78e9ef39b1145a491da6e624",
+    "result": "16183",
+    "external_round_id": "33644787",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T20:28:37.000000Z",
+    "revealed_at": "2026-11-03T20:28:45.000000Z"
+}
