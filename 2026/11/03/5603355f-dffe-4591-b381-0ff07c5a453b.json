@@ -1,0 +1,22 @@
+{
+    "round_id": "5603355f-dffe-4591-b381-0ff07c5a453b",
+    "draw_title": "WIN SIGNED Chizzy Series 4 QP 90% Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-signed-chizzy-series-4-qp-90-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "976307cdfa5eb265bce28b029c0d46b8c2c300ee1c6ca019453abf2891b58bda",
+    "drand_seed_hash": "b87d2cfed8f0fa2e9d902f29ba62f7c781784d3ec273810ec73dc3fd46313458826734467fe2f0d831beca6714c701a6",
+    "client_seed": "1793738275683",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 39,
+    "max_tickets": 55,
+    "combined_hash": "25487f58046e047f6cdb2541cfd8cc470b6860365c9e8a316f48bb0c9da73912",
+    "result": "55",
+    "external_round_id": "33644973",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T20:37:55.000000Z",
+    "revealed_at": "2026-11-03T20:38:03.000000Z"
+}
