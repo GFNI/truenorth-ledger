@@ -1,0 +1,22 @@
+{
+    "round_id": "748a1c6d-cb98-4b7e-b821-05d77250e6d8",
+    "draw_title": "Trick Or Treat Spin to Win",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/trick-or-treat-spin-edition",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "2eb21ea820d184d3c365c6743de162e5279032441280ab4c2a91ba9f3aac798b",
+    "drand_seed_hash": "99972278f0305685bdbd6994a6a14de6b023bf7b46ca92dda0869b645ca94aad30c013451b02194a8c6f62611dc0aab9",
+    "client_seed": "1793700930502",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 566,
+    "max_tickets": 30000,
+    "combined_hash": "dc6b932bc674b36045385ed9313820f9b628b7e8a3294a935bb68947763f0e28",
+    "result": "11693",
+    "external_round_id": "33632524",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T10:15:30.000000Z",
+    "revealed_at": "2026-11-03T10:15:36.000000Z"
+}
