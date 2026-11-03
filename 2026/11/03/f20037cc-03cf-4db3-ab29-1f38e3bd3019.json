@@ -1,0 +1,22 @@
+{
+    "round_id": "f20037cc-03cf-4db3-ab29-1f38e3bd3019",
+    "draw_title": "IPHONE 18 PRO🍎📲",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/iphone-18-pro",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "827a321b4b0478547f2e425b88ca39b1082c49da4101e4141353e8a64d198e0c",
+    "drand_seed_hash": "94c5ea93d060b38545eeba75d63274077ee789f0ff2ee27a16385515bebdc0ebd5aea14fbb82ebe55676fda73c3f7856",
+    "client_seed": "1793728755462",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2750,
+    "max_tickets": 2750,
+    "combined_hash": "7c7801d123506741b59cd5c45d7eb5fe8acb77dfcae9732b091d373aee6a21ba",
+    "result": "1275",
+    "external_round_id": "33641799",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T17:59:15.000000Z",
+    "revealed_at": "2026-11-03T17:59:21.000000Z"
+}
