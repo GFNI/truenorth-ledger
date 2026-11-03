@@ -1,0 +1,22 @@
+{
+    "round_id": "a6e89a90-1d46-4325-95a8-f64bc3c90241",
+    "draw_title": "WIN ROB CROSS 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-rob-cross-95k-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "9dc1f594b1bba38e8bfb19ba22a63593c6fa15d550d79b6c168b10f7b99c7bae",
+    "drand_seed_hash": "942db7b3102dd5291746d72b5459d68ed39a9b9b8cab58f5486ec624b8bef573d36e89ae126bb711cc07798827cbe315",
+    "client_seed": "1793738576715",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 120,
+    "combined_hash": "71a60b93d9e78729f20ae36f29a6c104de47f80ba2ca6866b7ae5c28a64cfd22",
+    "result": "18",
+    "external_round_id": "33645073",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T20:42:56.000000Z",
+    "revealed_at": "2026-11-03T20:43:03.000000Z"
+}
