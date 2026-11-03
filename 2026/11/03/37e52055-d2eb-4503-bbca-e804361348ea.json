@@ -1,0 +1,22 @@
+{
+    "round_id": "37e52055-d2eb-4503-bbca-e804361348ea",
+    "draw_title": "PAMP SUISSE ROSE 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/pamp-suisse-rose-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "9ae79898274f0d47b9ddb6b0201bd15358b8ad8d1245e599dc6c39d88ac72f28",
+    "drand_seed_hash": "a84efd43e287610e274f097ebac990b7c4f9ef02c43f124c971136e877e3b2fd84ea448df5641b5cff71fb7a412f45ce",
+    "client_seed": "1793750118552",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 100,
+    "combined_hash": "a676b11386af0340a732130a7d0d5091d949493551b9d8685de83916526a9154",
+    "result": "51",
+    "external_round_id": "33648920",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T23:55:18.000000Z",
+    "revealed_at": "2026-11-03T23:55:24.000000Z"
+}
