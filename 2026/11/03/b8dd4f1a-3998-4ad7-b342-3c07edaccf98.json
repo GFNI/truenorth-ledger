@@ -1,0 +1,22 @@
+{
+    "round_id": "b8dd4f1a-3998-4ad7-b342-3c07edaccf98",
+    "draw_title": "WIN Star Wars Target Darth Vader SP 95% Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-star-wars-target-darth-vader-sp-95-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "f8d618d33625d9eba950cc314bd037953f2f8383b0f10a0101f4504c9afa4cb0",
+    "drand_seed_hash": "b70eb04767cb1c9803183851e0c29ac7d74b2f5898cef23903a942b74d72c2645693ed37d5863bcd5512e89b4bed492a",
+    "client_seed": "1793738653576",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 150,
+    "combined_hash": "d2cb2651077071104663281dca04f93d71c0275defc496535e74ef713f2348cd",
+    "result": "143",
+    "external_round_id": "33645099",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T20:44:13.000000Z",
+    "revealed_at": "2026-11-03T20:44:21.000000Z"
+}
