@@ -1,0 +1,22 @@
+{
+    "round_id": "99d6851a-d0a8-42ad-8bc3-dcb327741f04",
+    "draw_title": "1oz Liberty Bell Fine Silver Bar or £50 Cash!",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1oz-liberty-bell-fine-silver-bar-or-ps50-cash",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "6c281ec8f41774d86b57e2f15dfa02f5af806c8ef6de76629348932715da6c9e",
+    "drand_seed_hash": "999ef1d1fd8d987e192a185bc3c436ea17982daae8a786a1d396d9a421adea9bddbe0b5100dda7913bbea2c353881614",
+    "client_seed": "1793663727480",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 100,
+    "combined_hash": "5327baa22ccc4f85744a6c40820c432541f325ea2de9402ccb39bb78e34929c0",
+    "result": "56",
+    "external_round_id": "33620123",
+    "processing_status": "completed",
+    "created_at": "2026-11-02T23:55:27.000000Z",
+    "revealed_at": "2026-11-02T23:55:33.000000Z"
+}
