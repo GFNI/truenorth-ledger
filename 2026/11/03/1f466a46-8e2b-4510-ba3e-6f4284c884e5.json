@@ -1,0 +1,22 @@
+{
+    "round_id": "1f466a46-8e2b-4510-ba3e-6f4284c884e5",
+    "draw_title": "£200 Smyths Gift Card With Instants",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps200-smyths-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "32535836d5865a8ab927da3e994a770ac5ea86288f3c51437bd294ba8ba3ecc6",
+    "drand_seed_hash": "915b95c698d4e4d9f8610723b0275ff1f786652a0ed6bb625ce665276e606afa971c6ce2ec3e9477330f664f30b25321",
+    "client_seed": "1793706532557",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 325,
+    "combined_hash": "a4e9c204a7d85ee4ac7a48affcbc24cacab59ec42dc759215dfb07dcc8ad206a",
+    "result": "261",
+    "external_round_id": "33634392",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T11:48:52.000000Z",
+    "revealed_at": "2026-11-03T11:49:02.000000Z"
+}
