@@ -1,0 +1,22 @@
+{
+    "round_id": "826b7a72-b68e-4539-84a2-71ad2d542d1f",
+    "draw_title": "FREE £100 CASH",
+    "competition_url": "https://ryscompetitions.com/admin/products/free-ps100-cash",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "0a52619deefd4cc926493b4c5bb29ee9ce83f7ff9bbbf48980b142a85c646995",
+    "drand_seed_hash": "ac151e4af3b2e7f5f6fa8fa1c30d0511b9be0ea3fab474804c7d583074357ebc01c59a8a6d696a84283fd93ace836529",
+    "client_seed": "1793697937519",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 355,
+    "max_tickets": 400,
+    "combined_hash": "f591c08e3acf3d3fb1627831fa0b4b080b94089f922cd3c528e3c5c09aa7b026",
+    "result": "150",
+    "external_round_id": "33631527",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T09:25:37.000000Z",
+    "revealed_at": "2026-11-03T09:25:45.000000Z"
+}
