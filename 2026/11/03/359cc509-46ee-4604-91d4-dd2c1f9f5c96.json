@@ -1,0 +1,22 @@
+{
+    "round_id": "359cc509-46ee-4604-91d4-dd2c1f9f5c96",
+    "draw_title": "MEGA LOW ODDS - Win a £1,000 Golden Ticket Into £20,000 Cash draw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/mega-low-odds-win-a-ps1000-golden-ticket-into-ps20000-cash-draw",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "da46c5e1feea8006413382863ace4dc3b92f67316c2e5149ef0a737acb87d0db",
+    "drand_seed_hash": "b0cdbe9df442957b1d0317728e361de24a705d8cb93fe11b77c0a04c11d0f2b7797739d303a4d5a0c40bba46b941c6d8",
+    "client_seed": "1793740244794",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 100,
+    "combined_hash": "5c0da0a587bfd8c2434adc8e09bdb7edb87a66520c35a9b9966571f50782d1fb",
+    "result": "21",
+    "external_round_id": "33645629",
+    "processing_status": "completed",
+    "created_at": "2026-11-03T21:10:44.000000Z",
+    "revealed_at": "2026-11-03T21:10:51.000000Z"
+}
