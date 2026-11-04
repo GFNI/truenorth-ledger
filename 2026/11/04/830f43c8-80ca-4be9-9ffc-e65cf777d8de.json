@@ -1,0 +1,22 @@
+{
+    "round_id": "830f43c8-80ca-4be9-9ffc-e65cf777d8de",
+    "draw_title": "DICE  OF THE DEAD - X YOUR ROLL BY 10 OR 100!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/dice-of-the-dead-x-your-roll-by-10-or-100",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "0340ca156406375e443d9fca42f26afe6a131b128a983a14e83e8c1d0525857b",
+    "drand_seed_hash": "a05cf20c195f6e0a25d91887827bb883fb5bcfda2ba8a29f7a9116c5450a5ff6e2121a7b44d42c76c99824588258739b",
+    "client_seed": "1793823444005",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2307,
+    "max_tickets": 8999,
+    "combined_hash": "33e0550f57f2d548aaff80664836987bb6a30ecee65a32b7ca23113170ca87f8",
+    "result": "4786",
+    "external_round_id": "33673362",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:17:24.000000Z",
+    "revealed_at": "2026-11-04T20:17:30.000000Z"
+}
