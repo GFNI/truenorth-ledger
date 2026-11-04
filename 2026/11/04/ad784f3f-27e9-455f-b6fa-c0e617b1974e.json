@@ -1,0 +1,22 @@
+{
+    "round_id": "ad784f3f-27e9-455f-b6fa-c0e617b1974e",
+    "draw_title": "WIN THIS DALMORE CIGAR MALT 18 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-dalmore-cigar-malt-18-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "6ab4cb4e9c5aeee9444b5c30758f47adb75e18eeac06efb44fa4767cb47de95c",
+    "drand_seed_hash": "b9abc432f5b59452e920bdbe394203c50b79db50af381fb038d98afa624f23a2a969c058e3ee33a9da91f77942c46c14",
+    "client_seed": "1793827920516",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43,
+    "max_tickets": 100,
+    "combined_hash": "bed5913579aebd228fca03c995d57e840e14654f8f39c347a2985454f14eaa92",
+    "result": "87",
+    "external_round_id": "33674854",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:32:00.000000Z",
+    "revealed_at": "2026-11-04T21:32:06.000000Z"
+}
