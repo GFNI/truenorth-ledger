@@ -1,0 +1,22 @@
+{
+    "round_id": "8028fbdd-eb08-434e-a100-f3144c72d7dd",
+    "draw_title": "Scratch N Sniff Instant Wins comp!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/scratch-n-sniff-instant-wins-comp",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "d1b68bc52bbd3f4619441cad19db95c3cb0dd1903d80db24f53699bca9c6129f",
+    "drand_seed_hash": "aad05d9ee0e36708643ca748d515aa3eb9dfb416144a1b6b678f83c77c626bc992e646a2151cc82c0b5f6c60154f077d",
+    "client_seed": "1793824668618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59999,
+    "max_tickets": 59999,
+    "combined_hash": "ea15573f88fdb5cb814f07dd569f3d64bb91142a14a0786918ce3427aaeab12a",
+    "result": "29562",
+    "external_round_id": "33673770",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:37:48.000000Z",
+    "revealed_at": "2026-11-04T20:37:54.000000Z"
+}
