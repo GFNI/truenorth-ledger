@@ -1,0 +1,22 @@
+{
+    "round_id": "3cd9ecc7-3390-4eda-a3d0-899fae2e9524",
+    "draw_title": "FIND FREDDY: £500 PRIZES ONLY!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/find-freddy-ps500-prizes-only",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "06d20309d406b8a36c163cc09bd9d9c8fd6bae8d0c02d142ac6cdf8cc858e0b3",
+    "drand_seed_hash": "b620fb9ad00bac7d075f93358c4af383173fc585e26acd4c1c2ba577e36b5a90c83a4b0842b06faf7cd475febcdc83aa",
+    "client_seed": "1793823124184",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27763,
+    "max_tickets": 150000,
+    "combined_hash": "7f7425637498a811e0394e558b33d5fa9f4781641285e971691e12a07d08edb2",
+    "result": "49040",
+    "external_round_id": "33673256",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:12:04.000000Z",
+    "revealed_at": "2026-11-04T20:12:12.000000Z"
+}
