@@ -1,0 +1,22 @@
+{
+    "round_id": "58a7a0a5-01c9-42e9-bf10-e4ca11c6c81c",
+    "draw_title": "Nightmare On Skyline Street",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/nightmare-on-skyline-street",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "d583e456ab2100b448c8e480e4262db4c025343d7e18c87d54ac367f49056016",
+    "drand_seed_hash": "b0d8af897ec188e98b143735849c32ab168069e4fd752c1a66537bb99753d44657289b47d435afd6243a4cb0460bc11a",
+    "client_seed": "1793796324249",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54305,
+    "max_tickets": 75000,
+    "combined_hash": "30a6a9c25c0e9f7732aa84522095bc4f79587a3685b7018ce123aee7f71a00c9",
+    "result": "23033",
+    "external_round_id": "33664322",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T12:45:24.000000Z",
+    "revealed_at": "2026-11-04T12:45:30.000000Z"
+}
