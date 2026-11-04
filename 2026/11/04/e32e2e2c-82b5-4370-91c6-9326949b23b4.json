@@ -1,0 +1,22 @@
+{
+    "round_id": "e32e2e2c-82b5-4370-91c6-9326949b23b4",
+    "draw_title": "Payday Party!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/payday-party-2",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "a9abffe1bd1c090f1ca4c4afa884567beb2355916e0f0971f57647e08793bb25",
+    "drand_seed_hash": "836f8c3f98389f941ffebc07cdf941aa0a35bb79fe209e230aa7ea843ef113afce22a13b53ccae428334156af889b54c",
+    "client_seed": "1793824718068",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1666224,
+    "max_tickets": 1799999,
+    "combined_hash": "8bdc9d937ac9d53e76e4721ca7c574602bf7536b3588edf2dc493b7b3d97d2a4",
+    "result": "1597739",
+    "external_round_id": "33673787",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:38:38.000000Z",
+    "revealed_at": "2026-11-04T20:38:45.000000Z"
+}
