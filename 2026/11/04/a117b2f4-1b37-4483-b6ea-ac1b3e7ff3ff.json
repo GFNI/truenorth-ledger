@@ -1,0 +1,22 @@
+{
+    "round_id": "a117b2f4-1b37-4483-b6ea-ac1b3e7ff3ff",
+    "draw_title": "£100 Cash — Weekly Free Draw",
+    "competition_url": "https://winraff.co.uk/admin/products/100-cash-weekly-free-draw-28-october",
+    "operator": {
+        "name": "Winraff Ltd",
+        "website": "https://winraff.co.uk",
+        "company_number": "16633512"
+    },
+    "drand_server_seed": "105e990c12ff968939b9bfffccc181ea624e04d61dc96146ea1cf5a20c1fd8d0",
+    "drand_seed_hash": "8c8d9e7c35a5aa66f12873b622bb0bf38bc012987af7bbb172f8cd1651600c4a5ea318866fb551d9f14037c94ea09344",
+    "client_seed": "1793751028315",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 100,
+    "combined_hash": "6bddbaa87d5a36d0abca370f9009f4ceeac9ad8e15250f5a0d43c6a1e565bbc0",
+    "result": "68",
+    "external_round_id": "33649224",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T00:10:28.000000Z",
+    "revealed_at": "2026-11-04T00:10:36.000000Z"
+}
