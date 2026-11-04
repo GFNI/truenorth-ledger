@@ -1,0 +1,22 @@
+{
+    "round_id": "c4486ca8-121b-415c-93ea-ba396332e385",
+    "draw_title": "THE TICKET BUNDLE CAULDRON - 60 BUNDLES TO FIND!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/the-ticket-bundle-cauldron-60-bundles-to-find",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "04864e019c869316c72a12a866136b7b092f48e8b4152b6135bd5a1d9fc15b48",
+    "drand_seed_hash": "8c2bdb4af53214e20bfafef2f2723a5d312c75e7128ea365c442acc7f90bdd250430102778aa7280d144c5f92217b475",
+    "client_seed": "1793823209530",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37303,
+    "max_tickets": 100000,
+    "combined_hash": "3256685a6fb1601d260b67a3b41e6cd4bf84c1d7be447821ff9cc06924f3ef8c",
+    "result": "87251",
+    "external_round_id": "33673284",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:13:29.000000Z",
+    "revealed_at": "2026-11-04T20:13:36.000000Z"
+}
