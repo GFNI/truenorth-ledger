@@ -1,0 +1,22 @@
+{
+    "round_id": "2a55f723-2f43-464b-a713-e043dc5bfd93",
+    "draw_title": "test draw",
+    "competition_url": "https://redhotraffles.rafflex.uk/admin/products/test-draw",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "c5e44dce69622b8e97756f8834f1e000147e526566863176ce1d9e63bb0b59c9",
+    "drand_seed_hash": "ac8e912daf16541d87f28df13c0d77bcaf8ebebb94d689aac096a71c8c055e25677700849b42ea5186ac4cc4dabc6781",
+    "client_seed": "1793806493611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "3c2654984f6047a909663571903736cf11ead6810560e3f966402636ccf614aa",
+    "result": "5",
+    "external_round_id": "33667712",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T15:34:53.000000Z",
+    "revealed_at": "2026-11-04T15:35:00.000000Z"
+}
