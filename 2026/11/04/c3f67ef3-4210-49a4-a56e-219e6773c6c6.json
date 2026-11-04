@@ -1,0 +1,22 @@
+{
+    "round_id": "c3f67ef3-4210-49a4-a56e-219e6773c6c6",
+    "draw_title": "WIN NEW Winmau Gian van Veen W-Max 90% Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-winmau-gian-van-veen-w-max-90-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "e7699fc652be8a1901efd1158e50d8ef806fc6f959b34df38715c8a30adb5f29",
+    "drand_seed_hash": "97364554b432ce98ebbd102deac09bd0cdcef606bec4709d7d08852791ba331cc394a59afba2f15454e4a3729151aef4",
+    "client_seed": "1793830284458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 110,
+    "combined_hash": "62ba3fa41d6e34f9260924e9ac60d6c45a50eaf7619434e6428f4a21c6646b5a",
+    "result": "97",
+    "external_round_id": "33675642",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:11:24.000000Z",
+    "revealed_at": "2026-11-04T22:11:30.000000Z"
+}
