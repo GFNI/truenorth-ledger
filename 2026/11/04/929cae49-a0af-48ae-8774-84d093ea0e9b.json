@@ -1,0 +1,22 @@
+{
+    "round_id": "929cae49-a0af-48ae-8774-84d093ea0e9b",
+    "draw_title": "Win Glenfiddich 18 Year old",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-glenfiddich-18-year-old",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "7a2f03c79c54eb3dba043205ebb144f0ce7269a9545f85f636b8efe863c1d37a",
+    "drand_seed_hash": "954ff324f71d2d01af21360dcbb7082f49f426dd8c5acaad8e05bf863d4c93d40edce9a6210639a8832ef9e8dfdab64c",
+    "client_seed": "1793830332612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 222,
+    "max_tickets": 499,
+    "combined_hash": "cb433b8559c0238da7c009f0639ccfc68b3ac1b4357c3d8ab627ed45ca38b507",
+    "result": "174",
+    "external_round_id": "33675658",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:12:12.000000Z",
+    "revealed_at": "2026-11-04T22:12:18.000000Z"
+}
