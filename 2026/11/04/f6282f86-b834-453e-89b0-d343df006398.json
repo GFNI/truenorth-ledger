@@ -1,0 +1,22 @@
+{
+    "round_id": "f6282f86-b834-453e-89b0-d343df006398",
+    "draw_title": "WIN A 2 MONTH SUPPLY OF RED BULL",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/win-a-2-month-supply-of-red-bull",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "9514b7362a79bd0c6aadec72d58c9c6007f8e1d1994de841b385b8bc8fe4b099",
+    "drand_seed_hash": "b47b491787e96cd8a16e9c9bfaeb03f76fd5139b8e709d70a37f85c8287218ed7629f88579acd9e90b4d221467748b65",
+    "client_seed": "1793823101291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "cff9f2f5f7c65edaa66a5e18c989a2a64cca23cec2684f100f4b6231d4e6ff06",
+    "result": "134",
+    "external_round_id": "33673248",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:11:41.000000Z",
+    "revealed_at": "2026-11-04T20:11:48.000000Z"
+}
