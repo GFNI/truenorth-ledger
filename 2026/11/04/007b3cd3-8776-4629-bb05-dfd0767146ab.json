@@ -1,0 +1,22 @@
+{
+    "round_id": "007b3cd3-8776-4629-bb05-dfd0767146ab",
+    "draw_title": "FREE - RING DOORBELL",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/free-ring-doorbell",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "88064b1f5e8ada1eb730878bb03cf69d6411ae92ea3391ea3a0048bbb0c03aae",
+    "drand_seed_hash": "af0e64c4737bc2c26dd030f2de44318198295fa972b21a5734c1d1ab6ff865214beabd4689a2ed45ccadd3acfb7687fa",
+    "client_seed": "1793827050712",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 145,
+    "max_tickets": 1000,
+    "combined_hash": "065b03b3148957548298db79111087aa15921552364b5546286d53463683fd67",
+    "result": "575",
+    "external_round_id": "33674564",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:17:30.000000Z",
+    "revealed_at": "2026-11-04T21:17:36.000000Z"
+}
