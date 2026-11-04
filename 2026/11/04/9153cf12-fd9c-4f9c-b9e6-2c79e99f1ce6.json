@@ -1,0 +1,22 @@
+{
+    "round_id": "9153cf12-fd9c-4f9c-b9e6-2c79e99f1ce6",
+    "draw_title": "Kids Funbox 3D Printer",
+    "competition_url": "https://thecashkings.co.uk/admin/products/kids-funbox-3d-printer",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "e561bfd403428bcce17a0672e5f319fda85fc262c664eeb3ba6b2032576769cc",
+    "drand_seed_hash": "a8b510e594a2e53afdfbb0da4179e418f448e44e9f37142f12360bc056ea9e755b48f652ca9367e6224812f257fdd3af",
+    "client_seed": "1793775618519",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 780,
+    "max_tickets": 780,
+    "combined_hash": "f635aaedd9a583657b0d7339f1fd49de37dd8a329f17460538f05919d8366bb3",
+    "result": "587",
+    "external_round_id": "33657420",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T07:00:18.000000Z",
+    "revealed_at": "2026-11-04T07:00:24.000000Z"
+}
