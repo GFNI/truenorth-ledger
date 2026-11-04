@@ -1,0 +1,22 @@
+{
+    "round_id": "ec1d1677-d88b-4de3-b357-02b6336c99eb",
+    "draw_title": "WIN Precise180 Endorphine Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-precise180-endorphine-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "c2f3a200820421fd09f63fa8d504fd786dcd011663c740dc61084d6d8fe5e1ab",
+    "drand_seed_hash": "813390c7d7fada38585bc4fe0eb8ac9811b3cb608df97f21bdbc806d422356b7247beed6061cfa482af0cf178799d4da",
+    "client_seed": "1793830290450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 115,
+    "combined_hash": "d8c679e89eff6847a52c47f7c86402447bc57693971c38bd5f9e0fc8a156c069",
+    "result": "68",
+    "external_round_id": "33675644",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:11:30.000000Z",
+    "revealed_at": "2026-11-04T22:11:36.000000Z"
+}
