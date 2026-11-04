@@ -1,0 +1,22 @@
+{
+    "round_id": "7a871564-c388-4797-9ed4-7596eb654ea5",
+    "draw_title": "Mega weekly Autodraw 6 to win ticket Bundle into this weeks live draws on 8/11",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/mega-weekly-autodraw-6-to-win-ticket-bundle-into-this-weeks-live-draws-on",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "3f2724a22a6b0f4b8cff0aa800fb6e26890a087e598889e937c8aeed3122155b",
+    "drand_seed_hash": "93c329602447abd6fbf677a9f39e17e97b25a3dc938378587aa95ceab92d1e0d9812a3699ae58c1dd03e4726d2ce7776",
+    "client_seed": "1793831416057",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "df96caf98db1378b4d4f4c66e35207b1e2538c5b8c04b275740aa5579c518796",
+    "result": "30",
+    "external_round_id": "33676019",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:30:16.000000Z",
+    "revealed_at": "2026-11-04T22:30:21.000000Z"
+}
