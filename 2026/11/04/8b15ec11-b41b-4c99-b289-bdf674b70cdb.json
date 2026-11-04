@@ -1,0 +1,22 @@
+{
+    "round_id": "8b15ec11-b41b-4c99-b289-bdf674b70cdb",
+    "draw_title": "£50 DRAW FROM EVERYONE WINS (DRAW 4TH NOVEMBER)",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/ps50-draw-from-everyone-wins-draw-4th-november",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "7548fa347072ed5049b263de46273316f1ae18656c19ec9303a056ea74b489db",
+    "drand_seed_hash": "9498331e6882670a2e5cde69d21c7f50ebfc27f84ba32e4195c849c9b756a48315f124901d426f695553c215c8adcd1c",
+    "client_seed": "1793824526439",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18390,
+    "max_tickets": 96000,
+    "combined_hash": "1d763e863684c4db313d3ee0ff243a89dc0bec6a6fe6a8bbafd8aa170e8450ae",
+    "result": "80414",
+    "external_round_id": "33673723",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:35:26.000000Z",
+    "revealed_at": "2026-11-04T20:35:33.000000Z"
+}
