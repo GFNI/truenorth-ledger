@@ -1,0 +1,22 @@
+{
+    "round_id": "c9d4fdfe-1093-45ef-85e0-adb285278f4d",
+    "draw_title": "WIN 25 TICKETS INTO £5000 CASH LOW ODDS #4",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-25-tickets-into-ps5000-cash-low-odds-4",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "f04ba4f7ce8bb27ac7094df08afeb1e08a14cd823223565cf4e0025cac7fd547",
+    "drand_seed_hash": "852a828fe25fc758ea2b4b9328b4b7d6330fa4e6b33cea04fca8278d2ee62b29f8aade260b2135d69beb100bf4c38ff3",
+    "client_seed": "1793825712287",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 100,
+    "combined_hash": "f4a63b59ae3e33fd9f2838ee07096f5083a5fbe08c42e1c8a3c334d8a58c3ae8",
+    "result": "89",
+    "external_round_id": "33674118",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:55:12.000000Z",
+    "revealed_at": "2026-11-04T20:55:18.000000Z"
+}
