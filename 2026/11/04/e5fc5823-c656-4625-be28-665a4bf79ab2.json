@@ -1,0 +1,22 @@
+{
+    "round_id": "e5fc5823-c656-4625-be28-665a4bf79ab2",
+    "draw_title": "Tub of Toblerones",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/tub-of-toblerones-3",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "f9b1cadfe1ff886e4e1132a34d959dbe22453cd39fe1c6c7487ed6732e717c36",
+    "drand_seed_hash": "a6a3b387c244587c7081456fb0a023ecac58a6efaaac104c97b2f800c00484c933ed55ab096a1ca05bf37963782c31f3",
+    "client_seed": "1793823902231",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 96,
+    "max_tickets": 150,
+    "combined_hash": "f7e8eceece1385137f5bfd3595332dda61fa97fba1df93c69d23ddb259df3842",
+    "result": "144",
+    "external_round_id": "33673515",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:25:02.000000Z",
+    "revealed_at": "2026-11-04T20:25:09.000000Z"
+}
