@@ -1,0 +1,22 @@
+{
+    "round_id": "0a629210-06e9-4395-a636-cd607704d1e2",
+    "draw_title": "🛌  3 Night Hot Tub Stay for 2, Loch Tay, Perthshire 🛌",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/3-night-hot-tub-stay-for-2-loch-tay-perthshire",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "b33dae1d2e7d0076e21e8c549eece05ee74db9cc30b3d6b24b8c1cb1a0c4a5b0",
+    "drand_seed_hash": "a8333b6ad55935dc35463b4a3a9cf6a98b0d2a1fb58419d101c1db67caa3d154b1c7b248309f81a0ca5051ca36736985",
+    "client_seed": "1793821773800",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1330,
+    "max_tickets": 1330,
+    "combined_hash": "ccb52a5e8a896016e1384672a233372486e2b6f12564d3763e660b12d97f39a7",
+    "result": "897",
+    "external_round_id": "33672805",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T19:49:33.000000Z",
+    "revealed_at": "2026-11-04T19:49:39.000000Z"
+}
