@@ -1,0 +1,22 @@
+{
+    "round_id": "28c63468-1083-4d4d-8c5d-98cdd3f6eff6",
+    "draw_title": "SCRATCH 2 REVEAL - INSTANT WIN",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/scratch-2-reveal-instant-win",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "e3b946c167da1a7e90ec3da325244b5cb64408bc41f5535fb050231927d99306",
+    "drand_seed_hash": "a123b86f50810e576fd06f9628da213ef609c962ced14b6f3a715fe17b4fc74c8cb844f370dbbc9f94cb2c38f6b908eb",
+    "client_seed": "1793827238844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112294,
+    "max_tickets": 850000,
+    "combined_hash": "fadc0b500f6b181976234ce313699774fbdb33d511bd19ec9fefa577b753060f",
+    "result": "804747",
+    "external_round_id": "33674627",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:20:38.000000Z",
+    "revealed_at": "2026-11-04T21:20:45.000000Z"
+}
