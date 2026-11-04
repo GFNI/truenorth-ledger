@@ -1,0 +1,22 @@
+{
+    "round_id": "f9626cb5-3bf0-4c5f-a915-c214a9aea1d6",
+    "draw_title": "Garden of Riches",
+    "competition_url": "https://chaotic.co.uk/competition/garden-of-riches-9966",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "cf6e301f554bc238e3d405ea47e8d5ce28e472a577866ad004d732ae803961e2",
+    "drand_seed_hash": "8ea6c1a1e78ad4aa5b4ba0af9bf1363d05c709cfe9e9be4a164a4002c4c1bdcefb0459842bb5aac7c910d5101f1402ca",
+    "client_seed": "1793824795450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600000,
+    "max_tickets": 600000,
+    "combined_hash": "f8224ec564bb76a8d6bcfaa61f9eabf855e3ff7c9d73e479c6635a1ff5213256",
+    "result": "32313",
+    "external_round_id": "33673813",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:39:55.000000Z",
+    "revealed_at": "2026-11-04T20:40:03.000000Z"
+}
