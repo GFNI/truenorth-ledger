@@ -1,0 +1,22 @@
+{
+    "round_id": "33d13098-1e5a-4dbe-bd37-6d0538437444",
+    "draw_title": "WIN JOSH ROCK GEN 1 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-josh-rock-gen-1-darts-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "fa3300ef07c2315ba9f5934a6a9335021ff8c4e38d601e9867206e93dc3991de",
+    "drand_seed_hash": "818b0663e01dffab4a2c684eac4e35ec1bb4c36c49f7572a1c2bbeb697311ab2b86ab42b7b51adb2ac7385c0189ff03d",
+    "client_seed": "1793830314475",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 115,
+    "combined_hash": "12a3a1fd833872ea95e3f4f6e2ce8b1b06aadefe1cc0bcf73044ca75440dfc84",
+    "result": "71",
+    "external_round_id": "33675652",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:11:54.000000Z",
+    "revealed_at": "2026-11-04T22:12:00.000000Z"
+}
