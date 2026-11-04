@@ -1,0 +1,22 @@
+{
+    "round_id": "a40dec59-3202-4cb1-8e90-26ba89ff344e",
+    "draw_title": "15p CASH MACHINE!",
+    "competition_url": "https://qualityprizesqp.com/admin/products/15p-cash-machine",
+    "operator": {
+        "name": "Quality Prizes QP LTD",
+        "website": "https://qualityprizesqp.com",
+        "company_number": "13193494"
+    },
+    "drand_server_seed": "251f413dc1dce5a69fe4c43395a3a1e5affcecb3c91939ac176db1b2131664bd",
+    "drand_seed_hash": "a994cc843a75c91c064f8e4941df58c32f82e5091fa62033209446494389fd3adaf400bcaeb1d9081e2fd0b46bb4cdaa",
+    "client_seed": "1793816942713",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 184696,
+    "max_tickets": 599999,
+    "combined_hash": "6c79c63f0b79c3b456e88b4ee4fadc48d84005a8ad421c5cb5768a94253fe3bd",
+    "result": "173604",
+    "external_round_id": "33671195",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T18:29:03.000000Z",
+    "revealed_at": "2026-11-04T18:29:09.000000Z"
+}
