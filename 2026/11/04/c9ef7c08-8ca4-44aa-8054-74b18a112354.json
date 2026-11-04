@@ -1,0 +1,22 @@
+{
+    "round_id": "c9ef7c08-8ca4-44aa-8054-74b18a112354",
+    "draw_title": "🎯✨ PRECISE180 V1 DARTS SCRATCH - INSTANT WINS ✨🎯",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/precise180-v1-darts-scratch-instant-wins",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "289931f01342814fb8d897c89f9f25a137d88a5c39ecfa23a691d5b0fd7a8e02",
+    "drand_seed_hash": "8fe5eefeb051001ce23254f929aae27ecdedf0efe1baa241be9eae26a2e8131c878f6c5fa9414c39107a8d3d4530d54a",
+    "client_seed": "1793830208883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2025,
+    "max_tickets": 3999,
+    "combined_hash": "f8200a01c0e90e11201cf3b5f33957c5bd4553d2ffe6cd0e0566928161fdb9d0",
+    "result": "1378",
+    "external_round_id": "33675617",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:10:08.000000Z",
+    "revealed_at": "2026-11-04T22:10:15.000000Z"
+}
