@@ -1,0 +1,22 @@
+{
+    "round_id": "a7b1496e-cefc-418a-86f5-5b603e1485f8",
+    "draw_title": "THE WHEEL OF WHISKY! WIN THE MACALLAN FOLIO 5! + 10 WIN SPINS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-wheel-of-whisky-win-the-macallan-folio-5-10-win-spins",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "720b3456d3542bad600a45d10037adc51256519245c1db4b7fe1a82d91ddb0fb",
+    "drand_seed_hash": "a20c8bfcffcb2a0fe6b20faec33411d1edd2f2a740df6832d9c6d5d3589805983d0e0904f8ed454fdf7013f25e505ae3",
+    "client_seed": "1793829325386",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 169,
+    "combined_hash": "8efbedc622bb91211ca49822431171e258beba0cb93a429fe6683c12f6a8957c",
+    "result": "22",
+    "external_round_id": "33675323",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:55:25.000000Z",
+    "revealed_at": "2026-11-04T21:55:33.000000Z"
+}
