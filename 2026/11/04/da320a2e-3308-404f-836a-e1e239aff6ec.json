@@ -1,0 +1,22 @@
+{
+    "round_id": "da320a2e-3308-404f-836a-e1e239aff6ec",
+    "draw_title": "WIN THIS BOWMORE 15 YEAR OLD SHERRY CASK!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-bowmore-15-year-old-sherry-cask",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "619d74cf7bd65eefcf3e07bceb2102411a207c2aa3038c8217d0fd3cfa92996a",
+    "drand_seed_hash": "9800627b4e30318d74c7bfab6d05cb0cbe6b5b15c71764393faf500ddc81bd5e21ff24d1485ab0b2c5908e55c2694652",
+    "client_seed": "1793827317055",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 100,
+    "combined_hash": "84ffe3a4c62fb63445a0cedc7edf925d85923686ac0c85d172e6785a0ced3cde",
+    "result": "9",
+    "external_round_id": "33674653",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:21:57.000000Z",
+    "revealed_at": "2026-11-04T21:22:03.000000Z"
+}
