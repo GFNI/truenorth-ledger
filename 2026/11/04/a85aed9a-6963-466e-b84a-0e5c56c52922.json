@@ -1,0 +1,22 @@
+{
+    "round_id": "a85aed9a-6963-466e-b84a-0e5c56c52922",
+    "draw_title": "£2,500 CASH - SUPER LOW ODDS",
+    "competition_url": "https://easybigwins.co.uk/admin/products/ps2500-cash-super-low-odds-3",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "d9953ef2db27ce14b88d89d0180d2bfa11f0f5d5df90c4fd30f93d0494e26b80",
+    "drand_seed_hash": "8652a7697f79c7674c8702d25d5968d24e6b4e8c84f3a462c231f54274110778ce3e890737e6451a785fe38b1b6fffd2",
+    "client_seed": "1793828433721",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 236,
+    "max_tickets": 500,
+    "combined_hash": "62e271e291200ca019ba277e3778ee48ef01cc14c660a5efe832e04e749d0e21",
+    "result": "339",
+    "external_round_id": "33675025",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:40:33.000000Z",
+    "revealed_at": "2026-11-04T21:40:39.000000Z"
+}
