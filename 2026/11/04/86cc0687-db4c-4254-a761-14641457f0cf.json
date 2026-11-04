@@ -1,0 +1,22 @@
+{
+    "round_id": "86cc0687-db4c-4254-a761-14641457f0cf",
+    "draw_title": "WIN A NEW Winmau Autodarts X Automatic Darts Scoring System",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-new-winmau-autodarts-x-automatic-darts-scoring-system-4",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "075ffcbed528479baafd52a1d5904702039ac9359386a64827233a384f2fa88f",
+    "drand_seed_hash": "b403f3a0fb32f84da96f3e39f4e9497fb46ce6ced7730cd611798fddd4c9085b22a8503dfaf1560ab585029bcf70739f",
+    "client_seed": "1793830239484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 138,
+    "max_tickets": 350,
+    "combined_hash": "be7e8c86e6399318c41d26672e8e7e7380b5af2e5f36f4dc8957c2c04f908402",
+    "result": "31",
+    "external_round_id": "33675627",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:10:39.000000Z",
+    "revealed_at": "2026-11-04T22:10:45.000000Z"
+}
