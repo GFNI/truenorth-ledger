@@ -1,0 +1,22 @@
+{
+    "round_id": "2ee0969a-15a7-4611-968d-30840d709cbb",
+    "draw_title": "Tuppenny Spins - £200 Autodraw + Instawin up to £250",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/tuppenny-spins-ps200-autodraw-instawin-up-to-ps250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "a6c0f7137de7a8a2fa50e88f0a2ef446497eaaf1861bdbc820cd70f7b7a23e1f",
+    "drand_seed_hash": "b3200eec5e0aaf80a01f0f342037a7c63c563c84218ea39ca35e2688746acad858095168ce1f541a3135bb06c6229e1b",
+    "client_seed": "1793823043910",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 274321,
+    "max_tickets": 300000,
+    "combined_hash": "c3a86bac284226fee0a735ece1d825d7220c6e96a4f2eb83c9d89bdbb69d5c08",
+    "result": "136708",
+    "external_round_id": "33673229",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:10:43.000000Z",
+    "revealed_at": "2026-11-04T20:10:51.000000Z"
+}
