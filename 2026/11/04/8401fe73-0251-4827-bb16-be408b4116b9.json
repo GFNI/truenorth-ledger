@@ -1,0 +1,22 @@
+{
+    "round_id": "8401fe73-0251-4827-bb16-be408b4116b9",
+    "draw_title": "Champion Cash Fish | £27,900 in Prizes | £750 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/champion-cash-fish-ps27900-in-prizes-ps750-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "2349536870803b6839cd5682aabf4ec08b52cb762578cbe7b6a3b83dcad1c9dc",
+    "drand_seed_hash": "ae56584566b35223b55bee3eb3446e12a2ea753234b0021559206939ed861a53c8a99502aea645d2b065f52709e1048e",
+    "client_seed": "1793825122883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 923,
+    "max_tickets": 15000,
+    "combined_hash": "5f0b02131398550131b5fdf0efcabb625b9caa23aac64f22b7a3ce682827af06",
+    "result": "1088",
+    "external_round_id": "33673922",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:45:22.000000Z",
+    "revealed_at": "2026-11-04T20:45:30.000000Z"
+}
