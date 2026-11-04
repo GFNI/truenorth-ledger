@@ -1,0 +1,22 @@
+{
+    "round_id": "4e014fb0-88d8-42c2-9cf8-581ffdbc3dcb",
+    "draw_title": "THE GUY FAWKES GIVEAWAY! WIN WHISKY & CASH! DALMORE TRIO END PRIZE!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-guy-fawkes-giveaway-win-whisky-cash-dalmore-trio-end-prize",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "fa7744472208152ced9f6c7f877df71a569481f8e1f9e6b292a675538047fb6d",
+    "drand_seed_hash": "852720b42417aa8b5cc995218501c4ccf3216a65ee5416988ce09229114ac9a60df9289051dc42ec4a3df1e30df1f697",
+    "client_seed": "1793830024356",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4984,
+    "max_tickets": 22999,
+    "combined_hash": "fa69225b1127db80176f6c403b7f4892fce98dd2af9222f4a31f2bcc434f1354",
+    "result": "8491",
+    "external_round_id": "33675556",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:07:04.000000Z",
+    "revealed_at": "2026-11-04T22:07:12.000000Z"
+}
