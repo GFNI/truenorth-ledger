@@ -1,0 +1,22 @@
+{
+    "round_id": "bc0ebbb6-7802-4a50-9ead-6dc80b0fa295",
+    "draw_title": "£1000 For 1p",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps1000-for-1p-4",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "81f9ff39855d539b5bb7610f59f255bdb892611882961b5bad7d9a1c0673e4c5",
+    "drand_seed_hash": "853ce3c6d9d24337347095123f61a47a4bf89fd20dd77d5631d604614607325e5e78905fdb8a31c38b24b7503425199b",
+    "client_seed": "1793801779039",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112496,
+    "max_tickets": 175000,
+    "combined_hash": "f8a7cd6002988ba9cf79e6ba01e9bf1bc442ff37779fa57e0613ae5b882c3a31",
+    "result": "90617",
+    "external_round_id": "33666141",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T14:16:19.000000Z",
+    "revealed_at": "2026-11-04T14:16:27.000000Z"
+}
