@@ -1,0 +1,22 @@
+{
+    "round_id": "246e079b-8109-4c7c-b6e9-58cee8c60c63",
+    "draw_title": "test  darts 95k",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/test-darts-95k",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "61e29173fed409af613569f24f63b7e6dd6f51d7bd82c6f5a8b2a6068b9b3477",
+    "drand_seed_hash": "8011bb69a25889a87cc92e77b0dd824cc4dc1735a1054669404ba671644bd7f5c4a544162b774993b2cafcacee8d9d74",
+    "client_seed": "1793792490761",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6,
+    "max_tickets": 100,
+    "combined_hash": "3b8432d02f72d86b559c52a21b76d22634fd999f44fd257b739b39cd543d6320",
+    "result": "80",
+    "external_round_id": "33663044",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T11:41:30.000000Z",
+    "revealed_at": "2026-11-04T11:41:36.000000Z"
+}
