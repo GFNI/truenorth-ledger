@@ -1,0 +1,22 @@
+{
+    "round_id": "0d66aea5-13d6-416c-b2a2-0f41f6499bf8",
+    "draw_title": "The Half a Million Pound Drop Mega Instant Wins!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/the-half-a-million-pound-drop-mega-instant-wins",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "ef46cac7c31936a1ff13e8d78ab155605a6c1f910b75f1a3084453f0871b8618",
+    "drand_seed_hash": "b9ee88589e5026770a8c752f0cffcf841d8666c76fa8da8ce779e551cb4748f46d31600c94c3f7370eabd24c0cb61485",
+    "client_seed": "1793825009112",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 596337,
+    "max_tickets": 599999,
+    "combined_hash": "6cd41fbccb59fe7c6075a40112f2c0b166b2165ecfd4e5cd04350d03b6a4cc3f",
+    "result": "207865",
+    "external_round_id": "33673884",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:43:29.000000Z",
+    "revealed_at": "2026-11-04T20:43:36.000000Z"
+}
