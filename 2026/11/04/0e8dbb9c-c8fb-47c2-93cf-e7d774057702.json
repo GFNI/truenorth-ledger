@@ -1,0 +1,22 @@
+{
+    "round_id": "0e8dbb9c-c8fb-47c2-93cf-e7d774057702",
+    "draw_title": "GEORGES RICHES - WIN £5K INSTANTLY",
+    "competition_url": "https://easybigwins.co.uk/admin/products/georges-riches-win-ps5k-instantly-2",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "33cde5b28aaa6af11b0f8434476ec8fb6615927b69bc73f2c5ce4d7495bf1b04",
+    "drand_seed_hash": "b4b8e3a6713037e46d542189a4193e188ff0c4972a6e84b76fe661a106107bcc6c063700e0730cb17372fbf0c505a684",
+    "client_seed": "1793827951882",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18806,
+    "max_tickets": 200000,
+    "combined_hash": "325a0a620b5b1aaa7ecca169f0d50e0fb07d92329a20535ecf2f3d1d78b17315",
+    "result": "45619",
+    "external_round_id": "33674865",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:32:31.000000Z",
+    "revealed_at": "2026-11-04T21:32:39.000000Z"
+}
