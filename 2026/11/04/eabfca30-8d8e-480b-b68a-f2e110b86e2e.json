@@ -1,0 +1,22 @@
+{
+    "round_id": "eabfca30-8d8e-480b-b68a-f2e110b86e2e",
+    "draw_title": "WIN a £150 Toys'R'Us Voucher",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-ps150-toysrus-voucher",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "b00ffc35fc5286eea3e37529b0b11bd07e07c7914bc374d925e0bd60e5f8c5df",
+    "drand_seed_hash": "852054713d78e16c60437cf2859f11abeea3cafa1378070d92416087b0cddef418a63bc9a0d686c2c5ddcbebc30f1a49",
+    "client_seed": "1793824981346",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1281,
+    "max_tickets": 2900,
+    "combined_hash": "f16f5e2bad3a0ef102af5cf930e6d0f038b3462e2b532e66fe7bef734d7eaff3",
+    "result": "2230",
+    "external_round_id": "33673875",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:43:01.000000Z",
+    "revealed_at": "2026-11-04T20:43:09.000000Z"
+}
