@@ -1,0 +1,22 @@
+{
+    "round_id": "17c2dfce-6b0f-4ec5-ac7c-d5c3e802a498",
+    "draw_title": "💙🌺 STITCH HAS LANDED AT HIP HIP! 🌺💙",
+    "competition_url": "https://hiphipprizehub.com/admin/products/stitch-has-landed-at-hip-hip",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "ec8345b6c92792f887b994a21b63f2aa636ec19aa6c2e1e887289ffd5a95529f",
+    "drand_seed_hash": "8af8cef57c50be668c6c3a99c139ca977c06e9de7ec3cddfd2419a5ba94311230e4b8ae292157427be8c5848b65b35de",
+    "client_seed": "1793825831675",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 296,
+    "max_tickets": 296,
+    "combined_hash": "494eb341a66aaf07d44bc597da45127f2520dbfe1845e8d6186795ccda66ed95",
+    "result": "66",
+    "external_round_id": "33674158",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:57:11.000000Z",
+    "revealed_at": "2026-11-04T20:57:18.000000Z"
+}
