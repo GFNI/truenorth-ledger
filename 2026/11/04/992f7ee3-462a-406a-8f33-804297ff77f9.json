@@ -1,0 +1,22 @@
+{
+    "round_id": "992f7ee3-462a-406a-8f33-804297ff77f9",
+    "draw_title": "🎄🎉 CRACK ME UP FOR CHRISTMAS! 🎉🎄",
+    "competition_url": "https://hiphipprizehub.com/admin/products/crack-me-up-for-christmas",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "6e23fd52f55fd6634f9df364545330ad3634cd8bfe2eb89070c3c66c82f0f602",
+    "drand_seed_hash": "922809089107349b9abc684ea496e04daee8db8f6a424cc440a09222a792ef01034d0c3fe69076d4b98ccee2345d557a",
+    "client_seed": "1793825916960",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "b13ecf452806cfb1b23a820427cc8b50dd1e1b3bcd720e37ac826dbf02d43795",
+    "result": "906",
+    "external_round_id": "33674186",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:58:36.000000Z",
+    "revealed_at": "2026-11-04T20:58:42.000000Z"
+}
