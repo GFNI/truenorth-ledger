@@ -1,0 +1,22 @@
+{
+    "round_id": "f45071bd-b315-4618-a86c-97df101c54e7",
+    "draw_title": "DeWalt DCK694P3 18V XR Cordless 6pc Kit with 3x 5.0Ah Batteries🔨",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/dewalt-dck694p3-18v-xr-cordless-6pc-kit-with-3x-50ah-batteries-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4403da958b65e23dc1e8cbe3ed9507729b78d1db5308cb9cb2d2f860f5f1d3f4",
+    "drand_seed_hash": "b10a868e1ba4c7d3199948c1ed44c61dba9039510eb0f41ac934c78303a762eed70ccd83112ce5beed6ea94d88f3fe6a",
+    "client_seed": "1793822351603",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1239,
+    "max_tickets": 1415,
+    "combined_hash": "6a67353e91f231e0be795da9f8fdc9bf090ffb0d5bc97d44d6c34341d39ac0b2",
+    "result": "255",
+    "external_round_id": "33672998",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T19:59:11.000000Z",
+    "revealed_at": "2026-11-04T19:59:18.000000Z"
+}
