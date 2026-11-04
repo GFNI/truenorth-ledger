@@ -1,0 +1,22 @@
+{
+    "round_id": "2edb1d0b-4afb-4dd2-9c5e-8a144aca3e9b",
+    "draw_title": "WIN THIS AUCHENTOSHAN 18 YEAR OLD",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-auchentoshan-18-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "6235657ffd900a392bb8fd1ff0ae2e11753d97347263d13fcc438da03f868479",
+    "drand_seed_hash": "9679f0a47f4cce03d08d781f86e208bb2a69d88f20b1efcc349ca2aa2eaadf030163291dc9786d0e9b9e797498e1876e",
+    "client_seed": "1793827381158",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55,
+    "max_tickets": 100,
+    "combined_hash": "afd1f16986dbc90e6ce4a645f2355f84431dce4d4cde13919ba3144ce1196fed",
+    "result": "36",
+    "external_round_id": "33674675",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:23:01.000000Z",
+    "revealed_at": "2026-11-04T21:23:09.000000Z"
+}
