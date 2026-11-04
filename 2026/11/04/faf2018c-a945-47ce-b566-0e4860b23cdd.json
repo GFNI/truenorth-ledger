@@ -1,0 +1,22 @@
+{
+    "round_id": "faf2018c-a945-47ce-b566-0e4860b23cdd",
+    "draw_title": "⚡ Pokémon Delta Reign ETB — Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-delta-reign-etb-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "4253d6217cec174d60ba9ad6b171c1fd861994eca8edc1eba7753c491a20c9d0",
+    "drand_seed_hash": "a23e62d60b5491bc627a5063ec7d472051625e1e78deb8525fae534c5fbf4711eca29b80bc2bf1449bb4db3fde50ce9c",
+    "client_seed": "1793831752912",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 140,
+    "max_tickets": 175,
+    "combined_hash": "49138d322ea9ae586e3c7bc2d94382a81a66132b89a010e8bce26e9e81908813",
+    "result": "139",
+    "external_round_id": "33676132",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T22:35:53.000000Z",
+    "revealed_at": "2026-11-04T22:36:00.000000Z"
+}
