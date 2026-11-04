@@ -1,0 +1,22 @@
+{
+    "round_id": "cbb2beb4-a123-41f0-a482-2900db1797a0",
+    "draw_title": "MASSIVE £5000 CASH LOW ODDS ONLY 999 TICKETS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/massive-ps5000-cash-low-odds-only-999-tickets",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "e6f4326eb3806b5f95a821852803bcf85ecd1f51e9f0fa64b95e70a8d9212ce4",
+    "drand_seed_hash": "85f24befb7fca9c90630c39d47a67c505c4973863711840e4a477e50fee51c1c24860cf866b71be22396871c1db3374c",
+    "client_seed": "1793828106213",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 494,
+    "max_tickets": 999,
+    "combined_hash": "c32430450d7d6ac83a3283f5bedc4cdc72a1ab9fe3ac9ad7b55d071f486e9d58",
+    "result": "988",
+    "external_round_id": "33674916",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:35:06.000000Z",
+    "revealed_at": "2026-11-04T21:35:12.000000Z"
+}
