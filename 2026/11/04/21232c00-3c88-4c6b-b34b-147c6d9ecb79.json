@@ -1,0 +1,22 @@
+{
+    "round_id": "21232c00-3c88-4c6b-b34b-147c6d9ecb79",
+    "draw_title": "🛒£500 SMYTHS VOUCHER🛒",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-smyths-voucher",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "01d06e70393a315adcf2e767e3f14c78a526f9de7581ddc92ececa9c6d035555",
+    "drand_seed_hash": "8e19c47547836972f3306bd1964e8fc64587e0efed8dddfbe324ba85b3d16632573526e722cb05ea389528cfa5953fb9",
+    "client_seed": "1793821443818",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1145,
+    "max_tickets": 1145,
+    "combined_hash": "3298bb8639ac057d5c90f67f666d336060847ae9d7f27f8f40fb587411ee9a0c",
+    "result": "459",
+    "external_round_id": "33672696",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T19:44:04.000000Z",
+    "revealed_at": "2026-11-04T19:44:12.000000Z"
+}
