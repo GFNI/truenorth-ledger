@@ -1,0 +1,22 @@
+{
+    "round_id": "72cc50d7-70df-41e6-9499-079388dd3db4",
+    "draw_title": "Monopoly Pokemon Edtn",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/monopoly-pokemon-edtn",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "062063327d61c0f375d432c5c601a0597144d8d1348819428a07a85f6591e8cb",
+    "drand_seed_hash": "b1822db18cb1a0a8fd27beaeafdcffa8d2458015bb3276f0da00d15043657dc93cbfb36d18afbe8458ced49c31d7cb38",
+    "client_seed": "1793823842987",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 103,
+    "max_tickets": 220,
+    "combined_hash": "8feaba79ac38dec8769f59a86ff0b9c41394aa712d2e9108c271083d72b0f0e5",
+    "result": "100",
+    "external_round_id": "33673495",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:24:03.000000Z",
+    "revealed_at": "2026-11-04T20:24:09.000000Z"
+}
