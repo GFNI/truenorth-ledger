@@ -1,0 +1,22 @@
+{
+    "round_id": "f20fdca5-3cc5-4993-95db-cf59d4495ac9",
+    "draw_title": "SUN, SEA AND A NEW SMILE NEW TEETH AND 3 DAYS IN BENIDORM",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/sun-sea-and-a-new-smile-new-teeth-and-3-days-in-benidorm",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "504fe44523fcedd41746e00cca0be4bbfe85b0a33fbb5c351cdef46b9d78aaf1",
+    "drand_seed_hash": "934bf8d8b5336b064c5792dc8a5ebb22b4e8d9fecfcccb5928f37708206f00bded0db9e5c19caf2d4e5e85024ec4c845",
+    "client_seed": "1793825166523",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 131619,
+    "max_tickets": 2500000,
+    "combined_hash": "d3e76028a83761bdeb4e06268d3c782da45c3d2b12cbc8ad86048d0655a2f366",
+    "result": "2439444",
+    "external_round_id": "33673936",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:46:06.000000Z",
+    "revealed_at": "2026-11-04T20:46:12.000000Z"
+}
