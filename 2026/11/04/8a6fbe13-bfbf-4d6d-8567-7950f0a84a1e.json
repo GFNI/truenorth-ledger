@@ -1,0 +1,22 @@
+{
+    "round_id": "8a6fbe13-bfbf-4d6d-8567-7950f0a84a1e",
+    "draw_title": "WIN THIS GLENALLACHIE 10 YEAR OLD CASK STRENGTH!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-glenallachie-10-year-old-cask-strength",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "4bbf4e76f9a70d630b6f56693a276cd723cab63950808e2091cd52fba6a41b18",
+    "drand_seed_hash": "8f1a1c04c31c789dc44de3aaf55b64f8dcda316f2129bf49516dc35f49612a4112ed2a22a409cb5c66e2d50347ae178e",
+    "client_seed": "1793827269232",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71,
+    "max_tickets": 100,
+    "combined_hash": "c65544ede5974027203993da1d178ba4ead2fff792ed135f97f352f62b650008",
+    "result": "99",
+    "external_round_id": "33674637",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:21:09.000000Z",
+    "revealed_at": "2026-11-04T21:21:15.000000Z"
+}
