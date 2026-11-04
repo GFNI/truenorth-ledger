@@ -1,0 +1,22 @@
+{
+    "round_id": "892bc924-2455-4966-ab07-00418daa4066",
+    "draw_title": "PENNY FOR THE GUY - 1P INSTANT WIN COMP",
+    "competition_url": "https://easybigwins.co.uk/admin/products/penny-for-the-guy-1p-instant-win-comp-2",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "568d116005ff7a05477e8e7e4e0df8cb95e48e986d8f7a2f4b564cffc80d99f0",
+    "drand_seed_hash": "8dd15f1d5f59f2cd6bc5b97d42ac5997c111dcf055fc17ae23d6d29c9a6862265e2188ee551ab3d7164b459b8e71fe0d",
+    "client_seed": "1793827866105",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 640000,
+    "max_tickets": 640000,
+    "combined_hash": "1bb1756ec923622b4f4cf5e382c94bdfc4eec473471736217370c2a06aba7e19",
+    "result": "406812",
+    "external_round_id": "33674836",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T21:31:06.000000Z",
+    "revealed_at": "2026-11-04T21:31:12.000000Z"
+}
