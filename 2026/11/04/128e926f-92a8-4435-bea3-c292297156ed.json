@@ -1,0 +1,22 @@
+{
+    "round_id": "128e926f-92a8-4435-bea3-c292297156ed",
+    "draw_title": "WIN a £150 Primark Voucher",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-ps150-primark-voucher",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "9916e141085b7e84213dfd161ee2cb60b25e6600b88fa0dc6d9873ef82d816d9",
+    "drand_seed_hash": "ab23e5ca22a17dd584b6ed8d42ce065cde9c786e4558f597663a5de1e6905d9f2c54ee49489df871fc75904d4c0fa851",
+    "client_seed": "1793825046122",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1358,
+    "max_tickets": 2900,
+    "combined_hash": "ca7b6dcbf15b35386a289d3f2ec69cd38beddf430ca1536128e6d3198ed476fc",
+    "result": "863",
+    "external_round_id": "33673896",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T20:44:06.000000Z",
+    "revealed_at": "2026-11-04T20:44:12.000000Z"
+}
