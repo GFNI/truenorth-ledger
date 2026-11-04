@@ -1,0 +1,22 @@
+{
+    "round_id": "d01c1eac-0346-4af3-9dbc-d730466f3b22",
+    "draw_title": "Pumpkin Pop",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/pumpkin-pop",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "836bcdb474a19fcced9e7e52d633ad2606f7f88e465426b0995c5c1d6efa8a39",
+    "drand_seed_hash": "a657e179a145f99da6915f85d29938220cb955b8f54f3a560a8d30e27289d856096a06b07f45058589af9b9a1519c329",
+    "client_seed": "1793796293830",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 41132,
+    "max_tickets": 85000,
+    "combined_hash": "4db599b7b04697ceffa966807ca79af060bade964f2349be86a5a5dd899d96be",
+    "result": "73950",
+    "external_round_id": "33664312",
+    "processing_status": "completed",
+    "created_at": "2026-11-04T12:44:53.000000Z",
+    "revealed_at": "2026-11-04T12:45:00.000000Z"
+}
