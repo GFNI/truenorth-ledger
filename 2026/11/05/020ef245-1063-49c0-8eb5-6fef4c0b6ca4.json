@@ -1,0 +1,22 @@
+{
+    "round_id": "020ef245-1063-49c0-8eb5-6fef4c0b6ca4",
+    "draw_title": "BONUS DRAW - Win 12 Months Worth Of Doggies Goodies",
+    "competition_url": "https://topdogprizes.com/admin/products/bonus-draw-win-12-months-worth-of-doggies-goodies",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "27bcf21f6d0865b0fba349fdef8316bd07932bea74ef42f27ffebc7b3e908798",
+    "drand_seed_hash": "8f296c25b7d95ff374c4f9ff1f4cc73160729c68c0d7aa0c46cde7913f5e91ed9c53d18fb121fb82a6ab4deddca31d08",
+    "client_seed": "1793909489160",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3570,
+    "max_tickets": 33333,
+    "combined_hash": "41a53341d416bbd4c9ccfad01121f992e20d8615b7edcc133275d389c132ef4e",
+    "result": "14621",
+    "external_round_id": "33702044",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:11:29.000000Z",
+    "revealed_at": "2026-11-05T20:11:36.000000Z"
+}
