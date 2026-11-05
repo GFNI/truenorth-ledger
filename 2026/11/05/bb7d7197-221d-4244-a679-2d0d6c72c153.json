@@ -1,0 +1,22 @@
+{
+    "round_id": "bb7d7197-221d-4244-a679-2d0d6c72c153",
+    "draw_title": "1p Auto Draw - Win 10 Entries Into Each Of Fridays Competitions (10 x Comps - 6th Nov)",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-win-10-entries-into-each-of-fridays-competitions-10-x-comps",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "f62e33c2caa26cdc4584c72ea8240f447788c7c815af695ac860e904edbfb4c6",
+    "drand_seed_hash": "8e3b483f50601f52657db0087aa95e8a3b22fbcad02a7a86f6f6c113e30d7273cb7aea505b9e63fbe66ec86bd721776c",
+    "client_seed": "1793914342402",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30000,
+    "max_tickets": 30000,
+    "combined_hash": "a37b4e3e1cdc57b1427dd03422189ac0c94c8785d487f80e9b4ae6f386f224f1",
+    "result": "10852",
+    "external_round_id": "33703662",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:32:22.000000Z",
+    "revealed_at": "2026-11-05T21:32:30.000000Z"
+}
