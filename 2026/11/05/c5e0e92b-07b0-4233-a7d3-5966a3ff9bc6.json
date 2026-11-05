@@ -1,0 +1,22 @@
+{
+    "round_id": "c5e0e92b-07b0-4233-a7d3-5966a3ff9bc6",
+    "draw_title": "RAINBOW WITCHES CASH INSTANT WINS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/rainbow-witches-cash-instant-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "576c2cfa05cf89cc953ff1e557b18ff65a627f8fe7b66b1f5dd798be96084b90",
+    "drand_seed_hash": "a4591bd37ce7409942bb1f037108651d2e39601ca727ecb58c76b23de4c63cb754ea42f7318855cc9d9ae516c0179cd9",
+    "client_seed": "1793913048772",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1098,
+    "max_tickets": 7999,
+    "combined_hash": "ba7ec297d08f3d8bef15660818b14649999dd6b092798b75d5a888876552d858",
+    "result": "346",
+    "external_round_id": "33703230",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:10:48.000000Z",
+    "revealed_at": "2026-11-05T21:10:54.000000Z"
+}
