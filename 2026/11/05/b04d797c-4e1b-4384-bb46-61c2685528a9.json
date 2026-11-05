@@ -1,0 +1,22 @@
+{
+    "round_id": "b04d797c-4e1b-4384-bb46-61c2685528a9",
+    "draw_title": "WIN NEW RYAN SEARLE GEO DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-ryan-searle-geo-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "1375a95fa9cc0085baa3e4c34935cf7aa253a6762a2ab4be0a8583b348c629e9",
+    "drand_seed_hash": "aee76a8e020007d48500aeb29eff9676591993a74bc53f3b5694f5bdd5d64c3759eee025890ed10855440102f371bc4b",
+    "client_seed": "1793912399043",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 140,
+    "combined_hash": "31d235df359b066787e839f52053747cb64e481bccae5204f6a4184efb7fcda2",
+    "result": "106",
+    "external_round_id": "33703014",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:59:59.000000Z",
+    "revealed_at": "2026-11-05T21:00:06.000000Z"
+}
