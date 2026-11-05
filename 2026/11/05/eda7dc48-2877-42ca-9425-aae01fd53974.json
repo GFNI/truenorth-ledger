@@ -1,0 +1,22 @@
+{
+    "round_id": "eda7dc48-2877-42ca-9425-aae01fd53974",
+    "draw_title": "£750 Cash + 750 Gems to Find",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps750-cash-750-gems-to-find",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "6ba8bb338e29f8db7d382b04be506f68ea431443f5f7932b25c8aafd2c13baad",
+    "drand_seed_hash": "aadf3d55b6558817807bb366cc9a048c2ea7259a613a82f8a0f152c69a93f8559b03df4521752cde4ae66376a2030562",
+    "client_seed": "1793912710605",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2827,
+    "max_tickets": 19999,
+    "combined_hash": "9bff7fec82481e4860dc4008b8e429f09204a9c833223f9474787cf731f5e93d",
+    "result": "9884",
+    "external_round_id": "33703118",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:05:10.000000Z",
+    "revealed_at": "2026-11-05T21:05:18.000000Z"
+}
