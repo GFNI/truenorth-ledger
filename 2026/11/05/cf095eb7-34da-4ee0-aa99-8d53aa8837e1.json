@@ -1,0 +1,22 @@
+{
+    "round_id": "cf095eb7-34da-4ee0-aa99-8d53aa8837e1",
+    "draw_title": "🐾FurReal Toy Bundle🐾",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/furreal-toy-bundle",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "b1a147294880c028b05601022d711530ae8f35619e353da144a7c85f9c24e3fb",
+    "drand_seed_hash": "8e811ecd8880d0f39b4e4367eb29130c307c362a0e438ed22562dc5c0aa072c36883f1019e35f996af8f99150827b321",
+    "client_seed": "1793884750285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 650,
+    "combined_hash": "9adec332b3ae94eb6611bfff7d7da508bc215813cd70548d75b84eb34e97fafd",
+    "result": "357",
+    "external_round_id": "33693798",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T13:19:10.000000Z",
+    "revealed_at": "2026-11-05T13:19:18.000000Z"
+}
