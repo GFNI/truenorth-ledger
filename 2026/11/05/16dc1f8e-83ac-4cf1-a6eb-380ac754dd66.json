@@ -1,0 +1,22 @@
+{
+    "round_id": "16dc1f8e-83ac-4cf1-a6eb-380ac754dd66",
+    "draw_title": "Firework Fivers | £31,000 in Prizes with a £1,000 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/firework-fivers-ps31000-in-prizes-with-a-ps1000-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "83d6bb928030ef86581c7921f6ac7c65b53b7031c1309a325f0a36f4630c4ee5",
+    "drand_seed_hash": "a877b9dc1cec8d6f23c25977935d375ea4922d672015287ea0bd2777c94b66e055a5784006014ce72c012a99d63505e6",
+    "client_seed": "1793911321369",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1895,
+    "max_tickets": 8600,
+    "combined_hash": "a0c6adb783feb761debfb5b2ec646bbc5583865af91f457c561f66b0f46dfe76",
+    "result": "6905",
+    "external_round_id": "33702654",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:42:01.000000Z",
+    "revealed_at": "2026-11-05T20:42:06.000000Z"
+}
