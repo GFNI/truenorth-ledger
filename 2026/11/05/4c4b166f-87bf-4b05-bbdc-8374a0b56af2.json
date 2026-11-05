@@ -1,0 +1,22 @@
+{
+    "round_id": "4c4b166f-87bf-4b05-bbdc-8374a0b56af2",
+    "draw_title": "MIDDAY MADHOUSE 🤯- WIN Winmau MvG TS-PRO SP Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/midday-madhouse-win-winmau-mvg-ts-pro-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "2886310c6e41252d0e8de733f352cc759f5f960af566c9a4f25343ff014320cd",
+    "drand_seed_hash": "89e03f0aaf1f329f031700cdce9f6329f360de39af27608d74206e69832a0e3542906937402e7e1a664215cbffd232f8",
+    "client_seed": "1793880618612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 197,
+    "max_tickets": 250,
+    "combined_hash": "58004913112b1ff42d9976528c5c7ef8cd73c4d98063d6ff513cb9244aef58c1",
+    "result": "71",
+    "external_round_id": "33692420",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T12:10:18.000000Z",
+    "revealed_at": "2026-11-05T12:10:24.000000Z"
+}
