@@ -1,0 +1,22 @@
+{
+    "round_id": "d23be09f-e6f5-48fa-89b4-2b8ef2122cb9",
+    "draw_title": "£1,000 Tax Free Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/ps1000-tax-free-cash-2",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "46a669c3592c9d59eab4183c6b43e076c10effbf64c1d9646a915d87e6cacde9",
+    "drand_seed_hash": "8d62bb446efc1ae26c2bcb40f6b187c08b8446e5cfbda9e30d617bd946898140aa9342dded27c15ef2b490ad2faec740",
+    "client_seed": "1793916655847",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 407,
+    "max_tickets": 975,
+    "combined_hash": "459aba6f8f3312a3e91ec0cf383fc6db1ec52c154298d82c30caaca642d80e58",
+    "result": "266",
+    "external_round_id": "33704433",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T22:10:55.000000Z",
+    "revealed_at": "2026-11-05T22:11:03.000000Z"
+}
