@@ -1,0 +1,22 @@
+{
+    "round_id": "1f53dca6-bfe7-4f87-8552-47ce55237674",
+    "draw_title": "Buster’s Big Bank Heist 🏦 - Win Up To £7,777",
+    "competition_url": "https://topdogprizes.com/admin/products/busters-big-bank-heist-win-up-to-ps7777",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "631a65158282d9c179aa68ec8ef9089e3316c571fff1900434b738e1ce4408ca",
+    "drand_seed_hash": "997adbd2abb8d7d2c2ed01060c03ef1abd222ae8b5f6264dab3f1a1c3d1c77d58de9e523f2a36c0df6269ea90ad80497",
+    "client_seed": "1793909334829",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22852,
+    "max_tickets": 99999,
+    "combined_hash": "297618ebc975e14b19b56a9b596bb97e453d57637269ce8fa08743be33a6a853",
+    "result": "88316",
+    "external_round_id": "33701992",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:08:54.000000Z",
+    "revealed_at": "2026-11-05T20:09:00.000000Z"
+}
