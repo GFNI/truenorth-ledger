@@ -1,0 +1,22 @@
+{
+    "round_id": "5737e45f-c36e-405d-b047-424524017ddc",
+    "draw_title": "£50,000 FIREWORK FORTUNE 🎆",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps50000-firework-fortune",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "7e270f33ebe15e7ddffe9b1cd378f2043d25747ace76ea7170926bbaf568d837",
+    "drand_seed_hash": "864e363b6445a54892e505f5afe78b781c024b7b7fd0878284fb46a0af3075d47e7c201e8a4a711f39404b938c8afb87",
+    "client_seed": "1793915235593",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10172,
+    "max_tickets": 48999,
+    "combined_hash": "a0caa9835de7baeb835447adc853b45ac41e09646f2aa516f46ee8b8981fe372",
+    "result": "18834",
+    "external_round_id": "33703959",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:47:15.000000Z",
+    "revealed_at": "2026-11-05T21:47:21.000000Z"
+}
