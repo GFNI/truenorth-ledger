@@ -1,0 +1,22 @@
+{
+    "round_id": "d7927009-f1c8-483b-99b7-bcd6e61de307",
+    "draw_title": "Penny For The Guy",
+    "competition_url": "https://jetcomps.co.uk/admin/products/penny-for-the-guy",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "57c52624b716d72154a1bdde32022b49e555098fa5ead95ffb5c2595b6408f46",
+    "drand_seed_hash": "8f33a08b6dc286de6cf20dc3b271e9af42ad0adca177e1462a18a56ad5667fffcd5446e75b0eb373b7e4eeadb5b36d5f",
+    "client_seed": "1793910910063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 296642,
+    "max_tickets": 1000000,
+    "combined_hash": "3adadcd159f05e627482a21a7b2e67492ef12cbae4f280959f87dc9d304290db",
+    "result": "911931",
+    "external_round_id": "33702517",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:35:10.000000Z",
+    "revealed_at": "2026-11-05T20:35:15.000000Z"
+}
