@@ -1,0 +1,22 @@
+{
+    "round_id": "706b97d3-0e73-42c8-90eb-d0f9edc02517",
+    "draw_title": "WIN 10 TICKETS ON THE STARK VARG! - DRAW 2",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-10-tickets-on-the-stark-varg-draw-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "19c3613eba621f2979d841edd66367767144de0d6dd4ca4397eb16309bbec22f",
+    "drand_seed_hash": "9147449c71828f5d40e6b3fb57802feab5d5ae0e58ad67b88f78d077f62d54fe0255958c7144c412215a500df9cb9ff3",
+    "client_seed": "1793883329263",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "1f47aaef8e49c1dfda367577d195f6e648918d6d650a2a636aede8a98bdf5286",
+    "result": "152",
+    "external_round_id": "33693324",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T12:55:29.000000Z",
+    "revealed_at": "2026-11-05T12:55:36.000000Z"
+}
