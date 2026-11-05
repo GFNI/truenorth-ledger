@@ -1,0 +1,22 @@
+{
+    "round_id": "26f366fa-03a8-4da7-92ae-b32c98f32b77",
+    "draw_title": "THE £10K DISCO FEVER LEADERBOARD 🪩",
+    "competition_url": "https://geardowncompetitions.com/admin/products/the-ps10k-disco-fever-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "90098f79d8f19a9da01f2f2388ba70cd50cad7a48485eb01ebda718f92e7e631",
+    "drand_seed_hash": "92fa458eb17dcf182685700f056e32a7f3d6a1f20633f11a21f60801ffd171ea5f87dbcf48f3ddeecf85b9d772090980",
+    "client_seed": "1793914889425",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5327,
+    "max_tickets": 9999,
+    "combined_hash": "159e601b95b04eec52727903ad9cf8496656180fcc6b8e75f8d0fddfa98e79da",
+    "result": "2694",
+    "external_round_id": "33703844",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:41:29.000000Z",
+    "revealed_at": "2026-11-05T21:41:36.000000Z"
+}
