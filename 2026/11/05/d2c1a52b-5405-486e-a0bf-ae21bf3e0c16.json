@@ -1,0 +1,22 @@
+{
+    "round_id": "d2c1a52b-5405-486e-a0bf-ae21bf3e0c16",
+    "draw_title": "🍰 49P HARRODS EXCLUSIVE JELLYCAT GLACY CHOCOLATE CAKE 🍓 | £40 CASH ALT!",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/49p-harrods-exclusive-jellycat-glacy-chocolate-cake-ps40-cash-alt",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "410046e96e35ab59387306b2a5b1c0908f3c31884910891e3f1aa7ef0c63b900",
+    "drand_seed_hash": "9456a6ffe24775f5778c98b9b190a97ffc28e89efe557b93d5d82eb0c9b02546f2c0fc1b4a08e700400e0abd55cb1cc6",
+    "client_seed": "1793909234457",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "ea8eb3ccbbc9b34747f5c18b14be7d5cc757dc9acb34889e77399267ce5cb435",
+    "result": "195",
+    "external_round_id": "33701959",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:07:14.000000Z",
+    "revealed_at": "2026-11-05T20:07:21.000000Z"
+}
