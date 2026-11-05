@@ -1,0 +1,22 @@
+{
+    "round_id": "c31498fb-6f4f-469b-84f8-572763a496a9",
+    "draw_title": "🎆 GUY FAWKES & FORTUNES! 🎆",
+    "competition_url": "https://goldenticketcompetitions.com/admin/products/guy-fawkes-fortunes",
+    "operator": {
+        "name": "Golden Ticket Competitions Ltd",
+        "website": "https://goldenticketcompetitions.com",
+        "company_number": "15809779"
+    },
+    "drand_server_seed": "0c53850c879684989a96dfb4a5dd002a1319b07fb6e5f1b72569f0f4ec83ff30",
+    "drand_seed_hash": "836f9d8910bcbe9c391a020d390f920dd569d9f1048f7465d54b652aceaff328a42a0c7bc27cb3c338fdb3f16d845f8b",
+    "client_seed": "1793911466289",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4710,
+    "max_tickets": 28000,
+    "combined_hash": "d9c3ca2ea40837e7836d2aa11c14760629e50c6e670c0cb5112e31ca98e1f0fe",
+    "result": "4346",
+    "external_round_id": "33702703",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:44:26.000000Z",
+    "revealed_at": "2026-11-05T20:44:33.000000Z"
+}
