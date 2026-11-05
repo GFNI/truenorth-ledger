@@ -1,0 +1,22 @@
+{
+    "round_id": "bba5a1a4-dd9b-4425-92d9-c112f03251db",
+    "draw_title": "1982 HALF GOLD SOVEREIGN 9CT BRACELET + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1982-half-gold-sovereign-9ct-bracelet-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "3e731c11c341eacfd6c4c85f52977bd9b35dccc4f452bce1b900723d171e1417",
+    "drand_seed_hash": "aaad6b4a71f3f58f514a9a7390562bf31c164e0f4228c8d524f0a83c25fd7e46aaa6052c4a82581049ea4c4134f9980a",
+    "client_seed": "1793912871755",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1564,
+    "max_tickets": 3000,
+    "combined_hash": "e5d228fed705ed9c6aa1a402234e107a0166f9f32458d5bc55bd563746abda57",
+    "result": "2294",
+    "external_round_id": "33703171",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:07:51.000000Z",
+    "revealed_at": "2026-11-05T21:07:57.000000Z"
+}
