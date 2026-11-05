@@ -1,0 +1,22 @@
+{
+    "round_id": "ea69ec9c-db8f-4bbe-abd4-74ff0bf6aa46",
+    "draw_title": "£100 Cash - Bonfire Night Freebie",
+    "competition_url": "https://starcompetition.co.uk/admin/products/ps100-cash-bonfire-night-freebie",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "fa33788b3475bfc24fb0c9232a9971f682a53a178aa57614362b0655b1a59cb9",
+    "drand_seed_hash": "b5beb01b349d524f0380ce75d08b37e32fb200750f7691074dd7db7a694d6ce71ddeba7772e2629535f98741e59f30c4",
+    "client_seed": "1793916873783",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 382,
+    "max_tickets": 600,
+    "combined_hash": "b74163cc66cf51e13d5dc708c70f2040bd512b40d49333b84731a4d2d2236f30",
+    "result": "552",
+    "external_round_id": "33704505",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T22:14:33.000000Z",
+    "revealed_at": "2026-11-05T22:14:39.000000Z"
+}
