@@ -1,0 +1,22 @@
+{
+    "round_id": "6159a3e4-a456-4e2d-a3aa-185c39397aac",
+    "draw_title": "Bonfire night Big bang Instant Win Comp!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/bonfire-night-big-bang-instant-win-comp",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "25a713a688b9a4c7352eec984d96dbe0bc8b66cfa002e6ace290eec9e1234e42",
+    "drand_seed_hash": "a44abcb2ba10ddb307263060f70a5e8829d239573c379740c7da80f7dc0d14e98abf1e3c10ed5cccd00133d1c007fbbc",
+    "client_seed": "1793909449359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4077,
+    "max_tickets": 19999,
+    "combined_hash": "b843496c2e31bd452e9c71d383892b8feea8c675043214627d261278ce229d09",
+    "result": "11634",
+    "external_round_id": "33702031",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:10:49.000000Z",
+    "revealed_at": "2026-11-05T20:10:57.000000Z"
+}
