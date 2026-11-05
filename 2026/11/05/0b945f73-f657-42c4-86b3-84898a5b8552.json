@@ -1,0 +1,22 @@
+{
+    "round_id": "0b945f73-f657-42c4-86b3-84898a5b8552",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into Suzuki Jimny or £24,000 cash Main Draw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-suzuki-jimny-or",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b9ad1553ae026a2ed45e1fee8ec07112a52b69adf9bc727a5b9b8d287e5db8dd",
+    "drand_seed_hash": "aa9800c0615a2356c2d14936e63515c7be2754bc668de3cfc796592bd0280feb733ca94639fac0c5ffa47d45881ed942",
+    "client_seed": "1793912786150",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 167,
+    "max_tickets": 200,
+    "combined_hash": "97121b4d17fc1edb88d6fd17ce7b740bd5e533c489cff76dd28b1486d1f816e1",
+    "result": "64",
+    "external_round_id": "33703143",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:06:26.000000Z",
+    "revealed_at": "2026-11-05T21:06:33.000000Z"
+}
