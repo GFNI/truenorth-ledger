@@ -1,0 +1,22 @@
+{
+    "round_id": "ba298cfa-6cf0-471f-9830-dc4ac8e3083f",
+    "draw_title": "Firework Frenzy",
+    "competition_url": "https://jetcomps.co.uk/admin/products/firework-frenzy",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "83ca063e852f0adaaa3558423fe1f8e6163b56cb4f7650ecb3707cc61382b336",
+    "drand_seed_hash": "80d792679cb4c33b9ea08efd6c183d5c12718cdf581c2fb0da95d8fe9b5de6c0113c22222472a9a6bb5c56b304aa9350",
+    "client_seed": "1793910958155",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100713,
+    "max_tickets": 250000,
+    "combined_hash": "75d07cb2cb9ae118832e2521acc01b9f0fd009a7a85af28f3447df899ebcaaef",
+    "result": "24278",
+    "external_round_id": "33702534",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:35:58.000000Z",
+    "revealed_at": "2026-11-05T20:36:06.000000Z"
+}
