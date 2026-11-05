@@ -1,0 +1,22 @@
+{
+    "round_id": "575e2def-2ba9-4019-bc43-cabaf2f5e80f",
+    "draw_title": "5P Cash Splash - £250 End Prize",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/5p-cash-splash-ps250-end-prize-7",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "fe27e9109886c779342f03ea036977804fb0b90263676ae5345d93d45b21591f",
+    "drand_seed_hash": "a1e7f15fa18715eaf06bdbcd331fc758a6bef392b230be100d67facfd2ac3e409b09a737ab0e82925fe79fcb7234d494",
+    "client_seed": "1793912753097",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 51539,
+    "max_tickets": 200000,
+    "combined_hash": "465e3bcc46f409b9604d2d4f98945f78b81ba6fc650c5348473856cd2e5d99df",
+    "result": "42823",
+    "external_round_id": "33703132",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T21:05:53.000000Z",
+    "revealed_at": "2026-11-05T21:06:00.000000Z"
+}
