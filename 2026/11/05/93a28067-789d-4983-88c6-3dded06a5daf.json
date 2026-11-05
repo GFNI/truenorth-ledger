@@ -1,0 +1,22 @@
+{
+    "round_id": "93a28067-789d-4983-88c6-3dded06a5daf",
+    "draw_title": "PLAYSTATION 5 1TB & GTA V 🎮",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/playstation-5-1tb-gta-v",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "fc9cbd3b80e8931d1cf3c7ee2642b35c917c7d3457030116e732a849fa169bc9",
+    "drand_seed_hash": "935938afb856e11eef66e036ce059492f6d57bfc2beb2bdc4f322f6cd26761b4ff74bb8cc6a18a1e26754d7f72227c43",
+    "client_seed": "1793911123907",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1350,
+    "max_tickets": 1350,
+    "combined_hash": "7199b95f808353c77329e1f5945cb13e1e419058fc0d8dbc12632edc9dd05a72",
+    "result": "1162",
+    "external_round_id": "33702589",
+    "processing_status": "completed",
+    "created_at": "2026-11-05T20:38:44.000000Z",
+    "revealed_at": "2026-11-05T20:38:51.000000Z"
+}
