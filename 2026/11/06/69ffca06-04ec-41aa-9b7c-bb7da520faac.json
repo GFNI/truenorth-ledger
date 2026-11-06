@@ -1,0 +1,22 @@
+{
+    "round_id": "69ffca06-04ec-41aa-9b7c-bb7da520faac",
+    "draw_title": "⭐100 X £250 WINS ⭐ - £250 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/100-x-ps250-wins-ps250-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "aea690c56b601d8bda85309b15803555078a60c0d2ddad3cd2ee4e9b6a18e2f6",
+    "drand_seed_hash": "a4d222b731f359d3b3ff135f03cb28e73221eb5c13e3414d233ea44feff3d3a99a72875ecb6a44f8d63674066570b8a7",
+    "client_seed": "1794006613501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 24986,
+    "max_tickets": 1700000,
+    "combined_hash": "0575c4b732904e6c588a9c3a43494d4c20aaa7005e33ec7d766022e3d4f21221",
+    "result": "1005542",
+    "external_round_id": "33734419",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T23:10:13.000000Z",
+    "revealed_at": "2026-11-06T23:10:21.000000Z"
+}
