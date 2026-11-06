@@ -1,0 +1,22 @@
+{
+    "round_id": "6c135d0e-8251-4577-a36e-3418079713a4",
+    "draw_title": "🎃 DEAL OR NO DEAL: THE FRIGHT NIGHT",
+    "competition_url": "https://carleycomps.co.uk/admin/products/deal-or-no-deal-the-fright-night",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "d303ddf6552e4c8fc0d116aac3577fededd5a6afac35ab35976d4dc295900f31",
+    "drand_seed_hash": "93e62a6c6fe1bf82b633e14b61387d8715dba153e311763f66381dda1e3f3e6bb8cca09aceeab48fe603f4083ba367ea",
+    "client_seed": "1793988339848",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2926,
+    "max_tickets": 49999,
+    "combined_hash": "6e7d6e6d854b397d5d18f76690d98cc1007969e375e9023d2f3567362f6e94b3",
+    "result": "44334",
+    "external_round_id": "33728327",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T18:05:39.000000Z",
+    "revealed_at": "2026-11-06T18:05:45.000000Z"
+}
