@@ -1,0 +1,22 @@
+{
+    "round_id": "b66447a4-6f7b-4d00-97d7-186b36389e3b",
+    "draw_title": "FRIDAY - ROCKET TO RICHES - £1,000 CASH",
+    "competition_url": "https://geardowncompetitions.com/admin/products/friday-rocket-to-riches-ps1000-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "5d3a159e972ac41eff8bdcc010716c7bff2ac06f194287b8e172b239bb139cb7",
+    "drand_seed_hash": "a8c394f5d5c991ff4a0ac93ad062e8be99dd68eb80a24d7785fa51869269c3bd31e1f7d2c1f778388b164d91caf38545",
+    "client_seed": "1793972676739",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1212,
+    "max_tickets": 1999,
+    "combined_hash": "e12964ef72a5dcc5a766e8e3cfe1430cb11fdb5fdb2d0f7badd122bf27fb2c3c",
+    "result": "110",
+    "external_round_id": "33723106",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T13:44:36.000000Z",
+    "revealed_at": "2026-11-06T13:44:42.000000Z"
+}
