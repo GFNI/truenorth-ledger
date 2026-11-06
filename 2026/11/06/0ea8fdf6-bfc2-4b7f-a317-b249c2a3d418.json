@@ -1,0 +1,22 @@
+{
+    "round_id": "0ea8fdf6-bfc2-4b7f-a317-b249c2a3d418",
+    "draw_title": "£2K Draw",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/ps2k-draw",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "ebc8cea88546e34413247eadb11ee6b348153df6ecf9a057ed49fb86cc21c650",
+    "drand_seed_hash": "84579b24e4d2bb02a3b3589307467ca36d514fa00ddc09c68af1464f87a2feb2cf3936a794decf0cb7036796ab3c0ec8",
+    "client_seed": "1793999436872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4274,
+    "max_tickets": 22922,
+    "combined_hash": "899ff8220b5277b77a8975b4d6704a20a7e27cc719daf3c65b18ecdbbfccfc75",
+    "result": "7602",
+    "external_round_id": "33732026",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:10:36.000000Z",
+    "revealed_at": "2026-11-06T21:10:42.000000Z"
+}
