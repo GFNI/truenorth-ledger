@@ -1,0 +1,22 @@
+{
+    "round_id": "a1c2e682-b63e-492b-aa8a-71c7edcb75ae",
+    "draw_title": "WIN - ACHH CARLOS V2 PRECISE180 DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-achh-carlos-v2-precise180-darts-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "c86300b6e6c26129e05787fb47f044e98d0f8e47d6b684eb5e27907fe6db5b9a",
+    "drand_seed_hash": "abf4db5cb588cfe00a28f2bfeae23ae821970ebccadcd7d18a9f02cb48fa11b32844a896ddfca63ddf6732df21d43007",
+    "client_seed": "1794003204188",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 80,
+    "max_tickets": 80,
+    "combined_hash": "b5b7af4e7d5361d422818f06a29aa299145557f044f0fd9a124740af1b57bd14",
+    "result": "38",
+    "external_round_id": "33733282",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T22:13:24.000000Z",
+    "revealed_at": "2026-11-06T22:13:30.000000Z"
+}
