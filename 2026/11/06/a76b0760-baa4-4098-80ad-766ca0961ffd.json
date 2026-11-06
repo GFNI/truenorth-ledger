@@ -1,0 +1,22 @@
+{
+    "round_id": "a76b0760-baa4-4098-80ad-766ca0961ffd",
+    "draw_title": "£3,500 Cash Splash",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ps3500-cash-splash",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "da01b5a430a23adb5ea8f17e0cbd67d216d2c70bce18043eaf54949f8b334b6f",
+    "drand_seed_hash": "aec9b91da3451578c73ce0648af7e08beb211ae543f4902c7bc681c8069082c61f94bffb2fe901096e23ae910279754c",
+    "client_seed": "1794000627730",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1986,
+    "max_tickets": 3749,
+    "combined_hash": "241495e4f505e4f8377723229d0238a1adeffa59ef71780828404b806ff2467b",
+    "result": "3201",
+    "external_round_id": "33732423",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:30:27.000000Z",
+    "revealed_at": "2026-11-06T21:30:33.000000Z"
+}
