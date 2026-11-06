@@ -1,0 +1,22 @@
+{
+    "round_id": "b7c5ee27-9f98-456c-b15f-414e99715f79",
+    "draw_title": "5K BANGERS AND CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/5k-bangers-and-cash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7e7570daa3d49f1b203aa7b0a698d9fb5c8956d0e7dc0f11e8a55d5a3d84139d",
+    "drand_seed_hash": "9267447a19800406ebe8b13137638697d98af8489df88447acf1ce2103f0302410d77fe469db018a27dda5291a1d1cc3",
+    "client_seed": "1793999374422",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49116,
+    "max_tickets": 110000,
+    "combined_hash": "424c6fc8fac298f90d3e81bbeba7d094709f0cddadebd427a18d1218cd5eddbc",
+    "result": "37219",
+    "external_round_id": "33732006",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:09:34.000000Z",
+    "revealed_at": "2026-11-06T21:09:42.000000Z"
+}
