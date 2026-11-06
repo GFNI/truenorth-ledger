@@ -1,0 +1,22 @@
+{
+    "round_id": "3fd8a108-05ed-4d43-b319-9fe3dd5ac0b6",
+    "draw_title": "SMEG Microwave OR £250 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/smeg-microwave-or-ps250-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "dc7ed3b6468f2b764931dd21c5b29288f950c3082b6e87058faf00962e7977e5",
+    "drand_seed_hash": "80012cd7f0e1a515a2c0d5fa36f3f3ab4558a19d45accd12c87aafc71bfa91c863d19ab442b78ae7e405a08612a3563a",
+    "client_seed": "1794003465977",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2500,
+    "combined_hash": "2f6ca08481213312eacca02529e51766eb77808f3d20e53f795fba8139441b54",
+    "result": "968",
+    "external_round_id": "33733369",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T22:17:45.000000Z",
+    "revealed_at": "2026-11-06T22:17:55.000000Z"
+}
