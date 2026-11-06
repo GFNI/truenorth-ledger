@@ -1,0 +1,22 @@
+{
+    "round_id": "b1aaa369-66ab-4bbd-92d8-3261cd0746ca",
+    "draw_title": "WIN - SIGNED MICHAEL SMITH SHOT FLIGHT (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-signed-michael-smith-shot-flight-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "65a18108a093a1868f354e0d50c0b8f48c9a68e019edf8f68566b129b89cd90c",
+    "drand_seed_hash": "adc2762786598fd0827d8b0c351130f876b5505e1ae5605b0b902a5b603f3e44e39e669d43559c90b8e4178a56a30fd1",
+    "client_seed": "1794000639980",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "0bdf59db3fa40fe6c946e31d0eed72608a6a6892b9f182bd170336ad9cd060d6",
+    "result": "8",
+    "external_round_id": "33732428",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:30:40.000000Z",
+    "revealed_at": "2026-11-06T21:30:48.000000Z"
+}
