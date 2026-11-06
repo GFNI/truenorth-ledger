@@ -1,0 +1,22 @@
+{
+    "round_id": "df5bd3c9-0cd2-4b0a-bc1f-f90af076e9d1",
+    "draw_title": "Ooooh Scary Ass Slots 👻 WIN UP TO £500 INSTANTLY!",
+    "competition_url": "https://carleycomps.co.uk/admin/products/ooooh-scary-ass-slots-win-up-to-ps500-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "e4f0132cdc9770b2ece48f40ff75de43fa73626c7dee0c32ff45e1f88bf5d7e0",
+    "drand_seed_hash": "96b522f109bf1d0c2bbaebb2c0df36d7fed5daf3a7c55f4c7904ad0834c3b5ce91da59a2d9edac247f79c3af59ffd39b",
+    "client_seed": "1793988369099",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15987,
+    "max_tickets": 99999,
+    "combined_hash": "afac6efc8792666750e9cb7d7f4dedca6332ebef513651709f3a7c2bba74cbc7",
+    "result": "53951",
+    "external_round_id": "33728337",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T18:06:09.000000Z",
+    "revealed_at": "2026-11-06T18:06:15.000000Z"
+}
