@@ -1,0 +1,22 @@
+{
+    "round_id": "af7d97de-3eac-460a-b066-e81ccef9a0f9",
+    "draw_title": "Win The Dalmore 17 - Limited Tickets",
+    "competition_url": "https://drawdrop.co.uk/admin/products/the-dalmore-17",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "784f42a47fd17515740bf1447d669eb09ae1037dfbbfc698af32398c6954350f",
+    "drand_seed_hash": "812a5ad546195796e6313968c1a146b43fc9d6e8901e93fc7fd2a497595fc91c7b636b100e914510cf868c6bf142657f",
+    "client_seed": "1794000752267",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 75,
+    "combined_hash": "7cbf394afe354c18c844afe786f6b59bcd011f188791c9204647ea1ecccc866b",
+    "result": "57",
+    "external_round_id": "33732465",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:32:32.000000Z",
+    "revealed_at": "2026-11-06T21:32:39.000000Z"
+}
