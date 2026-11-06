@@ -1,0 +1,22 @@
+{
+    "round_id": "9c67c165-a302-441b-bf16-a98785b56bb6",
+    "draw_title": "£750 Smyths Voucher",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps750-smyths-voucher",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "06604f62d8239af9ccbbab8a2a31180936d67601337d813998bf8b243d810fb0",
+    "drand_seed_hash": "a06572e60720400b29b6da39ef7c886a32fd5c288e82e50f2c474e4bc13a4bfc161140025371b447ea5a51a8862414d3",
+    "client_seed": "1793995095837",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12000,
+    "max_tickets": 12000,
+    "combined_hash": "c7a5e51a41a1a8db27ae6e6e77a9a44d7dcf3e8e653678aee845373c3e98ef18",
+    "result": "9800",
+    "external_round_id": "33730579",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T19:58:15.000000Z",
+    "revealed_at": "2026-11-06T19:58:21.000000Z"
+}
