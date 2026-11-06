@@ -1,0 +1,22 @@
+{
+    "round_id": "7c71e03f-93a0-4705-8eef-d92878627d5a",
+    "draw_title": "WIN - SIGNED CHRIS DOBEY 95K 23G DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-signed-chris-dobey-95k-23g-darts-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "0ed9fbcdb4045d337bf3014c895a1f6c4b64315f0bed8440d6a2073597c82685",
+    "drand_seed_hash": "84d46d06d52bae123d8575837dc4798373b0d8dcb496db61f272bf5328122ed19e1b33b03cac286fd5f10a96ccfd7349",
+    "client_seed": "1794004818680",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 145,
+    "max_tickets": 300,
+    "combined_hash": "10ec2e7a9eb3c0533d49a5ebaeb32b7b53578c78e90da6d7f3d3de2df36816f8",
+    "result": "241",
+    "external_round_id": "33733820",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T22:40:18.000000Z",
+    "revealed_at": "2026-11-06T22:40:24.000000Z"
+}
