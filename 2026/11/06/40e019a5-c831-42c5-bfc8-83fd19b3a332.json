@@ -1,0 +1,22 @@
+{
+    "round_id": "40e019a5-c831-42c5-bfc8-83fd19b3a332",
+    "draw_title": "*BRAND NEW* HARROWS x PAUL SMITH DARTBOARD",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-harrows-x-paul-smith-dartboard",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "ea0d13d06660ffaeb585f8a85f25e1af54c5a03d08350c2a770838448e83d74b",
+    "drand_seed_hash": "8d05771ae8ca52d41172ec50e0297721ce8fb62397d2f1bf435fdf0d6ba734980291454be1aca564760a615d217533f7",
+    "client_seed": "1793996742512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 200,
+    "combined_hash": "c6a758fb631001c205a20f3a210d6b039b4147693e5ad3053c875fda466a3559",
+    "result": "135",
+    "external_round_id": "33731128",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T20:25:42.000000Z",
+    "revealed_at": "2026-11-06T20:25:48.000000Z"
+}
