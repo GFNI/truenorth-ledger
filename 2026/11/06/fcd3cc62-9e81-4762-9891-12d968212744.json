@@ -1,0 +1,22 @@
+{
+    "round_id": "fcd3cc62-9e81-4762-9891-12d968212744",
+    "draw_title": "*BRAND NEW* DAMO HETA GEO QP 90%",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-damo-heta-geo-qp-90",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "4d9af533b2ff459bbdd6e9f7e74184dfbe504a60304e4da254608fd199d0d1d8",
+    "drand_seed_hash": "93832b4ee1dbcff6f7bf90f4346f2e750590125aae11f743d097a9ef8b3d84009c0eedcf670f7001462fdbcf123a9876",
+    "client_seed": "1793996712449",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 84,
+    "max_tickets": 100,
+    "combined_hash": "349425900434106eedda7ac1aa2be708f0305d5251d51b680f7b108853970ac4",
+    "result": "77",
+    "external_round_id": "33731118",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T20:25:12.000000Z",
+    "revealed_at": "2026-11-06T20:25:18.000000Z"
+}
