@@ -1,0 +1,22 @@
+{
+    "round_id": "c2b5d56c-da84-4c9e-8887-2ec6ec334488",
+    "draw_title": "THE 50 GRAND SLAM – 50 x £1,000 PRIZES!",
+    "competition_url": "https://ryscompetitions.com/admin/products/the-50-grand-slam-50-x-ps1000-prizes",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "1b034faf512a4b9dafd4132d7ff7ba1f4232f81244d3da1c7f1a8c500456abce",
+    "drand_seed_hash": "a5a3b86c9a4cda88d591a43aa0d1e883e67b9dc151900b3e3d75f33fb4cdc6bbe0b35c2a7d70dbc0cac8dcfb93e49ac8",
+    "client_seed": "1793999443514",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 514690,
+    "max_tickets": 2000000,
+    "combined_hash": "c62a8eaeb11dba1318b048b6cf59cb8265dbd837f6f2a2b371987211b0ed7ede",
+    "result": "552647",
+    "external_round_id": "33732029",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:10:43.000000Z",
+    "revealed_at": "2026-11-06T21:10:51.000000Z"
+}
