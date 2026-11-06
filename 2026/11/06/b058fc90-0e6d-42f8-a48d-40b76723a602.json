@@ -1,0 +1,22 @@
+{
+    "round_id": "b058fc90-0e6d-42f8-a48d-40b76723a602",
+    "draw_title": "£100K BANGERS & CASH!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps100k-bangers-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "0c598685752541b101a740e89602641c3a2949e5882b6497f6ca335d62f63721",
+    "drand_seed_hash": "836bd913b4986e410974616e6d518a95fd4e33d2d3d01ede6055f85c8139204ee087917706ef98f6e8f2250c33b1f7c8",
+    "client_seed": "1793999952784",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27162,
+    "max_tickets": 99999,
+    "combined_hash": "58e3706bbfef0bbf8aead09609b4573d01d970ec340b1a63a54d697749fa0f8c",
+    "result": "78370",
+    "external_round_id": "33732198",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:19:12.000000Z",
+    "revealed_at": "2026-11-06T21:19:18.000000Z"
+}
