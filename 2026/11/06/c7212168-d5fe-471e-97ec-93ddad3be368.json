@@ -1,0 +1,22 @@
+{
+    "round_id": "c7212168-d5fe-471e-97ec-93ddad3be368",
+    "draw_title": "Flip A Coin 1 In 2 Chance £200 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/flip-a-coin-1-in-2-chance-ps200-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "4e67dda755e15239572662535b98b22aefbfc1f0ee8b2e14c5cb7592743e8239",
+    "drand_seed_hash": "abe45200d22a105608fcafe1b4fb7f32f6825c50ffa9f9ce902f3879c42045c5bc2d9e51e0df6130bbc96c0b558d3468",
+    "client_seed": "1794003296617",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2000,
+    "combined_hash": "f5c3d9ebb75a9f4c1e5b5ddcaa50a85d1b96ac1cbb7395a2a53baf980448ca77",
+    "result": "1238",
+    "external_round_id": "33733313",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T22:14:56.000000Z",
+    "revealed_at": "2026-11-06T22:15:06.000000Z"
+}
