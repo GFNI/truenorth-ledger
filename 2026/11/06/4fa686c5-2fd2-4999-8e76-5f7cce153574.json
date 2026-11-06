@@ -1,0 +1,22 @@
+{
+    "round_id": "4fa686c5-2fd2-4999-8e76-5f7cce153574",
+    "draw_title": "HUNDREDS & THOUSANDS 🍦🌈",
+    "competition_url": "https://competitionsne.co.uk/admin/products/hundreds-thousands",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "cf7a78309926b40d41b345ed8e5371d69b834fd07c4c3cacba9de5c07f035572",
+    "drand_seed_hash": "8f365e9ca27a8dd3d083fb79fe4a3238fecc05085e1e4f8195a76f025168ca32d6eb7150a587ac72e1ddc4e6c401e8eb",
+    "client_seed": "1793999419367",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2783,
+    "max_tickets": 46000,
+    "combined_hash": "0889dfd3728f19b12fc9bd148b3bc6dbad9b1fa000fc6a60a768b7d1150cb63b",
+    "result": "38185",
+    "external_round_id": "33732021",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T21:10:19.000000Z",
+    "revealed_at": "2026-11-06T21:10:27.000000Z"
+}
