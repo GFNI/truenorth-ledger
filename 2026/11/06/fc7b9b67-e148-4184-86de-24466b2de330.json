@@ -1,0 +1,22 @@
+{
+    "round_id": "fc7b9b67-e148-4184-86de-24466b2de330",
+    "draw_title": "WIN - DAMON HETA GEO HARROW DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-damon-heta-geo-harrow-darts-auto-draw-2",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "8af255277cedc3c763cdbcdb9e4f97e57f9ba323881022ddee9b5ec4f2524da1",
+    "drand_seed_hash": "aedec4e0c0e25f2028f2a3ea3b4018148588fe7dfc78238121fb69cc5b1f44260ff9c6654d35d259a88cab1f7f11a6a6",
+    "client_seed": "1794004842533",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 150,
+    "combined_hash": "cd6853d87ac8c0c46b71b25c8a721e86c3fd4ab404cb6c7dfc21ad9a4bdbca48",
+    "result": "24",
+    "external_round_id": "33733828",
+    "processing_status": "completed",
+    "created_at": "2026-11-06T22:40:42.000000Z",
+    "revealed_at": "2026-11-06T22:40:48.000000Z"
+}
