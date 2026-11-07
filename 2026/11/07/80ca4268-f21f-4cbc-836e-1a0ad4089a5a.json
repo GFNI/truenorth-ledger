@@ -1,0 +1,22 @@
+{
+    "round_id": "80ca4268-f21f-4cbc-836e-1a0ad4089a5a",
+    "draw_title": "PAMP SUISSE LAKSHMI 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/pamp-suisse-lakshmi-1oz-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "f5b315b2135e0795ede70831ff1a3df3e8da12deab0045bfc99f715c44f26010",
+    "drand_seed_hash": "a499ba42aa9c78b1ca523533ec58057b16ac4d7266f1becc2d8b07676aa9388f1e467acff295a6e023ed5505f828da81",
+    "client_seed": "1794095709569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 100,
+    "combined_hash": "505afe004472f109b797cc452f9e55cc85f96b32922ad6bd84e1623cfae7976b",
+    "result": "65",
+    "external_round_id": "33764117",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T23:55:09.000000Z",
+    "revealed_at": "2026-11-07T23:55:15.000000Z"
+}
