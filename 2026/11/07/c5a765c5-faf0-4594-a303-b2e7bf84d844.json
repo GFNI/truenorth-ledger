@@ -1,0 +1,22 @@
+{
+    "round_id": "c5a765c5-faf0-4594-a303-b2e7bf84d844",
+    "draw_title": "Penny Glow - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/penny-glow-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "a14b011cf38b26d0e789dd4b9d6039a6a3577551bf1b6b725111ad50777c4566",
+    "drand_seed_hash": "b7ee15d6dbb38b06b843874081e2809f7022936709a7e0b45dd266e950bfc494be0c9a669192d0fd82ffa4821615248a",
+    "client_seed": "1794083898171",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2937846,
+    "max_tickets": 2999999,
+    "combined_hash": "bb6147445ef54604808511ea9ebc5887615a217f48324bc2fed7b80a2582d84f",
+    "result": "2529145",
+    "external_round_id": "33760180",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T20:38:18.000000Z",
+    "revealed_at": "2026-11-07T20:38:24.000000Z"
+}
