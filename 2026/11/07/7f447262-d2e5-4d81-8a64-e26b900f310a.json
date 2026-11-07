@@ -1,0 +1,22 @@
+{
+    "round_id": "7f447262-d2e5-4d81-8a64-e26b900f310a",
+    "draw_title": "£500 Daily Autodraw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/club-daily-1-20261107",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1f842a2622cc14af711de642652d0190dda4de4ccd55846b5704533f21404dfb",
+    "drand_seed_hash": "93afd4515f3efc4fbb2abba2fd0e8983a10df6572278f9a8c9afc98e8dd8878721658d1577e9bfa2186c309272c6f15c",
+    "client_seed": "1794085830544",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12641,
+    "max_tickets": 15708,
+    "combined_hash": "1f05f71cba860cc95b9c91b350369e409496aff60d00b9cdbc531e0065955886",
+    "result": "8064",
+    "external_round_id": "33760824",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T21:10:30.000000Z",
+    "revealed_at": "2026-11-07T21:10:36.000000Z"
+}
