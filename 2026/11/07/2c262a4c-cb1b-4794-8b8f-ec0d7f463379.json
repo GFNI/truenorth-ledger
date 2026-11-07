@@ -1,0 +1,22 @@
+{
+    "round_id": "2c262a4c-cb1b-4794-8b8f-ec0d7f463379",
+    "draw_title": "Lucky’s Genie Wishes",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/luckys-genie-wishes-10",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "2306d63d5087eaf75750587faaf4e486aee76ad7099b3f322229c19942989b6d",
+    "drand_seed_hash": "a9dc64c47790c781fcfb568c70391ad8406ccba1dd341344d011b76cfe91d0625f791a8f13924c9ac9d59efa1f89374c",
+    "client_seed": "1794072037734",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "fb846a911b2f476519cd0cf6167580b1773e91315ebf2424db09028b97f21e58",
+    "result": "5180",
+    "external_round_id": "33756227",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T17:20:37.000000Z",
+    "revealed_at": "2026-11-07T17:20:45.000000Z"
+}
