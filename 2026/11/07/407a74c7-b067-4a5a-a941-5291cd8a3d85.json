@@ -1,0 +1,22 @@
+{
+    "round_id": "407a74c7-b067-4a5a-a941-5291cd8a3d85",
+    "draw_title": "Two Fat Hags",
+    "competition_url": "https://thecashkings.co.uk/admin/products/two-fat-hags",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "5880e6faf32d5eeaf8fc8fc17d32e8ab4d115b01458651fdc1b6fc07756b893c",
+    "drand_seed_hash": "96a75b13fdf8f47d2deef282bee5a97d238c73040023578d0c0a85025005fa201b2de92f4fbc21a1844bd07c4ac315dd",
+    "client_seed": "1794065376357",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800000,
+    "max_tickets": 800000,
+    "combined_hash": "94898f6e63d6394b0a4e029567d2d4a087d2ada6298c693d5c6b05a89fc3fc3b",
+    "result": "500629",
+    "external_round_id": "33754006",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T15:29:36.000000Z",
+    "revealed_at": "2026-11-07T15:29:42.000000Z"
+}
