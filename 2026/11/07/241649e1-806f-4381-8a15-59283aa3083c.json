@@ -1,0 +1,22 @@
+{
+    "round_id": "241649e1-806f-4381-8a15-59283aa3083c",
+    "draw_title": "5 Chances To Win £1,000 Instantly",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/5-chances-to-win-ps1000-instantly-4",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "bdbc1e74a8228d7cf8ebb6331a7abaa97fa0c9e028e53554756ba466f71a35e5",
+    "drand_seed_hash": "a7c37338cf82f830c6bd7c428911e8eed6c9aea6092ae63562a86becdee852cd9223085a66e2e8aff3955b7117766bba",
+    "client_seed": "1794089602740",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 514,
+    "max_tickets": 3000,
+    "combined_hash": "cbf1d4f3f215e6d9d262c0350cff0ec5d1e688072e01b7e57b1969c2a0706ac7",
+    "result": "1020",
+    "external_round_id": "33762082",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T22:13:22.000000Z",
+    "revealed_at": "2026-11-07T22:13:30.000000Z"
+}
