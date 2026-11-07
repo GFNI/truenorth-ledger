@@ -1,0 +1,22 @@
+{
+    "round_id": "3d46f1b8-7d1c-41cc-9f64-8be67c91974e",
+    "draw_title": "WIN A £400 MYSTERY BOX",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-ps400-mystery-box-6",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "4708db70fb743208ec1a6743c16a032e502b06aec2795825a87a27f32abfa9e6",
+    "drand_seed_hash": "972fd96feb1f4bb282b6eb5c14463639244c94037fc3e35a84145e62275f30bf5bf283ae3c23ed266abbc885c18259bf",
+    "client_seed": "1794089508500",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 610,
+    "max_tickets": 1330,
+    "combined_hash": "fbdd9f18ded89ea44dc2dcdf63ba4c1ca41cf134bc65a3edf076e5fa9d3645cf",
+    "result": "316",
+    "external_round_id": "33762050",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T22:11:48.000000Z",
+    "revealed_at": "2026-11-07T22:11:54.000000Z"
+}
