@@ -1,0 +1,22 @@
+{
+    "round_id": "98f95589-9060-4f79-a1c7-0523539e436e",
+    "draw_title": "Delta Reign ETB (Pre Order)",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/delta-reign-etb-pre-order-5",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "79fcdc26fde2d42dd6602daae92dfb81b918ee82ac40f96508ce4e19ec18a992",
+    "drand_seed_hash": "8eafe92d36147f777f1fe7e15929e7854302b204aa4a2b35200034c85bde0fd6856be4b243aad326082ed30d5cf0865a",
+    "client_seed": "1794080288063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 180,
+    "max_tickets": 180,
+    "combined_hash": "7de232808ebbfd69fe5a8bc0ee5e15a6fd684254b96a216b7eff0c96217e61e6",
+    "result": "50",
+    "external_round_id": "33758977",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T19:38:08.000000Z",
+    "revealed_at": "2026-11-07T19:38:15.000000Z"
+}
