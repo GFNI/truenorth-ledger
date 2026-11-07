@@ -1,0 +1,22 @@
+{
+    "round_id": "f024db49-a2c2-4f39-883f-09eada75258d",
+    "draw_title": "Penny Splash - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/penny-splash-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "df3fe761172cc3f61acc3f9d81283b6c1598cf98257642f0f9d9bb503cc62b06",
+    "drand_seed_hash": "8c5af4cb507ab198830643e2d9a33766f8e5ab3b63dababcda94cc800f38c09cf7b1f8afa575011d8b4733ca53e3834b",
+    "client_seed": "1794083870755",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2818626,
+    "max_tickets": 2999999,
+    "combined_hash": "14647f668c42303adee5bef3b8a268cff0109bb28216c858775f8c393d05b348",
+    "result": "625298",
+    "external_round_id": "33760171",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T20:37:50.000000Z",
+    "revealed_at": "2026-11-07T20:37:57.000000Z"
+}
