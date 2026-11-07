@@ -1,0 +1,22 @@
+{
+    "round_id": "c4cdbc62-c556-4a00-ac9c-56eabf6622e5",
+    "draw_title": "WIN A One80 Darts Advent Calendar",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-one80-darts-advent-calendar-4",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "d619a05d0f6d089c93b74c70854d87382da1a4d7eab9143366c9e923c9233c30",
+    "drand_seed_hash": "85ce4dfda0a97adaabc001cf5ed3c40d6440c017399e80c1410ebd5cc902dffcc603632432cd197bc0e118f1e4e34c30",
+    "client_seed": "1794089580481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 71,
+    "max_tickets": 120,
+    "combined_hash": "3f3996e78a599f2e5cca1504b4d2accb60e9ba596f05fc121d7cd8a88da80d53",
+    "result": "112",
+    "external_round_id": "33762074",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T22:13:00.000000Z",
+    "revealed_at": "2026-11-07T22:13:06.000000Z"
+}
