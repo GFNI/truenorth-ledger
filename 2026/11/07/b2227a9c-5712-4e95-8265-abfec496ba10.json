@@ -1,0 +1,22 @@
+{
+    "round_id": "b2227a9c-5712-4e95-8265-abfec496ba10",
+    "draw_title": "Odds Booster 2 Tudor Coke WIN 20 TICKETS",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/odds-booster-2-tudor-coke-win-20-tickets",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "25924397a7509bc0cb7df278085138e3f02838b3916328dd3fdad11da2adaae4",
+    "drand_seed_hash": "8a7ad0be1657fa52d01f3487ed6e207286b269bee6ba318e577767fc13a431ead21619dbf10d8e08480a9187202ba33b",
+    "client_seed": "1794078427936",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "1e7f0ffa658adb64e0cde6acd059ccf3ebf13d7d04d755d1cbe8cb408bb4dfbd",
+    "result": "183",
+    "external_round_id": "33758357",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T19:07:08.000000Z",
+    "revealed_at": "2026-11-07T19:07:15.000000Z"
+}
