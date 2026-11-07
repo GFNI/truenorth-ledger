@@ -1,0 +1,22 @@
+{
+    "round_id": "2d6ede6c-a0c1-46fe-bc9b-8e5923e585b5",
+    "draw_title": "WIN A OMNI AUTO SCORING SYSTEM",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-omni-auto-scoring-system-10",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "d2b2ad5f0b137ce063723675b0ac31037ecd7aa3176b7eece262f6b32c95b481",
+    "drand_seed_hash": "ab39edff71e32352899b5e1fb2d51d3a2923634b821636cd72d1408266c78f821a29fcf369f5d58802f045b032bec7a5",
+    "client_seed": "1794089490679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47,
+    "max_tickets": 115,
+    "combined_hash": "d649096c7152bdc4e9439a0501a6034ff5606031583b21a98e03f5e12b6c0f42",
+    "result": "50",
+    "external_round_id": "33762044",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T22:11:30.000000Z",
+    "revealed_at": "2026-11-07T22:11:36.000000Z"
+}
