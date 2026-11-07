@@ -1,0 +1,22 @@
+{
+    "round_id": "43b92f96-2f67-4d0e-b9a8-a7c2891bf90d",
+    "draw_title": "Fairy Falls ✨",
+    "competition_url": "https://njcomps.co.uk/admin/products/fairy-falls-2",
+    "operator": {
+        "name": "N&J ENTERTAINMENT LTD",
+        "website": "https://njcomps.co.uk",
+        "company_number": "16826732"
+    },
+    "drand_server_seed": "1010e7541e7cc6c5f699c8b8f6f9175475f5ee9a6cb96ff661d9785bb65710a0",
+    "drand_seed_hash": "87edb925b0a07c31186906365c4bd0f7392aa98ed0f4e078060d417826eefb37ebfe359df9caeb577776b91fc9d7e8c1",
+    "client_seed": "1794082231834",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37765,
+    "max_tickets": 38000,
+    "combined_hash": "2de5930b3651b6923e7fa92f42e1c6ccd54a100604ff13c008f7e1e8f1cdd709",
+    "result": "23838",
+    "external_round_id": "33759625",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T20:10:31.000000Z",
+    "revealed_at": "2026-11-07T20:10:39.000000Z"
+}
