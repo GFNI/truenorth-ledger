@@ -1,0 +1,22 @@
+{
+    "round_id": "a4dc84f9-9475-45ee-a791-f8a875ddd436",
+    "draw_title": "Weekend Giveaway",
+    "competition_url": "https://thecashkings.co.uk/admin/products/weekend-giveaway",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "dad2140001ab7a56bb0014caadb8bded5f79a8b8fbb2dad8f8950e8db79eb904",
+    "drand_seed_hash": "967010703161108adbb772a2589f609726596cf368f28d52dddd67130ac07e52c9023952551d162b601c5223f2492120",
+    "client_seed": "1794065383366",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4500,
+    "max_tickets": 4500,
+    "combined_hash": "da60d4b43df1d87f150593ef5ff5d527ad96d2e64929d3c153779b84a8c60952",
+    "result": "2807",
+    "external_round_id": "33754009",
+    "processing_status": "completed",
+    "created_at": "2026-11-07T15:29:43.000000Z",
+    "revealed_at": "2026-11-07T15:29:51.000000Z"
+}
