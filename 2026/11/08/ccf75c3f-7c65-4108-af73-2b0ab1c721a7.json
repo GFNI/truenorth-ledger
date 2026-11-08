@@ -1,0 +1,22 @@
+{
+    "round_id": "ccf75c3f-7c65-4108-af73-2b0ab1c721a7",
+    "draw_title": "Cobra Plinko",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/cobra-plinko-2",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "7ab217613fa3da435232b0b08c6c652ca8f17b851ca925ae70570a2b7d9cb9fe",
+    "drand_seed_hash": "b644bc5fe4c4c769b261ee2d0b54af1c4d25de52ba17d9f03ec703a8851dc421482aadf5f58a10e425f3389e5ba38285",
+    "client_seed": "1794172237037",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 358,
+    "max_tickets": 12000,
+    "combined_hash": "e0d7cdaa4639d4253a50e0337b873421836d26fcb9d0226dc2c9b98b8a0fffaf",
+    "result": "4865",
+    "external_round_id": "33789626",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:37.000000Z",
+    "revealed_at": "2026-11-08T21:10:42.000000Z"
+}
