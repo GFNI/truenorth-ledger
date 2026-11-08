@@ -1,0 +1,22 @@
+{
+    "round_id": "979c05f4-aceb-40a8-acc6-e9f031734649",
+    "draw_title": "WIN 500L OF HOME HEATING OIL!! 08/11",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/win-500l-of-home-heating-oil-0811",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "708d5715d28b9f238909dc0c4253d7aa828fca39cebd2a0ff8210624969ef552",
+    "drand_seed_hash": "832b7919396c510ad05e73cd0934d13f8c762dc1482b700d0a6436865d921335a995de397a08f249bb5de671915ce0f9",
+    "client_seed": "1794175548359",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 138,
+    "max_tickets": 175,
+    "combined_hash": "d9ad1c6fa7e2d4433311c4422ed2620156a327e70fd7a4f625c446164fb01985",
+    "result": "90",
+    "external_round_id": "33790730",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T22:05:48.000000Z",
+    "revealed_at": "2026-11-08T22:05:54.000000Z"
+}
