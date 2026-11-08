@@ -1,0 +1,22 @@
+{
+    "round_id": "55dc1f6b-8e57-41af-8c21-a96b936b72e0",
+    "draw_title": "WIN This 17.3\" ACER Aspire Go Laptop",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-this-173-acer-aspire-go-laptop",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "6a4d5f204506abefec1ceac97574a004132a35d12b5c083f52633f8612c3810f",
+    "drand_seed_hash": "8c6aea24ae200ac555ec61e8e01615b8a3c09e82ffbfd5ae7a032588b9af6a02c8d10f7311b6965db8900c7d3943a718",
+    "client_seed": "1794170679064",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 187,
+    "max_tickets": 425,
+    "combined_hash": "e8009c18762d622e24bfc0557169c836128db443805c2d2592bb625281530eee",
+    "result": "158",
+    "external_round_id": "33789107",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:44:39.000000Z",
+    "revealed_at": "2026-11-08T20:44:45.000000Z"
+}
