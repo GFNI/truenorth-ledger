@@ -1,0 +1,22 @@
+{
+    "round_id": "1ee82ce1-f893-4ad4-b92e-6722b323adca",
+    "draw_title": "Ring door bell & indoor camera",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ring-door-bell-indoor-camera",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "97e546e8e053be67e5bbe4d78c224c055909e9553713614b3131236d3f1e5db1",
+    "drand_seed_hash": "b676f2d9515c993f7f0d5f2e2a7817e61187fa4e7cbe70c251aafce25d7d21b8d12029ac4be650d9c038ac5c2344b81d",
+    "client_seed": "1794168185175",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 157,
+    "max_tickets": 200,
+    "combined_hash": "ed81cdf12c3a645947a4d81f3e6a318a387438eac3d8ccb38508d3d5eec61bc8",
+    "result": "198",
+    "external_round_id": "33788276",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:03:05.000000Z",
+    "revealed_at": "2026-11-08T20:03:12.000000Z"
+}
