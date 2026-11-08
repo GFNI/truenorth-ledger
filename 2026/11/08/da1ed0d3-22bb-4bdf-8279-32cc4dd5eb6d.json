@@ -1,0 +1,22 @@
+{
+    "round_id": "da1ed0d3-22bb-4bdf-8279-32cc4dd5eb6d",
+    "draw_title": "£500 JD SPORTS GIFT CARD",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ps500-jd-sports-gift-card",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "5ce4fdaf572ee8a2598d7f66a0b02a9ea96c41f4a9be65e3dd7814ea9b356af0",
+    "drand_seed_hash": "a991340a4e64c1d07f7072f397a61e7397b3a1c63fe4b403cd6e89ddea0893959e726b1ad84aaee92940e11f31a617d5",
+    "client_seed": "1794172409852",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1020,
+    "max_tickets": 2000,
+    "combined_hash": "3abf43f94862fba9503c20ea66a9275bd4ec7b68e81a7bef0d0f538aea841023",
+    "result": "651",
+    "external_round_id": "33789684",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:13:29.000000Z",
+    "revealed_at": "2026-11-08T21:13:36.000000Z"
+}
