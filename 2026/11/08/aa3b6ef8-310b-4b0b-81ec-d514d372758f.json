@@ -1,0 +1,22 @@
+{
+    "round_id": "aa3b6ef8-310b-4b0b-81ec-d514d372758f",
+    "draw_title": "10 Christmas Chocolate Tubs",
+    "competition_url": "https://thecashkings.co.uk/admin/products/10-christmas-chocolate-tubs",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "e96b40b2f66f915ca597520d959e50aee5f767258415c95d5c56e8649bd2551c",
+    "drand_seed_hash": "aa1e60eadf62beb5d41ac2e0e4646b93d9bd5fb895f563b4883d73fe2ab44718b9e8236b4425b0bf19a95fb6923911c1",
+    "client_seed": "1794132082648",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800,
+    "max_tickets": 800,
+    "combined_hash": "59f98c500a388af5bbe732ee068449fbf019d10f465272b79b34fa32415a0cf7",
+    "result": "154",
+    "external_round_id": "33776242",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T10:01:22.000000Z",
+    "revealed_at": "2026-11-08T10:01:30.000000Z"
+}
