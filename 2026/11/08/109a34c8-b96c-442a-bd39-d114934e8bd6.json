@@ -1,0 +1,22 @@
+{
+    "round_id": "109a34c8-b96c-442a-bd39-d114934e8bd6",
+    "draw_title": "JO MALONE CHRISTMAS KIST ADVENT CALENDAR",
+    "competition_url": "https://expcomps.com/admin/products/jo-malone-christmas-kist-advent-calendar",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "c1230a7397220c2953581b61626e208df4b05e618e06c0d5ea3684007ae2cd4a",
+    "drand_seed_hash": "8e025fc34abb89d065b0704180d05feedfa35b68f8285d699cb39b3f606ce69bec7e133a2f31787444c86436532c5f6a",
+    "client_seed": "1794172293403",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 336,
+    "max_tickets": 799,
+    "combined_hash": "c7ffe07cee7f90dd29aa95e939a5c9f425d45de972716d975fdcef661fd3fcbf",
+    "result": "106",
+    "external_round_id": "33789645",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:11:33.000000Z",
+    "revealed_at": "2026-11-08T21:11:39.000000Z"
+}
