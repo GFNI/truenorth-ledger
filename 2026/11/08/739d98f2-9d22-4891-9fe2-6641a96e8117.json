@@ -1,0 +1,22 @@
+{
+    "round_id": "739d98f2-9d22-4891-9fe2-6641a96e8117",
+    "draw_title": "NINJA DUALZONE XL AIR FRYER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ninja-dualzone-xl-air-fryer",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "68717788353a1a1f3b83b0a9383a398759eb83c1ae73c1f52d1c76723c99cedf",
+    "drand_seed_hash": "aee777addd31b67d725f80dc95577b11ab540f2f72b9a9cf7d58c5a08eccfd1421b03de32a7a52f7c60c97dfeef59c90",
+    "client_seed": "1794171887351",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6059,
+    "max_tickets": 10000,
+    "combined_hash": "7fd31fa9e796d9b44260070ff07092e99fc0b0ac2002373d67ecde8287d17d1c",
+    "result": "5264",
+    "external_round_id": "33789510",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:04:47.000000Z",
+    "revealed_at": "2026-11-08T21:04:54.000000Z"
+}
