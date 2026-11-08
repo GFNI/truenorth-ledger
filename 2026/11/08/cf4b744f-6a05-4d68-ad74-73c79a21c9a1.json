@@ -1,0 +1,22 @@
+{
+    "round_id": "cf4b744f-6a05-4d68-ad74-73c79a21c9a1",
+    "draw_title": "Canadian Blue Green Spruce Christmas Tree",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/canadian-blue-green-spruce-christmas-tree",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "b8795531696aab576a5cefe5bf4ab2e53b13be883bb6f34620c3b9461d58bc0a",
+    "drand_seed_hash": "a5a41caff8b75c02c8cdc9b2237ac9dceef6176d6a976f4ae66497207f744018f8c76f996a0d113a3649784b894aa101",
+    "client_seed": "1794172242777",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 814,
+    "max_tickets": 4499,
+    "combined_hash": "85852eb8afa14edc10318de50ac2c8d9cd3f86221cc71a0a03e8032c6401fdd8",
+    "result": "3913",
+    "external_round_id": "33789628",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:42.000000Z",
+    "revealed_at": "2026-11-08T21:10:48.000000Z"
+}
