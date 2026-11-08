@@ -1,0 +1,22 @@
+{
+    "round_id": "d0735e89-23de-472c-9b08-7da83a0cac00",
+    "draw_title": "AirPods 5",
+    "competition_url": "https://thecashkings.co.uk/admin/products/airpods-5",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "de94365caa3f447dc38e10d028a8f10d06e3aecd20988d7c60e9ccd8fbd3f45b",
+    "drand_seed_hash": "81a17e7096fd00cdab8d5599f13fee190021beb3feb717126326d7fa943d23e24a19460056366eeab8cbb7d4f2c91188",
+    "client_seed": "1794160762790",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 850,
+    "combined_hash": "299ace3d4ae5320b6c7883f9e371b4de8e1ed372bf9e0649747997fd0e0a6226",
+    "result": "208",
+    "external_round_id": "33785802",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T17:59:22.000000Z",
+    "revealed_at": "2026-11-08T17:59:30.000000Z"
+}
