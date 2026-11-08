@@ -1,0 +1,22 @@
+{
+    "round_id": "f675c652-d7e3-4930-b779-78bed59c0b9d",
+    "draw_title": "Win a Pitch Black Booster Box!",
+    "competition_url": "https://retrocompetitions.co.uk/admin/products/win-a-pitch-black-booster-box",
+    "operator": {
+        "name": "Retro Competitions",
+        "website": "https://retrocompetitions.co.uk",
+        "company_number": "15787178"
+    },
+    "drand_server_seed": "51df4537b8337660ff51f83643b8f39c3c216ab25321df55f4a51ff695dbad30",
+    "drand_seed_hash": "829fd12e207b21857aea3b5507b0965bdcb7f3ff6f87fda4dc8601fa934491f1deeebfccf4ffdb6a5bea67dd4ed3f588",
+    "client_seed": "1794167008959",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 199,
+    "combined_hash": "d88ccce33eb0e7d2ece6bf20087653b3f91e3848973378f6a6646c16d898d790",
+    "result": "26",
+    "external_round_id": "33787884",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T19:43:28.000000Z",
+    "revealed_at": "2026-11-08T19:43:36.000000Z"
+}
