@@ -1,0 +1,22 @@
+{
+    "round_id": "2cd45360-c2dd-4df6-9863-1624bc7f4edb",
+    "draw_title": "Glasgow Christmas Market Stay for Two! PLUS £500 SPENDING CASH",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/glasgow-christmas-market-stay-for-two-plus-ps500-spending-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "16dea206c03df30590b342c2e46cdec68cbd861a1e849ac51e8fcb39411b7e49",
+    "drand_seed_hash": "b466cb7c6a2e3053319b6d59902cdc6894ac216e4509c50377b52e69c809dab7940266818fab0ea8b6227d74b02fea03",
+    "client_seed": "1794172207683",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 652,
+    "max_tickets": 799,
+    "combined_hash": "505b12a867275b2637ebe8f0ec54858b7abeffb9e44c5474cb098b4b1892c53b",
+    "result": "443",
+    "external_round_id": "33789617",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:07.000000Z",
+    "revealed_at": "2026-11-08T21:10:15.000000Z"
+}
