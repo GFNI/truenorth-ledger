@@ -1,0 +1,22 @@
+{
+    "round_id": "3c6a44d0-b48c-4e96-9b1e-5d59e6434fc6",
+    "draw_title": "WIN This 14pc NINJA Deluxe FULL Knife Set",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-this-14pc-ninja-deluxe-full-knife-set",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "776a19ec5160e4f78e2907110788a0722ec510c31647c5b09c077270485c08ba",
+    "drand_seed_hash": "abec4ce98d7bd9e9f2d725fb320e29ad4023402645320f2ab8b8013ccbeaff5f972a27cf656a6fbbcc690b13afc8f1c5",
+    "client_seed": "1794170615536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 410,
+    "max_tickets": 942,
+    "combined_hash": "d8d3afb7d99a77abb9e23bc6dcc938781d6dfb8eb4b9d484eed46bfd3401ecf2",
+    "result": "561",
+    "external_round_id": "33789086",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:43:35.000000Z",
+    "revealed_at": "2026-11-08T20:43:42.000000Z"
+}
