@@ -1,0 +1,22 @@
+{
+    "round_id": "8a0bf403-2e67-4c37-aa0f-2c7e6dc5bc73",
+    "draw_title": "£200 TESCO VOUCHER",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/ps200-tesco-voucher",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "5b9c0d1dbfcae532847e2668c115459d420d22bde908d03fc8e80524c2f03f58",
+    "drand_seed_hash": "8aa2d06c991355cc141a5811cd8f516ba1c1170a72bc7e8f6f1070fa7fe515fe954fe1c3fa697105bd368296b80d12c9",
+    "client_seed": "1794172465170",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1887,
+    "max_tickets": 2368,
+    "combined_hash": "4a7e6f93a9bf27a34a063d6e309bcb0e1b59446b436349a6e70d09c60c994b8c",
+    "result": "1611",
+    "external_round_id": "33789703",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:14:25.000000Z",
+    "revealed_at": "2026-11-08T21:14:33.000000Z"
+}
