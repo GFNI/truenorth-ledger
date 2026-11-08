@@ -1,0 +1,22 @@
+{
+    "round_id": "a57637ce-2140-42db-84ac-2e342142bd90",
+    "draw_title": "Costco cupboard essentials",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/costco-cupboard-essentials",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "344ee288902e86a5175a48f20637deeb75334b0d66e3fdaa88fc2fb5df99b64e",
+    "drand_seed_hash": "a030dcce37c1fca12e7a3794267da3b69304712162764752fa52921897c59d8fa7a3ef90f94b2ff5000223f22d2bcc84",
+    "client_seed": "1794168288226",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 299,
+    "max_tickets": 300,
+    "combined_hash": "019ef98d0d7604d231b32c0293d1013cb3741f9c01db5f708f87a4c7273ded95",
+    "result": "70",
+    "external_round_id": "33788310",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:04:48.000000Z",
+    "revealed_at": "2026-11-08T20:04:54.000000Z"
+}
