@@ -1,0 +1,22 @@
+{
+    "round_id": "11908188-506c-4c33-bff8-42e368d70574",
+    "draw_title": "Odds Booster - Win 25 Entries into Shark Vacuum Main Draw",
+    "competition_url": "https://yourgoldenticket.co.uk/admin/products/odds-booster-win-25-entries-into-shark-vacuum-main-draw",
+    "operator": {
+        "name": "Your Golden Ticket",
+        "website": "https://yourgoldenticket.co.uk",
+        "company_number": "SC871969"
+    },
+    "drand_server_seed": "34f2e8dca5a67fa13931e08de64f60f0d7a50bc2164fcdf5827058419d709937",
+    "drand_seed_hash": "97c10a78668dcdfe43105ba6f6681b053921e1868863326bfb3530e665d5be2eefbb2663f08c44a5e3ce4a56d1954ccd",
+    "client_seed": "1794172064328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 100,
+    "combined_hash": "cf803dec74b73005f80ed57c7d53861241b8408e14f401587c56e9932bf9f524",
+    "result": "48",
+    "external_round_id": "33789569",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:07:44.000000Z",
+    "revealed_at": "2026-11-08T21:07:51.000000Z"
+}
