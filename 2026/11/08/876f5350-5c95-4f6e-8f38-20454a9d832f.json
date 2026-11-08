@@ -1,0 +1,22 @@
+{
+    "round_id": "876f5350-5c95-4f6e-8f38-20454a9d832f",
+    "draw_title": "One Piece - The World's Strongest Warriors Booster Box",
+    "competition_url": "https://whiskyclubuk.com/admin/products/one-piece-the-worlds-strongest-warriors-booster-box",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "fe381bfe9ef327c49bf949ffe1cae4a4a3a1d15750550c781a20a2e9647a9d6b",
+    "drand_seed_hash": "852525ee188416d6410196fd85df212beda8ba492682c1e45d5de33f98c70d5f8ffb51b16825b585f23930f8a0d509b6",
+    "client_seed": "1794175864008",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 80,
+    "combined_hash": "80c1a3fe2d0e03843d3843ef76c221054d7522a284ed1563c4042c1764bd8b31",
+    "result": "49",
+    "external_round_id": "33790836",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T22:11:04.000000Z",
+    "revealed_at": "2026-11-08T22:11:12.000000Z"
+}
