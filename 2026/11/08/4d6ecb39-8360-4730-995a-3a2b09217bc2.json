@@ -1,0 +1,22 @@
+{
+    "round_id": "4d6ecb39-8360-4730-995a-3a2b09217bc2",
+    "draw_title": "🎣 Reel In The Riches 💰",
+    "competition_url": "https://cocolococomps.co.uk/admin/products/riches-reel",
+    "operator": {
+        "name": "CocoLoco Comps Ltd",
+        "website": "https://cocoloco.rafflex.uk",
+        "company_number": "16659215"
+    },
+    "drand_server_seed": "19d7cdeed16a666218f66d3718c6817d292d2a26f8edec18edb1bb64f3c437bb",
+    "drand_seed_hash": "a78d32a94a94f812e3945e526cfe40db8d48af931ae621bdbe6010153d4d203afbe435379ed111826cfbc504d9c08f6f",
+    "client_seed": "1794175626654",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "d1bc3dd96b661676121f702dfee1c8a74471f137b661b8d2e13e81f9eb2a8c3d",
+    "result": "1906",
+    "external_round_id": "33790756",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T22:07:06.000000Z",
+    "revealed_at": "2026-11-08T22:07:12.000000Z"
+}
