@@ -1,0 +1,22 @@
+{
+    "round_id": "0f91dde0-6d26-4327-b9b9-7e42d137f521",
+    "draw_title": "PIGGY SMASH",
+    "competition_url": "https://easybigwins.co.uk/admin/products/piggy-smash",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "5ffe981f957de3a2d612d80aebf427d68e428667d464111cf84ccacc96187fa8",
+    "drand_seed_hash": "b7b748d61bb2d86ea95e32cbf2b93e065b9f45438742db293f9ccf3dc37c67425b72f3ebb80bbb1f945bd4b77073bdb1",
+    "client_seed": "1794173549291",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1984238,
+    "max_tickets": 2000000,
+    "combined_hash": "42ed1bb533c193cd22f4ae2df6134745d6178c727d139b9f3aea20c45782e401",
+    "result": "506307",
+    "external_round_id": "33790064",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:32:29.000000Z",
+    "revealed_at": "2026-11-08T21:32:36.000000Z"
+}
