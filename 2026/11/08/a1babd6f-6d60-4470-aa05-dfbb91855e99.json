@@ -1,0 +1,22 @@
+{
+    "round_id": "a1babd6f-6d60-4470-aa05-dfbb91855e99",
+    "draw_title": "WIN THIS ARRAN 14 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-arran-14-year-old-2",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "75fee0a4f7d5dadc79d483d3cd55123c768936ffcfafdecddecc14ebece40904",
+    "drand_seed_hash": "924ee97c265f6243a4fc703570409ad2e1c3f28286b4fd77d244d0a3c3319152937e47317139754c753b9ef46fc247dc",
+    "client_seed": "1794175845166",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 100,
+    "combined_hash": "a90d07e8d836c5b50904d0f0bdd71708a7572260db8a839146dae74bac5f6126",
+    "result": "62",
+    "external_round_id": "33790829",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T22:10:45.000000Z",
+    "revealed_at": "2026-11-08T22:10:51.000000Z"
+}
