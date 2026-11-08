@@ -1,0 +1,22 @@
+{
+    "round_id": "3160fd29-7b73-4a77-a099-cb1902d4e2ed",
+    "draw_title": "HEADS or TAILS, Half of tickets win ,low tickets £2k main and instants up to £2K",
+    "competition_url": "https://winnersclubni.com/admin/products/heads-or-tails-half-of-tickets-win-low-tickets-ps2k-main-and-instants-up",
+    "operator": {
+        "name": "winners club ni",
+        "website": "https://winnersclubni.com",
+        "company_number": "NI694008"
+    },
+    "drand_server_seed": "98ebde20b704d90438042225721b372a775f38dd626a2da65788ec4ff3eba965",
+    "drand_seed_hash": "a3e12701cdf275479eca4f8a1c20c78db6a8761b09ab99881eeb48a79bd61c4d01982a466a9cd887fef216a5fb00405d",
+    "client_seed": "1794168838929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3511,
+    "max_tickets": 4864,
+    "combined_hash": "cd50f69c5533d79d968dbdabd5572595bd34430996a9d2152ed64febd92717d9",
+    "result": "4046",
+    "external_round_id": "33788494",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:13:59.000000Z",
+    "revealed_at": "2026-11-08T20:14:06.000000Z"
+}
