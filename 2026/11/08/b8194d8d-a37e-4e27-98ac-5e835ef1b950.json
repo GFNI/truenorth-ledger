@@ -1,0 +1,22 @@
+{
+    "round_id": "b8194d8d-a37e-4e27-98ac-5e835ef1b950",
+    "draw_title": "10P AUTUMN CASH VAULT",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/10p-autumn-cash-vault",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "b02b2765c8b1d5756c1c343bd8bf29b75ed960ce362da260912ef32a932d00b3",
+    "drand_seed_hash": "aed0afc9f236aea270788daf5c2b7615624203acc515b96b8c8b2070cb7bb57922c798e0c10e7436a34c8a159eb9c0be",
+    "client_seed": "1794172222091",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30880,
+    "max_tickets": 99999,
+    "combined_hash": "60e5cf6aad67ca4c98c5092ff18343513532a34c9148c850497af4e66972cb0c",
+    "result": "27489",
+    "external_round_id": "33789622",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:22.000000Z",
+    "revealed_at": "2026-11-08T21:10:30.000000Z"
+}
