@@ -1,0 +1,22 @@
+{
+    "round_id": "e7d0eaf5-48a7-40ea-8c1f-74488cdfcdee",
+    "draw_title": "WIN £2,000 CASH FOR JUST £1!",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-ps2000-cash-for-just-ps1",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "26abfb1e4952db3f5e36b2bef999229a9be1d978c780343a4dd004fd1fbc5f15",
+    "drand_seed_hash": "8cb379470963f1fd8187a7b9b356c77f2905620c8bc438b9049cd242a61f44d03483056ffeac771bb6f903cecc9ac961",
+    "client_seed": "1794173527455",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2338,
+    "max_tickets": 3999,
+    "combined_hash": "41a92470a3676a9dda4ad39171a8709b3d5a7fdb9189ab77ea21fdd8564a7cc4",
+    "result": "1298",
+    "external_round_id": "33790057",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:32:07.000000Z",
+    "revealed_at": "2026-11-08T21:32:15.000000Z"
+}
