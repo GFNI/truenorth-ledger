@@ -1,0 +1,22 @@
+{
+    "round_id": "4fa147fd-a323-4b09-8a73-d31626f20427",
+    "draw_title": "MIDDAY MADHOUSE 🤯- WIN A Winmau x Red Dragon Advent Calendar",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/midday-madhouse-win-a-winmau-x-red-dragon-advent-calendar",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "655628c83e54629656ea8a1ed0b7561cf5dd2d905b74fdfbb2fc7ff8d80be4b9",
+    "drand_seed_hash": "accf75938921cc686a3edf2529726be951183d2f4e5b7ed00a006dee7e15a3e4a015b891861a60ec867602c7418ba7f8",
+    "client_seed": "1794139818594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 197,
+    "max_tickets": 330,
+    "combined_hash": "18f65e7607ba722d2fa4ff9de7c330761388f454a32da147961b8e0540e1efe2",
+    "result": "153",
+    "external_round_id": "33778820",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T12:10:18.000000Z",
+    "revealed_at": "2026-11-08T12:10:24.000000Z"
+}
