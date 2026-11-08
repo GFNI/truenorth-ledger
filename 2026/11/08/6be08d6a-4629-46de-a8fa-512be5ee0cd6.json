@@ -1,0 +1,22 @@
+{
+    "round_id": "6be08d6a-4629-46de-a8fa-512be5ee0cd6",
+    "draw_title": "Mystery Graded Card Plinko!",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/mystery-graded-card-plinko",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "2f685d560bc9e38848f04f9d5eb4e94ab5f13663ff5ca2239601a0a82612ac44",
+    "drand_seed_hash": "ac24544054b4933d376164eea6d8d147142000c285f1c2ed37d9fb79918d4319b14b0ee3abffd6041c9a567779911a47",
+    "client_seed": "1794170356343",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 44792,
+    "max_tickets": 175000,
+    "combined_hash": "d57c112bf91065c30feeca677f831577a69bf5212be077b960464a1b3be0b562",
+    "result": "166358",
+    "external_round_id": "33789000",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:39:16.000000Z",
+    "revealed_at": "2026-11-08T20:39:24.000000Z"
+}
