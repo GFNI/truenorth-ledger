@@ -1,0 +1,22 @@
+{
+    "round_id": "83de654e-f5ab-4042-bc74-82a40772e5e8",
+    "draw_title": "Lucky Lines: Autumn Nights",
+    "competition_url": "https://phatstax.co.uk/admin/products/lucky-lines-autumn-nights",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "9e01bc5e23db413d7ac3a1db8d4d26c03fed55001bfb11042eb2dea75b8b6250",
+    "drand_seed_hash": "8c784fd3ba826f249ae7f51a79738aeb68c240a19a87dd65796ef1d57a30c96c1222392a43f910c351f89af7581e4332",
+    "client_seed": "1794171731138",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4656,
+    "max_tickets": 8000,
+    "combined_hash": "4b56be6b68682a816051a9269ff984507475e6b7148c998aaaabc44e61b26f01",
+    "result": "4044",
+    "external_round_id": "33789458",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:02:11.000000Z",
+    "revealed_at": "2026-11-08T21:02:18.000000Z"
+}
