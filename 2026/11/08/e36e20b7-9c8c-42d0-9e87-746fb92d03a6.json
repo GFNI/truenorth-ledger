@@ -1,0 +1,22 @@
+{
+    "round_id": "e36e20b7-9c8c-42d0-9e87-746fb92d03a6",
+    "draw_title": "£300 Supermarket Voucher Of Your Choice",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/300-supermarket-voucher",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "2ae5eb6ef53529142757cd0cd11fcde960ab3e6aaab7f205398c057ff78cd1dc",
+    "drand_seed_hash": "a981168026ffc1e706d69e166e9914288b58ff6353d5207c857250cdccb296cee5323cc8d104ce46e7a23b9f4aba7057",
+    "client_seed": "1794170389710",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "24299966a12d84fdd5f0116099e08751e6c1eb00cfc3c3b3793e77a1df5c62a5",
+    "result": "13573",
+    "external_round_id": "33789011",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:39:49.000000Z",
+    "revealed_at": "2026-11-08T20:39:57.000000Z"
+}
