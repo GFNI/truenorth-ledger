@@ -1,0 +1,22 @@
+{
+    "round_id": "ce5ce807-0c45-4dee-963d-70874ee531cd",
+    "draw_title": "BANKROLL BOOSTER SITE CREDIT WINS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/bankroll-booster-site-credit-wins",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "c3361a2b5a6f4971b7d2589a5fed5c9ed77bd0bc9ba549178631386b012f6dda",
+    "drand_seed_hash": "b96ba3bfdfd34b784492dff634d8ecc31cbbc83709e0fc03751368d0a441308b316c4ef9d6791196f8ce56a9171de6ab",
+    "client_seed": "1794172255994",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 493,
+    "max_tickets": 49999,
+    "combined_hash": "f7cbd7f38ab2fef89090934469431a01a7f1da349c8359f7919fa996cce6dbbf",
+    "result": "37765",
+    "external_round_id": "33789633",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:55.000000Z",
+    "revealed_at": "2026-11-08T21:11:03.000000Z"
+}
