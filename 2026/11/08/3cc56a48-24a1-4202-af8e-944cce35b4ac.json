@@ -1,0 +1,22 @@
+{
+    "round_id": "3cc56a48-24a1-4202-af8e-944cce35b4ac",
+    "draw_title": "WHEEL OF FORTUNE - WIN UP TO £2000 INSTANTLY",
+    "competition_url": "https://magmacomps.co.uk/admin/products/wheel-of-fortune-win-up-to-ps2000-instantly",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "585744e4493aa1d666d9d24fc343dda3992b790f5cd0a2ce0a3f00c26095ad76",
+    "drand_seed_hash": "b0ba164d6876daf5688989a9adba192289544c591fb75c15035acda19a8e614a5871a1af52aed424b340d41c5a0451e9",
+    "client_seed": "1794172264663",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22354,
+    "max_tickets": 1000000,
+    "combined_hash": "da0396ce5605be5ff7d7b7fdd1a2ca62fcc8b3582012f68bdcb727e83b630426",
+    "result": "937883",
+    "external_round_id": "33789636",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:11:04.000000Z",
+    "revealed_at": "2026-11-08T21:11:12.000000Z"
+}
