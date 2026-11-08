@@ -1,0 +1,22 @@
+{
+    "round_id": "8df3a9ad-7e4a-4a65-bd64-e650a3d61e67",
+    "draw_title": "The Adrian Knight Experience",
+    "competition_url": "https://ecnicompetitions.com/admin/products/the-adrian-knight-experience",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "abda5b83dba3361f03f1b3ad5c18c42f89265cf122d69438bb399cee0b9f5b47",
+    "drand_seed_hash": "b69af66786baa251ae4715627e518a941b4dc05e43c40b1cacf3949f2fae011dca241b02f8d37376c3a02647e8f33037",
+    "client_seed": "1794174489697",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18,
+    "max_tickets": 300,
+    "combined_hash": "bdf696e797cc7d0acd12c60ff276d9725f6c1c5175cc81e80a154d848d48198c",
+    "result": "262",
+    "external_round_id": "33790377",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:48:09.000000Z",
+    "revealed_at": "2026-11-08T21:48:15.000000Z"
+}
