@@ -1,0 +1,22 @@
+{
+    "round_id": "a4525f25-980d-4dbf-9689-a5637a0ce62b",
+    "draw_title": "Guy Fawkes 1p Plinko!! Huge cash Instants and ticket bundles",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/guy-fawkes-1p-plinko-huge-cash-instants-and-ticket-bundles",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "eab87eda7711b1c11cc0a589aa67629bffdd7ff0998d088fac1a9f8a03872d71",
+    "drand_seed_hash": "8f5ad4b33d94efb420d9eda0c24359846f090ff8405216a5a72946428447e59f036180ffaf2593e8e102ef5f50ec83ca",
+    "client_seed": "1794168399598",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 313786,
+    "max_tickets": 600000,
+    "combined_hash": "93c0a6a5a3a96b4e65587a213c8f2e1924ea5ef88182ca9e84b9197715ec7db8",
+    "result": "568916",
+    "external_round_id": "33788347",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:06:39.000000Z",
+    "revealed_at": "2026-11-08T20:06:45.000000Z"
+}
