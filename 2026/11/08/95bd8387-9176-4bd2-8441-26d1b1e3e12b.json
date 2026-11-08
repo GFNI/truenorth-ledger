@@ -1,0 +1,22 @@
+{
+    "round_id": "95bd8387-9176-4bd2-8441-26d1b1e3e12b",
+    "draw_title": "WIN 2 SAM FENDER FRONT STANDING VIP TICKETS + 2 NIGHT 4★ EDINBURGH HOTEL STAY!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-2-sam-fender-front-standing-vip-tickets-2-night-4-edinburgh-hotel-stay",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "ad46f303659c535d99b1d67b77dc50cbbb4177a4eb61932b74a27c70aeaaacb5",
+    "drand_seed_hash": "89d308998b7b57d2ff92bb45797c880727d94b7ac9e36a907929a586686f633cc95b0e8e834cff3eb025af86adaa5399",
+    "client_seed": "1794172034421",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1370,
+    "max_tickets": 2999,
+    "combined_hash": "46faaded33a9bbece3ae204623b5128ec1cf00200ba65373a8f56aff3d96a3d4",
+    "result": "2634",
+    "external_round_id": "33789559",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:07:14.000000Z",
+    "revealed_at": "2026-11-08T21:07:21.000000Z"
+}
