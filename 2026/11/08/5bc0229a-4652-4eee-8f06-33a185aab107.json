@@ -1,0 +1,22 @@
+{
+    "round_id": "5bc0229a-4652-4eee-8f06-33a185aab107",
+    "draw_title": "DOUBLE DIBS- WIN £500 OF ENTRIES FOR BOTH THE PORSCHE MACAN & THE BMW M135I XDRIVE",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/double-dibs",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "a24ae680b982aafb2550fbe4df19c8af841c704fe17e7e298aad64194d83a87c",
+    "drand_seed_hash": "86ff83caf50c81d32f1216ba7df2d089844e72079ea2d858be9a5f1663219a63a70fdc6ca6e6967ca535f3314689ac31",
+    "client_seed": "1794172230857",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 120,
+    "combined_hash": "0901ea032c2c285752692f6841149693f69328db2e870a215b30f0829ab16bd8",
+    "result": "98",
+    "external_round_id": "33789624",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:10:30.000000Z",
+    "revealed_at": "2026-11-08T21:10:36.000000Z"
+}
