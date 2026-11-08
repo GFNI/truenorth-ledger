@@ -1,0 +1,22 @@
+{
+    "round_id": "b7278b7f-80ec-49d2-b69c-c193e1d6533c",
+    "draw_title": "BEAT THE BANKER - 50/50 CHANCE - £500 END PRIZE",
+    "competition_url": "https://easybigwins.co.uk/admin/products/beat-the-banker-5050-chance-ps500-end-prize",
+    "operator": {
+        "name": "Easy Big Wins Ltd",
+        "website": "https://easybigwins.co.uk",
+        "company_number": "15448425"
+    },
+    "drand_server_seed": "d8c5f996db10d7f0fd4cada38d65c512c79a27cc16380e23b6e715822fa9a78e",
+    "drand_seed_hash": "aabf8cad3d84ccb697ee355aca6b70cf4d52752828b4b2fea2b2ce46dc6dd78d12c70e1ce367d35b60c9ddf353a901ab",
+    "client_seed": "1794173898633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3673,
+    "max_tickets": 20000,
+    "combined_hash": "526f3109d67ff63910269204044197df4518f6b57aad13c7aade9db75525e1c2",
+    "result": "14707",
+    "external_round_id": "33790180",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:38:18.000000Z",
+    "revealed_at": "2026-11-08T21:38:24.000000Z"
+}
