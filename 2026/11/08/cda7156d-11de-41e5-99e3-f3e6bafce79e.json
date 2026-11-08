@@ -1,0 +1,22 @@
+{
+    "round_id": "cda7156d-11de-41e5-99e3-f3e6bafce79e",
+    "draw_title": "Cost of Living Crisis! - £150 Autodraw + Instawin up to £1250!",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/cost-of-living-crisis-ps150-autodraw-instawin-up-to-ps1250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "84d7a35d6789dbbac3fb42593d68017758192e242d6aa7d1f4f260c5fe6386de",
+    "drand_seed_hash": "99a900768e9ac2bea3cd7147c23baba912e860434c74d2b8926c0c1403e3d9ee989b63c9ea0eebef28f3698af7f58391",
+    "client_seed": "1794145470624",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55000,
+    "max_tickets": 55000,
+    "combined_hash": "dbf74b35b52662d686d9a68bb25d6344d00282b21d88e4b75432b91083e324f2",
+    "result": "36100",
+    "external_round_id": "33780704",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T13:44:30.000000Z",
+    "revealed_at": "2026-11-08T13:44:36.000000Z"
+}
