@@ -1,0 +1,22 @@
+{
+    "round_id": "e11cf5ed-c4d7-40ad-a33c-c0996cd31331",
+    "draw_title": "WIN 10 TICKETS INTO 50G GOLD BAR 08.11.26 #2",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-10-tickets-into-50g-gold-bar-081126-2",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "d5512ec5f247b016157bd49c2e4ab8d78c2f4c229b93c765b05360a2fdf8d526",
+    "drand_seed_hash": "b4fd44b122baa35bce8f8d609c74302cf7ba6f10f82db39a1eae34922e1398f1590ec8cfea9ed2ccd26d98a5f38dad33",
+    "client_seed": "1794097147767",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "4517e44650d7b458a579f331f6f2f0299042471b02a46fc6967126e3ff4991cd",
+    "result": "86",
+    "external_round_id": "33764597",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T00:19:07.000000Z",
+    "revealed_at": "2026-11-08T00:19:15.000000Z"
+}
