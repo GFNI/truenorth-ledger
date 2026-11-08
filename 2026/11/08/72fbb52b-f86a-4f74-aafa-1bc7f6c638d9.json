@@ -1,0 +1,22 @@
+{
+    "round_id": "72fbb52b-f86a-4f74-aafa-1bc7f6c638d9",
+    "draw_title": "De'Longhi Oil Filled Radiator - FIRE ODDS",
+    "competition_url": "https://fireprizes.co.uk/admin/products/delonghi-oil-filled-radiator-fire-odds",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "0bfacacda310084c8a127d39bceee84ea4bae5c3d44a16b27d24d7a570f38019",
+    "drand_seed_hash": "886a6be0ca865e0a14f3323e1c7d1c3c1680aa18dbff38fe9e74d3a9508be35ce6e61333eaf49db4345a10c011bc6fcb",
+    "client_seed": "1794173522774",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26,
+    "max_tickets": 66,
+    "combined_hash": "8c8d5b677d0f76310944d230042d35ec5c150111080da880ec59973e09b16d8e",
+    "result": "17",
+    "external_round_id": "33790055",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:32:03.000000Z",
+    "revealed_at": "2026-11-08T21:32:09.000000Z"
+}
