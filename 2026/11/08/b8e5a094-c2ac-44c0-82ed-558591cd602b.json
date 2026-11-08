@@ -1,0 +1,22 @@
+{
+    "round_id": "b8e5a094-c2ac-44c0-82ed-558591cd602b",
+    "draw_title": "1p Auto Draw - £100 Tax Free Cash",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-ps100-tax-free-cash",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "5182b12707be90c0fa27348028be6fe453cfb40f48fc52120b720636a0cd33ad",
+    "drand_seed_hash": "8889b8dac4f7290d6298fe9b8482038d0622c1ed1d2369fe7fb98173d0d4ce22b03732c4bf70ebc040efb20514b1b27d",
+    "client_seed": "1794181234594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19722,
+    "max_tickets": 21000,
+    "combined_hash": "eb5c0784723630b1b7d15b24d4b4932ea3bba683d5dbdcb6bc9a07396a22b7fa",
+    "result": "16052",
+    "external_round_id": "33792626",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T23:40:34.000000Z",
+    "revealed_at": "2026-11-08T23:40:42.000000Z"
+}
