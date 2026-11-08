@@ -1,0 +1,22 @@
+{
+    "round_id": "e550bed0-f030-441e-9284-b453f9d44d22",
+    "draw_title": "Wheelie Wins - Big Ticket Bundles & Cash - £1000 Mystery Ticket End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/wheelie-wins",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "865525d66a15628fe0fe2957a9bef496e9941c47f6bf58e10903d664976750d5",
+    "drand_seed_hash": "af8dff84b2d8d63688b00b1fd2694749f217640c309be7c2a6f1b9e3c7e19f2b35fc122e6e4b7736d382074ec4ed95f0",
+    "client_seed": "1794107371980",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250000,
+    "max_tickets": 250000,
+    "combined_hash": "566fdef24f7527b75172dadd70ecb7b1ed211297d1035fbfa6c76c37c66a2847",
+    "result": "163767",
+    "external_round_id": "33768005",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T03:09:32.000000Z",
+    "revealed_at": "2026-11-08T03:09:39.000000Z"
+}
