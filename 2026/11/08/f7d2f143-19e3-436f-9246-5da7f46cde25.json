@@ -1,0 +1,22 @@
+{
+    "round_id": "f7d2f143-19e3-436f-9246-5da7f46cde25",
+    "draw_title": "WIN Bowmore 25 Year Old Anthology Series No1!",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/win-bowmore-25-year-old-anthology-series-no1",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "6e2856d6cdc40d373901353801a50bd53fbe1c85e516e54f3730c60e6bd97e26",
+    "drand_seed_hash": "a2605722846c55ee6d87372fd5b90e7a2a813cb4b727fb019dc070a8ef3795abca2b8df26bd26aa6aac50fce40a4d102",
+    "client_seed": "1794173500149",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 452,
+    "max_tickets": 899,
+    "combined_hash": "4b37e24c4b0dc30a22dd281cb552f1e5c82c6922dac7fdc7f8bb57648b1e1ea3",
+    "result": "417",
+    "external_round_id": "33790048",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:31:40.000000Z",
+    "revealed_at": "2026-11-08T21:31:48.000000Z"
+}
