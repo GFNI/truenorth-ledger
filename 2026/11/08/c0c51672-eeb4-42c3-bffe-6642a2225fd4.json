@@ -1,0 +1,22 @@
+{
+    "round_id": "c0c51672-eeb4-42c3-bffe-6642a2225fd4",
+    "draw_title": "15 x LIVE Instant Win Reveal | £30,500 in Prizes + £500 Jackpot End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/15-x-live-instant-win-reveal-ps30500-in-prizes-ps500-jackpot-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "b26810e9d47f4338280a6b4dfd8bed2d5e0be4eeeea703b799edb3a4fedfac6a",
+    "drand_seed_hash": "8c0e89d9f77d52168a045c73ff36b88ea6d62a49c8ceca4e648ed4e5389fd22d9c70fdcd680be99c4c90fdbea880fe8a",
+    "client_seed": "1794170756481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3722,
+    "max_tickets": 23462,
+    "combined_hash": "a6943f0d5821f27ce9a373237464a1da88297532110df0bd886642a5602e899b",
+    "result": "15105",
+    "external_round_id": "33789133",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:45:56.000000Z",
+    "revealed_at": "2026-11-08T20:46:03.000000Z"
+}
