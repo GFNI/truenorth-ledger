@@ -1,0 +1,22 @@
+{
+    "round_id": "d8e61def-e355-4f44-a3ed-d6197b179f0c",
+    "draw_title": "£500 Cash — Free Launch Draw",
+    "competition_url": "https://winraff.co.uk/admin/products/ps500-cash-free-launch-draw",
+    "operator": {
+        "name": "Winraff Ltd",
+        "website": "https://winraff.co.uk",
+        "company_number": "16633512"
+    },
+    "drand_server_seed": "15a4dbe7de2fd66578e313cf0c71db372dc2bb9acb5688dc5e22817669d7b3eb",
+    "drand_seed_hash": "88dc79d3e531528342a1966d5c51759755c66fe5ab5b12751c97cb8c82037e1e750586cea17641f5c8b57c8dedee45af",
+    "client_seed": "1794172279208",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 296,
+    "max_tickets": 10000,
+    "combined_hash": "301de778634e099ad0a0258ab20835f0e48bc9fba8d8e2844e12eb30030e3463",
+    "result": "2209",
+    "external_round_id": "33789641",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:11:19.000000Z",
+    "revealed_at": "2026-11-08T21:11:27.000000Z"
+}
