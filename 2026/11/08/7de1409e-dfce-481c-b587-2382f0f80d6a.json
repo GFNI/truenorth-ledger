@@ -1,0 +1,22 @@
+{
+    "round_id": "7de1409e-dfce-481c-b587-2382f0f80d6a",
+    "draw_title": "Bon-FIRE TONIGHT!!! Emoji Hunt with £500 End Prize Plus 3 x £100 Unique runner up prizes",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/bon-fire-tonight-emoji-hunt-with-ps500-end-prize-plus-3-x-ps100-unique",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "0e6ec1823723b25a7a697d435f9aaccc53e9a426f489533a316edb45c13b51c8",
+    "drand_seed_hash": "84a87ceda8af1483194b5ac5f772baaacdc649167a780ab80ebc88b0ce082bfb8894666a19a55c99626bad5b5f6448e2",
+    "client_seed": "1794168468669",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37739,
+    "max_tickets": 120000,
+    "combined_hash": "508fe9ccec88dd55403e6703b589f97f341adbb6b9b8e062b8f1be3d93afb977",
+    "result": "98641",
+    "external_round_id": "33788370",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T20:07:48.000000Z",
+    "revealed_at": "2026-11-08T20:07:54.000000Z"
+}
