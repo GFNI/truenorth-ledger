@@ -1,0 +1,22 @@
+{
+    "round_id": "35ec20a8-f0db-4222-8a64-85863e5b4e45",
+    "draw_title": "LOW ODDS - Win a £1,000 Golden Ticket Into Suzuki Jimny or £24,000 cash Main Draw #5",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/low-odds-win-a-ps1000-golden-ticket-into-suzuki-jimny-or-ps24000-cash-main",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "daceb25b284e14f8766f63df9dded71ac0bcdd476cf4c1350cd4fe7552036fcf",
+    "drand_seed_hash": "a762baac38e059d1082d070d3959323cc50ca5bd00057124aea016e956b6ac176cf8d949bf82bbe73958c2de5b7fd5c1",
+    "client_seed": "1794161424574",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52,
+    "max_tickets": 100,
+    "combined_hash": "f18cd1a26870c91bc14a072d0ac1963a76bdb5de4bc2a927bcc92d50f6531f36",
+    "result": "98",
+    "external_round_id": "33786022",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T18:10:24.000000Z",
+    "revealed_at": "2026-11-08T18:10:30.000000Z"
+}
