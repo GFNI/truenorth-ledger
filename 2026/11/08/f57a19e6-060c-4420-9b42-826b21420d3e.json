@@ -1,0 +1,22 @@
+{
+    "round_id": "f57a19e6-060c-4420-9b42-826b21420d3e",
+    "draw_title": "Nintendo Switch 2 Bundle + Instant Wins",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/nintendo-switch2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "6b9e67fe38d5a8c0832b0fdb7fc007c9922ea72fd3c13d85908cc5019ef598e9",
+    "drand_seed_hash": "b39a3f5a468203800fa65a79cdc5c803773b6b8bc255d6b5c89214bb3b0d8adddf0c263badbc217c62902c7019a1c2b9",
+    "client_seed": "1794172396559",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3951,
+    "max_tickets": 44000,
+    "combined_hash": "d780b9f0bacef1cc48400d45edbde3816d75db906b5351917e10f91423693392",
+    "result": "16984",
+    "external_round_id": "33789680",
+    "processing_status": "completed",
+    "created_at": "2026-11-08T21:13:16.000000Z",
+    "revealed_at": "2026-11-08T21:13:24.000000Z"
+}
