@@ -1,0 +1,22 @@
+{
+    "round_id": "cfd8fcb4-c276-43ec-855f-ff4d0d77670a",
+    "draw_title": "DOUBLE CHANCE",
+    "competition_url": "https://windropcompetitions.com/admin/products/double-chance",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "363505348b90350e77dadcca47a48779093e99096889aa13d3484ad1d4f54f41",
+    "drand_seed_hash": "a77e1fd7f6a13fc47e8687f48499fdd782febbff30d435c7833ac77bf0b92283a413d60672f8b5827e29b8191442ca5e",
+    "client_seed": "1794254725592",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 675,
+    "max_tickets": 3000,
+    "combined_hash": "0a5ddf777743a165e96fee84ef18d402c6afe3cfa926d43a065bbc535b9ebd79",
+    "result": "2051",
+    "external_round_id": "33817123",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:05:25.000000Z",
+    "revealed_at": "2026-11-09T20:05:33.000000Z"
+}
