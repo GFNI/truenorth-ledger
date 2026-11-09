@@ -1,0 +1,22 @@
+{
+    "round_id": "c4e95b5b-32fa-48df-96b6-bf783a776c3d",
+    "draw_title": "💅MEDICUBE BUNDLE💅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/medicube-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d5f2e743726454ccc709885c5390307085da301fbd0c21dbae6a4543f7f4aff3",
+    "drand_seed_hash": "af9b510a66085465ddee49d762fb78c221dec5e2d17f0dbcc0ef9a62e7344d26e990beeed11c776f5cdeaa280d055f1a",
+    "client_seed": "1794253877636",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 970,
+    "combined_hash": "18d38820aee05c949b7a1a49b2ee214a9080bd0024e45ce021e90b89944fcc77",
+    "result": "419",
+    "external_round_id": "33816840",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T19:51:17.000000Z",
+    "revealed_at": "2026-11-09T19:51:24.000000Z"
+}
