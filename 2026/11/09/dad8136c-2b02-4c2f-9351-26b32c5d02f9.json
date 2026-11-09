@@ -1,0 +1,22 @@
+{
+    "round_id": "dad8136c-2b02-4c2f-9351-26b32c5d02f9",
+    "draw_title": "Elf's Pocket Of Cash - Win £200 Cash + 9 x £200 Cash Instant Wins",
+    "competition_url": "https://ryscompetitions.com/admin/products/elfs-pocket-of-cash-win-ps200-cash-9-x-ps200-cash-instant-wins",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "2c4e4c69dde628462d45acfccbb62d8e93649598e5a9f8e11afd9bc78dc5e4dd",
+    "drand_seed_hash": "b3a49116133bdf1c9858953071628b6e80b7582a149e8cf6db2271a3ab3463d6cb122a6ff4d7ec17ea8f9f6fbf0b03c5",
+    "client_seed": "1794254435719",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16837,
+    "max_tickets": 50000,
+    "combined_hash": "b3cb06b0c0aea47a4e0754e907adca4f917ad3e2c87d55f6315b8f60283c334e",
+    "result": "35380",
+    "external_round_id": "33817026",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:00:35.000000Z",
+    "revealed_at": "2026-11-09T20:00:42.000000Z"
+}
