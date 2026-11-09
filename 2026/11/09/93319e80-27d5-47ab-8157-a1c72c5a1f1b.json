@@ -1,0 +1,22 @@
+{
+    "round_id": "93319e80-27d5-47ab-8157-a1c72c5a1f1b",
+    "draw_title": "Meta AI RayBan Glasses Feeder Comp",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/meta-rayban-glasses-feeder",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "ef209a972c2f766ee85cea2e4dfc02b20f07bab0a9f0f7e1ff436713bdfb2070",
+    "drand_seed_hash": "b0b9a9d705392d89fd878b48228d3ffb02f289a2f975b52df05b8016e3287d5f1413fff7464f9407b9775a4f84b45a13",
+    "client_seed": "1794262356569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 506,
+    "max_tickets": 1000,
+    "combined_hash": "b85b0d263748e322f81c4a8ca4e9c7ec8c3ff03a289a05db04bc7a2e1300825e",
+    "result": "657",
+    "external_round_id": "33819666",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T22:12:36.000000Z",
+    "revealed_at": "2026-11-09T22:12:42.000000Z"
+}
