@@ -1,0 +1,22 @@
+{
+    "round_id": "8778b907-2216-48dc-8bcd-6c3b790573b2",
+    "draw_title": "3 x £5 site credit winner",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/3-x-ps5-site-credit-winner",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "f40bbb660a9b12e22a1ddd62f56d020d215365aef6eaff4d535d61725b70bf1a",
+    "drand_seed_hash": "b887ccdb7fb4081448f6653ccbc5f9546144246de0cf1818c042241d1bd86ec9efdbb2e883a649d1591f2b6917f27f29",
+    "client_seed": "1794264683337",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13,
+    "max_tickets": 50,
+    "combined_hash": "5a75d6a074d49e75988dc19a7c80cdc992e8ef4a3e13eedf14488301dae931c9",
+    "result": "7",
+    "external_round_id": "33820442",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T22:51:23.000000Z",
+    "revealed_at": "2026-11-09T22:51:30.000000Z"
+}
