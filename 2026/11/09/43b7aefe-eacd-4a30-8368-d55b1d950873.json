@@ -1,0 +1,22 @@
+{
+    "round_id": "43b7aefe-eacd-4a30-8368-d55b1d950873",
+    "draw_title": "Win Star Wars Mandalorian SP Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-star-wars-mandalorian-sp-darts-4",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "d19a690b3f2ce9ea94711b40b0384a21f179cebeff4110d0b01dc6ff4bd4cd62",
+    "drand_seed_hash": "b8e073ab1b8b3c06c060cf4a8a88a7edd2c01b4a6bfb6080bfbd7fbdef2de75a8b60061c8e72bc6b53bcfd7665bea309",
+    "client_seed": "1794262224676",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 170,
+    "combined_hash": "b3e420322b1fb22c357dab677b8cf3d5bc3de7d21190cf56b2d8fc817371529a",
+    "result": "150",
+    "external_round_id": "33819622",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T22:10:24.000000Z",
+    "revealed_at": "2026-11-09T22:10:30.000000Z"
+}
