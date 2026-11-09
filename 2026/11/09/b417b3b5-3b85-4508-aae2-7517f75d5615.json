@@ -1,0 +1,22 @@
+{
+    "round_id": "b417b3b5-3b85-4508-aae2-7517f75d5615",
+    "draw_title": "Elf's Behaving Badly! Win £300 Cash + 30 x £30 Instant Win Prizes",
+    "competition_url": "https://ryscompetitions.com/admin/products/elfs-behaving-badly-win-ps300-cash-30-x-ps30-instant-win-prizes",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "8bd0ee653d37d8173bf6f369ccb76efe4eea44d5c468f97e794808ccb4cba9f4",
+    "drand_seed_hash": "b7469db1d35d2c8f8cced85f80ed29975207f0a9998e8148c9e681829944e7a198e24772b4b871dc412817d8af93568b",
+    "client_seed": "1794254448610",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7594,
+    "max_tickets": 15000,
+    "combined_hash": "c74a2f44767169fb4f3a721cadd2f84dd7089e22b6e8cb31904c41461488eaed",
+    "result": "5024",
+    "external_round_id": "33817030",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:00:48.000000Z",
+    "revealed_at": "2026-11-09T20:00:54.000000Z"
+}
