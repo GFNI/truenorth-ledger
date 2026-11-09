@@ -1,0 +1,22 @@
+{
+    "round_id": "f7cdf288-78d1-4ab1-9360-3ca47dfc6289",
+    "draw_title": "WIN - GARY ANDERSON PHASE 5 - LOW ODDS (24G) (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-gary-anderson-phase-5-low-odds-24g-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "2e638a7976848ca0be9408ae9268e8f3c8bb8f5578b4ae3067dd88d613fac5ac",
+    "drand_seed_hash": "8534001dc6c9379c4774a35a173721dfa8cdc4993d60932365a17acd1b7f66cd26b9ef099550d1edf4a94538bddec726",
+    "client_seed": "1794245710053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "fd5792b9fa0405c16625e6adaf4167016aef156b7815026a8218c89add4eacaf",
+    "result": "42",
+    "external_round_id": "33814118",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T17:35:10.000000Z",
+    "revealed_at": "2026-11-09T17:35:18.000000Z"
+}
