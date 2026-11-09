@@ -1,0 +1,22 @@
+{
+    "round_id": "dfd9f512-66bd-4ce7-aaa2-cfcfd00b7bf5",
+    "draw_title": "Lego Star Wars Advent Calendar",
+    "competition_url": "https://jetcomps.co.uk/admin/products/lego-star-wars-advent-calendar",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "69fe01ca33b17bda003865d8376b6591276e588d2efda2e9d2dd3773c9b2e8f2",
+    "drand_seed_hash": "a1afcbe52c3cd7828258d14f78c4aa85f15cbc28aeeb968194dd11d86a39c134b96d5ef05931f82e58e4fe86bfb776e3",
+    "client_seed": "1794256238981",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47,
+    "max_tickets": 47,
+    "combined_hash": "4c612bf422e957eeb6eca589c5c38cc79e064452162ca7b52ffa56067b76d70b",
+    "result": "39",
+    "external_round_id": "33817627",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:30:38.000000Z",
+    "revealed_at": "2026-11-09T20:30:45.000000Z"
+}
