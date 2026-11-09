@@ -1,0 +1,22 @@
+{
+    "round_id": "c50a0c7a-cb1c-492e-82f1-00d9decd0e92",
+    "draw_title": "Gold Rush",
+    "competition_url": "https://chaotic.co.uk/competition/gold-rush-4489",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "1fdf41b7fda35dbcf702118c3dd27027bd5e240178f55537a7280559445888e1",
+    "drand_seed_hash": "8e91b52d506da286c85b6c14aa6df63dd2e553ce16a10a9fd1b20fd26339e0674553de37ba64b137f52ed4cfe881e096",
+    "client_seed": "1794256460611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "f52a0893f2d8b15e4c9d6ea9931cf36c2633f769731ff6263b74a4375517880d",
+    "result": "38",
+    "external_round_id": "33817701",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:34:20.000000Z",
+    "revealed_at": "2026-11-09T20:34:27.000000Z"
+}
