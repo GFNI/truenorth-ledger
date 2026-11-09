@@ -1,0 +1,22 @@
+{
+    "round_id": "09a4f181-8d6e-4fd1-b3a4-4e62f3449b59",
+    "draw_title": "💎 Granny Betty’s Jewel Heist 💎",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/granny-bettys-jewel-heist",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "6fbc4bea3f752276210986503c4150c07682a725c0c58261fd453fc1c16dd00a",
+    "drand_seed_hash": "b2d840581e96f1ffd96babd14c4f1cfb03bf28c66a62f1a9521fe59f1cb67b6c3e6365e3438cbbdcce7f0a9ba93ec94b",
+    "client_seed": "1794265838788",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2789,
+    "max_tickets": 125000,
+    "combined_hash": "ca5751d187d6a3c304788a096755c0895515c712c55148583287979026000d61",
+    "result": "19035",
+    "external_round_id": "33820827",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T23:10:38.000000Z",
+    "revealed_at": "2026-11-09T23:10:45.000000Z"
+}
