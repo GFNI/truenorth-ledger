@@ -1,0 +1,22 @@
+{
+    "round_id": "1d6d3598-aeed-4fd3-88c9-32b0a50041d5",
+    "draw_title": "Honey Heist",
+    "competition_url": "https://chaotic.co.uk/competition/honey-heist-2967",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "e38fe9b4a8a211ce0711e4f12f2928abe8ade71e0d37b942a2b764fea1a4a048",
+    "drand_seed_hash": "87a7768613e888083a005dd108fe3811c78f9fa9a12155b40c3f1e019da7839019ca733d223213d7fb72a8b6716a17e6",
+    "client_seed": "1794256690623",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "f08473a5ca4f9c42045c8afdf609f0c49252b1bef4388caf94a8b411ae7a19bf",
+    "result": "211313",
+    "external_round_id": "33817778",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:38:10.000000Z",
+    "revealed_at": "2026-11-09T20:38:18.000000Z"
+}
