@@ -1,0 +1,22 @@
+{
+    "round_id": "14dcd026-b7c3-4381-8fb8-9c38de36cb97",
+    "draw_title": "£250 FREE Food Shop Bonanza",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps250-free-food-shop-bonanza",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "b26f0ab46183530be42b690b63a40a5eb2c22364303ff06c309e5797d05f032c",
+    "drand_seed_hash": "ae3f427a90de8ee659819d06fe6fa092f21489dd3a9df1b88221db8edbca6835b61bf6e101fed40055d1b065b65fa929",
+    "client_seed": "1794255393747",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1972,
+    "max_tickets": 5000,
+    "combined_hash": "87240161fe4fd2f64c6748e5e194a62e5d5005dfd834764b4e46cc0faa91bd4d",
+    "result": "4840",
+    "external_round_id": "33817345",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:16:33.000000Z",
+    "revealed_at": "2026-11-09T20:16:39.000000Z"
+}
