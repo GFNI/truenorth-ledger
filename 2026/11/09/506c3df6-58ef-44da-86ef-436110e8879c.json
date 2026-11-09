@@ -1,0 +1,22 @@
+{
+    "round_id": "506c3df6-58ef-44da-86ef-436110e8879c",
+    "draw_title": "A Trip To Santa's Cottage for the Family",
+    "competition_url": "https://giveawaycompetition.com/admin/products/a-trip-to-santas-cottage-for-the-family",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "77ccff59d3c17fe8f1f2dc2c4ef23d39f3847106253ede65ca6f5ee35ea38892",
+    "drand_seed_hash": "b13cc3638a8a678461d3ca21a562792e4a379e750f4dfa1b9109221150173b06bf852e9e2feb8adb08d4e7f40696ce06",
+    "client_seed": "1794261592533",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110,
+    "max_tickets": 300,
+    "combined_hash": "2a120d308d2f17babf7862fc7fc1a4a8334b16f2b86f8799e4c4015e514d8af2",
+    "result": "287",
+    "external_round_id": "33819412",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T21:59:52.000000Z",
+    "revealed_at": "2026-11-09T22:00:00.000000Z"
+}
