@@ -1,0 +1,22 @@
+{
+    "round_id": "12351f40-2c87-429c-8046-af5b715227c4",
+    "draw_title": "email tester comp",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/email-tester-comp",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "661d723a86846c1402835b61ad45200980865a0aa3ddac2c064102fbc8937c50",
+    "drand_seed_hash": "b7f91d49c5820e8ba246ffb9d8963078e635dc5995881da7effe94c92bdb29faa683c6d3e63a680da0a925ed82510a83",
+    "client_seed": "1794250004265",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20,
+    "max_tickets": 20,
+    "combined_hash": "cf485edd97c14f9b3a88dc60920d75f13b81dc4aa1d90c5d787e129f7ddec9e6",
+    "result": "20",
+    "external_round_id": "33815549",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T18:46:44.000000Z",
+    "revealed_at": "2026-11-09T18:46:51.000000Z"
+}
