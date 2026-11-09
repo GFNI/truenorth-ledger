@@ -1,0 +1,22 @@
+{
+    "round_id": "07487af9-4665-4638-ab98-3b06c12a0000",
+    "draw_title": "Werner Linking Pro Platform x 2 (Pair)",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/werner-linking-pro-platform-x-2-pair",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "2f54d3ff493203fe92634ccddb2ce47c7727a809f5af6d022487bd5495f68a6d",
+    "drand_seed_hash": "b1348bf94bdc2039e1ffd9a9b83dd8d53e383b38f9060a4df5abd6355c605a833f281377f3f94a1f20f9762c02a55ce1",
+    "client_seed": "1794260712611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2117,
+    "max_tickets": 3500,
+    "combined_hash": "579ad06f48bb09d33d1572b0d5c912692b87b2bf106e22aa3239c9d79d8d3a24",
+    "result": "1476",
+    "external_round_id": "33819118",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T21:45:12.000000Z",
+    "revealed_at": "2026-11-09T21:45:18.000000Z"
+}
