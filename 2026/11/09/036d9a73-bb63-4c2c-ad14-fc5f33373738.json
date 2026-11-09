@@ -1,0 +1,22 @@
+{
+    "round_id": "036d9a73-bb63-4c2c-ad14-fc5f33373738",
+    "draw_title": "PANINI World Championship Darts 2026",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/panini-world-championship-darts-2026",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "26457d891d81b3c8e4dc712c91c7948a2421bba63b80c8312ca3d8ebd56a8933",
+    "drand_seed_hash": "ac94e8a6131e3dbfdb8ec3060afdb19faca2c4d3288e87091ac646cb55c712b528d6b16527907ce279ca3acdc9c78469",
+    "client_seed": "1794262218739",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 200,
+    "combined_hash": "05340cef3cbce4bb29d73ce09ccfdfd79b7d23ef46eeeb335c3aea42d3c32611",
+    "result": "174",
+    "external_round_id": "33819620",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T22:10:18.000000Z",
+    "revealed_at": "2026-11-09T22:10:24.000000Z"
+}
