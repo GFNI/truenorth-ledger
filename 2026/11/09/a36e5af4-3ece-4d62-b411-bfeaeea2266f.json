@@ -1,0 +1,22 @@
+{
+    "round_id": "a36e5af4-3ece-4d62-b411-bfeaeea2266f",
+    "draw_title": "Valentino Rockstud Handbag",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/valentino-rockstud-handbag",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8f46d934450c4b3e65f1e974d4426c85786b3e4b269938a8228f6e5c7ee12731",
+    "drand_seed_hash": "91096e6de0be84480491cb11f741a34d5938faf2c97d36ef07c8309df18f6c1a91c6c5fa1f031c0b1eb30c41d1bcf1b7",
+    "client_seed": "1794254471513",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1938,
+    "max_tickets": 4000,
+    "combined_hash": "f32801eb59337cbcfb891352e3ce1f07101c6005d023b93b02f60b9567e9a584",
+    "result": "1780",
+    "external_round_id": "33817038",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:01:11.000000Z",
+    "revealed_at": "2026-11-09T20:01:18.000000Z"
+}
