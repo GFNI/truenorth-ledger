@@ -1,0 +1,22 @@
+{
+    "round_id": "602883d4-da45-4436-bf13-66760c33f6a7",
+    "draw_title": "Disco Diva 🪩",
+    "competition_url": "https://redlemonx.co.uk/admin/products/disco-diva-2",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "0c564d74090eb16162c17709823076b6663e376837b83731ef85b02e621f392d",
+    "drand_seed_hash": "a8693c66d34b29dc97349afa8f8c36947067d392b87c86dd7e442124760bbd2acda81ebfcaadd8acf576a9da63abface",
+    "client_seed": "1794256513061",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4661,
+    "max_tickets": 6999,
+    "combined_hash": "e903aef7ec3abb51997f9e9a6988efd40cf5256e3814d979ad154e5f05d8a2da",
+    "result": "328",
+    "external_round_id": "33817719",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:35:13.000000Z",
+    "revealed_at": "2026-11-09T20:35:21.000000Z"
+}
