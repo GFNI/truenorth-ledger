@@ -1,0 +1,22 @@
+{
+    "round_id": "42667d1a-34fe-4a4d-9b9e-599fbfdd8b44",
+    "draw_title": "1,000 Tickets into Maldives comp! 😍",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/1000-tickets-into-maldives-comp-3",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "0729983a84822efec7bd5b92ad7cd050ced76b07e309135e5f2ab76079928fb0",
+    "drand_seed_hash": "8df1be37c6730764375c6bd164f12a1ddb9d982f7faae59bc6e5042b85d0fb3eeaa1f82b6c9a489a1defe3e4a6ddf524",
+    "client_seed": "1794255051560",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 316,
+    "max_tickets": 1000,
+    "combined_hash": "8b5aff265a78b1f6d0fdfc705f750831c2705036a8cf346e6b71a657db8a8f93",
+    "result": "68",
+    "external_round_id": "33817231",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:10:51.000000Z",
+    "revealed_at": "2026-11-09T20:10:57.000000Z"
+}
