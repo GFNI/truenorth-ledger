@@ -1,0 +1,22 @@
+{
+    "round_id": "a36c9250-4796-420b-925d-c505be94a025",
+    "draw_title": "PENNY POWER PLINKO",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/penny-power-plinko",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "049fb4b376c13fe309a94bcea37d435e0cb53561cf08c405c8a3429817c147cb",
+    "drand_seed_hash": "b831590fce575b24b8a693248840252547c7e860f28147419c71a2454fee8db57bea601ab40bff66c075dc37ed2b50d2",
+    "client_seed": "1794255148390",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 216943,
+    "max_tickets": 999999,
+    "combined_hash": "6a97cd03e3b6cd8aeb61594fc863f93ef7ed0564ee6a779fc5dfe31a48f3ee2b",
+    "result": "805354",
+    "external_round_id": "33817264",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:12:28.000000Z",
+    "revealed_at": "2026-11-09T20:12:36.000000Z"
+}
