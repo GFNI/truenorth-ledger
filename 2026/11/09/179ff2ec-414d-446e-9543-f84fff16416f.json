@@ -1,0 +1,22 @@
+{
+    "round_id": "179ff2ec-414d-446e-9543-f84fff16416f",
+    "draw_title": "Lucky’s Ticket Booth 4",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/luckys-ticket-booth-4",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "82c18ad978702ecd84100b0b3db5652206fd1184e0534ea9e2871744533f9661",
+    "drand_seed_hash": "b9d7d70e43b37950156b4d606d1f0a1d5246902bb3fbcb040b87da1cf01447411c335e6f417f4a240d3c6612b40dbb12",
+    "client_seed": "1794255667363",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "01989a6a80896791bd0157e3373fe80e03047a2417e4fd0cf39db408cfd6b16e",
+    "result": "16354",
+    "external_round_id": "33817436",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:21:07.000000Z",
+    "revealed_at": "2026-11-09T20:21:12.000000Z"
+}
