@@ -1,0 +1,22 @@
+{
+    "round_id": "fb2ffeb9-2017-4f68-b8c1-1093f14a894b",
+    "draw_title": "No7 Ultimate Advent Calendar",
+    "competition_url": "https://jetcomps.co.uk/admin/products/no7-ultimate-advent-calendar",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "4b6e16c0fc70f105c8674de8b5a1ad99d641065ac61faaa6c2d454eeaf23e5cc",
+    "drand_seed_hash": "89076c47246cca5724877866db0c8898d1929a88cd379a5d175b771eeb0373ae5beb2ded606154c55ba55e0fb39f0590",
+    "client_seed": "1794257359800",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 154,
+    "max_tickets": 299,
+    "combined_hash": "8338741f30bb4f802a74586f8b5ebc9871a1a05fb8caec21f88844b8e585913b",
+    "result": "157",
+    "external_round_id": "33818001",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T20:49:19.000000Z",
+    "revealed_at": "2026-11-09T20:49:27.000000Z"
+}
