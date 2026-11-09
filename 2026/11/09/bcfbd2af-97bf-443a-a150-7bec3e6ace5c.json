@@ -1,0 +1,22 @@
+{
+    "round_id": "bcfbd2af-97bf-443a-a150-7bec3e6ace5c",
+    "draw_title": "Crieff Hydro One Night Spa Stay For Two (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/crieff-hydro-one-night-spa-stay-for-two",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "3984eb3e1a0ed1a5c8ed373f42558cc752099e8f9b3b64b45ad788d6e45a20ae",
+    "drand_seed_hash": "b5e8279f29d7daa523b5c1a4c1aef3ddafa35e15afc43ba442f142a6ee3907efc13abfd8219336f4acb55e0ea40fac10",
+    "client_seed": "1794262895183",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 2000,
+    "combined_hash": "f2a86ee99e381241e451d1072721dd79bd4ef846971417315196bbe065ef438c",
+    "result": "1539",
+    "external_round_id": "33819846",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T22:21:35.000000Z",
+    "revealed_at": "2026-11-09T22:21:42.000000Z"
+}
