@@ -1,0 +1,22 @@
+{
+    "round_id": "7500b51e-7cd0-4c6c-bfd1-8a74c1e8f348",
+    "draw_title": "M&S christmas dinner",
+    "competition_url": "https://bruceybonuscompetitions.co.uk/admin/products/ms-christmas-dinner",
+    "operator": {
+        "name": "Brucey Bonus Competitions Ltd",
+        "website": "https://bruceybonuscompetitions.co.uk",
+        "company_number": "SC892851"
+    },
+    "drand_server_seed": "b82d598f9d50bded85d73b2286819017a315d7dc6141f109c03b83e93bc535be",
+    "drand_seed_hash": "8447a112a8f9d37f8e43e744ad9a7fa11aae00e9826ced88fbf59e0921f4f914ce37de99d7a7efbe8cec5668802f024a",
+    "client_seed": "1794260095523",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 350,
+    "max_tickets": 350,
+    "combined_hash": "94146e83c0feb485cfa36db69e84bf86900a84301d9e3f1ed938f32e1e977bfb",
+    "result": "125",
+    "external_round_id": "33818913",
+    "processing_status": "completed",
+    "created_at": "2026-11-09T21:34:55.000000Z",
+    "revealed_at": "2026-11-09T21:35:03.000000Z"
+}
