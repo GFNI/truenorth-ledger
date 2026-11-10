@@ -1,0 +1,22 @@
+{
+    "round_id": "23c23723-4985-4854-9e38-9462b187f7e9",
+    "draw_title": "Win a Luke The Nuke Limited Edition Born To Win Dartboard",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-luke-the-nuke-limited-edition-born-to-win-dartboard",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "0e75c3b0e2cf00572b08c8f625d03e80766c2f450b145e4845ddc84bb3a6e0e1",
+    "drand_seed_hash": "8bf32b738a1b17a24855199f09deff63755f1f5bcc20eae8f92086b8d73a083390f0de034f89c478507699044c70cbb0",
+    "client_seed": "1794343211202",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 91,
+    "max_tickets": 240,
+    "combined_hash": "5240281de3c4ca756e6c778860758f59de77a7a3b21b4ffdecf32cb503841c7e",
+    "result": "51",
+    "external_round_id": "33846618",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T20:40:11.000000Z",
+    "revealed_at": "2026-11-10T20:40:18.000000Z"
+}
