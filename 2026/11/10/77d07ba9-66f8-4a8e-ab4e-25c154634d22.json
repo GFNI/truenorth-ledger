@@ -1,0 +1,22 @@
+{
+    "round_id": "77d07ba9-66f8-4a8e-ab4e-25c154634d22",
+    "draw_title": "WIN JOSH ROCK LIMITED EDITION DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-josh-rock-limited-edition-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "bd2c79f2abdc5250e4788617794838272a3cd9b5f06520e14c224019bf555439",
+    "drand_seed_hash": "88e4978b3ac7ff4748ef9127bb9c2ee8f60c6c48ed834cb6f015b8c1c070488000aea63169e02752b1f35faacc622d95",
+    "client_seed": "1794343239235",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 137,
+    "max_tickets": 360,
+    "combined_hash": "9b3982da2e0723fd9cca853a9f69e5a7c32f312018aae924f4e229a853a06c54",
+    "result": "36",
+    "external_round_id": "33846627",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T20:40:39.000000Z",
+    "revealed_at": "2026-11-10T20:40:45.000000Z"
+}
