@@ -1,0 +1,22 @@
+{
+    "round_id": "b0b9c890-f8ec-4ba5-866c-98957a6595d3",
+    "draw_title": "THE SPOOKY SQUISH: WIN A JELLYCAT BARTHOLOMEW BEAR OR £60 CASH",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-spooky-squish",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "b287abe96441f48dfa4284bb32f1076b3985e8d516620a0017900d41a452e2ce",
+    "drand_seed_hash": "b0d578f96187288e1f617a389b9aa379c784ff8301b57d876f191145471cfa8bbe755f616946d27d3d7fbf5e02dd1996",
+    "client_seed": "1794339841430",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 453,
+    "max_tickets": 700,
+    "combined_hash": "ad1a14662b34ab314a634395cbddea9c9961eb7c506fc995e12280368b35f937",
+    "result": "182",
+    "external_round_id": "33845495",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T19:44:01.000000Z",
+    "revealed_at": "2026-11-10T19:44:09.000000Z"
+}
