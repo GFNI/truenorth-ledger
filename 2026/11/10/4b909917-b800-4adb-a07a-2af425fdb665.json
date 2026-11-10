@@ -1,0 +1,22 @@
+{
+    "round_id": "4b909917-b800-4adb-a07a-2af425fdb665",
+    "draw_title": "£5K BIG FISH FORTUNE",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-big-fish-fortune",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "9f2ba5fdc3cc00efaa094d02cfe65a17bac1e9e8add25c9d883577c02db36851",
+    "drand_seed_hash": "91032b8cb434d9019f3e5de9f2575417d3f5b8431193a0bf04ce3313da4d2cb6849145795b8ce5ee64405255ade93a16",
+    "client_seed": "1794345897236",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75015,
+    "max_tickets": 159999,
+    "combined_hash": "9b7b65d3153bda0de276f95eabb65f7bf0435166f99b886201e42cf3fc959413",
+    "result": "105522",
+    "external_round_id": "33847513",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T21:24:57.000000Z",
+    "revealed_at": "2026-11-10T21:25:03.000000Z"
+}
