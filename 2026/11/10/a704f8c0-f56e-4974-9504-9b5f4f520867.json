@@ -1,0 +1,22 @@
+{
+    "round_id": "a704f8c0-f56e-4974-9504-9b5f4f520867",
+    "draw_title": "NEEDOH VIRAL SOLD OUT BLUE DREAM DROP #2",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/needoh-viral-sold-out-blue-dream-drop-2",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "ab3baf1a5e5ebfb3ac295c5e482097b4f955a84e02505130e038a19b88291761",
+    "drand_seed_hash": "b51894a3fc7c10ec6469219a282204db5b7d625e3610d05aa285ef26682591e8e3fc460162eee4cb42d64be166464f1b",
+    "client_seed": "1794345060487",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81,
+    "max_tickets": 149,
+    "combined_hash": "c8b29a72945f0ccb19dc199c8315ea73c927dd45feb6c3c365b2586477dc0b32",
+    "result": "88",
+    "external_round_id": "33847234",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T21:11:00.000000Z",
+    "revealed_at": "2026-11-10T21:11:06.000000Z"
+}
