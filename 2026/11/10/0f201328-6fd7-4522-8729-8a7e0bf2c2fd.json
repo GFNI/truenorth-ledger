@@ -1,0 +1,22 @@
+{
+    "round_id": "0f201328-6fd7-4522-8729-8a7e0bf2c2fd",
+    "draw_title": "Gonzo's Prize Rush",
+    "competition_url": "https://gameoncomps.co.uk/admin/products/gonzos-prize-rush",
+    "operator": {
+        "name": "Game On Comps LTD",
+        "website": "https://gameoncomps.co.uk",
+        "company_number": "NI729132"
+    },
+    "drand_server_seed": "d5cc00d7ff4e51a4252ac0f46dc5e07bd4cd5560f0b12205cc8b4400ae60a417",
+    "drand_seed_hash": "92db4182ac75c2c767a27ff5fab39d39226df94929c9dba51327895fc5b1cf4e35c9fad6e21113ac49c9c63fc3dc3b30",
+    "client_seed": "1794346758661",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1875,
+    "max_tickets": 50000,
+    "combined_hash": "7b1b729679d06b4fd58a6291d0c50b36278be73125251f85c904c00481376bdc",
+    "result": "10540",
+    "external_round_id": "33847800",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T21:39:18.000000Z",
+    "revealed_at": "2026-11-10T21:39:24.000000Z"
+}
