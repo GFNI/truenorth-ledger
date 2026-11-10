@@ -1,0 +1,22 @@
+{
+    "round_id": "2e308add-2240-48f4-b8ae-3cc875889d5b",
+    "draw_title": "WIN £100 CASH + 10 x £50 Instants to be WON",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps100-cash-10-x-ps50-instants-to-be-won-7",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "31f616e74b2d8a3deecf31959f98c5e2d747796422c880e224d71e5efd8ce746",
+    "drand_seed_hash": "96529958916d1d3f175c7b7757a43de0ebe5ad13c3cc6f07334cd2e01dc5961b64538687b8ef8aa24193463e306649bf",
+    "client_seed": "1794344738233",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 400,
+    "max_tickets": 400,
+    "combined_hash": "39600933cb6b0eaf77bdaa849fc5a51acd1abefc4c6d7a02b279b7271b1c54c5",
+    "result": "74",
+    "external_round_id": "33847127",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T21:05:38.000000Z",
+    "revealed_at": "2026-11-10T21:05:45.000000Z"
+}
