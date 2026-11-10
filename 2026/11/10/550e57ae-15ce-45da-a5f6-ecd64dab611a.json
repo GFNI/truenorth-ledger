@@ -1,0 +1,22 @@
+{
+    "round_id": "550e57ae-15ce-45da-a5f6-ecd64dab611a",
+    "draw_title": "👑 VIP Daily Free Spin",
+    "competition_url": "https://njcomps.co.uk/admin/products/vip-daily-free-spin-3",
+    "operator": {
+        "name": "N&J ENTERTAINMENT LTD",
+        "website": "https://njcomps.co.uk",
+        "company_number": "16826732"
+    },
+    "drand_server_seed": "3e8510bf6e8ba02016bfb2aaecd045851d7c0c74555db5aa40bf28caa5e04251",
+    "drand_seed_hash": "8eddc9cd0bf8174062f61a6b9733193e8b63e799b34c4675e9d4b362e51c7ae1d962ee7cdc186ca068a20792dc101d5e",
+    "client_seed": "1794341426285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 154,
+    "max_tickets": 2000,
+    "combined_hash": "f01c0b24dda1c71caf3bc01d121cabe48eeafa26609066e1110b8c1ff303bdea",
+    "result": "81",
+    "external_round_id": "33846023",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T20:10:26.000000Z",
+    "revealed_at": "2026-11-10T20:10:33.000000Z"
+}
