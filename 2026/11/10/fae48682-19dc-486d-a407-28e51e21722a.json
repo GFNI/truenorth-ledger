@@ -1,0 +1,22 @@
+{
+    "round_id": "fae48682-19dc-486d-a407-28e51e21722a",
+    "draw_title": "£2K PLINKO! 10X £200 CASH INSTANT WINS! £2,000 END PRIZE!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/ps2k-plinko-10x-ps200-cash-instant-wins-ps2000-end-prize",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "b52ea338a46843aa9399c76eac0bdfcea5ebbcfa0024bfce01d2cd0903603f7b",
+    "drand_seed_hash": "a296a92af850034786e9eba79e064c2ffd0abce8167b1d9d7242c6d0787e8fba60a4c1512200b59a06a0a769b9b914f3",
+    "client_seed": "1794344288227",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 146107,
+    "max_tickets": 400000,
+    "combined_hash": "1cdfd81342181695f5ed5b69df0c7df105a599dd176a8472589ee47b02421c73",
+    "result": "179997",
+    "external_round_id": "33846977",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T20:58:08.000000Z",
+    "revealed_at": "2026-11-10T20:58:15.000000Z"
+}
