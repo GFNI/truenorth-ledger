@@ -1,0 +1,22 @@
+{
+    "round_id": "49533d57-43a7-4bde-9807-e7716399ea1c",
+    "draw_title": "1000x TICKET BUNDLE - WIN £2500 FOR JUST 20P",
+    "competition_url": "https://ryscompetitions.com/admin/products/1000x-ticket-bundle-win-ps2500-for-just-20p",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "41bb64a9ed143d13e2ee873c4a83511c0fdcc7e3792f38f88cb88f8f09f9d57b",
+    "drand_seed_hash": "939ed167b53281080a1669273c30e06eb0c3b19e1e1d196970f262d89ff8dc7e561b039e6537944c596385406b342320",
+    "client_seed": "1794334130628",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "eb8eb9c1b8cba3dff4b886b1ded9cf1bdb3ffb9c222587ff5db523b28d42edca",
+    "result": "3436",
+    "external_round_id": "33843591",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T18:08:50.000000Z",
+    "revealed_at": "2026-11-10T18:08:57.000000Z"
+}
