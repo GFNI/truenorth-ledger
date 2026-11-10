@@ -1,0 +1,22 @@
+{
+    "round_id": "907986c6-24a7-401e-a396-f36e1ba96693",
+    "draw_title": "WIN LIMITED EDITION TARGET JAPAN FABLE DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-limited-edition-target-japan-fable-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "58bb4d4e212b1fbd02b4461bf7eb23bcea0255e63495ef1e2b95bb968373f110",
+    "drand_seed_hash": "87b472f44a74ae92546374e6598a896f670cef74c1eb0399921667257b3c20f4c0e4ce8d99ed154c48ac94639970caf5",
+    "client_seed": "1794343262815",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 237,
+    "max_tickets": 390,
+    "combined_hash": "4d7aedf99344c7faced876b09ee7f3920ec4bfaa4e73b520e463e4bbe0a0fcbf",
+    "result": "56",
+    "external_round_id": "33846635",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T20:41:02.000000Z",
+    "revealed_at": "2026-11-10T20:41:09.000000Z"
+}
