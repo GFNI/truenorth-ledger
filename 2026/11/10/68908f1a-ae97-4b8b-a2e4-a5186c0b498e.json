@@ -1,0 +1,22 @@
+{
+    "round_id": "68908f1a-ae97-4b8b-a2e4-a5186c0b498e",
+    "draw_title": "AUSTRIAN 4 DUCAT GOLD COIN + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/austrian-4-ducat-gold-coin-10-silver-instant-wins-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "8ec6375c417a9e75fea4039af687e2913dde9b1f5195d9e6ea25a47f2babc59b",
+    "drand_seed_hash": "b2fc51475afb8c7154550e3ac4f57f12f5356887b80732c64997ffb1f6b538f5a36d15d37d0842de3076136fd9b895b6",
+    "client_seed": "1794344861064",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2209,
+    "max_tickets": 3500,
+    "combined_hash": "991542b4feda2daf7942c2e90406db8b6e41ed4d51bba6da099381a3cf7db2a9",
+    "result": "2286",
+    "external_round_id": "33847168",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T21:07:41.000000Z",
+    "revealed_at": "2026-11-10T21:07:48.000000Z"
+}
