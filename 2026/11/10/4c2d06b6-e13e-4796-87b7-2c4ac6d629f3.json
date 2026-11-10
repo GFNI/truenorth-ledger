@@ -1,0 +1,22 @@
+{
+    "round_id": "4c2d06b6-e13e-4796-87b7-2c4ac6d629f3",
+    "draw_title": "250G ARGOR-HERAEUS FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/250g-argor-heraeus-fine-silver-bar",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2ebb6f3fb893efc3364c5ef506a2dad4b071f28dc3c6d661c2055431fc008e4c",
+    "drand_seed_hash": "ac791af39678fc15a9c526db9badae3eb411dbbc207ebd50531c7775f6a14dd9c5eada9882b37cd8a7d2b9b32acc6aa7",
+    "client_seed": "1794354938844",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1369,
+    "max_tickets": 1500,
+    "combined_hash": "bc03411c67f311872eda5ae461cd2642a52f2cf63fdf144fc47bb63e98c95f09",
+    "result": "345",
+    "external_round_id": "33850527",
+    "processing_status": "completed",
+    "created_at": "2026-11-10T23:55:38.000000Z",
+    "revealed_at": "2026-11-10T23:55:45.000000Z"
+}
