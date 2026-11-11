@@ -1,0 +1,22 @@
+{
+    "round_id": "cea1ce9a-88d3-41f3-b845-053cfcbf3ed8",
+    "draw_title": "⚠️COST PRICE COMP ⚠️ 500 Tickets into Christmas Cracker",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/cost-price-comp-500-tickets-into-christmas-cracker",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "fb5735fc578ec82dee017b827df087fcf82a3560904f239c4ef2324fc6bed6d0",
+    "drand_seed_hash": "b9a9cca6e3b1b21406a0623f692c6acc3487ce924190f1e15eb1fd51c47d3c1e74269c46534f0214a8fcf6da1d83876e",
+    "client_seed": "1794427834933",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1142,
+    "max_tickets": 2000,
+    "combined_hash": "0d55eeb061d2f502007b7c2b9958fa9b32197a60bcf976463d18f7e4d1d85568",
+    "result": "1358",
+    "external_round_id": "33874826",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:10:34.000000Z",
+    "revealed_at": "2026-11-11T20:10:42.000000Z"
+}
