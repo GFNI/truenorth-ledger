@@ -1,0 +1,22 @@
+{
+    "round_id": "54bb3e22-20cc-44ee-8463-d8a1c18a6e5c",
+    "draw_title": "QUIDS IN | 3 x £2,000 Instant Jackpots + £500 Jackpot",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/quids-in-3-x-ps2000-instant-jackpots-ps500-jackpot",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "1544a4a9add865883ae8afe5b3dc97fb947dc50172f0f119bb345a594ba14f14",
+    "drand_seed_hash": "a7e82002c077127c79500f737d3b31c9029e48e3a45f75e18907bfff542551a1353e77ee0764a04c5a141a6fa384e538",
+    "client_seed": "1794429869547",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5543,
+    "max_tickets": 42143,
+    "combined_hash": "7aef0475ce76b3e8fa8f7bd9fc585cc51cafce6931002c5bb06df57ef3c70b99",
+    "result": "26068",
+    "external_round_id": "33875504",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:44:29.000000Z",
+    "revealed_at": "2026-11-11T20:44:36.000000Z"
+}
