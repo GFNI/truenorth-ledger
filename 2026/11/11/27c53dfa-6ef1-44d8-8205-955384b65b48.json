@@ -1,0 +1,22 @@
+{
+    "round_id": "27c53dfa-6ef1-44d8-8205-955384b65b48",
+    "draw_title": "The Jackpot Vault | 4 x £2,750 Top Instants + £1,000 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/the-jackpot-vault-4-x-ps2750-top-instants-ps1000-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "11a11ec5db6b33c47cf5ca2c17150ebffe3d9a7d2bf5eae5be6b30fd322b47f6",
+    "drand_seed_hash": "a5820827bec656a0234314a2306cc39a4850f7b3d8773c139dbee07f961da921e370d5e97781e9208c301a49274593cd",
+    "client_seed": "1794429816835",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1374,
+    "max_tickets": 9844,
+    "combined_hash": "d9a7b8351e314cf6f8f421a6d6de6c09caf03f2f8165b2f87e3a8f272fafaf25",
+    "result": "6934",
+    "external_round_id": "33875486",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:43:36.000000Z",
+    "revealed_at": "2026-11-11T20:43:42.000000Z"
+}
