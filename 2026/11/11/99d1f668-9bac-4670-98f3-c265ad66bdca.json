@@ -1,0 +1,22 @@
+{
+    "round_id": "99d1f668-9bac-4670-98f3-c265ad66bdca",
+    "draw_title": "Auto Draw £500",
+    "competition_url": "https://yockercompetitions.co.uk/admin/products/auto-draw-500",
+    "operator": {
+        "name": "Yocker Competitions Ltd",
+        "website": "https://yockercompetitions.co.uk",
+        "company_number": "17182603"
+    },
+    "drand_server_seed": "3569e277206a7b0994a4c8078005d39aad740b070dcf048719ed7f97a3b00700",
+    "drand_seed_hash": "896c2f314182e8450ca150f4a8075557faaeed419411b287be85f6dd88787f9a6cd80ca9bf4ac9184a3e1cf0787c3c7a",
+    "client_seed": "1794413432630",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 180,
+    "max_tickets": 2000,
+    "combined_hash": "ff47f9e855b2c051cd38fbe383e5ca5e0a5fc379e8de31961fe31b9a260d19b5",
+    "result": "1008",
+    "external_round_id": "33870025",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T16:10:32.000000Z",
+    "revealed_at": "2026-11-11T16:10:39.000000Z"
+}
