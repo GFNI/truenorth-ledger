@@ -1,0 +1,22 @@
+{
+    "round_id": "27b62ed8-f82d-47c2-9046-8b37ca6e39f6",
+    "draw_title": "BANES BANK BUSTER - £600,000 INSTANT WINNER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/banes-bank-buster-ps600000-instant-winner",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "7c9cf4403ce322e60458605ea553f6f9cb2c338237ba10caa3ded24521ab58d0",
+    "drand_seed_hash": "b1c8d87040ab00f4c8a16b809f7399ab1dc2e86db41a6cdef1bd2af618df8f8c5903bbdcaed30a6dabb1417115eb0141",
+    "client_seed": "1794430844158",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 38717,
+    "max_tickets": 2500000,
+    "combined_hash": "865ccd402ec3d253486da82f4d9f83b76d7861141840689915e29d24f71d6e1c",
+    "result": "2200391",
+    "external_round_id": "33875829",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:00:44.000000Z",
+    "revealed_at": "2026-11-11T21:00:51.000000Z"
+}
