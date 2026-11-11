@@ -1,0 +1,22 @@
+{
+    "round_id": "adef675f-ca16-42f0-bcd9-f5391ab55fa2",
+    "draw_title": "Mini Comp! Win 500 Tickets Into PS5 Competition",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/mini-comp-win-500-tickets-into-ps5-competition-2",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "f0ac48f2fe03c7c5c9f839dda501f0ee36715e3568d466f9e60a5298301c8afe",
+    "drand_seed_hash": "b2bf639d2c9e4450ae616103094239cdde1a94890a10f64b1c3d60056b7272e5fa81c218ead9e95ba195343b0272b3b5",
+    "client_seed": "1794427827590",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 217,
+    "max_tickets": 1000,
+    "combined_hash": "7c81f247dba2daa66588d23ffb0ab2319a6a32d23a4fdba57ca24624ccb547c3",
+    "result": "197",
+    "external_round_id": "33874823",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:10:27.000000Z",
+    "revealed_at": "2026-11-11T20:10:33.000000Z"
+}
