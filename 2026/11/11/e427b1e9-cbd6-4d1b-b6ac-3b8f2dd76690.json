@@ -1,0 +1,22 @@
+{
+    "round_id": "e427b1e9-cbd6-4d1b-b6ac-3b8f2dd76690",
+    "draw_title": "WIN ADRIAN LEWIS SHOWDOWN 2026 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-adrian-lewis-showdown-2026-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "7c7a461a0ddfb961bda306675ae96948c3d5205097c427e7082c27ca805229ba",
+    "drand_seed_hash": "999f28c471e88396f328f38cdd565c76f2c5d05f61ee20388e5ae93f56d6e1435329500a9dac94db6ef14831ab37b8fc",
+    "client_seed": "1794435138489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 120,
+    "combined_hash": "7a17c93bad84205bd1b857fa2114e36513628738e8b7565ac0720abd6a640258",
+    "result": "91",
+    "external_round_id": "33877260",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T22:12:18.000000Z",
+    "revealed_at": "2026-11-11T22:12:24.000000Z"
+}
