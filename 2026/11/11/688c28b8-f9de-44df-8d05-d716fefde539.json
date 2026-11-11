@@ -1,0 +1,22 @@
+{
+    "round_id": "688c28b8-f9de-44df-8d05-d716fefde539",
+    "draw_title": "2011 AUSTRALIAN KOALA 1oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2011-australian-koala-1oz-fine-silver-coin-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "627ad9fbfdc4e1e5744d0af1b43ba7dcf8cd832f1727115d1960d8c465143f20",
+    "drand_seed_hash": "b02f538c9652ff84b0b0741a9a764febf25c0298e00afe91298c1a99aee5c5139fda002754aae30a3bc7d723fe161c6d",
+    "client_seed": "1794441330610",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53,
+    "max_tickets": 100,
+    "combined_hash": "8d094e4494e3573a041af0b75490e84474b1613f866b953d03e84f8a47665800",
+    "result": "42",
+    "external_round_id": "33879324",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T23:55:30.000000Z",
+    "revealed_at": "2026-11-11T23:55:36.000000Z"
+}
