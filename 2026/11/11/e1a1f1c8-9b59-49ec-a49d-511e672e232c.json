@@ -1,0 +1,22 @@
+{
+    "round_id": "e1a1f1c8-9b59-49ec-a49d-511e672e232c",
+    "draw_title": "Driving Home For Christmas! - £500 Towards Your Fuel",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/driving-home-for-christmas-ps500-towards-your-fuel-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "a55bc0aa66a55baf5381a646cecea02e7f3a4d0aa287084e6a09db25f737185e",
+    "drand_seed_hash": "a50110ffa4e0bbe5a35210b75b9592a6a8e5ea8f039d9919502c6ad03e8cddb13d3efed1176af7648ddc8834ec075ef7",
+    "client_seed": "1794431085517",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2533,
+    "max_tickets": 3200,
+    "combined_hash": "5a0da2e0960b4eaffd7145f2512b78e95feaebfb430dde8737da16301de59b46",
+    "result": "3035",
+    "external_round_id": "33875909",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:04:45.000000Z",
+    "revealed_at": "2026-11-11T21:04:51.000000Z"
+}
