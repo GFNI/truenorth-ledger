@@ -1,0 +1,22 @@
+{
+    "round_id": "cc8df078-18a8-4411-bda1-dd0f75be086e",
+    "draw_title": "The 50p 50/50 | WIN Upto £2,000 + £500 Jackpot",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/the-50p-5050-win-upto-ps2000-ps500-jackpot",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "056766c83b1a6727f1d2c757c98f45422d815fe94ff1c4b7864a0ffb58245159",
+    "drand_seed_hash": "94833cf9752770b3987da887aa94bae332786a712a4b4cd46417a04648a06fefae3afe24243bd0ebe9e9734c6e26204f",
+    "client_seed": "1794429963705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7206,
+    "max_tickets": 93077,
+    "combined_hash": "1bc8b2f006e3f5297d4a4694ea3f5a1e9f1f53a296739cd267ea0d9d476ad55c",
+    "result": "9754",
+    "external_round_id": "33875535",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:46:03.000000Z",
+    "revealed_at": "2026-11-11T20:46:09.000000Z"
+}
