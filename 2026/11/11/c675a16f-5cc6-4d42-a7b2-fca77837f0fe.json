@@ -1,0 +1,22 @@
+{
+    "round_id": "c675a16f-5cc6-4d42-a7b2-fca77837f0fe",
+    "draw_title": "LG MRGB88 65\" Mini RGB AI 4K HDR Smart TV 2026",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/lg-mrgb88-65-mini-rgb-ai-4k-hdr-smart-tv-2026",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "07ee67c967fcbc3e4e32c230dc62f76da5b0698a235346b2a6c039ad02cbe24c",
+    "drand_seed_hash": "981172f4fbacd35f44419fa24884be73fae76735eff8961b41c5bde28c66dba78b3941801d20f02b08039006cd53cbca",
+    "client_seed": "1794425537289",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1272,
+    "max_tickets": 2200,
+    "combined_hash": "314b9b490afadc606f6cf8464358262682545ff75d1bc728da08e5c0cca411eb",
+    "result": "1298",
+    "external_round_id": "33874060",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:32:17.000000Z",
+    "revealed_at": "2026-11-11T19:32:24.000000Z"
+}
