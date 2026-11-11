@@ -1,0 +1,22 @@
+{
+    "round_id": "ee70d32e-77d4-46da-8a72-27c76646c1ae",
+    "draw_title": "Mini Comp! Win 500 Tickets Into Apple BundleCompetition",
+    "competition_url": "https://dreamcashgiveaways.co.uk/admin/products/mini-comp-win-500-tickets-into-apple-bundlecompetition-2",
+    "operator": {
+        "name": "Dream Cash Giveaways",
+        "website": "https://dreamcashgiveaways.co.uk",
+        "company_number": "15880861"
+    },
+    "drand_server_seed": "897460902d04d5f51b973f7fc2fee94652ea3e053ae9c6bc6b36ea570093778f",
+    "drand_seed_hash": "85a03b05448acc7f3fbf105e5d4fee1ede8d40267fc29f33031a14296ab1ed19b0299232824d56d92c65d63eb356ce8d",
+    "client_seed": "1794427820345",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 335,
+    "max_tickets": 1200,
+    "combined_hash": "2260af33773e1d2d090c2b62ecbe89072d66118711e4b7af34037a7637f0c07d",
+    "result": "627",
+    "external_round_id": "33874821",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:10:20.000000Z",
+    "revealed_at": "2026-11-11T20:10:27.000000Z"
+}
