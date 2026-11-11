@@ -1,0 +1,22 @@
+{
+    "round_id": "37886274-5a7f-48c6-953d-a82cc76d1ec5",
+    "draw_title": "DYSON Airwrap I.D. Straight + Wavy Multi-Styler & Dryer - Red Velvet",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/dyson-airwrap-id-straight-wavy-multi-styler-dryer-red-velvet",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0c2708fb571bd95bfca78fe60608ef240d453cef3b0ef45f1b3413f8e644d14c",
+    "drand_seed_hash": "8c2f4e0733f56abde060c382c5c2fcfecbb705aed753ccfb94ae5c38446391a33885acaf6bd5892f9f3c62b65ee7278e",
+    "client_seed": "1794424675690",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 850,
+    "combined_hash": "d63ba2c6cceb055ccfeecdebefb1e3dc82ea2a5b6a40f45d8c806ae58b202000",
+    "result": "719",
+    "external_round_id": "33873773",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:17:55.000000Z",
+    "revealed_at": "2026-11-11T19:18:03.000000Z"
+}
