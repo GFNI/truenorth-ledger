@@ -1,0 +1,22 @@
+{
+    "round_id": "9f0a382e-0bee-4695-b711-a75c49d3faaa",
+    "draw_title": "£250 Gift Voucher Of Your Choice",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/250gv",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "8888dc8b2879fa6181089f5bf5e468ca86333435301ad602a45a9788ec19b317",
+    "drand_seed_hash": "971e8b0cacae9dfd3204be0165c34ace4a740aa4a9382049113ba5c36e8bf2d375d7f941ca65c0b680790c417ae3dd7e",
+    "client_seed": "1794429629909",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "3174e7fee61c44fc76139a7ff4a876e33ec3d7c740f058d00121e33bafb5a1ae",
+    "result": "31426",
+    "external_round_id": "33875424",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:40:29.000000Z",
+    "revealed_at": "2026-11-11T20:40:36.000000Z"
+}
