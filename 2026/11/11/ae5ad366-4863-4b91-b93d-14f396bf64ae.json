@@ -1,0 +1,22 @@
+{
+    "round_id": "ae5ad366-4863-4b91-b93d-14f396bf64ae",
+    "draw_title": "test email - win the darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/test-email-win-the-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "a50647f3bba4048a99f0dc311aa80d64a116691e9ea4c14149f3b0adbdf75825",
+    "drand_seed_hash": "b490f6b8b208eec41ad1e341b6890bf7176832a2781d65848f7d451f0718484c008d66b323df006a47f6ba981738ea62",
+    "client_seed": "1794385846365",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3,
+    "max_tickets": 5,
+    "combined_hash": "647b44ab7686cdcf47c880a7393b425b89146af9b864dd10d0eb904848e6a4d9",
+    "result": "3",
+    "external_round_id": "33860830",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T08:30:46.000000Z",
+    "revealed_at": "2026-11-11T08:30:54.000000Z"
+}
