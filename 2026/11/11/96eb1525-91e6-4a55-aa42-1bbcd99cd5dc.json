@@ -1,0 +1,22 @@
+{
+    "round_id": "96eb1525-91e6-4a55-aa42-1bbcd99cd5dc",
+    "draw_title": "Santa’s Big Screen Surprise! - WIN a 65\" Samsung TV",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/santas-big-screen-surprise-win-a-65-samsung-tv-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "97381075b3a9bc04b24dbef613967952720fb033dfb75ce79e2f87715bd340c5",
+    "drand_seed_hash": "8d455d3002d8b34c762cc8d29a471638b45ae8d2e0ed8887e9e7cc14ca4a467c00b05c75e36016838c6886c911c166f4",
+    "client_seed": "1794431142596",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999,
+    "max_tickets": 999,
+    "combined_hash": "75202ba62c36564b70f5a13b1649baa8277e8fb79d5d78ecb1bf0cc4ed267adb",
+    "result": "848",
+    "external_round_id": "33875928",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:05:42.000000Z",
+    "revealed_at": "2026-11-11T21:05:48.000000Z"
+}
