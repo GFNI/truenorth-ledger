@@ -1,0 +1,22 @@
+{
+    "round_id": "7e6651b7-d417-460e-accf-db7b8c6b7194",
+    "draw_title": "Win a £250 Fuel Card!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-ps250-fuel-card-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "3ee465f45715990303b206fcf9b4746e5f90797df937c92c6a82f006614f30af",
+    "drand_seed_hash": "8f5d7b4c1fb2e662dd4495401d368679682c756b3e3db26ae33069c36a75c2acf1ce5c569de6a306f6b78a631cf19f40",
+    "client_seed": "1794431505525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 245,
+    "max_tickets": 499,
+    "combined_hash": "6aeb22dddfaa64a6e65cd75aaa16ac765313a89467b7c55e50d1eeda7dbb93a9",
+    "result": "203",
+    "external_round_id": "33876049",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:11:45.000000Z",
+    "revealed_at": "2026-11-11T21:11:51.000000Z"
+}
