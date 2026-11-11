@@ -1,0 +1,22 @@
+{
+    "round_id": "955ba7c3-1b1f-4026-b4e1-6ae699de4cce",
+    "draw_title": " £150 Amazon Gift Card With Instants",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-amazon-gift-card-with-instants",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1645e4872941710b3c2970318c50e87e1afeeffadfe1a1f9f89df948be40f562",
+    "drand_seed_hash": "8305bbda7c74f90bb3252cf83689f05569ceb4e5d245c0755084c4b44f96e2d3120063171fe0696c86f663e193a492a0",
+    "client_seed": "1794435336159",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "bf0e27805fe5822c42fffcb37f12a5e69c80a61db6660f80aaf861aee5670fe7",
+    "result": "48",
+    "external_round_id": "33877326",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T22:15:36.000000Z",
+    "revealed_at": "2026-11-11T22:15:45.000000Z"
+}
