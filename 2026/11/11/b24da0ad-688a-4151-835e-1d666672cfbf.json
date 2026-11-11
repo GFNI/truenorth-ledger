@@ -1,0 +1,22 @@
+{
+    "round_id": "b24da0ad-688a-4151-835e-1d666672cfbf",
+    "draw_title": "Scratch A Ton - 5 x £100 End Prizes",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/scratch-ton",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "efa961c6acf5613bee4ea0a63655197b489922bc90b177e288ef4204bb3c974e",
+    "drand_seed_hash": "86206229c597e99f70e55bca4df78bc2f3e6ae1c32879c7e35c379961368c6e43ba266a322fce92911e4fe3990787267",
+    "client_seed": "1794429768521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6830,
+    "max_tickets": 17500,
+    "combined_hash": "3b31277d0a73e2560afa12ae37d9c6aa11b80ddee1b9f012ece728fd6adf9211",
+    "result": "508",
+    "external_round_id": "33875470",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:42:48.000000Z",
+    "revealed_at": "2026-11-11T20:42:54.000000Z"
+}
