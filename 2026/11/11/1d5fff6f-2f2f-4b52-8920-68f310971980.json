@@ -1,0 +1,22 @@
+{
+    "round_id": "1d5fff6f-2f2f-4b52-8920-68f310971980",
+    "draw_title": "Win £25 worth of tickets into Fox Compact 2 Tier Bivvy Table - 2p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-fox-compact-2-tier-bivvy-table-2p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "6e0d86634bd0e39a51afb7aa4e444cb462627bca9f6dc518aa48512ac96351a7",
+    "drand_seed_hash": "978fd33c9b1a52d2a0d9da7de018cb54a20ff0e27ebe34fa5dd316b5238ef9af86f486bf19c6a63949d85cf95778cc7d",
+    "client_seed": "1794421352537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 800,
+    "max_tickets": 1750,
+    "combined_hash": "b0779c00bd73b92b978ff0bac22bb37660cb5e99cf7382097a6e592c8d67c873",
+    "result": "1007",
+    "external_round_id": "33872665",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T18:22:32.000000Z",
+    "revealed_at": "2026-11-11T18:22:39.000000Z"
+}
