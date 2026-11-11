@@ -1,0 +1,22 @@
+{
+    "round_id": "8674e3ea-61ff-4de1-8dde-abbd3e115ca9",
+    "draw_title": "£750 WEDNESDAY 🎆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps750-wednesday",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c28107ea76530b32808dd6c9d2bf4023237dfef9f99be206fab0c2e052eedd33",
+    "drand_seed_hash": "8ef58881117bb37b60350087e90c6518de10e8a5da3bad51968577be0014fe54d729972e6c27a901eee9b3fb1fe76151",
+    "client_seed": "1794425446542",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1053,
+    "max_tickets": 1400,
+    "combined_hash": "a834a4b7cdab3f01042a508aa689f231210d8e2e7544f4e669476e1dee53adb5",
+    "result": "713",
+    "external_round_id": "33874030",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:30:46.000000Z",
+    "revealed_at": "2026-11-11T19:30:54.000000Z"
+}
