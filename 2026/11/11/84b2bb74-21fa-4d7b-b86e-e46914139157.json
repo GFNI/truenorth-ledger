@@ -1,0 +1,22 @@
+{
+    "round_id": "84b2bb74-21fa-4d7b-b86e-e46914139157",
+    "draw_title": "WIN an LG NeoChef Microwave With Grill",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-an-lg-neochef-microwave-with-grill",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "efc8b7a0fada61b92656874032c396ee3671b991dc97134fe095dfe9f0c04f4f",
+    "drand_seed_hash": "ae20bf9e1ce032d2b1a2457c64b33b49cf05f358408314348d88959dc0533dcfd8ac891c3ff9cb324fd304210017eaf7",
+    "client_seed": "1794429580171",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1120,
+    "max_tickets": 2800,
+    "combined_hash": "11afea3aa63ec77ea0126576a6f21bf93962db391f4019d6c6205b0956f97119",
+    "result": "2770",
+    "external_round_id": "33875408",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:39:40.000000Z",
+    "revealed_at": "2026-11-11T20:39:48.000000Z"
+}
