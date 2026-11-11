@@ -1,0 +1,22 @@
+{
+    "round_id": "654684f4-0408-45fa-b9bc-09c1b8eb5497",
+    "draw_title": "WIN NEW Precise 180 Achh Carlos Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-precise-180-achh-carlos-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "929434df53e837acf749d43b39e342beb6d1f959aba420ae3264a2e7a108ed9b",
+    "drand_seed_hash": "854fe0ce00ffa42ca1a5745afcf361d28a82aca88dbaa4fcf053ec7528fef9356b4dfd65a1b6198947c95168cefe7484",
+    "client_seed": "1794435162459",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 112,
+    "max_tickets": 160,
+    "combined_hash": "8b1dd41ea9a39053a013a5fa81920a15120e081c0cf649a19121a7bcba590642",
+    "result": "76",
+    "external_round_id": "33877268",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T22:12:42.000000Z",
+    "revealed_at": "2026-11-11T22:12:48.000000Z"
+}
