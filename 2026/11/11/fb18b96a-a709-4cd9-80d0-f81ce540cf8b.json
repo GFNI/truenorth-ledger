@@ -1,0 +1,22 @@
+{
+    "round_id": "fb18b96a-a709-4cd9-80d0-f81ce540cf8b",
+    "draw_title": "MERRY CHOCMAS! #4!",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/merry-chocmas-4",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "5fc8cea7154975e70263204cb3c03d947d0ea48027e3b414001e87ae17c16cd9",
+    "drand_seed_hash": "97104a339fc4535b35a4727a7f9fc30a1176a53bf15a6118bcbfd14ea230eb55578ce7c575be2e7739ee5453fe485600",
+    "client_seed": "1794395738866",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 280,
+    "max_tickets": 280,
+    "combined_hash": "735c28272272ef572c112323359e81fd55c667d3f0bac6887fae56ddc5759107",
+    "result": "92",
+    "external_round_id": "33864127",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T11:15:38.000000Z",
+    "revealed_at": "2026-11-11T11:15:45.000000Z"
+}
