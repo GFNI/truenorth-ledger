@@ -1,0 +1,22 @@
+{
+    "round_id": "e2dff8a7-3030-4282-875e-914af3a5519c",
+    "draw_title": "£300 SITE CREDIT",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps300-site-credit-5",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8258fa5ec6d3944f806194d048d277994efd58b5b8cd3de1a0cd0beb275debba",
+    "drand_seed_hash": "8225894bb740cda6f44082dc95dbdde95381d0cd1bf2b7e123dcdd5be702de192f6d45478bb55855093de330344711b7",
+    "client_seed": "1794425807875",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 929,
+    "max_tickets": 1000,
+    "combined_hash": "190ae063d35b45138efa651f34a02585419d12e2b137550670715f0351cc587d",
+    "result": "34",
+    "external_round_id": "33874150",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:36:47.000000Z",
+    "revealed_at": "2026-11-11T19:36:54.000000Z"
+}
