@@ -1,0 +1,22 @@
+{
+    "round_id": "040283b1-4305-42d4-94d8-6215ae5b9162",
+    "draw_title": "WIN a NESPRESSO by De'Longhi Lattissima Coffee Machine",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-nespresso-by-delonghi-lattissima-coffee-machine",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "c162d4fdd336ed2757e83f74bdac1cf8b93e8dcb03f36e3ca2bf2e2668dd599c",
+    "drand_seed_hash": "8a787bafc3ac57cf0406be8a78e2f14456bf1bb9a3f8cecebb1232b67addbf6e87553e4600651c013a153b5b31b6ed44",
+    "client_seed": "1794429406501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 202,
+    "max_tickets": 350,
+    "combined_hash": "d1eaaa28f2fcc41f7429bb1a827871cc9dcf6e6832bab1f6cba764e968e4ca3f",
+    "result": "224",
+    "external_round_id": "33875350",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:36:46.000000Z",
+    "revealed_at": "2026-11-11T20:36:54.000000Z"
+}
