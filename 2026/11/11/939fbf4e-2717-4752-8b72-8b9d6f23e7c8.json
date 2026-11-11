@@ -1,0 +1,22 @@
+{
+    "round_id": "939fbf4e-2717-4752-8b72-8b9d6f23e7c8",
+    "draw_title": "Jackery Solar Generator V2 240v Solar Panel Bundle",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/jackery-solar-generator-v2-240v-solar-panel-bundle",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "32e08527ceab54ab2253da09d37ee448c5d9bb94650a6bb92315d9a2ae9e8c32",
+    "drand_seed_hash": "8dfa226e5a67a9e2a10f8ddbb29c245cc4b033db50540d7e8bb4e6eb1fa50b01720c36197212fff7a0a663660664faeb",
+    "client_seed": "1794429736486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 178,
+    "max_tickets": 422,
+    "combined_hash": "17cfd1bc708f521640ff6eb71f7180798f77348a0899e027468bdeaca4fc5c9e",
+    "result": "2",
+    "external_round_id": "33875460",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:42:16.000000Z",
+    "revealed_at": "2026-11-11T20:42:24.000000Z"
+}
