@@ -1,0 +1,22 @@
+{
+    "round_id": "9b6c135c-4087-42f9-9c78-f0f4bdeeabc7",
+    "draw_title": "APPLE iPAD PRO 13-INCH OR £1,000 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/apple-ipad-pro-13-inch-or-ps1000-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "ff48ecb9e4b768d1a5463704b3ef89c9ded62a4c1c7123f492e5d9a05fd0c6e1",
+    "drand_seed_hash": "968dac01a08b54e3475c24fd3b1d9e02078d14e3e42fbebfbf5f0f06107c3068049ecbf75bccc3af0d1ae0e6c07476be",
+    "client_seed": "1794431739754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 704,
+    "max_tickets": 1299,
+    "combined_hash": "1058865360e7de1722c67dc0d4fec6db52600334f7c3c4014e3b43d397a94eca",
+    "result": "160",
+    "external_round_id": "33876127",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:15:39.000000Z",
+    "revealed_at": "2026-11-11T21:15:45.000000Z"
+}
