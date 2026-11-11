@@ -1,0 +1,22 @@
+{
+    "round_id": "01c78b4b-67a1-44c0-8cbf-bd39005355c3",
+    "draw_title": "Highland cow 🐮 edge sculpture",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/highland-cow-edge-sculpture",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "487a58748a948ac2056bc1f18b91ef48dbb18cf3473fedb787ded635d49187e4",
+    "drand_seed_hash": "8158849bfb4cdefbfedf0a36758c442e03a66f0f5c619b0d7207d3e1eb56c7f5185a4afde257574bf054d799f0c69126",
+    "client_seed": "1794425952396",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 550,
+    "max_tickets": 550,
+    "combined_hash": "c2ecf6d9db6f80cd20dfa44bff71607bd37efa676203cbc06bb455dcb8d2c87b",
+    "result": "539",
+    "external_round_id": "33874198",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:39:12.000000Z",
+    "revealed_at": "2026-11-11T19:39:18.000000Z"
+}
