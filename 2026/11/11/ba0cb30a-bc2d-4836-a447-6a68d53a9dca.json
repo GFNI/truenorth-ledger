@@ -1,0 +1,22 @@
+{
+    "round_id": "ba0cb30a-bc2d-4836-a447-6a68d53a9dca",
+    "draw_title": "Win A Lego Millennium Falcon Plus Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/win-a-lego-millennium-falcon-plus-instants",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "ca5f64d433a25bdc317e3d2634e0531416d630a14b1ffce2c9878f53e327641f",
+    "drand_seed_hash": "899ed7712f0dd95e3523a8c19b95e19dd90ce573cca19e8247265c1135c855ce26e0e32838ccfa6dab9ad7bfee28ec68",
+    "client_seed": "1794429507912",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10739,
+    "max_tickets": 15000,
+    "combined_hash": "81d51fbec9b2d66e756e0ba0c8497d1e0d0cb411d2c0bd35d12f8ee9ffc42dfd",
+    "result": "7314",
+    "external_round_id": "33875383",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:38:27.000000Z",
+    "revealed_at": "2026-11-11T20:38:33.000000Z"
+}
