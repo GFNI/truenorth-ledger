@@ -1,0 +1,22 @@
+{
+    "round_id": "dfa8f44c-c88f-416b-b5e8-5e5c187c4485",
+    "draw_title": "WIN a 14\" HP MediaTek Kompanio Chromebook Laptop",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-14-hp-mediatek-kompanio-chromebook-laptop",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "ca5f64d433a25bdc317e3d2634e0531416d630a14b1ffce2c9878f53e327641f",
+    "drand_seed_hash": "899ed7712f0dd95e3523a8c19b95e19dd90ce573cca19e8247265c1135c855ce26e0e32838ccfa6dab9ad7bfee28ec68",
+    "client_seed": "1794429508997",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 119,
+    "max_tickets": 260,
+    "combined_hash": "fc18610ba2b94d6c7b2ebe150fe20907c9647612ee45ea2c8ce0bb5015affcc3",
+    "result": "225",
+    "external_round_id": "33875383",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:38:28.000000Z",
+    "revealed_at": "2026-11-11T20:38:33.000000Z"
+}
