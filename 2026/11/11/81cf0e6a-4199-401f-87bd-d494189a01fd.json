@@ -1,0 +1,22 @@
+{
+    "round_id": "81cf0e6a-4199-401f-87bd-d494189a01fd",
+    "draw_title": "WIN Beau Greaves G1 Sp Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-beau-greaves-g1-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "2808c89a92f6a3d95a50f8b42d12fcab7aac9ba2cf81079f85bf3d005646ef64",
+    "drand_seed_hash": "b1523399ac59b629f6b29ed881db7fe2d926c34f8c4e532902f07109de9a79ab67f9b5ee853c8d3fb008d14ac91ef6e2",
+    "client_seed": "1794435168434",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47,
+    "max_tickets": 100,
+    "combined_hash": "e4c86d209cb0a3985804ec9bdd078bc145980752107135b3e5aef82cc6a0cc6c",
+    "result": "65",
+    "external_round_id": "33877270",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T22:12:48.000000Z",
+    "revealed_at": "2026-11-11T22:12:54.000000Z"
+}
