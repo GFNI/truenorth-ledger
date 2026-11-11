@@ -1,0 +1,22 @@
+{
+    "round_id": "ee770f58-308d-4cf5-ba64-112cf951fabc",
+    "draw_title": "WEDNESDAY £10K 🎆",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/wednesday-ps10k",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "000f7dfc77ae0c856e3e55721c156cc66f830ccf2926e4bf60f763b63de44b78",
+    "drand_seed_hash": "8be2cc60bde9c3efdc43506069fedb7419e34fe924fe0c1fe11f306075740b6734421669fe47a0d82e6cc7197c582d40",
+    "client_seed": "1794426328324",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 27155,
+    "max_tickets": 32000,
+    "combined_hash": "b98ab00ba6fda9424f4138c319899b6eb4f6ef2ffcda3947eb9630b0ebf3bd03",
+    "result": "23226",
+    "external_round_id": "33874324",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:45:28.000000Z",
+    "revealed_at": "2026-11-11T19:45:36.000000Z"
+}
