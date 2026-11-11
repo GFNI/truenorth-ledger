@@ -1,0 +1,22 @@
+{
+    "round_id": "dd17c766-0e0b-4b83-8439-94811ac160cb",
+    "draw_title": "The Ultimate Gamer Bundle",
+    "competition_url": "https://chaotic.co.uk/competition/the-ultimate-gamer-bundle",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "742036fd4112a79cd9f40bb31a8ea4fc89755f65d1a43398f96c2689b8d6a99d",
+    "drand_seed_hash": "b975d6042cb951bc7e104b12b10487e44083611b1f30afa4ddeccb573ca25e9e1c8818b25099421eeda20656fdfebcec",
+    "client_seed": "1794430590341",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82514,
+    "max_tickets": 89999,
+    "combined_hash": "9d1325352617270a20629b6ba0241c73e882a340479ec9bcf001c8cf901ac23b",
+    "result": "2209",
+    "external_round_id": "33875744",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:56:30.000000Z",
+    "revealed_at": "2026-11-11T20:56:36.000000Z"
+}
