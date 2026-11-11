@@ -1,0 +1,22 @@
+{
+    "round_id": "e3557e88-a75b-479e-ac03-7b1766884b59",
+    "draw_title": "Cash Canyon",
+    "competition_url": "https://chaotic.co.uk/competition/cash-canyon-5398",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "d07d8df9ca8b3f4d31235b3a915163cf8042823581c48c3f651fd931db0e5559",
+    "drand_seed_hash": "93a18f96adaa56fbfcf5e62307e9c3e765f0913565d845441734d45a63d9b38eb44b6531a3506d04b94a04c03047d82a",
+    "client_seed": "1794430292450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300000,
+    "max_tickets": 300000,
+    "combined_hash": "9994501e0ead2ec7daf8550e9afb756623a374f8fb19ec9249ea706434668b2b",
+    "result": "97402",
+    "external_round_id": "33875645",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:51:32.000000Z",
+    "revealed_at": "2026-11-11T20:51:39.000000Z"
+}
