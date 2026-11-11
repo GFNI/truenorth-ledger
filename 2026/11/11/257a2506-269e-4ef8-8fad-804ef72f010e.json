@@ -1,0 +1,22 @@
+{
+    "round_id": "257a2506-269e-4ef8-8fad-804ef72f010e",
+    "draw_title": "CHRISTMAS SORTED 🎅",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/christmas-sorted-12",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1e4e4ba969dca03f32775d0831f1d9e54abe2d778317f5f2ad79fb4a7d4cd36f",
+    "drand_seed_hash": "ae4be65724c727ee9edf3fd7681aefb14b526e181161c05e72069f203eedede0c31f70c192cdae1be356f9d6da846921",
+    "client_seed": "1794425367639",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3500,
+    "max_tickets": 3500,
+    "combined_hash": "18577f2778c1c6971b4ba3e78fa5ece7375a6367badef3a54c86a78b159b9159",
+    "result": "1793",
+    "external_round_id": "33874003",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T19:29:27.000000Z",
+    "revealed_at": "2026-11-11T19:29:33.000000Z"
+}
