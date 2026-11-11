@@ -1,0 +1,22 @@
+{
+    "round_id": "f0790375-4d03-4c7a-84fa-17250397e879",
+    "draw_title": "Princess Heated Robe!!",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/princess-heated-robe",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "c3ac82084c93f5bc6aef4af849bbc00abf84ad618ccd271c88c3f76d4e1232d7",
+    "drand_seed_hash": "a81ce7ed05cca8182650062ce81aea50cb7cd1c9644741ff68bc587d389d45a1e5ad4de7adb331e79da72bacd77cc69f",
+    "client_seed": "1794427842503",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 769,
+    "max_tickets": 2100,
+    "combined_hash": "1a244b9f0e236f29987e325cd4741f235322ca3499e75e673ba0ad2320ab3631",
+    "result": "1887",
+    "external_round_id": "33874828",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:10:42.000000Z",
+    "revealed_at": "2026-11-11T20:10:48.000000Z"
+}
