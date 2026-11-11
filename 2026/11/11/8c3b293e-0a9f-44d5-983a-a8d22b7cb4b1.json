@@ -1,0 +1,22 @@
+{
+    "round_id": "8c3b293e-0a9f-44d5-983a-a8d22b7cb4b1",
+    "draw_title": "💎BOUNTY'S INSTANT GEM HUNT💎",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/bountys-instant-gem-hunt",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "48e6c502312e19e8becb9e1018676c81799c086301678da53e16bf4b77871d5f",
+    "drand_seed_hash": "a793bfcc87e686b16e866580e44ea56f2a9296b819a8d004e42d7dc7faa0960b8321aa403551483479afad656d3ec54f",
+    "client_seed": "1794431428027",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58658,
+    "max_tickets": 486105,
+    "combined_hash": "744cddb5074b95f3c79b2405563edbd7ec6b0a9adaaefa52117bb0207e38d79b",
+    "result": "384145",
+    "external_round_id": "33876024",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T21:10:28.000000Z",
+    "revealed_at": "2026-11-11T21:10:36.000000Z"
+}
