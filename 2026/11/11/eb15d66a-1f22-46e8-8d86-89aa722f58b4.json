@@ -1,0 +1,22 @@
+{
+    "round_id": "eb15d66a-1f22-46e8-8d86-89aa722f58b4",
+    "draw_title": "PRIZEHUB PLINKO - £15,000 END PRIZE!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/prizehub-plinko-ps15000-end-prize",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "2d21cf3efe662455b951bbf9dac414557c6dab5607d245f1f637caea8a4d6723",
+    "drand_seed_hash": "b2d337843770953dc93778644c49dd05b0a445ffca60d051cff32b6dbcffd286d452c5a9bc33e1f4b759af750673eaf7",
+    "client_seed": "1794429427396",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 241738,
+    "max_tickets": 600000,
+    "combined_hash": "d37a9fe851402a1633567c0e303be639a1a03331c0b119cdcf51756b9e81e01c",
+    "result": "365780",
+    "external_round_id": "33875357",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:37:07.000000Z",
+    "revealed_at": "2026-11-11T20:37:15.000000Z"
+}
