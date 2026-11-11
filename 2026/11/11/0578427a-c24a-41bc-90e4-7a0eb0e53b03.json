@@ -1,0 +1,22 @@
+{
+    "round_id": "0578427a-c24a-41bc-90e4-7a0eb0e53b03",
+    "draw_title": "Full Box of Crunchies!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/full-box-of-crunchies",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "36686b5c35ef0a9a2d5b7c48716d7c620283eeefa386aed0b65ef941541eeb0c",
+    "drand_seed_hash": "abb2931523781de881bf5e360cfe6564aadbba2ec541d89fb7ac7fbc6059a002faa6a6749963c89bfd0de46c68120adb",
+    "client_seed": "1794428759550",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136,
+    "max_tickets": 220,
+    "combined_hash": "d411d2012341157776f9c248c8dd38631d32a3a8405d54d3ceab0f93a33f29da",
+    "result": "201",
+    "external_round_id": "33875134",
+    "processing_status": "completed",
+    "created_at": "2026-11-11T20:25:59.000000Z",
+    "revealed_at": "2026-11-11T20:26:06.000000Z"
+}
