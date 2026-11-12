@@ -1,0 +1,22 @@
+{
+    "round_id": "ee1c03b6-b609-4dea-bfa8-95f3c867242e",
+    "draw_title": "£1,000 Smyths Voucher + 10 x £100 Smyth Giftcards",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps1000-smyths-voucher-10-x-ps100-smyth-giftcards-2",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "d3fb1fe96a9814488d1315f3d896c1e7aef1e1f15e2c61bfcf5eba4782ed4846",
+    "drand_seed_hash": "98c61b9ce46890f195a673b010d79f9edea324ad019ce8e0ecc79c652323ce6441f41cd2f71620f1fd945f13aac6d65c",
+    "client_seed": "1794517981982",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 33668,
+    "max_tickets": 40000,
+    "combined_hash": "217a707c1226b36cd3456b3000e4265062e410a8a360c5ec4f630362c8ed0b65",
+    "result": "26082",
+    "external_round_id": "33904875",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:13:02.000000Z",
+    "revealed_at": "2026-11-12T21:13:09.000000Z"
+}
