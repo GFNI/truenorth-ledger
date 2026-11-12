@@ -1,0 +1,22 @@
+{
+    "round_id": "d434205b-fa04-4d3d-8cec-6177e327c8ee",
+    "draw_title": "Win a Ridgemonkey Boilie Crusher Full Set + Boilie Crusher & Boilies of Choice Instant Wins - 5p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-ridgemonkey-boilie-crusher-full-set-boilie-crusher-boilies-of-choice-2",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "0186efe5c89f5ebc6b8c41e39346d511882d6e11f98893da073e634ea413fb84",
+    "drand_seed_hash": "adeddca20a141d179d02af4a739ba7bd345ac6bf32ec80cd247396aa1a6f055ab2249083082771d168d4302194b8e9a8",
+    "client_seed": "1794507137127",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1930,
+    "max_tickets": 20500,
+    "combined_hash": "e9bb4b365b6c8c2e1e2a7c800c91009a810a05975d9eeede0f457895ca0cfa17",
+    "result": "15470",
+    "external_round_id": "33901260",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T18:12:17.000000Z",
+    "revealed_at": "2026-11-12T18:12:24.000000Z"
+}
