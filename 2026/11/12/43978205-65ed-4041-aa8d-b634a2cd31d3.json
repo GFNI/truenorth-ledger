@@ -1,0 +1,22 @@
+{
+    "round_id": "43978205-65ed-4041-aa8d-b634a2cd31d3",
+    "draw_title": "WIN THIS GLENROTHES 18 YEAR OLD!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-glenrothes-18-year-old",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "42c22330880f993b3cba57d2076a5148783ce37782ca25817996bb20282480f1",
+    "drand_seed_hash": "b142faa94e927481ee71e343e8634f53c44be8a9d7d9bee24c6f224267edfd37081f4671628857004ab98ab69f84f36e",
+    "client_seed": "1794517369478",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 103,
+    "max_tickets": 199,
+    "combined_hash": "091d3e8a405c3ca78720100d000344552adcb3515ec6cc9faf154eeb7d5cffd0",
+    "result": "180",
+    "external_round_id": "33904671",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:02:49.000000Z",
+    "revealed_at": "2026-11-12T21:02:57.000000Z"
+}
