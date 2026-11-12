@@ -1,0 +1,22 @@
+{
+    "round_id": "e579152d-d857-4937-9291-360c0e3e4c85",
+    "draw_title": "Lucky 7s 🍀",
+    "competition_url": "https://punterprizes.com/admin/products/lucky-7s",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "e766cafac1a52e4a188aa027430b1d807b305bf726864e18009764f33ef8d038",
+    "drand_seed_hash": "a5aa0e9a361340b7289073d0735bc100c8ff16afa1ddc1ee391850a1f2beeb25a9e6543d322e28469aa8d56311051d9e",
+    "client_seed": "1794516811418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47859,
+    "max_tickets": 177777,
+    "combined_hash": "e0774cabb14b7a29e7dd429021dec025c5cff7f30efe330bbb009fc85c8a9d3e",
+    "result": "150156",
+    "external_round_id": "33904485",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:53:31.000000Z",
+    "revealed_at": "2026-11-12T20:53:39.000000Z"
+}
