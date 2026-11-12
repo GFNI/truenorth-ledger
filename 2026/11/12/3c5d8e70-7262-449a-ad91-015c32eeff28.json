@@ -1,0 +1,22 @@
+{
+    "round_id": "3c5d8e70-7262-449a-ad91-015c32eeff28",
+    "draw_title": "WIN £1000 PLUS INSTANT WINS!",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/win-ps1000-plus-instant-wins-7",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "21db2bd90188c1970c99feddbd6f71653a46a32fe41448ffde2252a90dbde394",
+    "drand_seed_hash": "acc107427327fdfe5383570697c5290615ebf648036fe4ac38896cd21469c81309a02906479f788062526d5a10691aa2",
+    "client_seed": "1794510692137",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1213,
+    "max_tickets": 2500,
+    "combined_hash": "d08d9c48d1a09ee9c5c655194432de29c6d9b1595c1c065d2f2351680db433fe",
+    "result": "1973",
+    "external_round_id": "33902445",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T19:11:32.000000Z",
+    "revealed_at": "2026-11-12T19:11:39.000000Z"
+}
