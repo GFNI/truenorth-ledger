@@ -1,0 +1,22 @@
+{
+    "round_id": "30920784-266b-4a1b-b847-c06aa250ef05",
+    "draw_title": "WIN A £600 NEW MARVEL LAUNCH MYSTERY BOX",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-ps600-new-marvel-launch-mystery-box",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "49feecfd31c1ff2a099cd52d1e4c2057cb0eed199c07b9cb596ab300d90e18cb",
+    "drand_seed_hash": "99e85130cc173ee6a36dbb2a6093b1ed64d41f83bff9ecc4703e1ecb0a53791f2b1f41ad8d14e90cef72768f4e56883c",
+    "client_seed": "1794516071788",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 302,
+    "max_tickets": 460,
+    "combined_hash": "d808cd5d62a617fd5135822d728be870039fa2eb0203c798ad20159c8fd5b4e9",
+    "result": "273",
+    "external_round_id": "33904238",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:41:11.000000Z",
+    "revealed_at": "2026-11-12T20:41:18.000000Z"
+}
