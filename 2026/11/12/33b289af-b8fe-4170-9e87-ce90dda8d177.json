@@ -1,0 +1,22 @@
+{
+    "round_id": "33b289af-b8fe-4170-9e87-ce90dda8d177",
+    "draw_title": "WIN - HULK TARGET MARVEL DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-hulk-target-marvel-darts-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "3c232d76dd192a3bc184835e47403993dc4cc89cbe6dd17e53e2fa3004056fb0",
+    "drand_seed_hash": "ba0000673e53f7636459de62158c12de99051a24b3d93b4f7346589c76d4e6ddb6e5b327726e99ee015940b3fe1a6e75",
+    "client_seed": "1794521434365",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 183,
+    "max_tickets": 200,
+    "combined_hash": "30c0387131ac47fd3934f4031402b8fd2e6921d576817c1ff9c5ac525bae357f",
+    "result": "25",
+    "external_round_id": "33906026",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T22:10:34.000000Z",
+    "revealed_at": "2026-11-12T22:10:42.000000Z"
+}
