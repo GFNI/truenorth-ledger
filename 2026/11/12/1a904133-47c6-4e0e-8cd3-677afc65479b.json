@@ -1,0 +1,22 @@
+{
+    "round_id": "1a904133-47c6-4e0e-8cd3-677afc65479b",
+    "draw_title": "Elemis Beauty Advent Calendar",
+    "competition_url": "https://jetcomps.co.uk/admin/products/elemis-beauty-advent-calendar",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "ea93086835174dcbae9f7c407aa5b42b1f2da6841231678d3bd2e322692b3be3",
+    "drand_seed_hash": "a71f33853b9cb66c9dde84803228ecb142a326c3821a5a2a275cad68a83cefac38b54cebe62213978030dfcc539e6dfb",
+    "client_seed": "1794516938404",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 379,
+    "combined_hash": "ab1e24cbb3aec637587d213f4e072b78d3707f111f34d00a87b5c4951ee853bd",
+    "result": "35",
+    "external_round_id": "33904527",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:55:38.000000Z",
+    "revealed_at": "2026-11-12T20:55:45.000000Z"
+}
