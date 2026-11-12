@@ -1,0 +1,22 @@
+{
+    "round_id": "4d306b1a-aa0e-4663-ba59-e363a901e5ae",
+    "draw_title": "1KG VALCAMBI SUISSE FINE SILVER BAR + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1kg-valcambi-suisse-fine-silver-bar-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "450275394d42db3de0d82f8a5b58a538e91dfdd2604f02c5437c4065fda9c629",
+    "drand_seed_hash": "b037e3f75aebf436cbeddf16d566f8419096fd6373d1513b46be4c1214d3eac2a9801d9d13d216743a1ba8e4e57d8206",
+    "client_seed": "1794517643041",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9323,
+    "max_tickets": 14000,
+    "combined_hash": "61b678069d6dbaad2cca88ed12561a636466fe89eb526718ac2e400375cb5d07",
+    "result": "4306",
+    "external_round_id": "33904762",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:07:23.000000Z",
+    "revealed_at": "2026-11-12T21:07:30.000000Z"
+}
