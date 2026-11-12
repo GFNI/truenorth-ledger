@@ -1,0 +1,22 @@
+{
+    "round_id": "9a831dff-5853-4739-a3db-e6eb41d74cac",
+    "draw_title": "12k Coin Flip",
+    "competition_url": "https://giveawaycompetition.com/admin/products/12k-coin-flip",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "6e41e1d681c131f0799f8dbc1dba686713939e07eb56964b967b1b00f99f4dcf",
+    "drand_seed_hash": "a3bda2d57171039cbb2f1ba7a1d95fd9eccea4b17f0b2ee98a9745bb2058750a96354b74417f5456b1f7099f5d702d04",
+    "client_seed": "1794520263574",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5989,
+    "max_tickets": 20000,
+    "combined_hash": "65f84da871ce3ac88a7248043afb671cd130ed37ef2e5be0477086e72199a8a1",
+    "result": "2150",
+    "external_round_id": "33905635",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:51:03.000000Z",
+    "revealed_at": "2026-11-12T21:51:09.000000Z"
+}
