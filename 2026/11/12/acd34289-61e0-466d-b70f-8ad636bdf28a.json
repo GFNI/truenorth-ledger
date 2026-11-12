@@ -1,0 +1,22 @@
+{
+    "round_id": "acd34289-61e0-466d-b70f-8ad636bdf28a",
+    "draw_title": "WIN 25 ENTRIES TO THE MEGA TALARIA STING R - FOR A QUID!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-25-entries-to-the-mega-talaria-sting-r-for-a-quid",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "4822b6357d498842cdedf3bd3408d8a890dffe1afdc1377e882522f2ff16fdb3",
+    "drand_seed_hash": "a37756c9a7d08680e972972492efb3e0186c175734e6aae9de3830877db4826f2089c4adb72e07842e1eb0fa900169db",
+    "client_seed": "1794498641771",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "ad0590d988b9aff55fd39eb24fb50bb0151dfe2070ba3f4db67c59245821f246",
+    "result": "51",
+    "external_round_id": "33898428",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T15:50:41.000000Z",
+    "revealed_at": "2026-11-12T15:50:48.000000Z"
+}
