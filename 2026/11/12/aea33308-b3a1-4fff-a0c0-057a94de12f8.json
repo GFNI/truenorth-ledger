@@ -1,0 +1,22 @@
+{
+    "round_id": "aea33308-b3a1-4fff-a0c0-057a94de12f8",
+    "draw_title": "Jellycat Instant Wins with a Jellycat of Choice Main Draw Prize",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/jellycat-instant-wins-with-a-jellycat-of-choice-main-draw-prize",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "145e96607ed25071fea88987814c9a105e3313c71e2323ce37727c9371a8118c",
+    "drand_seed_hash": "a4420bab26c952bd894cdcee7c91c46fe23db0af7f8d3747c6343795f6b07168f13e33ea06967ed45f57e97885a2b1b7",
+    "client_seed": "1794510497119",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32888,
+    "max_tickets": 95500,
+    "combined_hash": "c207e80f2d56deb4464b3c789e267a90ff5d61a9b4281a2acc61852572b867a1",
+    "result": "37579",
+    "external_round_id": "33902380",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T19:08:17.000000Z",
+    "revealed_at": "2026-11-12T19:08:24.000000Z"
+}
