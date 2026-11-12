@@ -1,0 +1,22 @@
+{
+    "round_id": "5f5a2b07-549e-4ed2-a15d-69372c8a4af7",
+    "draw_title": "Pokemon 30th Ultra Premium Box 🐲",
+    "competition_url": "https://punterprizes.com/admin/products/pokemon-30th-ultra-premium-box",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "f114e755be3f8e62579fa7e0ef46b8cda17d42e0310481fb0350ea6a0e198397",
+    "drand_seed_hash": "ab72090242ba4f75406eb5ff127d9736e669dbb11ccd8b01d8077dd0958227a078abdec264e65dfea08d7bc559bcffbe",
+    "client_seed": "1794516748789",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "1826e4c05a3603b598c88abb7f22950a5ae1dea086e4ead80546fcf736f2fcba",
+    "result": "7433",
+    "external_round_id": "33904464",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:52:28.000000Z",
+    "revealed_at": "2026-11-12T20:52:36.000000Z"
+}
