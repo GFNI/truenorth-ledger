@@ -1,0 +1,22 @@
+{
+    "round_id": "098392d8-cb11-4caf-b91b-aa80ca6185d7",
+    "draw_title": "THE £10K GREATEST SHOW LEADERBOARD 🎪",
+    "competition_url": "https://geardowncompetitions.com/admin/products/the-ps10k-greatest-show-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "af1ee0b046bf4387bc80d9adab74bf7db43332d025ef58cb21271bac07582bbb",
+    "drand_seed_hash": "821e39560b1f739bf53f3072b19ae8c83b32a0f231229ac1d616b73be0e66cafb3e57c0813d40720e365d94bf6a7eb2f",
+    "client_seed": "1794519989913",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4609,
+    "max_tickets": 9999,
+    "combined_hash": "30fbc5cc299bfc20e78dbdc388b3823de3985196e73833640e4d87af9d958229",
+    "result": "548",
+    "external_round_id": "33905544",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:46:29.000000Z",
+    "revealed_at": "2026-11-12T21:46:36.000000Z"
+}
