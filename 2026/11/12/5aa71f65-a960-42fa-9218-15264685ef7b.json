@@ -1,0 +1,22 @@
+{
+    "round_id": "5aa71f65-a960-42fa-9218-15264685ef7b",
+    "draw_title": "Pokemon - 30th ANNIVERSARY INSTANT WINS!",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/pokemon-30th-anniversary-instant-wins",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "65677801b98c5681458af124d54fb2a36ff243d6964e893853072ab0ebd33dbf",
+    "drand_seed_hash": "945a7a73002b93e4977427ef72ead3f708775a1712d6a0e8f2a3d7488907e2a5c3f0d57b158d8b7ab0e68914628cf617",
+    "client_seed": "1794519737387",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9038,
+    "max_tickets": 40000,
+    "combined_hash": "0cbb05d998ae7c07dbc0ccdc6659a436cb1b58f615aac96e151da01875487e6d",
+    "result": "31437",
+    "external_round_id": "33905460",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:42:17.000000Z",
+    "revealed_at": "2026-11-12T21:42:24.000000Z"
+}
