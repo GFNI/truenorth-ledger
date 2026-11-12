@@ -1,0 +1,22 @@
+{
+    "round_id": "54d2883a-f7a2-4dc2-8e82-e56c9e415029",
+    "draw_title": "Hotel Chocolat Velvetiser & Advent Calendar",
+    "competition_url": "https://jetcomps.co.uk/admin/products/hotel-chocolat-velvetiser-advent-calendar",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "a74f7ffb8ffa95a8f3db169ea0428826e4df735ee09268b85173438269c79be5",
+    "drand_seed_hash": "8623c9293fc415c95f3f416a8f9944f318afc7407b9ba5c83aeb8f22475bd629ad93649bfb159f0926be24b32e4e864d",
+    "client_seed": "1794516706443",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 279,
+    "combined_hash": "f6739d82f9265f20aba16fc1ee1316a4648752bac85ba44f47724bb644423210",
+    "result": "244",
+    "external_round_id": "33904450",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:51:46.000000Z",
+    "revealed_at": "2026-11-12T20:51:54.000000Z"
+}
