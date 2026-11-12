@@ -1,0 +1,22 @@
+{
+    "round_id": "36297950-bb92-4cc8-a1b5-38a45c389f2b",
+    "draw_title": "The Ultimate Instant Win Competition - Full of Instant Win Prizes - Korda Kaizen Green Spod Rod (Any Size) Main Prize - 3x Korda Kaizen Green Rods (10ft or 12ft) Jackpot Instant Win Prize - 10p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/the-ultimate-instant-win-competition-full-of-instant-win-prizes-korda",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "f59ceefb0575730390e876f0607b332c8023359af7dbce6a11e488b4653bd381",
+    "drand_seed_hash": "90a196937fba88066f5bce1f7639890eb5a5129201d8d5c4d803e5b942b2c73d474ada7e177c312bab72743fb3ce9690",
+    "client_seed": "1794507290128",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8736,
+    "max_tickets": 45000,
+    "combined_hash": "eede1845315d67ef0feb9b66cd1801136b0428e386d3fa7aaeadf6a967832769",
+    "result": "12839",
+    "external_round_id": "33901311",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T18:14:50.000000Z",
+    "revealed_at": "2026-11-12T18:14:57.000000Z"
+}
