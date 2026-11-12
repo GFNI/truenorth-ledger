@@ -1,0 +1,22 @@
+{
+    "round_id": "1fcfc9a6-6143-475c-a9f3-4abda9741b4c",
+    "draw_title": "WIN £500 OF ENTRIES INTO THE MAIN DRAW - PORSCHE MACAN SD",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/win-ps500-of-entries-porsche",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "bac0e60f9720182942a683548aea866a2bf905171e539def26e42fedb1b96d1b",
+    "drand_seed_hash": "98c3937c5753616fca4100be23d616091831d57bcf9da583b1865240eaefdc9f454040604d00e4bf895cb5a9831d0dcb",
+    "client_seed": "1794513865599",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 125,
+    "combined_hash": "5fea4ca34f2b7f080e3492e34d9848e82bdf781476ea44d882a2c8b1cec68b97",
+    "result": "69",
+    "external_round_id": "33903503",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:04:25.000000Z",
+    "revealed_at": "2026-11-12T20:04:33.000000Z"
+}
