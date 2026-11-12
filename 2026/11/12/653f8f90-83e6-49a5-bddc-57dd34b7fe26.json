@@ -1,0 +1,22 @@
+{
+    "round_id": "653f8f90-83e6-49a5-bddc-57dd34b7fe26",
+    "draw_title": "1p Auto Draw - Nadir 50g Silver Bar - Minted",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-nadir-50g-silver-bar-minted",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "94102a8b09b93d814b84b92b003467e934b087b9d11158a963b168f8c52275a6",
+    "drand_seed_hash": "a3bcd910282d24d4db7862647ce1f1b186d6a7c70667068417cb678a1c545a0612e9db143d5fb934036ec9cc2bc1af7d",
+    "client_seed": "1794523245492",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14283,
+    "max_tickets": 25000,
+    "combined_hash": "c868af9a33e971197f6fb6492513d1ec5d19721606a8fe1ad1d90cf72285c20d",
+    "result": "11889",
+    "external_round_id": "33906629",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T22:40:45.000000Z",
+    "revealed_at": "2026-11-12T22:40:51.000000Z"
+}
