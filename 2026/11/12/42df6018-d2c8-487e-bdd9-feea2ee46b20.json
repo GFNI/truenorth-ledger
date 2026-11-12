@@ -1,0 +1,22 @@
+{
+    "round_id": "42df6018-d2c8-487e-bdd9-feea2ee46b20",
+    "draw_title": "WIN - SPIDERMAN TARGET MARVEL K FLEX (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-spiderman-target-marvel-k-flex-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "2a498025c0742abfd8d3a482c152cd09494a3703503245baf3f991a61078ff26",
+    "drand_seed_hash": "970a8e6ddffbb7c112af2516571d8e8c066a5dcf1006b311928bd6991a29de29849d745886447fd533aa7eebfc0fb0e8",
+    "client_seed": "1794514060342",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 70,
+    "combined_hash": "bec7eb9d7d863f682e6d2988743b80570d33beb2d96127c9a4ac1d0f4cac1ffd",
+    "result": "67",
+    "external_round_id": "33903568",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:07:40.000000Z",
+    "revealed_at": "2026-11-12T20:07:48.000000Z"
+}
