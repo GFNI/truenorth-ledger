@@ -1,0 +1,22 @@
+{
+    "round_id": "d7e73db5-32cd-4d9d-977e-368fd383d361",
+    "draw_title": "2008 AUSTRALIAN YEAR OF THE MOUSE 1oz SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2008-australian-year-of-the-mouse-1oz-silver-coin-14",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "4bc34c48967771a76b9b3c45da81fdc023f4cbc792fb9ad69ab13471f56df7c5",
+    "drand_seed_hash": "b5a2b22357a64e194d3b2558faeb6da52488bf4baf1bbb781e73d5cc053e5b17663a6939d6cfcb43678ebe3a2ec9fbec",
+    "client_seed": "1794527733797",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 100,
+    "combined_hash": "36e661cbd16fd710ee43d0633985e0dc529738f2343a7388c8322127880e356d",
+    "result": "75",
+    "external_round_id": "33908125",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T23:55:33.000000Z",
+    "revealed_at": "2026-11-12T23:55:39.000000Z"
+}
