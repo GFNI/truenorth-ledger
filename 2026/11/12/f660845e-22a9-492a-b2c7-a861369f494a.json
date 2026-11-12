@@ -1,0 +1,22 @@
+{
+    "round_id": "f660845e-22a9-492a-b2c7-a861369f494a",
+    "draw_title": "WIN THIS TAMDHU CIGAR MALT IV 53.7%",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-tamdhu-cigar-malt-iv-537",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "878127b31580dff6bcc6784348013dfb09a949f0c0fb6f5c44a49d742dee2dca",
+    "drand_seed_hash": "a5396886f1c91ca9ed4dc7647f938fdb781676d025ee0f538913f0140000383af9e1637c4d2ccda9c3001b1a5bd68fab",
+    "client_seed": "1794517407450",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 82,
+    "max_tickets": 199,
+    "combined_hash": "58a71cd93e6cfcb7e2e4cc49b33420e9a0e8aeab4191e29c1eedf84ee59bee51",
+    "result": "110",
+    "external_round_id": "33904683",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:03:27.000000Z",
+    "revealed_at": "2026-11-12T21:03:33.000000Z"
+}
