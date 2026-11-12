@@ -1,0 +1,22 @@
+{
+    "round_id": "44a69cff-5af9-42be-a08a-8ba7975c0ec9",
+    "draw_title": "🧸💖 WIN A JELLYCAT BIZZLESTOMP BEAR OR £70 CASH FOR JUST 25P! 💖🧸",
+    "competition_url": "https://twofatladiescomps.co.uk/admin/products/win-a-jellycat-bizzlestomp-bear-or-ps70-cashfor-just-25p",
+    "operator": {
+        "name": "Two Fat Ladies Competitions Limited",
+        "website": "https://twofatladiescomps.co.uk",
+        "company_number": "16243731"
+    },
+    "drand_server_seed": "3cdb65fcc87118806d5cfae1b2a4e75ae52aa23d1e12779e302a76c1d703653d",
+    "drand_seed_hash": "8ba1982caa37d734d71558b360df97e18f86cfd8ac1e2cb5d73681eb0a627f98f3dd4573673ec1b7f9a0b60ad9213d22",
+    "client_seed": "1794514255117",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 553,
+    "max_tickets": 720,
+    "combined_hash": "a047fc41b8c41795e16cdf0d0be11e5c3077ee9b9e59c2c0bca016d86c7e28eb",
+    "result": "609",
+    "external_round_id": "33903633",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:10:55.000000Z",
+    "revealed_at": "2026-11-12T20:11:03.000000Z"
+}
