@@ -1,0 +1,22 @@
+{
+    "round_id": "4dcdc3fa-e406-40a2-8d24-45ff66b2832b",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into Cupra Terramar or £22,000 cash Main Draw #3",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-cupra-terramar-or-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "6b1edf4b73c7ab85d0a9eb2debcc5953d5c4aa9f63e07fff96b7d6688a2e51a9",
+    "drand_seed_hash": "892b51202ea5c0de74fc15762359672076ddca550756610b12578133935d8e0e055929a0654b6ab7a5e61225b9609887",
+    "client_seed": "1794517963491",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 185,
+    "max_tickets": 200,
+    "combined_hash": "5e2e134a94540c1d7a1bacae00109ba170d53319fcb9a04381c348cd17e7cbd2",
+    "result": "39",
+    "external_round_id": "33904869",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:12:43.000000Z",
+    "revealed_at": "2026-11-12T21:12:51.000000Z"
+}
