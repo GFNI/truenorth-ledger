@@ -1,0 +1,22 @@
+{
+    "round_id": "9fa4dedc-6e0e-416b-8438-3d83ef28e6a7",
+    "draw_title": "£500 TO SPEND AT JD SPORTS!",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps500-to-spend-at-jd-sports",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "29fc993ae8e14f8d827dee66c91937492c4fd10ac79b3c181c279b346397fbf1",
+    "drand_seed_hash": "a2b8eaa8214950b13ca3549d59125ae60df61daf9dfd6222b5182bf5c9ef7d0d9fefa28603d0bb9085d8786c263da0f6",
+    "client_seed": "1794477020690",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50000,
+    "max_tickets": 50000,
+    "combined_hash": "be21a106aaa71aa9eeb723d7f8ca7d9b8992e68e9d4c12fb8abc0c5221354830",
+    "result": "23231",
+    "external_round_id": "33891221",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T09:50:20.000000Z",
+    "revealed_at": "2026-11-12T09:50:27.000000Z"
+}
