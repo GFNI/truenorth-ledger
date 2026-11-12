@@ -1,0 +1,22 @@
+{
+    "round_id": "1fa38b88-a116-465b-9d2b-9ec9ee7028ba",
+    "draw_title": "Big Bangers",
+    "competition_url": "https://phatstax.co.uk/admin/products/big-bangers",
+    "operator": {
+        "name": "Phat Stax Competitions (Northumberland Jackpots Ltd)",
+        "website": "https://phatstax.co.uk",
+        "company_number": "16102548"
+    },
+    "drand_server_seed": "366cd2d2d22045c88f6bbf4e10de4dafa6c54d8459530af0fb1fa49d90a61562",
+    "drand_seed_hash": "8f120f451339b6e20e0622f6e1488eea5075b796f26026b23be761070375e75dcecaa8ddab6a2768f8696039ad8d1a3a",
+    "client_seed": "1794517535751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12761,
+    "max_tickets": 15750,
+    "combined_hash": "3157a28d62805f2df850a01bada161872b172e894cfc18950f184a3cc10fbd86",
+    "result": "8360",
+    "external_round_id": "33904726",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T21:05:35.000000Z",
+    "revealed_at": "2026-11-12T21:05:42.000000Z"
+}
