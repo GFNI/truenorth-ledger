@@ -1,0 +1,22 @@
+{
+    "round_id": "43b4d620-08fb-47ef-9d9e-2058f2f7e9db",
+    "draw_title": "Find the Ghosts to win prizes - £444 Jackpot and a £144 Main Draw Prize",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/find-the-ghosts-to-win-prizes-ps444-jackpot-and-a-ps144-main-draw-prize",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "0d6241b1ef515ab5d4e455db9f98068cb4c2267df63a4ad49021ece5c11e6f91",
+    "drand_seed_hash": "82af0ed8ab82098268e1ddc9a2219242b5ff88f6930e858e5ffca3e1f493b2e28a63c1470164584ca8f52e305c4d713c",
+    "client_seed": "1794510815411",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32032,
+    "max_tickets": 135000,
+    "combined_hash": "0d92f343c94cd7dcdd7d82b55b3bd3f5c721b1ed58e4a84ca7b3e4717e8db2b8",
+    "result": "96110",
+    "external_round_id": "33902486",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T19:13:35.000000Z",
+    "revealed_at": "2026-11-12T19:13:42.000000Z"
+}
