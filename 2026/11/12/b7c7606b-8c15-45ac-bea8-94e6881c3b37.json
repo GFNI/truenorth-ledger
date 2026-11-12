@@ -1,0 +1,22 @@
+{
+    "round_id": "b7c7606b-8c15-45ac-bea8-94e6881c3b37",
+    "draw_title": "WIN BRAND NEW IRON MAN 2026 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-brand-new-iron-man-2026-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "19921ad508e3986132dd4a6071b099284a23aeae4d90d4c4640b5df384ec7919",
+    "drand_seed_hash": "8d336d1116f2a0e2e517c73382187efc1711c91500d98afd6787a7d3cc5f352a5fbe72025c6455c1beb9ab79aba4307d",
+    "client_seed": "1794515963174",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 115,
+    "max_tickets": 115,
+    "combined_hash": "d73d4e28e66678215bd25e6299a2e423ad75af4fb7096b42f3e90b591174a519",
+    "result": "65",
+    "external_round_id": "33904202",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T20:39:23.000000Z",
+    "revealed_at": "2026-11-12T20:39:30.000000Z"
+}
