@@ -1,0 +1,22 @@
+{
+    "round_id": "4b47b618-b065-48db-985f-163b8c0f801e",
+    "draw_title": "Cadburys Festive Chocolate Hamper + Cadburys Instant Wins",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/cadburys-festive-chocolate-hamper-cadburys-instant-wins",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "470bc5d8e0585b7ae7cadb469801a05861386d308f1d9ee6dea250d045bb9c3d",
+    "drand_seed_hash": "b73fe9ec0ee8c1c491bf94aa4edefb41d50fba8588c323bc65998858717664ebbe1fb7b4487727cbb8a4da10c2d8ee95",
+    "client_seed": "1794510675442",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 937,
+    "max_tickets": 1400,
+    "combined_hash": "e4c0123fec87c9472716c92284f112587cee9602504c3ad2ac592a2706f5b02e",
+    "result": "837",
+    "external_round_id": "33902439",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T19:11:15.000000Z",
+    "revealed_at": "2026-11-12T19:11:21.000000Z"
+}
