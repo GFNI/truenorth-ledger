@@ -1,0 +1,22 @@
+{
+    "round_id": "9968a7c5-63e1-4fc4-b614-52c98932a820",
+    "draw_title": "1p Auto Draw - 2026 Hawkstone Advent Calendar",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-2026-hawkstone-advent-calendar",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "a88894f656fe135bbd069ff78b1c41e138eca409545ce4cf1d15a53bc857441b",
+    "drand_seed_hash": "b1a345cc639c77a3ac645304703c7a26eb5f320f7a49748d25044bf547029396113e7353614841c034bbac79d0bd4a3d",
+    "client_seed": "1794523225320",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17482,
+    "max_tickets": 25000,
+    "combined_hash": "473ffa54a489b8c9cc499c5bf7a8ed66e4c8f07f6cc2d1948814dc9e666fc625",
+    "result": "11344",
+    "external_round_id": "33906623",
+    "processing_status": "completed",
+    "created_at": "2026-11-12T22:40:25.000000Z",
+    "revealed_at": "2026-11-12T22:40:33.000000Z"
+}
