@@ -1,0 +1,22 @@
+{
+    "round_id": "ac990579-d66e-4b75-8767-488d1da64413",
+    "draw_title": "£350 BUZZWORKS VOUCHER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps350-buzzworks-voucher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2afe4da3ded0d6ff93c667a6b56ad6798ac4f968f2cd86be1b2f637ebf5d381f",
+    "drand_seed_hash": "80beeaafbc9c62174ecfea25a43a3cc57192ad86128e027d04aeec6475e0e74be303eda3c9fc1288f5873f566dee3677",
+    "client_seed": "1794603916708",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 944,
+    "max_tickets": 1400,
+    "combined_hash": "91681053e61fd8e46ec4e523a95830d72108d5ce520b3fc5707d62a2bde55851",
+    "result": "474",
+    "external_round_id": "33933520",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:05:16.000000Z",
+    "revealed_at": "2026-11-13T21:05:24.000000Z"
+}
