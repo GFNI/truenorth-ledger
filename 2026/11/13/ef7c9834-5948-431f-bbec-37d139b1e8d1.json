@@ -1,0 +1,22 @@
+{
+    "round_id": "ef7c9834-5948-431f-bbec-37d139b1e8d1",
+    "draw_title": "💸🌧️ WYNN BIGG MAKES IT RAIN! 🌧️💰 🔥 WIN UP TO £650 INSTANTLY! 🔥",
+    "competition_url": "https://carleycomps.co.uk/admin/products/wynn-bigg-makes-it-rain-win-up-to-ps650-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "a947b9d9ad403a5040eae575a5be4aa69b6c275b57576178ca0f8125fc5e13ce",
+    "drand_seed_hash": "878806cd181b1df7c808b5bf2b33df2933385a296ef93e1519917329214e6edbf604abdd64a13f15928d452295f70100",
+    "client_seed": "1794578620063",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 244041,
+    "max_tickets": 999999,
+    "combined_hash": "62a218c230594cb2a6e1134f05c71986ab7723c6257865bf64dfb4151b5599b2",
+    "result": "397595",
+    "external_round_id": "33925088",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T14:03:40.000000Z",
+    "revealed_at": "2026-11-13T14:03:48.000000Z"
+}
