@@ -1,0 +1,22 @@
+{
+    "round_id": "08e5968d-7475-440e-b2f3-ff45eb11988f",
+    "draw_title": "305mm Mitre Saw - Choose Your Brand",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/305mm-mitre-saw-choose-your-brand",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "6e695069b14690cc60164bb0b3110f97372d8f3e4a667470a2cbb554a30d6de8",
+    "drand_seed_hash": "aef01c5ac9e73880d36c19ebe17efc8062211ea5c3b1778a65497025a0e9d4410e05df8846c255071a3c3210c592085e",
+    "client_seed": "1794606761542",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 242,
+    "max_tickets": 500,
+    "combined_hash": "8353a0263b542884e312d862723dffd73cfa03f1adcb45702f4a9fc7858baa1c",
+    "result": "348",
+    "external_round_id": "33934468",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:52:41.000000Z",
+    "revealed_at": "2026-11-13T21:52:48.000000Z"
+}
