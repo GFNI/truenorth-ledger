@@ -1,0 +1,22 @@
+{
+    "round_id": "54ed21ed-dd4c-481c-aa1d-30d6ab944775",
+    "draw_title": "Storm Mo £500 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/storm-mo-ps500-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "449d5fce2c743311ec57675613593c71ad08a65372b903ce656b0f030970a9e2",
+    "drand_seed_hash": "95bf7a2df1a3022ac2ae43c42d10b7cc483debae233b4881f2957035f7b6e9fbcf2ff0896880540ed4dad22d6544523b",
+    "client_seed": "1794608283923",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 225000,
+    "combined_hash": "ef7948362db50f7efe1db16c640278e4ed95c0f5960aeb3c4f8fff083d75314e",
+    "result": "144472",
+    "external_round_id": "33934975",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:18:03.000000Z",
+    "revealed_at": "2026-11-13T22:18:09.000000Z"
+}
