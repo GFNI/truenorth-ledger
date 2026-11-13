@@ -1,0 +1,22 @@
+{
+    "round_id": "461889f6-6e23-4154-b0dc-7bc22cd125d0",
+    "draw_title": "🔴WIN 250 ENTRIES INTO THE CAMPER & 100 INTO THE £250K #6",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-250-entries-into-the-camper-100-into-the-ps250k-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "ca0f571f4c9bd670e6071f1fab2b8b0dbc6fedf8dc168fb502e26ef062b282b5",
+    "drand_seed_hash": "b78cb60a34c46e638431a1ac47575337dc5f4c67320c9df9358f8809a40017c23f34d25b42c51aa7a9d2351b61d7dcb5",
+    "client_seed": "1794609741573",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 679,
+    "max_tickets": 999,
+    "combined_hash": "6af6f87fe2d880bb3c655c69a4a30ad7ac15b33aa8093f87e792f6a02f040ace",
+    "result": "614",
+    "external_round_id": "33935461",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:42:21.000000Z",
+    "revealed_at": "2026-11-13T22:42:27.000000Z"
+}
