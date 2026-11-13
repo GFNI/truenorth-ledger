@@ -1,0 +1,22 @@
+{
+    "round_id": "3c657164-4fea-48e7-9cf6-1c8593e8ab4d",
+    "draw_title": "CASH STORM",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/cash-storm",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "4f5aaf761021fd4e94b2d89c2919a74d642bba9cf844500fa52326559edac290",
+    "drand_seed_hash": "97c5e6aa944938eafce1a87cecbf464aecd37a89263239cda79475849b068fce37c1a96a477e5048c8e489710e35cf8d",
+    "client_seed": "1794604210070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4512,
+    "max_tickets": 22000,
+    "combined_hash": "d9946c0fbd7f743eabe555a1ab97a9003bf2f32452c251929593d36a5559cd12",
+    "result": "10234",
+    "external_round_id": "33933618",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:10:10.000000Z",
+    "revealed_at": "2026-11-13T21:10:18.000000Z"
+}
