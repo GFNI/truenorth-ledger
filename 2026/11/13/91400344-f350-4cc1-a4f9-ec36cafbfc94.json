@@ -1,0 +1,22 @@
+{
+    "round_id": "91400344-f350-4cc1-a4f9-ec36cafbfc94",
+    "draw_title": "10K WINTER SCRATCHER",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/10k-winter-scratcher",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "6431eef337be37c12731bb97bae6a81ef92563c10993162b291e57d305cf6040",
+    "drand_seed_hash": "93edfbe5494d94c33b761d228ca438e2d50f31557dd4dbf5f3ae030ce0ca895ff858bec285da659e96a47d1ff34e43d4",
+    "client_seed": "1794604466401",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21279,
+    "max_tickets": 80000,
+    "combined_hash": "49b5b5008dd6787cfd49f4a66224413daf7accd253f0d45ddb5b647f1a3f1595",
+    "result": "68426",
+    "external_round_id": "33933703",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:14:26.000000Z",
+    "revealed_at": "2026-11-13T21:14:33.000000Z"
+}
