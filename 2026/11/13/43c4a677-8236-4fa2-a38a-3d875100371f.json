@@ -1,0 +1,22 @@
+{
+    "round_id": "43c4a677-8236-4fa2-a38a-3d875100371f",
+    "draw_title": "⚡️ FLASH FRIDAY DAILY CASH DRAW - £750 CASH ⚡️",
+    "competition_url": "https://geardowncompetitions.com/admin/products/flash-friday-daily-cash-draw-ps750-cash",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "b45eac3894bcf310ec750d64b18d0374dde5a2df8988ee519ca95ceaea09c782",
+    "drand_seed_hash": "b8c30ebda9eff16f3da28132d0b6696cef4faf1c4103464e6c4a5eb595948cb3d58118e14fe200e5b9591a1c19e5196a",
+    "client_seed": "1794577677358",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2086,
+    "max_tickets": 3999,
+    "combined_hash": "b56b0ff0afafec55f9e8703eb102ba902cecac154ecd24304f73fe31324d0c35",
+    "result": "1591",
+    "external_round_id": "33924773",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T13:47:57.000000Z",
+    "revealed_at": "2026-11-13T13:48:03.000000Z"
+}
