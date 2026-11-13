@@ -1,0 +1,22 @@
+{
+    "round_id": "d7215eec-c62e-430a-a8c5-af1bc8d79c76",
+    "draw_title": "Win 200 Tickets into the House or £200,000 Cash draw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-200-tickets-into-the-house-or-ps200000-cash-draw-8",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "84c494bf8f177022537016d376d81f643dee9088a22be80ff2ea63b80581daf5",
+    "drand_seed_hash": "b4cb21ffae416876eb80dd9dd32c234e0853dabf292bf0f4db66712e6dab21342f45b845003b831e949fe0fab1befd63",
+    "client_seed": "1794604183190",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 323,
+    "max_tickets": 420,
+    "combined_hash": "cac9577a368195cd0d6e8e49b4b98c5ad53b318a2de517b8de175c4e885c1286",
+    "result": "43",
+    "external_round_id": "33933609",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:09:43.000000Z",
+    "revealed_at": "2026-11-13T21:09:51.000000Z"
+}
