@@ -1,0 +1,22 @@
+{
+    "round_id": "b9b215b2-a6e3-45c6-9c8c-972d0d3952e1",
+    "draw_title": "WIN NEW V2 Precise 180 Bela Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-new-v2-precise-180-bela-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "03230b55b420399b7be34f2380008692005dae34ffc0b4811e94130c4b446064",
+    "drand_seed_hash": "8ef6bf781b85e51e9b45f790b1fe498366735bde6919e2f7cced41cfa2fe6713bcf94fbe5043ccc641bbda82e056af0f",
+    "client_seed": "1794607965484",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 105,
+    "combined_hash": "2c9e9011d19307cd7a66e8248c5e34cdfe090287c5f40942d8d10ecf467add24",
+    "result": "79",
+    "external_round_id": "33934869",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:12:45.000000Z",
+    "revealed_at": "2026-11-13T22:12:51.000000Z"
+}
