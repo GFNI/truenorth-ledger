@@ -1,0 +1,22 @@
+{
+    "round_id": "754ee72d-df29-4bc6-bc13-2abd67a5bcfc",
+    "draw_title": "P.Louise Advent Calendar",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/plouise-advent-calendar",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "d86c8c8df894f6a95e35766f6cc47c319e0e9e590cb4a4d49d6affb0172222cb",
+    "drand_seed_hash": "88cdba05faeeedce388a23adcf173456efd8e3faf811fdba988feba33b10d745e6039a7fd302ba569b928c249230e823",
+    "client_seed": "1794604227813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 331,
+    "max_tickets": 399,
+    "combined_hash": "1eb028b790474cad3068501cf586dc34f96fc12a92a695df432f35f416d8ea4b",
+    "result": "151",
+    "external_round_id": "33933623",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:10:27.000000Z",
+    "revealed_at": "2026-11-13T21:10:33.000000Z"
+}
