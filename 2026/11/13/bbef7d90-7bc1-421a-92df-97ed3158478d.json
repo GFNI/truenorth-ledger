@@ -1,0 +1,22 @@
+{
+    "round_id": "bbef7d90-7bc1-421a-92df-97ed3158478d",
+    "draw_title": "ACE BINGO BONANZA - EVERY LINES A WINNER",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/ace-bingo-bonanza",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "d92acaef0c11bc916c1c5f039c2176bf3f68bbe60599ff4518058d075d1c8a61",
+    "drand_seed_hash": "a9255365bcd7280a87a2e956a581df3289029dc9073aea25108f6e6858638ecfe1c3ed0785f0c9844d3facfb841f4515",
+    "client_seed": "1794604386124",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 508,
+    "max_tickets": 1000,
+    "combined_hash": "3cff595d8b8996d46ce94d8923caf0b6e0b7a8682d6fc63d352d032ad2b17db0",
+    "result": "133",
+    "external_round_id": "33933676",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:13:06.000000Z",
+    "revealed_at": "2026-11-13T21:13:12.000000Z"
+}
