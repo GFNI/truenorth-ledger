@@ -1,0 +1,22 @@
+{
+    "round_id": "fd6aaf14-6913-4194-b2d8-89262b00a8dd",
+    "draw_title": "2016 AMERICAN 1oz FINE SILVER EAGLE",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2016-american-1oz-fine-silver-eagle",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "2489087d97c4407a943d11c3b12c4b54bed14d15fe8fd5af666c844412c59431",
+    "drand_seed_hash": "82535c2fe9d10f8b7deb5b7f2289448454381da964029d4b794c213d8c2de837d93697b7b3016e617ea640122c360591",
+    "client_seed": "1794614136556",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 57,
+    "max_tickets": 100,
+    "combined_hash": "a63c22cb5309ab96bf8f1dba482516621d07fad8da94f1fa65d491f2633daf01",
+    "result": "99",
+    "external_round_id": "33936926",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T23:55:36.000000Z",
+    "revealed_at": "2026-11-13T23:55:42.000000Z"
+}
