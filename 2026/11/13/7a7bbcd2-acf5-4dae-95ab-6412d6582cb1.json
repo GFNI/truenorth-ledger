@@ -1,0 +1,22 @@
+{
+    "round_id": "7a7bbcd2-acf5-4dae-95ab-6412d6582cb1",
+    "draw_title": "🎁NINTENDO SWITCH 2 FOR 2p + £750 INSTANT WINS🎁",
+    "competition_url": "https://optimisedodds.com/admin/products/nintendo-switch-2-for-2p-ps750-instant-wins",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "03046a20c26a14ef3c7d93e4ad167253ae9c65116cc39dec65be90b116378220",
+    "drand_seed_hash": "860eba11620ac9a5944ccab907798a9ca1993116f5af6c39e68014ece9c5e52d957640f6e94ae49781d8bfd7a067dfdf",
+    "client_seed": "1794611436466",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25066,
+    "max_tickets": 150000,
+    "combined_hash": "25b71cd14b265bf7f1706ff1678e5a77aa7c7f70d393b126527ef0777972662c",
+    "result": "120038",
+    "external_round_id": "33936026",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T23:10:36.000000Z",
+    "revealed_at": "2026-11-13T23:10:42.000000Z"
+}
