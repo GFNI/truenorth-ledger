@@ -1,0 +1,22 @@
+{
+    "round_id": "ebfee4c3-cb91-406d-b27a-dc6a8db07641",
+    "draw_title": "Win a Fogstar 334ah battery!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-fogstar-334ah-battery-2",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "d596fc8070a3e362e818d7b6901b1414de4785fe511bb7ef164c0c22c25f2df3",
+    "drand_seed_hash": "b287c8a5dd7e69a480bfd84c0a5fd004da0f3edaa76804ab629a6a5e532b1f680d081783642cf7cba106fcad6328bfb0",
+    "client_seed": "1794604248469",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1358,
+    "max_tickets": 1599,
+    "combined_hash": "0de5d5ba91a927e2158619c6196cc58d46fb8bdf5af863196f9da1178178bb32",
+    "result": "1119",
+    "external_round_id": "33933630",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:10:48.000000Z",
+    "revealed_at": "2026-11-13T21:10:54.000000Z"
+}
