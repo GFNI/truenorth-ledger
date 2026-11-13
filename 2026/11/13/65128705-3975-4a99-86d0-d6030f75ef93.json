@@ -1,0 +1,22 @@
+{
+    "round_id": "65128705-3975-4a99-86d0-d6030f75ef93",
+    "draw_title": "*BRAND NEW* GERWYN PRICE RD-ULTRA",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-gerwyn-price-rd-ultra",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "e1de0f6dac8d67c6eddbfb897c6f5ddb45086086e3032e9ac91ef0302eec68b5",
+    "drand_seed_hash": "970fad37efc1a16a50145567964e52fc4c3847d2f86c9b8094d1ad9493f26ddefa539fe49e183daa205093ef34dd16d5",
+    "client_seed": "1794602803415",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 200,
+    "combined_hash": "7027171cc648706907b4121e6dd039a5d79069e50d70f9bd4327b1318d9fd4f7",
+    "result": "73",
+    "external_round_id": "33933149",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T20:46:43.000000Z",
+    "revealed_at": "2026-11-13T20:46:51.000000Z"
+}
