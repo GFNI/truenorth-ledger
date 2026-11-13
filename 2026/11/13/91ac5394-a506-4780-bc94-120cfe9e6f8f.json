@@ -1,0 +1,22 @@
+{
+    "round_id": "91ac5394-a506-4780-bc94-120cfe9e6f8f",
+    "draw_title": "£150 Morrisons Gift Card With Instants",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-morrisons-gift-card-with-instants-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "400de43d9be8fb4703964efa2d80d075a41ff43aa395265039aa776c4a8fbc49",
+    "drand_seed_hash": "8b7273e63247b60ce7842d189b0f4991585fd0164f9c27d300339ead4a745e88abb23a6ad1ad4ceeb1d9019074e1fe8e",
+    "client_seed": "1794608167457",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 280,
+    "combined_hash": "07f49dc709fe78d1ef9aad93876cbfe9f2649b54f0ffce7d400440872aae2ad6",
+    "result": "48",
+    "external_round_id": "33934936",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:16:07.000000Z",
+    "revealed_at": "2026-11-13T22:16:17.000000Z"
+}
