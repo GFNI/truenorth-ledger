@@ -1,0 +1,22 @@
+{
+    "round_id": "bad2fe71-3e66-46d4-9d60-a2e115aa2d36",
+    "draw_title": "£40,000 Kilted Cash Cow",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps40000-kilted-cash-cow",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "5f27251d778826be904df8f97a42e52ba187f8a776ae19effe7d5cc5665e7eeb",
+    "drand_seed_hash": "ac6aa0e747231bd5dfa91aa1d2a486853b7101f5942126d37d0e0bb16cbfdec32c7c64364bdf21f2f0609bb4e47b013e",
+    "client_seed": "1794604272836",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 277900,
+    "max_tickets": 800000,
+    "combined_hash": "1061547f5e79eaa59654ae34293d60d2bd709517d5c7a7afc76b3367f1cd4688",
+    "result": "236305",
+    "external_round_id": "33933638",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:11:12.000000Z",
+    "revealed_at": "2026-11-13T21:11:18.000000Z"
+}
