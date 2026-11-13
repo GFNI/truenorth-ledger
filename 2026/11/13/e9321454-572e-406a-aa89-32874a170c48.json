@@ -1,0 +1,22 @@
+{
+    "round_id": "e9321454-572e-406a-aa89-32874a170c48",
+    "draw_title": "PORSCHE MACAN S D AUTOMATIC",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/porsche-macan-s-d",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "e01ab59032ea8586322e7deeaa5a0da6c895bb84340fd405ef219181d6875d5b",
+    "drand_seed_hash": "805b5c733948250e9792c12a585727012b57cb65fe83aa234bdb775eafd31acc8034be3d97aea4b4c87ef32d8c9ca4a2",
+    "client_seed": "1794604551708",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18272,
+    "max_tickets": 30000,
+    "combined_hash": "7522521c4771a6d99969567f5fed0fed289b147779b8c51a202960efe16e78df",
+    "result": "4822",
+    "external_round_id": "33933731",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:15:51.000000Z",
+    "revealed_at": "2026-11-13T21:15:57.000000Z"
+}
