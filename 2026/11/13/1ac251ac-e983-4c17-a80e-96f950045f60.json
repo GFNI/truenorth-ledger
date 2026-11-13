@@ -1,0 +1,22 @@
+{
+    "round_id": "1ac251ac-e983-4c17-a80e-96f950045f60",
+    "draw_title": "PICK YOUR 95K- INSTANT WIN + PICK YOUR 95K DARTS AUTO END DRAW",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/pick-your-95k-instant-win-pick-your-95k-darts-auto-end-draw",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "e63f8b0c57aa04c8fd6fae6fc8aca234f87360365ab67445756087ed48961914",
+    "drand_seed_hash": "a83db94a6864805a30e41aa11ced068fc0f257fb79868c3294dbf3acce00d39e1000dcf09c1667f400aa70745183c18b",
+    "client_seed": "1794607863635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1686,
+    "max_tickets": 5300,
+    "combined_hash": "9459eb041b157649cf839d132f741f4345a38abf8ed68f714e047c5a325b75e5",
+    "result": "1157",
+    "external_round_id": "33934835",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:11:03.000000Z",
+    "revealed_at": "2026-11-13T22:11:09.000000Z"
+}
