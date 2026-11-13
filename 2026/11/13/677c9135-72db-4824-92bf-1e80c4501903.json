@@ -1,0 +1,22 @@
+{
+    "round_id": "677c9135-72db-4824-92bf-1e80c4501903",
+    "draw_title": "£2500 CASH",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps2500-cash",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "acd2b171162dfb851a4310626a741c563b7f25bd7f49355bc2e6d7d626362cf1",
+    "drand_seed_hash": "947dc2e0cf25bdb12d2b312a212f3dc4e1756479b29223c3af9c1bb66771f7bcd30d52206427f090fbc21f30a631b7dd",
+    "client_seed": "1794605046801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 19754,
+    "max_tickets": 20000,
+    "combined_hash": "ae45bc5b34e05ab08174b05b7ac0e484649c511b38551a58ea495c0464e7b733",
+    "result": "5263",
+    "external_round_id": "33933896",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:24:06.000000Z",
+    "revealed_at": "2026-11-13T21:24:12.000000Z"
+}
