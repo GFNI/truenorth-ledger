@@ -1,0 +1,22 @@
+{
+    "round_id": "30292586-92cb-421b-bfdd-e2bd42619416",
+    "draw_title": "Win Jura 13, GlenAllachie 13 + more.  13 instant whisky prizes",
+    "competition_url": "https://drawdrop.co.uk/admin/products/win-jura-13",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "a3a2b8926860cbfc74d31eb5fb6409b0e7134005387c0a70f58b81009cd656c2",
+    "drand_seed_hash": "a77076bddb4c698ea613d081aa1296a3bf207d8f0afad9f9bbc338111fbfd62f5b2061bdd0ba7859569f326d691394b0",
+    "client_seed": "1794607977606",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 232,
+    "max_tickets": 1313,
+    "combined_hash": "0208c9a4cc91b9867a1b47be5602f46ecef244993ed8d5e0f89a806c6d83c0aa",
+    "result": "1167",
+    "external_round_id": "33934873",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:12:57.000000Z",
+    "revealed_at": "2026-11-13T22:13:03.000000Z"
+}
