@@ -1,0 +1,22 @@
+{
+    "round_id": "f527c337-750f-4812-9471-adfe9eeeeaed",
+    "draw_title": "THE FASTEST FINGER SHOP UNLOCKED!",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/the-fastest-finger-shop-unlocked",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "17745d041f0af0ff8d335598cda360727c90b80a9ec3e63bd696dfb6e9e8469a",
+    "drand_seed_hash": "b1f8c22ec5e72b9f1a036eb3173e84ba0253be95f5113a1f029e0754fd356de3f1091dada0968abab4d520798fcf13c2",
+    "client_seed": "1794592889070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 50,
+    "combined_hash": "425225e8d8572e5b6a6020ead67e3eda7a5e77be3a05f1ceadbd023c276dee9c",
+    "result": "3",
+    "external_round_id": "33929844",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T18:01:29.000000Z",
+    "revealed_at": "2026-11-13T18:01:36.000000Z"
+}
