@@ -1,0 +1,22 @@
+{
+    "round_id": "bad29c07-31d7-43e4-91f1-c88e50ba3db8",
+    "draw_title": "WIN! A HAND SIGNED KEVIN DOETS ULTIMATE CARD [ONLY 33p!] *AUTODRAWN*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-a-hand-signed-kevin-doets-ultimate-card-only-33p-autodrawn",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "f60c608a2ae7278770d638888353cb00a2b4111dcaad1b7d24b8f433db974a89",
+    "drand_seed_hash": "b93f56aa38fdf72037162c3fb172c5c6eae822f7db0a758b752bb67c12125896d9ff79d69896e2c90fa74675d29479cc",
+    "client_seed": "1794601513785",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 200,
+    "combined_hash": "acde959df5ed880f6fba507317eab29210200843a3cc4be55cb60c593df7ac1c",
+    "result": "181",
+    "external_round_id": "33932719",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T20:25:13.000000Z",
+    "revealed_at": "2026-11-13T20:25:21.000000Z"
+}
