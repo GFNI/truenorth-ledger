@@ -1,0 +1,22 @@
+{
+    "round_id": "75e1165e-cc42-4398-bf20-3969d03aba66",
+    "draw_title": "Friday the 13th Instant Wins",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/friday-the-13th-instant-wins",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "46325b311e0b7d8fb5ed05a74ce262bb61b3ed216040115821bd8bcc31f6d15b",
+    "drand_seed_hash": "8899178b0a3ea4649e94dee10635588f9f67155bb2ab9b8fcfe1707edda4276f2b5714985df7ab33595c05d6cb24ce0a",
+    "client_seed": "1794604219753",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56346,
+    "max_tickets": 265000,
+    "combined_hash": "c6e91a7a37c338a16000f2e421a7062a2c6c88380a62bf63ca06dea2eac771a8",
+    "result": "134135",
+    "external_round_id": "33933621",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:10:19.000000Z",
+    "revealed_at": "2026-11-13T21:10:27.000000Z"
+}
