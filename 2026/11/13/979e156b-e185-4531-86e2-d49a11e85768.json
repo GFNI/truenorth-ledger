@@ -1,0 +1,22 @@
+{
+    "round_id": "979e156b-e185-4531-86e2-d49a11e85768",
+    "draw_title": "XL American Hamper!",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/xl-american-hamper",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "e2a161498d7f281b6c8edc10174bd467a000abdf54172682cb68e4889d8862aa",
+    "drand_seed_hash": "a409310a8692c9503745053fa355be6eba67d20cd32a14f0e7cacb8252294e86315ca06471038cb0226831c6275592a4",
+    "client_seed": "1794600734052",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2294,
+    "max_tickets": 25000,
+    "combined_hash": "12dd4965f56d4227df456a4902317d1db83c6b2cc5f1dbb72e58747ac608f674",
+    "result": "14539",
+    "external_round_id": "33932459",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T20:12:14.000000Z",
+    "revealed_at": "2026-11-13T20:12:21.000000Z"
+}
