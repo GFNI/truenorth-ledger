@@ -1,0 +1,22 @@
+{
+    "round_id": "3c26e82d-9023-43b0-bd4c-cefb3545ef76",
+    "draw_title": "WIN - WINNERS CHOICE MARVEL BOA CASE (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-winners-choice-marvel-boa-case-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "47dca70ff2e19ddc2c55524089a9c100705a42eab839d41f869631c4592543e8",
+    "drand_seed_hash": "8df969091c1ed7e05055345bd1e8ec2d6bd03716ed48ff79718e3a458420bb7961f0153b14521fa9846a2954f301a01e",
+    "client_seed": "1794609672511",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 122,
+    "max_tickets": 200,
+    "combined_hash": "e951ebfb21815bfd499242b050bf7d8a74aedd6e28dd227312edd12a6d6588a6",
+    "result": "146",
+    "external_round_id": "33935438",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T22:41:12.000000Z",
+    "revealed_at": "2026-11-13T22:41:18.000000Z"
+}
