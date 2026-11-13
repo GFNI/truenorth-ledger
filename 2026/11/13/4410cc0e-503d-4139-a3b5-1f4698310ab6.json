@@ -1,0 +1,22 @@
+{
+    "round_id": "4410cc0e-503d-4139-a3b5-1f4698310ab6",
+    "draw_title": "30 Entries into Crazy Cash",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-into-crazy-cash-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "9a2c183268627a5662d51908fd78b2c074aa3008edb87def60b159a821af13e6",
+    "drand_seed_hash": "81f4cf16d40ce5d4755000b8647035d36c685918255b7fece35611943f873003d7a9b50bd536347dcc9c0e7fa7721473",
+    "client_seed": "1794605451545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 125,
+    "combined_hash": "4df4c802960be274080a69a79f39be10f9eab64610beec5e24b3b93a4ed6d181",
+    "result": "49",
+    "external_round_id": "33934031",
+    "processing_status": "completed",
+    "created_at": "2026-11-13T21:30:51.000000Z",
+    "revealed_at": "2026-11-13T21:30:57.000000Z"
+}
