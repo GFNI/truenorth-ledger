@@ -1,0 +1,22 @@
+{
+    "round_id": "9700e199-622b-47ac-8377-5cc3c76d3875",
+    "draw_title": "🔴WIN 100 ENTRIES INTO THE LV BAG #6",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-100-entries-into-the-lv-bag-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "c67c47b7038023e677c250c158a79047bd3f1ebb7a2735272dd9f4806cf4745d",
+    "drand_seed_hash": "8a67f7093b8896528f6f34c664fd65645d43c03779a018387f4f0eda51b8a9fd79209bd8e60e9fb3d1db91db1ecf50f8",
+    "client_seed": "1794681030763",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 120,
+    "combined_hash": "83457f216bd3f4e72816af54c951e22ce21bcc6a3da70c2ade03dc313d9a6e2d",
+    "result": "76",
+    "external_round_id": "33959224",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T18:30:30.000000Z",
+    "revealed_at": "2026-11-14T18:30:36.000000Z"
+}
