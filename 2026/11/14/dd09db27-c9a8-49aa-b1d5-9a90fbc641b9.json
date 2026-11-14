@@ -1,0 +1,22 @@
+{
+    "round_id": "dd09db27-c9a8-49aa-b1d5-9a90fbc641b9",
+    "draw_title": "2,000 Tickets into Plinko comp! 😍",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/2000-tickets-into-plinko-comp-3",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "7395717b7314a2dcd69d4e136b188bbf9cfb935430d675ea8f5d36cc32b547ad",
+    "drand_seed_hash": "8bfaadf84d17f0c648673decbe1659ad7f6a74ee8939dee1d3c3d2132506cfdb5675cc0863704d57c23cea79b2d7d206",
+    "client_seed": "1794687062406",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2909,
+    "max_tickets": 8000,
+    "combined_hash": "12d9b9188480c275acf439d9fa75ccdd917a00965ee4d236f7842cfaaeb1b82b",
+    "result": "915",
+    "external_round_id": "33961235",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T20:11:02.000000Z",
+    "revealed_at": "2026-11-14T20:11:09.000000Z"
+}
