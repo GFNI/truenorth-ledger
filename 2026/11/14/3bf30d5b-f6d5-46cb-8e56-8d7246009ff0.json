@@ -1,0 +1,22 @@
+{
+    "round_id": "3bf30d5b-f6d5-46cb-8e56-8d7246009ff0",
+    "draw_title": "Risky Riches",
+    "competition_url": "https://chaotic.co.uk/competition/risky-riches-7070",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "dbbf99e94b34c06b20d996cdb16da307904d5b2e4c68638fbdf6eb0950f4f879",
+    "drand_seed_hash": "b6d41c3de53172711eb030d80d313599925ebc9f6ac5f520f7ae7cdfdc37f76383256f8a452fab1084e0203b097a4ff7",
+    "client_seed": "1794689149746",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "c1e034642b835d7330f2186fa6bfaef08691d0611fadf940235d261e5771409d",
+    "result": "7010",
+    "external_round_id": "33961931",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T20:45:49.000000Z",
+    "revealed_at": "2026-11-14T20:45:57.000000Z"
+}
