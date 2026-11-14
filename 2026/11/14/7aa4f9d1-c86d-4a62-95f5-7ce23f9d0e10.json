@@ -1,0 +1,22 @@
+{
+    "round_id": "7aa4f9d1-c86d-4a62-95f5-7ce23f9d0e10",
+    "draw_title": "Soap and Glory Main Pop Fizz Hamper 8 Piece Gift Set",
+    "competition_url": "https://winandgrin.co.uk/admin/products/soap-and-glory-main-pop-fizz-hamper-8-piece-gift-set",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "cd4e07b5bbf0e7b41082de99824ba4adc6373310ff4c1bf809cbe3b24baf5340",
+    "drand_seed_hash": "94fbc9757badd373568eb1a54a79934751849d4f6388464cedc7c84d5878719024c1bd9a5f9a1f17663cfc8b95e49256",
+    "client_seed": "1794662117285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "2554adf109c15c9c3b5d835009f821e7e5e15cba4caa0dfd85c81f7b19c34ba3",
+    "result": "76",
+    "external_round_id": "33952920",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T13:15:17.000000Z",
+    "revealed_at": "2026-11-14T13:15:24.000000Z"
+}
