@@ -1,0 +1,22 @@
+{
+    "round_id": "458434d7-92a5-4d97-95e5-b83f6c732776",
+    "draw_title": "NET A PRIZE - 500 PRIZES AT JUST 18P AN ENTRY - WITH END DRAW",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/net-a-prize-500-prizes-at-just-18p-an-entry-with-end-draw",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "8856d5ddf72fd476a7af9bf8a823a67964cd32458c8425ade43b342402f41e2a",
+    "drand_seed_hash": "b576c4bbee6bfe0b8cf19e055628dc9e58f423ac9fdde1ca9deca137d81ef12a1ddb21678fdcfacdab02995bce7acea9",
+    "client_seed": "1794694231009",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17359,
+    "max_tickets": 128000,
+    "combined_hash": "458b417012a498d0ad8c9eb7e70a800369f445349350c3c28ed93ea0635bd02e",
+    "result": "79686",
+    "external_round_id": "33963625",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T22:10:31.000000Z",
+    "revealed_at": "2026-11-14T22:10:39.000000Z"
+}
