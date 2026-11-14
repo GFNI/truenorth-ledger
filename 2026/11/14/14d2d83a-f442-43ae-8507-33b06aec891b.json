@@ -1,0 +1,22 @@
+{
+    "round_id": "14d2d83a-f442-43ae-8507-33b06aec891b",
+    "draw_title": "WIN - SPIDERMAN MARVEL TARGET DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-spiderman-marvel-target-darts-auto-draw-2",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "722247e1c0e949fd352f36c9c22d0e9974d4bd3c5e76e016d6d18e1717b27ac7",
+    "drand_seed_hash": "b1c8f28b2123498aa137c289b0b7a838aa7cafa17bfa3687ef7d99d5e24facd601b448251f2ff06a7f1e938f5756f75c",
+    "client_seed": "1794694344459",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 285,
+    "max_tickets": 335,
+    "combined_hash": "b3235052b9a61b08e0d29616c9b99d58f17c21f799fbbe42bc634e61452a0133",
+    "result": "167",
+    "external_round_id": "33963662",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T22:12:24.000000Z",
+    "revealed_at": "2026-11-14T22:12:30.000000Z"
+}
