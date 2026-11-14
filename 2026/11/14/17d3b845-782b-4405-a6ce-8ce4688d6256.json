@@ -1,0 +1,22 @@
+{
+    "round_id": "17d3b845-782b-4405-a6ce-8ce4688d6256",
+    "draw_title": "🆓 £100 \"One4All\" Voucher!",
+    "competition_url": "https://optimisedodds.com/admin/products/ps100-one4all-voucher",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "d3fdbfdf1f8c476b9eaabe298eb5fde3704c2c4601be00da41ccf5bc755da245",
+    "drand_seed_hash": "a4daa9cd19e11b00dad5817b26081d5672a92839d2be14d948b8d570c9403a708a02e69b4467af8d28da3183c20d963a",
+    "client_seed": "1794697842520",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37,
+    "max_tickets": 50,
+    "combined_hash": "51743b90b34fac563f9cdd5cf7101d9346aaebf2107924ec7d63046571d58b37",
+    "result": "6",
+    "external_round_id": "33964828",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T23:10:42.000000Z",
+    "revealed_at": "2026-11-14T23:10:48.000000Z"
+}
