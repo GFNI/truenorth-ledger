@@ -1,0 +1,22 @@
+{
+    "round_id": "3f5ab096-bed3-4378-af97-317d340c4ba3",
+    "draw_title": "Silva Bedroom Set",
+    "competition_url": "https://chaotic.co.uk/competition/silva-bedroom-set",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "4caeaa04019d2a1875f54a0869d99468cbdc550219883d0a913b14c5afdbcf86",
+    "drand_seed_hash": "877fd49303183b3b209e195c9788337dcff971d1648893b2acaa1a3fc250f94811a934e35347bcf7b941de829c6c6fa1",
+    "client_seed": "1794689932811",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 29999,
+    "max_tickets": 29999,
+    "combined_hash": "ffd8936942e105c379cf51cf100439c037b485c7b4364ddaac9e3f0840eaa20f",
+    "result": "6069",
+    "external_round_id": "33962192",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T20:58:52.000000Z",
+    "revealed_at": "2026-11-14T20:59:00.000000Z"
+}
