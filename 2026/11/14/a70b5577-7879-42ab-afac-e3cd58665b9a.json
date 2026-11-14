@@ -1,0 +1,22 @@
+{
+    "round_id": "a70b5577-7879-42ab-afac-e3cd58665b9a",
+    "draw_title": "WIN - ODG V1 PRECISE180 DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-odg-v1-precise180-darts-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "03ece6054705b4919477698334231c49b27ca67458e2ad4d7a6479f0a79400c5",
+    "drand_seed_hash": "a26caa056cc3f184f4fddf2fa519b0181b74739aed415276cc3190457bd040a345bcc06eacb5785f51e1b49ea62423f8",
+    "client_seed": "1794694326655",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 109,
+    "max_tickets": 160,
+    "combined_hash": "8fc91aa26345ad3885d172e577c8daa6b42d648ee70a73ab6cfec14e5dbfdb82",
+    "result": "48",
+    "external_round_id": "33963656",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T22:12:06.000000Z",
+    "revealed_at": "2026-11-14T22:12:12.000000Z"
+}
