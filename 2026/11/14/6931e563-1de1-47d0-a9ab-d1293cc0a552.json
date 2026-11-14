@@ -1,0 +1,22 @@
+{
+    "round_id": "6931e563-1de1-47d0-a9ab-d1293cc0a552",
+    "draw_title": "£3000 for 3p",
+    "competition_url": "https://chaotic.co.uk/competition/ps3000-for-3p-8302",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "de469046ca144f6a2bf7e4e182e4515672a9601b4e20f61df7ce43799cfa36cb",
+    "drand_seed_hash": "aed75d0e6cd880b6d2a0b13576201f13fb3156af4d58918708018465ef38fe1417cc5a3be08a84ce49811cd4bc061e6a",
+    "client_seed": "1794689847489",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150000,
+    "max_tickets": 150000,
+    "combined_hash": "1641263a9fbb4be9c110613f913f8a97814d0de44ff3cb6b62a6067af15b1e79",
+    "result": "135559",
+    "external_round_id": "33962163",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T20:57:27.000000Z",
+    "revealed_at": "2026-11-14T20:57:33.000000Z"
+}
