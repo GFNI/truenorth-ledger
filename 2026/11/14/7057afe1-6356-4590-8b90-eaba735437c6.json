@@ -1,0 +1,22 @@
+{
+    "round_id": "7057afe1-6356-4590-8b90-eaba735437c6",
+    "draw_title": "🎁MACBOOK NEO + £1,500 INSTANT WINS🎁",
+    "competition_url": "https://optimisedodds.com/admin/products/macbook-neo-ps1500-instant-wins",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "3d8f51bbb046c0dd6ba3cf6ae14e852949a107f04ef516e06be5b3808ee4c75d",
+    "drand_seed_hash": "8996a05d62f0a4b6a7c387d97d090de36214ba2fad914c695cfe35cb877130df0a60e67fe9f75fc7287ce439e8025a8a",
+    "client_seed": "1794697848448",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6615,
+    "max_tickets": 60000,
+    "combined_hash": "c7a11b9a9a416032c6f7419b9b33d5691476231b47576fc43d8fce38052f9a40",
+    "result": "42152",
+    "external_round_id": "33964830",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T23:10:48.000000Z",
+    "revealed_at": "2026-11-14T23:10:54.000000Z"
+}
