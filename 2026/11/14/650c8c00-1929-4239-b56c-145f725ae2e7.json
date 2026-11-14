@@ -1,0 +1,22 @@
+{
+    "round_id": "650c8c00-1929-4239-b56c-145f725ae2e7",
+    "draw_title": "WIN - WINNERS CHOICE MARVEL K FLEX (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-winners-choice-marvel-k-flex-auto-draw-3",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "48ba6fb0f7ce5823a41e1a93fac5e2f7de7ba2b24334f76e74878b709d47ca7f",
+    "drand_seed_hash": "b5bb9506cbd6b92c10ee1dc6f23c373b64d0e87c78bbeadd7718f9d68752ea195756888dd5f84836695de7de9fe833c5",
+    "client_seed": "1794694350456",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 70,
+    "combined_hash": "e226009e592d365eba96f27f32381e103b4e813503e4924f80ec084f81092f3a",
+    "result": "33",
+    "external_round_id": "33963664",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T22:12:30.000000Z",
+    "revealed_at": "2026-11-14T22:12:36.000000Z"
+}
