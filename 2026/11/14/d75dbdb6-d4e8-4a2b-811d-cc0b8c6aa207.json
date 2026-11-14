@@ -1,0 +1,22 @@
+{
+    "round_id": "d75dbdb6-d4e8-4a2b-811d-cc0b8c6aa207",
+    "draw_title": "🍎APPLE INSTANT WINS | 1 IN 5 ODDS - £500 END PRIZE",
+    "competition_url": "https://optimisedodds.com/admin/products/apple-instant-wins-1-in-5-odds-ps500-end-prize",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "14df10d7efc31f7fec3df235c9356c8522a03237a78a752c280fc536c6b606a3",
+    "drand_seed_hash": "a5e322ae0ac352e2d61e877d1c33d56d53c78b1a83d7e2b4e6872ab3374a8238fdc77a9d39d0464dc6f2e464eb435c3e",
+    "client_seed": "1794697835388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7041,
+    "max_tickets": 699999,
+    "combined_hash": "3cb02c17287a2e713c778f04d0337afdbdbe9155797955ddebd8e8616857ce51",
+    "result": "305224",
+    "external_round_id": "33964826",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T23:10:35.000000Z",
+    "revealed_at": "2026-11-14T23:10:42.000000Z"
+}
