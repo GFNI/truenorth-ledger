@@ -1,0 +1,22 @@
+{
+    "round_id": "6f7fcd98-a9f2-4e04-a820-63d73f4cfcc4",
+    "draw_title": "NEEDOH COOL CANE INSTANT WINS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/needoh-cool-cane-instant-wins",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "13a0d03c120b0cb107ed442ab44232885c63ef711cb5582702ed7c024661cf59",
+    "drand_seed_hash": "b1ba187dfa7309a77d2ec997a7c9dd9b8b9f4976a6ddd58256c6db3d6aab78b0c47c228990d5ce04b4bd465e95ff7854",
+    "client_seed": "1794691048928",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999,
+    "max_tickets": 999,
+    "combined_hash": "ba6390882e59c417c2f21271be410a9b06ed86db16f5506d7ffd55e8576c08c0",
+    "result": "548",
+    "external_round_id": "33962564",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T21:17:28.000000Z",
+    "revealed_at": "2026-11-14T21:17:36.000000Z"
+}
