@@ -1,0 +1,22 @@
+{
+    "round_id": "b78f2d48-01e2-40b6-aacc-d22e4899fc43",
+    "draw_title": "Scroll of Ra",
+    "competition_url": "https://chaotic.co.uk/competition/scroll-of-ra-2714",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "124062b013f51b112e6e03083b6388a839c02e252b123b2a610620db49ea2fe4",
+    "drand_seed_hash": "a7c9853d0611072a9c105cf8c303fb077f20b1e79b0277b34bcb6635c11938b69f2aed3b9815463636101df9ff7c1d05",
+    "client_seed": "1794689659397",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100000,
+    "max_tickets": 100000,
+    "combined_hash": "4e3a41220da7b31c3eae3520453e2592e5bfb296d57e9e0f9d1fce74599fa7d0",
+    "result": "111",
+    "external_round_id": "33962101",
+    "processing_status": "completed",
+    "created_at": "2026-11-14T20:54:19.000000Z",
+    "revealed_at": "2026-11-14T20:54:27.000000Z"
+}
