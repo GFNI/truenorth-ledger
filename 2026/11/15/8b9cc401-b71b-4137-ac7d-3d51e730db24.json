@@ -1,0 +1,22 @@
+{
+    "round_id": "8b9cc401-b71b-4137-ac7d-3d51e730db24",
+    "draw_title": "Jellycat WINTER Bundle",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/jellycat-winter-bundle-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "f4c12a6c217f81d71eff677f14c4b137a1fd4abfeeacb85d11419d54b4e7e162",
+    "drand_seed_hash": "89a95cb8ec4a2990e97203c4f9ef427829a0e57245d10246111671d4f3586192d7c503a703c7a3014c1f432d99b765dc",
+    "client_seed": "1794776848163",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20433,
+    "max_tickets": 27000,
+    "combined_hash": "581212ef6a76ec8241c6436020ab0fbf1e7f7f8cb93b5cd7bd979479d10bf562",
+    "result": "7969",
+    "external_round_id": "33991164",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:07:28.000000Z",
+    "revealed_at": "2026-11-15T21:07:36.000000Z"
+}
