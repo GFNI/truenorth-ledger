@@ -1,0 +1,22 @@
+{
+    "round_id": "3890ab5e-8ebf-4aa9-b8d6-264bae4c87d6",
+    "draw_title": "WIN CHARLIE MANBY 2026 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-charlie-manby-2026-darts-6",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "34551c5b96d2630d02c9c9fe59b859740c2eacd07b48bac89124a526ce89a3a4",
+    "drand_seed_hash": "8730fdb74a0f9e9e629214ac107c616e45b54b6a2cf343ef816e412d2a4029941203f5e3c2ddbb25811cdf6b11326389",
+    "client_seed": "1794775236388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 126,
+    "max_tickets": 170,
+    "combined_hash": "55404fd9cfc3544400f847c6e1b9628e0c3fa81224d4471d898f02b9d7ed60e1",
+    "result": "106",
+    "external_round_id": "33990626",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:40:36.000000Z",
+    "revealed_at": "2026-11-15T20:40:42.000000Z"
+}
