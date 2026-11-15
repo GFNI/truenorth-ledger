@@ -1,0 +1,22 @@
+{
+    "round_id": "da7f48ae-c746-4269-b8dc-744e220f9c05",
+    "draw_title": "WIN THE NEW Winmau Gian van Veen TS-PRO SP Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-the-new-winmau-gian-van-veen-ts-pro-sp-darts-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "a2271767619e7d9c457b47897c2c1ea1e2baae72b559910f0fe2bbc43c915ce0",
+    "drand_seed_hash": "a88a21780001097018d811e310f5d17d82ad441424ef8720906e958da15d1ef5e08999152821cf42cdd3f81ab2e9dedc",
+    "client_seed": "1794775292705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 60,
+    "combined_hash": "b980b55a65f3c2244f5903325038bc73e6ff1e22f7b26c7edd491aef509486a8",
+    "result": "30",
+    "external_round_id": "33990645",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:41:32.000000Z",
+    "revealed_at": "2026-11-15T20:41:39.000000Z"
+}
