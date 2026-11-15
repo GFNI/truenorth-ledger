@@ -1,0 +1,22 @@
+{
+    "round_id": "8d0081a9-64c0-4d0b-b8bf-c49f7fc8a2fa",
+    "draw_title": "Win A Crate Of AU Pineapple & Blue Raspberry Cans Plus Cash Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/au",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "464aa0c59adf4cd33f3735eecbd4c2c3c990fea907c71e00c922024b2b49beff",
+    "drand_seed_hash": "b0ce5f4734cf5ea8895cb1b4f6895d46deb036c6fabcb5a5fe401b34bdc24c209c9f98b3f39d49311f563ffbe904e1da",
+    "client_seed": "1794775200398",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7000,
+    "max_tickets": 7000,
+    "combined_hash": "551afbf26e6d876fee026e79f7134fbab8bcaec92a77014c23eea6f288d40e94",
+    "result": "1550",
+    "external_round_id": "33990614",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:40:00.000000Z",
+    "revealed_at": "2026-11-15T20:40:06.000000Z"
+}
