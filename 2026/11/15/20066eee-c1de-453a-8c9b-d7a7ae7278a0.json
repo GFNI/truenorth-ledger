@@ -1,0 +1,22 @@
+{
+    "round_id": "20066eee-c1de-453a-8c9b-d7a7ae7278a0",
+    "draw_title": "3 x £500 main prizes and £3000 in instant wins",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/3-x-ps500-main-prizes-and-ps3000-in-instant-wins",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "0a29ec9d366e6ee7e90612536a887426ac5e539259bf6d5d5ef1ab87a83c0235",
+    "drand_seed_hash": "99604275f3c27d2ae53543df737c78fcbb4aefd3ae103cd54fe56eb8ebc69341c6f26fc185167b1ecc0eea75704ead27",
+    "client_seed": "1794779099192",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13775,
+    "max_tickets": 13775,
+    "combined_hash": "f60c3da2bc575e1a035d7aec5aa97055389ed172b04f8a444e960c1b3e54fd23",
+    "result": "11332",
+    "external_round_id": "33991914",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:44:59.000000Z",
+    "revealed_at": "2026-11-15T21:45:06.000000Z"
+}
