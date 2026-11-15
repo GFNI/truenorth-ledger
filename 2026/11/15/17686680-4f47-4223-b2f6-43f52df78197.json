@@ -1,0 +1,22 @@
+{
+    "round_id": "17686680-4f47-4223-b2f6-43f52df78197",
+    "draw_title": "👑 NIGHT TILL 👑",
+    "competition_url": "https://competitionsne.co.uk/admin/products/night-till",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "8dd88b272a7a559896b8dfa0d14955cea366f6ffa064d4df46bae903ca030a98",
+    "drand_seed_hash": "a9b2bf388fbc1de3a148fbb3572e5da0822491e4ae947f6be5fe0cb95c5a7eb8d06a12fb4fbfaa5ccbc8c2ef03f7fad1",
+    "client_seed": "1794775243889",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76031,
+    "max_tickets": 425000,
+    "combined_hash": "87851dfe8a88698b57179d4d54469ed3fcdcc5252042d4ef37278ae35495043c",
+    "result": "172592",
+    "external_round_id": "33990629",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:40:43.000000Z",
+    "revealed_at": "2026-11-15T20:40:51.000000Z"
+}
