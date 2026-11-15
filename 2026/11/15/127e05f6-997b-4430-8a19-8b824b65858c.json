@@ -1,0 +1,22 @@
+{
+    "round_id": "127e05f6-997b-4430-8a19-8b824b65858c",
+    "draw_title": "JELLYCAT JINGLE 105 INSTANT WINS + 5 £100 CASH END PRIZE WINNERS",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/jellycat-jingle-105-instant-wins-5-ps100-cash-end-prize-winners",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "18c18706e00a3370c38cd53f45df372382481b89e45da46b26ce2506f713e965",
+    "drand_seed_hash": "a9e83d59865bd6efeb778843f858906ef0a546e0ecec4322f94d0c0b49000cc1370d58ef6699dc5a719359aace0f0d69",
+    "client_seed": "1794777562640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14010,
+    "max_tickets": 19999,
+    "combined_hash": "0c016db6eeeb716eef2b826ca0b17bde44416347d72a1f338b0c7a2b4797bb72",
+    "result": "10042",
+    "external_round_id": "33991402",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:19:22.000000Z",
+    "revealed_at": "2026-11-15T21:19:30.000000Z"
+}
