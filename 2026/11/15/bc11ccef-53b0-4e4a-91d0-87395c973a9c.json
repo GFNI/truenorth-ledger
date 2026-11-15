@@ -1,0 +1,22 @@
+{
+    "round_id": "bc11ccef-53b0-4e4a-91d0-87395c973a9c",
+    "draw_title": "500 TICKETS FOR 100K CASH VAULT",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/500-tickets-for-100k-cash-vault-2",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "58480973be313184b402ed14f399530c56775e7b01b05cc3398903cdced32f3c",
+    "drand_seed_hash": "8f7bc42ee4c7605702521694c7b60da7c5148f0fcb7388928bfc9e23b664ab3c443667ada48e80c29c0e3ff137343ad7",
+    "client_seed": "1794776904357",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "a0f9c2317dab3dbb95468e0719700b6c4cb405f4eff572129398039fe29e46d0",
+    "result": "1473",
+    "external_round_id": "33991182",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:08:24.000000Z",
+    "revealed_at": "2026-11-15T21:08:30.000000Z"
+}
