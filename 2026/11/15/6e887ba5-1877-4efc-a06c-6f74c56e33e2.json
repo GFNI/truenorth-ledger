@@ -1,0 +1,22 @@
+{
+    "round_id": "6e887ba5-1877-4efc-a06c-6f74c56e33e2",
+    "draw_title": "Win a Nintendo Switch 2 for 1p!",
+    "competition_url": "https://retrocompetitions.co.uk/admin/products/win-a-nintendo-switch-2-for-1p",
+    "operator": {
+        "name": "Retro Competitions",
+        "website": "https://retrocompetitions.co.uk",
+        "company_number": "15787178"
+    },
+    "drand_server_seed": "15be26b496983bb7bb146605b419bb45aab2e1bd62a0917831995b7aa67faae1",
+    "drand_seed_hash": "8ec577f0ca6be8ca67898e80a4d3334e2626de5bdb2b132f169115d5e725acc359eca07b38594388960da0543f5c0034",
+    "client_seed": "1794771378468",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99999,
+    "max_tickets": 99999,
+    "combined_hash": "c82265fff27596e79f1baa031ba8e171604a6882c38f794edb312086b9b8b6a8",
+    "result": "60969",
+    "external_round_id": "33989340",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T19:36:18.000000Z",
+    "revealed_at": "2026-11-15T19:36:24.000000Z"
+}
