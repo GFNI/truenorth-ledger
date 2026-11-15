@@ -1,0 +1,22 @@
+{
+    "round_id": "f3274382-eacd-45bb-9f4a-1ec501eb610a",
+    "draw_title": "Feast Your Way into Christmas! - £500 Supermarket Food Shop",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/feast-your-way-into-christmas-ps500-supermarket-food-shop-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "4538dedefcd55c9ff101fb99c444f389abcd3bbf991ed119d8d85313440f4027",
+    "drand_seed_hash": "af47468eaae63d645d92015b73b6ba13fc3246cf269c811513552eabb7c7595004fcc87ca1830150ff1df99f22ebeed2",
+    "client_seed": "1794776934189",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3200,
+    "max_tickets": 3200,
+    "combined_hash": "f0b3547c4c2b7afac9227a5c43f1bfe10ddd21e3e769220e609a6eb1cb5ceae8",
+    "result": "2673",
+    "external_round_id": "33991192",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:08:54.000000Z",
+    "revealed_at": "2026-11-15T21:09:00.000000Z"
+}
