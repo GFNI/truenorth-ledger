@@ -1,0 +1,22 @@
+{
+    "round_id": "2fac6c23-6426-4212-ad97-23ad607e8e99",
+    "draw_title": "Ticket Bundles & Cash",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/ticket-bundles-cash",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "d02c72dae616cc7f24f0be4cc63e1337916076382dbb7689125a012187dadcdb",
+    "drand_seed_hash": "84a56c4901715984276d74967df64a80ddc7a48805aaa653efa4c3d64047578854433814e8276f5dabf81fad7db37476",
+    "client_seed": "1794771634738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 48595,
+    "max_tickets": 70000,
+    "combined_hash": "c71c625d8c38ba2016a83221ddfd6205382d71f21aea690ae28c9dbce6eca9cd",
+    "result": "40984",
+    "external_round_id": "33989426",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T19:40:34.000000Z",
+    "revealed_at": "2026-11-15T19:40:42.000000Z"
+}
