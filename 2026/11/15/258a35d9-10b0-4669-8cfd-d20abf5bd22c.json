@@ -1,0 +1,22 @@
+{
+    "round_id": "258a35d9-10b0-4669-8cfd-d20abf5bd22c",
+    "draw_title": "Bug-A-Salt - FIRE ODDS",
+    "competition_url": "https://fireprizes.co.uk/admin/products/bug-a-salt-fire-odds",
+    "operator": {
+        "name": "Fire Prizes Ltd",
+        "website": "https://fireprizes.co.uk",
+        "company_number": "12693046"
+    },
+    "drand_server_seed": "d8efd4157cb024dc7e232cc6d795fa0060208f22bab1b7efcc0a3f7d54d14449",
+    "drand_seed_hash": "b7e698a9065df6691606fe761f2e9f7800a4ffea55d19697a2ac53cf0b7615c63cf32754102760f6cd34821b637f3464",
+    "client_seed": "1794778445403",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 58,
+    "max_tickets": 99,
+    "combined_hash": "82bfd66452b7fae9362c51aa750e5deb4a6adaeedc4e3b3eddb5076c4f19a56d",
+    "result": "72",
+    "external_round_id": "33991696",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:34:05.000000Z",
+    "revealed_at": "2026-11-15T21:34:12.000000Z"
+}
