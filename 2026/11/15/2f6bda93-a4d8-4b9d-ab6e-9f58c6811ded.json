@@ -1,0 +1,22 @@
+{
+    "round_id": "2f6bda93-a4d8-4b9d-ab6e-9f58c6811ded",
+    "draw_title": "Sunday Booster Bundles",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/sunday-booster-bundles-5",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "dd134663da3871039942d99b5e1a84682a127b72dacbd2e5fbc14ea263d4ede5",
+    "drand_seed_hash": "a34aad10b97c898c7d821e9fdb493556fea356ff5dbe0d4deff2f9853a2b1ca3e99f19e515390bc37b350a74c46197c3",
+    "client_seed": "1794771625525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88199,
+    "max_tickets": 500000,
+    "combined_hash": "b4bf6e0129017ffafe7ccbb1bc7d47e5317ccc34f0bf5a85b24bea0a6a0af055",
+    "result": "35253",
+    "external_round_id": "33989423",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T19:40:25.000000Z",
+    "revealed_at": "2026-11-15T19:40:33.000000Z"
+}
