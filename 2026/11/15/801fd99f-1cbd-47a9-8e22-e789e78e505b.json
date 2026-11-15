@@ -1,0 +1,22 @@
+{
+    "round_id": "801fd99f-1cbd-47a9-8e22-e789e78e505b",
+    "draw_title": "24/7 Wins",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/247-wins",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "4323cb5693fcc18194879aa695df4f6e55f9b7b3659dc0f60ac43423226c7536",
+    "drand_seed_hash": "938a58eb45a556b3512f4684eca4be3e5a5c6fc820fc27d5192a0817264461e06fc65eb6806b234d33aef6c63f328005",
+    "client_seed": "1794775770795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18975,
+    "max_tickets": 50000,
+    "combined_hash": "86aecb6d99ab7e5adb3dc07319b471ab72c06330b231cb215cfa0dd7d8c845ba",
+    "result": "15031",
+    "external_round_id": "33990804",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:49:30.000000Z",
+    "revealed_at": "2026-11-15T20:49:36.000000Z"
+}
