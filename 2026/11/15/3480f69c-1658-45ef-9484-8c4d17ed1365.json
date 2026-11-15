@@ -1,0 +1,22 @@
+{
+    "round_id": "3480f69c-1658-45ef-9484-8c4d17ed1365",
+    "draw_title": "GTA VI",
+    "competition_url": "https://rushcompetitions.co.uk/admin/products/gta-vi",
+    "operator": {
+        "name": "Rush Competitions Ltd",
+        "website": "https://rushcompetitions.co.uk",
+        "company_number": "13689949"
+    },
+    "drand_server_seed": "b4838840dd4c25a6367c28f4f41296c56bc7180c0c000cd225bd04d1703b07e8",
+    "drand_seed_hash": "a5f54803944ae05a15fb08a0c6fb5bb3d929fc4e28962063091f7546d967617925a27e224f5e42ac95fb34777215f15f",
+    "client_seed": "1794760107973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 299,
+    "max_tickets": 299,
+    "combined_hash": "3916d83c48c2327f45a872905cc8506865d972100fa15d81f3d50d3edcad97a9",
+    "result": "54",
+    "external_round_id": "33985584",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T16:28:28.000000Z",
+    "revealed_at": "2026-11-15T16:28:36.000000Z"
+}
