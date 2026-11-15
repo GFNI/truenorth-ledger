@@ -1,0 +1,22 @@
+{
+    "round_id": "99e26c13-94b4-4091-b464-2d545b034ca7",
+    "draw_title": "The Ultimate Lynx Gift Set",
+    "competition_url": "https://winandgrin.co.uk/admin/products/the-ultimate-lynx-gift-set",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "9cc2d3686716a195eb8c564d3f52d8401be5e41328726c276e53756c580641f0",
+    "drand_seed_hash": "87e8a3a72252f41bcfc204019f8e77a307f20164c63621425df2b0880500cc0b7cad450c4168b0b4d4b2e29c376bfe9b",
+    "client_seed": "1794777878554",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 175,
+    "max_tickets": 175,
+    "combined_hash": "b9ff732fe2a2ab6b1d7038d12f958a660d704f1a14acdd7ee8d64b507cf8c6c9",
+    "result": "83",
+    "external_round_id": "33991507",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:24:38.000000Z",
+    "revealed_at": "2026-11-15T21:24:45.000000Z"
+}
