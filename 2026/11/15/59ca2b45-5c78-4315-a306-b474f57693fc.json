@@ -1,0 +1,22 @@
+{
+    "round_id": "59ca2b45-5c78-4315-a306-b474f57693fc",
+    "draw_title": "AUTODRAW  MEGA LOW ODDS - Win a £1,000 Golden Ticket Into 2025 Cupra Terramar or £22,000 CASH Main Draw #5",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/autodraw-mega-low-odds-win-a-ps1000-golden-ticket-into-2025-cupra-terramar-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "7c7a1802ac80f4e410ed8c29345b60d11a675e5c29c56f94da105c47744617b8",
+    "drand_seed_hash": "af560b0753507184d7784cdbdc55791e7754f8c9ceeb3c06b05f01a27a57680f5fdd1e933d51fdf6dd7cfce8e2ee4942",
+    "client_seed": "1794766245713",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30,
+    "max_tickets": 50,
+    "combined_hash": "cf24a0af61db15ad530e117f78addce402fd4b5b1d0162ae070116873b3f49fb",
+    "result": "34",
+    "external_round_id": "33987629",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T18:10:45.000000Z",
+    "revealed_at": "2026-11-15T18:10:51.000000Z"
+}
