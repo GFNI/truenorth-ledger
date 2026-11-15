@@ -1,0 +1,22 @@
+{
+    "round_id": "2bcd372b-c3ee-495e-ad79-488a80c95976",
+    "draw_title": "£100 TAX FREE CASH - FREE 2 ENTER",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/ps100-tax-free-cash-free-2-enter-4",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "2972663b53f25ab7ff2a8f71b52662450805babaa5a749269c66af912859b744",
+    "drand_seed_hash": "8239b076fab70d7cd6c7a1903803f09cc0feef6f144154f7f2b05ea343d28f64dcdea9e22b3aaedc1dbf54e303172d19",
+    "client_seed": "1794777066529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 185,
+    "max_tickets": 500,
+    "combined_hash": "ac24a96d881258142c8a6de45017278e82142d208f78b5d4a7f062e437a981dc",
+    "result": "17",
+    "external_round_id": "33991236",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:11:06.000000Z",
+    "revealed_at": "2026-11-15T21:11:12.000000Z"
+}
