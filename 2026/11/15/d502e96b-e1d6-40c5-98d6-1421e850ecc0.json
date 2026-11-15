@@ -1,0 +1,22 @@
+{
+    "round_id": "d502e96b-e1d6-40c5-98d6-1421e850ecc0",
+    "draw_title": "THE MILLION PENNY DROP!",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/the-million-penny-drop-2",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "c57ff3d44536060aa713fa4f90707a1fdb11ebd4b50a9fe03f02033d7e17b7ae",
+    "drand_seed_hash": "b85443191ac5e20efd786f07dbdddf3df429343532fd9061930d76334696183ca6a3b2125d5f2b859cab2221c8fd270a",
+    "client_seed": "1794777084551",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9755,
+    "max_tickets": 284999,
+    "combined_hash": "71742097f2da84a3f147a6c770f56e48a6b44e5c70d1b4b321f20a7c12909565",
+    "result": "135474",
+    "external_round_id": "33991242",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:11:24.000000Z",
+    "revealed_at": "2026-11-15T21:11:30.000000Z"
+}
