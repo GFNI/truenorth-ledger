@@ -1,0 +1,22 @@
+{
+    "round_id": "868c2fc5-369c-48cd-893b-5b145285ef8b",
+    "draw_title": "WIN 5 ENTRIES TO THE SUPER LOW ODDS GASGAS MC250 DRAW 2",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-5-entries-to-the-super-low-odds-gasgas-mc250-draw-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "36600fa0db9878d2a4dc08e1661f2a5f41bc7142636d865d6609bb4019c98a41",
+    "drand_seed_hash": "87437f9834eede668edb31273b5b34471688d076d1e46e8d92433d15e637b971e7f72e2ac49aacd17cee2d3c71f7212c",
+    "client_seed": "1794777100306",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136,
+    "max_tickets": 199,
+    "combined_hash": "20405a2ff4ba55f724d655dd1681c9eab804947114ce8d5f93ed613e09b0d411",
+    "result": "188",
+    "external_round_id": "33991248",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:11:40.000000Z",
+    "revealed_at": "2026-11-15T21:11:48.000000Z"
+}
