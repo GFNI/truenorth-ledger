@@ -1,0 +1,22 @@
+{
+    "round_id": "56b01ffa-d387-4638-ba29-c10ad6d7299a",
+    "draw_title": "20G GOLD BAR & 500G SILVER BAR OR £2,500 CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/20g-gold-bar-500g-silver-bar-or-ps2500-cash",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "8e507ff21f0d0c931583d7c7864a74321516acc9bd3509616ccaffa82a18e050",
+    "drand_seed_hash": "89926896ff85f2093deb8efbfa1eeac763f5930f16aa941d7fc362728b0ed5acf8d92b6e91b4457ceb6923d11aafc4ab",
+    "client_seed": "1794778131040",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2175,
+    "max_tickets": 3499,
+    "combined_hash": "907af79aa114c7fa288c375e0ca4ba15f5f54286e2bb0acbf4a345455e30e5d9",
+    "result": "2576",
+    "external_round_id": "33991591",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:28:51.000000Z",
+    "revealed_at": "2026-11-15T21:28:57.000000Z"
+}
