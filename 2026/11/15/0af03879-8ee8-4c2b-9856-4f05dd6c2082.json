@@ -1,0 +1,22 @@
+{
+    "round_id": "0af03879-8ee8-4c2b-9856-4f05dd6c2082",
+    "draw_title": "Mega Rayquaza Delta Reign",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/mega-rayquaza-delta-reign",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "1403080c13d528410d1c6af02277ed4590266e360638955e61ec543b08108d0c",
+    "drand_seed_hash": "8c146d3ca9b27f18279b3b026ebf99bd99dcc0fe0c05ccadae4efd926846c9f170691a80d50420afbb40706eb1549571",
+    "client_seed": "1794774929070",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2208,
+    "max_tickets": 2600,
+    "combined_hash": "763535d49b080728209e3b5bc7f20459129409aff038bb64b8827059b6da0772",
+    "result": "1487",
+    "external_round_id": "33990524",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:35:29.000000Z",
+    "revealed_at": "2026-11-15T20:35:36.000000Z"
+}
