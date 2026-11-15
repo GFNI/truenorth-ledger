@@ -1,0 +1,22 @@
+{
+    "round_id": "e8c90754-e1cf-4d71-983c-266bacf07ad0",
+    "draw_title": "2021 KRUGERRAND 1oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2021-krugerrand-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "ae5969a3f35a6b698b193b5d02ab4c4a46770c4e7ea9ec7358d9e20d16e2de24",
+    "drand_seed_hash": "89f6a5be7dea8cbb1d77e47086636c88b93a7b0d77cd95ae2fa020216ab83ecbb607b14e9a5ddc32da952de539c2f95b",
+    "client_seed": "1794786936475",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 100,
+    "combined_hash": "b2427c300f38dd54d4e781ea6db1c9906b93d49fc8aec8e558770e1887ed45bd",
+    "result": "7",
+    "external_round_id": "33994526",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T23:55:36.000000Z",
+    "revealed_at": "2026-11-15T23:55:42.000000Z"
+}
