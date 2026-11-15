@@ -1,0 +1,22 @@
+{
+    "round_id": "dc74d464-90e1-4225-9cf9-fcce968bbfb6",
+    "draw_title": "🎀 P.Louise Advent Calendar 🎀",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/plouise-advent-calendar",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "53b84fcb024187fcd40e4608682d262e1d9098d6662e3871a92d44f5f926204f",
+    "drand_seed_hash": "b4040b185954a8adf4995db3287a3fdad3cecd39eaf34008e0fdae61c4ed32788e5bff2a637eb0dedb6451ff3da4a9f5",
+    "client_seed": "1794753150495",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14292,
+    "max_tickets": 75000,
+    "combined_hash": "d63430b591d383c5d2f20132d043e320f7e868ae450ca09fd016441ed9a19a1a",
+    "result": "10351",
+    "external_round_id": "33983264",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T14:32:30.000000Z",
+    "revealed_at": "2026-11-15T14:32:36.000000Z"
+}
