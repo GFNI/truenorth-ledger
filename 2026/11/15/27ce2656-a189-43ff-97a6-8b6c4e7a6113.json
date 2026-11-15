@@ -1,0 +1,22 @@
+{
+    "round_id": "27ce2656-a189-43ff-97a6-8b6c4e7a6113",
+    "draw_title": "WIN The Fortnum & Mason Burlington Hamper",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-the-fortnum-mason-burlington-hamper",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "ce58fcbde02afad1dd0e72b3105af632bd76cfa70fabf28d96e2d795383a9c24",
+    "drand_seed_hash": "91a569cf214854c75e2d5548d7cf899462c0f7b8418054c33f689708ac9852aac8cdcc03d873124a53819cc9a1b111c8",
+    "client_seed": "1794775462921",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 277,
+    "max_tickets": 568,
+    "combined_hash": "a981d1470792d9486f8a2b02ff879a7bda26d97581f0725978c69c20b2c94e08",
+    "result": "522",
+    "external_round_id": "33990702",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:44:22.000000Z",
+    "revealed_at": "2026-11-15T20:44:30.000000Z"
+}
