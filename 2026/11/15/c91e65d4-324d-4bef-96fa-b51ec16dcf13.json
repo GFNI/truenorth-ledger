@@ -1,0 +1,22 @@
+{
+    "round_id": "c91e65d4-324d-4bef-96fa-b51ec16dcf13",
+    "draw_title": "10,000 TICKET BUNDLE - WIN A PS5 WITH 2 CONTROLLERS",
+    "competition_url": "https://carleycomps.co.uk/admin/products/bundle",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "b73a1bcd3ab5d1b1397ef01054ba425363d9ac84088bb9d274a64653741753d8",
+    "drand_seed_hash": "a570bcd2d58170ad7e2c209795112a2ac27cc39636a28b40b8232c76d9d5eb2a7c74cf2f1cc16a7356cc84e7cfa33ae7",
+    "client_seed": "1794762625902",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1526,
+    "max_tickets": 4000,
+    "combined_hash": "acadb08875266764e82cf18b2b2ee6787384a128e01738f459e8b12e764ade80",
+    "result": "173",
+    "external_round_id": "33986423",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T17:10:25.000000Z",
+    "revealed_at": "2026-11-15T17:10:33.000000Z"
+}
