@@ -1,0 +1,22 @@
+{
+    "round_id": "89a5acc5-93ff-4835-8001-16cf9f963fd6",
+    "draw_title": "2022 CANADIAN MAPLE LEAF 1oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2022-canadian-maple-leaf-1oz-fine-silver-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "bf8bc21eec0d65bdce33e7f495076ac03a9c40d3d35de6cdf05394b5b953fb3f",
+    "drand_seed_hash": "b7a9e272db5ec1dfd3828ad94bd4e89db6001bcec23027559b3caf9e57a4e9bc062bc5db1e74a27a142d74e11fab27ce",
+    "client_seed": "1794786930603",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 100,
+    "combined_hash": "eb8d4fec97c48a02c32f408d9ddae85bd064ce00e26955fa89e07cb179f4cbb0",
+    "result": "52",
+    "external_round_id": "33994524",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T23:55:30.000000Z",
+    "revealed_at": "2026-11-15T23:55:36.000000Z"
+}
