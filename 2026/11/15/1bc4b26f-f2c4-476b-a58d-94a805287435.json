@@ -1,0 +1,22 @@
+{
+    "round_id": "1bc4b26f-f2c4-476b-a58d-94a805287435",
+    "draw_title": "2025 Cupra Terramar V2 2.0 TSI 4Drive DSG",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/2025-cupra-terramar-v2-20-tsi-4drive-dsg",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "5b1dd92b678bf689639c8e8294991da405212db2caeae445d070c449087d908d",
+    "drand_seed_hash": "b55f3c77425950fe5b277d23d9fbaec9c7d0bf9cece61e5c0c2ba83b7ebdf26b929b71d68a91082ebcb304017404469e",
+    "client_seed": "1794777456779",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8908,
+    "max_tickets": 10999,
+    "combined_hash": "3c746eb602e307b9441445d7daf563e0de2a0f8a302967090e063a233bd0f488",
+    "result": "299",
+    "external_round_id": "33991366",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:17:36.000000Z",
+    "revealed_at": "2026-11-15T21:17:42.000000Z"
+}
