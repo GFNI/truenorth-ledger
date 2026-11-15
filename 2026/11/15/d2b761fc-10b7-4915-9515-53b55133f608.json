@@ -1,0 +1,22 @@
+{
+    "round_id": "d2b761fc-10b7-4915-9515-53b55133f608",
+    "draw_title": "WIN RAYMOND VAN BARNEVELD 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-raymond-van-barneveld-95k-darts-16",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "cf2d9b886850cd2fba5d6265aaf46badf741cae244df6a7a9d5a14696eed8467",
+    "drand_seed_hash": "95608813d3a4678bba651fb71255d3b89005957ea7fcd918e396171bbb21ee23e3eff86a424b1218739475d7c629ef7d",
+    "client_seed": "1794775401906",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 106,
+    "max_tickets": 140,
+    "combined_hash": "0520cd121fd413f20de31348be23088f28a771d3a4141822d564f3398bc5147d",
+    "result": "86",
+    "external_round_id": "33990681",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:43:21.000000Z",
+    "revealed_at": "2026-11-15T20:43:27.000000Z"
+}
