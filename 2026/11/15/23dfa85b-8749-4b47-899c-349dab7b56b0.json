@@ -1,0 +1,22 @@
+{
+    "round_id": "23dfa85b-8749-4b47-899c-349dab7b56b0",
+    "draw_title": "Ardbeg Trudernish 15",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/ardbeg-trudernish-15",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "dc2f3794ccec5b72fe27b03feaa5e87c634cc566b5a767130379fca3b0bbac76",
+    "drand_seed_hash": "951a8b215338f569a927fb83c77d55b5f3f832583bc4d3d62d3fc1829a8374af2ddf71aacb24d13d6e0831ba3e71ccd7",
+    "client_seed": "1794777108881",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 865,
+    "max_tickets": 1499,
+    "combined_hash": "a9022b46cbfce85eeb22e878d1848956747e2299165e5d54158f0c1fedb60d15",
+    "result": "689",
+    "external_round_id": "33991250",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:11:48.000000Z",
+    "revealed_at": "2026-11-15T21:11:54.000000Z"
+}
