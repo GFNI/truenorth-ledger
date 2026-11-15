@@ -1,0 +1,22 @@
+{
+    "round_id": "1ff7bac0-1824-4199-b071-d0088c3fdd1d",
+    "draw_title": "New Prize Everytime with 2 x Unique £200 End Prize Winners",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-prize-everytime-with-2-x-unique-ps200-end-prize-winners-2",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "0e4cec8839c635aa06da40ee7ea81fc40867ae980a40a8bf078ac1c10a548912",
+    "drand_seed_hash": "b7d78d22781f81c6786fb775682f3ba9768250ed3a81506dcb64c22cf3db326bd814dc318d897347e257de82559adf60",
+    "client_seed": "1794773134069",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1515,
+    "max_tickets": 15000,
+    "combined_hash": "0e85345c24ff37f2e5f6205124eb54646aa87990331fed7ca06c7a44bc8463e9",
+    "result": "10807",
+    "external_round_id": "33989926",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:05:34.000000Z",
+    "revealed_at": "2026-11-15T20:05:42.000000Z"
+}
