@@ -1,0 +1,22 @@
+{
+    "round_id": "48936479-9573-4a97-aca4-468b3fcc766c",
+    "draw_title": "MoonSwatch Mission to the Sun",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/moonswatch-mission-to-the-sun",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "9cf2398b8eef26c2212c6dc0720855aaec2e5ca12cee71aa935dced3345f6bcd",
+    "drand_seed_hash": "abaa43c8ac0575b353c9b5593ae6af9ff4332269a20905f6072a5f6f6510d9da9699f4882823aa89a130a0ab9d071671",
+    "client_seed": "1794777078482",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 41,
+    "max_tickets": 49,
+    "combined_hash": "6c7594576eb3194cb71bc5e3828c5a3fbc7b2265f4cddafa162962b15e7b59ed",
+    "result": "8",
+    "external_round_id": "33991240",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:11:18.000000Z",
+    "revealed_at": "2026-11-15T21:11:24.000000Z"
+}
