@@ -1,0 +1,22 @@
+{
+    "round_id": "84b8cebb-e8aa-41bf-a0de-9a70ed468f4c",
+    "draw_title": "Ninja Kettle Ltd Edition (Black & Copper)",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/ninja-kettle-ltd-edition-black-copper",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "526b751c0da8e14cd45ea2b47a06535675e977b44ef81e506c0c80b06285a7ac",
+    "drand_seed_hash": "86d459645d6357fa10d8b4b28ba05d79cec332bdfecb4f54e81f1ce02d93cea217d6d28313b1182d720b39b72b9ed704",
+    "client_seed": "1794774063861",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 60,
+    "max_tickets": 150,
+    "combined_hash": "a8d445ea0b8f2f8be6c7e09d35689fcb543a81523f3e3a306e8a02372e112dd6",
+    "result": "69",
+    "external_round_id": "33990235",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:21:03.000000Z",
+    "revealed_at": "2026-11-15T20:21:09.000000Z"
+}
