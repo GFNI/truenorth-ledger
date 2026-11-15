@@ -1,0 +1,22 @@
+{
+    "round_id": "31c132ae-1d09-40e6-81cd-167334717f65",
+    "draw_title": "25p Bingo Bonanza",
+    "competition_url": "https://winandgrin.co.uk/admin/products/25p-bingo-bonanza",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "0db77c007cc27684a97bbb23c451087da8813a90b9b0557fc93ed0413229c056",
+    "drand_seed_hash": "ae01207f2fbf30c42142e4cf43b6b66ed718bee1b70bd9b3da7e253de45a4b6fee209f30c6a8a44e5e1d31c0b7836a4e",
+    "client_seed": "1794775603122",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53332,
+    "max_tickets": 200000,
+    "combined_hash": "3f88a69e0a7a3a88693527184819bb0532ea4fc12d6efd5257aa2efd5bf5d61f",
+    "result": "113984",
+    "external_round_id": "33990749",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:46:43.000000Z",
+    "revealed_at": "2026-11-15T20:46:51.000000Z"
+}
