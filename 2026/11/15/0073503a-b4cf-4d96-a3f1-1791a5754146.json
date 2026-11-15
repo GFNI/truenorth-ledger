@@ -1,0 +1,22 @@
+{
+    "round_id": "0073503a-b4cf-4d96-a3f1-1791a5754146",
+    "draw_title": "🏋️ TICKET BOOTH ON STEROIDS 🏋️ #2",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/ticket-booth-on-steroids-2",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "c0a389de4d120b3689cea55c6c0cf5defec20ba3302e4ff25e8d7a9e6e7974f7",
+    "drand_seed_hash": "8c05ec0d9a18ad75277e65c22618ad504fc2a7b967e1a25f46f97f23c678272123a8dc02bbaea50a4530d3a1af6e0f7d",
+    "client_seed": "1794777151140",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 55919,
+    "max_tickets": 60000,
+    "combined_hash": "d3b25a8e5db4719026bfc4f76eb7fbeb15b90297b7c4df71de33421144de68a0",
+    "result": "8692",
+    "external_round_id": "33991265",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:12:31.000000Z",
+    "revealed_at": "2026-11-15T21:12:39.000000Z"
+}
