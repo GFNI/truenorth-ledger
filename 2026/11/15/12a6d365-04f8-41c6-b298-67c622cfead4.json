@@ -1,0 +1,22 @@
+{
+    "round_id": "12a6d365-04f8-41c6-b298-67c622cfead4",
+    "draw_title": "Towering Fortunes - £250 End Prize",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/towerfortune",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "5e07ffb16de58051fb4277d442fff6f0597311ef86e1d9b783bd285d029b02a7",
+    "drand_seed_hash": "b86c1a45da2adbb2afb5e88fbbdb0945a1230b5a83f6b3c4e79264c736e696b8af5ebb000368139f9a446d60e9467ee9",
+    "client_seed": "1794775301566",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 294484,
+    "max_tickets": 300000,
+    "combined_hash": "be3b5f3720eded6df21fb28ed696cee9babdfa197c01a5028a9afd998ee2f155",
+    "result": "188095",
+    "external_round_id": "33990648",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:41:41.000000Z",
+    "revealed_at": "2026-11-15T20:41:48.000000Z"
+}
