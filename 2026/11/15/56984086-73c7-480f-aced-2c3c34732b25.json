@@ -1,0 +1,22 @@
+{
+    "round_id": "56984086-73c7-480f-aced-2c3c34732b25",
+    "draw_title": "Rituals adventure calendar",
+    "competition_url": "https://ecnicompetitions.com/admin/products/rituals-adventure-calendar",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "3d0cb25a79450d8d6bc39794d2bb82a558302fe62dd108aac94753f76d512e5a",
+    "drand_seed_hash": "927454cc5e0116b9e23e2b41c6e909536c612a1333fb262ce06bb1893b9eb94add48ec39ad332a2f13668ecc8ba18da6",
+    "client_seed": "1794780665144",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 195,
+    "max_tickets": 250,
+    "combined_hash": "938199c03d7f6302ddbfa14b1f3c07bcfda815b5c4f742842fcad3f8868866ad",
+    "result": "152",
+    "external_round_id": "33992436",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T22:11:05.000000Z",
+    "revealed_at": "2026-11-15T22:11:12.000000Z"
+}
