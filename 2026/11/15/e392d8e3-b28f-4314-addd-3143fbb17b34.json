@@ -1,0 +1,22 @@
+{
+    "round_id": "e392d8e3-b28f-4314-addd-3143fbb17b34",
+    "draw_title": "Win The Lot",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/win-the-lot-3",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "114e0062186432b231afb4e47e94e8b4a2ca81ae7f3700b807356e5c4213d232",
+    "drand_seed_hash": "a9b312fcc544c2be0e14f089aacf5f1de7550eee697322c0335d23ee825a07c412439825046d0522b376d91a55557875",
+    "client_seed": "1794775407253",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18413,
+    "max_tickets": 36000,
+    "combined_hash": "6bc9d5c7bbcf9e0daec1b0b08243f6eafa2e1ca7b286edb5bbbec1779f6e5adc",
+    "result": "32716",
+    "external_round_id": "33990683",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T20:43:27.000000Z",
+    "revealed_at": "2026-11-15T20:43:33.000000Z"
+}
