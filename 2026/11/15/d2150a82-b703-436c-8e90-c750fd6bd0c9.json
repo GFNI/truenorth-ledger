@@ -1,0 +1,22 @@
+{
+    "round_id": "d2150a82-b703-436c-8e90-c750fd6bd0c9",
+    "draw_title": "WIN £1,000 CASH JUST 399 TICKETS",
+    "competition_url": "https://magmacomps.co.uk/admin/products/win-ps1000-cash-just-399-tickets",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "e36525307dbdaa30ceae1e0cf5ad9c0cec2c033c28b761e2bdbe47883ee6e523",
+    "drand_seed_hash": "900d0e326c70fc59a47be8a4e5f050552054f7eed4fd1341d0b70e4dadea336bc46ec2cbc3795722ff5da8543a5ba2e2",
+    "client_seed": "1794777483090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 315,
+    "max_tickets": 399,
+    "combined_hash": "0b8bed67c19b20c6adbe287324ba28139f49d7ab6d33d1c65cb5d2dc93c75bd9",
+    "result": "53",
+    "external_round_id": "33991375",
+    "processing_status": "completed",
+    "created_at": "2026-11-15T21:18:03.000000Z",
+    "revealed_at": "2026-11-15T21:18:09.000000Z"
+}
