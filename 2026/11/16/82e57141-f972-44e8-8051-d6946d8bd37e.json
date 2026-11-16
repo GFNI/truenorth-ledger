@@ -1,0 +1,22 @@
+{
+    "round_id": "82e57141-f972-44e8-8051-d6946d8bd37e",
+    "draw_title": "🔋 Makita 18V LXT 4 Piece Kit with 3x 4.0Ah Batteries 🔋",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/makita-18v-lxt-4-piece-kit-with-3x-40ah-batteries",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "8037d37974b0b780c3d9368c4e050e359a1981b7c02b786860224b5566d82134",
+    "drand_seed_hash": "a8630e90ea61d1c40e1a3667d9e200dcc770d711b350d58cd167c98d1c9a15fbb39dfe9f69ab3dcd0c168d276fa5664d",
+    "client_seed": "1794859216212",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1030,
+    "max_tickets": 1030,
+    "combined_hash": "44cbed815f8fc09181b8cbcd94fa038763abd90ad7d63be33908f91dc99d26fc",
+    "result": "313",
+    "external_round_id": "34018620",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:00:16.000000Z",
+    "revealed_at": "2026-11-16T20:00:24.000000Z"
+}
