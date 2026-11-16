@@ -1,0 +1,22 @@
+{
+    "round_id": "dc6a4625-7295-4eee-91f2-7ad01f6d3d08",
+    "draw_title": "Win A 5g Britannia Gold Bar!!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-5g-britannia-gold-bar-7369",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "4e3439ebfb97b15845ef91c56c839ea8694df1223c7d0ede1ab6c3b15513b1ba",
+    "drand_seed_hash": "980e3636dd834a61b2ffdf5c64e4c49a87c889c213af8a33bd477aa8515f4830fd97b790689e4089b3f0dcf8cb19e793",
+    "client_seed": "1794861090412",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 798,
+    "max_tickets": 1199,
+    "combined_hash": "0faf6315ef5d61a316007d8d65acc86a6850184c978328cacbd2d34a9943a4b3",
+    "result": "910",
+    "external_round_id": "34019244",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:31:30.000000Z",
+    "revealed_at": "2026-11-16T20:31:36.000000Z"
+}
