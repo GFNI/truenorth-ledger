@@ -1,0 +1,22 @@
+{
+    "round_id": "f30cccbd-a0c2-4f33-97f1-35142b70fabd",
+    "draw_title": "1g Gold Bar",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/1g-gold-bar-3",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "6bb9871f791a7f54ac010722f9bd91fc8cf9cb92c36e3df0f7043fec31d53e79",
+    "drand_seed_hash": "89c06e79a377304dbab2acdbc205611d67b5192e413cc21e00004609e169197556ee498523241c7de95bf8557c270d85",
+    "client_seed": "1794863439628",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 110,
+    "max_tickets": 199,
+    "combined_hash": "adf141500b497f8fd1dd4ddf75f69f1f7f1d9af645e566efa879fa32036c3519",
+    "result": "116",
+    "external_round_id": "34020027",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T21:10:39.000000Z",
+    "revealed_at": "2026-11-16T21:10:45.000000Z"
+}
