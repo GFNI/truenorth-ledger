@@ -1,0 +1,22 @@
+{
+    "round_id": "dc265e5a-ce78-4f94-b9c5-15894952e72e",
+    "draw_title": "£300 Weekend Spends",
+    "competition_url": "https://chaotic.co.uk/competition/ps300-weekend-spends",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "55f4adc8767296c2562583d5ac3c764389097f0d16d0b7ac927455313b30a25e",
+    "drand_seed_hash": "90c65f57622cbec647bd7ef21e1a41d6773b060ee1e2c19d55d578e9a7160787ad75aa10d780ac27a1e62917fbacb03f",
+    "client_seed": "1794862608841",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "f4166f4c9ca44dca18ac08430eda6b027a9b2b10b80ddca715c04ada26ffda10",
+    "result": "7",
+    "external_round_id": "34019750",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:56:48.000000Z",
+    "revealed_at": "2026-11-16T20:56:54.000000Z"
+}
