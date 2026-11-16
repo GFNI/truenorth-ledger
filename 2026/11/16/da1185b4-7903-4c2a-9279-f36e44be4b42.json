@@ -1,0 +1,22 @@
+{
+    "round_id": "da1185b4-7903-4c2a-9279-f36e44be4b42",
+    "draw_title": "Mini Monday Moolah Cash Instant Wins - £1,000 Prize Pot - £250 End Prize #2",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/mini-monday-moolah-cash-instant-wins-ps1000-prize-pot-ps250-end-prize-2",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "7446041d1293c3b1620ea6c5fed8e1d02847c1c9eb1a6d4abdf146c9786642c3",
+    "drand_seed_hash": "93549ac30d7e9c1347a285c64fe6b6ad4398f77aa737e1d97e9075945051babb3cc3ccd15305b39eaf8e2195da628567",
+    "client_seed": "1794865568186",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2186,
+    "max_tickets": 4000,
+    "combined_hash": "360d90bbf7d55e95c2a94f4cf773443bf8fc4eb971b566cad216f0086f5a3826",
+    "result": "3959",
+    "external_round_id": "34020737",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T21:46:08.000000Z",
+    "revealed_at": "2026-11-16T21:46:15.000000Z"
+}
