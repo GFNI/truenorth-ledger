@@ -1,0 +1,22 @@
+{
+    "round_id": "be24e19a-3f9a-40c9-aaaa-5159e73d78fb",
+    "draw_title": "WIN A PS5 WITH 2 CONTROLLERS",
+    "competition_url": "https://carleycomps.co.uk/admin/products/win-a-ps5-with-2-controllers",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "dcc399e87225f3e5c09b1f045177694b742d33b284701ec6305f09038d48f600",
+    "drand_seed_hash": "a4576376e8938f55454b192d90129faf0cdd7490377c71a77a68f7bd0e5272f50b5ef66333a6c5ca59540cfc403bf188",
+    "client_seed": "1794852302833",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63993,
+    "max_tickets": 64000,
+    "combined_hash": "022991ad43b1885d1a477f5e5584366781a017d7c151c2e64885a6914231fea6",
+    "result": "35587",
+    "external_round_id": "34016315",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T18:05:02.000000Z",
+    "revealed_at": "2026-11-16T18:05:09.000000Z"
+}
