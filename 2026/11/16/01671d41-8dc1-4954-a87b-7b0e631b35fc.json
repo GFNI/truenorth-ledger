@@ -1,0 +1,22 @@
+{
+    "round_id": "01671d41-8dc1-4954-a87b-7b0e631b35fc",
+    "draw_title": "COIN FLIPPER: BIG CHICKEN DIPPER!  🪙🐔 WIN UP TO £1,000 INSTANTLY! 💰",
+    "competition_url": "https://carleycomps.co.uk/admin/products/coin-flipper-big-chicken-dipper-win-up-to-ps1000-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "512c7e919e6e7760ff66355f16b1e2a52a7097dcb764b7d7da2b15aaa976b3db",
+    "drand_seed_hash": "a23e4e20d1010869a19fe0a4f6326bc349ff0e6005d57a0e77c7a0ad7df21b57c5d3036fac495a80c8507deba1dc321a",
+    "client_seed": "1794852237187",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6433,
+    "max_tickets": 119999,
+    "combined_hash": "08689728e90e0914a44980a2e3776ef30d41ded023cec1130c1e29e127baf9b8",
+    "result": "16884",
+    "external_round_id": "34016293",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T18:03:57.000000Z",
+    "revealed_at": "2026-11-16T18:04:03.000000Z"
+}
