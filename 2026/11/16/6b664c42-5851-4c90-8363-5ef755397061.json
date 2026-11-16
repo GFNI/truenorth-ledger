@@ -1,0 +1,22 @@
+{
+    "round_id": "6b664c42-5851-4c90-8363-5ef755397061",
+    "draw_title": "Win a Topdon diagnostic scanner!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-topdon-diagnostic-scanner-6985",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "eae31de90b58a050d0f6b6d6b9ac66b1868d0e29ef22f8a54ed39f4b19ef0174",
+    "drand_seed_hash": "aea2440e71d4914e3e671ea37912cbf603a02789004220033cd09d88662e2b9977ec854fe42b5359dd135288ae3df981",
+    "client_seed": "1794860767995",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 276,
+    "max_tickets": 349,
+    "combined_hash": "0ff2852245baaeb007d7d72796433eee1c32da41e1ea70a0ca6b40a10d8c91c9",
+    "result": "59",
+    "external_round_id": "34019137",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:26:08.000000Z",
+    "revealed_at": "2026-11-16T20:26:15.000000Z"
+}
