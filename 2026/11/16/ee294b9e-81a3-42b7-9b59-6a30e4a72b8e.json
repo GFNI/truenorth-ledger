@@ -1,0 +1,22 @@
+{
+    "round_id": "ee294b9e-81a3-42b7-9b59-6a30e4a72b8e",
+    "draw_title": "£20,000 Candyland Slots",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps20000-candyland-slots",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "183a9b516366668228b8142e8f7a7770c893b0d25b4854fde23903dd1869550a",
+    "drand_seed_hash": "b45718cffd38e9a39086144323e1170ed5c52b18d492b600d397c506d01bcbd83ebd9d7cd80703e7b59b4d09afc23892",
+    "client_seed": "1794865909943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4189,
+    "max_tickets": 16000,
+    "combined_hash": "aa102d616b14beb8f5cdf3b03f3146aeea79c7a950d604a773e57fbb8c7ac9a7",
+    "result": "7339",
+    "external_round_id": "34020851",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T21:51:50.000000Z",
+    "revealed_at": "2026-11-16T21:51:57.000000Z"
+}
