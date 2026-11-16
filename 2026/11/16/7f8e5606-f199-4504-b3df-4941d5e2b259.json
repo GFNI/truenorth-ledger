@@ -1,0 +1,22 @@
+{
+    "round_id": "7f8e5606-f199-4504-b3df-4941d5e2b259",
+    "draw_title": "Mole Combat",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/mole-combat",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "df8249a7da854fcd2a9ceaf46c0f6d8439b3395e6ab314099e4b48a98d61fa84",
+    "drand_seed_hash": "9124275ac2f05e26d0a6c0b59b714d7d43326934a14e66cba1b034c7e246351fa318852956d90e91db245786c496493d",
+    "client_seed": "1794863727996",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 308,
+    "max_tickets": 10000,
+    "combined_hash": "8c08bbc052ad95dea81dd837876572f4a7d2b6b0dd4ff4559a4eb479c8d1911c",
+    "result": "2893",
+    "external_round_id": "34020124",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T21:15:28.000000Z",
+    "revealed_at": "2026-11-16T21:15:36.000000Z"
+}
