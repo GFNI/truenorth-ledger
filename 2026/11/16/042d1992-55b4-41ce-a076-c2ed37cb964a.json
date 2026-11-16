@@ -1,0 +1,22 @@
+{
+    "round_id": "042d1992-55b4-41ce-a076-c2ed37cb964a",
+    "draw_title": "£100 MYSTERY RESTAURANT VOUCHER!! 16/11",
+    "competition_url": "https://goatcompetitionsni.co.uk/admin/products/ps100-mystery-restaurant-voucher-1611",
+    "operator": {
+        "name": "GOAT COMPETITIONS NI",
+        "website": "https://goatcompetitionsni.co.uk",
+        "company_number": "NI696153"
+    },
+    "drand_server_seed": "92593ebeeee160e980ae4678306664e83138fdcce0e5777c7c0e3c719f3d6904",
+    "drand_seed_hash": "99406129385800997f2d695806e7a1c443c736b7797267f4be6ea1173af1179164b53f082db92aa21e26a1fd9a73535b",
+    "client_seed": "1794866751809",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 200,
+    "combined_hash": "461a2023ad227060ee7cbcf231c306f663ef518a77bcfb523f6ccb490008a685",
+    "result": "39",
+    "external_round_id": "34021131",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T22:05:51.000000Z",
+    "revealed_at": "2026-11-16T22:05:57.000000Z"
+}
