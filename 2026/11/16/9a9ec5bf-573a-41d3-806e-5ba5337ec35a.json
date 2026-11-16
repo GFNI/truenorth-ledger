@@ -1,0 +1,22 @@
+{
+    "round_id": "9a9ec5bf-573a-41d3-806e-5ba5337ec35a",
+    "draw_title": "£10K JUICY JACKPOT",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/ps10k-juicy-jackpot",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "63e3b40f4a2ab60bf8c579c47e28722f5a125da1f2c2e2d56381d7ed2aaccf7a",
+    "drand_seed_hash": "b50108d51b8da6cd2393aa27fc42df317e1a4da2023706208f9f4f2a2487267d9b63fcca2edf0a47fc1887dd43c7cc1c",
+    "client_seed": "1794860101554",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13417,
+    "max_tickets": 180000,
+    "combined_hash": "91979443e71617e602ab5f743283ac7cc965459337acf2990266340ed7b6ed88",
+    "result": "171602",
+    "external_round_id": "34018915",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:15:01.000000Z",
+    "revealed_at": "2026-11-16T20:15:09.000000Z"
+}
