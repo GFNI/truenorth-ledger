@@ -1,0 +1,22 @@
+{
+    "round_id": "36af8c2d-838d-4518-8123-cf64795ce25c",
+    "draw_title": "Rapid Fire 🎯",
+    "competition_url": "https://punterprizes.com/admin/products/rapid-fire-4",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "4cebcb0fd8c7918bd352750fa133befdb8171e7f4b8678ad715daec6ec30f48c",
+    "drand_seed_hash": "b243fc474b537ec463b021ae2b9057838a45c6d172d7b562d59c4d2efc061e05418615421b3e1ec08521d7298d6214ee",
+    "client_seed": "1794870225347",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20000,
+    "max_tickets": 20000,
+    "combined_hash": "40e31975baea72888bdfea816a5c8d34263d612e7102fdf9c09c115e73875ca3",
+    "result": "10849",
+    "external_round_id": "34022289",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T23:03:45.000000Z",
+    "revealed_at": "2026-11-16T23:03:51.000000Z"
+}
