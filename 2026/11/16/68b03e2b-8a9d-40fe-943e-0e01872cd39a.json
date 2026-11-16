@@ -1,0 +1,22 @@
+{
+    "round_id": "68b03e2b-8a9d-40fe-943e-0e01872cd39a",
+    "draw_title": "🍀 LUCKY LEPRECHAUN BINGO 🍀",
+    "competition_url": "https://toyboxcompetitions.co.uk/admin/products/lucky-leprechaun-bingo",
+    "operator": {
+        "name": "Toybox Competitions",
+        "website": "https://toyboxcompetitions.co.uk",
+        "company_number": "15943815"
+    },
+    "drand_server_seed": "21e9a1a03a38747b43321a1b2a98edfc4fbf2795948e14bc3919add6cfde5556",
+    "drand_seed_hash": "ad65d2df17cb81453f62dc28403ae6cf577266c0fecd09c64c8dadf2756f06178bfa415a2a60eb20e1b0c012d0403e7d",
+    "client_seed": "1794870622454",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2972,
+    "max_tickets": 300000,
+    "combined_hash": "fb690ff3fde2287c56caefd084a0a3c3e8f03d9c9b5799f7e86146d3f1ade9b2",
+    "result": "273660",
+    "external_round_id": "34022422",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T23:10:22.000000Z",
+    "revealed_at": "2026-11-16T23:10:30.000000Z"
+}
