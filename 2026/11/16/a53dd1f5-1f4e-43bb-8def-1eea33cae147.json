@@ -1,0 +1,22 @@
+{
+    "round_id": "a53dd1f5-1f4e-43bb-8def-1eea33cae147",
+    "draw_title": "📱 iPhone 18 Pro - 512 GB, Burgundy Bundle 📱",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/iphone-18-pro-512-gb-burgundy-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f20f21e022d35a5e7d22be4d02b7ea7142475b8f6052fb07c6aa4eef28a67d48",
+    "drand_seed_hash": "b4ec0cb2a9f6d3b2083bc0c7e38ee419b2289a7655a7d233083679f19f1975ad3f34fcaf829f1255de032aa8bbef9e9c",
+    "client_seed": "1794858501332",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3725,
+    "max_tickets": 3725,
+    "combined_hash": "8df52eb5c6fbefb177c96e92d86318987829eb2227281cb37e854505ac09a647",
+    "result": "889",
+    "external_round_id": "34018381",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T19:48:21.000000Z",
+    "revealed_at": "2026-11-16T19:48:27.000000Z"
+}
