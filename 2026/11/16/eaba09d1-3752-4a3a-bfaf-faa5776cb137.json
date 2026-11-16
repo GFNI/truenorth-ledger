@@ -1,0 +1,22 @@
+{
+    "round_id": "eaba09d1-3752-4a3a-bfaf-faa5776cb137",
+    "draw_title": "WIN LUKE HUMPHRIES 50 YEAR LIMITED EDITION DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-luke-humphries-50-year-limited-edition-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "afbbc03041318fe871ed114886959d1d93e2e5ea7b5f551a514fa2e071cf67c4",
+    "drand_seed_hash": "9998202eafac049eb9b6c748bdf81f8ab6b920677df274dcf548c6d3287c68a0c7c151c47f0aad4b3fa459814c2117b8",
+    "client_seed": "1794867084509",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 115,
+    "combined_hash": "3f3c5bfedd326b0fb6c4491a7446fd3ba56e00d6c9dae71856ffe381ff82b534",
+    "result": "9",
+    "external_round_id": "34021242",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T22:11:24.000000Z",
+    "revealed_at": "2026-11-16T22:11:30.000000Z"
+}
