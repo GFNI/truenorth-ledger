@@ -1,0 +1,22 @@
+{
+    "round_id": "7fd33c49-ddaf-4ac6-8299-07fa32bf4a47",
+    "draw_title": "LOW ODDS VIRAL FUNKY FIDGET SHOP ADVENT",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/low-odds-viral-funky-fidget-shop-advent",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "ddc34154b17b46d4c9e1ed791110ca32568d072fe3aefc8fe5a7bfd6c10709f7",
+    "drand_seed_hash": "82c7d5cfaabd97940a091616422e8ce0fd1d34a7281fae13e62d599edc54e8a6da0c1a22092b4d55667c17637e32fbab",
+    "client_seed": "1794851136602",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 49,
+    "combined_hash": "ca652424a064dcd62ea2d22363a457519b4f024d5b840936c6a5c0499eb60b37",
+    "result": "29",
+    "external_round_id": "34015926",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T17:45:36.000000Z",
+    "revealed_at": "2026-11-16T17:45:42.000000Z"
+}
