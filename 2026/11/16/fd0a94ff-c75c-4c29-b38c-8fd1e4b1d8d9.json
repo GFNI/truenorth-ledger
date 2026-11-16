@@ -1,0 +1,22 @@
+{
+    "round_id": "fd0a94ff-c75c-4c29-b38c-8fd1e4b1d8d9",
+    "draw_title": "💸 £8,000 Enter for 80p!",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps8000-enter-for-80p",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "cd370934e4147126cf50fc765db6cc1ba51447909cdde15e8bb15955631cc0f3",
+    "drand_seed_hash": "b24a4086d58c554c2e6ac8fe10747aea3693634bb4260cead81aa9c48f55e2e7b6744864e27ba015d01d1cf0dc21d107",
+    "client_seed": "1794860666335",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14617,
+    "max_tickets": 16000,
+    "combined_hash": "fab5af84f12ca7e908f514d75cfe31b7f96ce2ac547155941736997d60732350",
+    "result": "11899",
+    "external_round_id": "34019103",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:24:26.000000Z",
+    "revealed_at": "2026-11-16T20:24:33.000000Z"
+}
