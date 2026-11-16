@@ -1,0 +1,22 @@
+{
+    "round_id": "fb80cd80-7a25-4879-95c3-f1c2a0ead2a6",
+    "draw_title": "Festive Frenzy ❄️",
+    "competition_url": "https://redlemonx.co.uk/admin/products/festive-frenzy",
+    "operator": {
+        "name": "Ruby Reds Competitions Limited TA Red Lemon X",
+        "website": "https://redlemonx.co.uk",
+        "company_number": "16212159"
+    },
+    "drand_server_seed": "aa313fadcb7222319debe19ce324bbb98881559dfbd24ad8b2510698672aacfe",
+    "drand_seed_hash": "aa661fe99c85a1941e6146d891e1269a0c1d1a8bdf6bc8c8c00d075a8e084e0703d46b90f52edf77c7f62f90dc053c99",
+    "client_seed": "1794859860625",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 242650,
+    "max_tickets": 444444,
+    "combined_hash": "3db93334a27132f22ddab9fc64c0c1d8fbd6dc9dbeff90aa048947b0313e8b28",
+    "result": "250310",
+    "external_round_id": "34018834",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:11:00.000000Z",
+    "revealed_at": "2026-11-16T20:11:06.000000Z"
+}
