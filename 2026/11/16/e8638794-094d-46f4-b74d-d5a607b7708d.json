@@ -1,0 +1,22 @@
+{
+    "round_id": "e8638794-094d-46f4-b74d-d5a607b7708d",
+    "draw_title": "🥩 £500 Miller & Carter 🥩",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps500-miller-carter-6",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "dc5bcffb8f0ad9a888197cf7f75f0991dd363eabe0b3a58c1f1e0213db0524cb",
+    "drand_seed_hash": "91d85eefb0764e372cda3c01f9f3d1d008b61581e88acef532e662e1ea15a1297ed24defe3f13f0a729b857e8bad7037",
+    "client_seed": "1794858956832",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1225,
+    "max_tickets": 1225,
+    "combined_hash": "d27a5be08a2a2d300eb9b7ab2f522a819e455ade59d2e5024d43ca354d29eba2",
+    "result": "1028",
+    "external_round_id": "34018533",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T19:55:56.000000Z",
+    "revealed_at": "2026-11-16T19:56:03.000000Z"
+}
