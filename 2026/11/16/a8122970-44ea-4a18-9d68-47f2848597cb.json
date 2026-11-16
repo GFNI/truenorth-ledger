@@ -1,0 +1,22 @@
+{
+    "round_id": "a8122970-44ea-4a18-9d68-47f2848597cb",
+    "draw_title": "Win a 400w Renogy solar kit!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-400w-renogy-solar-kit-5",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "d23355fb97d238f0d1f179c3d09f17368f82821022b8faadb04efbd79d889c9d",
+    "drand_seed_hash": "b094fc339602eeaff43e81680a66b0ba14b8f1fe061e2ac8d90cddb2c1a173c5fcd5996a8a6afc621628aa4fe4da122b",
+    "client_seed": "1794861731735",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 694,
+    "max_tickets": 999,
+    "combined_hash": "a86a4f8a16b91bd6d430353d015983b8d2b6d2b7f99742635b9a30b2ea5a1008",
+    "result": "240",
+    "external_round_id": "34019458",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:42:11.000000Z",
+    "revealed_at": "2026-11-16T20:42:18.000000Z"
+}
