@@ -1,0 +1,22 @@
+{
+    "round_id": "dd884b42-d167-47b5-9dad-2afce12a71c5",
+    "draw_title": "Live Win Wheel",
+    "competition_url": "https://jetcomps.co.uk/admin/products/live-win-wheel",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "7356114a73efd65922d7f2149bd6afb8b7f465c8113218eedfe36b0683651bb8",
+    "drand_seed_hash": "aa293714656bc77b19e9d2a650918055f3136697722e13df22656f894ccbeb2b74280106092427474576c3f1303fafd7",
+    "client_seed": "1794861247130",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36661,
+    "max_tickets": 150000,
+    "combined_hash": "fa4c2e85473e78728cec7c0772ec154f0d92b9d97680fdb38f22779d6d1f91d6",
+    "result": "4091",
+    "external_round_id": "34019297",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:34:07.000000Z",
+    "revealed_at": "2026-11-16T20:34:15.000000Z"
+}
