@@ -1,0 +1,22 @@
+{
+    "round_id": "dfd26400-d415-4768-b31a-6d55fe51d65a",
+    "draw_title": "Phantasmal Flames ETB",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/phantasmal-flames-etb-5",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "8402210a75b5040344d22b2eadbd7ace4eab8368a0213900c7ceef75779e48af",
+    "drand_seed_hash": "81f0c9d8cea00d4aca1328caf2e13fbb843af66e618beff02913f5e4b551045380a590d3fd3c846763bd90da20865a87",
+    "client_seed": "1794867030587",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 143,
+    "max_tickets": 250,
+    "combined_hash": "eea466ed7e9a1e8a0b0a443382679172a356810f8ee3fbf5f252efac551a70bd",
+    "result": "87",
+    "external_round_id": "34021224",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T22:10:30.000000Z",
+    "revealed_at": "2026-11-16T22:10:36.000000Z"
+}
