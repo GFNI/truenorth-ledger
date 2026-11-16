@@ -1,0 +1,22 @@
+{
+    "round_id": "d6564d0a-d553-453b-af94-846348d960ab",
+    "draw_title": "Cash Tsunami",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/cash-tsunami",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "a4c990354381f28d30979c442497ff259e08c4fd873729f4e709a2cf6013e1a4",
+    "drand_seed_hash": "aca274f0e1b9559bf1711a873e634a759b761fa7af095fcf3daffb58f6f589d706d82b5caa064bff80f7b7ce80465805",
+    "client_seed": "1794860154737",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1249999,
+    "max_tickets": 1249999,
+    "combined_hash": "d7fd48f5b74f118cb11ebf1b368052365d64aec282ce8f52921b51794a604c6b",
+    "result": "204788",
+    "external_round_id": "34018932",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:15:54.000000Z",
+    "revealed_at": "2026-11-16T20:16:00.000000Z"
+}
