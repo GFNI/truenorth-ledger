@@ -1,0 +1,22 @@
+{
+    "round_id": "8f780af3-1007-475f-a8f6-db54fb273b4d",
+    "draw_title": "FireFly Race",
+    "competition_url": "https://jetcomps.co.uk/admin/products/firefly-race",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "c480d18c543be8aabcc6973ff3469a92dc92ebe881f0353213a7997eb6ecf0a0",
+    "drand_seed_hash": "8765d3ccce6899ffac184e1e338822e533de8a7c6e05124653f14050f2c64f9262ee779062ddeb174b7bc21762e8748a",
+    "client_seed": "1794860953053",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 332249,
+    "max_tickets": 450000,
+    "combined_hash": "ef81557a17df86257e09506525b492c533728bbfac04cdce20a04779e304a31c",
+    "result": "424176",
+    "external_round_id": "34019199",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T20:29:13.000000Z",
+    "revealed_at": "2026-11-16T20:29:21.000000Z"
+}
