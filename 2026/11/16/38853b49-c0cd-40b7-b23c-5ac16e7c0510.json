@@ -1,0 +1,22 @@
+{
+    "round_id": "38853b49-c0cd-40b7-b23c-5ac16e7c0510",
+    "draw_title": "Low Odds £750 Cash (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/low-odds-ps750-cash-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "6be079da1df6563b4acad33244f96149116570b7b4103034269cfd8cdd9aebcc",
+    "drand_seed_hash": "a4931464747c2ca518c4f1b6dbaed8de11604cb6594a54a15ef3cbe0e69a2b772a3b01ae8ea563c7b5c2fb88c082ff7b",
+    "client_seed": "1794867736253",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 150,
+    "combined_hash": "791614a7278d9a13b40940659cfbd6f975592b96728f045c3838934754131262",
+    "result": "46",
+    "external_round_id": "34021460",
+    "processing_status": "completed",
+    "created_at": "2026-11-16T22:22:16.000000Z",
+    "revealed_at": "2026-11-16T22:22:24.000000Z"
+}
