@@ -1,0 +1,22 @@
+{
+    "round_id": "db06cd41-daa5-42d7-b081-1f16e2043a76",
+    "draw_title": "test",
+    "competition_url": "https://levelparcompetitions.co.uk/competition/wentworth",
+    "operator": {
+        "name": "Level Par Competitions",
+        "website": "https://levelparcompetitions.co.uk",
+        "company_number": "N/A"
+    },
+    "drand_server_seed": "1305aed1dae10b1c365eea5f65a248ffef5b927a7c6f41d910352868bf79c5fe",
+    "drand_seed_hash": "90e0971694f02c42bc757019278780bc4f701dc9f531dca3bcfd88410864972c46d07fbaedf89c9934d44827cc7d83e2",
+    "client_seed": "1794915060078",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 72,
+    "combined_hash": "2413ead4bfb6e443e899647e8f760f2e51a253824399c880dd6e72da2d38339e",
+    "result": "37",
+    "external_round_id": "34037234",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T11:31:00.000000Z",
+    "revealed_at": "2026-11-17T11:31:09.000000Z"
+}
