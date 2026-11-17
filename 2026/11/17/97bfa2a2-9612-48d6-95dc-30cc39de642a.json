@@ -1,0 +1,22 @@
+{
+    "round_id": "97bfa2a2-9612-48d6-95dc-30cc39de642a",
+    "draw_title": "PS5 GTA 6 BUNDLE 🎮",
+    "competition_url": "https://starcompetition.co.uk/admin/products/ps5-gta-6-bundle-15",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "e9c46c453c48818899b89899a78ea1129d3bd05e43a351feedde1ec419ff7f48",
+    "drand_seed_hash": "8da0ddf4d36c1b4565adf528e16e8c714cb6a7586350d9a0f143e2fdc9856cedb8a212674b1e0bdd7d077406fc75e6ef",
+    "client_seed": "1794949842140",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1158,
+    "max_tickets": 1500,
+    "combined_hash": "f0a0f6c803cd3b7d6906e87bd0d18a9e8e6f31b8ab5dcb128427632a827e7f3d",
+    "result": "757",
+    "external_round_id": "34048828",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:10:42.000000Z",
+    "revealed_at": "2026-11-17T21:10:48.000000Z"
+}
