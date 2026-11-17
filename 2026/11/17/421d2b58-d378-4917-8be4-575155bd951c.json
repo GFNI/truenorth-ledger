@@ -1,0 +1,22 @@
+{
+    "round_id": "421d2b58-d378-4917-8be4-575155bd951c",
+    "draw_title": "🫘BEANKO!🫘",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/beanko",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "58673c9eb3fd488e81d61714bf89d7e8392c408e5bd04355b89e35f86ce8e0b5",
+    "drand_seed_hash": "a6ab2b026c3475678c99fe62698875a8b02d9b6d803e2f9cc2658121be2164fcf7b7bd7687ebae35cf0a910bcdd6196a",
+    "client_seed": "1794942655595",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 68198,
+    "max_tickets": 250000,
+    "combined_hash": "ce59d8e222a8381ff940038b531b565a48da92b23fe194028800d8ebbcba81fc",
+    "result": "79583",
+    "external_round_id": "34046433",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T19:10:55.000000Z",
+    "revealed_at": "2026-11-17T19:11:03.000000Z"
+}
