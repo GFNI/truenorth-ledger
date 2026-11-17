@@ -1,0 +1,22 @@
+{
+    "round_id": "eaf4f557-6acb-4c6b-ae1f-8665f995b261",
+    "draw_title": "Shark Matrix Plus 2 in 1 Robot vacuum Cleaner",
+    "competition_url": "https://the900club.co.uk/admin/products/shark-matrix-plus-2-in-1-robot-vacuum-cleaner",
+    "operator": {
+        "name": "The 900 Club LTD",
+        "website": "https://the900club.co.uk",
+        "company_number": "SC901243"
+    },
+    "drand_server_seed": "a34c5d276a336f2d65e258623259c26a411b337e9f58fddffcd719a9f3b636bb",
+    "drand_seed_hash": "8acf3218e6439977da0864f20d07ea2a598483a281225ee2eaaa6d5afbce327657444252fffa4af948d8008e34095f02",
+    "client_seed": "1794947007717",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 145,
+    "max_tickets": 900,
+    "combined_hash": "2b160a010d146fbbf843c6c9af66b698f6ed37279c656b0d6b6d751d6732056c",
+    "result": "752",
+    "external_round_id": "34047883",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T20:23:27.000000Z",
+    "revealed_at": "2026-11-17T20:23:33.000000Z"
+}
