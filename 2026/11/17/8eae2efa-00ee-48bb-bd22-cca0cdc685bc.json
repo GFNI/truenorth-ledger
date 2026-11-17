@@ -1,0 +1,22 @@
+{
+    "round_id": "8eae2efa-00ee-48bb-bd22-cca0cdc685bc",
+    "draw_title": "Win A DJI NEO Fly More Combo",
+    "competition_url": "https://feelgoodcompetitions.com/admin/products/win-a-dji-neo-fly-more-combo-3",
+    "operator": {
+        "name": "Inside Line Media Ltd",
+        "website": "https://feelgoodcompetitions.com",
+        "company_number": "15352149"
+    },
+    "drand_server_seed": "e7996a1fc75d3cc6732e42dd8cd293b8f922fa18101b48b5c9cbea39110cd810",
+    "drand_seed_hash": "a6aae16e643d26a134803328c88dce7cc943a6dcaa6a8b211d7bd4d710375c037d8a0515fb36e2cd6dc901b1be4efa6b",
+    "client_seed": "1794953452008",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2130,
+    "max_tickets": 3000,
+    "combined_hash": "d53a6810c2df9e8bc3cf3915fdcfd9fcfb428d950a94f824356536312aa6ee81",
+    "result": "1262",
+    "external_round_id": "34050032",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T22:10:52.000000Z",
+    "revealed_at": "2026-11-17T22:11:00.000000Z"
+}
