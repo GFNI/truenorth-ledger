@@ -1,0 +1,22 @@
+{
+    "round_id": "4063fc2b-1eab-4108-92d8-a78b25c81750",
+    "draw_title": "Tuesday Lucky Pouncer",
+    "competition_url": "https://pouncecompetitions.co.uk/admin/products/tuesday-lucky-pouncer",
+    "operator": {
+        "name": "Pounce Ltd",
+        "website": "https://pouncecompetitions.co.uk",
+        "company_number": "17495392"
+    },
+    "drand_server_seed": "e4dd830c13e9f876bb734d91f0e78c66131268f211debd934136144f730b0c32",
+    "drand_seed_hash": "a5f5041b733f5579fd871924c8cf12601b1c01d96d1be95fd3307d5fd369405d93c13d2827c92d483b48bcd69c53db0c",
+    "client_seed": "1794949242469",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31,
+    "max_tickets": 250,
+    "combined_hash": "b64790f69bb9de61dc0ba29e3e6905e69787a73ee622a096259923fd85f44fe4",
+    "result": "179",
+    "external_round_id": "34048628",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:00:42.000000Z",
+    "revealed_at": "2026-11-17T21:00:48.000000Z"
+}
