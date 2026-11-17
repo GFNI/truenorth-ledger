@@ -1,0 +1,22 @@
+{
+    "round_id": "3c43607d-66ba-4406-b7b3-1dc46976f7d8",
+    "draw_title": "Sephora Collection Premium Advent Calendar #2",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/sephora-collection-premium-advent-calendar-2",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "407d4b61f2903f16a28f4fd3d7a70228a86eb1d7974b1e4fd74ff6bfd587cc18",
+    "drand_seed_hash": "91a410328fc6c4a288dbe1bbb78e4feb2265979fc0dd5fa10a3a3c45dce76b2a91c0f787c9a0393537a2396128007ca3",
+    "client_seed": "1794949827872",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 292,
+    "max_tickets": 419,
+    "combined_hash": "8de062ba9d6878ef23a92ee20e3e0bbef11c364a60a0a73e0cb8b5dbb1c763a7",
+    "result": "357",
+    "external_round_id": "34048823",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:10:27.000000Z",
+    "revealed_at": "2026-11-17T21:10:33.000000Z"
+}
