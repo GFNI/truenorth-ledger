@@ -1,0 +1,22 @@
+{
+    "round_id": "4e3e0718-5cc4-4e89-a6dd-9036954ded83",
+    "draw_title": "SCRATCHING BAD - EVERY TICKET IS A WINNER!",
+    "competition_url": "https://geardowncompetitions.com/admin/products/scratching-bad-every-ticket-is-a-winner",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "5396c4734e3279495682f0f709391eec130514f6bf3f15ed701e43f85e992a00",
+    "drand_seed_hash": "8ae3c5e9d7fbc024a2358d3468ad361c9dda26f278630cf225236d9e02f492bd86e006a66d98d1e4f845a659d317cb16",
+    "client_seed": "1794951676370",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4938,
+    "max_tickets": 19999,
+    "combined_hash": "35400fb5e7ddf0006801410c4ef23e1f9dd1283f7e6a7378fe58547fd2f55c20",
+    "result": "7465",
+    "external_round_id": "34049440",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:41:16.000000Z",
+    "revealed_at": "2026-11-17T21:41:24.000000Z"
+}
