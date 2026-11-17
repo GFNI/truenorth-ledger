@@ -1,0 +1,22 @@
+{
+    "round_id": "c792f4b7-899a-4547-9246-23273899960f",
+    "draw_title": "Rush FREEBIE",
+    "competition_url": "https://rushcompetitions.co.uk/admin/products/rush-freebie",
+    "operator": {
+        "name": "Rush Competitions Ltd",
+        "website": "https://rushcompetitions.co.uk",
+        "company_number": "13689949"
+    },
+    "drand_server_seed": "79ac9cc80d236f620dcb75c2e06f6f89e5db61ac4e9495b8d2dfc0714886e0a4",
+    "drand_seed_hash": "af099d1b4b2521fde2299b1a0129bf576c60d1b73fa9349cad79510838c552a06d434e4aab5b6cf211bdcce27c972f9c",
+    "client_seed": "1794954983801",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 500,
+    "max_tickets": 500,
+    "combined_hash": "70a32983de7c96e72261c753bc2e56125d3ab581d6fadba37c1073e43a2fabaf",
+    "result": "113",
+    "external_round_id": "34050542",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T22:36:23.000000Z",
+    "revealed_at": "2026-11-17T22:36:30.000000Z"
+}
