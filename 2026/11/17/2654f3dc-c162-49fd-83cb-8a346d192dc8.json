@@ -1,0 +1,22 @@
+{
+    "round_id": "2654f3dc-c162-49fd-83cb-8a346d192dc8",
+    "draw_title": "AUTOSCORER FOR FREE",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/autoscorer-for-free",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "2ce332ed58474be3262ddd8e412d8b700c17f17d70ad1259152f4e17bbcad8b5",
+    "drand_seed_hash": "a9e53f2948d4bb319a74f29111dbaa91d05817415ef6ba05b88c6a2d888707cd5fba9ed65f23b43c0dc7b7fb17ae68ce",
+    "client_seed": "1794947910139",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 613,
+    "max_tickets": 5000,
+    "combined_hash": "808bf0efa3e0c3b000683224ecd7083c156ae5b6d4e9cb78ab3fcd67dcff0fb0",
+    "result": "3977",
+    "external_round_id": "34048184",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T20:38:30.000000Z",
+    "revealed_at": "2026-11-17T20:38:36.000000Z"
+}
