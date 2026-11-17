@@ -1,0 +1,22 @@
+{
+    "round_id": "f43273e0-3cc8-4843-b732-ee08e89dc244",
+    "draw_title": "Golden Ticket Tuesday (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/golden-ticket-tuesday-2",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "fc5ad0ff06104243f62100badf41a5eff7b9a0b4d87b3cd18ac1746e5d35b651",
+    "drand_seed_hash": "81196748794d2c6b3fdfde3348a3222427a82dafd884fccdb17bfbb793595f378e675fd4553e89b6f76834e999558383",
+    "client_seed": "1794949623275",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 400,
+    "combined_hash": "b977478f82eb37c708852fd5c95e1d005babb42b79389de0483880998f40b9a3",
+    "result": "394",
+    "external_round_id": "34048755",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:07:03.000000Z",
+    "revealed_at": "2026-11-17T21:07:09.000000Z"
+}
