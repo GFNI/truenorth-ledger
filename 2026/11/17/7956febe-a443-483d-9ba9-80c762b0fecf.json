@@ -1,0 +1,22 @@
+{
+    "round_id": "7956febe-a443-483d-9ba9-80c762b0fecf",
+    "draw_title": "£5K MONKEY MADNESS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-monkey-madness",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "cdf8e0741a28775cc4b7ba2bbfae9cccce5972562cc48a2f84d069b949092ea5",
+    "drand_seed_hash": "a17664898e48e497816fb70e59377ba456119785a7bc7e0f6b35f0a1ad316e9cf9b83634a2cf8b8e070f4dce37f75310",
+    "client_seed": "1794951300069",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65015,
+    "max_tickets": 159999,
+    "combined_hash": "3a52f4b368cb89f68d3cb24c282a8c7ae1bc5c35afc99ff0de51ba01daea8eea",
+    "result": "112368",
+    "external_round_id": "34049314",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:35:00.000000Z",
+    "revealed_at": "2026-11-17T21:35:06.000000Z"
+}
