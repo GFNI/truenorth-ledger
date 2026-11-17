@@ -1,0 +1,22 @@
+{
+    "round_id": "8ad82bdf-e83c-481f-8e75-ce70f38ce75e",
+    "draw_title": "2023 1/2oz GOLD BRITANNIA + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-12oz-gold-britannia-10-silver-instant-wins-4",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "f7cd9ab252685d8f58653fb2636428f842f44efcdfc7646423bdf50d4807ff20",
+    "drand_seed_hash": "8ca612d9371ee497fdb88bbb475549481a393274da2c2a6b4d6bb84bcd34fcfc9c469a8b5efb73fd9dc9203923d07ed8",
+    "client_seed": "1794949687610",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2353,
+    "max_tickets": 4000,
+    "combined_hash": "fa9932852783d5e65654f60f4a08feade08eee95d8f1e072d0de6423b1abd373",
+    "result": "1947",
+    "external_round_id": "34048777",
+    "processing_status": "completed",
+    "created_at": "2026-11-17T21:08:07.000000Z",
+    "revealed_at": "2026-11-17T21:08:15.000000Z"
+}
