@@ -1,0 +1,22 @@
+{
+    "round_id": "a3f7df5e-b605-4e35-a6fd-90f2da89a558",
+    "draw_title": "Gorilla Edge Sculpture 🦍",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/gorilla-edge-sculpture",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "4f94a560e6e1d5c50bbdd281918b5f01146a8b6f90ecee6add9312544ae569aa",
+    "drand_seed_hash": "92dd21ec8dfd1ccfa9b3352d5b14624cb4a573996e34569f83883951f2e528f926ede450b7c06c3c3311144763bd20c4",
+    "client_seed": "1795033412890",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 453,
+    "max_tickets": 600,
+    "combined_hash": "985d08f55d1a9b54c652b617ad0e19818901cb2e46b40abc0fb4b0600da7e1ee",
+    "result": "169",
+    "external_round_id": "34076685",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:23:32.000000Z",
+    "revealed_at": "2026-11-18T20:23:39.000000Z"
+}
