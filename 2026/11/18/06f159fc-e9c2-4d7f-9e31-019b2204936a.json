@@ -1,0 +1,22 @@
+{
+    "round_id": "06f159fc-e9c2-4d7f-9e31-019b2204936a",
+    "draw_title": "Kung Fu Santa - £300 Main Draw + Instawins up to £1250",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/kung-fu-santa-ps300-main-draw-instawins-up-to-ps1250",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "fcc5428fc5c93024f98fbc8c83d511049c246b48a8aa86b9d38e864fa7c35626",
+    "drand_seed_hash": "8827dd1647c904df8691e63a29df752304b6ac913d1afa9311df655545f8408a3bf975cc1a36741134813840f06e8c4a",
+    "client_seed": "1795033887393",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88222,
+    "max_tickets": 160000,
+    "combined_hash": "c707e42287bfab15ddc373ccda34f71e8a058221209d28943762ccb6112513b6",
+    "result": "89544",
+    "external_round_id": "34076843",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:31:27.000000Z",
+    "revealed_at": "2026-11-18T20:31:33.000000Z"
+}
