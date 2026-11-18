@@ -1,0 +1,22 @@
+{
+    "round_id": "10259c3a-8faf-4dee-9e7b-b7576f17271a",
+    "draw_title": "LUCKY BRICKS! Lego Busts Edition!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/lucky-bricks-lego-busts-edition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "a6d1256d594e0a12143655a1aba4c9d9e652bdd7bcbfd86ccc8d697dd47571f1",
+    "drand_seed_hash": "988727832c29b545a6a759c99e78f8c40f628d47b885d57c6bc0f731064a1bd2736e051bad4896714c43c5d3ea8a649e",
+    "client_seed": "1795039989471",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5778,
+    "max_tickets": 8999,
+    "combined_hash": "e4e281666342aa1498fc4863d4bc630881e73439f837fc683761c6d304595c94",
+    "result": "7369",
+    "external_round_id": "34078877",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:13:09.000000Z",
+    "revealed_at": "2026-11-18T22:13:15.000000Z"
+}
