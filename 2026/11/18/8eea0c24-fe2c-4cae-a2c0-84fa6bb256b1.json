@@ -1,0 +1,22 @@
+{
+    "round_id": "8eea0c24-fe2c-4cae-a2c0-84fa6bb256b1",
+    "draw_title": "WEDNESDAY'S DAILY CASH DRAW - £350 CASH + £100 INSTANTS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/wednesdays-daily-cash-draw-ps350-cash-ps100-instants",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "4fcd2da97e5ed63ef638d3ea90a308fe3f333990044d7ea0397d2d1a5b53cb1c",
+    "drand_seed_hash": "b268cf4bffe770ca8c055c64b5e08846e8c26e0572b3c5945fd523fe1d18f9737393d36c53d6a5b4999457ef8cb98733",
+    "client_seed": "1795009828929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1789,
+    "max_tickets": 2571,
+    "combined_hash": "d6c4cbc60f66a0967894ed632c6662de798539964cab80b4113797093acbba8c",
+    "result": "362",
+    "external_round_id": "34068824",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T13:50:28.000000Z",
+    "revealed_at": "2026-11-18T13:50:36.000000Z"
+}
