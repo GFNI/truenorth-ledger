@@ -1,0 +1,22 @@
+{
+    "round_id": "ada6ad2f-7542-4755-ae28-a7a5577750c9",
+    "draw_title": "Plinko Lucky Dips - 10,000 Prizes to be won",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/plinko-lucky-dips-10000-prizes-to-be-won",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "259ad0f538e6b37e84470d38a37122ba27148449897ea90bf0783e060e3a15d3",
+    "drand_seed_hash": "b243c3e346d2f3ca6145dded2c69b96592837ca72ac920b474f81dae991f270f125d5544f67f13826df2c22425926329",
+    "client_seed": "1795036882977",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2879,
+    "max_tickets": 10000,
+    "combined_hash": "5aae0cd8f70a5c1e2f03064408dfd048f927cc84bdf79ce4be97f172ca6f58c5",
+    "result": "9723",
+    "external_round_id": "34077842",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:21:22.000000Z",
+    "revealed_at": "2026-11-18T21:21:30.000000Z"
+}
