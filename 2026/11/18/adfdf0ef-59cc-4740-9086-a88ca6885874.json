@@ -1,0 +1,22 @@
+{
+    "round_id": "adfdf0ef-59cc-4740-9086-a88ca6885874",
+    "draw_title": "ODDS BOOSTER FOR DRAWS 18.11.26. £50 SITE CREDIT END PRIZE",
+    "competition_url": "https://magmacomps.co.uk/admin/products/odds-booster-for-draws-181126-ps50-site-credit-end-prize",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "f65d2f16090ce6d9b0d30ffb7686c19fb35e96447d75f7109ea7a55d4adb6554",
+    "drand_seed_hash": "8dec2d1aee1f91b2752d33c518bbfc8ba35ba66b297554d04c69e7e14908e26f0e7880dd74b59b76556947cd188086e1",
+    "client_seed": "1795035331602",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1010,
+    "max_tickets": 9999,
+    "combined_hash": "3c09dd915b2188c0d4cf7b44d8734e2b7cb83ec9603b1d44803412edd250d1fd",
+    "result": "6883",
+    "external_round_id": "34077325",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:55:31.000000Z",
+    "revealed_at": "2026-11-18T20:55:39.000000Z"
+}
