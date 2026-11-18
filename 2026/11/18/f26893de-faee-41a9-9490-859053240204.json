@@ -1,0 +1,22 @@
+{
+    "round_id": "f26893de-faee-41a9-9490-859053240204",
+    "draw_title": "Soundwave Recliner Sofa",
+    "competition_url": "https://chaotic.co.uk/competition/soundwave-recliner-sofa",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "80c9b652670144ae80de738cce4fdb9866fad6220d15b925cabbb457549bcc3d",
+    "drand_seed_hash": "974ae80920feb596b4a44d79d483ac54b5694ab4fa095e1a8ccf99281af769d18c80406ab29474d7c1a97bd68b65bb82",
+    "client_seed": "1795035565618",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54999,
+    "max_tickets": 54999,
+    "combined_hash": "cd113db5627e246ac09375e00f296c4e7a048961df33a7d37fd2df492cdb8541",
+    "result": "3636",
+    "external_round_id": "34077403",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:59:25.000000Z",
+    "revealed_at": "2026-11-18T20:59:33.000000Z"
+}
