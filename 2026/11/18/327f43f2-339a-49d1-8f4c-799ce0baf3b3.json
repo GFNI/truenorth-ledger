@@ -1,0 +1,22 @@
+{
+    "round_id": "327f43f2-339a-49d1-8f4c-799ce0baf3b3",
+    "draw_title": "Wednesday Auto Draw - Midweek Bank Vault Bonanza - £100 End Prize (+ Cash Instant Wins)",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/wednesday-auto-draw-midweek-bank-vault-bonanza-ps100-end-prize-cash",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "d26b2abc94721efca634e0a8475e0743e489cb074c769b4ebba00ebc9d8d2a70",
+    "drand_seed_hash": "9610bed3e01c910be283f457363c1f5710e33a71bae830b2b63bb6003f0226be5ed9784f4b00bcdd0ded8a688d3fffe1",
+    "client_seed": "1795041666573",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 17827,
+    "max_tickets": 30000,
+    "combined_hash": "16320aefc3e0c5afd09951cfb52a22efe63ecc5e69108ae0d3388f8552a281b2",
+    "result": "22807",
+    "external_round_id": "34079436",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:41:06.000000Z",
+    "revealed_at": "2026-11-18T22:41:12.000000Z"
+}
