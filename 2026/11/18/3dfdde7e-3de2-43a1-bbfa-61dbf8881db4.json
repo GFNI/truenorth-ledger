@@ -1,0 +1,22 @@
+{
+    "round_id": "3dfdde7e-3de2-43a1-bbfa-61dbf8881db4",
+    "draw_title": "£150 Jellycat Voucher",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ps150-jellycat-voucher",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1a10a9e3c173da3bedd911d8262bb69ec1f8805d8478db44c1901a41ff0aaaf6",
+    "drand_seed_hash": "ae8ad5a061eb44e968ec2b0aaeb762500f1d13bdf5744801afc049f8b755e212baf83b7ad3f24a9cca0a72ae488006dd",
+    "client_seed": "1795035934957",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 275,
+    "max_tickets": 275,
+    "combined_hash": "336fe03e5a04735c15e1c9849ba10d3bf041507241e5fdad5c26114cdf0af9f9",
+    "result": "49",
+    "external_round_id": "34077526",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:05:35.000000Z",
+    "revealed_at": "2026-11-18T21:05:42.000000Z"
+}
