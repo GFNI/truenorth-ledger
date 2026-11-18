@@ -1,0 +1,22 @@
+{
+    "round_id": "b22eae06-98b7-42cb-8220-bfcab9e36f4d",
+    "draw_title": "FREE ENTRY - ONE80 ADVENT CALENDER (ACTIVE MINIMUM £1 SPEND IN PAST 24H)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/free-entry-one80-advent-calender-active-minimum-ps1-spend-in-past-24h-6",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "d27d6e19e32c9f505317db1c35bfd741473f5312135f1b327cd13a21b11c1c35",
+    "drand_seed_hash": "916d907900f4a770cc13b47253a840361cbc18799b7d4a40b6c22ce2e71bc7901b0fb25ba3c1a47b450fc2e24cbd52da",
+    "client_seed": "1795039830829",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 250,
+    "combined_hash": "b29eb1a24fb774a996012ed5e2fefca8737fcb355a086f1860a39853c473a3f5",
+    "result": "241",
+    "external_round_id": "34078824",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:10:30.000000Z",
+    "revealed_at": "2026-11-18T22:10:36.000000Z"
+}
