@@ -1,0 +1,22 @@
+{
+    "round_id": "52a22fd1-43f4-46ce-a565-c90d723d4438",
+    "draw_title": "Delta Reign Booster Box",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/delta-reign-booster-box-2",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "e57ae4b7ff63bd36608544e6fa585c83a9a8aa43f90663c8647cf1ecd326ac05",
+    "drand_seed_hash": "ab313ad06178eaa61894a04b375ba11723ca6c629ff8730a121e0f84f8005195ca7f3f53d83c89fda8666d7bf35c9458",
+    "client_seed": "1795039842524",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 212,
+    "max_tickets": 400,
+    "combined_hash": "40f0dcefd9da6c5d13f61843f5b309745dec7de4db4dcf233913fda9c5fda855",
+    "result": "49",
+    "external_round_id": "34078828",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:10:42.000000Z",
+    "revealed_at": "2026-11-18T22:10:48.000000Z"
+}
