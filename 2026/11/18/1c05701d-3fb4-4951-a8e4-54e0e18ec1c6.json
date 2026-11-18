@@ -1,0 +1,22 @@
+{
+    "round_id": "1c05701d-3fb4-4951-a8e4-54e0e18ec1c6",
+    "draw_title": "FREE TO ENTER - THE CORNISH COMPANY HAMPER - SPEND £5+ TO WIN A £150 TESCO VOUCHER INSTEAD!",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/free-to-enter-the-cornish-company-hamper-spend-ps5-to-win-a-ps150-tesco",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "2cb684b01316d9eff9fa2a31e842583190afbd88f64c689a84aa20a12cba3721",
+    "drand_seed_hash": "a6e672eca8a69b807fdada36a8570929c8313101252b8cbd0f2e70cc353d26308a557615bd66a5828a30a0e14dbb098b",
+    "client_seed": "1795030845451",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3577,
+    "max_tickets": 5000,
+    "combined_hash": "80dc897514d6337d2e5e3bbe01944d2e3b1ba49f92b2367bfff34d36c48c1059",
+    "result": "4153",
+    "external_round_id": "34075829",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T19:40:45.000000Z",
+    "revealed_at": "2026-11-18T19:40:51.000000Z"
+}
