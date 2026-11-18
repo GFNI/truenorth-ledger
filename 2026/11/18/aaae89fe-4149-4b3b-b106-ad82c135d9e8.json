@@ -1,0 +1,22 @@
+{
+    "round_id": "aaae89fe-4149-4b3b-b106-ad82c135d9e8",
+    "draw_title": "Autumn Cash Fall",
+    "competition_url": "https://ecnicompetitions.com/admin/products/autumn-cash-fall",
+    "operator": {
+        "name": "ecni competitions",
+        "website": "https://ecnicompetitions.com",
+        "company_number": "ni726050"
+    },
+    "drand_server_seed": "3abb30f10fbb58eed66e4fef3b9b0671f1a143fcfe3be0e44b31ab8a01579cd2",
+    "drand_seed_hash": "a7b8d3b8c0d94a8cbe84c1c208d80f29fed8b1a76a88d8dc1f5f22e1ae6e04e8332982fb34d6fb4dbc7fcfa27d93b6e2",
+    "client_seed": "1795039649062",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4237,
+    "max_tickets": 10999,
+    "combined_hash": "fc01f6bc3e24b8e8b67d71936f11175c350cf16b6e9a3916785dff393594c101",
+    "result": "8202",
+    "external_round_id": "34078764",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:07:29.000000Z",
+    "revealed_at": "2026-11-18T22:07:36.000000Z"
+}
