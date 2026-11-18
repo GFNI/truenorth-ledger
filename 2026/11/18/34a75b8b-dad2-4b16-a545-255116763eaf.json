@@ -1,0 +1,22 @@
+{
+    "round_id": "34a75b8b-dad2-4b16-a545-255116763eaf",
+    "draw_title": "FREE CONSOLE GIFT CARD",
+    "competition_url": "https://chaotic.co.uk/competition/free-console-gift-card-6511",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "025c8e27030db90e2aad333f01680c1fcdc1fb4a288d7cfb89e2f28234a6075f",
+    "drand_seed_hash": "ab028216e8b91d0f57e4a84831b779e998a55dd6bab4870b4bfce58674a313ae36711022a633e520438ac07afe01a1ed",
+    "client_seed": "1795034526784",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2500,
+    "max_tickets": 2500,
+    "combined_hash": "782d41cad9ceb1e0edc6986946ad0dc0a6449016b5c69dcdf431835a96811778",
+    "result": "1613",
+    "external_round_id": "34077056",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:42:06.000000Z",
+    "revealed_at": "2026-11-18T20:42:12.000000Z"
+}
