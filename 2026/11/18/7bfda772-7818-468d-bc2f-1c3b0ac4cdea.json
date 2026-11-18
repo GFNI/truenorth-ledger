@@ -1,0 +1,22 @@
+{
+    "round_id": "7bfda772-7818-468d-bc2f-1c3b0ac4cdea",
+    "draw_title": "SWIFT DRAM - Bowmore - The Devil's Casks",
+    "competition_url": "https://drawdrop.co.uk/admin/products/bowmore-the-devils-casks",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "e791d6e42e5f698c9c17a98f02c243e60c4b1b7d5f8e543d4718f5bb32105a61",
+    "drand_seed_hash": "94aea438e3ecb845a2b5c8a8f0dfc5d0bbdfc22e40ae99ee4c50b021cf38b4670f4aaa807cf404d3baa075fe8d011481",
+    "client_seed": "1795039974708",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 201,
+    "max_tickets": 666,
+    "combined_hash": "4c2752634087bc06b87c603f9f3f5ca6dc7520f973358deb4ee5be2f1c6ee9bc",
+    "result": "393",
+    "external_round_id": "34078872",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:12:54.000000Z",
+    "revealed_at": "2026-11-18T22:13:00.000000Z"
+}
