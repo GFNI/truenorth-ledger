@@ -1,0 +1,22 @@
+{
+    "round_id": "f15bdfb0-bf75-48f5-a9a2-d6670b90ab0c",
+    "draw_title": "1p Jackpot",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/1p-jackpot",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "bd4c43923aaff7e72b273fadb1d91808104d5e69323ef457a22fb0d36464c449",
+    "drand_seed_hash": "a8f000d7c7341b2cc09458f2a4819b89ba33de19a3cd811ddef8fed07741fb82c69981c2422106adb2bb279239659971",
+    "client_seed": "1795036257088",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 428354,
+    "max_tickets": 1600000,
+    "combined_hash": "5d3074af951781e4f12dd725a56ce7e7d58dd192d649d72be90b9918bad1aaf6",
+    "result": "1227358",
+    "external_round_id": "34077633",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:10:57.000000Z",
+    "revealed_at": "2026-11-18T21:11:03.000000Z"
+}
