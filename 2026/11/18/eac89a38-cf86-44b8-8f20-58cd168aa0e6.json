@@ -1,0 +1,22 @@
+{
+    "round_id": "eac89a38-cf86-44b8-8f20-58cd168aa0e6",
+    "draw_title": "Swatch x Omega Watch OR £180 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/swatch-x-omega-watch-or-ps180-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "1717820ce3018a4d65fafd9b6a090d52553d8a86b649c9c15c4bbe616b308ed1",
+    "drand_seed_hash": "a241fa343a1348e4909ac45d5b94f3e6b69ade01b617e8ccc463930c2a809de6436820c0a3d2fefceb031bfab5ef43f3",
+    "client_seed": "1795040532828",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 350,
+    "combined_hash": "c9cd4f36ef97608e473ab2224150243bfa6676c89626550bc9ebda34b209fc21",
+    "result": "240",
+    "external_round_id": "34079058",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:22:12.000000Z",
+    "revealed_at": "2026-11-18T22:22:22.000000Z"
+}
