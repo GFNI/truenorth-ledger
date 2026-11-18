@@ -1,0 +1,22 @@
+{
+    "round_id": "79e9f803-b887-4463-9682-346fcee57b7d",
+    "draw_title": "WIN £200 FOR 20P!",
+    "competition_url": "https://chancechamps.co.uk/admin/products/win-ps200-for-20p-4",
+    "operator": {
+        "name": "Chance Champs",
+        "website": "https://chancechamps.co.uk",
+        "company_number": "15535004"
+    },
+    "drand_server_seed": "190b911ca78fd1a32e0e8b4350d7be7d2130a707394757e76feb20d36abc5529",
+    "drand_seed_hash": "957fdc8f779aa0a66e8dc628e01baf6dcb1f31beb603bbbb66b9a5504c583846e8194189ebbe6ee92574f6f1d48733ea",
+    "client_seed": "1795032418662",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 637,
+    "max_tickets": 2000,
+    "combined_hash": "f034a0d7791dcc443905fbe7dbd579e5bec1eddc2c40ec8bc58630b171203a49",
+    "result": "753",
+    "external_round_id": "34076354",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:06:58.000000Z",
+    "revealed_at": "2026-11-18T20:07:06.000000Z"
+}
