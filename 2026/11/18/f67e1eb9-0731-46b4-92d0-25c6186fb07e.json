@@ -1,0 +1,22 @@
+{
+    "round_id": "f67e1eb9-0731-46b4-92d0-25c6186fb07e",
+    "draw_title": "COIN FLIP 1 in 3 | Over £20k in prizes with a £500 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/coin-flip-1-in-3-over-ps20k-in-prizes-with-a-ps500-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "6938be3dedac45a48423c2521dd43504018066bcaa130e40f681f1744d4021b2",
+    "drand_seed_hash": "90237951f2ae31b651d5b3d76c9df19616aac0ab238280eaf30b6e07627f0b637bcd5c88cc090751b454147c89836e19",
+    "client_seed": "1795034705699",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2221,
+    "max_tickets": 11742,
+    "combined_hash": "87ab011963306eb894f688a2a5a56465eedb3677ae1d7a4a6b415c57b7d5182d",
+    "result": "9930",
+    "external_round_id": "34077116",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:45:05.000000Z",
+    "revealed_at": "2026-11-18T20:45:12.000000Z"
+}
