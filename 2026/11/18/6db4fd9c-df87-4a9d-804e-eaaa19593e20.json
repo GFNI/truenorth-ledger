@@ -1,0 +1,22 @@
+{
+    "round_id": "6db4fd9c-df87-4a9d-804e-eaaa19593e20",
+    "draw_title": "STRANGER THINGS MYSTERY INSTANT WINNER",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/stranger-things-mystery-instant-winner-2",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "218c6de51200b4fad4ce69a27e15b0526af819138e0ee93d05454084b72c1a45",
+    "drand_seed_hash": "aa5d196d501a50270fadf4fa360a886632c07b69c0fef8665e13d5f23b280b19e7ce21c003c0a612b0fcba9d536bce04",
+    "client_seed": "1795034694983",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 163523,
+    "max_tickets": 10000000,
+    "combined_hash": "f0d3d0ad69e64e6afe77a136167ea46ea42ff9e553e029724f9b1cb806208c53",
+    "result": "6144113",
+    "external_round_id": "34077113",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:44:55.000000Z",
+    "revealed_at": "2026-11-18T20:45:03.000000Z"
+}
