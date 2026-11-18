@@ -1,0 +1,22 @@
+{
+    "round_id": "fe5266e0-0da6-4a38-9145-f3129115a038",
+    "draw_title": "900g of Jelly Beans",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/900g-of-jelly-beans-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "3821a1c7388ef0658e000ce4d67d5ea819035c5eccdabfd9c7d1815801fd80d0",
+    "drand_seed_hash": "906a4786eb381758a123bc3af554173c7e5aed76dcb31de7dbc41721c871f946bc61659b9dd63479e10c7307ccc12e3e",
+    "client_seed": "1795033471274",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 220,
+    "combined_hash": "0d885020273e30f4a5b5098ff01e2bda9e01df2328b33676d5531ec29af73032",
+    "result": "202",
+    "external_round_id": "34076705",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:24:31.000000Z",
+    "revealed_at": "2026-11-18T20:24:39.000000Z"
+}
