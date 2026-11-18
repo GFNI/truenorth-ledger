@@ -1,0 +1,22 @@
+{
+    "round_id": "7eba03ea-d9c4-4768-835f-13f2d7865c6e",
+    "draw_title": "GAMER NERDS! LEVEL UP YOUR GAMING! £50,000 WORTH OF PRIZES!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/gamer-nerds-level-up-your-gaming-ps50000-worth-of-prizes",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "1196cfa450e48358e437525a64878f98b13e6fd8e9b6bfbe24d185af16c85ded",
+    "drand_seed_hash": "ac223d88bd6de346836661f54d74f277d3a749c28cce8d29256b4d9d7c429044afd785c294bac5d83f4316d76dd8147d",
+    "client_seed": "1795034416635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 322564,
+    "max_tickets": 999999,
+    "combined_hash": "8f60ad2bb1ccd53571624b58aa5873b7488463469312570546a9d2aab3df6fa0",
+    "result": "783468",
+    "external_round_id": "34077020",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:40:16.000000Z",
+    "revealed_at": "2026-11-18T20:40:24.000000Z"
+}
