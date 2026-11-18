@@ -1,0 +1,22 @@
+{
+    "round_id": "b2b9bb72-68be-4120-b78d-1339fdc78f65",
+    "draw_title": "A SUITE WIN!",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/a-suite-win",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "4a5415661c984b3f12e9991435e952cccf84a32e78771c1351addd8a7c32d91f",
+    "drand_seed_hash": "b060adb294321b8d038e6dce8e18bcc253629c13558ef63fe84811203c86d2cc1aa4e96407c569de7825817e74d6d208",
+    "client_seed": "1795034872027",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56239,
+    "max_tickets": 400000,
+    "combined_hash": "8b77bbcd14b4c2844267e9216e9a383af60e3323205362cb5fcf17bad183464b",
+    "result": "15116",
+    "external_round_id": "34077172",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:47:52.000000Z",
+    "revealed_at": "2026-11-18T20:48:00.000000Z"
+}
