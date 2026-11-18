@@ -1,0 +1,22 @@
+{
+    "round_id": "af1ae5e4-e336-4a50-97ab-0f02f734ee91",
+    "draw_title": "£400 Shopping Spends",
+    "competition_url": "https://chaotic.co.uk/competition/ps400-shopping-spends",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "ff685e8b81c129f9b779bfde6ca4f9f5112d69329219a6a3a69832c297911511",
+    "drand_seed_hash": "b52118b1d3965b14c508217e07175bfe364c38da8f280a2484919533d60f21d58765fe8a0c4adb06c2b5862aaf1687a1",
+    "client_seed": "1795035244705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "869c9faec39071de046bc8017075055379fc1266bbc11957f7e6759f9ffa1a5a",
+    "result": "66",
+    "external_round_id": "34077296",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:54:04.000000Z",
+    "revealed_at": "2026-11-18T20:54:12.000000Z"
+}
