@@ -1,0 +1,22 @@
+{
+    "round_id": "a87ddc70-f10a-4543-8648-fd50c385e557",
+    "draw_title": "Xbox Series X Plus Cash Instants",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/xboxx",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "5392e9709ce72d16cf0a4b1fb1981bffd7a10ac047b3550cd2aa97d4a0a82eb8",
+    "drand_seed_hash": "b8539e07b8533328b44158c3978f76cba25c83b211056355d8f1dac7d706241cbf25e20b4cff9be5a2d9e14de0c2961e",
+    "client_seed": "1795034922471",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14000,
+    "max_tickets": 14000,
+    "combined_hash": "f6869fb8f76eacd37e391a79bcdec66d2b929bff3a815a9a9f1d3740842f3556",
+    "result": "4519",
+    "external_round_id": "34077188",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:48:42.000000Z",
+    "revealed_at": "2026-11-18T20:48:48.000000Z"
+}
