@@ -1,0 +1,22 @@
+{
+    "round_id": "c22a7eff-f88b-4898-a023-cb7befed343c",
+    "draw_title": "Win £25 worth of tickets into Fox Mini Micron X 3 Rod Alarm Set - 2p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-fox-mini-micron-x-3-rod-alarm-set-2p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "7e1b6f8630aa565d572e514c0ba5fbc9a5ac1d797951cabfd15bf113a153bd29",
+    "drand_seed_hash": "81fb8575f453a572589fc5818c2589488e3e6ae9defaff93a6b5eb10b82219c2fe0ae9fea3adcd86e7f9e02223b6b4f5",
+    "client_seed": "1795025447439",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1400,
+    "max_tickets": 1750,
+    "combined_hash": "ef9db39a9371b299a3b661d30b6b055f1d9ee0eeeb1f5b32c9ebb6fb88386ad9",
+    "result": "890",
+    "external_round_id": "34074030",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T18:10:47.000000Z",
+    "revealed_at": "2026-11-18T18:10:54.000000Z"
+}
