@@ -1,0 +1,22 @@
+{
+    "round_id": "c64f637e-a095-4388-a870-43fec3bed387",
+    "draw_title": "5000 Tickets into £2500 Holiday Voucher",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/5000-tickets-into-ps2500-holiday-voucher",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "9c566e03a465d6f6a8d14b8f3b206b9e711bf88a5938f4b895675bcff45cc292",
+    "drand_seed_hash": "a06a9b9b9ee98ea0904a65453cf679f5cb43c1f943156ced6185b753442f649eb710ca225ff50cdc16d800fc45e84697",
+    "client_seed": "1795032648534",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1936,
+    "max_tickets": 4500,
+    "combined_hash": "8b57a480de42bb26169709813ddd3a64f570f35f33d773b8150a5b4b66542156",
+    "result": "4464",
+    "external_round_id": "34076430",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:10:48.000000Z",
+    "revealed_at": "2026-11-18T20:10:54.000000Z"
+}
