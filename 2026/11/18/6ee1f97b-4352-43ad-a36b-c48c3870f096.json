@@ -1,0 +1,22 @@
+{
+    "round_id": "6ee1f97b-4352-43ad-a36b-c48c3870f096",
+    "draw_title": "THE GRINCH IS IN HULL! + £250 END PRIZE",
+    "competition_url": "https://expcomps.com/admin/products/the-grinch-is-in-hull-ps250-end-prize",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "13b7f4e78179fece59e72c883a46e6f3bb6388d4e9bfc36b9fead445d93831c3",
+    "drand_seed_hash": "9869082b9463569e3e8c37aad6b8317b967f691b424330eb83769c6289ada17b040d6064eab88d28644d50af30715ea3",
+    "client_seed": "1795036827866",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15553,
+    "max_tickets": 39990,
+    "combined_hash": "d239bf120fc350427d0a4790ce35cc16f366d9484e7fb728edd82b5731b37182",
+    "result": "717",
+    "external_round_id": "34077823",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:20:27.000000Z",
+    "revealed_at": "2026-11-18T21:20:33.000000Z"
+}
