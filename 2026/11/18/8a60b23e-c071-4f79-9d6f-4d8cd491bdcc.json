@@ -1,0 +1,22 @@
+{
+    "round_id": "8a60b23e-c071-4f79-9d6f-4d8cd491bdcc",
+    "draw_title": "Odds Booster TAG Aquaracer WIN 20 TICKETS",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/odds-booster-tag-aquaracer-win-20-tickets",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "e582c49bcc1a43bf5a8fa85f0269bb6d52dd8b8db782c8931b404813b354504e",
+    "drand_seed_hash": "8c176c9c18f9b2048aa5d484e2f125018cff57be38bf109b6bdeccd2e382c84bd373329254c795eb2d38680f3cce1b92",
+    "client_seed": "1795040235637",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "f35181f1c99d1b3160582ac1de14945f58c2331c95643a5bc4af4226a62fa9b9",
+    "result": "80",
+    "external_round_id": "34078959",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:17:15.000000Z",
+    "revealed_at": "2026-11-18T22:17:21.000000Z"
+}
