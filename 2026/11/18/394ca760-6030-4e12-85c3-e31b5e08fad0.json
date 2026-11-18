@@ -1,0 +1,22 @@
+{
+    "round_id": "394ca760-6030-4e12-85c3-e31b5e08fad0",
+    "draw_title": "🎅🎁🔑 SANTA’S SECRET STASH 🔑🎁🎅",
+    "competition_url": "https://hiphipprizehub.com/admin/products/santas-secret-stash",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "7db58fc51cd4f4405da6659e49247f1623306cbcdb6a2c1c8e1c38fe1472af1e",
+    "drand_seed_hash": "918536d6ef1663824c825425adf891f29f597f93b154ecd5f79148659a7db7b6b6d075f4269a0dca14d3e30b3ad348a8",
+    "client_seed": "1795037024374",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3000,
+    "max_tickets": 3000,
+    "combined_hash": "239821a20318d68b6d3da1ea80bee98d72561853b515dad0bd056c12440d063d",
+    "result": "1628",
+    "external_round_id": "34077889",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:23:44.000000Z",
+    "revealed_at": "2026-11-18T21:23:51.000000Z"
+}
