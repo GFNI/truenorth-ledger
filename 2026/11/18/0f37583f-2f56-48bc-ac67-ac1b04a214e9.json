@@ -1,0 +1,22 @@
+{
+    "round_id": "0f37583f-2f56-48bc-ac67-ac1b04a214e9",
+    "draw_title": "🎮 Game of Your Choice — ONLY 66 TICKETS! #3 Low Odds Wednesday!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/game-of-your-choice-only-66-tickets-3-low-odds-wednesday",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "fb2d8f15d808b6c907c340d8a7477c4df5c689d9bc7fe93f5321c4a4dc00cdbe",
+    "drand_seed_hash": "aab7d352532e135a50d931f522c7b8016fb24ad9b7d252f64e6a8d85b0277e9cb3ba64fd2570702520600e59e002ed06",
+    "client_seed": "1795040362413",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 66,
+    "combined_hash": "e63fe8b688774b6eb66373a485a8c6f5f6089769bdcba8bc9be0e13192245a79",
+    "result": "63",
+    "external_round_id": "34079001",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:19:22.000000Z",
+    "revealed_at": "2026-11-18T22:19:27.000000Z"
+}
