@@ -1,0 +1,22 @@
+{
+    "round_id": "f4855f9a-3cb9-478d-8b46-8e11f25549a3",
+    "draw_title": "LOW ODDS PLAYSTATION 5 DISC EDITION INCLUDING GTA VI",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/low-odds-ps5-gta",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "90b19dfd6f589ab794a63ad5a55799ea88f7ab12f7a6381770b3178e51c47c14",
+    "drand_seed_hash": "b2369ae99a410c86c19beb133a2c33986ebbb290dfef61862083228b4e7e8991a323bb4c109e75b457637bb8386ebd1e",
+    "client_seed": "1795036584379",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 130,
+    "max_tickets": 130,
+    "combined_hash": "49d6452eb08433e577aa2fb15e8cc8f02eef60784d5d07fb084d8d3f9e25c5ad",
+    "result": "108",
+    "external_round_id": "34077742",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:16:24.000000Z",
+    "revealed_at": "2026-11-18T21:16:30.000000Z"
+}
