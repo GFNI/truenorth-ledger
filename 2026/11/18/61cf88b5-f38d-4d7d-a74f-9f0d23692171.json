@@ -1,0 +1,22 @@
+{
+    "round_id": "61cf88b5-f38d-4d7d-a74f-9f0d23692171",
+    "draw_title": "WIN £100 OF ENTRIES INTO THE MAIN DRAW - BMW M135I XDRIVE",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/win-ps100-of-entries-bmw",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "f6596609d34fe1185701c5c1ed349fd0af77209ebda77a3199bd9d18ad65d812",
+    "drand_seed_hash": "a797d2b0bcebf635a832016c5626888cbb399c843656dcbe107b4d9fa73e54453412536685a4a47efead25a05c1e9a4c",
+    "client_seed": "1795036233581",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 125,
+    "combined_hash": "7ccc64f23f206a4d388da895d836ad7c18bbbcd3fe41bc1e3bb72df455b1b2ca",
+    "result": "96",
+    "external_round_id": "34077625",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:10:33.000000Z",
+    "revealed_at": "2026-11-18T21:10:39.000000Z"
+}
