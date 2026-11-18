@@ -1,0 +1,22 @@
+{
+    "round_id": "dc87823c-ae09-48f5-a57e-756a5f9386f2",
+    "draw_title": "A Fragrance-Filled Christmas - Win a £200 Voucher for The Perfume Shop",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/a-fragrance-filled-christmas-win-a-ps200-voucher-for-the-perfume-shop",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "8f37b257f631ffc7bf7a82b305d3e202c9099044bf53708d4f6e8897b5842411",
+    "drand_seed_hash": "a2d01c10d77f568201980375caeadf56a67d63c5fa8a4319e6b6bf132991acbd6a65d82a0ba527de55b8d8dc8eabaec2",
+    "client_seed": "1795035990013",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 352,
+    "max_tickets": 425,
+    "combined_hash": "b7811251ce4c37e47277a30f25598b5f4817dee6b3fb799b60d45463154ae733",
+    "result": "327",
+    "external_round_id": "34077544",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:06:30.000000Z",
+    "revealed_at": "2026-11-18T21:06:36.000000Z"
+}
