@@ -1,0 +1,22 @@
+{
+    "round_id": "e29200cb-d86a-4ca5-84d0-0510f5824de1",
+    "draw_title": "£500 SMYTHS Toys Gift Card!",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/ps500-smyths-toys-gift-card-2",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "f2d912b0853f7ea1715c37b0a64ec2878b1323bf43f7b8429ebe7020f76a9348",
+    "drand_seed_hash": "922fe70fc78d2ab22280b153123a1db23b9256147595786c14054b1e2a413fe7eb93341a691cfa71a668cbdafa5359b2",
+    "client_seed": "1795032463571",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 699,
+    "max_tickets": 699,
+    "combined_hash": "60d9c61d861e1075602f357f45e5ec17162599ca44ec9bf579b3c956646aa944",
+    "result": "634",
+    "external_round_id": "34076369",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:07:43.000000Z",
+    "revealed_at": "2026-11-18T20:07:51.000000Z"
+}
