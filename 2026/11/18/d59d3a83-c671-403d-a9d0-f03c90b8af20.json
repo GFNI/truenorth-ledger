@@ -1,0 +1,22 @@
+{
+    "round_id": "d59d3a83-c671-403d-a9d0-f03c90b8af20",
+    "draw_title": "APPLE MACBOOK AIR 15-INCH M5 OR £1,200 CASH #2",
+    "competition_url": "https://magmacomps.co.uk/admin/products/apple-macbook-air-15-inch-m5-or-ps1200-cash-2",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "e50d1a0f9aa422ad21aef2b8fd408857474da62e6ff5e5a94e31a8566e6a1bc7",
+    "drand_seed_hash": "b9e21d18a9b3b59db1c503832fadc4482b1f15516c5ee8eeea82665c5e7f747503ca3631ccb1965cbde838a5ee333e56",
+    "client_seed": "1795037014385",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 549,
+    "max_tickets": 999,
+    "combined_hash": "69fe951450c7b9f44db2c371d9f22d4b4d5f5228b477149d0416ff86a4fb1607",
+    "result": "34",
+    "external_round_id": "34077886",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:23:34.000000Z",
+    "revealed_at": "2026-11-18T21:23:42.000000Z"
+}
