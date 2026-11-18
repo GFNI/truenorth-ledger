@@ -1,0 +1,22 @@
+{
+    "round_id": "383c2431-a023-4116-86ab-65017eaf40ba",
+    "draw_title": "GTA 6 & 10 GTA INSTANT WINS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/gta-6-10-gta-instant-wins",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "c378ca8ac52be67bf4b646e2fa8d32a7ab3ca3d81f9ad2dde8f304ecac10c4e2",
+    "drand_seed_hash": "a1c2cdb9a466fa6bc2b7e05ce84dc5b1b4f12d7ab99878c4d74290d3a52da1b855b4ea8d8cc3376ba5de265cabba3c46",
+    "client_seed": "1795036506371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 835,
+    "max_tickets": 1500,
+    "combined_hash": "a2b53544d279bb84aab57a9220bd5fc33c1a82400c87f226d29c3921f5d9e1d9",
+    "result": "1095",
+    "external_round_id": "34077716",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T21:15:06.000000Z",
+    "revealed_at": "2026-11-18T21:15:12.000000Z"
+}
