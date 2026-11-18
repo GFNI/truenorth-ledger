@@ -1,0 +1,22 @@
+{
+    "round_id": "7d8a87e1-282d-4b35-ac2e-9424747a4261",
+    "draw_title": "WIN This Fortnum & Mason \"The Italian Wine Makers\" Hamper",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-this-fortnum-mason-the-italian-wine-makers-hamper",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "1bf2a4a7500ee02d90bb8fbd44e8e108d294f46fb3ab1e0f4473d65786de06a7",
+    "drand_seed_hash": "b65ffdf6b2369154b948ac2680f30f15a17304e6f15474e47f530f3a9af7d50c198a883b57481923865288c9597e9f66",
+    "client_seed": "1795034310001",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 99,
+    "combined_hash": "c484e709db5659c145eeaf23ae3787a5c2bffbf47137007feb964f0327f090c3",
+    "result": "11",
+    "external_round_id": "34076984",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:38:30.000000Z",
+    "revealed_at": "2026-11-18T20:38:36.000000Z"
+}
