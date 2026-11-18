@@ -1,0 +1,22 @@
+{
+    "round_id": "8d880c07-7cbf-490b-8073-eb6e1cbf53a4",
+    "draw_title": "Win GTA 6 on Xbox Series!",
+    "competition_url": "https://retrocompetitions.co.uk/admin/products/win-gta-6-on-xbox-series",
+    "operator": {
+        "name": "Retro Competitions",
+        "website": "https://retrocompetitions.co.uk",
+        "company_number": "15787178"
+    },
+    "drand_server_seed": "8ce96a01ef932f98aa64f13411a88e126be4ade59156e19fadb468e15a984e9f",
+    "drand_seed_hash": "8b07a8920696d58400d05a63181d2ce27cd1da9bbbaabfac3a0fb51ff4208e3f76313b709d8ff32af5d2d8b6e3bdad22",
+    "client_seed": "1795030431075",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1305,
+    "max_tickets": 1499,
+    "combined_hash": "1eac4b418afa8fbd37433ab54a4652b905102421dfd8b96e190ced1fc3d18304",
+    "result": "109",
+    "external_round_id": "34075691",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T19:33:51.000000Z",
+    "revealed_at": "2026-11-18T19:33:57.000000Z"
+}
