@@ -1,0 +1,22 @@
+{
+    "round_id": "8f784873-6e3f-43a9-865d-85f70b166afa",
+    "draw_title": "Prismatic Evolution super premium collection",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/prismatic-evolution-super-premium-collection-6",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "18a348bccef2a01cfbff6e7a59b0bbc3a8eb095a3836439e1b867b489eb70cf4",
+    "drand_seed_hash": "8b0b046bd3dbe913c290fd0b5b1b7ed387af1dd3ed68377651c21b228bd764c4543cfb0b794dad8310a77d21cab6a7e7",
+    "client_seed": "1795039836649",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 330,
+    "max_tickets": 450,
+    "combined_hash": "d3925bd8c060c76061af48f190d108c901324cd97cca4b2e548cdfd3b7d7c58b",
+    "result": "20",
+    "external_round_id": "34078826",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T22:10:36.000000Z",
+    "revealed_at": "2026-11-18T22:10:42.000000Z"
+}
