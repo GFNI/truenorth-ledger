@@ -1,0 +1,22 @@
+{
+    "round_id": "2ffb1302-2211-4cbe-ac14-8156f7638a68",
+    "draw_title": "🍲 New Ninja MultiPot XL Bundle 🍲",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-ninja-multipot-xl-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0c3c0ba475a389e017e46a8cc2626d3289e54070786155969de7dc5ca5744620",
+    "drand_seed_hash": "8a80f5f7cfa1945c8d2a7eab731153d79b56e89522cdc62b34841971c5d7842c162560f5354fc222c55234c9bad32e68",
+    "client_seed": "1795033277044",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 923,
+    "max_tickets": 1225,
+    "combined_hash": "bda0ee051ff2ad067542412a9e060d444c7ca27b7436c0919cb94be94b90d9ca",
+    "result": "898",
+    "external_round_id": "34076640",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:21:17.000000Z",
+    "revealed_at": "2026-11-18T20:21:24.000000Z"
+}
