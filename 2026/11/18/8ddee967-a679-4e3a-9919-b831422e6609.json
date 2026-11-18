@@ -1,0 +1,22 @@
+{
+    "round_id": "8ddee967-a679-4e3a-9919-b831422e6609",
+    "draw_title": "WISH WHEEL WEDNESDAY - ACTIVE PLAYERS ONLY",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/wish-wheel-wednesday-active-players-only-13",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "eee371e2fcc57090ba50e4b097e22a7258b80d5222be7a60b9056737c7dc4e23",
+    "drand_seed_hash": "b99e323e2e1ab67313351fbb6e8dbd1f4de722c3d3a1ac0ecf15168e13a366700eeebde0c06be6bb83a359121480a05a",
+    "client_seed": "1795032709337",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "b0473c78040d9a8a9d34637a92f06cc771c743095e6ea2ce0399a21eefc6c225",
+    "result": "33",
+    "external_round_id": "34076450",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:11:49.000000Z",
+    "revealed_at": "2026-11-18T20:11:54.000000Z"
+}
