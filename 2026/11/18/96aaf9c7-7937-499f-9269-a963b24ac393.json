@@ -1,0 +1,22 @@
+{
+    "round_id": "96aaf9c7-7937-499f-9269-a963b24ac393",
+    "draw_title": "😎 £800 ENTER FOR 70P 😎",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ps800-enter-for-70p-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "70331bf3afa1af00da370673d83f1c25d61e945010ca526c2ed57500e50d8308",
+    "drand_seed_hash": "b6e74933566acc41f047cca8852883bbd4dc1dede3a87cd10a57e0a894a4f99b93a1ebb98dccaf5442f513a46d884550",
+    "client_seed": "1795033654578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1840,
+    "max_tickets": 1840,
+    "combined_hash": "913f86e6c5571b7532ee7126057c9ee9e5d1c65b99e4cb120bdc2cdaa428551b",
+    "result": "1058",
+    "external_round_id": "34076766",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:27:34.000000Z",
+    "revealed_at": "2026-11-18T20:27:42.000000Z"
+}
