@@ -1,0 +1,22 @@
+{
+    "round_id": "6db8feb8-351e-49e8-a1d9-25a19e1c5706",
+    "draw_title": "Win £25 worth of tickets into Trakker Armolife Thermal Coffee Press Mug - 10p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-trakker-armolife-thermal-coffee-press-mug",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "fbac6642a9e4de932bacd6cf0d7ef6cdc59f7b1282992034375d75e77cf3c5bf",
+    "drand_seed_hash": "a188c174a654bd7a9321bbab2888272e575e7bc29c46f68673b735683e5304356faa6441b604fb0147c104bbf8fe212e",
+    "client_seed": "1795025460513",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 122,
+    "max_tickets": 350,
+    "combined_hash": "adecd415da353645afe1545a9f8a0ff73b0fb24b38488f333ce69d3d23edb0d3",
+    "result": "58",
+    "external_round_id": "34074034",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T18:11:00.000000Z",
+    "revealed_at": "2026-11-18T18:11:06.000000Z"
+}
