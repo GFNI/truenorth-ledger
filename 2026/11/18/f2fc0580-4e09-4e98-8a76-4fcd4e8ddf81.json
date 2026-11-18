@@ -1,0 +1,22 @@
+{
+    "round_id": "f2fc0580-4e09-4e98-8a76-4fcd4e8ddf81",
+    "draw_title": "🫧 Spa Day for 2 at The Gleneagles Hotel, Auchterarder 🫧",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/spa-day-for-2-at-the-gleneagles-hotel-auchterarder-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "05b4117c110838fcd379caab258632b710a15b965e70736b69c4a54e856a7dcb",
+    "drand_seed_hash": "921928d9a93837a2363e3f5fc3eb360758bfc10cb9340a481e8b895592ddfc40f830915f4494e1d59a2262ba30bad083",
+    "client_seed": "1795032390977",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1175,
+    "max_tickets": 1175,
+    "combined_hash": "62010ab6ddca326bb495897ba780436b7aef768e9e3fc8a5e3e06dc54b8d1568",
+    "result": "852",
+    "external_round_id": "34076345",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:06:31.000000Z",
+    "revealed_at": "2026-11-18T20:06:39.000000Z"
+}
