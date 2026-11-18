@@ -1,0 +1,22 @@
+{
+    "round_id": "a7d32041-e91a-46ce-9f7b-644c941e1986",
+    "draw_title": "🍎 APPLE 8.5\" iPad Mini (2026) - 256 GB 🍏",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/apple-85-ipad-mini-2026-256-gb",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "03b8fd9da5d95cb29f951dd123ff3f2076c5bf56261ae7188b4fd98074725858",
+    "drand_seed_hash": "a639b8530f0416bbe5a886043635190ee417a37fdace3db2e59a5911cb8d587a1453ce8362fea339f449ac8fc274165d",
+    "client_seed": "1795032908109",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1353,
+    "max_tickets": 1475,
+    "combined_hash": "73c096d237dc05ad0a02cbad9e0ef9a89147dc9f414a0545faeb5fc1fb52d2ae",
+    "result": "978",
+    "external_round_id": "34076517",
+    "processing_status": "completed",
+    "created_at": "2026-11-18T20:15:08.000000Z",
+    "revealed_at": "2026-11-18T20:15:15.000000Z"
+}
