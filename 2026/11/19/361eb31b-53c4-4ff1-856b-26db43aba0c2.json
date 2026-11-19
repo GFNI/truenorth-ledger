@@ -1,0 +1,22 @@
+{
+    "round_id": "361eb31b-53c4-4ff1-856b-26db43aba0c2",
+    "draw_title": "WIN A PDC 2026 Trading Card Collection Collectors Box",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-pdc-2026-trading-card-collection-collectors-box-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "85c5d80d34390082f2322cd07668b210520289e801d1b883f102223f3d8e9270",
+    "drand_seed_hash": "9495f5b830beb57b4de756ccc6fd7a162e329937d3fc5588354d4ca452f03a88bad008d70a63b7af5c0599f6be3fb7b1",
+    "client_seed": "1795120629470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 37,
+    "max_tickets": 80,
+    "combined_hash": "5ddda6f3d2a9466072e82b3b049967ea7ae1077aaff7f09a35894df521818766",
+    "result": "14",
+    "external_round_id": "34105757",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:37:09.000000Z",
+    "revealed_at": "2026-11-19T20:37:15.000000Z"
+}
