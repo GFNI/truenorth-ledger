@@ -1,0 +1,22 @@
+{
+    "round_id": "a764d0d8-f0eb-4ea4-83f8-2e0a3ec124a2",
+    "draw_title": "New Years Eve Kit",
+    "competition_url": "https://rushcompetitions.co.uk/admin/products/new-years-eve-kit",
+    "operator": {
+        "name": "Rush Competitions Ltd",
+        "website": "https://rushcompetitions.co.uk",
+        "company_number": "13689949"
+    },
+    "drand_server_seed": "ceb977fa5dd8683328e7e01026c507e2ff0dd5ba2525b3d52eb3fd48c25451b9",
+    "drand_seed_hash": "942fc5b9fb7e98eb84cc3ad5f19caa3e9d6183196602701f26290c81dd37a35059b3a08035ab82685673f3bb2b2f545d",
+    "client_seed": "1795110228778",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399,
+    "max_tickets": 399,
+    "combined_hash": "24a6a9dab4f513ebb900fa02b597dc3b41bbe4c5623c152a5b2ca010df3f0c93",
+    "result": "368",
+    "external_round_id": "34102290",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T17:43:48.000000Z",
+    "revealed_at": "2026-11-19T17:43:54.000000Z"
+}
