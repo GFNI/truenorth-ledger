@@ -1,0 +1,22 @@
+{
+    "round_id": "50a55481-560a-4f17-b2c3-6cbf79144585",
+    "draw_title": "£333 for 11p",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps333-for-11p",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "1dab3244200d0373da5f1444da6409c867036a6d8493cfe2a541bae1efca2e20",
+    "drand_seed_hash": "ae4ec2093f9f892db24658239626553a1a318da804460aeab403b45376ea986b7d10b69fc590d53ad0c1fe977d225bc6",
+    "client_seed": "1795124911256",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2010,
+    "max_tickets": 4500,
+    "combined_hash": "3e025082c1f841fda9d34008ac809ec056dbf4f9999aad4d714b30334a4d0f44",
+    "result": "1535",
+    "external_round_id": "34107185",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:48:31.000000Z",
+    "revealed_at": "2026-11-19T21:48:39.000000Z"
+}
