@@ -1,0 +1,22 @@
+{
+    "round_id": "f405812c-10dc-4080-bd1a-b189c8bc9ba8",
+    "draw_title": "£100 Cash!",
+    "competition_url": "https://oneluckyday.co.uk/admin/products/ps100-cash",
+    "operator": {
+        "name": "One Lucky Day LTD",
+        "website": "https://oneluckyday.co.uk",
+        "company_number": "16789028"
+    },
+    "drand_server_seed": "a39dc3720635f7261287c09e8689e6b84c2e85269e6b7c46d830e91eed736739",
+    "drand_seed_hash": "a52e50e939eda9e69c9ad439298bd6ffae6da2d03eec2d05a96e150e46337251284534c9bfb34fe5dea6ffde7605a05c",
+    "client_seed": "1795122541457",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 351,
+    "max_tickets": 500,
+    "combined_hash": "1f687eb7d32ca68f6c88005e15f882525fde1c07c70d76c9d4faef730b60c90f",
+    "result": "220",
+    "external_round_id": "34106395",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:09:01.000000Z",
+    "revealed_at": "2026-11-19T21:09:09.000000Z"
+}
