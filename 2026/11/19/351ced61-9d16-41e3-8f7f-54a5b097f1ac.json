@@ -1,0 +1,22 @@
+{
+    "round_id": "351ced61-9d16-41e3-8f7f-54a5b097f1ac",
+    "draw_title": "Animal Kingdom",
+    "competition_url": "https://dreammakerscompetitions.co.uk/admin/products/animal-kingdom-3",
+    "operator": {
+        "name": "Dream Maker Competitions",
+        "website": "https://dreammakerscompetitions.co.uk",
+        "company_number": "NI699917"
+    },
+    "drand_server_seed": "27d076029b6cc82e588f5f916c0db64511a47cab345c8904120bdc10f6988a78",
+    "drand_seed_hash": "8f296464d6112c96340facd4569d67ade9711526c0c7cf3eff1d524e24c53b3f710a2920d6b884953084c4b4a0d7c1ee",
+    "client_seed": "1795122274047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2553,
+    "max_tickets": 30000,
+    "combined_hash": "a523cc60d3f48f706fdc82e5af5958f0a78e4593503eee72c7217c14cc695cbb",
+    "result": "1206",
+    "external_round_id": "34106306",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:04:34.000000Z",
+    "revealed_at": "2026-11-19T21:04:42.000000Z"
+}
