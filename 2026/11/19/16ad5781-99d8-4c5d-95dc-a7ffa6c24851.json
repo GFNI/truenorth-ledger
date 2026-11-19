@@ -1,0 +1,22 @@
+{
+    "round_id": "16ad5781-99d8-4c5d-95dc-a7ffa6c24851",
+    "draw_title": "REINDEER RICHES - FIND A 🦌 TO REVEAL YOUR HIDDEN PRIZE!",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/reindeer-riches-find-a-to-reveal-your-hidden-prize",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "93814d620cd1d9db1695e870c5a22fd5b47a717437f79c1c5d23ff599dd5cb3a",
+    "drand_seed_hash": "9225ec2fe4072c1a2ebc7cabd24e4538309546dc87a0966c3e015541d1df70589a594a92f5df64749f6819fe784dc175",
+    "client_seed": "1795124783863",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8087,
+    "max_tickets": 17500,
+    "combined_hash": "0d29c3979cf0239dad30523fc9743f8872f10efce2f80ac90506d083422963f4",
+    "result": "4646",
+    "external_round_id": "34107142",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:46:23.000000Z",
+    "revealed_at": "2026-11-19T21:46:30.000000Z"
+}
