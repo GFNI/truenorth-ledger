@@ -1,0 +1,22 @@
+{
+    "round_id": "d27584eb-49d7-40a0-b035-e9171fa86034",
+    "draw_title": "FLASH THURSDAY £1,000 CASH - 1 IN 5 CHANCE OF HITTING AN INSTANT!",
+    "competition_url": "https://geardowncompetitions.com/admin/products/flash-thursday-ps1000-cash-1-in-5-chance-of-hitting-an-instant",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "987b6d342c0f43d452cf0548f5d4e294d800afd811e7b5c1d2ebe902a1c1a177",
+    "drand_seed_hash": "91e8fa0c30361f7a65ef9d4a50d42bd2ba9e5ebb6a3a16371af387c50d1424398633eedc213c2823237be57882675c4b",
+    "client_seed": "1795124963548",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 173,
+    "max_tickets": 349,
+    "combined_hash": "396b7f21324caf05f9cb58e38c38250934341f90692a888586b881ff891f2af7",
+    "result": "111",
+    "external_round_id": "34107202",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:49:23.000000Z",
+    "revealed_at": "2026-11-19T21:49:30.000000Z"
+}
