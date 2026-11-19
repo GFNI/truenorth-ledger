@@ -1,0 +1,22 @@
+{
+    "round_id": "cb28b476-515c-47ca-8c99-05ed5aea3028",
+    "draw_title": "THE SCHEME BINGO - INSTANT WINS",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/the-scheme-bingo-instant-wins",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "a45979b8d865b33d06423e503aff95f571186b923967b2faead13b2ee9092061",
+    "drand_seed_hash": "aff47636df3cd2a28c6c94294e582bee9b749d6f34dbbd65c6e0a9310307ab69c5eea2a91da97b96b84e69f2f63fd47f",
+    "client_seed": "1795115434820",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 156354,
+    "max_tickets": 349999,
+    "combined_hash": "1f87a90835b37ee566d1a2d9610f146f1de349700115253491ff03c6799449cb",
+    "result": "78319",
+    "external_round_id": "34104026",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T19:10:34.000000Z",
+    "revealed_at": "2026-11-19T19:10:42.000000Z"
+}
