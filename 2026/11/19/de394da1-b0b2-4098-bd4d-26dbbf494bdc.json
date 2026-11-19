@@ -1,0 +1,22 @@
+{
+    "round_id": "de394da1-b0b2-4098-bd4d-26dbbf494bdc",
+    "draw_title": "🔴WIN 20 ENTRIES INTO THE ROLEX #3",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-20-entries-into-the-rolex-3",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "711a546a20256f3dc672e24450b5da7c36cd97d740ea221473a6a2764e98d115",
+    "drand_seed_hash": "af4083a25f45f8f4c52695dbe468da0232252a63991c4b84ab0fb01fb889e5a2721437e49b577486c4a569c190f03d21",
+    "client_seed": "1795078171973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 230,
+    "max_tickets": 230,
+    "combined_hash": "98b4bd61aeb260f9ce9a6e3f42c854ffb44d610cb8a343fda54598c38da51d66",
+    "result": "229",
+    "external_round_id": "34091605",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T08:49:32.000000Z",
+    "revealed_at": "2026-11-19T08:49:39.000000Z"
+}
