@@ -1,0 +1,22 @@
+{
+    "round_id": "25118908-7309-4478-aedf-1962db423a64",
+    "draw_title": "WIN THIS MACALLAN NIGHT ON EARTH - THE FINALE",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-macallan-night-on-earth-the-finale",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "7bf6907bea1145c601dfe9ca53c0cab4df0c3689b095c4f9939a99fbfe9f1d54",
+    "drand_seed_hash": "8f05ff5bb134e135bf9cbbf428f251e2cb5499d863dd8af30f2eccd535ecf55f336f765a11a580af7a81f2eff5a33dd1",
+    "client_seed": "1795122777529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93,
+    "max_tickets": 199,
+    "combined_hash": "b36a2ef9232ea6dcbe6fc9d6c84c24e8dba207fdb1726cf13e6c0db5180179eb",
+    "result": "39",
+    "external_round_id": "34106473",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:12:57.000000Z",
+    "revealed_at": "2026-11-19T21:13:03.000000Z"
+}
