@@ -1,0 +1,22 @@
+{
+    "round_id": "95905d2a-c960-4129-bda3-5452aa8ef9e2",
+    "draw_title": "Budapest Christmas Market City break",
+    "competition_url": "https://jetcomps.co.uk/admin/products/budapest-christmas-market-city-break",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "db33073c6882f94b43691c7aba08d1ca7a342080a748d8e7c4a26e9e0d6fa4ed",
+    "drand_seed_hash": "868529eb135891de0e27ab60c1b2ed304ec25c31e293bf33b6f8d08b87c9f8c2bb0f59ab83cd8b86aa9de7fe9945c0fe",
+    "client_seed": "1795120252559",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 662,
+    "max_tickets": 1899,
+    "combined_hash": "6ce35175b008d39c17558371b3a807e4f6b785271c856d718ed05d185c3bfec4",
+    "result": "702",
+    "external_round_id": "34105632",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:30:52.000000Z",
+    "revealed_at": "2026-11-19T20:31:00.000000Z"
+}
