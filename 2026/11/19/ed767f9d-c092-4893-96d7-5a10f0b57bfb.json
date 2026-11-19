@@ -1,0 +1,22 @@
+{
+    "round_id": "ed767f9d-c092-4893-96d7-5a10f0b57bfb",
+    "draw_title": "2024 RNLI 200 YEARS 50P SILVER PROOF PIEDFORT COLOUR COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-rnli-200-years-50p-silver-proof-piedfort-colour-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c93e64acfecb77291c09ac32dd894e49fdeb4d55cf8d6f8b3f19bd0419fe28c2",
+    "drand_seed_hash": "a6061ddbf9f301544d26a93bda8de373ed5adbfd020eb6d87ddabc648a98dc69c3425397beefd44fa51d08ff77840557",
+    "client_seed": "1795132551516",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 47,
+    "max_tickets": 100,
+    "combined_hash": "c4c2890b313519d33b2ec1d68912fa59f40182dcace63b55931160fc9694b75b",
+    "result": "69",
+    "external_round_id": "34109731",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T23:55:51.000000Z",
+    "revealed_at": "2026-11-19T23:55:57.000000Z"
+}
