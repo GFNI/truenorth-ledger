@@ -1,0 +1,22 @@
+{
+    "round_id": "77feb2a7-cdd0-4ebb-a9a4-80e1cf2d6c62",
+    "draw_title": "£50 AMAZON VOUCHER",
+    "competition_url": "https://carleycomps.co.uk/admin/products/ps50-amazon-voucher-2",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "28bdc4ed0580de5822ee3947024f6ba1984bd9b6f9c9e06a2347eded209fbb51",
+    "drand_seed_hash": "aa697c1a44d89508b067c67fd886f18a39b327271e1b8d76926b4299c9718de74e317aeb65aa01595084412ac2d7b950",
+    "client_seed": "1795111840219",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 496,
+    "max_tickets": 2500,
+    "combined_hash": "694b5a5026e24f4ada8a732e3118448cac07f9ceee2ff295ca98846b8cbfa531",
+    "result": "2326",
+    "external_round_id": "34102828",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T18:10:40.000000Z",
+    "revealed_at": "2026-11-19T18:10:48.000000Z"
+}
