@@ -1,0 +1,22 @@
+{
+    "round_id": "a82c61a8-c813-4c48-b3a3-44a754f09e2b",
+    "draw_title": "1p Auto Draw - Branded Organiser - Choose Your Brand",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-branded-organiser-choose-your-brand",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "2cf6f084cba730b119ed7b9586e407f1f013c286ce2f2daa649f22851e5d8200",
+    "drand_seed_hash": "a65f5133b9d518f91e4b491765e73eb2b745ae0c6257fce2a2548c7d012eb6d927152235a9b0ec39d3de13cd14cc0bcb",
+    "client_seed": "1795128051921",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12486,
+    "max_tickets": 20000,
+    "combined_hash": "c802f59429d2eeb461102a48973c64521fd7ecc84540b4e1beea271679113a72",
+    "result": "5001",
+    "external_round_id": "34108231",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T22:40:51.000000Z",
+    "revealed_at": "2026-11-19T22:40:57.000000Z"
+}
