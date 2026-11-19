@@ -1,0 +1,22 @@
+{
+    "round_id": "eef22020-f784-4a4c-b120-7372e863f03b",
+    "draw_title": "£250 Mystery Jellycat Bundle 🧸",
+    "competition_url": "https://punterprizes.com/admin/products/ps250-mystery-jellycat-bundle-2",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "bac1253a1aff441d722f06eaf9452a23edd3ac361bb4812fad488e6b53b7c2c7",
+    "drand_seed_hash": "9770e85112fa3dd74ce51fc0e03aa5804edf8e44ca15315bceffa851bb4fd75c08249cf054aefd4138cf9818b1703252",
+    "client_seed": "1795121544436",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13710,
+    "max_tickets": 20000,
+    "combined_hash": "e1f794ca99c4401ad2ccd0fb473a3b7f9315de8292f3672932d883b6bef354d4",
+    "result": "418",
+    "external_round_id": "34106062",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:52:24.000000Z",
+    "revealed_at": "2026-11-19T20:52:30.000000Z"
+}
