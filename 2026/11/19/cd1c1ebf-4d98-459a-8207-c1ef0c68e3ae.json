@@ -1,0 +1,22 @@
+{
+    "round_id": "cd1c1ebf-4d98-459a-8207-c1ef0c68e3ae",
+    "draw_title": "BRUHL BIKE DRYER!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/bruhl-bike-dryer",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "e5ba2703ede0164475067098a268eda8234bc5f8763eb007104c4be9dba6b1c2",
+    "drand_seed_hash": "a5e76082e5eec7185de65f947b2002c49a5160fb3b48bd05b17df0e9e0d5ac03dd05d690a6d03b36ab60611755be8135",
+    "client_seed": "1795122394077",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 149,
+    "combined_hash": "eb2e6a8852b02c75be0758dba9f7a19a8f4fd7627eede767419009a901d658c3",
+    "result": "89",
+    "external_round_id": "34106346",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:06:34.000000Z",
+    "revealed_at": "2026-11-19T21:06:42.000000Z"
+}
