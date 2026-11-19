@@ -1,0 +1,22 @@
+{
+    "round_id": "b3432fcc-aa1b-4cdf-a318-4d4d41a82be6",
+    "draw_title": "FRANKIE'S FIFTY FREEBIE",
+    "competition_url": "https://spookycompetitions.com/admin/products/frankies-fifty-freebie",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "2231cd20f8c0e5117c539c7fdcc65fe097ccd8ab4978e478d30e580ac701160f",
+    "drand_seed_hash": "b5154ca91c977b72a463fb8803a869f6bce711238ad6ecd8269f8629c7c9a23bccadce2104de4d86f057d00ced2c3196",
+    "client_seed": "1795116975132",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97,
+    "max_tickets": 1000,
+    "combined_hash": "5dfecf9be9b951ae7fdaf4a9a02c2656e76a5cc46fb60b00918910ed0f345983",
+    "result": "550",
+    "external_round_id": "34104539",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T19:36:15.000000Z",
+    "revealed_at": "2026-11-19T19:36:21.000000Z"
+}
