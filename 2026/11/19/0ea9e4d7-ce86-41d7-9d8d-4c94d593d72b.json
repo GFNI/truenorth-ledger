@@ -1,0 +1,22 @@
+{
+    "round_id": "0ea9e4d7-ce86-41d7-9d8d-4c94d593d72b",
+    "draw_title": "EVERY TICKET WINS! - UP TO £500 INSTANTLY!",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/every-ticket-wins-up-to-ps500-instantly",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "71cae2513b8f8cc21ef5beb71443bd3f70ef5e733229294962c87a3655a5b0ae",
+    "drand_seed_hash": "a8770baca803c8f084e80895401310cada49b1009ecf60313ebd175ffb1bd4739563c02aabf5e572fb22292a64885ad1",
+    "client_seed": "1795125044380",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6777,
+    "max_tickets": 30000,
+    "combined_hash": "56af5bd7876014a9787e04e9c435261a276c372c1a93efa8b797fc22ffddfcda",
+    "result": "103",
+    "external_round_id": "34107229",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:50:44.000000Z",
+    "revealed_at": "2026-11-19T21:50:51.000000Z"
+}
