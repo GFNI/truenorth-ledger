@@ -1,0 +1,22 @@
+{
+    "round_id": "00271082-5ef8-44aa-b43a-369818ea3516",
+    "draw_title": "Win £10,000 Christmas Cash",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps10000-christmas-cash-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "82a8b90eead2b216c492d0db11bd1aad6e1e7cac706d35026063a803169b5c5d",
+    "drand_seed_hash": "81964412ac5d56410a68bb6513d04850c06c9be006ab28a337607c1487757e6660c2e684c862376867ccf0a00368208a",
+    "client_seed": "1795123094549",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7500,
+    "max_tickets": 7500,
+    "combined_hash": "f658e95e17bceb9b6e681290989df7633683b170fa2712618c289040731b8bf3",
+    "result": "3467",
+    "external_round_id": "34106579",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:18:14.000000Z",
+    "revealed_at": "2026-11-19T21:18:21.000000Z"
+}
