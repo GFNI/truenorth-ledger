@@ -1,0 +1,22 @@
+{
+    "round_id": "d6974c32-016b-4b84-9f03-57245ee43e3e",
+    "draw_title": "1p Auto Draw - Win ALL 3 Lego Advent Calendars",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-win-all-3-lego-advent-calendars",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "28e8ddce2f434783fe8551149c053b2f57b74014efd1b37cfdc8985f675f063c",
+    "drand_seed_hash": "b7acbf8d1c959110eaf41ad9b4741db25b711b7a9f29e89c3bc433efea1fb4b6ca95e0b91e7e8744562cf12b3b25437b",
+    "client_seed": "1795128063505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10640,
+    "max_tickets": 20000,
+    "combined_hash": "85453635aa47cdef7ef8e794b951bd79aeae9a51dd68fc24826ad38048bc98d1",
+    "result": "9190",
+    "external_round_id": "34108235",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T22:41:03.000000Z",
+    "revealed_at": "2026-11-19T22:41:09.000000Z"
+}
