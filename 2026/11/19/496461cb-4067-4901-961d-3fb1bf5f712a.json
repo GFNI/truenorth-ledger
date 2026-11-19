@@ -1,0 +1,22 @@
+{
+    "round_id": "496461cb-4067-4901-961d-3fb1bf5f712a",
+    "draw_title": "Snowball Slalom ❄️",
+    "competition_url": "https://punterprizes.com/admin/products/snowball-slalom",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "b5cdd1175931d973524a38520d3bbf85255347f470e5bf37b53593b7aaaf30a5",
+    "drand_seed_hash": "a3ac5f3f2a486552140ee1ca432439af1fee4a6d5279a62bcd7644bf5aa3691489d0dafb63e0ee67d197bb6b9ddfbc0d",
+    "client_seed": "1795121596876",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125000,
+    "max_tickets": 125000,
+    "combined_hash": "67bdf41678df758a8577c463dbb206c2b499273d08cdf1619412b4040d11f044",
+    "result": "13024",
+    "external_round_id": "34106080",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:53:16.000000Z",
+    "revealed_at": "2026-11-19T20:53:24.000000Z"
+}
