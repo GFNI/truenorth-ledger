@@ -1,0 +1,22 @@
+{
+    "round_id": "15948a52-7f44-4fda-a35b-9d7a23b00cf4",
+    "draw_title": "KIDS 3D PRINTER",
+    "competition_url": "https://daydreamdraws.co.uk/admin/products/kids-3d-printer",
+    "operator": {
+        "name": "Daydream Draws Ltd",
+        "website": "https://daydream.rafflex.uk",
+        "company_number": "SC800000"
+    },
+    "drand_server_seed": "89b40185b1ea8b2f2c3816409203e2e870afb4d68a65546b52a144ea9021434f",
+    "drand_seed_hash": "95aa65beab26ad6b252540bdd6b735e5d2f128ba25abfc9a2491744e7339320b996936af481da1959f9615aa78371e98",
+    "client_seed": "1795122626540",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 237,
+    "max_tickets": 399,
+    "combined_hash": "5ba3e0e3de2fc8f2938abb2c84c4cf31bb630f4fca2275f48d3d2b1e29579fe6",
+    "result": "145",
+    "external_round_id": "34106423",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:10:26.000000Z",
+    "revealed_at": "2026-11-19T21:10:33.000000Z"
+}
