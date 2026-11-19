@@ -1,0 +1,22 @@
+{
+    "round_id": "47e5edca-9938-4c27-b700-6002ea21bab2",
+    "draw_title": "WIN BRAND NEW HULK 2026 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-brand-new-hulk-2026-darts-12",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "4daa62860eef18d495a89c8e759b1c63af73c723f2c4468caec1e8d37903c044",
+    "drand_seed_hash": "9772475da844c66626513fffa0d525a76aa3a2001d04844c4dc5b17623c23ee87e1d9fa16fe2c129cf8ad13259cc629b",
+    "client_seed": "1795120832537",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 180,
+    "combined_hash": "13f040015416a621e36c11c9789a6f77778e54163e2c9fb72782df9cf746a841",
+    "result": "160",
+    "external_round_id": "34105825",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:40:32.000000Z",
+    "revealed_at": "2026-11-19T20:40:39.000000Z"
+}
