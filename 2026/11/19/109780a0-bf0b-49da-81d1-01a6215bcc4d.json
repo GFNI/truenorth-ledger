@@ -1,0 +1,22 @@
+{
+    "round_id": "109780a0-bf0b-49da-81d1-01a6215bcc4d",
+    "draw_title": "Battleships",
+    "competition_url": "https://jetcomps.co.uk/admin/products/battleships",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "6667ad609a4f1f05acb91e9398d65e9ca02582a4407480137ba34e269bf806c2",
+    "drand_seed_hash": "adc6474127a0ce53ffa556b6c41e6677e2a0de765be931a6c73867daf25d694b2c6c6bb383207ca7d5704b26f6ce34d3",
+    "client_seed": "1795119758705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 218867,
+    "max_tickets": 700000,
+    "combined_hash": "bcb1f07be4bbb565643eb0f8dfbdd6cda7de97be5fa5580f330ba342bdb56df0",
+    "result": "371709",
+    "external_round_id": "34105467",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T20:22:38.000000Z",
+    "revealed_at": "2026-11-19T20:22:45.000000Z"
+}
