@@ -1,0 +1,22 @@
+{
+    "round_id": "351de6b2-eb26-48e7-a7ce-0fe7895a525f",
+    "draw_title": "£5K TERRY IN THE HAT - 1 IN 6 CHANCE OF HITTING AN INSTANT WIN",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps5k-terry-in-the-hat-1-in-6-chance-of-hitting-an-instant-win",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1e8073f69f93f8abec0e1422285421321459ded0255c86c28819b61fb3b68d0b",
+    "drand_seed_hash": "a14f5b9bf85d77f3715be848ec93d5447b600bab9109fbb06ee3bbfbec2b8bef943e6078b3b3471c4ad87905dd669b4b",
+    "client_seed": "1795124458693",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31876,
+    "max_tickets": 84999,
+    "combined_hash": "7ad64be6c2433ff5f666ddb09afa01401891316a5358dd703ac210a54628a45f",
+    "result": "15243",
+    "external_round_id": "34107034",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T21:40:58.000000Z",
+    "revealed_at": "2026-11-19T21:41:06.000000Z"
+}
