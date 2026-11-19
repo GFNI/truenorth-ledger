@@ -1,0 +1,22 @@
+{
+    "round_id": "f7da16b6-e82d-45d3-a57a-7f1e1bde564d",
+    "draw_title": "2024 RNLI 200 YEARS SILVER PROOF COLOUR 50P",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2024-rnli-200-years-silver-proof-colour-50p",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "0c9443b3e01712024a074ed09779cdbaf9286f99227bd1b64bfca6c681d558ed",
+    "drand_seed_hash": "b983baa517dcf186655caaf21da281a3ef4bc07332fc5602f319334184ac2733d35c1dcab6b758e2d60d06abee91f290",
+    "client_seed": "1795132545843",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45,
+    "max_tickets": 100,
+    "combined_hash": "a662fc366adff86236a0be95ffefa51f7d7b227121afdd3e90d894bc53b83410",
+    "result": "91",
+    "external_round_id": "34109729",
+    "processing_status": "completed",
+    "created_at": "2026-11-19T23:55:45.000000Z",
+    "revealed_at": "2026-11-19T23:55:51.000000Z"
+}
