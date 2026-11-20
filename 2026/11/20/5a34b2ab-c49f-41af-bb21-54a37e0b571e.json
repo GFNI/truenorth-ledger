@@ -1,0 +1,22 @@
+{
+    "round_id": "5a34b2ab-c49f-41af-bb21-54a37e0b571e",
+    "draw_title": "OMC HEIST 3 ROD POD END DRAW + INSTANT WINS",
+    "competition_url": "https://carpgeargiveaways.co.uk/admin/products/omc-heist-3-rod-pod-end-draw-instant-wins",
+    "operator": {
+        "name": "Carp Gear Giveaways Ltd",
+        "website": "https://carpgeargiveaways.co.uk",
+        "company_number": "12385280"
+    },
+    "drand_server_seed": "f430229a3465b90cdd9dda2e402f4acccc384294415f7e772b9ba3d0e6e59177",
+    "drand_seed_hash": "a9dfe4a56459f56b07137a5f4dba2ecc378b94e04b081cf40f9269528161cdb0c66a03835b44479b990bbd29ea5dbe24",
+    "client_seed": "1795176650221",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1317,
+    "max_tickets": 2800,
+    "combined_hash": "4faefa8ce7b69a0b673035699402fd4648993104c77bc2788bd6d2fd67f34182",
+    "result": "464",
+    "external_round_id": "34124431",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T12:10:50.000000Z",
+    "revealed_at": "2026-11-20T12:10:57.000000Z"
+}
