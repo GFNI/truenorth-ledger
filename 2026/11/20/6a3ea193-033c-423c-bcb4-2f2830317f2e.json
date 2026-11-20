@@ -1,0 +1,22 @@
+{
+    "round_id": "6a3ea193-033c-423c-bcb4-2f2830317f2e",
+    "draw_title": "WIN - PAUL MEYER PRECISE180 DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-paul-meyer-precise180-darts-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "0e7ce9ae8ded87bc72b00ea625911c4b4b9fed27f94ee6b8776487ba45f536b7",
+    "drand_seed_hash": "b5fde53980a2c12e20a1a7f008a724bd5a2a85370ba0e44bc804ebeace8f73231ebc14cd40e24d7ec26e84b3406bafbe",
+    "client_seed": "1795214430526",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 89,
+    "max_tickets": 160,
+    "combined_hash": "98af41c8947212c565bcf71eadc2c290fcc6055927648546f6ce32f35e2402d0",
+    "result": "153",
+    "external_round_id": "34137024",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:40:30.000000Z",
+    "revealed_at": "2026-11-20T22:40:36.000000Z"
+}
