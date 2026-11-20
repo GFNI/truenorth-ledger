@@ -1,0 +1,22 @@
+{
+    "round_id": "fba2c8c0-6c36-4289-87f9-194f9b3a13b1",
+    "draw_title": "*BRAND NEW* SCOLIA FLOW DARTBOARD",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-scolia-flow-dartboard",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "e2829d07c63db6579f252e3e5ef05015005cb15bda74a00b31b5d7cf941a2cf2",
+    "drand_seed_hash": "a62d9182f2da5c565c90e989c4b38e509d4b6eeb65fa304f3154266849132b059b9adbdc1a6834f8295b0dde0585b878",
+    "client_seed": "1795207236657",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 100,
+    "combined_hash": "a95a00e4ebbb32d673f57836d2800312c9543d625430fc34829a9ee2268c0dc5",
+    "result": "58",
+    "external_round_id": "34134626",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T20:40:36.000000Z",
+    "revealed_at": "2026-11-20T20:40:42.000000Z"
+}
