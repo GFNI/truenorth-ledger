@@ -1,0 +1,22 @@
+{
+    "round_id": "6037effd-c0a5-4c3d-be76-73dbd8dbd917",
+    "draw_title": "*BRAND NEW* TARGET MARVEL HULK DARTS",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-target-marvel-hulk-darts",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "07cebf490685837666c3358e443b79621b0616bb0429960d9d9d453d72f5b3f8",
+    "drand_seed_hash": "b769125d117374a2a171fbd5f461ce93e46605588efae7cda7e40fef89b07735acc70203023cfeee3efe703a2a450cb7",
+    "client_seed": "1795207483342",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 191,
+    "max_tickets": 300,
+    "combined_hash": "e3a3c8d40c560b2a8f57ded5531b92ac111ebdf326a1bb2a0d582d8f552e0ec4",
+    "result": "248",
+    "external_round_id": "34134709",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T20:44:43.000000Z",
+    "revealed_at": "2026-11-20T20:44:51.000000Z"
+}
