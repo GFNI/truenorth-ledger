@@ -1,0 +1,22 @@
+{
+    "round_id": "6de7b340-a0ee-493c-ac56-f648d1839be4",
+    "draw_title": "⚡ Pokémon 30th ETB OR Prismatic Evolutions ETB — PRIZE OF CHOICE AUTO DRAW!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-30th-etb-or-prismatic-evolutions-etb-prize-of-choice-auto-draw",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "0f18e798103f7d2216b290c05b374144d7a9718be34af3baaa5c8533aedc6d47",
+    "drand_seed_hash": "928ab37a149a61d812c39ed48b22f8c209d6e152b653a023d6bf571a072dc7eb34a5b90edcffe886164b29e94ea2ccc6",
+    "client_seed": "1795212618635",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 175,
+    "combined_hash": "dd5f9ded953d8cecec1d3e5126d6829e0eb1df11f238691fa79e63b45c1be6a7",
+    "result": "61",
+    "external_round_id": "34136420",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:10:18.000000Z",
+    "revealed_at": "2026-11-20T22:10:24.000000Z"
+}
