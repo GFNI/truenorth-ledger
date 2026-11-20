@@ -1,0 +1,22 @@
+{
+    "round_id": "37ed3dfa-41fc-4cd8-8e80-7e67dccea191",
+    "draw_title": "LOW ODDS - Win a £1,000 Golden Ticket Into Range Rover Autobiography or £24,000 Cash Main #5",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/low-odds-win-a-ps1000-golden-ticket-into-range-rover-autobiography-or-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "86dd0d23dc97619114545dcdb08c42759dbd8b07fd645036d853f418ae2f3bd1",
+    "drand_seed_hash": "b09e9a914127ad89357e95e8b4933bf18a25618b3ca6619b7bfbde95b1c37d0611f6e5a1a4a342c5df06867f7ae61705",
+    "client_seed": "1795209498636",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54,
+    "max_tickets": 100,
+    "combined_hash": "a43c0c8d9084e5c97057d18a5c373399661488cdcc2373a9963c93c4a557f7c7",
+    "result": "13",
+    "external_round_id": "34135380",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:18:18.000000Z",
+    "revealed_at": "2026-11-20T21:18:24.000000Z"
+}
