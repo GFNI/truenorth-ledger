@@ -1,0 +1,22 @@
+{
+    "round_id": "469545d9-df48-44cc-90fe-fb07b8dbfc98",
+    "draw_title": "Penny The Elf £100 Cash",
+    "competition_url": "https://ogcompetitions.co.uk/lists/penny-the-elf-ps100-cash",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "30b86984d1093bba3017dae199d8f762ab12469f17fd03875aaaba4cac24df55",
+    "drand_seed_hash": "9484717c086cf7395cc240398ffb8f560e73e8acf08f4ddba684332b698b230cf0b019d99eaa2c483867a483914320db",
+    "client_seed": "1795212538687",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 485000,
+    "combined_hash": "f7be92157165c3a0de65d65de6e6d2f6e924e201f862ee543af9dd1e5fb4a823",
+    "result": "128680",
+    "external_round_id": "34136394",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:08:58.000000Z",
+    "revealed_at": "2026-11-20T22:09:08.000000Z"
+}
