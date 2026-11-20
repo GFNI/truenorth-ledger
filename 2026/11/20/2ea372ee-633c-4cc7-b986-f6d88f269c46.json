@@ -1,0 +1,22 @@
+{
+    "round_id": "2ea372ee-633c-4cc7-b986-f6d88f269c46",
+    "draw_title": "WIN - UNICORN ARMOURED DARTS - NEW RELEASE - WINNERS CHOICE (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-unicorn-armoured-darts-new-release-winners-choice-auto-draw",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "3afa5aaf337d5e0e27cd741c1d82eab943ab83c1649ea04c28200dc3ca790276",
+    "drand_seed_hash": "8719cae5ed34d3f3db3fc5b5bd8f4f6c73913ca994d68231d41ed2b638ad337bec38ebfe25fff26b6d8a7388bbda70ba",
+    "client_seed": "1795214496543",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 120,
+    "max_tickets": 200,
+    "combined_hash": "28e0f738f21b1f3a719337fee9117823a67fd0a6d866d2a79569fbb945dcc437",
+    "result": "73",
+    "external_round_id": "34137046",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:41:36.000000Z",
+    "revealed_at": "2026-11-20T22:41:42.000000Z"
+}
