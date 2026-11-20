@@ -1,0 +1,22 @@
+{
+    "round_id": "67f1b939-3e45-42b5-900a-7e04d799e07d",
+    "draw_title": "Giorgio Armani - I WIll GIft Set",
+    "competition_url": "https://thecashkings.co.uk/admin/products/giorgio-armani-i-will-gift-set",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "972472962bb59f996d67eb5f611f329bf767b478ee003e943a6c42e6df4d285e",
+    "drand_seed_hash": "a0a6355a4fd70118a81114b87529077cfb582a387870ea5db798b162b0c01251fa9caf6f32862659dc22f795a62e3a83",
+    "client_seed": "1795197630373",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 600,
+    "max_tickets": 600,
+    "combined_hash": "3c300e8615425c28a2a5da5c3ba092e54479352aa01556f1ff715376340e3f17",
+    "result": "197",
+    "external_round_id": "34131424",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T18:00:30.000000Z",
+    "revealed_at": "2026-11-20T18:00:36.000000Z"
+}
