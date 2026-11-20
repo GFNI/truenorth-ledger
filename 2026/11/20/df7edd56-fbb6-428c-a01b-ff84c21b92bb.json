@@ -1,0 +1,22 @@
+{
+    "round_id": "df7edd56-fbb6-428c-a01b-ff84c21b92bb",
+    "draw_title": "The Elves' Mysterious Prizes - £200 Autodraw + Instawin up to £500",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/the-elves-mysterious-prizes-ps200-autodraw-instawin-up-to-ps500",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "8e72baa2e2f02c0d74ffebc508206560878703654e088abb3d199de5ef0becfd",
+    "drand_seed_hash": "ab446257fe00777c9c9852630a3953ea7862d82824e3cc9f63e8a712cf3fe2e4ada9ea97105dd5852acde5ccbee85913",
+    "client_seed": "1795206043935",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 56662,
+    "max_tickets": 75000,
+    "combined_hash": "d2885caf25bfbe14617c722e3300236d855c3ab9aacbadc3614c594147711612",
+    "result": "52139",
+    "external_round_id": "34134229",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T20:20:43.000000Z",
+    "revealed_at": "2026-11-20T20:20:51.000000Z"
+}
