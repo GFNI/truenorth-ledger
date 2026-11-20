@@ -1,0 +1,22 @@
+{
+    "round_id": "f7a88878-452c-4ffe-8fa5-1c97a0e71395",
+    "draw_title": "The M&S Christmas Collection Hamper",
+    "competition_url": "https://geardowncompetitions.com/admin/products/the-ms-christmas-collection-hamper",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "0869de4748b6bd1d87a4d39f090ad00a33e7d956d18e39358cfddbda52669056",
+    "drand_seed_hash": "b7ec5deadf830d0d901a4f950a5430be91a60b64dfc933c68fb9d382c07230db698d01ff887cabcb6c77f63e3b905249",
+    "client_seed": "1795212760037",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 752,
+    "max_tickets": 1299,
+    "combined_hash": "18779b14cf578ed7309750fe49eff1a6ed74b5075e2d9d306c772891329e5651",
+    "result": "142",
+    "external_round_id": "34136468",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:12:40.000000Z",
+    "revealed_at": "2026-11-20T22:12:48.000000Z"
+}
