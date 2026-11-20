@@ -1,0 +1,22 @@
+{
+    "round_id": "9a77e57c-a465-4f6e-905f-4256b8ed7827",
+    "draw_title": "MIDDAY MADHOUSE 🤯- WIN Precise 180 Bela V2 Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/midday-madhouse-win-precise-180-bela-v2-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "2d036ad73e09e58bdf30ce6b4c3ff6524ef0a208f3431c923c4bfa69febd1dc4",
+    "drand_seed_hash": "b259b5b380114d05f167af4d3eac51cf4948dd2d45f321ca01a88281d52797a23e4cac5aa4b6e1918323bcc6107b5bab",
+    "client_seed": "1795176613481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 258,
+    "max_tickets": 310,
+    "combined_hash": "5160fd8f6e6e20e08b4e87324be716941e3f63a795a00ae5e6d593a25c36e0a5",
+    "result": "234",
+    "external_round_id": "34124419",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T12:10:13.000000Z",
+    "revealed_at": "2026-11-20T12:10:21.000000Z"
+}
