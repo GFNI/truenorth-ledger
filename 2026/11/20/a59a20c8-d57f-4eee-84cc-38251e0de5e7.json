@@ -1,0 +1,22 @@
+{
+    "round_id": "a59a20c8-d57f-4eee-84cc-38251e0de5e7",
+    "draw_title": "WIN RYAN'S LUCKY ROCK",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-ryans-lucky-rock",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "57a0b8485c89cea48100ffdf0e58bf5128e511541bfc2e3d0bf1a2c461b00290",
+    "drand_seed_hash": "aae61fb6aee3a7c1336c9f9bb56f2ca2a7d9995aeed54758caa5f8222d05202a99194abcd57545d12b3306090de4accb",
+    "client_seed": "1795180732085",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 30000,
+    "max_tickets": 30000,
+    "combined_hash": "03aec515489f65a123fa5e9408bdb32545262307563fc56730eca6e6bef206ea",
+    "result": "26676",
+    "external_round_id": "34125791",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T13:18:52.000000Z",
+    "revealed_at": "2026-11-20T13:18:57.000000Z"
+}
