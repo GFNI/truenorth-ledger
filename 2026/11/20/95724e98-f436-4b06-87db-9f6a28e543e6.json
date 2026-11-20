@@ -1,0 +1,22 @@
+{
+    "round_id": "95724e98-f436-4b06-87db-9f6a28e543e6",
+    "draw_title": "15K BINGO BELLS",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/15k-bingo-bells",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "7a82f40658e1637708c6681293f4e7a3ed5ffc2035d709dd3da4560377192a18",
+    "drand_seed_hash": "ad445b48c12e8c5b37b65b251d29ccd3166ef5b17069a17d5c71e62428c0f4e23266730720234a56fd61d86ce4570016",
+    "client_seed": "1795208903226",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 23157,
+    "max_tickets": 120000,
+    "combined_hash": "e4eab3ffa86bc458212fc7fc15dba01f496fe52f109f3c65a4af6822a3c8f211",
+    "result": "101157",
+    "external_round_id": "34135182",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:08:23.000000Z",
+    "revealed_at": "2026-11-20T21:08:30.000000Z"
+}
