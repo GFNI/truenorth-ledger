@@ -1,0 +1,22 @@
+{
+    "round_id": "afee5520-87a3-4252-a7d3-b3618c184b49",
+    "draw_title": "25K DOMINO DROP",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/25k-domino-drop",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "1db89167aa42e83b17251c047d5a54f9abd2dd7a1af74a065ee4c07bccb9d4d2",
+    "drand_seed_hash": "b3f9424a8bf683cd3a058a8f801bdaa25bae3f31be202d082fb91d54b3a65ddfd55cfc56dd2240314a049eb804314629",
+    "client_seed": "1795208747880",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50889,
+    "max_tickets": 520000,
+    "combined_hash": "fdd6d156bb029449a44c041bf14ba9fc4d5bd161cb33e3b23f1c18934c772f8c",
+    "result": "72638",
+    "external_round_id": "34135130",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:05:47.000000Z",
+    "revealed_at": "2026-11-20T21:05:54.000000Z"
+}
