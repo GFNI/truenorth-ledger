@@ -1,0 +1,22 @@
+{
+    "round_id": "f87c1c95-8358-4af9-a772-36fb8b64b624",
+    "draw_title": "Win a set of Rogue alloys and tyres!",
+    "competition_url": "https://vanlifecompetitions.co.uk/admin/products/win-a-set-of-rogue-alloys-and-tyres-9828",
+    "operator": {
+        "name": "Van Life Competitions Ltd",
+        "website": "https://vanlifecompetitions.co.uk",
+        "company_number": "14464473"
+    },
+    "drand_server_seed": "f9bfc0659afd66f9886cb76ad3870b202b8311dc596ab084cdde7014242a932e",
+    "drand_seed_hash": "97078b72320c10b185f16e30cb21f7860d2ed637859aa0feefcff5a9150ce37da8b055143071289c032ce3e4de6a59ac",
+    "client_seed": "1795209061536",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1257,
+    "max_tickets": 2299,
+    "combined_hash": "bd5cca63a9576048a374cb87b7fabf4749ebd9a80aac11633e02322b26168f7b",
+    "result": "1030",
+    "external_round_id": "34135235",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:11:01.000000Z",
+    "revealed_at": "2026-11-20T21:11:09.000000Z"
+}
