@@ -1,0 +1,22 @@
+{
+    "round_id": "7ed7e459-3d08-464c-904b-88f08a7f50f0",
+    "draw_title": "Penny Pearls + £100 End Prize",
+    "competition_url": "https://starcompetition.co.uk/admin/products/penny-pearls-ps100-end-prize",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "bb115d32a573f6823bd33a1bbcbc21655386f39ea77a363c60ace2419b3bb225",
+    "drand_seed_hash": "86fbcb2e677980d0f8f5cfee376f1887f0e04696efbea9f883bd08aa2e1295e4b9de08aa0b29b79ca58574a61100d2bb",
+    "client_seed": "1795198247958",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 299760,
+    "max_tickets": 1000000,
+    "combined_hash": "2d249978a5810f48c5dc1451f8afe87d18518e335efdb8ae3c9aa7de12c63c90",
+    "result": "302190",
+    "external_round_id": "34131630",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T18:10:47.000000Z",
+    "revealed_at": "2026-11-20T18:10:54.000000Z"
+}
