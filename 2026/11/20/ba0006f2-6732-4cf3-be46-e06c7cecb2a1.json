@@ -1,0 +1,22 @@
+{
+    "round_id": "ba0006f2-6732-4cf3-be46-e06c7cecb2a1",
+    "draw_title": "Penny For The Guy",
+    "competition_url": "https://luckypupprizes.co.uk/admin/products/penny-for-the-guy",
+    "operator": {
+        "name": "Lucky Pup Prizes Limited",
+        "website": "https://luckypupprizes.co.uk",
+        "company_number": "16808618"
+    },
+    "drand_server_seed": "fc1324806371f3be74864d3bb1c8b96faf353d0dd5a533c989a05e083e8b9725",
+    "drand_seed_hash": "85f12608c510c3d736518bafe8df63f8e181e596336ad04a8cd65e9d1d672d8f0d7f2f72c20fc95b460886a53130c600",
+    "client_seed": "1795209667607",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "25441c32f0ebe7fde88d402d21885f406cdba61064a5a5350d3f17f4e6538c1e",
+    "result": "714094",
+    "external_round_id": "34135437",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:21:07.000000Z",
+    "revealed_at": "2026-11-20T21:21:15.000000Z"
+}
