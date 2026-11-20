@@ -1,0 +1,22 @@
+{
+    "round_id": "ed528d6a-f2a2-48ff-80bc-25fbb15f1837",
+    "draw_title": "30 Entries to Christmas Shopping Vouchers",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-to-christmas-shopping-vouchers",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "08596b5cad59e1f31fbfdea4b77ed340ee4c98bd05de78be929a679b751bb416",
+    "drand_seed_hash": "a14a68c3fd68d6ba21ca3da9a7b0a8a32760f60180b5c0a11e106cf285be8f57eca5aaa0b47fe0f56e96c0c5a35047f2",
+    "client_seed": "1795210297562",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 125,
+    "combined_hash": "e8329cb7bb89de2945ad81b166039a9b84124ef0e6dd1e63fb548f12a62a6c2b",
+    "result": "52",
+    "external_round_id": "34135647",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:31:37.000000Z",
+    "revealed_at": "2026-11-20T21:31:45.000000Z"
+}
