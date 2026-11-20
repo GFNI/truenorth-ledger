@@ -1,0 +1,22 @@
+{
+    "round_id": "e5c026ab-de5e-41b5-86ae-791399c3c5b1",
+    "draw_title": "PS5 + GTA 6 — Free Draw",
+    "competition_url": "https://winraff.co.uk/admin/products/ps5-gta-6-free-draw",
+    "operator": {
+        "name": "Winraff Ltd",
+        "website": "https://winraff.co.uk",
+        "company_number": "16633512"
+    },
+    "drand_server_seed": "bf0c65394d3dbc3ce477c09048c87a25590302e018c8e0b3e02edfb70f24c672",
+    "drand_seed_hash": "b3bd127280805a9061fe6b8e4fef8f63850cdc88518743de045a1dea7b2842b98ead8f7ff5c55a1f9921e792663b5f8d",
+    "client_seed": "1795198256559",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 700,
+    "max_tickets": 1500,
+    "combined_hash": "0587bc76aaabac4e93bb83fd095f938689a12b22465fa12a98fbb92583def7ba",
+    "result": "822",
+    "external_round_id": "34131633",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T18:10:56.000000Z",
+    "revealed_at": "2026-11-20T18:11:03.000000Z"
+}
