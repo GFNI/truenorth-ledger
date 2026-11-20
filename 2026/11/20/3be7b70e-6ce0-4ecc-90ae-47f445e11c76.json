@@ -1,0 +1,22 @@
+{
+    "round_id": "3be7b70e-6ce0-4ecc-90ae-47f445e11c76",
+    "draw_title": "Hot Odds - SIP 1030 Fireball Propane Heater (+ Cash Comp Ticket Instant Wins)",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/hot-odds-sip-1030-fireball-propane-heater-cash-comp-ticket-instant-wins",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "f080028c536b14b69649d936501db44b3f39c2e87d80d33f1d6bd78632b9563d",
+    "drand_seed_hash": "a1a3c774ab715c2e2c1a06fc8ba4493b538100510c18dc373cc76f4876c05cad1c04d532277f9c25cf0d017ac832906a",
+    "client_seed": "1795210650118",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 155,
+    "max_tickets": 500,
+    "combined_hash": "44e8ebf3e96aca99f8c9966d82168ac05c089412dc6580e7609f13d5aceef58e",
+    "result": "409",
+    "external_round_id": "34135764",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:37:30.000000Z",
+    "revealed_at": "2026-11-20T21:37:36.000000Z"
+}
