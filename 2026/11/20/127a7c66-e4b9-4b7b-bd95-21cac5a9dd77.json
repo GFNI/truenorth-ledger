@@ -1,0 +1,22 @@
+{
+    "round_id": "127a7c66-e4b9-4b7b-bd95-21cac5a9dd77",
+    "draw_title": "GHD Gold Hair Straightener and Styler Set",
+    "competition_url": "https://a9competitions.co.uk/admin/products/ghd-gold-hair-straightener-and-styler-set-2",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "084059115e8b4de47b84842c5031b6761dd0ad4c9e679ffdc5aa7a7d1ad71b8a",
+    "drand_seed_hash": "90460b12c6fc277e9f599c8e343b271e6920f1e97ba45d7a23d38ad9cab6519d868a5f0589267132b6979d786e05b6d6",
+    "client_seed": "1795210336480",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 231,
+    "max_tickets": 370,
+    "combined_hash": "2fb3222fdae79888ae4a322ab65d96145e51e6dc5905c802bc0ce6a6637a8bfd",
+    "result": "28",
+    "external_round_id": "34135660",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T21:32:16.000000Z",
+    "revealed_at": "2026-11-20T21:32:24.000000Z"
+}
