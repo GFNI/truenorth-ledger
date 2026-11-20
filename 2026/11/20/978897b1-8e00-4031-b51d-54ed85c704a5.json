@@ -1,0 +1,22 @@
+{
+    "round_id": "978897b1-8e00-4031-b51d-54ed85c704a5",
+    "draw_title": "Who let the Dogs out? And Friends",
+    "competition_url": "https://winandgrin.co.uk/admin/products/who-let-the-dogs-out-and-friends",
+    "operator": {
+        "name": "WINANDGRIN LTD",
+        "website": "https://winandgrin.co.uk",
+        "company_number": "15970727"
+    },
+    "drand_server_seed": "9b573f982c1566e18a66cc376165c0855df2b6f0ed891026a2577e57fd5bb84d",
+    "drand_seed_hash": "883787845a1e72d938f4ba8af422531b52ec9cce148b61b892e6287440afc5b9774a4243a1c8b43de4ce7ef1a966e5c3",
+    "client_seed": "1795206144704",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 45148,
+    "max_tickets": 80000,
+    "combined_hash": "fbf355ee09b51607f72ee676cf766d9a6d94d5a318f70a732bcdc990a51b3efa",
+    "result": "50428",
+    "external_round_id": "34134262",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T20:22:24.000000Z",
+    "revealed_at": "2026-11-20T20:22:30.000000Z"
+}
