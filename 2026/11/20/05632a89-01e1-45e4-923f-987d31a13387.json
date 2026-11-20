@@ -1,0 +1,22 @@
+{
+    "round_id": "05632a89-01e1-45e4-923f-987d31a13387",
+    "draw_title": "FREE TO ENTER - £25 TTG Site Credit - Spend £5+ To Win £150 Cash Instead!",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/free-to-enter-ps25-ttg-site-credit-spend-ps5-to-win-ps150-cash-instead",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "1a36f4194744042e68b0aeac38b7b94a8f44a49d298dc5b03938a59529fb8127",
+    "drand_seed_hash": "b3cd3c944277b471efd9c67e60fe32795e01a1430282adaf460305f14103c8c16bf8213a27adaf6306d0226fbc31bf7d",
+    "client_seed": "1795196425531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3492,
+    "max_tickets": 5000,
+    "combined_hash": "12eab37ff3ec297a1e54f49cf9da069659659403a48dce2f2a7bdb6d3c62c9e4",
+    "result": "2299",
+    "external_round_id": "34131023",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T17:40:25.000000Z",
+    "revealed_at": "2026-11-20T17:40:33.000000Z"
+}
