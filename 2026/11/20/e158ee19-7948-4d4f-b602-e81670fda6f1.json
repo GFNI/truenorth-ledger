@@ -1,0 +1,22 @@
+{
+    "round_id": "e158ee19-7948-4d4f-b602-e81670fda6f1",
+    "draw_title": "WIN Winmau MvG TS-PRO SP Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-winmau-mvg-ts-pro-sp-darts-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "772b9149de5f85f3e6ebe28cdc8cb308a01e35c391456b79a20cab291ec377fd",
+    "drand_seed_hash": "8176c17c11bdeaca88397b7a855ef0e557d657deeb2667e80db67d94e5e79e86a9a8935f7cf4cc6ddf20afa9f5d6212d",
+    "client_seed": "1795212705523",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 130,
+    "combined_hash": "80dd72e17eab61d58e2b2b48a56234afa0a64cde1359a77f5f1cd4923e156654",
+    "result": "59",
+    "external_round_id": "34136449",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:11:45.000000Z",
+    "revealed_at": "2026-11-20T22:11:51.000000Z"
+}
