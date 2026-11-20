@@ -1,0 +1,22 @@
+{
+    "round_id": "b59c5a98-1729-44c6-80cd-edc8068aa01d",
+    "draw_title": "£300 For 3p (Child Draw)",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps300-for-3p-6",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "5a38a8e81c8fcfb480ed5ad97274b400f59bf3745a654fb5e667091e4930ef7d",
+    "drand_seed_hash": "b1b129e5cb213b63fa1dacf50501753f82c49e7d2d9ec6bef15cbd193861dd0f1850e134be82c0d37a9306fc63057419",
+    "client_seed": "1795212735829",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 620000,
+    "combined_hash": "6af526bb9ba3034943ed19c4ec505e6420f2e0b728fbcdd1ead1844cdffa6374",
+    "result": "212587",
+    "external_round_id": "34136459",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T22:12:15.000000Z",
+    "revealed_at": "2026-11-20T22:12:21.000000Z"
+}
