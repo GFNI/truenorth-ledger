@@ -1,0 +1,22 @@
+{
+    "round_id": "2cfc9248-98e5-42b8-881d-db4c8b1656c5",
+    "draw_title": "🔴WIN 25 ENTRIES INTO THE BIRKIN",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/win-25-entries-into-the-birkin",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "be3cccab5b635fc3f85662492d504fb183a646240e337ccf03b6891b60295774",
+    "drand_seed_hash": "95054e9eedd72b2257e3e4c28890757564019c571aef9a1ec7127f78f2c1eb90fd9ed5972bdaa07ef00180d9d8717902",
+    "client_seed": "1795178629292",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "79f9099fe91315d0af033d0f3d583e62073485160b75ca8e09a7b2364de6dba8",
+    "result": "134",
+    "external_round_id": "34125091",
+    "processing_status": "completed",
+    "created_at": "2026-11-20T12:43:49.000000Z",
+    "revealed_at": "2026-11-20T12:43:57.000000Z"
+}
