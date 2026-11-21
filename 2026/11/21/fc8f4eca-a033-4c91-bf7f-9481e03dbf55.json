@@ -1,0 +1,22 @@
+{
+    "round_id": "fc8f4eca-a033-4c91-bf7f-9481e03dbf55",
+    "draw_title": "WIN Mike De Decker V2 R2.5 95% Tungsten Steel Tip Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-mike-de-decker-v2-r25-95-tungsten-steel-tip-darts-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "d286b6dc0048769b54bbdfa94ad57ef5592f2b1ecfed728563010de28d17c100",
+    "drand_seed_hash": "b49eece89123fd5c95cb90bc99b53170d238eb19d38b031213bd38eceff08d1f961c3f50c6a595589285290033177c8c",
+    "client_seed": "1795299117541",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 46,
+    "max_tickets": 125,
+    "combined_hash": "ce7508c2d5b2cb2dd9174f5cf1d2a997f0589fb00d149cd0b09247aa45291efa",
+    "result": "101",
+    "external_round_id": "34165253",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:11:57.000000Z",
+    "revealed_at": "2026-11-21T22:12:03.000000Z"
+}
