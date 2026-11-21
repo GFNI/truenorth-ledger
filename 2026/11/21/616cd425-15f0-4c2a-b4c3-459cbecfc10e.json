@@ -1,0 +1,22 @@
+{
+    "round_id": "616cd425-15f0-4c2a-b4c3-459cbecfc10e",
+    "draw_title": "WIN BUNTING 95K DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-bunting-95k-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "a01165552d89fe76c3b27d17beeee5a33a23ab7ef6fb2d42e5ccd618ec930446",
+    "drand_seed_hash": "a0c630e316f120fc5b63de892187a30f4c16909e76200118de9e5a7899f168c5551ab3668b0b504d0889ab996b2a9238",
+    "client_seed": "1795299087562",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 200,
+    "combined_hash": "d2193408c78c09399b72b916d6da933bc398390a0943024cc3c59629964d6d28",
+    "result": "11",
+    "external_round_id": "34165243",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:11:27.000000Z",
+    "revealed_at": "2026-11-21T22:11:33.000000Z"
+}
