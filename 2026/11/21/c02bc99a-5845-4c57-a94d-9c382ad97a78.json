@@ -1,0 +1,22 @@
+{
+    "round_id": "c02bc99a-5845-4c57-a94d-9c382ad97a78",
+    "draw_title": "Splash The Cash - 10 Winners of £200 Cash - 40 Awesome INSTANT WINS!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/splash-the-cash-10-winners-of-ps200-cash-40-awesome-instant-wins",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "74fcc52fadc1b2e18bd41860659bdfdc0e885267d1523d04d8d7f16bdb31f9f7",
+    "drand_seed_hash": "a0836410ca7481a542dec7ba200692f497ce47675c46c74cb5b1d3bed6959abe833b0fd7047a4517d9cd54e0aebd8454",
+    "client_seed": "1795295451609",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 904,
+    "max_tickets": 2000,
+    "combined_hash": "136809c15b4757e3f459fc2dda1933677183cd8b0abc1e3db44cbad82380b261",
+    "result": "1156",
+    "external_round_id": "34164031",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T21:10:51.000000Z",
+    "revealed_at": "2026-11-21T21:10:57.000000Z"
+}
