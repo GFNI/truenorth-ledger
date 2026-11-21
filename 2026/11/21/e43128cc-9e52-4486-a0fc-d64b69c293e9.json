@@ -1,0 +1,22 @@
+{
+    "round_id": "e43128cc-9e52-4486-a0fc-d64b69c293e9",
+    "draw_title": "WIN SHOT MICHAEL SMITH SERIES II DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-shot-michael-smith-series-ii-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "96c08ef27a258861ad33a32bc1e16b7eeba8a5cdb623769d4c71b607f7249a51",
+    "drand_seed_hash": "b8343dbb40fbeedd39a5fec73fcd22d83a3088039baf16766923cf2077b36dc2b814783f5a57b76c4a27c41bd7dbb521",
+    "client_seed": "1795299099497",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 76,
+    "max_tickets": 145,
+    "combined_hash": "35e6c3aaea7166a82c94c8c2e85864f9c6a09b13da1d0c566049c3bcbda1bb78",
+    "result": "74",
+    "external_round_id": "34165247",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:11:39.000000Z",
+    "revealed_at": "2026-11-21T22:11:45.000000Z"
+}
