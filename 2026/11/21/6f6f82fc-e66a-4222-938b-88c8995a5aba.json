@@ -1,0 +1,22 @@
+{
+    "round_id": "6f6f82fc-e66a-4222-938b-88c8995a5aba",
+    "draw_title": "Mystery Ticket!",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/mystery-ticket",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "7701fd86f878501f33c3f53d404950c65d682bf7d68df055643758337c5e9e37",
+    "drand_seed_hash": "ae4a0e9382673a4ca43f3169da4bb4f669782db7edb3027afa43a94a7b499f56d8b0b919e35d55cf470cad2ea8d514ae",
+    "client_seed": "1795295436860",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6663,
+    "max_tickets": 12500,
+    "combined_hash": "0a701dd2b5dbc2cf7940ed996bc1ca6e7aaf1928aba26aac505842638113fb0c",
+    "result": "7087",
+    "external_round_id": "34164026",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T21:10:36.000000Z",
+    "revealed_at": "2026-11-21T21:10:42.000000Z"
+}
