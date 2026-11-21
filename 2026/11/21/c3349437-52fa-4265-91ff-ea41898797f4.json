@@ -1,0 +1,22 @@
+{
+    "round_id": "c3349437-52fa-4265-91ff-ea41898797f4",
+    "draw_title": "WIN - GERWYN PRICE RD-ULTRA RED DRAGON SWITCH POINT DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-gerwyn-price-rd-ultra-red-dragon-switch-point-darts-auto-draw-3",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "8bd0d84a8f77b14579b416bd555d3079699610a5acc762858f6824f62fb3c347",
+    "drand_seed_hash": "85d70587fcf0e69aa23b97ce67d6f6077edb6c1e321557cb54b7ec8c98e2b6b3590704d5739d8df5e1aaa777b75764e0",
+    "client_seed": "1795300832285",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 165,
+    "max_tickets": 180,
+    "combined_hash": "f8c2eac77de61d9a320b9a2f24247786df6b9c450b5eeeca0a80efab8dd2c060",
+    "result": "81",
+    "external_round_id": "34165825",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:40:32.000000Z",
+    "revealed_at": "2026-11-21T22:40:39.000000Z"
+}
