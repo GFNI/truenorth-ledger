@@ -1,0 +1,22 @@
+{
+    "round_id": "ae03bb15-47e6-4fc9-a0ca-b08f6d0ea081",
+    "draw_title": "Spins and wins ",
+    "competition_url": "https://spinsnwins.co.uk/thanks/627264",
+    "operator": {
+        "name": "Spins and wins",
+        "website": "https://spinsnwins.co.uk/",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "5960a87e0636fa320aa35527251d39ee601d9c7234ed6c46a4e2de4e54e6ef39",
+    "drand_seed_hash": "8e8a132907e6b5eeb148cb48dcb5a7ac14832903f20ff04922c3af48ebbda6fbf1107bc1d9fafcdee3f20d7d7b1e3767",
+    "client_seed": "1795246107212",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 100,
+    "combined_hash": "2302b4c5a4a569df4d38f1ddefcf4a70f9e7eeecfc1b764ec1a7a6379b9473a2",
+    "result": "80",
+    "external_round_id": "34147583",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T07:28:27.000000Z",
+    "revealed_at": "2026-11-21T07:28:37.000000Z"
+}
