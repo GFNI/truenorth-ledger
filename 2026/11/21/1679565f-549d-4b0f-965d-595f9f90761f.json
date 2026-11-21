@@ -1,0 +1,22 @@
+{
+    "round_id": "1679565f-549d-4b0f-965d-595f9f90761f",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into Range Rover Autobiography or £24,000 Cash #4",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-range-rover-5",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "7c08e9dc66df052e4909465c8d3c75d0375a11e505ebf26acca626ae5ed375fd",
+    "drand_seed_hash": "b220de93eebd1568128e144abed3d36af8c774cec337f7b26b29dc8314079702371f99a5a88ba5f20c7aa599261fac5b",
+    "client_seed": "1795295463659",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 140,
+    "max_tickets": 200,
+    "combined_hash": "8abb6372cfe475b65b85efb2b346703c3cb3145218c7d20db837ca2b12001250",
+    "result": "99",
+    "external_round_id": "34164035",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T21:11:03.000000Z",
+    "revealed_at": "2026-11-21T21:11:09.000000Z"
+}
