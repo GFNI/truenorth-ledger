@@ -1,0 +1,22 @@
+{
+    "round_id": "6a47726f-a24f-4f41-8a49-f6d88b75ad8a",
+    "draw_title": "WIN - HAWKEYE KEVIN DOETS TARGET DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-hawkeye-kevin-doets-target-darts-auto-draw-2",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "0705e6d137c891e9630ed13a7405022559a89cdc8aa2d8587d33e4def08db0aa",
+    "drand_seed_hash": "b85c8ac5f79c54ef1d0ca2471df247e5043b5531533937b8d6e96b410b039068c30c9c2645118a9060fb4fec9111a94c",
+    "client_seed": "1795299935611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "f047ecb56870ed4c2390fab9d8e64beb6c0754fe8326372de5e52e63994ee258",
+    "result": "9",
+    "external_round_id": "34165526",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:25:35.000000Z",
+    "revealed_at": "2026-11-21T22:25:42.000000Z"
+}
