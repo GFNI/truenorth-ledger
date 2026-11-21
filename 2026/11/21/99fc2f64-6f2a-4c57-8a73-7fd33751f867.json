@@ -1,0 +1,22 @@
+{
+    "round_id": "99fc2f64-6f2a-4c57-8a73-7fd33751f867",
+    "draw_title": "Lego Mario Kart or Cash",
+    "competition_url": "https://chaotic.co.uk/competition/lego-mario-kart-or-cash-6899",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "56af02f518833444f1ed84afe6e7c34de9943828ccf538a92fbd61e780364ec2",
+    "drand_seed_hash": "b52b39834ed41f69a94c072b567a64f62f58a37c0fe47181855ba28987a665b77360facca31af3ca6cec6c09975914cc",
+    "client_seed": "1795294726529",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3500,
+    "max_tickets": 3500,
+    "combined_hash": "cb35d5dc470245ce1afa59da901b32969e3f58fbdff420a4dad1ff4e138b5b84",
+    "result": "460",
+    "external_round_id": "34163790",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T20:58:46.000000Z",
+    "revealed_at": "2026-11-21T20:58:54.000000Z"
+}
