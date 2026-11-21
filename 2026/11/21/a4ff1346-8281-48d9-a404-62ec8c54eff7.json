@@ -1,0 +1,22 @@
+{
+    "round_id": "a4ff1346-8281-48d9-a404-62ec8c54eff7",
+    "draw_title": "WIN THE ASP ECHO DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-the-asp-echo-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "f7edb2cc810170732b092bf164889a1c4e4485f80b493a60ca27d187c5095519",
+    "drand_seed_hash": "90a06b1000e16740ddc63a4addfcd584482c957b8af25ae49d9d76bf5647fdd509b49b9bc44064b74a5f18cc5d542c5b",
+    "client_seed": "1795299135501",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 53,
+    "max_tickets": 100,
+    "combined_hash": "3ce9a22a4d555bb1f61fb359bc6335dcdcb0c5d1d172e70139b2246735279bcb",
+    "result": "13",
+    "external_round_id": "34165259",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:12:15.000000Z",
+    "revealed_at": "2026-11-21T22:12:21.000000Z"
+}
