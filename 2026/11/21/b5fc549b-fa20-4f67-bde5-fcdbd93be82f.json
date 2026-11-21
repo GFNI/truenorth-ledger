@@ -1,0 +1,22 @@
+{
+    "round_id": "b5fc549b-fa20-4f67-bde5-fcdbd93be82f",
+    "draw_title": "Midnight Madness",
+    "competition_url": "https://chaotic.co.uk/competition/midnight-madness-2655",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "63a83bd9c36bfddcf40a7afbd098398bfbd29cad70c7ecf865ff2b59ca892ad6",
+    "drand_seed_hash": "9392ddc562a0aa3a04eef11b2b34c342c69bd3e1d0aa9a44778ccc2f6bf39084380b670a7ca9cc7ee945cc158adcbf32",
+    "client_seed": "1795294129991",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "b8979d534c12328df20128e2e5e08d246ef845afe47585b666360a2587b3fac9",
+    "result": "921",
+    "external_round_id": "34163591",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T20:48:50.000000Z",
+    "revealed_at": "2026-11-21T20:48:57.000000Z"
+}
