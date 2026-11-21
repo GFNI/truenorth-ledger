@@ -1,0 +1,22 @@
+{
+    "round_id": "0069bffa-58c8-41ce-ada7-0d62c7347e5d",
+    "draw_title": "What's in your box?",
+    "competition_url": "https://chaotic.co.uk/competition/whats-in-your-box-1",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "c47a2a464a3f73ec747b1d468b70909e13321320cbc93d38421479d583da1801",
+    "drand_seed_hash": "98c64c6a76ee65e5deada44fa954c2a73fa27c9209c5ab7f5ca2068990fa644c21882bca29af6edd139146064c13ead4",
+    "client_seed": "1795295103032",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "bb5347be0d947a17c2fb2e12287eb78b4a89527962d2976ef01aceb646b86e66",
+    "result": "1532",
+    "external_round_id": "34163915",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T21:05:03.000000Z",
+    "revealed_at": "2026-11-21T21:05:09.000000Z"
+}
