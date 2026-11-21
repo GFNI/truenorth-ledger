@@ -1,0 +1,22 @@
+{
+    "round_id": "75ab2ce3-0835-42a1-af69-4d33f30b2fa9",
+    "draw_title": "Chaotic Super Sevens",
+    "competition_url": "https://chaotic.co.uk/competition/chaotic-super-sevens-3614",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "07878a33a437bab2de93aaff131b181168fb32c943444231e0221311f4cc751e",
+    "drand_seed_hash": "a5a65114af1d50e4be3344b29f35246ee19be70fbfa0827a563d6e293cc1b09c6d4ad51db8e08213a8ba1d0ea9902feb",
+    "client_seed": "1795293445887",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 777777,
+    "max_tickets": 777777,
+    "combined_hash": "0fc45172f4c1be193c17c35a458ca759754b200a318b79af5c38191ab0daab63",
+    "result": "740927",
+    "external_round_id": "34163363",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T20:37:25.000000Z",
+    "revealed_at": "2026-11-21T20:37:33.000000Z"
+}
