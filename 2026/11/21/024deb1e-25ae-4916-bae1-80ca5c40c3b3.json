@@ -1,0 +1,22 @@
+{
+    "round_id": "024deb1e-25ae-4916-bae1-80ca5c40c3b3",
+    "draw_title": "🎟️ New York or Lapland Ticket Booster! 🎟️",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/new-york-or-lapland-ticket-booster",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "658baa2b14adb60a84978c0ef630a2791b899fb3fe4236f7090f69ee11f42047",
+    "drand_seed_hash": "94b0704547b9ecb66b4272d14d052a5cb70a8f2afa1a6ce44916a7776fae3af051bce974875d5ff1bc565308cb5711d4",
+    "client_seed": "1795291856344",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26129,
+    "max_tickets": 35000,
+    "combined_hash": "aeb2e483082231b7c83d09733b7622ea4c2df176c99e36a5892b6f9ff845c1d1",
+    "result": "33247",
+    "external_round_id": "34162833",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T20:10:56.000000Z",
+    "revealed_at": "2026-11-21T20:11:03.000000Z"
+}
