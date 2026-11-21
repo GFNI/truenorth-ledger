@@ -1,0 +1,22 @@
+{
+    "round_id": "fca34b6a-fe2f-4307-a1cc-ce6c9d2f6da4",
+    "draw_title": "Wil's Birthday Treat - £100 FREEBIE",
+    "competition_url": "https://starcompetition.co.uk/admin/products/wils-birthday-treat-ps100-freebie",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "a0fd10b97e1e128b10127629c9a99e4272024afbb659a3ba5f57ceffc64793fc",
+    "drand_seed_hash": "a7369c335dd8bd996f004bbecd516c3f09b464ad918677d267e6eb83ca3cbcc7d3f166764c54c1cf59a78faa85238bac",
+    "client_seed": "1795295502921",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 371,
+    "max_tickets": 700,
+    "combined_hash": "acd7debd2a6e87420359a6d940023efbaa79f2fb944285df23f4c6060e5a0131",
+    "result": "329",
+    "external_round_id": "34164048",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T21:11:42.000000Z",
+    "revealed_at": "2026-11-21T21:11:48.000000Z"
+}
