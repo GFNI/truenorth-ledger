@@ -1,0 +1,22 @@
+{
+    "round_id": "31e8e863-78e9-4f98-8626-ab3663adf563",
+    "draw_title": "WIN - HARROWS FORTIS DARTBOARD (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-harrows-fortis-dartboard-auto-draw-3",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "f24a1500454793074074a9afcf74927dbadb95a6cebe913d8ff8f7df5a2334fa",
+    "drand_seed_hash": "8e9ec1c4c9a37503e39667d08b81a3a1bfb70cc27f34c630da65f4e16def300485f3d677bb0a5de18b79396a6c973112",
+    "client_seed": "1795300848512",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 102,
+    "max_tickets": 240,
+    "combined_hash": "f3b9cb0cbe2430405947ac0726847f429fca349d5c6e5ee4e5ba03b6a52f3a8c",
+    "result": "164",
+    "external_round_id": "34165830",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:40:48.000000Z",
+    "revealed_at": "2026-11-21T22:40:54.000000Z"
+}
