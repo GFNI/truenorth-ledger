@@ -1,0 +1,22 @@
+{
+    "round_id": "c01f48fa-7f06-4d8d-908b-aab5a6d93b03",
+    "draw_title": "WIN Chris Dobey G1 90% Steel Tip Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-chris-dobey-g1-90-steel-tip-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "154655e131be95d069bebb7a909f606282fecacf7c66eff08c80853a48a6fa3a",
+    "drand_seed_hash": "ad898d1b24c96ebb03badaf9b9dea1aaf02d57ebce05ef7de278a7d309b7c4cff5f7fdf6132a7f85926f5c79bc6d2458",
+    "client_seed": "1795299141597",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 64,
+    "max_tickets": 200,
+    "combined_hash": "aa9543467a207d69b2c790b0388eaf83030c6d72e3425c5ae7b70decaba88546",
+    "result": "147",
+    "external_round_id": "34165261",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:12:21.000000Z",
+    "revealed_at": "2026-11-21T22:12:27.000000Z"
+}
