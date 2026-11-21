@@ -1,0 +1,22 @@
+{
+    "round_id": "9559b47e-df6b-4fed-8450-84e6c001d7cc",
+    "draw_title": "Golden Tickets 🎟️",
+    "competition_url": "https://punterprizes.com/admin/products/golden-tickets-2",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "99cd16bffa5e4b4a8a03792124f5b1b20755a7190d0dc44fd32d9d5a507edda4",
+    "drand_seed_hash": "842912bc756a6b212c91335771698def4cccfd5266863ea388917c0f198a16ecb32f455c4747d87d4661a5ed6c0686d2",
+    "client_seed": "1795300871452",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 170000,
+    "max_tickets": 175000,
+    "combined_hash": "6f96bcaa1fa0eb664b196da5b97e3cd71d426aadba7e4926bc47e5ae13cf5225",
+    "result": "86000",
+    "external_round_id": "34165838",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T22:41:11.000000Z",
+    "revealed_at": "2026-11-21T22:41:18.000000Z"
+}
