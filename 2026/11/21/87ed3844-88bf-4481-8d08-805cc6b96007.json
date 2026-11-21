@@ -1,0 +1,22 @@
+{
+    "round_id": "87ed3844-88bf-4481-8d08-805cc6b96007",
+    "draw_title": "Monkey Magic",
+    "competition_url": "https://chaotic.co.uk/competition/monkey-magic-6929",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "45b771dd45d7daecc3284512a65fc18f3e9611a4c2fbfd2eef6575f058cc570e",
+    "drand_seed_hash": "b40c22ce407305f92014a0eb48322ace1f4576774b2580bd96492a08139f826ba1b1868f753dfd18cabeb6856faedb46",
+    "client_seed": "1795294527961",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "51382ebc2b4bba5be0ed66e55cc9681cdcbb9e1ee329d5f2090bd86e07d5e3e8",
+    "result": "682",
+    "external_round_id": "34163724",
+    "processing_status": "completed",
+    "created_at": "2026-11-21T20:55:28.000000Z",
+    "revealed_at": "2026-11-21T20:55:36.000000Z"
+}
