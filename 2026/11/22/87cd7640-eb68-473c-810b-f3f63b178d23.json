@@ -1,0 +1,22 @@
+{
+    "round_id": "87cd7640-eb68-473c-810b-f3f63b178d23",
+    "draw_title": "Penny Frost - £500 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/penny-frost-ps500-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "88b13045ce17f12ebaf40fcc0ea9118417f6a90beb8298e823d14ed4e9fac054",
+    "drand_seed_hash": "877db98e96fa70b2456f69125c9204ab15a31f35182b433b5adffccbc9510b3d0f317a8eaab46e2cea90a25954fcbfde",
+    "client_seed": "1795379875349",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2999999,
+    "max_tickets": 2999999,
+    "combined_hash": "5b690b29058fc1a4f08905a478b99305dfb08c2b9541600b72186d485b6242d2",
+    "result": "1613953",
+    "external_round_id": "34192173",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:37:55.000000Z",
+    "revealed_at": "2026-11-22T20:38:03.000000Z"
+}
