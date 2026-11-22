@@ -1,0 +1,22 @@
+{
+    "round_id": "0a603518-389f-4ade-b086-b4d5fc165834",
+    "draw_title": "30K CASH COW",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/30k-cash-cow",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "e417fcffb6047cc5de82cfca56d104890b9c6e0275f0d2702a9a6073992e3046",
+    "drand_seed_hash": "af960fbf59d35465cda7d312a8be0e8e1bb3fcb438c7341cde5756223220ae27c9fad158276e88211adbddcae7406744",
+    "client_seed": "1795381384795",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94882,
+    "max_tickets": 610000,
+    "combined_hash": "5349ad51a8b9ace10d8506e97d919449112e29d9f4dee600a813f1f59c10c3ed",
+    "result": "250996",
+    "external_round_id": "34192676",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:03:04.000000Z",
+    "revealed_at": "2026-11-22T21:03:12.000000Z"
+}
