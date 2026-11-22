@@ -1,0 +1,22 @@
+{
+    "round_id": "f34da27c-80e5-440e-8960-b2b17901b9a7",
+    "draw_title": "KEVIN BRIDGES TOUR 2026 P&J LIVE SHOWDECK SUITE #3",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/kevin-bridges-tour-2026-pj-live-showdeck-suite-3",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "8b46ff984b960e519a1cd9c0e70004e95c9541ca792d85d9fb2a07d4a62313d8",
+    "drand_seed_hash": "b6898c8485b6c195ce5086ce8ce70c2b6f57bda405d51b341184ef7bc6a99cfb821a1d9da54a78c679c6fcd2de858194",
+    "client_seed": "1795381818505",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 114,
+    "max_tickets": 475,
+    "combined_hash": "92e04b3975f6552f85978da78d74ba485808c333008a601cf17cbc3f58a2b540",
+    "result": "353",
+    "external_round_id": "34192820",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:10:18.000000Z",
+    "revealed_at": "2026-11-22T21:10:24.000000Z"
+}
