@@ -1,0 +1,22 @@
+{
+    "round_id": "c2968fac-a907-4142-8037-61a83ed7cd8d",
+    "draw_title": "Fin-tastic Fortunes - £2500 End Prize #7",
+    "competition_url": "https://speedcompetitions.co.uk/competition/fin-tastic-fortunes-ps2500-end-prize-7",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "79e4c3461ef0f046cffc8bb3e41cff76338c7f19696e401912d585d7857105db",
+    "drand_seed_hash": "b71fe6f0b93f0d2d2628bf5a052384f5fac6a748ee0bd7fe2408086802c5ec397545ea6f70c793754c93f18fa9fccd55",
+    "client_seed": "1795379990894",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 399999,
+    "max_tickets": 399999,
+    "combined_hash": "e4f05c91d966b09734c621d4e3a4ca5732c6e6d9e849b636718fff648e5b0816",
+    "result": "393397",
+    "external_round_id": "34192211",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:39:50.000000Z",
+    "revealed_at": "2026-11-22T20:39:57.000000Z"
+}
