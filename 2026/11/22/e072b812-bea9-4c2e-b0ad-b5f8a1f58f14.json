@@ -1,0 +1,22 @@
+{
+    "round_id": "e072b812-bea9-4c2e-b0ad-b5f8a1f58f14",
+    "draw_title": "Ford Cortina GLS V6",
+    "competition_url": "https://retroshite.com/competition/ford-cortina-gls-v6",
+    "operator": {
+        "name": "Unit Road Creative LTD",
+        "website": "https://retroshite.com/",
+        "company_number": "SC818301"
+    },
+    "drand_server_seed": "9dfadfded4b00b877c9f450c6b65021686403345c26be80b4a0d35400ec2c9b4",
+    "drand_seed_hash": "84005313a1f7c495b2c4ddac29ab8ae6fd71ca4057b3623b3afc065a8efe2b4df3699cb8dd0fdd226998f3f69943d827",
+    "client_seed": "1795382020846",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 4045,
+    "combined_hash": "a5cb455a548264e638540086deae60709d657c524c0ecd806306d2b1b06fb037",
+    "result": "2748",
+    "external_round_id": "34192887",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:13:40.000000Z",
+    "revealed_at": "2026-11-22T21:13:50.000000Z"
+}
