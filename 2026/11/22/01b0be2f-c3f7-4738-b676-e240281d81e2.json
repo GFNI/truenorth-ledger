@@ -1,0 +1,22 @@
+{
+    "round_id": "01b0be2f-c3f7-4738-b676-e240281d81e2",
+    "draw_title": "CHARLOTTE'S HOLLYWOOD BEAUTY WONDERLAND ADVENT CALENDAR",
+    "competition_url": "https://geardowncompetitions.com/admin/products/charlottes-hollywood-beauty-wonderland-advent-calendar",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "e2274fa2f0d301dbbdc1c4050bca830e14829ccf4ce2b4c32b26085dbfe63c14",
+    "drand_seed_hash": "97cb51695c53744cdda2c931e5edffe3efb1b010fc4c1df41fa546b5b1832246dbc6234a383760e3f3d59c019451174c",
+    "client_seed": "1795385438076",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 407,
+    "max_tickets": 699,
+    "combined_hash": "1f0235fb1e83a8cde30fd1497263e5b870bf46dbc0d020b6c60d96e53459fd73",
+    "result": "374",
+    "external_round_id": "34194027",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T22:10:38.000000Z",
+    "revealed_at": "2026-11-22T22:10:45.000000Z"
+}
