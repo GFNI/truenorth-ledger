@@ -1,0 +1,22 @@
+{
+    "round_id": "e6bd06e2-3013-4207-a30a-c22bec4fcd9d",
+    "draw_title": "MIDDAY MADHOUSE 🤯- WIN ONE80 TALON DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/midday-madhouse-win-one80-talon-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "edb69e676e7c8934d9685368dda56ef9ffd5e4822618208bba148e092c2b1ac4",
+    "drand_seed_hash": "a9f8d5af0b19cbea601b18154a17a72bffa9c765f5626de85b7e400b4c16aabef7adbccecbb1a0aa22e7a4a18f14181f",
+    "client_seed": "1795349422101",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 280,
+    "combined_hash": "6d7512530bcafc5c56432e82c705bf860c1987af4230364dd22dd74ec0ef11dd",
+    "result": "158",
+    "external_round_id": "34182022",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T12:10:22.000000Z",
+    "revealed_at": "2026-11-22T12:10:30.000000Z"
+}
