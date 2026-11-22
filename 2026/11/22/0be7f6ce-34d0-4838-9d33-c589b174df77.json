@@ -1,0 +1,22 @@
+{
+    "round_id": "0be7f6ce-34d0-4838-9d33-c589b174df77",
+    "draw_title": "Whack-a-Mole - £250 AUTODRAW MAIN PRIZE",
+    "competition_url": "https://cobra-competitions.co.uk/admin/products/whack-a-mole-ps250-autodraw-main-prize3",
+    "operator": {
+        "name": "Cobra Competitions",
+        "website": "https://cobra-competitions.co.uk",
+        "company_number": "SC746386"
+    },
+    "drand_server_seed": "e954646c5739b047c461a6f14b74a37e6e43716e04e14ceaa3aac375a4c24051",
+    "drand_seed_hash": "a0e456d30064f3a2eb896acd51098dc2905a5fb5ce1422bde1c350e2ea6fe5c650858ae1db4b91267e5d41e2e8e213d5",
+    "client_seed": "1795381863589",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 430,
+    "max_tickets": 20120,
+    "combined_hash": "0da13de6a739e19e796fec5943bff6e0c4b006e036794f81ddfcc3575833c617",
+    "result": "46",
+    "external_round_id": "34192835",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:11:03.000000Z",
+    "revealed_at": "2026-11-22T21:11:09.000000Z"
+}
