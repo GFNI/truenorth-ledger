@@ -1,0 +1,22 @@
+{
+    "round_id": "e2d088c5-f470-43b9-a895-94c0fe95e461",
+    "draw_title": "WIN A NEW WINMAU Blade 7T Championship Edition Dartboard",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-new-winmau-blade-7t-championship-edition-dartboard-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "f1e541d6ee4fee4f618833f720589f2aa9e33e2944402f9600b81b3a477b4160",
+    "drand_seed_hash": "a3a7e093a955b3b6a1763b8753acc3689bb6f3adda206f2da93febcc45ebc8ba97da1b8405ac13ac94867be218aa36ee",
+    "client_seed": "1795379892162",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 160,
+    "combined_hash": "412c7a2d300cf3557b5dcae2987e485e281a75b72aeed252acfadf034a7dc5a6",
+    "result": "2",
+    "external_round_id": "34192178",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:38:12.000000Z",
+    "revealed_at": "2026-11-22T20:38:18.000000Z"
+}
