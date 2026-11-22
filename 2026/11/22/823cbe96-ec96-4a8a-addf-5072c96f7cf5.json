@@ -1,0 +1,22 @@
+{
+    "round_id": "823cbe96-ec96-4a8a-addf-5072c96f7cf5",
+    "draw_title": "Volkswagen Jetta VR6",
+    "competition_url": "https://retroshite.com/competition/volkswagen-jetta-vr6-2",
+    "operator": {
+        "name": "Unit Road Creative LTD",
+        "website": "https://retroshite.com/",
+        "company_number": "SC818301"
+    },
+    "drand_server_seed": "4be8067ae0d280244a05a1f3b1622d9e2352dd115a193a460a24afc147d05e0e",
+    "drand_seed_hash": "af93abec4b5f527a637f59d423417291a1f27c3e3bd04000bb3ddf1c790d5a5ebae28c9cdb2cb2359813124cd9f0d425",
+    "client_seed": "1795382149337",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 4764,
+    "combined_hash": "31b43a076ed0275b2ab2219400251bba5f0108195b2e9921025f91bfb0e96fd6",
+    "result": "1054",
+    "external_round_id": "34192931",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:15:49.000000Z",
+    "revealed_at": "2026-11-22T21:15:58.000000Z"
+}
