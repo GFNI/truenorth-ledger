@@ -1,0 +1,22 @@
+{
+    "round_id": "ee1f5ca4-7bef-4c9c-a026-99f252eed4cc",
+    "draw_title": "WIN RY’S EXCLUSIVE BOTTLE OF WATER… OR £250 CASH ALT!",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-rys-exclusive-bottle-of-water-or-ps250-cash-alt",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "43285beccf6db838905009138ea54e5a53890ab111a92e0b4e9bde64286c0f1f",
+    "drand_seed_hash": "b82d99c32278790474de71d0029b9757c21f73989b8b0af7e048f495a826cc1735b494873564cae04e53f6dc657f1622",
+    "client_seed": "1795387484813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25000,
+    "max_tickets": 25000,
+    "combined_hash": "4004a25f818e733908fe5160e5e43a1cdc7300bc816cdbc545c35caad03c5082",
+    "result": "3441",
+    "external_round_id": "34194709",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T22:44:44.000000Z",
+    "revealed_at": "2026-11-22T22:44:51.000000Z"
+}
