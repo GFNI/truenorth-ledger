@@ -1,0 +1,22 @@
+{
+    "round_id": "2367f8a4-6eca-4d6d-b629-1879efc2edf2",
+    "draw_title": "LIVE GAMES NIGHT",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/live-games-night-2",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "e6192814e1a1573c4541ef8dc3edb0df26f373418aca76b2bc9af931d250b981",
+    "drand_seed_hash": "8fd746669808b7f941529dedbf79ea7024ea092e5b69c9c832c332c1960192833963fb80b59f8fd9ef4a33f18d86a055",
+    "client_seed": "1795374657141",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9,
+    "max_tickets": 25,
+    "combined_hash": "f55ef0220179f2063438faecb0eef062361eab64c86547ebf48b28805176f034",
+    "result": "19",
+    "external_round_id": "34190433",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T19:10:57.000000Z",
+    "revealed_at": "2026-11-22T19:11:03.000000Z"
+}
