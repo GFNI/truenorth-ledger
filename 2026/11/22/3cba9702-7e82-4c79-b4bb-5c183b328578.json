@@ -1,0 +1,22 @@
+{
+    "round_id": "3cba9702-7e82-4c79-b4bb-5c183b328578",
+    "draw_title": "New Charlotte Tilbury Advent Calendar. Straight comp with no instants",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-charlotte-tilbury-advent-calendar-straight-comp-with-no-instants",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "36c67a1f81b7edd8e94b2d6b86733a9b6119b4f8a0e10e1fc2b6406d920f82f1",
+    "drand_seed_hash": "84bdd80f5ab44dfda8e543692c886c784b1d6aa1758029cc3c2468ba2ca5dce33ce7496dadb13e9f0f4046eaba34ff9b",
+    "client_seed": "1795377885465",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 36170,
+    "max_tickets": 40000,
+    "combined_hash": "bccba3cc1674f525728c835be6469f3fe602dacd5431a978a6916cb43bc4f07f",
+    "result": "6589",
+    "external_round_id": "34191509",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:04:45.000000Z",
+    "revealed_at": "2026-11-22T20:04:51.000000Z"
+}
