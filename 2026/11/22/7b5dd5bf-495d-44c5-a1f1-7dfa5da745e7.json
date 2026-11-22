@@ -1,0 +1,22 @@
+{
+    "round_id": "7b5dd5bf-495d-44c5-a1f1-7dfa5da745e7",
+    "draw_title": "WIN FREE TICKETS INTO £6,000 CASH COMPETITION",
+    "competition_url": "https://ryscompetitions.com/admin/products/win-free-tickets-into-ps6000-cash-competition",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "457b466c916dbb1880359575132a0ae5f9df84b8e1843c4c28ad0a21b38300f6",
+    "drand_seed_hash": "830332b5daa401f047e130a66c3017ddd10e49f183b688dcc24243e1f67e56135cbc7bb49bc134e065f0685b09d8b6b0",
+    "client_seed": "1795377651466",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 574,
+    "max_tickets": 4000,
+    "combined_hash": "c07d01340a06fdfdc87c16d7217a60b757b6b7b8ba18a48435e744f23086f2d7",
+    "result": "961",
+    "external_round_id": "34191431",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:00:51.000000Z",
+    "revealed_at": "2026-11-22T20:00:57.000000Z"
+}
