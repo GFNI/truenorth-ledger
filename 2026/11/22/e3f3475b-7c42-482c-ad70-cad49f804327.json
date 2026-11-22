@@ -1,0 +1,22 @@
+{
+    "round_id": "e3f3475b-7c42-482c-ad70-cad49f804327",
+    "draw_title": "CHRISTMAS TREE BUNDLE",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/christmas-tree-bundle-2",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "f136ba8113cd4a5b9261451bf9c626ce2a050fe197828dd9269c904a278c6d56",
+    "drand_seed_hash": "9007c8d7ff654b2d2be8c685f065831f5c99a6b1d863fd009d93487e42a69f460007eee8469df8f3224993e71f42ec5d",
+    "client_seed": "1795382160679",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 868,
+    "max_tickets": 2200,
+    "combined_hash": "733d3224e881f728af91fe48e27b227ffc61b36cdcb8e999851e9fd88e104eea",
+    "result": "1908",
+    "external_round_id": "34192934",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:16:00.000000Z",
+    "revealed_at": "2026-11-22T21:16:06.000000Z"
+}
