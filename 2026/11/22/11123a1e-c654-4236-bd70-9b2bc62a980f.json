@@ -1,0 +1,22 @@
+{
+    "round_id": "11123a1e-c654-4236-bd70-9b2bc62a980f",
+    "draw_title": "Final Cash Countdown | £150k in Prizes + £2,000 Jackpot",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/final-cash-countdown-ps150k-in-prizes-ps2000-jackpot",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "a8c138ef0a48fefb46c4dff38af00ee89c3d544f19d200ef50082460681fc3db",
+    "drand_seed_hash": "911c5cf8dce7d1fac36717062c86e811a5eaec288c9e35a750d1d19d9747c1ac44ff4b5c16c180f0aca0d7c7dcaef1f3",
+    "client_seed": "1795380149141",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 64020,
+    "max_tickets": 1085715,
+    "combined_hash": "c02c24748bf3324fc58000d98f59ce30bba781bc6a9b578fcb0e207cc14354f2",
+    "result": "755099",
+    "external_round_id": "34192264",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:42:29.000000Z",
+    "revealed_at": "2026-11-22T20:42:36.000000Z"
+}
