@@ -1,0 +1,22 @@
+{
+    "round_id": "3c8c5143-983a-46f7-9fa9-d64955f55263",
+    "draw_title": "SPIN TO WIN £100K - 100 CHANCES TO WIN £1,000",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/spin-to-win-ps100k",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "0454d0ffbf74f5148bc37e4e2720f7594977504e67d4779acdbcbbecc714fc87",
+    "drand_seed_hash": "b61b1273a62c7fc7767a7c33b7a861fb803484e2477e630c942680722b28685b942c8900b0d0913ef5f1ead945bae6e3",
+    "client_seed": "1795381800920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 52996,
+    "max_tickets": 200000,
+    "combined_hash": "8fdd24bd928afaefb788864840898c3e8140d4eadb612db8998b46b6208af871",
+    "result": "109840",
+    "external_round_id": "34192814",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:10:00.000000Z",
+    "revealed_at": "2026-11-22T21:10:06.000000Z"
+}
