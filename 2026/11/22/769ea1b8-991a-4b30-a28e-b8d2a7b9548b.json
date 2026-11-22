@@ -1,0 +1,22 @@
+{
+    "round_id": "769ea1b8-991a-4b30-a28e-b8d2a7b9548b",
+    "draw_title": "Hook A Duck",
+    "competition_url": "https://bestoddsuk.co.uk/admin/products/hook-a-duck-2",
+    "operator": {
+        "name": "Best Odds Uk Ltd",
+        "website": "https://bestoddsuk.co.uk",
+        "company_number": "17500404"
+    },
+    "drand_server_seed": "efaf51fd72a94cd9418348f71fe134bce4f38cff559b057ab288dcc360287e35",
+    "drand_seed_hash": "a568493f01734af89181f4ade9bc11861ca46c089c5474cc126a3d58f01081f34c250d2edd4eb3d68c822f31d427baed",
+    "client_seed": "1795380003751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136898,
+    "max_tickets": 222222,
+    "combined_hash": "cbadb83bd4405282bcc1d25a0d08a6ff48e5f5bbf7e96357edd5dbc82c179c3c",
+    "result": "182084",
+    "external_round_id": "34192215",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:40:03.000000Z",
+    "revealed_at": "2026-11-22T20:40:09.000000Z"
+}
