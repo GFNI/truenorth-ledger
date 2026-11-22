@@ -1,0 +1,22 @@
+{
+    "round_id": "753d824e-02d7-436f-a71a-dea5767b5726",
+    "draw_title": "WIN THIS ARDBEG SPECTACULAR!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-this-ardbeg-spectacular",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "847a15c0859135c97986007d89b14d47888053a5224b54ddc159dd4ec59b1fee",
+    "drand_seed_hash": "82878b3b6a301feafffb72fcfc3b2d7bde717553c884c25191d963bc1a33864c35d284ce3fb98dfa23c5e83cda6131c8",
+    "client_seed": "1795381914552",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59,
+    "max_tickets": 100,
+    "combined_hash": "7cf3a88232727b78caf1882b06dc077ba2221372adbeaa116d5c0318917ebf66",
+    "result": "61",
+    "external_round_id": "34192852",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:11:54.000000Z",
+    "revealed_at": "2026-11-22T21:12:00.000000Z"
+}
