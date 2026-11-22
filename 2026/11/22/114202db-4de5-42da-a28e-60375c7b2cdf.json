@@ -1,0 +1,22 @@
+{
+    "round_id": "114202db-4de5-42da-a28e-60375c7b2cdf",
+    "draw_title": "5,000X Tickets into \"WIN £6,000 FOR ONLY 3P!\"",
+    "competition_url": "https://ryscompetitions.com/admin/products/5000x-tickets-into-win-ps6000-for-only-3p",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "2fb6ef7490f8a5d46374165a9f8698a42fbee6d179398c822baa73776e80f8cd",
+    "drand_seed_hash": "8499ad71ab9c022601cd3049b72eb3a9353a522db005958f4740320e36c65839dde68a8cad9f81cae95bafb83633e6e5",
+    "client_seed": "1795365581674",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "e242c41ee5ae9f1612625480ff287d38639e0fb78df8980ce865842bc25f6c24",
+    "result": "8659",
+    "external_round_id": "34187408",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T16:39:41.000000Z",
+    "revealed_at": "2026-11-22T16:39:48.000000Z"
+}
