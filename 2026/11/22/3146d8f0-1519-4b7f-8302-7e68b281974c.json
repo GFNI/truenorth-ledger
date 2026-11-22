@@ -1,0 +1,22 @@
+{
+    "round_id": "3146d8f0-1519-4b7f-8302-7e68b281974c",
+    "draw_title": "Topps Palatial KAKA 3/5",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/topps-palatial-kaka-35",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "93961f19eb6ce6ccc0c40e7c9c5b7eb6b0679ac88350d6df847bb2d728fc27e7",
+    "drand_seed_hash": "b99af07e43fc1451d6253ff93c44e117b78a11cd68041d558004a4121afb948f49edaaeb9b6a031157613badbd41de53",
+    "client_seed": "1795379852816",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7236,
+    "max_tickets": 55000,
+    "combined_hash": "8eb620524cea27e27bcb5f92ef2675166668226b8339e85dacb5ccc4e29e6d98",
+    "result": "15599",
+    "external_round_id": "34192165",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:37:32.000000Z",
+    "revealed_at": "2026-11-22T20:37:39.000000Z"
+}
