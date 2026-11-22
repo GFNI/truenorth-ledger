@@ -1,0 +1,22 @@
+{
+    "round_id": "9aacf1c2-196f-4923-afd4-3d0c43083bbd",
+    "draw_title": "1kg PAMP SUISSE SILVER BAR + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1kg-pamp-suisse-silver-bar-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "51546a026bea823949fd2e2b98060a1f1b969f98c288342330869f80b8fe8303",
+    "drand_seed_hash": "85f0bce09f69e53c3bcc9b009edb6c3d2dda31e0b45c21e9d8115121ccdc0013d9d307a7fb59988511ae4126e77e0510",
+    "client_seed": "1795381637562",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10367,
+    "max_tickets": 20000,
+    "combined_hash": "55564c00ceba21d2babb09fd8c49655e23f301f0a8fcc83af2c04ded281c8927",
+    "result": "2838",
+    "external_round_id": "34192760",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:07:17.000000Z",
+    "revealed_at": "2026-11-22T21:07:24.000000Z"
+}
