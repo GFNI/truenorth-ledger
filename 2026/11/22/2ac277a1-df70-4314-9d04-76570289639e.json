@@ -1,0 +1,22 @@
+{
+    "round_id": "2ac277a1-df70-4314-9d04-76570289639e",
+    "draw_title": "Free £100 M&S Voucher",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/free-ps100-ms-voucher",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "75a0533a71e024cc7a7bb84c26dfbc27546a8d48eddda49fd63e624702d9c43c",
+    "drand_seed_hash": "b4fd3af648b158fb9f83d3d33ccf5557bbc6eadd53258c797ee4d94153cc1e2f97c3b1f2e80af0c08288d1cb80b240dc",
+    "client_seed": "1795385459653",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 913,
+    "max_tickets": 2500,
+    "combined_hash": "fe09218e0f9c8bfb9c9d54b995b583fded941bee73325121965cbfd01ae4ac5e",
+    "result": "2419",
+    "external_round_id": "34194034",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T22:10:59.000000Z",
+    "revealed_at": "2026-11-22T22:11:06.000000Z"
+}
