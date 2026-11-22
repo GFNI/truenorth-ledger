@@ -1,0 +1,22 @@
+{
+    "round_id": "42288aee-4cf7-4283-b3c0-d5c27588bdab",
+    "draw_title": "Kitchen Set",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/kitchen-set",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "a92d077737c5cb0353075204821e52dd1015e2345c2942036ab244db43a0d508",
+    "drand_seed_hash": "a37ac705dd59142f554c136b85668d48ab26b48b3e6bf767a59e3cb3a7b8b9f1ea2eb3e86c9026df1d3dbfec0ae60984",
+    "client_seed": "1795378767705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 87,
+    "max_tickets": 220,
+    "combined_hash": "2553407e6fed866ed8ce80b71635ab52c449afd2502762ea084adcc729c32689",
+    "result": "206",
+    "external_round_id": "34191803",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:19:27.000000Z",
+    "revealed_at": "2026-11-22T20:19:33.000000Z"
+}
