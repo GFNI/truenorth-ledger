@@ -1,0 +1,22 @@
+{
+    "round_id": "3ea66624-f161-47f7-93e9-c643f5a54177",
+    "draw_title": "Kenwood Pizza Oven",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/kenwood-pizza-oven",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "67b7064917b88461b713b42a419dde998103551601d050ca57c49748eae5459a",
+    "drand_seed_hash": "a523110b2f536ff7df22f3f9e6cbbfed53107c3edd818efea0092cf6647c17d0269c7340e15442a7a1bc3af5bb5d3ac2",
+    "client_seed": "1795378872629",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 94,
+    "max_tickets": 300,
+    "combined_hash": "b6fbb0c0c486a5b8534e54b70f4c65223ebc73c22652e11fafc8c09f98fa2b8b",
+    "result": "247",
+    "external_round_id": "34191838",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:21:12.000000Z",
+    "revealed_at": "2026-11-22T20:21:18.000000Z"
+}
