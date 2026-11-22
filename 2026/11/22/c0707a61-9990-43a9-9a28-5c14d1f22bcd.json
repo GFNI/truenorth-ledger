@@ -1,0 +1,22 @@
+{
+    "round_id": "c0707a61-9990-43a9-9a28-5c14d1f22bcd",
+    "draw_title": "BAG A WIN - WIN A DESIGNER BAG INSTANTLY",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/bag-a-win",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "617c40feaabca088c07109393793127fca37c7960ab4b262bfa7d7287c63081b",
+    "drand_seed_hash": "94dae6cdf9f45c8959f2ee80c18fdcd4de23a7c28cf3cf3b4134d6e22567d1b1cff434539b8c002378698334b22b1489",
+    "client_seed": "1795381806705",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9560,
+    "max_tickets": 36500,
+    "combined_hash": "1f5ab6b067295c295cecf799edce33603c0f46029f1f573bd61c83a3f6aaab60",
+    "result": "28140",
+    "external_round_id": "34192816",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:10:06.000000Z",
+    "revealed_at": "2026-11-22T21:10:12.000000Z"
+}
