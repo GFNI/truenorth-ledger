@@ -1,0 +1,22 @@
+{
+    "round_id": "83773715-b800-4db2-a281-6ab4b45cbb47",
+    "draw_title": "New 1p Plinko!! Huge cash Instants and ticket bundles",
+    "competition_url": "https://nuclearcompetitions.co.uk/admin/products/new-1p-plinko-huge-cash-instants-and-ticket-bundles-2",
+    "operator": {
+        "name": "Nuclear competitions Ltd",
+        "website": "https://nuclearcompetitions.co.uk",
+        "company_number": "16220841"
+    },
+    "drand_server_seed": "64d355cf67ccb823d9e6698b93c593640d53f6f9aec8fac3b9aeb05f5f10b9ef",
+    "drand_seed_hash": "b366e0b64fcf7c43bdc9d45e28ccce95a1cba23ca36d8e6119bf7e1088ae36831690cf65bdb60bd7b669b9dd6a6bfb97",
+    "client_seed": "1795378006474",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93030,
+    "max_tickets": 600000,
+    "combined_hash": "65ec2d4d40ed782bfc115eafb7d62298f7008d6fe78d51c580ab0a0c994f676a",
+    "result": "55270",
+    "external_round_id": "34191550",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:06:46.000000Z",
+    "revealed_at": "2026-11-22T20:06:54.000000Z"
+}
