@@ -1,0 +1,22 @@
+{
+    "round_id": "e6e37ee6-714f-4103-9a75-48eea35650e4",
+    "draw_title": "win 100 tickets into the 20 x 1k competition!",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/win-100-tickets-into-the-20-x-1k-competition",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "82ed584d5831e8033368c0952792b304f676aced9d932de8fc649019b6556392",
+    "drand_seed_hash": "80224db1a7765daa066998ba34fe4436121437959b51a092aea7967848cbbe37ca52dfedbf38029d3250b4ddf9efdd15",
+    "client_seed": "1795384035308",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "2b448ab83f37e1ac736c251801dea8185d7bd52097fe2b1cf15473a0591541f7",
+    "result": "9164",
+    "external_round_id": "34193559",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:47:15.000000Z",
+    "revealed_at": "2026-11-22T21:47:21.000000Z"
+}
