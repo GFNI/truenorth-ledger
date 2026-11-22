@@ -1,0 +1,22 @@
+{
+    "round_id": "1cf1f8b3-4e40-4e82-b37d-0e46274f5f6a",
+    "draw_title": "Ace 10 Cubone",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/ace-10-cubone",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "82740e3fd9f94e250b87537cba820c07092b2f09cf099b4ed5ff843f2b8c64a2",
+    "drand_seed_hash": "81d6677f628b56d1aa53efd69f6082f2a4b8195f875e199a008463ca138bca314ceefbf7b97fc7fdfb254c87db88f1a8",
+    "client_seed": "1795380259967",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 148,
+    "max_tickets": 250,
+    "combined_hash": "2b1ed7fa3cf7e2f4de6bc8752134d4dd60a3866d836b61464ca8c14bdbb9cd0e",
+    "result": "214",
+    "external_round_id": "34192301",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:44:20.000000Z",
+    "revealed_at": "2026-11-22T20:44:27.000000Z"
+}
