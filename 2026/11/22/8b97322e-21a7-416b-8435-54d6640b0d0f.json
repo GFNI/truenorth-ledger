@@ -1,0 +1,22 @@
+{
+    "round_id": "8b97322e-21a7-416b-8435-54d6640b0d0f",
+    "draw_title": "⚡ Pokémon £250 Shopping Spree of Your Choice + Instant Wins!",
+    "competition_url": "https://1066competitions.co.uk/admin/products/pokemon-ps250-shopping-spree-of-your-choice-instant-wins",
+    "operator": {
+        "name": "1066 Competitions LTD",
+        "website": "https://1066competitions.co.uk",
+        "company_number": "15124408"
+    },
+    "drand_server_seed": "9839990c0a094585e74b845ff4ebf6011eee32ca426ba427af9360f357252d3b",
+    "drand_seed_hash": "8f4681371485ae4a6a44893e0d61f43be1e77e89aa530d36e99d4baca55bc0b44120ca6e186c528d76d39e94a2df4787",
+    "client_seed": "1795385769036",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 273,
+    "max_tickets": 1066,
+    "combined_hash": "9d5c4e7402f79a96a0bcf6628c59cc3ef8b01dbeaf1f9595d7f4433c3a79eb22",
+    "result": "894",
+    "external_round_id": "34194137",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T22:16:09.000000Z",
+    "revealed_at": "2026-11-22T22:16:15.000000Z"
+}
