@@ -1,0 +1,22 @@
+{
+    "round_id": "88a4187e-7a10-4671-a1df-2ff58958b8a4",
+    "draw_title": "PS5 Digital Edition + GTA VI",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/ps5-digital-edition-gta-vi",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "05c83719e77fe29019ed864ae039aa5b8aacacbba483f7197e601378972b3a52",
+    "drand_seed_hash": "8def90d64a7f328bb8fac3e4181d7907d0a975583c5449a30c7c5ae83c23f4d8d22eba36fb9e2adc7e78f19da5da086c",
+    "client_seed": "1795348655102",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 26000,
+    "max_tickets": 26000,
+    "combined_hash": "e7203c946650564b42a50b8041fe10e854037ea6e62d1bd4804d9fe98405f6f0",
+    "result": "16552",
+    "external_round_id": "34181766",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T11:57:35.000000Z",
+    "revealed_at": "2026-11-22T11:57:42.000000Z"
+}
