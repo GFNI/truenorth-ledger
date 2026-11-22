@@ -1,0 +1,22 @@
+{
+    "round_id": "5af17d1b-e62c-4376-832c-a485a8e18ad9",
+    "draw_title": "🎁PLAYSTATION 5 + £1,500 INSTANT WINS🎁",
+    "competition_url": "https://optimisedodds.com/admin/products/playstation-5-ps1500-instant-wins-2",
+    "operator": {
+        "name": "Optimised Odds LTD",
+        "website": "https://optimisedodds.com",
+        "company_number": "16029183"
+    },
+    "drand_server_seed": "a6cd71c38d21f67943dd59f8ae63c349ea4adfc7c241368f777a4d40bacdc368",
+    "drand_seed_hash": "8c3379b0b9db31a0b4655c19d4cc4d3afd97c57a6ef8f1a0489282ae3790aa1a96174c77f7e7db514afc5d263e2ef32f",
+    "client_seed": "1795389093616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14008,
+    "max_tickets": 105000,
+    "combined_hash": "557c0e96c5001e60c1ed8d3cc5e8442327213b908db33be1b4a6f14cb1454789",
+    "result": "51734",
+    "external_round_id": "34195245",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T23:11:33.000000Z",
+    "revealed_at": "2026-11-22T23:11:39.000000Z"
+}
