@@ -1,0 +1,22 @@
+{
+    "round_id": "de6fa3a2-b37e-4a42-aeb8-4e7c42df808e",
+    "draw_title": "ULTIMATE GTA VI BUNDLE",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ultimate-gta-vi-bundle",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "54b292e26587c1c4a2fe1960565ea96d7579c4c599a8150a25c849a290c00a7f",
+    "drand_seed_hash": "a2bb3ac22a7af6c5e28abd99f0f0f95afaa4ceb17cd732960c728eed883b5568e93ad0c6232e1c2a63e7b0f9e8f8c34e",
+    "client_seed": "1795381730923",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "c745b410b825fa0304bb2629227983bf6059249e132de4631c1df83578918873",
+    "result": "1800",
+    "external_round_id": "34192791",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:08:50.000000Z",
+    "revealed_at": "2026-11-22T21:08:57.000000Z"
+}
