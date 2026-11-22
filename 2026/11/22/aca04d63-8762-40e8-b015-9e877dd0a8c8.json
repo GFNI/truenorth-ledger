@@ -1,0 +1,22 @@
+{
+    "round_id": "aca04d63-8762-40e8-b015-9e877dd0a8c8",
+    "draw_title": "At The Races",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/daily-races",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "50d26055f9df4952c4f9cab0020e77b772e64a935afc1e1c38211d92f38e0a37",
+    "drand_seed_hash": "a68be4278d55b662a4089864824156305bce6718d5e6bf06ff027e89d53f8aa3c71ce3a371850e371074d5a22090596c",
+    "client_seed": "1795380292201",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 134114,
+    "max_tickets": 200000,
+    "combined_hash": "1442321774002536769af4092c8d2cdbf7213c5625246e1e112a781d2fcf9bd9",
+    "result": "169685",
+    "external_round_id": "34192312",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:44:52.000000Z",
+    "revealed_at": "2026-11-22T20:45:00.000000Z"
+}
