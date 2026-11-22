@@ -1,0 +1,22 @@
+{
+    "round_id": "cdff5360-83a4-4396-94b9-4259016522b0",
+    "draw_title": "30 Entries into Black Friday Slots",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-into-black-friday-slots",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "951806ff0a0f5dac4ee0818de0cdf9c68765e18bb5f4eba2fece5c9804c0d0f3",
+    "drand_seed_hash": "b0d94bff0ad3dd3a460128ac77a54d50c95919833a1a1b4f3fbef0b27108b0f15fcca23509b0d8326dafc209685065ea",
+    "client_seed": "1795383102572",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 125,
+    "max_tickets": 125,
+    "combined_hash": "329aec1510b7fa3a9cc594abe33dbe193b2b29d78ee3167a5379bcccf93c88c4",
+    "result": "7",
+    "external_round_id": "34193248",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:31:42.000000Z",
+    "revealed_at": "2026-11-22T21:31:48.000000Z"
+}
