@@ -1,0 +1,22 @@
+{
+    "round_id": "482f619f-aed4-476e-aa4a-daac7f9235a5",
+    "draw_title": "XBOX Series S PLUS GTA VI - Just £1.49!",
+    "competition_url": "https://expcomps.com/admin/products/xbox-series-s-plus-gta-vi-just-ps149",
+    "operator": {
+        "name": "EXP COMETITIONS LIMITED",
+        "website": "https://expcomps.com",
+        "company_number": "16756912"
+    },
+    "drand_server_seed": "ceecb89702e182e56203850c9afa53e563e49d5c33c267996291349f23490702",
+    "drand_seed_hash": "a46ab096f478b25d5d9f6b51dc720bfaa7e4696a9d4f4bcf3c91bfdfadaf39392181e27854e5007b18ea102a6a7f04af",
+    "client_seed": "1795381551638",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 362,
+    "max_tickets": 799,
+    "combined_hash": "acea3dfd91975f85afba8bacdafefbd1a2bc02303f7fd3c54fac0f942a8c7a00",
+    "result": "534",
+    "external_round_id": "34192731",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:05:51.000000Z",
+    "revealed_at": "2026-11-22T21:05:57.000000Z"
+}
