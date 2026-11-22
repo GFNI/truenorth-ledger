@@ -1,0 +1,22 @@
+{
+    "round_id": "8a355d4b-56f8-49ba-b491-0e5f559d6014",
+    "draw_title": "xmas meat feast bundle Tunstall Meats #2",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/xmas-meat-feast-bundle-tunstall-meats-2",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "db0d4849ae6700cb241185b6fcf9e012dc2290c3791118f85af7562f9afbc437",
+    "drand_seed_hash": "9392952dfd1e642cb7f939f4fd7f5d687ba6ff56b6752a97641c676196e300dbfb498727247533c5230aacc433782bfc",
+    "client_seed": "1795384293667",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 850,
+    "combined_hash": "56b34e9863539a0bd7d37ce3c3c1db4a15c95a5e66f61c4033e08b170a1807e0",
+    "result": "751",
+    "external_round_id": "34193645",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:51:33.000000Z",
+    "revealed_at": "2026-11-22T21:51:39.000000Z"
+}
