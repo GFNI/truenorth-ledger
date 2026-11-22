@@ -1,0 +1,22 @@
+{
+    "round_id": "04286fa1-7976-4ce6-9d80-6a604e198903",
+    "draw_title": "WIN Harrows Torrent Parallel QP darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-harrows-torrent-parallel-qp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "de34698fd93dd1aa59a8aa06d36b03d55ab893f2e9c50d8d53038ae1b486c819",
+    "drand_seed_hash": "b001668502b77adbb527163cc3aa89388c72bfb44d02714369f41aeb185edb5fe73fac9f2a1474f51a8195dca2d5d338",
+    "client_seed": "1795379743796",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 54,
+    "max_tickets": 120,
+    "combined_hash": "6a94969f5b61d2a20b5cf0241ceae276b7656ea1b8a2b94446246db15f4d25e0",
+    "result": "99",
+    "external_round_id": "34192129",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:35:43.000000Z",
+    "revealed_at": "2026-11-22T20:35:51.000000Z"
+}
