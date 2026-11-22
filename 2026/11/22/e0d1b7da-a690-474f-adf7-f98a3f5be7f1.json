@@ -1,0 +1,22 @@
+{
+    "round_id": "e0d1b7da-a690-474f-adf7-f98a3f5be7f1",
+    "draw_title": "P LOUISE CAROUSEL ADVENT CALENDAR",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/p-louise-carousel-advent-calendar",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "8b09fd195937c9ce1b2ff0fc31945995523ffa1a64d78e951e5acfae6355f8bf",
+    "drand_seed_hash": "ae1157306ea659448b1ea6da68948c3ec24b27badf8e64927f9ff4dcd87f35344a91645fdb12947ff1715d2a97c1c855",
+    "client_seed": "1795381891943",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10026,
+    "max_tickets": 23000,
+    "combined_hash": "2b44472ce8666f20554aadd1184617b93ffcb9d6319cd0522088200b6f36be53",
+    "result": "14012",
+    "external_round_id": "34192844",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:11:31.000000Z",
+    "revealed_at": "2026-11-22T21:11:36.000000Z"
+}
