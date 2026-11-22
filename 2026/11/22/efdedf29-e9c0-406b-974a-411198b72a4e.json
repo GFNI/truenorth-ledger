@@ -1,0 +1,22 @@
+{
+    "round_id": "efdedf29-e9c0-406b-974a-411198b72a4e",
+    "draw_title": "Tropic 24 Days Of Pure Imagination Advent Calendar",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/tropic-24-days-of-pure-imagination-advent-calendar",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "0d5b5a7d44151c0ea6fc2e8b4c8e15f1d2d2e0c80569e141ebf37b24e867dfa7",
+    "drand_seed_hash": "8c17cea77b67dad4a5ee9dfb0da0d3286d8ed0c9ea288593337824eb9724f8235270393d42bbe3c70a574f22131df9cc",
+    "client_seed": "1795381568468",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 447,
+    "max_tickets": 599,
+    "combined_hash": "0fba1a14846f4d275dc9eedc1ab80b85eccc2c217dc4d7acbc8a4342ff0386a8",
+    "result": "186",
+    "external_round_id": "34192737",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:06:08.000000Z",
+    "revealed_at": "2026-11-22T21:06:15.000000Z"
+}
