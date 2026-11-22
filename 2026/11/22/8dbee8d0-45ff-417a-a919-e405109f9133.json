@@ -1,0 +1,22 @@
+{
+    "round_id": "8dbee8d0-45ff-417a-a919-e405109f9133",
+    "draw_title": "LOOKFANTASTIC BEAUTY ADVENT CALENDAR",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/lookfantastic-beauty-advent-calendar",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "24c761fbe1fa5a49ac8f17d401b1ce9623875c371b3778952dbc4d8972cde8ff",
+    "drand_seed_hash": "ade945f7ba04b5c4165f4674968739b3652a22f83ab6fecd1ee4aca3f38a4cb22b2b957951fc6a750578ce217160f83b",
+    "client_seed": "1795382035525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 220,
+    "max_tickets": 400,
+    "combined_hash": "eeb223f3d39072622c19a5b6a29741b9ade3ee6b6ba9edba3a281cc3ad703b7f",
+    "result": "255",
+    "external_round_id": "34192893",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:13:55.000000Z",
+    "revealed_at": "2026-11-22T21:14:03.000000Z"
+}
