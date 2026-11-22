@@ -1,0 +1,22 @@
+{
+    "round_id": "178e97a8-7f7b-4ee9-9bf1-d083509492f9",
+    "draw_title": "DreamTech Cash Heist | HUGE £5,000 Jackpot + WIN Upto £5k Instantly",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/dreamtech-cash-heist-huge-ps5000-jackpot-win-upto-ps5k-instantly",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "e8726278cfb5869fd4d4e5a52f08da6ee81bf12727e3c8b90cac3035cc021749",
+    "drand_seed_hash": "9646b7fd1a4808a40c830dc4d6ef7c0f1a0713887319f45df05e9483b0d0e5e664856525642ad84db86269c04107b5e9",
+    "client_seed": "1795380251107",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 97102,
+    "max_tickets": 950000,
+    "combined_hash": "93bcc0fe0465d37dcc24ef521eb3d4203e31506ca6d9793b270ae3ac72a14b90",
+    "result": "944052",
+    "external_round_id": "34192298",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:44:11.000000Z",
+    "revealed_at": "2026-11-22T20:44:18.000000Z"
+}
