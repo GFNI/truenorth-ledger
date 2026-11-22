@@ -1,0 +1,22 @@
+{
+    "round_id": "a7d8847e-8f4d-49e7-9683-a71631d50c47",
+    "draw_title": "Piñata smash - Three of a kind ♦️",
+    "competition_url": "https://spin2wincompetitions.co.uk/admin/products/pinata-smash-three-of-a-kind",
+    "operator": {
+        "name": "Spin2wincompetitions",
+        "website": "https://spin2wincompetitions.co.uk",
+        "company_number": "16414401"
+    },
+    "drand_server_seed": "ad8fd23db026fd437615460b58bf5731399dc4db0ce15aefdcce4096b0242528",
+    "drand_seed_hash": "b6c10491d1a8d26adbdfdd9e13bf4dd271a05f03a2ff0e949b7e963a4ef5eaca3f1ea25ef75afd6d8e0e40873977439d",
+    "client_seed": "1795381630940",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1481,
+    "max_tickets": 16000,
+    "combined_hash": "02593634654342a4299bbcbc8cc1ddf18308587bdff1683761b025a489d26799",
+    "result": "8963",
+    "external_round_id": "34192757",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:07:10.000000Z",
+    "revealed_at": "2026-11-22T21:07:15.000000Z"
+}
