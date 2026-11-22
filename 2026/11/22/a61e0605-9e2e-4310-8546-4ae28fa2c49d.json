@@ -1,0 +1,22 @@
+{
+    "round_id": "a61e0605-9e2e-4310-8546-4ae28fa2c49d",
+    "draw_title": "XSHOT BUNDLE",
+    "competition_url": "https://anotheroneraffles.co.uk/admin/products/xshot-bundle",
+    "operator": {
+        "name": "anotherone ltd",
+        "website": "https://anotheroneraffles.co.uk",
+        "company_number": "15002488"
+    },
+    "drand_server_seed": "147ebdef41e566a6775bf94bdba06201b31d2526465e2e107f59f142fde673db",
+    "drand_seed_hash": "903ea16ba7066e9e2d541b4800a98557334392f8bfe35a2dd8074d7735e4c20d6aa264810ebbc10325ce7d742300d2b1",
+    "client_seed": "1795382128619",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 938,
+    "max_tickets": 2200,
+    "combined_hash": "7e14de61d80c7d84862694a859827c7d009991aee546c734f6a03151c36bd339",
+    "result": "591",
+    "external_round_id": "34192924",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T21:15:28.000000Z",
+    "revealed_at": "2026-11-22T21:15:36.000000Z"
+}
