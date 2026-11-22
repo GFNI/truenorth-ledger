@@ -1,0 +1,22 @@
+{
+    "round_id": "be5cf653-946c-4eff-9438-c55706dee418",
+    "draw_title": "Cherry Cash - £1000 End Prize",
+    "competition_url": "https://speedcompetitions.co.uk/competition/cherry-cash-ps1000-end-prize",
+    "operator": {
+        "name": "Speed Competitions Ltd",
+        "website": "https://speedcompetitions.co.uk/",
+        "company_number": "14433938"
+    },
+    "drand_server_seed": "54bbe02b4b128f53475b32963c986db48a0c5bd129a301c7769194b474c44fb6",
+    "drand_seed_hash": "b6f6f55867b1b38fb41043de45cc91705b943d2f02d5e47b638bde4eb7e8ccfd654f657ec9cd96187849814bd2fc21d8",
+    "client_seed": "1795379916146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1690000,
+    "max_tickets": 1690000,
+    "combined_hash": "dc6013dc9dd549ad4417d84886be7fd6631a45629d460c53cccff2da1d064d49",
+    "result": "1297501",
+    "external_round_id": "34192186",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:38:36.000000Z",
+    "revealed_at": "2026-11-22T20:38:42.000000Z"
+}
