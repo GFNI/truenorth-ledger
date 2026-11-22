@@ -1,0 +1,22 @@
+{
+    "round_id": "588ebc9e-9419-4744-9be2-1e4cd2c72873",
+    "draw_title": "2023 QUEEN ELIZABETH II IN MEMORIAM £5 SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2023-queen-elizabeth-ii-in-memoriam-ps5-silver-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "c7f50d2bd59869eb90fc1f8a5c8f790b4071ed62aba9fbc1ce05155065153e82",
+    "drand_seed_hash": "89d7cb6ffaba84dd23ea0446c01790d612b9343e082b1d8e172381c0e60bf9636bf8ca91b0e8a67b7f4e50a1c8a438b8",
+    "client_seed": "1795391808597",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 100,
+    "combined_hash": "e7ce45dd989c755187d6dcee580039372b42117baee4b3784555701487281ee0",
+    "result": "88",
+    "external_round_id": "34196150",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T23:56:48.000000Z",
+    "revealed_at": "2026-11-22T23:56:54.000000Z"
+}
