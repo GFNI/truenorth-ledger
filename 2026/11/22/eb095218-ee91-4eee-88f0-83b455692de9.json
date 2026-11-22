@@ -1,0 +1,22 @@
+{
+    "round_id": "eb095218-ee91-4eee-88f0-83b455692de9",
+    "draw_title": "WIN A NeeDoh Advent Calendar 2026",
+    "competition_url": "https://wincredible.uk/admin/products/win-a-needoh-advent-calendar-2026",
+    "operator": {
+        "name": "Wincredible Ventures Ltd",
+        "website": "https://wincredible.uk",
+        "company_number": "17200732"
+    },
+    "drand_server_seed": "1693bc56553e224187c72ab18dcad706cced8b5880ca46268c0ef6e0efcecf3e",
+    "drand_seed_hash": "897523d36aea9701ccd027c2bf06c1b18df193d9b6d07a3ac813a843ef8054d72f0a5294640a1d3b313923c67a814fa2",
+    "client_seed": "1795378066920",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 89,
+    "max_tickets": 625,
+    "combined_hash": "8319d317ffb89fd103b38d8e81d5978a85560171cea034b73d057bd6575fcf93",
+    "result": "596",
+    "external_round_id": "34191570",
+    "processing_status": "completed",
+    "created_at": "2026-11-22T20:07:46.000000Z",
+    "revealed_at": "2026-11-22T20:07:54.000000Z"
+}
