@@ -1,0 +1,22 @@
+{
+    "round_id": "202b0057-de3c-4652-9b67-8431c2b41faa",
+    "draw_title": "1967 QUEEN ELIZABETH II MAUNDY MONEY – 4-COIN SILVER COLLECTION",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1967-queen-elizabeth-ii-maundy-money-4-coin-silver-collection",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "dcf9cf38b77095354aedc87974f2f7c293a110d5f3f9fce67b6122220652220c",
+    "drand_seed_hash": "88f128e42bb161c92b86de997c51736745d362f6dfb6aa25a8d8b3a7c5a6977f1ab1f1f19adceb552a9025b97a57b4e3",
+    "client_seed": "1795478130564",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 128,
+    "max_tickets": 150,
+    "combined_hash": "109ddd1fbc6e13b284c28d36ee8a2151f794a971868b77e31b666973a97540d5",
+    "result": "111",
+    "external_round_id": "34224924",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T23:55:30.000000Z",
+    "revealed_at": "2026-11-23T23:55:36.000000Z"
+}
