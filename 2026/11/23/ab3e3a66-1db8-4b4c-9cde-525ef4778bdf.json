@@ -1,0 +1,22 @@
+{
+    "round_id": "ab3e3a66-1db8-4b4c-9cde-525ef4778bdf",
+    "draw_title": "Win 2 Needoh Advent Calendars",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/win-2-needoh-advent-calendars",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "64f2cc6262354b53808144ce1965931ea5e6cabc6571c853a17fe1cf4fc0615d",
+    "drand_seed_hash": "ac5d881c4ba50d169e6b6354fc210f733d1aa6b9c52a46e6efba3c67657c338dc027854e3f947fe607214f97f77c7d77",
+    "client_seed": "1795468368731",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 75,
+    "max_tickets": 160,
+    "combined_hash": "c812ee8737bf1332275ce75658a2eabc476165b64cd8ccbc50aed19de57eeefe",
+    "result": "137",
+    "external_round_id": "34221670",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:12:48.000000Z",
+    "revealed_at": "2026-11-23T21:12:54.000000Z"
+}
