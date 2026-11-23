@@ -1,0 +1,22 @@
+{
+    "round_id": "4e55d622-f3c3-4c1f-90ae-cb7a04533b30",
+    "draw_title": "🌸 Fragrance Bundle 🌸",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/fragrance-bundle",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "0a08272049f05500bc956464b89b1288a773377ae7968ecc89d2d8a42661537c",
+    "drand_seed_hash": "b82d08a56151ec2baee4f6834205fc1349db130e501c045ddedc0c5543b5a7855d687d9997a00e567098c5e79ba27dec",
+    "client_seed": "1795463905888",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 849,
+    "max_tickets": 1195,
+    "combined_hash": "94eac1e490b6e41d0269c25fbdc2198b7ae4fa4bb8b14922cd89dfcd15a483f7",
+    "result": "364",
+    "external_round_id": "34220183",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T19:58:25.000000Z",
+    "revealed_at": "2026-11-23T19:58:33.000000Z"
+}
