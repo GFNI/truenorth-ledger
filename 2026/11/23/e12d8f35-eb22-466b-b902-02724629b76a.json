@@ -1,0 +1,22 @@
+{
+    "round_id": "e12d8f35-eb22-466b-b902-02724629b76a",
+    "draw_title": "The BIG Wera 2026 Advent Calendar Competition (+ 100 Wera Calendar Instant Wins)",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/the-big-wera-2026-advent-calendar-competition-100-wera-calendar-instant",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "d03e54bfc893c5347f1fcf88b950c48c7b63457a8dd5f5e28badc2b5d4a1fa18",
+    "drand_seed_hash": "933355579818cc12e7d574674303cbd54dabbd4e10c69c757e50d84fa5e16d005fe8a76d67f493ca51aa1f0ec0815e79",
+    "client_seed": "1795468795535",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3983,
+    "max_tickets": 100000,
+    "combined_hash": "6a1d20b62debaf7894e63ae3a6a1a86c7c46ee3c9dd682d75d31341311b9cafb",
+    "result": "57995",
+    "external_round_id": "34221813",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:19:55.000000Z",
+    "revealed_at": "2026-11-23T21:20:03.000000Z"
+}
