@@ -1,0 +1,22 @@
+{
+    "round_id": "f3845cef-e42c-4b17-a7be-5ae8deb358de",
+    "draw_title": "DAILY DRAW £250 CASH 23RD NOVEMBER '26",
+    "competition_url": "https://magmacomps.co.uk/admin/products/daily-draw-ps250-cash-23rd-november-26",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "2f354528e492e98c4ab63568373f7280c8d4bf240f16ac4da46a7661aef18752",
+    "drand_seed_hash": "8e50a441684cdd0e0b3cf494cb615c20b8a2d930210a026d0e5ff1a66f302306def7ca679ad2b46a1847079c3185ca80",
+    "client_seed": "1795471972633",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 344,
+    "max_tickets": 499,
+    "combined_hash": "c738e8b7df017966915ae1fdd54132fb8897eda27bb9e9e8d9531a2a2164ca84",
+    "result": "181",
+    "external_round_id": "34222872",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T22:12:52.000000Z",
+    "revealed_at": "2026-11-23T22:13:00.000000Z"
+}
