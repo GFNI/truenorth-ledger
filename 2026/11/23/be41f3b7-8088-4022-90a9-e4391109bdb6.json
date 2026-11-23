@@ -1,0 +1,22 @@
+{
+    "round_id": "be41f3b7-8088-4022-90a9-e4391109bdb6",
+    "draw_title": "The Big Reel",
+    "competition_url": "https://chaotic.co.uk/competition/the-big-reel",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "3dee6323eb9dd9c26feae650e87e46b078a6864fa1c939ea72da79ef7a1ef74e",
+    "drand_seed_hash": "8572e87be6b66fbe61ecc9aabffdddf42b6d428ceee70509e0098a90d35063cd39fea67c9320b527eb2e8633b9a6e972",
+    "client_seed": "1795467595086",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4999,
+    "max_tickets": 4999,
+    "combined_hash": "49cd1d7a83179d3219758e527ff288c768675594df376eeaa8141d8dbe871f6b",
+    "result": "3286",
+    "external_round_id": "34221413",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:59:55.000000Z",
+    "revealed_at": "2026-11-23T21:00:03.000000Z"
+}
