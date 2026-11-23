@@ -1,0 +1,22 @@
+{
+    "round_id": "bdb76603-d999-4641-9a3b-96cc79dc6907",
+    "draw_title": "Aldi Dash!🛒🍔🍕",
+    "competition_url": "https://competitionsne.co.uk/admin/products/aldi-dash",
+    "operator": {
+        "name": "Competitions North East Limited",
+        "website": "https://competitionsne.co.uk",
+        "company_number": "15523698"
+    },
+    "drand_server_seed": "ddfa21ecf2541a9864b85ea27784e7a1230839b05d6e651021aff2d8fead3f87",
+    "drand_seed_hash": "87f2f7d9f850376e35750309e655ab038fefdd74f62f9d7a29d344c386b76537103f492435fcd1698b175e7a9d14aa8d",
+    "client_seed": "1795467436382",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3090,
+    "max_tickets": 50000,
+    "combined_hash": "d587313b79efe3bb7abb95dc6a1d3083e8b26c616320296dae6f3b74278101ee",
+    "result": "1782",
+    "external_round_id": "34221360",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:57:16.000000Z",
+    "revealed_at": "2026-11-23T20:57:24.000000Z"
+}
