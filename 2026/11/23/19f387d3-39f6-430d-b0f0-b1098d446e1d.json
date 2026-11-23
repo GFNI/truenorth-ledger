@@ -1,0 +1,22 @@
+{
+    "round_id": "19f387d3-39f6-430d-b0f0-b1098d446e1d",
+    "draw_title": "£500 Cash - Only 40 Tickets",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/ps500-cash-only-40-tickets-7",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "7894d8a20bd2e81df1e84a5b7c2420ef1c659d23500f8cd7278faac4a616311b",
+    "drand_seed_hash": "ab01a12571d34d61347895fa77e3b6be245edec98487afe4384b2ed1fd39b63b045dda4d438e26fa6bd90b210aa6cc59",
+    "client_seed": "1795461202108",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 40,
+    "max_tickets": 40,
+    "combined_hash": "b6fd78eb74a1309f534001dee39879a284d774dcea9fd1966b96667b87b96931",
+    "result": "31",
+    "external_round_id": "34219282",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T19:13:22.000000Z",
+    "revealed_at": "2026-11-23T19:13:30.000000Z"
+}
