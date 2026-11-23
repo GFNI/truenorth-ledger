@@ -1,0 +1,22 @@
+{
+    "round_id": "1b87f3fc-2943-415d-bf2e-88eb029e5c2c",
+    "draw_title": "£1,000 CASH - LOW ODDS",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/ps1000-cash-low-odds-4",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "b1f439147ab7fcd9d740e28e14703c75bd9ebc1480908a2fc84bf1f78bcdd0c0",
+    "drand_seed_hash": "96bf2089cbb16c3dc4e53406d7427e16c790d774d5fdad34d2d84fcea1c68b8f6a4e093e06f9d4dfd10400e66ffed804",
+    "client_seed": "1795468243118",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 61,
+    "max_tickets": 75,
+    "combined_hash": "d2a84d4660bc88190af9db094a487957678fee6488b23b38e044469012233d18",
+    "result": "61",
+    "external_round_id": "34221629",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:10:43.000000Z",
+    "revealed_at": "2026-11-23T21:10:51.000000Z"
+}
