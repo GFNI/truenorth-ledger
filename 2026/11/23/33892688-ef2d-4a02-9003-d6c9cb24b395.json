@@ -1,0 +1,22 @@
+{
+    "round_id": "33892688-ef2d-4a02-9003-d6c9cb24b395",
+    "draw_title": "WIN Star Wars Tie Fighter SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-star-wars-tie-fighter-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "c192fecba7ba287e0ea0301c869746292ae402274017b1424dda5526eccb8c97",
+    "drand_seed_hash": "a885d911ab8545c3c614cfd57218b63e0f27c15b23d6511f307c7bde4c63d0044c5866c4be7582210d6b7b5f026604ab",
+    "client_seed": "1795471890881",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 72,
+    "max_tickets": 210,
+    "combined_hash": "040e94a898f399d1a359890c0d5fe1ba89c007058077561db325021813f6dc0e",
+    "result": "35",
+    "external_round_id": "34222844",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T22:11:30.000000Z",
+    "revealed_at": "2026-11-23T22:11:36.000000Z"
+}
