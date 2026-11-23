@@ -1,0 +1,22 @@
+{
+    "round_id": "2c4c335c-569a-48f6-bf4e-72ad06131116",
+    "draw_title": "Spin The Seven Seas",
+    "competition_url": "https://chaotic.co.uk/competition/spin-the-seven-seas-1845",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "67eb35b5437895cd5de55ad4d6eb385c614b1ca476048135a067c28c002b98a5",
+    "drand_seed_hash": "8d1889b97995a635f4fe2edaf94042361704a2be0c6375d9cc1b69b11e6e7bde89e96c64b01d3789455086ca959c2b6d",
+    "client_seed": "1795466883703",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "c6e84347191454b9aa9d6e2ebe555e17c2533cb6b38db6dc7e057676d60ad645",
+    "result": "839",
+    "external_round_id": "34221175",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:48:03.000000Z",
+    "revealed_at": "2026-11-23T20:48:09.000000Z"
+}
