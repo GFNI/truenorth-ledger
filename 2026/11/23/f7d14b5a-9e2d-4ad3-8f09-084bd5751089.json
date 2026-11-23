@@ -1,0 +1,22 @@
+{
+    "round_id": "f7d14b5a-9e2d-4ad3-8f09-084bd5751089",
+    "draw_title": "MONDAY - £200 CASH + £100 INSTANTS",
+    "competition_url": "https://geardowncompetitions.com/admin/products/monday-ps200-cash-ps100-instants",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "4a6fe2c2103bb7c074df15dbcf6f955140ae4719584d454248213955db185c48",
+    "drand_seed_hash": "a5a0aaa0cb26e5cfc030bfec762961fbc5ec58090c20cbbc04894178802b9efd4fe9883a2bba370b6a5651ad0ee89727",
+    "client_seed": "1795442367745",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1771,
+    "max_tickets": 2999,
+    "combined_hash": "61e7363ed3faf7c9ed678fd73615626902e9be82899426985ac7df3b16708145",
+    "result": "1614",
+    "external_round_id": "34213003",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T13:59:27.000000Z",
+    "revealed_at": "2026-11-23T13:59:33.000000Z"
+}
