@@ -1,0 +1,22 @@
+{
+    "round_id": "ed5b04e7-31d7-41d4-8bcc-3bb0308d073a",
+    "draw_title": "VOUCHER SURPRISE",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/voucher-surprise",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "d564b2fbd4a58822b4844f1c654eb7a96466c57f0fa0fe0e82c9dd8dcef0ac09",
+    "drand_seed_hash": "8c05536bf638e94210630f8fbdd2582967a776257f1e082a5b55a51764de853e94d90a9ad19eab91f0a790fe9805e08c",
+    "client_seed": "1795464647057",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2288,
+    "max_tickets": 15000,
+    "combined_hash": "14c7fba981b9a8b3f379d82cbc3390d10a33c865e7bd93da31c431c17c977245",
+    "result": "5005",
+    "external_round_id": "34220430",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:10:47.000000Z",
+    "revealed_at": "2026-11-23T20:10:54.000000Z"
+}
