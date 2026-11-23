@@ -1,0 +1,22 @@
+{
+    "round_id": "caabd64b-03db-43ea-b2e2-819f8ff0a07e",
+    "draw_title": "Odds Booster 2 Rolex Air-King WIN 20 TICKETS",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/odds-booster-2-rolex-air-king-win-20-tickets",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "05af82fe38f8b8a8607b5035e3cbd78ce45d6abc1727b3f14b8519589ae1f387",
+    "drand_seed_hash": "a049807121136cc6a952c296aae520f9db34dbd4592c3dfa0faf80fa61a0a23fd85e0bf24b748cc7a85acfb30e72ca82",
+    "client_seed": "1795458917085",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 300,
+    "max_tickets": 300,
+    "combined_hash": "fae26d374a17eec099edcdf75707dd1c86cd632d353e10c63fa8e00280f91f37",
+    "result": "11",
+    "external_round_id": "34218520",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T18:35:17.000000Z",
+    "revealed_at": "2026-11-23T18:35:24.000000Z"
+}
