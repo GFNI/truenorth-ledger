@@ -1,0 +1,22 @@
+{
+    "round_id": "62dce696-37d9-4781-84cc-0bf203d94366",
+    "draw_title": "£100 CASH",
+    "competition_url": "https://classycompetitions.co.uk/admin/products/ps100-cash-4",
+    "operator": {
+        "name": "Classy Competitions Ltd",
+        "website": "https://classycompetitions.rafflex.uk",
+        "company_number": "17126704"
+    },
+    "drand_server_seed": "b5ea2866c70e662f459f37656f70592b8bcc23bf2fb151f37569f32e2d3434e3",
+    "drand_seed_hash": "b87491fc8a68428bcd9bb7b9cdb3adba458d6bb2e987f9beea1a9cdac877a0ac11326dacb9805e4d75c2e233fd2b7079",
+    "client_seed": "1795468234552",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28,
+    "max_tickets": 100,
+    "combined_hash": "10e67f3d5d0569fa0be82c7c94ec0e70eac61316180da347b480d974fb8c9a82",
+    "result": "45",
+    "external_round_id": "34221626",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:10:34.000000Z",
+    "revealed_at": "2026-11-23T21:10:42.000000Z"
+}
