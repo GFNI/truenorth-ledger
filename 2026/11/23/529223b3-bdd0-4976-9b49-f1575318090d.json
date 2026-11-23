@@ -1,0 +1,22 @@
+{
+    "round_id": "529223b3-bdd0-4976-9b49-f1575318090d",
+    "draw_title": "Egg-cellent Adventure",
+    "competition_url": "https://chaotic.co.uk/competition/egg-cellent-adventure-7692",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "de120c4c979e152cf0999bc5a1b8d7e422da8a6699505184faaaa821defd3d8e",
+    "drand_seed_hash": "81e05d27779fd69d171519586c0c102385f6c97f99e9384adf93e8c979a7fe27f6df8febee6d0649653910508d8a67da",
+    "client_seed": "1795466531659",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 999999,
+    "max_tickets": 999999,
+    "combined_hash": "f554ac20f1cb15892e9c615ce715143ad6810e548923d1f2dc737c0401846bf6",
+    "result": "165402",
+    "external_round_id": "34221058",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:42:11.000000Z",
+    "revealed_at": "2026-11-23T20:42:18.000000Z"
+}
