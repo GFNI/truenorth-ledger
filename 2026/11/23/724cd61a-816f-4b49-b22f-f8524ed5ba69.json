@@ -1,0 +1,22 @@
+{
+    "round_id": "724cd61a-816f-4b49-b22f-f8524ed5ba69",
+    "draw_title": "£4000 BINGO BONANZA",
+    "competition_url": "https://kerchinggiveaways.co.uk/admin/products/ps4000-bingo-bonanza-2",
+    "operator": {
+        "name": "Kerching Giveaways Limited",
+        "website": "https://kerching.rafflex.uk",
+        "company_number": "17244464"
+    },
+    "drand_server_seed": "6f9795f68b50edd6c288111b111b4e3023358d923aa8dc46374c41c99af8486e",
+    "drand_seed_hash": "b07f9287ad816ae3ae4f05598d720862085c0496029cb05069a5bf8ceca0d640dc8f227dafdc245bf7fb04728b41de6e",
+    "client_seed": "1795464726371",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21609,
+    "max_tickets": 150000,
+    "combined_hash": "e56086963ba414d8bccd549773b8a42909aabf51d4b20e469a0851939bdb1de4",
+    "result": "139030",
+    "external_round_id": "34220456",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:12:06.000000Z",
+    "revealed_at": "2026-11-23T20:12:12.000000Z"
+}
