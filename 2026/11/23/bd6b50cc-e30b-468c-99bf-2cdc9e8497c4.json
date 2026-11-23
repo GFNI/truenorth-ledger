@@ -1,0 +1,22 @@
+{
+    "round_id": "bd6b50cc-e30b-468c-99bf-2cdc9e8497c4",
+    "draw_title": "10 Reasons Production Hates Us",
+    "competition_url": "https://payoutcompetitions.co.uk/admin/products/10-reasons-production-hates-us",
+    "operator": {
+        "name": "SJ Competitions NW LTD",
+        "website": "https://payoutcompetitions.co.uk",
+        "company_number": "16299709"
+    },
+    "drand_server_seed": "6da808db92374f6e7ab48d14ee72e9001e4af599b60ac0fabcf9110b10c6a5aa",
+    "drand_seed_hash": "8c27b649b43f22cb9f19a3b7285a0791f567d79a068afca7b35ea860530250ca633e42c052a11fbb2cd639edc4b34b8b",
+    "client_seed": "1795468536735",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 555,
+    "max_tickets": 10000,
+    "combined_hash": "16ce9889ddabd81335d8ada440c329bc1198a0a1cc2e61a1796c3b932145f906",
+    "result": "2823",
+    "external_round_id": "34221726",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T21:15:36.000000Z",
+    "revealed_at": "2026-11-23T21:15:42.000000Z"
+}
