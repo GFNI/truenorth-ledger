@@ -1,0 +1,22 @@
+{
+    "round_id": "67b2f110-9a90-425e-a001-0e9e2264b38c",
+    "draw_title": "📺SAMSUNG M70H 75\" 4K Mini LED Vision AI Smart TV 2026📺",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/samsung-m70h-75-4k-mini-led-vision-ai-smart-tv-2026-5",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "732339fa927aeba8b2faa3246c60533adcd5b1e11d418c509d592ce63b094d90",
+    "drand_seed_hash": "a1c28406eb241632478ce2c47b0a8ab8c36267397ce132a55f1166c6760377d0488d7d731e5806876a12426ab460c45c",
+    "client_seed": "1795463349267",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1530,
+    "max_tickets": 1530,
+    "combined_hash": "359600a0a4324e9adc57abc2385d8a558b6122abad7ae161bf4ed6194d6b47cb",
+    "result": "364",
+    "external_round_id": "34219997",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T19:49:09.000000Z",
+    "revealed_at": "2026-11-23T19:49:15.000000Z"
+}
