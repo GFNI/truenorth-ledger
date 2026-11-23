@@ -1,0 +1,22 @@
+{
+    "round_id": "9d83329e-b9da-40bb-805f-92f0516b7892",
+    "draw_title": "PLouise Advent Calendar 26",
+    "competition_url": "https://jetcomps.co.uk/admin/products/plouise-advent-calendar-26",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "ea97574e1db10a8227c322495de4d359f798ebd8c520998bb94e73ef25ef822e",
+    "drand_seed_hash": "abe7d1c9744711ff99c8ed593912189358c527c0cf5f000a9f6a26aa70f5bd5c6e20c71982c3046e4a491032607ea70b",
+    "client_seed": "1795466364418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 271,
+    "max_tickets": 435,
+    "combined_hash": "e5c89b2404ff28cc34b6c37a58ed4b86be6bb3c5ab28242cda8703166aa74a4d",
+    "result": "171",
+    "external_round_id": "34221002",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:39:24.000000Z",
+    "revealed_at": "2026-11-23T20:39:30.000000Z"
+}
