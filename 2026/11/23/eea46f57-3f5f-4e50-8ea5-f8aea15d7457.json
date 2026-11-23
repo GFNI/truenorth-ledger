@@ -1,0 +1,22 @@
+{
+    "round_id": "eea46f57-3f5f-4e50-8ea5-f8aea15d7457",
+    "draw_title": "FATPAT’s £2 SCRATCH CARD",
+    "competition_url": "https://windropcompetitions.com/admin/products/fatpats-ps2-scratch-card",
+    "operator": {
+        "name": "WDC MEDIA LIMITED",
+        "website": "https://windropcompetitions.com",
+        "company_number": "SC794684"
+    },
+    "drand_server_seed": "06938dca691e65e9ee212c84d2e7de43c935e6f224a1bdc6bb3914141f430968",
+    "drand_seed_hash": "86f3487247d0c024d9c9d4e9c3e484fe90916836007449b56df1b7fca1a334de0d7ac69f5f3ab381b920817c680fd0d6",
+    "client_seed": "1795422694249",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1549,
+    "max_tickets": 75000,
+    "combined_hash": "c14c2c10ec9f766f2505b82707fd64de0b14f77cb5c027ba3061fc48746e5a99",
+    "result": "63690",
+    "external_round_id": "34206446",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T08:31:34.000000Z",
+    "revealed_at": "2026-11-23T08:31:42.000000Z"
+}
