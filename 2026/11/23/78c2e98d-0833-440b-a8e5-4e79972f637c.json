@@ -1,0 +1,22 @@
+{
+    "round_id": "78c2e98d-0833-440b-a8e5-4e79972f637c",
+    "draw_title": "🐒 Monkey Business: £500 or Nothing! 🍌💰",
+    "competition_url": "https://carleycomps.co.uk/admin/products/monkey-business-ps500-or-nothing",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "f045f2f91081020164ad7685f5b14fc564c8cd05f7c0b99087420d0947717276",
+    "drand_seed_hash": "a047d4daa7906f4d8ab12f0f5b1eae5f3ca788a3c212b7c3380270c7854b52275569ffe1af0ea0bc9e2f5f10a55bdaae",
+    "client_seed": "1795457393897",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 177267,
+    "max_tickets": 899999,
+    "combined_hash": "4fba5a3508383590a6be1c0d44b569f9dddff2c51dbb1ac30b93695fd3deafa4",
+    "result": "539378",
+    "external_round_id": "34218012",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T18:09:53.000000Z",
+    "revealed_at": "2026-11-23T18:10:00.000000Z"
+}
