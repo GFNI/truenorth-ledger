@@ -1,0 +1,22 @@
+{
+    "round_id": "03483aed-42d7-423b-8b31-d43a482b7aa9",
+    "draw_title": "Philips All-In-One Trimmer",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/philips-all-in-one-trimmer",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "cbbfe70fde5561f4546b46df16fd14cdc90b5657ab706c7765d2af3b8038fea1",
+    "drand_seed_hash": "8f66a5ab4b9c6dca275b9748d809187661a898ddeb782aadbdd49bd73f1df224000b2d2ff8329d6ce986e8a34a6fb836",
+    "client_seed": "1795464651797",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 318,
+    "max_tickets": 500,
+    "combined_hash": "624bd055b3e40521fb977e9cca02baf750170122b1e0dc65985f15f62b750941",
+    "result": "147",
+    "external_round_id": "34220431",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:10:51.000000Z",
+    "revealed_at": "2026-11-23T20:10:57.000000Z"
+}
