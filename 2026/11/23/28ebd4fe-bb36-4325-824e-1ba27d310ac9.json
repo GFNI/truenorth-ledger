@@ -1,0 +1,22 @@
+{
+    "round_id": "28ebd4fe-bb36-4325-824e-1ba27d310ac9",
+    "draw_title": "WIN - £50 SITE CREDIT (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-ps50-site-credit-auto-draw-36",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "8813155a2a99cd5090388c83c759714b27f990b9ef796a666f456c84b5ddf6df",
+    "drand_seed_hash": "834fef59c591d43112f154b1316eed70b7d4086fdd1a1877aa99593b2d16265a6b8fbb031c4e907d9ee2df3ce322adf5",
+    "client_seed": "1795460852557",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 100,
+    "max_tickets": 100,
+    "combined_hash": "35cc55e5fddb815c327017a0f9dec525d68a893a84221f983ae330c24df7c96b",
+    "result": "2",
+    "external_round_id": "34219165",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T19:07:32.000000Z",
+    "revealed_at": "2026-11-23T19:07:39.000000Z"
+}
