@@ -1,0 +1,22 @@
+{
+    "round_id": "db77f0d3-1945-43e5-bf88-4492ce586c62",
+    "draw_title": "£500 Family Day Out Spends",
+    "competition_url": "https://chaotic.co.uk/competition/ps500-family-day-out-spends",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "1e76cc80d672ce45d4abfaae71120738cceba4066117295d9088538a6921ab57",
+    "drand_seed_hash": "819f4d87173a4368459f20af985b706ca75725379da87a0b40b7c94eedac1f1137e450e8329399a9487dd72ffcae8359",
+    "client_seed": "1795467209418",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 99,
+    "combined_hash": "96af128a1b514b8aebf475697ca0e398abff3bff273b2a0befd579f4e7ce52c8",
+    "result": "98",
+    "external_round_id": "34221284",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:53:29.000000Z",
+    "revealed_at": "2026-11-23T20:53:36.000000Z"
+}
