@@ -1,0 +1,22 @@
+{
+    "round_id": "d5230450-e3f8-42c4-a750-b524dd8a925d",
+    "draw_title": "Spinvasion",
+    "competition_url": "https://chaotic.co.uk/competition/spinvasion-2254",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "5057f66dbd14bbeaad486e69164738dd3d261bd348145157ee872e93c5d87fdf",
+    "drand_seed_hash": "b521837461f8cd327c831806e0ab2db8b356186e32353f80588d31791693404e81bd393bf816092a919789fdab452f88",
+    "client_seed": "1795466999878",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "71c10f9615a8fb244dce83d58a6b76a212c049b61b35adfff2b0c3ac8175bf85",
+    "result": "4962",
+    "external_round_id": "34221214",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:49:59.000000Z",
+    "revealed_at": "2026-11-23T20:50:06.000000Z"
+}
