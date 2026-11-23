@@ -1,0 +1,22 @@
+{
+    "round_id": "e4aa05f7-b9fe-4b86-b2aa-aba1af5b67ba",
+    "draw_title": "WIN A MARVEL HULK BOA CASE",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-a-marvel-hulk-boa-case",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "e5961917c2d6f0e8afe1f767e72511616178406ef8579b8163c0b1abfd189745",
+    "drand_seed_hash": "a21a5cca12d0326da3f28210e3c8e4abdeda80f62cc34f1b4bea39c2602d8c35891616d3743541c1e27a217ed794029d",
+    "client_seed": "1795471956534",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 32,
+    "max_tickets": 130,
+    "combined_hash": "f9d5a48d5bc575ccfe69a2ca7615287f86174afaeed3667e8e44f20834b44a27",
+    "result": "18",
+    "external_round_id": "34222866",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T22:12:36.000000Z",
+    "revealed_at": "2026-11-23T22:12:42.000000Z"
+}
