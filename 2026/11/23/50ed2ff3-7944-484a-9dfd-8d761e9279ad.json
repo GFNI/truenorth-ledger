@@ -1,0 +1,22 @@
+{
+    "round_id": "50ed2ff3-7944-484a-9dfd-8d761e9279ad",
+    "draw_title": "💤 2 Night Stay for 2 at Dalmeny Park House Hotel, Glasgow + £150 💤",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/2-night-stay-for-2-at-dalmeny-park-house-hotel-glasgow-ps150",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "9f0bba119918c0a3ec43abdadfb15f3d9e8bcbaa67a052a45e8549392df572c1",
+    "drand_seed_hash": "82e1f696b32bf52dff55a3cbace3c067e062001df34921284492e21546a8151c5e28b5eac98e9d7eeb733c1c55c1b8ad",
+    "client_seed": "1795464097616",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 853,
+    "max_tickets": 1175,
+    "combined_hash": "16d07fccafbf6b700d3de5a6987a0afb629a5a1b7304b57b19dd293c240bd9c7",
+    "result": "82",
+    "external_round_id": "34220247",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:01:37.000000Z",
+    "revealed_at": "2026-11-23T20:01:45.000000Z"
+}
