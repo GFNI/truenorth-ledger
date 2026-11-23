@@ -1,0 +1,22 @@
+{
+    "round_id": "f44f6346-bb2c-4b01-8eb2-a296973288c8",
+    "draw_title": "Gem Miner",
+    "competition_url": "https://jetcomps.co.uk/admin/products/gem-miner2",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "aca40cf47f99974add04e91825b681927a5d0cdef20da9d975a82a9fae416887",
+    "drand_seed_hash": "b371099150ccb05fdfeb4906bef84c4cbc9e58be852c70c3cc3b0443a39b90d6c500e5546adc44f4ac83515e888a036e",
+    "client_seed": "1795465690525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2132,
+    "max_tickets": 5642,
+    "combined_hash": "892544859b217b1372c6f35e87abd1446013bd1b1438692852c7028c33cf4a93",
+    "result": "1458",
+    "external_round_id": "34220778",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T20:28:10.000000Z",
+    "revealed_at": "2026-11-23T20:28:18.000000Z"
+}
