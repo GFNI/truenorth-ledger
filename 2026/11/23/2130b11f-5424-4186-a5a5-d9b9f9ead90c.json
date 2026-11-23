@@ -1,0 +1,22 @@
+{
+    "round_id": "2130b11f-5424-4186-a5a5-d9b9f9ead90c",
+    "draw_title": "Pokémon 30th Celebration Elite Trainer Box",
+    "competition_url": "https://thecashkings.co.uk/admin/products/pokemon-30th-celebration-elite-trainer-box",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "9684961a35348d85999d6a52f9ad8c34d20bd07a35a68c855ec8bab37f6c5022",
+    "drand_seed_hash": "b993947b8385b2e9b7799a246195acc2e25a4c4d14abb66e4a3f6e34bc8b08cafb839f22f35ccd7165bf0dbe2e760fca",
+    "client_seed": "1795413803296",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "cb3a8f3df49dc5b72762302ef7485a5b1b3086344109f2fa2430d1158ff0d01d",
+    "result": "876",
+    "external_round_id": "34203482",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T06:03:23.000000Z",
+    "revealed_at": "2026-11-23T06:03:30.000000Z"
+}
