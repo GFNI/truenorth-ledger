@@ -1,0 +1,22 @@
+{
+    "round_id": "ceb61a12-c73c-4824-9bc5-0b8ae587c283",
+    "draw_title": "🏃‍♀️ New Domino Run Instant Win 🏃‍➡️",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/new-domino-run-instant-win",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "1e79a5e0cf81a7a1f02b9eccd4cbe42c8ae4b2ffa8f1d15ab30593b32bd42613",
+    "drand_seed_hash": "aa64d3255f021d346fce027af90a3486e9cdf27d9a021cb5fcd2d4cd5dcf61a032eab3c64c59d4abc8a02bd069732beb",
+    "client_seed": "1795471816027",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 93832,
+    "max_tickets": 410000,
+    "combined_hash": "1c476efe03107475ee9e68c2138c95f91649da29c2df31846fc9353b99794080",
+    "result": "130029",
+    "external_round_id": "34222820",
+    "processing_status": "completed",
+    "created_at": "2026-11-23T22:10:16.000000Z",
+    "revealed_at": "2026-11-23T22:10:24.000000Z"
+}
