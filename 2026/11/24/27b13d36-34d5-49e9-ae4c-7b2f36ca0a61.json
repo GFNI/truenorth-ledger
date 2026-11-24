@@ -1,0 +1,22 @@
+{
+    "round_id": "27b13d36-34d5-49e9-ae4c-7b2f36ca0a61",
+    "draw_title": "GRAB A GRAND",
+    "competition_url": "https://geardowncompetitions.com/admin/products/grab-a-grand",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "3e2d89d93af88a72996ad0a39f71e93235232ba1fedcbfa735cc40580a72f538",
+    "drand_seed_hash": "894dd60c24fd499725f82e8563b1a3c1fc237d8a1f2b1110990371bc209c0a8114c1b69d287f5584013e4fdbce0c1537",
+    "client_seed": "1795556153611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 206739,
+    "max_tickets": 999999,
+    "combined_hash": "8859f0e6076276d3fcaf15584668a5863ae66922d5de09e8e40c10936a09c74f",
+    "result": "515115",
+    "external_round_id": "34250932",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:35:53.000000Z",
+    "revealed_at": "2026-11-24T21:36:00.000000Z"
+}
