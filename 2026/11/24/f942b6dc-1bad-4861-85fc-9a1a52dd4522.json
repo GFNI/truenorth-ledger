@@ -1,0 +1,22 @@
+{
+    "round_id": "f942b6dc-1bad-4861-85fc-9a1a52dd4522",
+    "draw_title": "Precise180 Subterra Nordic Grey 3D Surround",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/precise180-subterra-nordic-grey-3d-surround-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "007170398ad618894e36543b9aa10958bab8d7a33bf240c0c29e74e44b6603d2",
+    "drand_seed_hash": "b88cbb7386fa4b8c2d6c557b2426feb249bebe51d261ee720131043d856a55a3f08d9da0fa91e819be64b1005156e909",
+    "client_seed": "1795552887325",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 210,
+    "combined_hash": "9c1bb943370aa937676912a46a77f65143532e814dc985fc5f2f8f310f967c29",
+    "result": "121",
+    "external_round_id": "34249843",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:41:27.000000Z",
+    "revealed_at": "2026-11-24T20:41:33.000000Z"
+}
