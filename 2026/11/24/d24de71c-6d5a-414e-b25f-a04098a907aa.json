@@ -1,0 +1,22 @@
+{
+    "round_id": "d24de71c-6d5a-414e-b25f-a04098a907aa",
+    "draw_title": "WIN ANY 2026/27 PREMIER LEAGUE SHIRT",
+    "competition_url": "https://topdogprizes.com/admin/products/win-any-202627-premier-league-shirt-3",
+    "operator": {
+        "name": "TopDog Prizes",
+        "website": "https://topdogprizes.com",
+        "company_number": "NI726650"
+    },
+    "drand_server_seed": "5d5ac686a11aa40824ddf6a12d31067459e000645a4d8471bce8388080e2e5db",
+    "drand_seed_hash": "b6600c11c3529c9891a4c8a31c3dd2e56e295dae7a9c8b95c39a35a173f5b82fe5cb81ecef35dcff89b2c1bbbd18df2e",
+    "client_seed": "1795551346076",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 62,
+    "max_tickets": 179,
+    "combined_hash": "8855303a9ec4a75fc52b47d8338c20f8b195f7a6e4cf3e70236dca474ba03208",
+    "result": "22",
+    "external_round_id": "34249330",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:15:46.000000Z",
+    "revealed_at": "2026-11-24T20:15:54.000000Z"
+}
