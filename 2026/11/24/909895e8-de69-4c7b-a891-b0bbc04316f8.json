@@ -1,0 +1,22 @@
+{
+    "round_id": "909895e8-de69-4c7b-a891-b0bbc04316f8",
+    "draw_title": "Double Bubble - Win £500 Cash + £500 Ticket bundle into NEW VW GOLF GTI EDITION 50 OR £40,000 CASH! #2",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/double-bubble-win-ps500-cash-ps500-ticket-bundle-into-new-vw-golf-gti-2",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "cccc32be2c6f8b5ca628e2727b447ea24b282b98f43714426a3723dca1ec244e",
+    "drand_seed_hash": "a0a80bcef6bd445304aa0de30d1c96248c76c6896dbe29f0e2ac617bd9fa83863705764de9652e81c4c75329240d818a",
+    "client_seed": "1795554693570",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 200,
+    "max_tickets": 200,
+    "combined_hash": "dbb44543d324b68b0b13599378172a2a5ea329ca61a5a3a15d53062d30b85171",
+    "result": "156",
+    "external_round_id": "34250445",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:11:33.000000Z",
+    "revealed_at": "2026-11-24T21:11:39.000000Z"
+}
