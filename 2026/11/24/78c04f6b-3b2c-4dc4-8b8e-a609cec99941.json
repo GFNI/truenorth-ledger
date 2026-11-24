@@ -1,0 +1,22 @@
+{
+    "round_id": "78c04f6b-3b2c-4dc4-8b8e-a609cec99941",
+    "draw_title": "THE GHOULISH GLOW-UP: WIN THE LOOKFANTASTIC BEAUTY ADVENT CALENDAR OR £90 CASH",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-ghoulish-glow-up",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "1713dace1397f87f6efc3f682b92841fc687053eb24815ecc63383a6fc2bc464",
+    "drand_seed_hash": "b1a27da0a56e2bfd4fe8bffdb311ade40447c50e62cae8abe769c9fb0469923394c55a72d897771629ac9d21b26212de",
+    "client_seed": "1795549026047",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 389,
+    "max_tickets": 1150,
+    "combined_hash": "b6897fc63ca13f9d8e970c4f72b06866ac512579864e87df9f6b5120e2715699",
+    "result": "45",
+    "external_round_id": "34248556",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:37:06.000000Z",
+    "revealed_at": "2026-11-24T19:37:12.000000Z"
+}
