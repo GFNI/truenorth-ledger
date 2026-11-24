@@ -1,0 +1,22 @@
+{
+    "round_id": "b081db73-e670-4454-a9d5-824fe09343cd",
+    "draw_title": "£350 SITE CREDIT",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps350-site-credit-2",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "472fa087d26a5ac86f764d36a0332a1e0fa5667324d8de0a1523f14eb152257f",
+    "drand_seed_hash": "acd555ef3a40b91fc915e13438626848b0b5ba978dca3f39dfa5ae00813fe42cdc10ab8beb6985461d3070a06212a599",
+    "client_seed": "1795548772650",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9999,
+    "max_tickets": 9999,
+    "combined_hash": "8280e10698ead138540fb0221b22dea911dade751a3c63cb3a4daf248d0dc731",
+    "result": "3340",
+    "external_round_id": "34248472",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:32:52.000000Z",
+    "revealed_at": "2026-11-24T19:33:00.000000Z"
+}
