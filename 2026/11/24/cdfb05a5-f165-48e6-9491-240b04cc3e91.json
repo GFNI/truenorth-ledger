@@ -1,0 +1,22 @@
+{
+    "round_id": "cdfb05a5-f165-48e6-9491-240b04cc3e91",
+    "draw_title": "£500 Daily Cash Draw 24 Nov 2026",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/club-daily-1-20261124",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "5557598aedefaac19ee5c7b654b7225eb925e64458969d1a55eb00713135e99a",
+    "drand_seed_hash": "b7a650b05616e8da05e0f5192b6806dad7f8094a2ab56bdc6c9f45b7df1fba93a7cd4a027a4f11faa3a9c86cb397315c",
+    "client_seed": "1795554730233",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 13530,
+    "max_tickets": 16895,
+    "combined_hash": "04ef48ae50785b96aab483c59680b808f9774b2cc3861e6f63db04b550040bd7",
+    "result": "14610",
+    "external_round_id": "34250457",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:12:10.000000Z",
+    "revealed_at": "2026-11-24T21:12:15.000000Z"
+}
