@@ -1,0 +1,22 @@
+{
+    "round_id": "1f247858-c300-4a8e-ad0e-b00e9dabff59",
+    "draw_title": "🎅🎄🎶 HO HO HOLY SIGNS! 🎶🎄🎅",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/ho-ho-holy-signs",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "35422a4b987c3549fafe8131a8989da6bc99af83f38721e7d4130931aa730055",
+    "drand_seed_hash": "8f7da0011ef6afa4e41d6f274654d2c67289c37057c5dae74d7f1554a654d4296944e3d3b53efde8a6c508636a5200c1",
+    "client_seed": "1795547608895",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6167,
+    "max_tickets": 50000,
+    "combined_hash": "a5a9f67b1a7f138cfd067357ea0654ebb16210f9e70df95b6548983a072c1e24",
+    "result": "12854",
+    "external_round_id": "34248084",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:13:28.000000Z",
+    "revealed_at": "2026-11-24T19:13:36.000000Z"
+}
