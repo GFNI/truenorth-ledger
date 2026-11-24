@@ -1,0 +1,22 @@
+{
+    "round_id": "487f289c-3cbd-43dd-9be3-d96cb3cf52ab",
+    "draw_title": "🎰 LOCKOS JACKPOT SLOTS 🎰 PLUS INSTANT WINS!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/lockos-jackpot-slots-plus-instant-wins",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "09c4ceefdfe40c42b05583275c610ce8ab4692793a37b434c71fc383e06e765c",
+    "drand_seed_hash": "882b36d6b00a9756786ee860c2439da159f75c63c97148970717bf1bce13461b0748306630bad7827ec25e621a87c7ad",
+    "client_seed": "1795552653998",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 31308,
+    "max_tickets": 394000,
+    "combined_hash": "b2b4950a8dd7a81228cd0ff035c76f8f729f8031ff2f84ba04b747974d630273",
+    "result": "283283",
+    "external_round_id": "34249766",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:37:34.000000Z",
+    "revealed_at": "2026-11-24T20:37:42.000000Z"
+}
