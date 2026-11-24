@@ -1,0 +1,22 @@
+{
+    "round_id": "e0d941b7-fba3-4fda-8ae2-87620f95e5aa",
+    "draw_title": "WIN 975 Ultra Marine 01 SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-975-ultra-marine-01-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "30e4fd197c99ef7650add95577bc49b2c4fcef744e86b23361425c1774fa8b49",
+    "drand_seed_hash": "a57e2fc2f6689f11bf90993387b0bd7130aa4a576ec0c1d6a2a54c87856c38f69b885bdd27fbd699a6c5b6249c6c1263",
+    "client_seed": "1795552973082",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 153,
+    "max_tickets": 350,
+    "combined_hash": "8160b08179f37754dba276667116c01cd490b35df255560cbf2e55ae3e077bea",
+    "result": "106",
+    "external_round_id": "34249872",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:42:53.000000Z",
+    "revealed_at": "2026-11-24T20:43:00.000000Z"
+}
