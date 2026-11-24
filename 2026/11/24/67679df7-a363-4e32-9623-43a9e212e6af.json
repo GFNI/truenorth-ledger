@@ -1,0 +1,22 @@
+{
+    "round_id": "67679df7-a363-4e32-9623-43a9e212e6af",
+    "draw_title": "🎅🏻WHERES SANTA?🎅🏻",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/wheres-santa",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "b68b03e7af4ce93ebcca53fe159c0fc2edf780e4af138c0cdf93c591d485bdda",
+    "drand_seed_hash": "a093f3a0db5bcb77bccc0afebdef6d8051d8390d79c189e13d4cfb9f8fd3ee73e160daf8e9c0bd032d62d5555e613b9d",
+    "client_seed": "1795547413486",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 20019,
+    "max_tickets": 129000,
+    "combined_hash": "3afc195d526a7561c164229221d5271561204d499c81295d028f0ae759309778",
+    "result": "52059",
+    "external_round_id": "34248019",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:10:13.000000Z",
+    "revealed_at": "2026-11-24T19:10:21.000000Z"
+}
