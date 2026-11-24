@@ -1,0 +1,22 @@
+{
+    "round_id": "c8c172f0-f0d6-46f0-be93-bfeac4a307ae",
+    "draw_title": "Santa's 3p for £3,000! + Win Upto £3,000 Cash Instantly",
+    "competition_url": "https://ryscompetitions.com/admin/products/santas-3p-for-ps3000-win-upto-ps3000-cash-instantly",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "b050af2b18604292358581703efc6a79925723e5bf6e29eee87f3f4b82ebcddc",
+    "drand_seed_hash": "870b47d2ade209b0a44f9fcbd41b9556d55490803658d2be14d387030e8fa24bc50e5fb397958cf2eb9f080b84b41f1a",
+    "client_seed": "1795555247936",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1111956,
+    "max_tickets": 1400000,
+    "combined_hash": "6796e12d7618b28886717f348ef5e93375ba25dd0c58ac6623286e518439bccc",
+    "result": "1158824",
+    "external_round_id": "34250630",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:20:48.000000Z",
+    "revealed_at": "2026-11-24T21:20:54.000000Z"
+}
