@@ -1,0 +1,22 @@
+{
+    "round_id": "a2a3fb46-382a-457a-95f4-5edbf8046b9d",
+    "draw_title": "Win £1,000 Cash - Mega Low Odds",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/win-ps1000-cash-mega-low-odds-9",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "5e049f77b23064e41f818ce19ab979a8ec13a2dfb2691e31e3bb4a1b6ab6d85e",
+    "drand_seed_hash": "944dc22cac2843d782f7a226c96ee5cc6aec2db86c676413252556b01a29695eab15ef3498bb04562849bde1832b69e8",
+    "client_seed": "1795554793280",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 160,
+    "max_tickets": 160,
+    "combined_hash": "d7748d14ed5fd34894f59519e2034b5f080c061f50750c2b7723ed29006a79d1",
+    "result": "88",
+    "external_round_id": "34250479",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:13:13.000000Z",
+    "revealed_at": "2026-11-24T21:13:21.000000Z"
+}
