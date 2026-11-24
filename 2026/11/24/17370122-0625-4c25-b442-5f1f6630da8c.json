@@ -1,0 +1,22 @@
+{
+    "round_id": "17370122-0625-4c25-b442-5f1f6630da8c",
+    "draw_title": "FURY V JOSHUA (FLOOR SEATS) & HOTEL!",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/fury-v-joshua-floor-seats-hotel",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "13c78d25ed658fd4b83bbc97fb97d4ebb944f9cd8ae5874925678f25e6d5c051",
+    "drand_seed_hash": "af2b8531b3c0382a743f289c1a855550ba1783a5bd49fa4aa5a87ba3bb98db7c167beae91fd0bd25abe63a0ad65327d5",
+    "client_seed": "1795555736905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2816,
+    "max_tickets": 7500,
+    "combined_hash": "bc80a4627397609ad949a9de1d371633042de41648d78b5b5a28bc3af5bd2834",
+    "result": "5529",
+    "external_round_id": "34250793",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:28:56.000000Z",
+    "revealed_at": "2026-11-24T21:29:03.000000Z"
+}
