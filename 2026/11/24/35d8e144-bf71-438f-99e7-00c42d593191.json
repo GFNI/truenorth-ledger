@@ -1,0 +1,22 @@
+{
+    "round_id": "35d8e144-bf71-438f-99e7-00c42d593191",
+    "draw_title": "Marks & Spencers £200 voucher #2",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/marks-spencers-ps200-voucher-2",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "9e8903d236c3b0ae41323b3b5307cbb45e2ad8f452356f51440a6621e80b22a2",
+    "drand_seed_hash": "8cf4eed1bd21b2c18bd223cb42931d3f8b24da7e34914a00a53b0ae125c2f4ee095303597933b1c4a651878097081b70",
+    "client_seed": "1795556724604",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6000,
+    "max_tickets": 6000,
+    "combined_hash": "993dcf15da1cc3fb58d0a3e154b3d6d6f9d59b6d3a24b014e458009728eed3ce",
+    "result": "5258",
+    "external_round_id": "34251122",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:45:24.000000Z",
+    "revealed_at": "2026-11-24T21:45:30.000000Z"
+}
