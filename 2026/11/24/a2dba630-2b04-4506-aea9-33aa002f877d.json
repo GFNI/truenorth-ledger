@@ -1,0 +1,22 @@
+{
+    "round_id": "a2dba630-2b04-4506-aea9-33aa002f877d",
+    "draw_title": "Santa's Christmas Shop",
+    "competition_url": "https://pouncecompetitions.co.uk/admin/products/santas-christmas-shop",
+    "operator": {
+        "name": "Pounce Ltd",
+        "website": "https://pouncecompetitions.co.uk",
+        "company_number": "17495392"
+    },
+    "drand_server_seed": "0eea870e8126a1e1e5f2f9f7b258ba4e799d8c527bfdd2929cb6f56ed4a30da4",
+    "drand_seed_hash": "b9eecf60ef3038b5ca1c7fbdadfa2f1f2f3a0b14d0259299b09133e1a3b7cac32387199e295fd3c76808d84ad14b9e8d",
+    "client_seed": "1795551150667",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 113,
+    "max_tickets": 399,
+    "combined_hash": "c149e7fbfee40a9252fe019fd5f91db35da1a44c26929dd9882b2aae634c2709",
+    "result": "191",
+    "external_round_id": "34249264",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:12:30.000000Z",
+    "revealed_at": "2026-11-24T20:12:36.000000Z"
+}
