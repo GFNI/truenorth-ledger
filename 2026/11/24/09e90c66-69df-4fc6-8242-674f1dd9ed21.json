@@ -1,0 +1,22 @@
+{
+    "round_id": "09e90c66-69df-4fc6-8242-674f1dd9ed21",
+    "draw_title": "1869 YOUNG HEAD SHIELD BACK FULL SOVEREIGN + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1869-young-head-shield-back-full-sovereign-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "36dc571b3b63d1437c6cf807e626e707d4c93f499c8dc5c05c81163a31357a0b",
+    "drand_seed_hash": "b62b7d5cfd9b77a69b67d73d3bc125ebe7f34bce8cfbe48d6f41ea692f5becaa2250b08bd3aa82920c750a3b846ea537",
+    "client_seed": "1795554380224",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6709,
+    "max_tickets": 8000,
+    "combined_hash": "b8d310d60dc7a974e5df3b1183d2392fdda2dbed7ae4dd229a7733472862faac",
+    "result": "3001",
+    "external_round_id": "34250341",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:06:20.000000Z",
+    "revealed_at": "2026-11-24T21:06:27.000000Z"
+}
