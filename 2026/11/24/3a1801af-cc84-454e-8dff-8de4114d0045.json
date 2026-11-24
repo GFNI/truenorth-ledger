@@ -1,0 +1,22 @@
+{
+    "round_id": "3a1801af-cc84-454e-8dff-8de4114d0045",
+    "draw_title": "£4,000 For 4p + 10 x £400 Cash Instant Wins",
+    "competition_url": "https://ryscompetitions.com/admin/products/ps4000-for-4p-10-x-ps400-cash-instant-wins",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "5112493d428f354c1f493cf3ca364812affa2abe538772c977ad8bd170ea1e0d",
+    "drand_seed_hash": "85ec153dd4ef90d7749116b31dbff675417a70b98a92de5c21b24cfc037370af7f7fec1c150259af63e3882e8218e16e",
+    "client_seed": "1795555583375",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 208047,
+    "max_tickets": 400000,
+    "combined_hash": "f47f7b883027a516af6fb2f0a3233b5ff5120455bd9647198f3e88b9b012565a",
+    "result": "195061",
+    "external_round_id": "34250742",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:26:23.000000Z",
+    "revealed_at": "2026-11-24T21:26:30.000000Z"
+}
