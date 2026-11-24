@@ -1,0 +1,22 @@
+{
+    "round_id": "d8cd163f-1d6f-483e-82be-2a419b0ce47c",
+    "draw_title": "1p Auto Draw - £200 TTG Site Credit - ONLY 150 Entries",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-ps200-ttg-site-credit-only-150-entries",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "925a6188aa002f2ddf87c907805ddb8e6da106ee09e69fd2219bc62d74de69c5",
+    "drand_seed_hash": "abd205f520b038e71501e4fa402556c49ade38221a4bd5f0625b109e30ca1c12b6a73fef33b186555878fabe725878b5",
+    "client_seed": "1795558272634",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 123,
+    "max_tickets": 150,
+    "combined_hash": "f34f55e10d747160774db000ae0364017fb1ac955b30b706790cba39697c833c",
+    "result": "78",
+    "external_round_id": "34251638",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T22:11:12.000000Z",
+    "revealed_at": "2026-11-24T22:11:18.000000Z"
+}
