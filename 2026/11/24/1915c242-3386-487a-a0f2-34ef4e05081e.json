@@ -1,0 +1,22 @@
+{
+    "round_id": "1915c242-3386-487a-a0f2-34ef4e05081e",
+    "draw_title": "5 Winners - 50 Tickets Into £4,000 & £3,000 Draws",
+    "competition_url": "https://ryscompetitions.com/admin/products/5-winners-50-tickets-into-ps4000-ps3000-draws",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "744059e0d4edd7e61473fbea0bda8b886c3c91dcc25c57ee2310e6abd9d49607",
+    "drand_seed_hash": "a10ad7cf3b80d0e5b10137f9c4132a878a152a083a6002afaa5407833f0984408cd4355b88342c28252b8cf14bd7c74f",
+    "client_seed": "1795550516194",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1145,
+    "max_tickets": 2500,
+    "combined_hash": "428cb4f532fd3f7b9af088acad0cfaeed78d8d1bf427fe90a45ed3007d17f8db",
+    "result": "307",
+    "external_round_id": "34249053",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:01:56.000000Z",
+    "revealed_at": "2026-11-24T20:02:03.000000Z"
+}
