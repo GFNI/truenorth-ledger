@@ -1,0 +1,22 @@
+{
+    "round_id": "f7260976-d6c5-4228-8c6a-71bcb5b26f4d",
+    "draw_title": "WIN Gerwyn Price RD-PRO Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-gerwyn-price-rd-pro-darts-2",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "8b8c828286b52a2e00acb71efc77bcd5f47a27dad382f6ad1cdd765245bb7616",
+    "drand_seed_hash": "b54d01d4363368ba7198663f5070b149722eba7fccb1b526eccdaf6157c4ad26d7651b123a9e06802081b452ff36b5ad",
+    "client_seed": "1795552729947",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 90,
+    "combined_hash": "eb62dce74424a6019a71491f5b2d145dce1e380ea30b917245f68c530c91c1dd",
+    "result": "50",
+    "external_round_id": "34249791",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T20:38:50.000000Z",
+    "revealed_at": "2026-11-24T20:38:57.000000Z"
+}
