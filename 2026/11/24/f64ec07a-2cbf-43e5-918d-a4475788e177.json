@@ -1,0 +1,22 @@
+{
+    "round_id": "f64ec07a-2cbf-43e5-918d-a4475788e177",
+    "draw_title": "💥FIREWORK FEVER💥",
+    "competition_url": "https://sweepstarz.co.uk/admin/products/firework-fever",
+    "operator": {
+        "name": "sweepstarz LTD",
+        "website": "https://sweepstarz.co.uk",
+        "company_number": "15392271"
+    },
+    "drand_server_seed": "d840c07ab4266cf2a8befd4c73f7ec353e0d993ed8f1edecef8f940cc62ebb21",
+    "drand_seed_hash": "9416be607708e5ddb7f4b999ab22b26b1f477179f1dd15619e79cb06e0da4d33213db5db9caae6153c334a0e367ab02b",
+    "client_seed": "1795547716455",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2355,
+    "max_tickets": 50000,
+    "combined_hash": "c0847f32d3e38c1dcaf6e4bcafd6d54972b61ef3adcba239a9516c6e76596b17",
+    "result": "17857",
+    "external_round_id": "34248120",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:15:16.000000Z",
+    "revealed_at": "2026-11-24T19:15:24.000000Z"
+}
