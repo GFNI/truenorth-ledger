@@ -1,0 +1,22 @@
+{
+    "round_id": "70ae87f0-e5e9-4b3a-9801-04a26808ceb4",
+    "draw_title": "WIN A LUXURY CHEESE, CHARCUTERIE & WINE HAMPER",
+    "competition_url": "https://redhotraffles.co.uk/admin/products/win-a-luxury-cheese-charcuterie-wine-hamper-2",
+    "operator": {
+        "name": "Red Hot Raffles Ltd",
+        "website": "https://redhotraffles.rafflex.uk",
+        "company_number": "13853424"
+    },
+    "drand_server_seed": "639da55ec5515fc6a2391d3ba62be2b1acb86722e993e82eafdf2bbfde3294df",
+    "drand_seed_hash": "991d28a76dbeeb672667f23c92bf55cf50ce3bd2740924b24170ad9e3878c3a0a62cf50792b8ab16e597dbb9a14798eb",
+    "client_seed": "1795556562203",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "5e0b819f74aa99d438c53561bd0897b7f4cb7b6585493216785df65e28a7f1fa",
+    "result": "1399",
+    "external_round_id": "34251068",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:42:42.000000Z",
+    "revealed_at": "2026-11-24T21:42:48.000000Z"
+}
