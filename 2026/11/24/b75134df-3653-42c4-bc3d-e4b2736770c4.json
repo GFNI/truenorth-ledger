@@ -1,0 +1,22 @@
+{
+    "round_id": "b75134df-3653-42c4-bc3d-e4b2736770c4",
+    "draw_title": "Bruichladdich Trio",
+    "competition_url": "https://thewhiskyconnection.com/admin/products/bruichladdich-trio",
+    "operator": {
+        "name": "The Whisky Connection",
+        "website": "https://thewhiskyconnection.com",
+        "company_number": "SC866375"
+    },
+    "drand_server_seed": "a67cec453cf9b061a194b897a14d713ecfa6fa7d7c9bff830bcef5b636c51b2b",
+    "drand_seed_hash": "ac6dca6b797f068900e5f974be2159514eac3b47b32feca6012716317c7123f1ce6b873a419ee786e566917eac7339dd",
+    "client_seed": "1795555317052",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 69,
+    "combined_hash": "9e58c25e1f6167cd54d0b0cb907eb15ba72589b15f0668db2f8fc5b6dc388bfa",
+    "result": "61",
+    "external_round_id": "34250653",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T21:21:57.000000Z",
+    "revealed_at": "2026-11-24T21:22:03.000000Z"
+}
