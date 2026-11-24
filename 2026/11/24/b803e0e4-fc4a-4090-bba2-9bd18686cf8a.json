@@ -1,0 +1,22 @@
+{
+    "round_id": "b803e0e4-fc4a-4090-bba2-9bd18686cf8a",
+    "draw_title": "£500 test draw do not enter",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/ps500-test-draw-do-not-enter-3",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "94ad9023e5bb06d62d195692c7848e5260676ec0d2172284b0173cf90a6eb94a",
+    "drand_seed_hash": "b2d0f1f3cd2e71a1788f0a157f96536172280b371082410c2f779fb3c3da6f4a93f3f7f3052ad4b4a5e3f41d5baed4bb",
+    "client_seed": "1795530374770",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "3bbc1218f2dd256d99212012cee73d6e0781271242ffbea13f22c6101b8366d7",
+    "result": "10",
+    "external_round_id": "34242339",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T14:26:14.000000Z",
+    "revealed_at": "2026-11-24T14:26:21.000000Z"
+}
