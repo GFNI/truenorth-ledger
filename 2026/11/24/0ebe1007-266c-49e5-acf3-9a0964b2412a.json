@@ -1,0 +1,22 @@
+{
+    "round_id": "0ebe1007-266c-49e5-acf3-9a0964b2412a",
+    "draw_title": "THE PENNY DREADFUL",
+    "competition_url": "https://spookycompetitions.com/admin/products/the-penny-dreadful-3",
+    "operator": {
+        "name": "Spooky Competitions Ltd",
+        "website": "https://spookycompetitions.com",
+        "company_number": "16323850"
+    },
+    "drand_server_seed": "628c20575335b3711df32d1fafc3fb49c7b38f0f0b91c69f702e9f6cee118983",
+    "drand_seed_hash": "82d5eab77149b6684876bddf5a1d678c954bc2a3bf1e501bbc3050e376d991edf9786287c1eeb07519d511c066257cd7",
+    "client_seed": "1795548870435",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1108,
+    "max_tickets": 1250,
+    "combined_hash": "2db0bd9ddbc32c6fc3449e4c436903c8b49898692953c98975ac1b16f543177d",
+    "result": "568",
+    "external_round_id": "34248504",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T19:34:30.000000Z",
+    "revealed_at": "2026-11-24T19:34:36.000000Z"
+}
