@@ -1,0 +1,22 @@
+{
+    "round_id": "8e03e34c-6b5d-4d4d-b5de-298e01ae67a0",
+    "draw_title": "£1,000,000 Chaotic Christmas Special",
+    "competition_url": "https://chaotic.co.uk/competition/ps1000000-chaotic-christmas-special",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "93b6f575913b794a40f12f8ed391f65f5129f066b9e6cfa053ffcdbc5d6cb669",
+    "drand_seed_hash": "afb9b82e4d3090a529df72ec2ed06afe40bda1523a83b2aa2c832fc7d8568b9df8e711a333decc4e181c82505be490e2",
+    "client_seed": "1795535970718",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1371963,
+    "max_tickets": 5600000,
+    "combined_hash": "4f5cb6516ea787180b74e589d7a842f6dc169ce327f5204883a62c2ecf7e8277",
+    "result": "4505680",
+    "external_round_id": "34244204",
+    "processing_status": "completed",
+    "created_at": "2026-11-24T15:59:30.000000Z",
+    "revealed_at": "2026-11-24T15:59:36.000000Z"
+}
