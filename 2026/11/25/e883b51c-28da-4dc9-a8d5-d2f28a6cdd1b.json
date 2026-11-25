@@ -1,0 +1,22 @@
+{
+    "round_id": "e883b51c-28da-4dc9-a8d5-d2f28a6cdd1b",
+    "draw_title": "Nintendo Switch 2 & Pokémon Legends: Z-A bundle",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/nintendo-switch-2-pokemon-legends-z-a-bundle",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "919f693d6db0018ea6a4bdb12406ff72ae48b07fb56be8b4bfb64b22c9db22d1",
+    "drand_seed_hash": "8a94ec8765eab7e1021456b81c5de3a00cbbe6457c1328bc425b0cdb143764bb2b2145a197231b4a534435f8c8c3754e",
+    "client_seed": "1795639283831",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 34000,
+    "max_tickets": 34000,
+    "combined_hash": "3463489f0267452efdd22d7e3b82413f0a11609808bcffefd0d11ab444e9d5ce",
+    "result": "23333",
+    "external_round_id": "34278642",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:41:23.000000Z",
+    "revealed_at": "2026-11-25T20:41:30.000000Z"
+}
