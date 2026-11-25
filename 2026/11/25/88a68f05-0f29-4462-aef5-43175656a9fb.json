@@ -1,0 +1,22 @@
+{
+    "round_id": "88a68f05-0f29-4462-aef5-43175656a9fb",
+    "draw_title": "Beat The Dealer - £200 Autodraw + Instawin up to £750",
+    "competition_url": "https://rubycompetitions.co.uk/admin/products/beat-the-dealer-ps200-autodraw-instawin-up-to-ps750",
+    "operator": {
+        "name": "Ruby Competitions Ltd",
+        "website": "https://rubycompetitions.co.uk",
+        "company_number": "NI716871"
+    },
+    "drand_server_seed": "afa21f05a74d1729d68ddaecdb69a365a9a6558ded469213d4b1e23a954c6882",
+    "drand_seed_hash": "977245f1ada70be0706139b2f1270c2f9a382ba08c4e68dda6052de6af85d5260fe0db8a4531dbca02af742e1f2054be",
+    "client_seed": "1795637470338",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69476,
+    "max_tickets": 76190,
+    "combined_hash": "b2f098c13b104eef5f22810e877878f008b161ae21ae61143a041fb9d734c932",
+    "result": "46079",
+    "external_round_id": "34278038",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:11:10.000000Z",
+    "revealed_at": "2026-11-25T20:11:18.000000Z"
+}
