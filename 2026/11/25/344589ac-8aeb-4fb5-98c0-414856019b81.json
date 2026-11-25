@@ -1,0 +1,22 @@
+{
+    "round_id": "344589ac-8aeb-4fb5-98c0-414856019b81",
+    "draw_title": "Christmas Sorted Instant Wins - £1,000 CASH JACKPOT End Prize",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/christmas-sorted-instant-wins-ps1000-cash-jackpot-end-prize",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "b9e77f89487d58113b2f80d3930e4f479196523ba987af6330cbd56cb54e6173",
+    "drand_seed_hash": "829ada108cfe1c8dc97987bcf098c5d189aa4956390836d2ec54bdacdb7c7ee696bb6d16262bbb209dec2c736051dfe1",
+    "client_seed": "1795641328261",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8445,
+    "max_tickets": 40000,
+    "combined_hash": "049858cf4d8addee973ff3ac14ed7d8fc67dac90bda16e89a5728dc619e6b1e9",
+    "result": "9797",
+    "external_round_id": "34279324",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:15:28.000000Z",
+    "revealed_at": "2026-11-25T21:15:36.000000Z"
+}
