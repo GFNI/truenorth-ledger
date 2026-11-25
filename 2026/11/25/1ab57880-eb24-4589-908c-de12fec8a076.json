@@ -1,0 +1,22 @@
+{
+    "round_id": "1ab57880-eb24-4589-908c-de12fec8a076",
+    "draw_title": "WIN Black Marque Enzo SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-black-marque-enzo-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "797da26cbeeb272b5233aa868dd247ff6b4be22dd8b55d56d968a74e2eb7c8d9",
+    "drand_seed_hash": "a31d7e52f3a705f2489c44e88b1848759f347f6166b9751de35e1d5db422a40632d40356f297eba4419a67bb58e1eac7",
+    "client_seed": "1795644732522",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 70,
+    "max_tickets": 120,
+    "combined_hash": "7dd8d8510debc55e676e2d8756e32176c399f53f8ead58750a32dc85b9987a1a",
+    "result": "54",
+    "external_round_id": "34280458",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:12:12.000000Z",
+    "revealed_at": "2026-11-25T22:12:18.000000Z"
+}
