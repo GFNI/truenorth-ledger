@@ -1,0 +1,22 @@
+{
+    "round_id": "842366e4-136d-4644-b7e5-49a8d1e50fcd",
+    "draw_title": "2022 QUEEN ELIZABETH II £5 SILVER PROOF COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2022-queen-elizabeth-ii-ps5-silver-proof-coin",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "698e915dc4c4b63f831f395908b8218fcc7edade06c4c98c0873987b4e099e84",
+    "drand_seed_hash": "abab3867127d57995aa99ed97f70faa98a0238cbdfe9fdec632711df32d38804b5438925edf9cde03786a906c39e9763",
+    "client_seed": "1795650925049",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 126,
+    "max_tickets": 200,
+    "combined_hash": "d4c00f39bece4f6079151b67191b927668e39f106f105b3c3906c933a5f02531",
+    "result": "117",
+    "external_round_id": "34282523",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T23:55:25.000000Z",
+    "revealed_at": "2026-11-25T23:55:33.000000Z"
+}
