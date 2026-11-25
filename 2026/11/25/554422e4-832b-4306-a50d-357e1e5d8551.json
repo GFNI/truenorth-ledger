@@ -1,0 +1,22 @@
+{
+    "round_id": "554422e4-832b-4306-a50d-357e1e5d8551",
+    "draw_title": "Hotel Chocolat Grand Wreath Box",
+    "competition_url": "https://ogcompetitions.co.uk/lists/hotel-chocolat-grand-wreath-box",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "187763d4088f76afe795d857f33d72dc46a94889d6486fed03eb8fdc2c8dde40",
+    "drand_seed_hash": "b8883666f3543b1f9ef92c6c973c9a89a1b9c250e590cc44b2834217b6fb4f92708207651f5ba15a99cc583c3dd160bf",
+    "client_seed": "1795645323345",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 106,
+    "combined_hash": "b365e5ac71a37942c21c0daa748005c0fc4d7f1a71203bfaae55e36d05d52a55",
+    "result": "22",
+    "external_round_id": "34280655",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:22:03.000000Z",
+    "revealed_at": "2026-11-25T22:22:13.000000Z"
+}
