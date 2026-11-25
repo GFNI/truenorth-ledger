@@ -1,0 +1,22 @@
+{
+    "round_id": "f12b7a7d-8043-4a5e-a618-1679589ab4bc",
+    "draw_title": "THE TICKET BOOTH: Speyside Express!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/the-ticket-booth-speyside-express",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "3e602bba404510788b05e3b55834469da81414eb85876b96c5891d1877435d78",
+    "drand_seed_hash": "a4d062c9aaa3cb733790b5cfa71c62b72c700ebbc421c6400111dcf21913d315744bb75a12f4d340d62ed0fdcd99ae1e",
+    "client_seed": "1795645308671",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 9897,
+    "max_tickets": 40000,
+    "combined_hash": "94598cfef6bdd22d0dc96d6f4a0b4980e0457e6d018e0615a898af7d0ced2d1b",
+    "result": "10837",
+    "external_round_id": "34280650",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:21:48.000000Z",
+    "revealed_at": "2026-11-25T22:21:54.000000Z"
+}
