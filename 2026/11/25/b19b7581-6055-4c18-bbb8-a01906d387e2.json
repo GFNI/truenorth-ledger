@@ -1,0 +1,22 @@
+{
+    "round_id": "b19b7581-6055-4c18-bbb8-a01906d387e2",
+    "draw_title": "£500 TAX FREE CASH",
+    "competition_url": "https://magmacomps.co.uk/admin/products/ps500-tax-free-cash-3",
+    "operator": {
+        "name": "Magma Competitions Ltd",
+        "website": "https://magmacomps.rafflex.uk",
+        "company_number": "16657592"
+    },
+    "drand_server_seed": "0c067f8f33003525a93a88c0806d176bf333c2f8d8e74366990f11b4fc18f622",
+    "drand_seed_hash": "a9c669fb6c58a78aa8f27f06f2382c7e15ad1cefa6aa76c427333f9120eb1fad231e1691759b1d056978e56c004d6f8f",
+    "client_seed": "1795641175821",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 987,
+    "max_tickets": 1999,
+    "combined_hash": "1a9a318e9050491797dcfce5439937f7688c1c1fb443570bd23e1853fafdce70",
+    "result": "791",
+    "external_round_id": "34279273",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:12:55.000000Z",
+    "revealed_at": "2026-11-25T21:13:03.000000Z"
+}
