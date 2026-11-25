@@ -1,0 +1,22 @@
+{
+    "round_id": "e85b0a89-62a9-44cb-81e5-4879325f36fd",
+    "draw_title": "WIN A RED BULL ADVENT CALENDAR!! 8 TO WIN!",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/win-a-red-bull-advent-calendar-8-to-win",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "753310d6de54d057b1f40656d6e97aeb1c2bc12da163eafc5ca15cc4ccedbd0b",
+    "drand_seed_hash": "81d038a4df58a74270ffa8871376c02743e39c1163e68b48e461496664be3bcbfcac0e19b164e6cc23069011d19aacd8",
+    "client_seed": "1795637160738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 5000,
+    "max_tickets": 5000,
+    "combined_hash": "dbc910f805e13e2df4c348397bbdc10136a66f15b0df236866a612c82cd2a405",
+    "result": "4820",
+    "external_round_id": "34277934",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:06:00.000000Z",
+    "revealed_at": "2026-11-25T20:06:06.000000Z"
+}
