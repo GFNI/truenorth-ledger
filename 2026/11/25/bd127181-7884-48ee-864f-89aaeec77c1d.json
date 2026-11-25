@@ -1,0 +1,22 @@
+{
+    "round_id": "bd127181-7884-48ee-864f-89aaeec77c1d",
+    "draw_title": "🎄CHRISTMAS PARTY READY INSTANTS🎄",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/christmas-party-ready-instants",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "f323a59dbef5d13be77eda5db0bb61cb9aacd54436fee7a356fce12d513796de",
+    "drand_seed_hash": "b500790cad2b3c40beb1736c92df7b86a4e0e0b6c0d5652305c95289b977a6b0a959c3e27008a95077fa60d37270e9b0",
+    "client_seed": "1795641045198",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 59662,
+    "max_tickets": 384200,
+    "combined_hash": "f962afd7678e17bb84e05d3a33abb9e49b7682cc1535abdfa9a619313aabb36f",
+    "result": "199978",
+    "external_round_id": "34279229",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:10:45.000000Z",
+    "revealed_at": "2026-11-25T21:10:51.000000Z"
+}
