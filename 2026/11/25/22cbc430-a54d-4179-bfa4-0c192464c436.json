@@ -1,0 +1,22 @@
+{
+    "round_id": "22cbc430-a54d-4179-bfa4-0c192464c436",
+    "draw_title": "GlenAllachie Whisky Advent Calendar! Instant Win Competition!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/glenallachie-whisky-advent-calendar-instant-win-competition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "88af1c753272576270f6978b08e13d50add26d82104cd1b876e42c5df06533bd",
+    "drand_seed_hash": "96a516c45e7fc1cd2334956968bac4131ebb33b1d6ddb745ca72c0c3a7e340d268a4c906c6cdd88c8896fe112ab2b104",
+    "client_seed": "1795644804548",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 967,
+    "max_tickets": 999,
+    "combined_hash": "514d45c798b2e03065a87180d410000f10be02952332e12cf12185e24b995034",
+    "result": "316",
+    "external_round_id": "34280482",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:13:24.000000Z",
+    "revealed_at": "2026-11-25T22:13:30.000000Z"
+}
