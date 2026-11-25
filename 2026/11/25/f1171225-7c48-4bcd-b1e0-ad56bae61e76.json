@@ -1,0 +1,22 @@
+{
+    "round_id": "f1171225-7c48-4bcd-b1e0-ad56bae61e76",
+    "draw_title": "£1,000 DUCK RACE! 🦆",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/ps1000-duck-race",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "fb257276af11b3438dcc7f364487fdc14f292f0131994c1bdac764ec94f0a835",
+    "drand_seed_hash": "a0fcf574b20c188d17c69bdec463c00ec430f17312559d3bae479b7823fb67e47a2da7bb1ec7c5b7f58418a8d3e54dd4",
+    "client_seed": "1795642810480",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 493806,
+    "max_tickets": 1000000,
+    "combined_hash": "702272bd0f092778c351e22a22e46cd320195b8d1e6add109f8f4b11aa9d42c8",
+    "result": "373745",
+    "external_round_id": "34279818",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:40:10.000000Z",
+    "revealed_at": "2026-11-25T21:40:18.000000Z"
+}
