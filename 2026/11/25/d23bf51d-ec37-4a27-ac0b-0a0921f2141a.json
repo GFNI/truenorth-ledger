@@ -1,0 +1,22 @@
+{
+    "round_id": "d23bf51d-ec37-4a27-ac0b-0a0921f2141a",
+    "draw_title": "Bank it or Box it",
+    "competition_url": "https://chaotic.co.uk/competition/bank-it-or-box-it",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "740079c18f2cb95e22a3db74fb62507792861614000375d8836e895d5779ca65",
+    "drand_seed_hash": "b0c006646d6b8b5e4b3430af1d0103fd8f4cd8e9194204cb40c585b917d331a7ba49c50c6f3ee46ad815c1971cd9af9d",
+    "client_seed": "1795639362295",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4000,
+    "max_tickets": 4000,
+    "combined_hash": "96069c6eebb0dcdbcb2d533ff6928e590ff39cf0dc1624a1a3963e94475a4ef1",
+    "result": "3063",
+    "external_round_id": "34278668",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:42:42.000000Z",
+    "revealed_at": "2026-11-25T20:42:48.000000Z"
+}
