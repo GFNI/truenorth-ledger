@@ -1,0 +1,22 @@
+{
+    "round_id": "ab9423be-fe8c-4de8-a53e-bbfccd34472f",
+    "draw_title": "test test test Do not Enter",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/test-test-test-do-not-enter",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "f2b913b96a9342dce11e583972163426299c70c4b0eea37a341e387993a014d3",
+    "drand_seed_hash": "817a4277ca5b7bb7ece0564fbd1debbbe05c54f0da4ba447a8834ad319e89e53a5e53935a03ab1da734e27188c9639b8",
+    "client_seed": "1795601976733",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10,
+    "max_tickets": 10,
+    "combined_hash": "10e94f7e21851778375bb6e34cc14e22fde92a9a0bb4e5b03993643c7b074b0b",
+    "result": "5",
+    "external_round_id": "34266206",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T10:19:36.000000Z",
+    "revealed_at": "2026-11-25T10:19:42.000000Z"
+}
