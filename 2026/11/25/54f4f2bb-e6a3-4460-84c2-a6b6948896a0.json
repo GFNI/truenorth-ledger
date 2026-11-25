@@ -1,0 +1,22 @@
+{
+    "round_id": "54f4f2bb-e6a3-4460-84c2-a6b6948896a0",
+    "draw_title": "The Big Box!",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/the-big-box-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "889a2c5a9d5d9bd1df3cfd093847517bee5e65fbd41ed24b7b077125c9503bcf",
+    "drand_seed_hash": "9266b8150c352e96353d58a2fc90a4c5fe3b801e0d0d1802f498a59a33d8a017e55a434e387f29bb445b39fe74f19974",
+    "client_seed": "1795638730090",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 136,
+    "max_tickets": 220,
+    "combined_hash": "968b30645abcb08dd87ddcf5a13179e7c257870a467b25f07262956fb052d5f0",
+    "result": "103",
+    "external_round_id": "34278458",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:32:10.000000Z",
+    "revealed_at": "2026-11-25T20:32:18.000000Z"
+}
