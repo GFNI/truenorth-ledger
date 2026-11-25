@@ -1,0 +1,22 @@
+{
+    "round_id": "90ccfa34-dd98-46ce-86e5-6215bcea6d90",
+    "draw_title": "Loot Or No Loot",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/loot-or-no-loot",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "eee58ff833a8dfdb82d66b79efccb0ee600c5cb603595ed451446c6ade74c21a",
+    "drand_seed_hash": "8966893828be40a67836b645208c58371fb596ff308706989f7a5d3ab2bc5f8e74e3a19a1350cad6ab8d362262be4da4",
+    "client_seed": "1795623975481",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 213486,
+    "max_tickets": 360000,
+    "combined_hash": "20f37eb337a5826a55ee6080a94b04581e6010935092d13ae678075e49e5d39e",
+    "result": "41441",
+    "external_round_id": "34273539",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T16:26:15.000000Z",
+    "revealed_at": "2026-11-25T16:26:21.000000Z"
+}
