@@ -1,0 +1,22 @@
+{
+    "round_id": "d1ae747d-3648-4e3e-bd03-6edf07728aee",
+    "draw_title": "WIN AN IPAD 11\" WIFI + CELLULAR",
+    "competition_url": "https://prizehubuk.co.uk/admin/products/win-an-ipad-11-wifi-cellular",
+    "operator": {
+        "name": "Prize Hub UK Ltd",
+        "website": "https://prizehubuk.co.uk",
+        "company_number": "15802523"
+    },
+    "drand_server_seed": "880c21b0cc7368f29fba1729e61ad07e9def7b4d99c92ad5daf7e4737ddae42a",
+    "drand_seed_hash": "8f5b2ad00f5a4982de71deccc0c51c23e46447031ecf6e464d03cc34f0e7c4cacf2731f512b7270932709bf7f6d3f0d3",
+    "client_seed": "1795637840197",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4807,
+    "max_tickets": 10999,
+    "combined_hash": "d50170637b8c052b0183f0be355fcc1bdff546bfdc7437b62adbf787f7f725aa",
+    "result": "562",
+    "external_round_id": "34278161",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:17:20.000000Z",
+    "revealed_at": "2026-11-25T20:17:27.000000Z"
+}
