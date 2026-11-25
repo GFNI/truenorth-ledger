@@ -1,0 +1,22 @@
+{
+    "round_id": "a560ee63-243c-4628-8d34-06ebf3ff78af",
+    "draw_title": "🎃👻 ETIAW – FOUR SHADES OF FRIGHT! 👻🎃",
+    "competition_url": "https://hiphipprizehub.com/admin/products/etiaw-four-shades-of-fright",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "b21c783dd5aa82dc667c9a98b3f76c49df417dd60f8b1758d56a5aefc79ccfa6",
+    "drand_seed_hash": "88d860dbf06fdcd870b0fcf80e60f8eef139c65a1e6125bce8fe1598f5361c556bb091177a7fd90b2c01fdc8170fc32e",
+    "client_seed": "1795641389370",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1000,
+    "max_tickets": 1000,
+    "combined_hash": "c27fadaa5d8e6a71b94e357da8bc93c31dffc72a4e361e4edebd2ca735efc4ca",
+    "result": "155",
+    "external_round_id": "34279344",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:16:29.000000Z",
+    "revealed_at": "2026-11-25T21:16:36.000000Z"
+}
