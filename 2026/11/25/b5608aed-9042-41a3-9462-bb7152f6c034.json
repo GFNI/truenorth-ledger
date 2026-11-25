@@ -1,0 +1,22 @@
+{
+    "round_id": "b5608aed-9042-41a3-9462-bb7152f6c034",
+    "draw_title": "Ulitmate PS5 Gaming Bundle",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/ulitmate-ps5-gaming-bundle",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "f4c8f644aeb59d771db09950965411d91616c48f6ee907ac80ab602c2698297b",
+    "drand_seed_hash": "97bb271006a80ef480af213fdac200301c600f2b744428b36de75189beadc3f7c4645f51dd0af888e32ab366097d0ba9",
+    "client_seed": "1795640938284",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 824,
+    "max_tickets": 999,
+    "combined_hash": "ba60bc01d414b36afd5b187c262ea78dd6dcad3f89ba98dae95610f681a79ad3",
+    "result": "898",
+    "external_round_id": "34279193",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:08:58.000000Z",
+    "revealed_at": "2026-11-25T21:09:03.000000Z"
+}
