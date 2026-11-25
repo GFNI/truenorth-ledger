@@ -1,0 +1,22 @@
+{
+    "round_id": "f85ec2c3-0555-4d33-960b-4b2121709928",
+    "draw_title": "Lucky Leprechauns Gems",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/lucky-leprechauns-gems",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "5b6c69680c7ad1d67e2d4ea7cf90c7f14ddcd4a683bc86ce20a073f2e3970e90",
+    "drand_seed_hash": "8173044adcfe067cf486d7ca87280091895b6e8eac0da2c496457a59f83de061fb3f020d62e93f0815b4eeb85d69cebb",
+    "client_seed": "1795640894965",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 615647,
+    "max_tickets": 700000,
+    "combined_hash": "42d8a9012a12be9b5994489582a65d827cc0c87fa4329fc6c5976098220a8208",
+    "result": "608163",
+    "external_round_id": "34279179",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:08:15.000000Z",
+    "revealed_at": "2026-11-25T21:08:21.000000Z"
+}
