@@ -1,0 +1,22 @@
+{
+    "round_id": "0fdd962e-0fde-4b3d-8a2a-a81e0b6fa0c0",
+    "draw_title": "Santa's Cheeky Monkey's | Grab A Monkey & Win £500 Cash",
+    "competition_url": "https://ryscompetitions.com/admin/products/santas-cheeky-monkeys-grab-a-monkey-win-ps500-cash",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "d1ffa63ae644e371ee207d51eeb48bf9815aedde27b9db9cbd2a8b6ff108d370",
+    "drand_seed_hash": "887c8a6dcce15d313d362ec23d7530dcd407e1684ce24ff8c1ecc44f24c272dbd021feb74fa114a29a403354f3764a13",
+    "client_seed": "1795643080711",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 108192,
+    "max_tickets": 400000,
+    "combined_hash": "65a697938fce3caa01a3c8a38e56b58047e8690365c071f824bff4cff82a202e",
+    "result": "189286",
+    "external_round_id": "34279908",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:44:40.000000Z",
+    "revealed_at": "2026-11-25T21:44:48.000000Z"
+}
