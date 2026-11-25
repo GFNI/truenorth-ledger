@@ -1,0 +1,22 @@
+{
+    "round_id": "9329ff62-7e5e-460e-8dd0-9896eaabe3c8",
+    "draw_title": "FREE ENTRY - GERWYN PRICE RD-ADV (£1 MIN SPEND IN LAST 24H)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/free-entry-gerwyn-price-rd-adv-ps1-min-spend-in-last-24h-3",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "04f22f2c68f5933d2658dbe747487b2e8af0a8911b0561d42035e8a6526bddf6",
+    "drand_seed_hash": "89af7183fcf24566e883f95d054d7100fadbd3135055ebc5b8c9ed07dbf8c6e17b7012a9ec2e831631f7baba7871b369",
+    "client_seed": "1795644619313",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 250,
+    "combined_hash": "63d903f3d3a81ee1977cc65f72ad0caf89cad8865407cff5f847695f35d58931",
+    "result": "248",
+    "external_round_id": "34280421",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:10:19.000000Z",
+    "revealed_at": "2026-11-25T22:10:27.000000Z"
+}
