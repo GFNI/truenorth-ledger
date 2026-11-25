@@ -1,0 +1,22 @@
+{
+    "round_id": "031b787c-7016-44db-a880-a04a41f4a5f3",
+    "draw_title": "Win £500 Cash",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/win-ps500-cash-57",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "d624d3e615248d460d9eee8ffec5871ff4e3858bf3940ab57db7f79d763d0e38",
+    "drand_seed_hash": "a938c9a411fdd0234a4a0cb2a5186e70208666b56b5d9174d028e75c7921391c7fc603fc92433e3e3c61e04f6cc73c99",
+    "client_seed": "1795645112258",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 885,
+    "max_tickets": 1000,
+    "combined_hash": "e8fcddc2fa43e9c4a1ceb4648264ff0194da588428b978b8580db84ce081a911",
+    "result": "105",
+    "external_round_id": "34280585",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:18:32.000000Z",
+    "revealed_at": "2026-11-25T22:18:39.000000Z"
+}
