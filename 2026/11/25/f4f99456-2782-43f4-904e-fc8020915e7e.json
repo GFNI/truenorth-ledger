@@ -1,0 +1,22 @@
+{
+    "round_id": "f4f99456-2782-43f4-904e-fc8020915e7e",
+    "draw_title": "P Louise Advent Calendar Plus Instant Advents & Cash",
+    "competition_url": "https://enhancedlifecompetitions.co.uk/admin/products/plou",
+    "operator": {
+        "name": "Enhanced Life Competitions",
+        "website": "https://enhancedlifecompetitions.co.uk",
+        "company_number": "15187903"
+    },
+    "drand_server_seed": "a33ba7d5b06d5caad6e356e0842eb02b1a1b0e9eac1d093e221408a92cde54b5",
+    "drand_seed_hash": "afe27152428fd9df2a162b859460ea341a853c9c8a98024f7614a1d777f65420c50cb0865c6c517b9f73a2112b388fd5",
+    "client_seed": "1795639314024",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7651,
+    "max_tickets": 20000,
+    "combined_hash": "c27aa076574982d9628b608b3b9722945382095b63c6cad8bc259a064c447718",
+    "result": "8675",
+    "external_round_id": "34278652",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:41:54.000000Z",
+    "revealed_at": "2026-11-25T20:42:00.000000Z"
+}
