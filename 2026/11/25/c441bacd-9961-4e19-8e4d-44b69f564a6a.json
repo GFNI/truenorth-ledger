@@ -1,0 +1,22 @@
+{
+    "round_id": "c441bacd-9961-4e19-8e4d-44b69f564a6a",
+    "draw_title": "Cracking Cash 💰",
+    "competition_url": "https://Skylinecomps.co.uk/admin/products/cracking-cash",
+    "operator": {
+        "name": "Skyline Competitions ltd",
+        "website": "https://Skylinecomps.co.uk",
+        "company_number": "16072553"
+    },
+    "drand_server_seed": "e8c56b431e4e9bed1813be5691d45efee0be76103f6f613f95c2756bfffc6677",
+    "drand_seed_hash": "aeb31044bf569dd0baa0f0d8aa3a52acae5950cf328e1d9f6e50b969d80a425dd394fadd633eed3eea281d8bcc8657e4",
+    "client_seed": "1795624004697",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 221581,
+    "max_tickets": 360000,
+    "combined_hash": "c803501401f97e9c3bb2a13fa93f0c9ccdfac201bb9d753b13430dc6fbdb0110",
+    "result": "228169",
+    "external_round_id": "34273549",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T16:26:44.000000Z",
+    "revealed_at": "2026-11-25T16:26:51.000000Z"
+}
