@@ -1,0 +1,22 @@
+{
+    "round_id": "ab1a7c19-058a-4525-bfe5-107d25b5cc1b",
+    "draw_title": "LOW ODDS - Win a £1,000 Golden Ticket Into New VW Golf GTI Edition 50 or £40,000 cash main draw #4",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/low-odds-win-a-ps1000-golden-ticket-into-new-vw-golf-gti-edition-50-or-3",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "dad656a976982175503596554e592a9d3c041529c3d0345d65829dc9e0409987",
+    "drand_seed_hash": "b0b3fa26b02ed398ec55760fdc794983ceb7b3f4989b46eb6453ac7ec1a3522093de9386166cc15e3e3938db404bd2d9",
+    "client_seed": "1795640795458",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 81,
+    "max_tickets": 100,
+    "combined_hash": "46de024a0c6a1fe8db907c87cd1221866f57e3185e8b8e690a742f72fe7fd4a4",
+    "result": "59",
+    "external_round_id": "34279146",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:06:35.000000Z",
+    "revealed_at": "2026-11-25T21:06:42.000000Z"
+}
