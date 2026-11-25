@@ -1,0 +1,22 @@
+{
+    "round_id": "e5e89bb6-b541-435f-800a-cb84a250bc5d",
+    "draw_title": "REMEMBER REMEMBER THE CASH OF NOVEMBER",
+    "competition_url": "https://goldcoastcomps.co.uk/admin/products/remember-remember-the-cash-of-november",
+    "operator": {
+        "name": "Gold Coast Comps",
+        "website": "https://goldcoastcomps.co.uk",
+        "company_number": "NI734582"
+    },
+    "drand_server_seed": "f6f2ba100fe5180a10720a746e28a617d057766dae91b5264e94e1048cd36982",
+    "drand_seed_hash": "b364c4418dd21f92478cae45c4532897a2c9d8cc8c55dea46afedf7bc8611b8364117c5291c1229eece8041275503707",
+    "client_seed": "1795641061703",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10425,
+    "max_tickets": 58000,
+    "combined_hash": "6f3250a709723a3f1fba064d368c3436a39a704377f7f988c0a2c289dab4e338",
+    "result": "24864",
+    "external_round_id": "34279235",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:11:01.000000Z",
+    "revealed_at": "2026-11-25T21:11:09.000000Z"
+}
