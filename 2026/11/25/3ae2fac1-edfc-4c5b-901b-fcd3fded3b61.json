@@ -1,0 +1,22 @@
+{
+    "round_id": "3ae2fac1-edfc-4c5b-901b-fcd3fded3b61",
+    "draw_title": "£150 With 15 x £50s",
+    "competition_url": "https://ogcompetitions.co.uk/lists/ps150-with-15-x-ps50s",
+    "operator": {
+        "name": "OG Competitions",
+        "website": "https://ogcompetitions.co.uk",
+        "company_number": "OG Competitions"
+    },
+    "drand_server_seed": "8ee737a9e21d2ed20435be3bbcd40798ee8703fec969325458a714561ab059a0",
+    "drand_seed_hash": "b5117be95b7355b0f86eca33412ef939a95ef17a89e27a822bc4d37d358b971e9be89bb7cb88b0182f4166932449c2fa",
+    "client_seed": "1795645447468",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1,
+    "max_tickets": 160000,
+    "combined_hash": "bb28049efe259b3200b05e7d1028091dc4aa866b30784a4b7bee1937324ea3e4",
+    "result": "32700",
+    "external_round_id": "34280697",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:24:07.000000Z",
+    "revealed_at": "2026-11-25T22:24:16.000000Z"
+}
