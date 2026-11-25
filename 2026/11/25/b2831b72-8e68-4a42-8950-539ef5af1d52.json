@@ -1,0 +1,22 @@
+{
+    "round_id": "b2831b72-8e68-4a42-8950-539ef5af1d52",
+    "draw_title": "SAMSUNG Galaxy Z Fold8 - 512 GB Lavender",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/samsung-galaxy-z-fold8-512-gb-lavender",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "69446997cc0856f4b1b1c9266c55591057456c90fbf73d4ea0edb75ae583430d",
+    "drand_seed_hash": "847fc6bc65b22e12ec0384978816805d69bac2047b7dd5dc270e369083f558cbc317003d8328a11c3d54d746f5b8dd40",
+    "client_seed": "1795639711626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 43714,
+    "max_tickets": 67000,
+    "combined_hash": "ad9eba6deed3c316e5ef4c98274e39838594b2a37a642038a5ec56466fd6c20c",
+    "result": "54862",
+    "external_round_id": "34278785",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:48:31.000000Z",
+    "revealed_at": "2026-11-25T20:48:39.000000Z"
+}
