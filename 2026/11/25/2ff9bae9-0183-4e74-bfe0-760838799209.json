@@ -1,0 +1,22 @@
+{
+    "round_id": "2ff9bae9-0183-4e74-bfe0-760838799209",
+    "draw_title": "no prize test rn",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/no-prize-test-rn",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "6935918dd41db85e5d088e8b22a3aef12c6f334cce3250fdf664120a1a68186a",
+    "drand_seed_hash": "b5c456e64f05b0b39fae6fb74f347452432c2365b82b82401b47457b17cf3b34c5c7cd96a04e8030c875f90785eb17ed",
+    "client_seed": "1795597694095",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 30,
+    "combined_hash": "d7bc503465f2c7c32ba0290156eb8da5564e0bdcff75dcc678865c93edcf4371",
+    "result": "26",
+    "external_round_id": "34264779",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T09:08:14.000000Z",
+    "revealed_at": "2026-11-25T09:08:21.000000Z"
+}
