@@ -1,0 +1,22 @@
+{
+    "round_id": "ba4426c8-8920-4580-aaf4-2967ceaceca3",
+    "draw_title": "Whisky Advent Calendar! Instant Win Competition!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/whisky-advent-calendar-instant-win-competition",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "f0f34132c4a8e97e7b3163decf97e6db4808668bef8882367f8f794c924747ed",
+    "drand_seed_hash": "b10973d121d3ad0b09bab31e46305710edb5d24e45fc10185d2830e06f48f58fba95b79eba80f39813f9231155332697",
+    "client_seed": "1795644798569",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 813,
+    "max_tickets": 1999,
+    "combined_hash": "fb4b2667f87545e36a59ec709dcd50a20714975ac4a54bc26013a35829323e85",
+    "result": "782",
+    "external_round_id": "34280480",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:13:18.000000Z",
+    "revealed_at": "2026-11-25T22:13:24.000000Z"
+}
