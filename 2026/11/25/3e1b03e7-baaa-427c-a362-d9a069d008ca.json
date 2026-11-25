@@ -1,0 +1,22 @@
+{
+    "round_id": "3e1b03e7-baaa-427c-a362-d9a069d008ca",
+    "draw_title": "🎄🧸 JINGLE BELL JELLYCATS 🧸🎄",
+    "competition_url": "https://hiphipprizehub.com/admin/products/jingle-bell-jellycats",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "8f76f572f7866225241c82685f54d247b3108ffbc46b28e5a9afbbe8e057a583",
+    "drand_seed_hash": "8c622783a4de84ace25cf54a872bc787b8cdc850df32c65a34a0b2adc361fa642cdff22836a77ce0fc47d350fc460046",
+    "client_seed": "1795641127514",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1500,
+    "max_tickets": 1500,
+    "combined_hash": "b15319adb556c3aad90681453144fe5d8017b15e5dcc1406b0f765902da425b0",
+    "result": "1194",
+    "external_round_id": "34279257",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:12:07.000000Z",
+    "revealed_at": "2026-11-25T21:12:15.000000Z"
+}
