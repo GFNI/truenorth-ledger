@@ -1,0 +1,22 @@
+{
+    "round_id": "85686c0f-3a09-4e7b-a564-7a9e9ac00c1c",
+    "draw_title": "Tetris Arcade",
+    "competition_url": "https://woldscompetitions.co.uk/admin/products/tetris-arcade-2",
+    "operator": {
+        "name": "Wolds Competitions Ltd",
+        "website": "https://woldscompetitions.co.uk",
+        "company_number": "16194134"
+    },
+    "drand_server_seed": "49cd9132a778380a2f0bdcd57db69105044bdda60cd8f1d6dcd54886ddb9ab15",
+    "drand_seed_hash": "81324b33641ab6b76454ea5cff9e2e31d407940cfa3546339964e9840904b50711da0062abd0dd2e1992612101741d29",
+    "client_seed": "1795638569573",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 67,
+    "max_tickets": 220,
+    "combined_hash": "3da0964b532e5289c6df49fc6767a4129d1f42b9c43693cbfc7dc06c827547f7",
+    "result": "122",
+    "external_round_id": "34278404",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:29:29.000000Z",
+    "revealed_at": "2026-11-25T20:29:36.000000Z"
+}
