@@ -1,0 +1,22 @@
+{
+    "round_id": "12542177-c51a-4c71-9c94-edb66a9ba61b",
+    "draw_title": "VIP BELFAST FIGHT NIGHT PLUS £50,000 INSTANT CASH",
+    "competition_url": "https://itsworthapunt.co.uk/admin/products/vip-belfast-fight-night-plus-ps50000-instant-cash",
+    "operator": {
+        "name": "Its Worth a Punt LTD",
+        "website": "https://itsworthapunt.co.uk",
+        "company_number": "NI695995"
+    },
+    "drand_server_seed": "20b6fc3f70a2432624e2fa4811b5523c001d028582acd644bf1a65f07e447fe6",
+    "drand_seed_hash": "a17341eadea56aeccedb27c1fb390cbb93c5118b1cf3faa8531c084311ba3d9c5c975f481b43fdd9322dd1da01a90f4c",
+    "client_seed": "1795639142368",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 86970,
+    "max_tickets": 2500000,
+    "combined_hash": "aa402914d61fc53df41a1a19c78735f5344443da0a851be1f53a55e6b1cd3d09",
+    "result": "747851",
+    "external_round_id": "34278595",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:39:02.000000Z",
+    "revealed_at": "2026-11-25T20:39:09.000000Z"
+}
