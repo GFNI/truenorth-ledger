@@ -1,0 +1,22 @@
+{
+    "round_id": "e1f28ca5-acae-484b-8ccf-3c31c9ad5a9d",
+    "draw_title": "WORD WIPEOUT!",
+    "competition_url": "https://whiskyclubuk.com/admin/products/word-wipeout",
+    "operator": {
+        "name": "Club Comps LTD",
+        "website": "https://whiskyclubuk.com",
+        "company_number": "SC691153"
+    },
+    "drand_server_seed": "7310d6bf74b2f8acc9cee02f2d7f725929498ea43ee802241837fb047089707a",
+    "drand_seed_hash": "8f4ef7d8d805b16f34a4cd632a59a74537d39f9e4e1f38e3099ebfb2b912b54a8cf71787281d9934732dc4e3f85b91e9",
+    "client_seed": "1795644786781",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2104,
+    "max_tickets": 4999,
+    "combined_hash": "e44173c1a704a012bfbaf0d44c6366346c9182f067fc84d3c00c1e142fa9f94b",
+    "result": "438",
+    "external_round_id": "34280476",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:13:06.000000Z",
+    "revealed_at": "2026-11-25T22:13:12.000000Z"
+}
