@@ -1,0 +1,22 @@
+{
+    "round_id": "3a714da0-3b5e-40f2-822e-63a16b70c68e",
+    "draw_title": "🥷 Ninja Bundle 🥷",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/ninja-bundle-7",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "19766ccfea8b3cabf005786d8ea20871f25c8451b5bad721c9a5f72bf31c45ff",
+    "drand_seed_hash": "866a3319e081fc2176a0c1f9982050db50c480d27bd781e3fdcd58cc2adaf6a403911a130a6889e994513a944c05a87c",
+    "client_seed": "1795636423391",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 676,
+    "max_tickets": 875,
+    "combined_hash": "4c2cc8ad37ec3f753ca4324f2bfa17027319e8d002d65e57a4ab8ca6d17f86e1",
+    "result": "784",
+    "external_round_id": "34277689",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T19:53:43.000000Z",
+    "revealed_at": "2026-11-25T19:53:51.000000Z"
+}
