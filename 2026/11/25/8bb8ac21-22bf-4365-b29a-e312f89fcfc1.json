@@ -1,0 +1,22 @@
+{
+    "round_id": "8bb8ac21-22bf-4365-b29a-e312f89fcfc1",
+    "draw_title": "WIN BARNEY25 SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-barney25-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "417902d2e7a273f5c56651d6a2baf354d2c3d7b07943c18be8136ab1288d639f",
+    "drand_seed_hash": "9625031b0dd5d8b567b1eb4e96080f0804451144abb45e432e4f0acd8fe09a72e432a4997739dc045dfef56177a9aa31",
+    "client_seed": "1795644738525",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 99,
+    "max_tickets": 230,
+    "combined_hash": "b53766ab5366d3994406429fc102c6181ed6e948a27a1cc7867fe6f85d080a5f",
+    "result": "40",
+    "external_round_id": "34280460",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T22:12:18.000000Z",
+    "revealed_at": "2026-11-25T22:12:24.000000Z"
+}
