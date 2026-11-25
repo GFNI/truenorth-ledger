@@ -1,0 +1,22 @@
+{
+    "round_id": "8d8dfb04-ce32-40e0-b9ab-6bf9dd147fae",
+    "draw_title": "5 Alive",
+    "competition_url": "https://chaotic.co.uk/competition/5-alive-7365",
+    "operator": {
+        "name": "Chaoss Entertainment Ltd",
+        "website": "https://chaotic.co.uk",
+        "company_number": "14973439"
+    },
+    "drand_server_seed": "3bcd933510ff8c36f1bd59c8c5ff9a957d48f5aa573466ec61ee694b48528e9b",
+    "drand_seed_hash": "b5e316e6764c6020eb485cbf1ac7374022952bbd0ba859d77138f33a1a571e492b71acd3f59c74349a41cd5976b0c47a",
+    "client_seed": "1795639182259",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 555555,
+    "max_tickets": 555555,
+    "combined_hash": "0adb0cf40135fd3eb7753313bdb88fa73709236e826eec4b5f79ee7f9bc3b09e",
+    "result": "42861",
+    "external_round_id": "34278608",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T20:39:42.000000Z",
+    "revealed_at": "2026-11-25T20:39:48.000000Z"
+}
