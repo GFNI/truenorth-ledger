@@ -1,0 +1,22 @@
+{
+    "round_id": "b49fdc41-4574-403d-9601-5fd84f7af333",
+    "draw_title": "🩷🐻 PALM PALS POCKET PARTY! 🐻🩷",
+    "competition_url": "https://hiphipprizehub.com/admin/products/palm-pals-pocket-party",
+    "operator": {
+        "name": "Hip hip prize hub LTD",
+        "website": "https://hiphipprizehub.com",
+        "company_number": "15429137"
+    },
+    "drand_server_seed": "d7a5c56003a1dc83b0acb074c86735a2533060d63fbd6027492a37d3a5fdb1db",
+    "drand_seed_hash": "90ef8b6030b59d0ef658edce51477d891c6f72aaf848b60253354d613570f788e1c3c58fb4aba105d51709e056e3fbd1",
+    "client_seed": "1795641280116",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4546,
+    "max_tickets": 4546,
+    "combined_hash": "e50679c1c6799c3a34e834c85877d653114fbdbf08602eda3953fabed29550a9",
+    "result": "3936",
+    "external_round_id": "34279308",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:14:40.000000Z",
+    "revealed_at": "2026-11-25T21:14:48.000000Z"
+}
