@@ -1,0 +1,22 @@
+{
+    "round_id": "a9f2838e-b739-48cc-8da4-a75b532aa8e0",
+    "draw_title": "Apple HomeView",
+    "competition_url": "https://thecashkings.co.uk/admin/products/apple-homeview",
+    "operator": {
+        "name": "The Cash Kings",
+        "website": "https://thecashkings.rafflex.uk",
+        "company_number": "16150769"
+    },
+    "drand_server_seed": "11379dc37306dd38cf8a4b39630d4330fda469bea34fa155dd131b38dffc4631",
+    "drand_seed_hash": "b5c3d6febe4f261c7e6e3b40a480395ed4edf1c3dd8fc67c64d96c1ee2e9b7a1b95d47044dcf865e97107b31ef04840d",
+    "client_seed": "1795607020238",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 850,
+    "max_tickets": 850,
+    "combined_hash": "c82b47e7982318b7e7d85b354f623bd5a71c360671256eab5d704e82b5928645",
+    "result": "461",
+    "external_round_id": "34267888",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T11:43:40.000000Z",
+    "revealed_at": "2026-11-25T11:43:48.000000Z"
+}
