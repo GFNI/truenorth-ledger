@@ -1,0 +1,22 @@
+{
+    "round_id": "3fa7e6d2-c958-40ad-9647-6e6154ae3e49",
+    "draw_title": "Wonga's Holly Jolly Wednesday – 10 Winners of £100 Cash – Awesome Instant Wins To Be Found",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/wongas-holly-jolly-wednesday-10-winners-of-ps100-cash-awesome-instant-wins",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1127b7c8a43cebf50d8070086d6cf14c3bc6c1b867ce0732d15b821636f86f1d",
+    "drand_seed_hash": "a3b1225303db809787c71e784893854040864eab8c078477b4543632aca723ee443c67b442a4026520f5f58959640623",
+    "client_seed": "1795640649612",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1390,
+    "max_tickets": 2499,
+    "combined_hash": "da5c9ac8eadc90f066da3d9530108a6d080163a76b2f666ede9575264fa13f9f",
+    "result": "1277",
+    "external_round_id": "34279097",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:04:09.000000Z",
+    "revealed_at": "2026-11-25T21:04:15.000000Z"
+}
