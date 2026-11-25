@@ -1,0 +1,22 @@
+{
+    "round_id": "767d750f-ce8e-460d-9e4d-fe3f0c9be339",
+    "draw_title": "Win £25 worth of tickets into Korda Kontainer 17L - 2p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-ps25-worth-of-tickets-into-korda-kontainer-17l-2p",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "9c4feb72222ffe611e2cd08cc49bbf5e97503a419eb7507f7384ce9ee58a3d6e",
+    "drand_seed_hash": "96884d9b8e7147ac468d4246952ac1620113c60ec773e5c89bb8de311ce97d791b84a67701df22fd6c7f1ecd45dcd672",
+    "client_seed": "1795630256470",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 680,
+    "max_tickets": 1750,
+    "combined_hash": "3c84987e264a0901b84f9a94d97080f5c4f206dad7d2bcb720b57ece79193d8e",
+    "result": "291",
+    "external_round_id": "34275633",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T18:10:56.000000Z",
+    "revealed_at": "2026-11-25T18:11:03.000000Z"
+}
