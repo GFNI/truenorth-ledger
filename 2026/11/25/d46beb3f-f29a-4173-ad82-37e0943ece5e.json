@@ -1,0 +1,22 @@
+{
+    "round_id": "d46beb3f-f29a-4173-ad82-37e0943ece5e",
+    "draw_title": "Frosty and Festive Christmas Bundle",
+    "competition_url": "https://prizeforge.co.uk/admin/products/christmas-bundle-pokemon-funko-plush-calendar-low-tickets",
+    "operator": {
+        "name": "PrizeForge",
+        "website": "https://prizeforge.co.uk",
+        "company_number": "17154643"
+    },
+    "drand_server_seed": "240001a9494728ab907a1099cdd5edac3c8be31e22490efa6812a9ba14ebbff2",
+    "drand_seed_hash": "8068268c54742cdde8d70346bcae5b1da073bf565877653d3cd2636015ab713b5a4b82a8297a5e0337aebb7c2f91c2a2",
+    "client_seed": "1795640683689",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 88,
+    "max_tickets": 150,
+    "combined_hash": "f3d7c6cb621a7d3fbdbc9799cd1c2a389504fc93b285a7e76c8c830ffd2964c7",
+    "result": "110",
+    "external_round_id": "34279109",
+    "processing_status": "completed",
+    "created_at": "2026-11-25T21:04:43.000000Z",
+    "revealed_at": "2026-11-25T21:04:51.000000Z"
+}
