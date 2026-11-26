@@ -1,0 +1,22 @@
+{
+    "round_id": "dbf8d8ce-a063-4fcf-ba57-20060c50fd52",
+    "draw_title": "LOW ODDS - Win a £1,000 Golden Ticket Into 3 Bedroom House or £200,000 CASH Main Draw",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/low-odds-win-a-ps1000-golden-ticket-into-3-bedroom-house-or-ps200000-cash",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "4a326311308ee085ce9764edbd93b621ecdec7847a233079088823ed095b55e3",
+    "drand_seed_hash": "a2fe9abb1f598ac79619454748a67f320c3c45fb534adf5107c91a0457bec96fbd6b1893c535883a5cebc7b4c3d51b49",
+    "client_seed": "1795727288751",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 100,
+    "combined_hash": "cb34eb398a2ed25423e2ffe31b48ee60e2e0e1ada9f3ebd4977b6f4a89442946",
+    "result": "88",
+    "external_round_id": "34307977",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:08:08.000000Z",
+    "revealed_at": "2026-11-26T21:08:15.000000Z"
+}
