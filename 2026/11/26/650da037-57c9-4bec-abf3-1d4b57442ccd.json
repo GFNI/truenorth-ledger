@@ -1,0 +1,22 @@
+{
+    "round_id": "650da037-57c9-4bec-abf3-1d4b57442ccd",
+    "draw_title": "Demi’s Den: Ninja Foodi 3-in-1",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/demis-den-ninja-foodi-3-in-1",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "fbcbbf143d0afd3f7b453effed824d54970cc29e6be56511cd0b07c2b44ebdab",
+    "drand_seed_hash": "84dfdd9db591a57b2f5345e9b5b148f40522933812318ee884b7347ca1068a91a0533b25693428dc54c9264b90e75759",
+    "client_seed": "1795724957151",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 169,
+    "max_tickets": 648,
+    "combined_hash": "0a86e1186e287d68a93abd880d0b459cc275af7438652ab55b3a9a5d96e6003d",
+    "result": "571",
+    "external_round_id": "34307200",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:29:17.000000Z",
+    "revealed_at": "2026-11-26T20:29:24.000000Z"
+}
