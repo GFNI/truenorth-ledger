@@ -1,0 +1,22 @@
+{
+    "round_id": "12305332-c589-4374-9a6e-8c08a2e6a840",
+    "draw_title": "SUNSHINE MINTING 1oz FINE SILVER BAR",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/sunshine-minting-1oz-fine-silver-bar-3",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "74014b2bb21ab48dd7997dc67c3d555e9c23b45f1906a0a4fef8366f9918e06a",
+    "drand_seed_hash": "b8fbfaca73524eb4cac9ed04cad8a7794d0faa283146111de42cccf3ea351c0af6d6f5e3019b98b166e1801aa3dd36ea",
+    "client_seed": "1795737340736",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49,
+    "max_tickets": 100,
+    "combined_hash": "73ff0729c98ae84d1bba69cb716512abba776f95ef543d45e9de63d2ff96a3ae",
+    "result": "4",
+    "external_round_id": "34311328",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T23:55:40.000000Z",
+    "revealed_at": "2026-11-26T23:55:48.000000Z"
+}
