@@ -1,0 +1,22 @@
+{
+    "round_id": "655b112d-3181-45aa-9c57-e20cdfa57b82",
+    "draw_title": "The Fragrance Shop (Her) Advent Calendar",
+    "competition_url": "https://jetcomps.co.uk/admin/products/the-fragrance-shop-her-advent-calendar",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "9ca0c7e09e6bbb12a2b46cde519bea9cf528688b6491f4f4918e0731f4a7eb32",
+    "drand_seed_hash": "afce963cd54a9fe5d969ae9d2044e38572e6c578040243d07723431566ad61d0e27a6a9e6e2eaa3cb75af4e9532f7992",
+    "client_seed": "1795725594360",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 156,
+    "max_tickets": 255,
+    "combined_hash": "d793454c57f29f4de5c6e2b2602117fb32759c0aa3d9a24bb697cc1876fe1a21",
+    "result": "253",
+    "external_round_id": "34307412",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:39:54.000000Z",
+    "revealed_at": "2026-11-26T20:40:00.000000Z"
+}
