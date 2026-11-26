@@ -1,0 +1,22 @@
+{
+    "round_id": "16095d52-e3af-4c42-98d9-f74a0ee0773b",
+    "draw_title": "2027 BETA 300RR RACING - CUSTOM JL BUILD!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/2027-beta-300rr-racing-custom-jl-build",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "1a7e7c70d3790e28cc8e8e43d3854ba467db55dd56fd76ec68eba5e2d4bcb8ab",
+    "drand_seed_hash": "931a2f378dbf39e9b80dc2cdaebd96ced2912aa07a4320d1dd247bbd39eb601f391967670ec0be0512bff017d401fd93",
+    "client_seed": "1795727420308",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 688,
+    "max_tickets": 999,
+    "combined_hash": "50bc64d508985882502cdf276ec10612375d59060274dc92918909b9ba1206b1",
+    "result": "549",
+    "external_round_id": "34308021",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:10:20.000000Z",
+    "revealed_at": "2026-11-26T21:10:27.000000Z"
+}
