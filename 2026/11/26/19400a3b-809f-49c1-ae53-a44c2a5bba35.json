@@ -1,0 +1,22 @@
+{
+    "round_id": "19400a3b-809f-49c1-ae53-a44c2a5bba35",
+    "draw_title": "£10K WINTER OLYMPICS LEADERBOARD ❄️",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps10k-winter-olympics-leaderboard",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "1bbe1d8bbe893f7ff074b67c93f257cbb730757bbcbc6b77391a754ac5d6fff6",
+    "drand_seed_hash": "b7655628c631a7130c5c3515c45b019e21cb8d4cdaaa9b0f048a000b81d1f7ef60a2be83de4f3f960ac4d580dba72306",
+    "client_seed": "1795729459752",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4200,
+    "max_tickets": 9999,
+    "combined_hash": "7eb32398480fca5f2141352546a88a9c5cf381d4caff09f3d74aed49c958e26f",
+    "result": "1816",
+    "external_round_id": "34308701",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:44:19.000000Z",
+    "revealed_at": "2026-11-26T21:44:27.000000Z"
+}
