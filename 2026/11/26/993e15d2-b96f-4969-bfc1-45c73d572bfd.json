@@ -1,0 +1,22 @@
+{
+    "round_id": "993e15d2-b96f-4969-bfc1-45c73d572bfd",
+    "draw_title": "TICKET TIME - WIN TICKET BUNDLES UP TO £500!",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/ticket-time-win-ticket-bundles-up-to-ps500",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "ea178ff9a75160890c7a1068c7fdec869680bdfe4451380991efa38cdbaa1711",
+    "drand_seed_hash": "a03a9abd5f2536e197c58127a2d9eb0e376dc03040531e8b403b98ef08224cd65389c152d65b03b335fbd49943268a2b",
+    "client_seed": "1795727454560",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 4233,
+    "max_tickets": 100000,
+    "combined_hash": "518c6b1d6e30405d49290fd469b67f783478ebcab144e9c5b3ee829f7f1a038b",
+    "result": "87538",
+    "external_round_id": "34308032",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:10:54.000000Z",
+    "revealed_at": "2026-11-26T21:11:00.000000Z"
+}
