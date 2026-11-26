@@ -1,0 +1,22 @@
+{
+    "round_id": "36842db7-98a7-4cef-9d38-1d44fbb7c232",
+    "draw_title": "Fiver Fever Freebie 🆓️",
+    "competition_url": "https://punterprizes.com/admin/products/fiver-fever-freebie-3",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "e81ad7686a105d23fbd478ae53921c4da2e6ab79e9500086c8d0c8b58fe3c558",
+    "drand_seed_hash": "8f0c697f91e5e405462fbaffeae8fa94d5d70f372103810f15f5dba1bd6d3e06a20e19c9af96be27018f4f33563f0ae5",
+    "client_seed": "1795723841675",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 25,
+    "max_tickets": 60,
+    "combined_hash": "49d383f6eb47a8c7d4d81068e46b0b2ffa534099e1ee4974ba68509fd50855ae",
+    "result": "2",
+    "external_round_id": "34306828",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:10:41.000000Z",
+    "revealed_at": "2026-11-26T20:10:48.000000Z"
+}
