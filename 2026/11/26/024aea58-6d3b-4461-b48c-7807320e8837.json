@@ -1,0 +1,22 @@
+{
+    "round_id": "024aea58-6d3b-4461-b48c-7807320e8837",
+    "draw_title": "Grand Theft Lotto 2 🚓",
+    "competition_url": "https://punterprizes.com/admin/products/grand-theft-lotto-2",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "fd0972aee44dea4d0ad0a4a56f7a6e4736b4798360cb757cabc912f9df531a6e",
+    "drand_seed_hash": "9157f8edadc0261330ec8994042739b57678d1aca0e34df8d9e72df00fb9fe050e5ba6386b631caaede88492a549fbe3",
+    "client_seed": "1795726990438",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 12500,
+    "max_tickets": 12500,
+    "combined_hash": "2cb1564c7dbf8ba1a2c0e6d4ef45db4e8c4401bf6dc572e6878430a0b2fc4b05",
+    "result": "12369",
+    "external_round_id": "34307878",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:03:10.000000Z",
+    "revealed_at": "2026-11-26T21:03:18.000000Z"
+}
