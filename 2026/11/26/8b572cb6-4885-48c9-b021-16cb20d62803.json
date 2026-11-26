@@ -1,0 +1,22 @@
+{
+    "round_id": "8b572cb6-4885-48c9-b021-16cb20d62803",
+    "draw_title": "£25K BATCASH - 3 X £3K INSTANTS UP FOR GRABS!",
+    "competition_url": "https://geardowncompetitions.com/admin/products/ps25k-batcash-3-x-ps3k-instants-up-for-grabs",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "9545310628fe7f0b96dc58877267850d8d4030de047899a3067e644f2e75962c",
+    "drand_seed_hash": "8ec4efab8dafeff7a919bcad3cfa044d08d93138b69ef907be6bd964a0c43eab27db8463c9d39102cffd83ff7be94f29",
+    "client_seed": "1795729674346",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 154490,
+    "max_tickets": 499999,
+    "combined_hash": "e18d57705e7406a5f516f416fe84cfd1dca60d89a14687c42f1f08271e3a6801",
+    "result": "289915",
+    "external_round_id": "34308772",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:47:54.000000Z",
+    "revealed_at": "2026-11-26T21:48:00.000000Z"
+}
