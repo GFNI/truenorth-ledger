@@ -1,0 +1,22 @@
+{
+    "round_id": "2133e9c9-fe4a-490e-8b64-7f2548c48943",
+    "draw_title": "£15,000 Cash - Christmas Sorted",
+    "competition_url": "https://jetcomps.co.uk/admin/products/ps15000-cash-christmas-sorted",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "a43f81332c4d452397c7aa272e5e40200e76e4f8b41ff2a81426fc26e5f7e142",
+    "drand_seed_hash": "8b79cf10e5a2da2f7d733fc0dcac24efd4bc1866e06991765736bea851d0bc4650a257c68d18a34516d165115600f18e",
+    "client_seed": "1795726546210",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 284113,
+    "max_tickets": 510000,
+    "combined_hash": "e1e734158b371047cd59a51ddaf21207dca802e98ceaa2c9b336ceacd58d48c4",
+    "result": "318770",
+    "external_round_id": "34307729",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:55:46.000000Z",
+    "revealed_at": "2026-11-26T20:55:51.000000Z"
+}
