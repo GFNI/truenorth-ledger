@@ -1,0 +1,22 @@
+{
+    "round_id": "bb07a552-2bfe-4d72-aee5-445427b3c9a1",
+    "draw_title": "Free £100 Cash",
+    "competition_url": "https://spinsnwins.co.uk/admin/products/free-ps100-cash-9942",
+    "operator": {
+        "name": "Spins N Wins Ltd",
+        "website": "https://spinsnwins.co.uk",
+        "company_number": "NI690563"
+    },
+    "drand_server_seed": "b98a6b7883d59d7e0d861700277897ff93a986f6576b8db87f4348925c5c395b",
+    "drand_seed_hash": "94853e67a5ada99c2033a9667259a9465beca1c2754a73ed4a2170227afbebae2713af330d5140b1dbf27ab292036f6a",
+    "client_seed": "1795731055804",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 278,
+    "max_tickets": 5000,
+    "combined_hash": "d7398f317e591e94c4a7a78dcdb5f8d6acf4af5a83ac77014a434d61f46f1040",
+    "result": "40",
+    "external_round_id": "34309233",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T22:10:55.000000Z",
+    "revealed_at": "2026-11-26T22:11:03.000000Z"
+}
