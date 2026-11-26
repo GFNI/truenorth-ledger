@@ -1,0 +1,22 @@
+{
+    "round_id": "e012810a-4f01-4f3c-a4cf-e513f05e3801",
+    "draw_title": "DICE DICE BABY! WIN UP TO £600 🎲",
+    "competition_url": "https://jbcompetitions.co.uk/admin/products/dice-dice-baby-win-up-to-ps600",
+    "operator": {
+        "name": "JB EVENTS AND TICKETS LTD",
+        "website": "https://jbcompetitions.co.uk",
+        "company_number": "16017702"
+    },
+    "drand_server_seed": "3ffa1653c3e56c94ff1b16b6dc142917c5306624705ebf8543ceae627c4745fb",
+    "drand_seed_hash": "a19db96e61b4e7f9648dc04a821a9a3f03e73bffc622ef05bdceb1af22e46a7a2fd11b298a6a92a46395ef78c73a0d44",
+    "client_seed": "1795727460531",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7897,
+    "max_tickets": 200000,
+    "combined_hash": "f0f0685001e2959c9fd047f9c71e1093266a4c8af5d7f74ceefdcdd8af8dfdaf",
+    "result": "54705",
+    "external_round_id": "34308034",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:11:00.000000Z",
+    "revealed_at": "2026-11-26T21:11:06.000000Z"
+}
