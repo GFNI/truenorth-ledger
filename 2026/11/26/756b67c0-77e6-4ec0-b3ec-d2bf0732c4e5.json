@@ -1,0 +1,22 @@
+{
+    "round_id": "756b67c0-77e6-4ec0-b3ec-d2bf0732c4e5",
+    "draw_title": "£50 for FREE 😍",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/ps50-for-free",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "40ab752289eb553212aa57c84d632ebad25c428b118fb1b5ef91d6db58906e3a",
+    "drand_seed_hash": "97064698abb1d43794d7a455911b09b51661577110b8adf94ab4713b4a6e7269e851f7695a0f820fb96c048e03eaa322",
+    "client_seed": "1795734642469",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 118,
+    "max_tickets": 250,
+    "combined_hash": "4d04b2098504dd379d9f02f82e059f437c2c2d6bb86fdf1b821b51bb7a7bbb8f",
+    "result": "204",
+    "external_round_id": "34310428",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T23:10:42.000000Z",
+    "revealed_at": "2026-11-26T23:10:48.000000Z"
+}
