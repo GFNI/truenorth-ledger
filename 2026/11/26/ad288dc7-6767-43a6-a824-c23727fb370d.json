@@ -1,0 +1,22 @@
+{
+    "round_id": "ad288dc7-6767-43a6-a824-c23727fb370d",
+    "draw_title": "1975 1oz GOLD KRUGERRAND + 10 SILVER INSTANT WINS",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/1975-1oz-gold-krugerrand-10-silver-instant-wins",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "71f89456b6f4159b79ed6c9a32e28967d6d88e942cc9a3856029cca68d978846",
+    "drand_seed_hash": "87ff84475d82385f9d3ea4ee77cbbf8ad000231986c422dd0ce4e25e9de10861cd4b3a4b06e518f4ea6cdfdea3643f74",
+    "client_seed": "1795727657391",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 7705,
+    "max_tickets": 15000,
+    "combined_hash": "65c5b69182ee2d093aa0bc7e227fccbdbc01ba6a1261ad7e2112edc3dc476a22",
+    "result": "4406",
+    "external_round_id": "34308100",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:14:17.000000Z",
+    "revealed_at": "2026-11-26T21:14:24.000000Z"
+}
