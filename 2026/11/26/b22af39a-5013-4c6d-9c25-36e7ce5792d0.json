@@ -1,0 +1,22 @@
+{
+    "round_id": "b22af39a-5013-4c6d-9c25-36e7ce5792d0",
+    "draw_title": "2,000X Tickets into \"Christmas Eve £10,000\"",
+    "competition_url": "https://ryscompetitions.com/admin/products/2000x-tickets-into-christmas-eve-ps10000",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "59dda072aeb090d4db55a6037f8771d1c67edbce2da37b9c1b6d7804353879b7",
+    "drand_seed_hash": "b5b9c15729eaa04154dd9a0c69a75545be3f01b77166c676c73229a780e545131ca2899c6fc9a3adfd12c250169d988c",
+    "client_seed": "1795725166159",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2000,
+    "max_tickets": 2000,
+    "combined_hash": "b008453d2a143aadd814a04793744a7f736b40c0f5ba8089956f75b2f95dd364",
+    "result": "385",
+    "external_round_id": "34307270",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:32:46.000000Z",
+    "revealed_at": "2026-11-26T20:32:54.000000Z"
+}
