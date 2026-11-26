@@ -1,0 +1,22 @@
+{
+    "round_id": "18b48067-8aad-458b-b707-e4ec20b1abca",
+    "draw_title": "Free Giveaway Nestle Big Chocolate Box - Drawn Live on 26/11/26",
+    "competition_url": "https://goldstargiveaways.co.uk/admin/products/free-giveaway-nestle-big-chocolate-box-drawn-live-on-261126",
+    "operator": {
+        "name": "Gold Star Giveaways",
+        "website": "https://goldstargiveaways.co.uk",
+        "company_number": "16199031"
+    },
+    "drand_server_seed": "2687d4887f1905be7b79f0018eb07e40b304c4ed1e3b0c04615233e5917474ed",
+    "drand_seed_hash": "b0f030304e8a6082cf81e6764001bd507d172613ec83cdd893445330c2fc8c9eb7128fee5c9af8d77f4b7c875b27c0f1",
+    "client_seed": "1795720766929",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "e1e33b25bbc701171e8ae3e9669787c61e2a0afb529dc6f2c5da7bd92873cfed",
+    "result": "204",
+    "external_round_id": "34305803",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T19:19:26.000000Z",
+    "revealed_at": "2026-11-26T19:19:33.000000Z"
+}
