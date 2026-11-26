@@ -1,0 +1,22 @@
+{
+    "round_id": "ad03ca63-68aa-4186-b9f4-a7e30c55ac06",
+    "draw_title": "Odd Number Delight",
+    "competition_url": "https://giveawaycompetition.com/admin/products/odd-number-delight",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "5e3dc675e16f3f601011caf9f7200bbff8c7b5e2d1b0822d2a294db7470973b9",
+    "drand_seed_hash": "aadad966dafae0db886d907de72a5e9e5c7938082cde3e5f23ed6b2a23d024f21b6b9396327c53e963d4fa594a35ab6b",
+    "client_seed": "1795730017133",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2964,
+    "max_tickets": 12000,
+    "combined_hash": "308c8a26b8d802e84ce45c1944e059b3d712dd22d2302a34ccdac523b0fe5025",
+    "result": "6065",
+    "external_round_id": "34308887",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:53:37.000000Z",
+    "revealed_at": "2026-11-26T21:53:45.000000Z"
+}
