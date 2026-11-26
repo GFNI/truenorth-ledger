@@ -1,0 +1,22 @@
+{
+    "round_id": "428271f3-f5ad-4b0d-9b7b-f9a171485634",
+    "draw_title": "MAN CITY VS LEEDS GAUCHO HOSPITALITY",
+    "competition_url": "https://geardowncompetitions.com/admin/products/man-city-vs-leeds-gaucho-hospitality",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "a3b46c5891bb0629d6e8854b2970b1582067e73417f0ea8935bc51fd8bbcd903",
+    "drand_seed_hash": "9892540ee0bee3479ac02db33ef0fb92575a0669baaa02d506410ac1920760014d06479f2975ee783b7c7af6eb0775b6",
+    "client_seed": "1795729165626",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 168,
+    "max_tickets": 499,
+    "combined_hash": "b0c0a940370e4bd12edea206bbad19daebaf0a35d06fe59ca6e5936a249abee7",
+    "result": "318",
+    "external_round_id": "34308603",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:39:25.000000Z",
+    "revealed_at": "2026-11-26T21:39:33.000000Z"
+}
