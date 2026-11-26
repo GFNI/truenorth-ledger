@@ -1,0 +1,22 @@
+{
+    "round_id": "df74c0f8-4608-4683-a204-dfe4fa8e7b9c",
+    "draw_title": "£300 for £2",
+    "competition_url": "https://giveawaycompetition.com/admin/products/ps300-for-ps2",
+    "operator": {
+        "name": "Giveaway Competitons",
+        "website": "https://giveawaycompetition.rafflex.uk",
+        "company_number": "NI670455"
+    },
+    "drand_server_seed": "85201483bdb78be0af30130bce55e41f76d6a1acea1f2269fe050f9a388473e6",
+    "drand_seed_hash": "a91e24613db1a302216e83d4b8d14acb3c319d9ca4485bc399eee03fd84d2ff23aebe5cfc0d23d617025277b8f00e748",
+    "client_seed": "1795729963738",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 200,
+    "combined_hash": "1f6c525e26fc2a4359c163806cbe6c83fd06a97cc9e056f6470f8495b670dee3",
+    "result": "136",
+    "external_round_id": "34308868",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:52:43.000000Z",
+    "revealed_at": "2026-11-26T21:52:48.000000Z"
+}
