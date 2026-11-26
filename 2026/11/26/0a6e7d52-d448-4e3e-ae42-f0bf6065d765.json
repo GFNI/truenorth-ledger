@@ -1,0 +1,22 @@
+{
+    "round_id": "0a6e7d52-d448-4e3e-ae42-f0bf6065d765",
+    "draw_title": "Kilted Site Credit Instant Wins",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/kilted-site-credit-instant-wins-10",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "ab131e6b4434fe8899b9981163f5814b8e1c142fa5809505c053a67c7be3b3ca",
+    "drand_seed_hash": "85512b3f9ac39e345a2e32e62d0932d26c06e3429a2b319ef8f2a7935f54d1c2f8b9ae0be40a97ffdc850b7557ce248e",
+    "client_seed": "1795727148300",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1867,
+    "max_tickets": 5000,
+    "combined_hash": "e893797d981e094a43a78f3044d6a93ce46aa977af7c952baad328d686c0168a",
+    "result": "4721",
+    "external_round_id": "34307930",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:05:48.000000Z",
+    "revealed_at": "2026-11-26T21:05:54.000000Z"
+}
