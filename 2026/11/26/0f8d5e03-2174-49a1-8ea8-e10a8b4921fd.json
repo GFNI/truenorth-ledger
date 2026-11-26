@@ -1,0 +1,22 @@
+{
+    "round_id": "0f8d5e03-2174-49a1-8ea8-e10a8b4921fd",
+    "draw_title": "Bullpadel Neuron 02 Edge 27 Padel Racket & Bullpadel Tour Racket Bag 26 White",
+    "competition_url": "https://padelreservecompetitions.com/admin/products/bullpadel-neuron-02-edge-27-padel-racket-bullpadel-tour-racket-bag-26-white",
+    "operator": {
+        "name": "Padel Reserve Competitions LTD",
+        "website": "https://padelreservecompetitions.com",
+        "company_number": "17051099"
+    },
+    "drand_server_seed": "9d084f08a5a9fee2356631272c4390c8bab318b48461fa0aab8e85effeecd7a7",
+    "drand_seed_hash": "a07e0cdd0960dbeeee6c997327d1207bcd8105c1c5be36342d379db4925b85eb31d32ec05e0bb2f207f8288a9d5ae18f",
+    "client_seed": "1795721408367",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 149,
+    "max_tickets": 600,
+    "combined_hash": "d01dae366c57b623330f6f7c5aca876ec58f76eff2671a611dd1e10ec78a3c76",
+    "result": "361",
+    "external_round_id": "34306017",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T19:30:08.000000Z",
+    "revealed_at": "2026-11-26T19:30:15.000000Z"
+}
