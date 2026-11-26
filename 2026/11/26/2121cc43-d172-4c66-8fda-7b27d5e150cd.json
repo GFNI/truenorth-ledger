@@ -1,0 +1,22 @@
+{
+    "round_id": "2121cc43-d172-4c66-8fda-7b27d5e150cd",
+    "draw_title": "SPARK BOX OFFICE! WIN TICKETS TO OUR COMPS INSTANTLY!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/spark-box-office-win-tickets-to-our-comps-instantly",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "fc9501fd4294b8829bf7c6952bb5104a94caa7647401d7e9ee860bebe3ba5221",
+    "drand_seed_hash": "8c9a09edc5722bc7fb556444cd0113a94ae3319a31178771adbcf3c56702f74d540c52cc335eb34b62295f5f25c014ba",
+    "client_seed": "1795716642860",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 540,
+    "max_tickets": 9999,
+    "combined_hash": "f1558231ede9d91fe443d372900b5e646cf3eb79958808a654aafa997d162259",
+    "result": "8336",
+    "external_round_id": "34304428",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T18:10:42.000000Z",
+    "revealed_at": "2026-11-26T18:10:48.000000Z"
+}
