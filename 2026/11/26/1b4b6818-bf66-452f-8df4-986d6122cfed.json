@@ -1,0 +1,22 @@
+{
+    "round_id": "1b4b6818-bf66-452f-8df4-986d6122cfed",
+    "draw_title": "Win a Ridgemonkey CombiChilla 18L - 22p",
+    "competition_url": "https://ultimatecarpcompetitions.co.uk/admin/products/win-a-ridgemonkey-combichilla-18l-22p-2",
+    "operator": {
+        "name": "Ultimate Carp Competitions Ltd",
+        "website": "https://ultimatecarpcompetitions.co.uk",
+        "company_number": "16986862"
+    },
+    "drand_server_seed": "98db49a7785304c953c30f3963f39071589c3a8f1391fd1750c92b2deb60bc4e",
+    "drand_seed_hash": "8a16745df9a630a19b30b7d16f141a90892a66268bd75be5166d191166e640420bf4fb92febf6926634edc4cb14fe3e6",
+    "client_seed": "1795716765372",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 397,
+    "max_tickets": 1320,
+    "combined_hash": "88be48afbab5b21059f41a2aa7a53049f9b605e684b1d776036aac3cd3a418cf",
+    "result": "1009",
+    "external_round_id": "34304469",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T18:12:45.000000Z",
+    "revealed_at": "2026-11-26T18:12:51.000000Z"
+}
