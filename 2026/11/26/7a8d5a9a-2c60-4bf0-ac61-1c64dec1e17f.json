@@ -1,0 +1,22 @@
+{
+    "round_id": "7a8d5a9a-2c60-4bf0-ac61-1c64dec1e17f",
+    "draw_title": "WIN £200 WORTH OF TICKETS! LOW ODDS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/win-ps200-worth-of-tickets-low-odds-3",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "a3d19ee7921d03014b0ad14c45dd2200e16607234d618f5ee32b3cca1e480f68",
+    "drand_seed_hash": "866a1511295e6431123d19e2a0c760364c0c52e5cb7f5b713c6434e2ba62bbea3050fc4f70868cccff739a8db1dae044",
+    "client_seed": "1795727541494",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 100,
+    "combined_hash": "9bad1880a3898b70d1a07676d7a6da84dc0e4172c4454e5d9de74b59d31733a9",
+    "result": "56",
+    "external_round_id": "34308061",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:12:21.000000Z",
+    "revealed_at": "2026-11-26T21:12:27.000000Z"
+}
