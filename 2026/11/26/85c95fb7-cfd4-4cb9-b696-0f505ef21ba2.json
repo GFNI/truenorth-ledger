@@ -1,0 +1,22 @@
+{
+    "round_id": "85c95fb7-cfd4-4cb9-b696-0f505ef21ba2",
+    "draw_title": "Santa's Prize Wheel 1 in 2 Tickets Win",
+    "competition_url": "https://ryscompetitions.com/admin/products/santas-prize-wheel-1-in-2-tickets-win",
+    "operator": {
+        "name": "NW CAPITAL INVESTMENTS GROUP LTD",
+        "website": "https://ryscompetitions.rafflex.uk",
+        "company_number": "14838367"
+    },
+    "drand_server_seed": "4890f0c6cae28bf854660ab947e949a78071f9d1d888f9882b68ae3a4a5425d1",
+    "drand_seed_hash": "a269ab03a7054e843907c23700cc3ee6b512b38cb92babde7a334794a66fb927a9742733acc8b244f7c5271eff169f38",
+    "client_seed": "1795728056147",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 49238,
+    "max_tickets": 200000,
+    "combined_hash": "2cf0d1622f64431233209fd21e24ce75212eeb5035ce0d466c8e1cc229bbcbeb",
+    "result": "125677",
+    "external_round_id": "34308233",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:20:56.000000Z",
+    "revealed_at": "2026-11-26T21:21:03.000000Z"
+}
