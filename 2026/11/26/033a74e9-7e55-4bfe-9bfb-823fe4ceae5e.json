@@ -1,0 +1,22 @@
+{
+    "round_id": "033a74e9-7e55-4bfe-9bfb-823fe4ceae5e",
+    "draw_title": "🔴ODDS BOOSTER - 500 ENTRIES INTO THE MINI COOPER S EXCLUSIVE AUTO #2",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-500-entries-into-the-mini-cooper-s-exclusive-auto-2",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d0ab00c33d9010d8f29b98dc87aef442fabc24b19c1f25319d6f87bb7cb94d45",
+    "drand_seed_hash": "ae9f098a614afb25bdb9708bfd966fc1b44746adc8ceacc3a5d4737c769ef1de23f61f7d8c7a2ac9364a58079f6b35e0",
+    "client_seed": "1795651756409",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 455,
+    "max_tickets": 650,
+    "combined_hash": "f32f5e118ec824779998be3c09bb765e65a2941cf63bae2f5ff8ce34fab58a63",
+    "result": "82",
+    "external_round_id": "34282800",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T00:09:16.000000Z",
+    "revealed_at": "2026-11-26T00:09:24.000000Z"
+}
