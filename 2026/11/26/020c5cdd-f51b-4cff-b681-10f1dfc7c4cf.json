@@ -1,0 +1,22 @@
+{
+    "round_id": "020c5cdd-f51b-4cff-b681-10f1dfc7c4cf",
+    "draw_title": "Grab A Grand 💰",
+    "competition_url": "https://punterprizes.com/admin/products/grab-a-grand",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "c7f859ec8d2f8a675c194b4ff264573b28bf220320383ab1feede0eba7c13978",
+    "drand_seed_hash": "ae4a6a15e4de442876690c7ec09356213ad252dc4102c7d6e824717a968f36ed13dbd3bcab513f21707f6275762d21b8",
+    "client_seed": "1795726777578",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 6304,
+    "max_tickets": 25000,
+    "combined_hash": "3706c4c33cba0f00215db38d41439dbd29fea739e8da19d86f75ceba7ab28c3f",
+    "result": "3768",
+    "external_round_id": "34307807",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:59:37.000000Z",
+    "revealed_at": "2026-11-26T20:59:45.000000Z"
+}
