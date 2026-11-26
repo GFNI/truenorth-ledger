@@ -1,0 +1,22 @@
+{
+    "round_id": "0bfbaa81-2643-46c6-81a0-a418348932eb",
+    "draw_title": "2500 Tickets Into Our Evolving Skies Booster Box Competition",
+    "competition_url": "https://collectiblecompetitions.co.uk/admin/products/2500-tickets-into-our-evolving-skies-booster-box-competition",
+    "operator": {
+        "name": "Collectible Competitions LTD",
+        "website": "https://collectiblecompetitions.co.uk",
+        "company_number": "15470913"
+    },
+    "drand_server_seed": "0aa939208831f80e085cc65ede813b874f3bd1ffec371865611e44f5cc9c49c8",
+    "drand_seed_hash": "947828a76296a924a389f1c6c41bbd48c232e2f5b17aab7247131057b1341068456771e64a81d2b94cf64dbb00252502",
+    "client_seed": "1795731039594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 179,
+    "max_tickets": 400,
+    "combined_hash": "eec211874f9267869fde3f1e7147c4fcb14943983d0801a0d2773c53fca9aef6",
+    "result": "175",
+    "external_round_id": "34309227",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T22:10:39.000000Z",
+    "revealed_at": "2026-11-26T22:10:45.000000Z"
+}
