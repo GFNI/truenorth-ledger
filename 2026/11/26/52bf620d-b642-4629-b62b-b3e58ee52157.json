@@ -1,0 +1,22 @@
+{
+    "round_id": "52bf620d-b642-4629-b62b-b3e58ee52157",
+    "draw_title": "1g Gold Bar 🪙",
+    "competition_url": "https://punterprizes.com/admin/products/1g-gold-bar-2",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "53d0cbd018c8d103aa473ad6155352bf8fb9d95b063d162a4070cbd3f963677c",
+    "drand_seed_hash": "ab97b105a0fef042b049b985962fecfa2f019b712d4c43dde7c008485db9ff592f3a9deef142d3cc3fc301042c238994",
+    "client_seed": "1795726322414",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "ecb78f0023aae50c0f3fa82a7ecd8777660eaf321d1e4a35251c1e2bd024865f",
+    "result": "8733",
+    "external_round_id": "34307655",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:52:02.000000Z",
+    "revealed_at": "2026-11-26T20:52:09.000000Z"
+}
