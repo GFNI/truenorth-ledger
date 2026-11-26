@@ -1,0 +1,22 @@
+{
+    "round_id": "e0c8e33b-1f67-45cd-8b48-fffad6b4f12d",
+    "draw_title": "1p Auto Draw - Ultimate Cadbury Chocolate Hamper",
+    "competition_url": "https://tradetoolgiveaways.co.uk/admin/products/1p-auto-draw-ultimate-cadbury-chocolate-hamper",
+    "operator": {
+        "name": "Trade Tool Giveaways",
+        "website": "https://tradetoolgiveaways.co.uk",
+        "company_number": "12591433"
+    },
+    "drand_server_seed": "17a9affe3926877c55f793db9a8991f9d16d941fd010c68911179d3fa37073e9",
+    "drand_seed_hash": "89116a5627f7416ca0d3201e40e2221349e7496e84c888a9fc0780dcea570ca48acd4ae3f2a8ea7525f7eaa2e56048ab",
+    "client_seed": "1795731084555",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 16112,
+    "max_tickets": 20000,
+    "combined_hash": "d7d2c1097ab89cdc79bf73cb188d1d7a17ba25536fc1e2e75c79adffabdc9fee",
+    "result": "17368",
+    "external_round_id": "34309242",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T22:11:24.000000Z",
+    "revealed_at": "2026-11-26T22:11:30.000000Z"
+}
