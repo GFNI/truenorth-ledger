@@ -1,0 +1,22 @@
+{
+    "round_id": "3398a8d6-f728-4435-a555-337ef862085e",
+    "draw_title": "Grand Slam 💰",
+    "competition_url": "https://punterprizes.com/admin/products/grand-slam",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "6d47688864784e46516a22c8b4849f84fcabaf4be6f63d90c308ff519b1135db",
+    "drand_seed_hash": "aa329db85278beace38e3b546ff4a132310e48e02212f0a6fd2324aba6f8945b4b2c42e65a14d15bc0c6398237fde36f",
+    "client_seed": "1795720244328",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 18250,
+    "max_tickets": 25000,
+    "combined_hash": "fa563fcc03012c1d2a3b64a5485602339d74b7efdf7b18fe3ae657bf99c25e81",
+    "result": "3099",
+    "external_round_id": "34305629",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T19:10:44.000000Z",
+    "revealed_at": "2026-11-26T19:10:51.000000Z"
+}
