@@ -1,0 +1,22 @@
+{
+    "round_id": "ccbc6103-6279-470c-912a-fdbbdc8c7c0e",
+    "draw_title": "30 Cadburys Selection Boxes",
+    "competition_url": "https://jetcomps.co.uk/admin/products/30-cadburys-selection-boxes",
+    "operator": {
+        "name": "Jet Comps",
+        "website": "https://jetcomps.co.uk",
+        "company_number": "15305176"
+    },
+    "drand_server_seed": "69bdd11574c77e04501eacddfd830e868d553dec9fe8cd7590bfa03041ce29cf",
+    "drand_seed_hash": "928d3aca41ce343716a2a5279f93c3011b2fac27f13c1f5104c88624c0cae759d58cd858d9657c7798a7c1083b7d7476",
+    "client_seed": "1795725152452",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 144,
+    "max_tickets": 144,
+    "combined_hash": "9fc743acfe67a05c0ea7cccdcc1ee431ce9f27a6745051a546be6c2fd4e012fb",
+    "result": "112",
+    "external_round_id": "34307265",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:32:32.000000Z",
+    "revealed_at": "2026-11-26T20:32:39.000000Z"
+}
