@@ -1,0 +1,22 @@
+{
+    "round_id": "72c2426c-04ff-43db-a566-5324f00dbbb8",
+    "draw_title": "Pokemon Fusion Strike Booster Box 🐲",
+    "competition_url": "https://punterprizes.com/admin/products/pokemon-fusion-strike-booster-box",
+    "operator": {
+        "name": "Punter Prizes",
+        "website": "https://punterprizes.com",
+        "company_number": "16092650"
+    },
+    "drand_server_seed": "fd364850ecdf0328396b2d9aeb43d6972833d657d62afb2918546ff3e2dabc9a",
+    "drand_seed_hash": "b7f30dd8fa8113886824b2ffb6dc92113a12e8ddd06a2162e1e59e18b6b0ad686b1335bbc31b24129c6465796947976f",
+    "client_seed": "1795726927842",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "307e254c990d3eaf76dbdfd5b3080c11d8668c36f653dca3964fa55c23bee455",
+    "result": "5553",
+    "external_round_id": "34307856",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:02:07.000000Z",
+    "revealed_at": "2026-11-26T21:02:12.000000Z"
+}
