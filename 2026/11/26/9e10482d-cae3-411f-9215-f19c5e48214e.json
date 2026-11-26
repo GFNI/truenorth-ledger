@@ -1,0 +1,22 @@
+{
+    "round_id": "9e10482d-cae3-411f-9215-f19c5e48214e",
+    "draw_title": "*MEGA ODDS* WIN STEPHEN BUNTING GENERATION 5 DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/mega-odds-win-stephen-bunting-generation-5-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "6951e425baa00746585f61a731783f586a293e3cc06f13b57053267c362869f2",
+    "drand_seed_hash": "88ea6bbb5fb4d4ffdfc9186d8b9453d5a700206d314c5b910c4b97181a89a38c63429202eac092039360b4b10a8d2038",
+    "client_seed": "1795725559949",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 28,
+    "max_tickets": 45,
+    "combined_hash": "09c24eacd14fa71276916eec8a4f958f024d4c6630eebe12c788ffda6ce28cbc",
+    "result": "19",
+    "external_round_id": "34307400",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:39:19.000000Z",
+    "revealed_at": "2026-11-26T20:39:24.000000Z"
+}
