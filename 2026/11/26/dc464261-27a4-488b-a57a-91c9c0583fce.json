@@ -1,0 +1,22 @@
+{
+    "round_id": "dc464261-27a4-488b-a57a-91c9c0583fce",
+    "draw_title": "Demi’s Den: £100 Smyths Voucher",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/demis-den-ps100-smyths-voucher",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "32df9498f6f4a3f8692eff05d8ab2dcdd4d7e58a42ee884bb456a7314e39aff0",
+    "drand_seed_hash": "adc7fd04917b02a9103bf6dd8f249b737115b575cfc4a16eb811c036b1f81b55bd861d4d23141fc885949b9462817825",
+    "client_seed": "1795724886352",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 415,
+    "max_tickets": 1200,
+    "combined_hash": "4851317ed586c54b4e69a55d73da492fbc7b716a8e3320df032ff760f3d021f2",
+    "result": "89",
+    "external_round_id": "34307176",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:28:06.000000Z",
+    "revealed_at": "2026-11-26T20:28:12.000000Z"
+}
