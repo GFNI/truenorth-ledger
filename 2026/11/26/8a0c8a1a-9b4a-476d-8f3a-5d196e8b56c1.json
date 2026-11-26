@@ -1,0 +1,22 @@
+{
+    "round_id": "8a0c8a1a-9b4a-476d-8f3a-5d196e8b56c1",
+    "draw_title": "🏝️ MYSTERY ISLAND HUNT - INSTANT WINS 🏴‍☠️",
+    "competition_url": "https://caledoniacompetitions.co.uk/admin/products/mystery-island-hunt",
+    "operator": {
+        "name": "CALEDONIA COMPETITIONS",
+        "website": "https://caledoniacompetitions.co.uk",
+        "company_number": "SC791577"
+    },
+    "drand_server_seed": "277cec39a6f65242f248440002696ffc985f52bd73f5d5f2efe54355e0641988",
+    "drand_seed_hash": "a34df18174e261253a905793d93dc8fc6c95a9625dc6656f6fd6e09c69d581d96c9e215e5c6a54267559caec6408b299",
+    "client_seed": "1795720063388",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 495402,
+    "max_tickets": 689000,
+    "combined_hash": "913c00db1bb852a44f20751a56bf2ce5a1381b801816952c0d957bfcbfbf34a8",
+    "result": "477810",
+    "external_round_id": "34305569",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T19:07:43.000000Z",
+    "revealed_at": "2026-11-26T19:07:51.000000Z"
+}
