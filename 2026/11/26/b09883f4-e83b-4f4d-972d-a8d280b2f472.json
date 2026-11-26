@@ -1,0 +1,22 @@
+{
+    "round_id": "b09883f4-e83b-4f4d-972d-a8d280b2f472",
+    "draw_title": "Demi’s Den: £50 Just Eat Voucher",
+    "competition_url": "https://everlastingluck.co.uk/admin/products/demis-den-ps50-just-eat-voucher",
+    "operator": {
+        "name": "Everlasting Luck LTD",
+        "website": "https://everlastingluck.co.uk",
+        "company_number": "16132653"
+    },
+    "drand_server_seed": "2d95af6b8a9904734e827da1bd63f62569640a07eb3c35f65892fe635911c565",
+    "drand_seed_hash": "8663ccc09c424eb67c40c6c39ee4dcb2ac40d3d1c14781f4f9e6de65faf4cf4acdb17fd73fe7e1e2c3c963338cc4ab98",
+    "client_seed": "1795724726898",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 105,
+    "max_tickets": 288,
+    "combined_hash": "84caf64878d4508cf249321661bc97fb20a1b16174e0edd4a8fb60c67dbfc3d8",
+    "result": "197",
+    "external_round_id": "34307123",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:25:26.000000Z",
+    "revealed_at": "2026-11-26T20:25:33.000000Z"
+}
