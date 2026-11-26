@@ -1,0 +1,22 @@
+{
+    "round_id": "57667627-a469-4756-8aa8-468a3211c5f7",
+    "draw_title": "WIN ONE80 TALON DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-one80-talon-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "4602533b4b4c9bdaf2f71973f4777911144f855c39b421b857469056757e3b98",
+    "drand_seed_hash": "8308989dd37e9437b6e17d6635c6d071b5f27d33c0146dfa6a6e8bb7f0563b512fe9c62f75df5ff6fd40bcea01ff55db",
+    "client_seed": "1795725523699",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 105,
+    "combined_hash": "1c0b8664c1059d60816a98416703dee815a1c9e11ea0d1cdfe3af060cb5b0656",
+    "result": "49",
+    "external_round_id": "34307388",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T20:38:43.000000Z",
+    "revealed_at": "2026-11-26T20:38:48.000000Z"
+}
