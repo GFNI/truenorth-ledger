@@ -1,0 +1,22 @@
+{
+    "round_id": "4095ad40-6c59-4e83-a3d4-b45359a5face",
+    "draw_title": "THE COLLECTORS COIN FLIP! OVER £40,000 IN WHISKY & CASH PRIZES! PRICE SLASH UNTIL NEXT BIG PRIZE DROPS!",
+    "competition_url": "https://thecollectorsclubcompetitions.com/admin/products/the-collectors-coin-flip-over-ps40000-in-whisky-cash-prizes-price-slash",
+    "operator": {
+        "name": "The Collectors Club Competitions LTD",
+        "website": "https://thecollectorsclubcompetitions.com",
+        "company_number": "SC751692"
+    },
+    "drand_server_seed": "3a8b2d29c11bfa76ddbe823524ce629b817ec8909ad6a2e41d6ffa18e99947bf",
+    "drand_seed_hash": "9995e05c01cae4df1b8048b201afae4873e3273a2e0925b943ab095f2740a393bb12d216e173b3f34bd1588ebf589ee7",
+    "client_seed": "1795729206673",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 63835,
+    "max_tickets": 199999,
+    "combined_hash": "198acc77292be15b5ba7b2ee5d265904b4000fbf99dfb114117133dbadb558e5",
+    "result": "103451",
+    "external_round_id": "34308616",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:40:06.000000Z",
+    "revealed_at": "2026-11-26T21:40:12.000000Z"
+}
