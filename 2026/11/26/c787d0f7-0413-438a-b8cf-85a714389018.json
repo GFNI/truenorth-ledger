@@ -1,0 +1,22 @@
+{
+    "round_id": "c787d0f7-0413-438a-b8cf-85a714389018",
+    "draw_title": "WIN A RABACONDA!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/win-a-rabaconda-4",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "9b7c352c7834d2ac043225df81a820d2c355b40d6bfd52cfe787b61c835c54a6",
+    "drand_seed_hash": "882b30a73756550e5777435dad89f778c27a1a3ce31435f5e7478fb5c0308dfa3535da6d92c6cb9e5008976d1416a30e",
+    "client_seed": "1795727284194",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 207,
+    "max_tickets": 299,
+    "combined_hash": "0e0d1170e592c6d1f30f1dce3f17d1b7aaf24e4c47321ca067b6343b81a2b8ee",
+    "result": "126",
+    "external_round_id": "34307976",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:08:04.000000Z",
+    "revealed_at": "2026-11-26T21:08:12.000000Z"
+}
