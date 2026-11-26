@@ -1,0 +1,22 @@
+{
+    "round_id": "464c2e48-6541-4ea2-9b1f-0698af9c67f2",
+    "draw_title": "WRAP UP! WIN A MOTOMAC FOR £1.99!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/wrap-up-win-a-motomac-for-ps199",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "98f02b9f7f7f1711253815aa5a2eb64b80edd69cf9631d0bf5cb2ad4953c5444",
+    "drand_seed_hash": "988ac63567f83857617e5e6905d74144440d2ef4e5ebb5c5fa47a2e37924a3aa0808977fbaf45e1081dec92c667d3b33",
+    "client_seed": "1795727171182",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 104,
+    "max_tickets": 199,
+    "combined_hash": "f1058774af53d58b22c08c25d22a09efe8bf65e5fb3e4f5a6c932e2690a405a1",
+    "result": "88",
+    "external_round_id": "34307938",
+    "processing_status": "completed",
+    "created_at": "2026-11-26T21:06:11.000000Z",
+    "revealed_at": "2026-11-26T21:06:18.000000Z"
+}
