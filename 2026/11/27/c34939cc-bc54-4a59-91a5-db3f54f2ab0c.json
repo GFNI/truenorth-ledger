@@ -1,0 +1,22 @@
+{
+    "round_id": "c34939cc-bc54-4a59-91a5-db3f54f2ab0c",
+    "draw_title": "Samsung 65\" Smart TV Crystal UHD + Instant Wins",
+    "competition_url": "https://a9competitions.co.uk/admin/products/samsung-65-smart-tv-crystal-uhd-instant-wins-7",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "8f15dd4893639c4a6cafebbb7a89a8369a2f2ea61499fa3aac771c790ee9d5ff",
+    "drand_seed_hash": "89fc921604bac524958c7ebb40d52b5dffb05f0e8dc5cf27d9bc116a9120ce75cd219bf3e2f03964dccd52a05aee0b98",
+    "client_seed": "1795815215911",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 302,
+    "max_tickets": 820,
+    "combined_hash": "dd54482d9c8efc2d7c9b886b5bd6f53e392ac4962e403eb97afc67dd7cf49634",
+    "result": "618",
+    "external_round_id": "34337286",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:33:35.000000Z",
+    "revealed_at": "2026-11-27T21:33:42.000000Z"
+}
