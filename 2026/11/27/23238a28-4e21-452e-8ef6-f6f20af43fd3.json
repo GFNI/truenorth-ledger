@@ -1,0 +1,22 @@
+{
+    "round_id": "23238a28-4e21-452e-8ef6-f6f20af43fd3",
+    "draw_title": "£5K Black Friday - 2 Winners of 5K",
+    "competition_url": "https://epiccompetitions.co.uk/admin/products/ps5k-black-friday-2-winners-of-5k",
+    "operator": {
+        "name": "Epic Competitions",
+        "website": "https://epiccompetitions.co.uk",
+        "company_number": "Epic Competitions"
+    },
+    "drand_server_seed": "2017ebeaa749912c026fe33b046b3f922520328cb90269686cae6ead8f1e9138",
+    "drand_seed_hash": "8819dfc7a99068cc9b4f2e58fdc735aa2f772de60e6f63dfcc95cc5079ab72114fa075eb667683175110bcc4555e034a",
+    "client_seed": "1795814496802",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 346438,
+    "max_tickets": 430000,
+    "combined_hash": "52141397c82ffa33593c1487287b1c801b7bd2f10e357c67ffae7e652ba6a050",
+    "result": "190003",
+    "external_round_id": "34337046",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:21:36.000000Z",
+    "revealed_at": "2026-11-27T21:21:42.000000Z"
+}
