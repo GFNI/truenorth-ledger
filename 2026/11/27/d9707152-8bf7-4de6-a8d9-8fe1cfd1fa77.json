@@ -1,0 +1,22 @@
+{
+    "round_id": "d9707152-8bf7-4de6-a8d9-8fe1cfd1fa77",
+    "draw_title": "WIN - JONNY CLAYTON RD-ULTRA RED DRAGON SWITCH POINT DARTS",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-jonny-clayton-rd-ultra-red-dragon-switch-point-darts-3",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "00886037ca4725b365cc899d2559f0d9f4c69733e8d04dad599130818363b3bc",
+    "drand_seed_hash": "8ed6826cd8acc5fa121041be9266f73852d814b43260b9f071cc8eaceac4af3f3742891c683270c90cd5f047d0a752ba",
+    "client_seed": "1795819263813",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 78,
+    "max_tickets": 100,
+    "combined_hash": "701d9b16aede510db859edb29dd6410865775f15868291576ad4f5c99489dcc2",
+    "result": "69",
+    "external_round_id": "34338635",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:41:03.000000Z",
+    "revealed_at": "2026-11-27T22:41:09.000000Z"
+}
