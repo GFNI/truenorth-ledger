@@ -1,0 +1,22 @@
+{
+    "round_id": "2c03b07f-66fe-4dc4-9b8e-650147263c15",
+    "draw_title": "PS5 Digital 825GB",
+    "competition_url": "https://obriensluckydraws.co.uk/admin/products/ps5-digital-825gb",
+    "operator": {
+        "name": "The Lux Competitions Club Limited",
+        "website": "https://obriensluckydraws.co.uk",
+        "company_number": "14876482"
+    },
+    "drand_server_seed": "704da48e1afdb183251acb583b1b80ac6ccbe0cd8ba3b6c5bd1eb82f68182249",
+    "drand_seed_hash": "b08de91a1628dcd068c7d1d7f4047527894afcad8d1ba03de1d4d831e03cfb9375ab3e53f2efebb5fbb30f2c8b62d07a",
+    "client_seed": "1795813864020",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 703,
+    "max_tickets": 749,
+    "combined_hash": "4ea5130530cad740c245faecd9660b342c1d90543f5c9bb686fbf796b28f2ec4",
+    "result": "299",
+    "external_round_id": "34336836",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:11:04.000000Z",
+    "revealed_at": "2026-11-27T21:11:12.000000Z"
+}
