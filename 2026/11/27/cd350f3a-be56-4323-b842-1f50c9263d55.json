@@ -1,0 +1,22 @@
+{
+    "round_id": "cd350f3a-be56-4323-b842-1f50c9263d55",
+    "draw_title": "£250 Site Credit",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/ps250-site-credit-7",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "29d326643b677d4e914d22f159af3c2c6afc8e3601a01ab5a94cf918d06d8790",
+    "drand_seed_hash": "97a3f6dd08923b5514344736aabd55621d0974e45819864013ab9137ff247c3240b25264947f5af37e08b2cf29c4d751",
+    "client_seed": "1795810251521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 340,
+    "max_tickets": 350,
+    "combined_hash": "ecc89989c2c1240a8171e532543ef7aae9508e77577213e85088e168c4da6e7c",
+    "result": "87",
+    "external_round_id": "34335631",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:10:51.000000Z",
+    "revealed_at": "2026-11-27T20:10:57.000000Z"
+}
