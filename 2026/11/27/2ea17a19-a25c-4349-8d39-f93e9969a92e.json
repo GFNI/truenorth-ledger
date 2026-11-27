@@ -1,0 +1,22 @@
+{
+    "round_id": "2ea17a19-a25c-4349-8d39-f93e9969a92e",
+    "draw_title": "WIN a Playstation 5 Disc Edition + Grand Theft Auto Vl",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/win-a-playstation-5-disc-edition-grand-theft-auto-vl",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "d432e469423c508315046f8e986e3f92acf4184ac7f63784198e803d16d5ea00",
+    "drand_seed_hash": "8db78972cc42b1bd4677077cce589010db25052a765d4601bff0a9a9ae9ed8164ebab6b77ee2c4ea9f65867cb9a5d748",
+    "client_seed": "1795811632540",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 245,
+    "max_tickets": 350,
+    "combined_hash": "3831643ae3c66f8b58187eba1d63deb69d9aa7bab98fccf150de3bbeb5b1501e",
+    "result": "329",
+    "external_round_id": "34336092",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:33:52.000000Z",
+    "revealed_at": "2026-11-27T20:34:00.000000Z"
+}
