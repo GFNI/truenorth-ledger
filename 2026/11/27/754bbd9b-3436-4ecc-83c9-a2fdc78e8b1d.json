@@ -1,0 +1,22 @@
+{
+    "round_id": "754bbd9b-3436-4ecc-83c9-a2fdc78e8b1d",
+    "draw_title": "£40k Money Punch | £1,500 End Prize",
+    "competition_url": "https://dreamtechcompetitions.co.uk/admin/products/ps40k-money-punch-ps1500-end-prize",
+    "operator": {
+        "name": "DreamTech Competitions Ltd",
+        "website": "https://dreamtechcompetitions.co.uk",
+        "company_number": "11789110"
+    },
+    "drand_server_seed": "9def0983a0686d25c3ae5992fa209750955e7a6cb58d49f2cff001d2453e2759",
+    "drand_seed_hash": "b2f8e5e015d9422299d34cd05345bd50dbda80e739fc2ce54c6f3af5795607f7d70bb79602deda575ef61fa372f1db95",
+    "client_seed": "1795811836973",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2561,
+    "max_tickets": 20995,
+    "combined_hash": "a41e3098b26f080df0794f373b2ebeaff6afb85ef55ef2205c85cd4f56d79db8",
+    "result": "4475",
+    "external_round_id": "34336159",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:37:16.000000Z",
+    "revealed_at": "2026-11-27T20:37:21.000000Z"
+}
