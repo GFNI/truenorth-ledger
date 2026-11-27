@@ -1,0 +1,22 @@
+{
+    "round_id": "dc5ffe70-d768-4c1e-9564-8dc44e6d7483",
+    "draw_title": "WIN! A DARTS XMAS ADVENT CALENDAR INSTANTLY! + END PRIZE!",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-a-darts-xmas-advent-calendar-instantly-end-prize",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "655064bf1651d6df691c3c7d1fdc9e4ea8d5463d8bfc44a63585f842cedc78aa",
+    "drand_seed_hash": "a6a553a837145d98a28a099fc0e5bd35165a230977f1ca54ab8ab7b29fb3a978ad4e95524af1d7311c588883ccada66d",
+    "client_seed": "1795811145545",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2092,
+    "max_tickets": 8999,
+    "combined_hash": "ae35b68bd11819087d8bd45a901904538b0497b649cf0bba4de83df573f6ad24",
+    "result": "4789",
+    "external_round_id": "34335929",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:25:45.000000Z",
+    "revealed_at": "2026-11-27T20:25:51.000000Z"
+}
