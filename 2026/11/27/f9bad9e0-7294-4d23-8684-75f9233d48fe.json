@@ -1,0 +1,22 @@
+{
+    "round_id": "f9bad9e0-7294-4d23-8684-75f9233d48fe",
+    "draw_title": "Spin Into Christmas – Win Up to £1,000 Cash!",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/spin-into-christmas-win-up-to-ps1000-cash-7",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "1a861d1090508bab68e2639d321169664ec6231cdf1f5b3baa9aea130ae0fefc",
+    "drand_seed_hash": "8feb1e42c72c6221a384c03913b5f741c717a2fdae23c6ec9b1d9e8782ac415c3051b01d40c1a0ce7e68e8d1129063b5",
+    "client_seed": "1795813951405",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15000,
+    "max_tickets": 15000,
+    "combined_hash": "af8482ec5f102fefb3aa5e933cc3fe572ad38aa1544034e848c2d3e8bd35ec7f",
+    "result": "11624",
+    "external_round_id": "34336865",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:12:31.000000Z",
+    "revealed_at": "2026-11-27T21:12:39.000000Z"
+}
