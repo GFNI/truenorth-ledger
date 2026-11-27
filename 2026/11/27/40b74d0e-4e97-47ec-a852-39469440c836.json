@@ -1,0 +1,22 @@
+{
+    "round_id": "40b74d0e-4e97-47ec-a852-39469440c836",
+    "draw_title": "WIN - FIREBALL DARTBOARD - NOT RELEASED TO BUY (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-fireball-dartboard-not-released-to-buy-auto-draw-2",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "47c8067b08b089a19b51100648836dce2a172da65d4b5acca32252054e8b8df4",
+    "drand_seed_hash": "8f3b61135f383a14752788e797a2a767effe91eeacc3b758e8c9d98fa95900d72ab8ff439ad8980b0d9c93424774cc8a",
+    "client_seed": "1795819209754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 170,
+    "max_tickets": 250,
+    "combined_hash": "56363f712138873e0adf6a48e47a1245837de57c824ee6ac5680d59c29d1c21c",
+    "result": "87",
+    "external_round_id": "34338617",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:40:09.000000Z",
+    "revealed_at": "2026-11-27T22:40:15.000000Z"
+}
