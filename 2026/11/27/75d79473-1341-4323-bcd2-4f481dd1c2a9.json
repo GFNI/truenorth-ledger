@@ -1,0 +1,22 @@
+{
+    "round_id": "75d79473-1341-4323-bcd2-4f481dd1c2a9",
+    "draw_title": "Creed Aventus Eau de Parfum",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/creed-aventus-eau-de-parfum",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "63537ea7e4013d2fbff6f3d08fb7ecabb6c29ca9038bd0a632270dde716ca947",
+    "drand_seed_hash": "98f81637e9046cea4edd91de57d6df1304c3b92657cf81c45491d313e5cddba1f718c4260131a2b755fa7685f1c75029",
+    "client_seed": "1795813821558",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8793,
+    "max_tickets": 13640,
+    "combined_hash": "b5763d20200090a6e2c97565dfc8ce612d43646e18c53ec7676ce247fecef2dd",
+    "result": "4798",
+    "external_round_id": "34336821",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:10:21.000000Z",
+    "revealed_at": "2026-11-27T21:10:27.000000Z"
+}
