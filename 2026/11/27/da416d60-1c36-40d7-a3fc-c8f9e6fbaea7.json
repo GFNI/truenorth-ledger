@@ -1,0 +1,22 @@
+{
+    "round_id": "da416d60-1c36-40d7-a3fc-c8f9e6fbaea7",
+    "draw_title": "Pokémon Destined Rivals Booster Box - 36 Packs!",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/pokemon-destined-rivals-booster-box-36-packs",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "331a82cfcb5378678cda203bd4d6281590456d7b322e7cff5c69e41eb4442638",
+    "drand_seed_hash": "95dc2768d693d11585210b5ee2cac2ccbd7f380df17452d4631c899f08ae60f8172da13dc6e67a15c82c96f2a882f277",
+    "client_seed": "1795813827727",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10630,
+    "max_tickets": 14520,
+    "combined_hash": "f890e51202e8cabacc72746de80713b7803366cec6834b90d9245e5dfe31eb73",
+    "result": "5065",
+    "external_round_id": "34336823",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:10:27.000000Z",
+    "revealed_at": "2026-11-27T21:10:33.000000Z"
+}
