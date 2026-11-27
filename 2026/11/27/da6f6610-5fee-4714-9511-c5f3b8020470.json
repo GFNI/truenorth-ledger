@@ -1,0 +1,22 @@
+{
+    "round_id": "da6f6610-5fee-4714-9511-c5f3b8020470",
+    "draw_title": "📺 Marv's FREE Monthly Draw Fire TV Stick 4K 📺",
+    "competition_url": "https://marvalouscompetitions.co.uk/admin/products/marvs-free-monthly-draw-fire-tv-stick-4k",
+    "operator": {
+        "name": "Marvalous Competitions LTD",
+        "website": "https://marvalouscompetitions.co.uk",
+        "company_number": "16752993"
+    },
+    "drand_server_seed": "a722b47152e32592be73665e6a882639fc03669f40f6da7c8ee52c9d49d82a23",
+    "drand_seed_hash": "86e37940d88e08dfdfa1587294b86365acdbd3d8fc4a60d8c8a8dcf02cc5a36fc1a8f7a76acc2df16e27fb25c4f3b4ae",
+    "client_seed": "1795806829355",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 276,
+    "max_tickets": 1000,
+    "combined_hash": "ea102be38074801b6a55c7807bc2d254ccb1445d57e1178c1e25863e15071b15",
+    "result": "411",
+    "external_round_id": "34334491",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T19:13:49.000000Z",
+    "revealed_at": "2026-11-27T19:13:57.000000Z"
+}
