@@ -1,0 +1,22 @@
+{
+    "round_id": "926a0840-47a8-40f3-873e-0e0e6e6d125c",
+    "draw_title": "WIN Beau Greaves Japan Edition SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-beau-greaves-japan-edition-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "64b9f4e8c89dab696848b1f535da696cc84a97ce09a62e3c4cba088dbb6a299b",
+    "drand_seed_hash": "964307d06176cb82065230429eac319cf66ea96570cfc93781a190ca1808e0a419c691a08e015191a757c0ea9fc6dc74",
+    "client_seed": "1795817484582",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 50,
+    "max_tickets": 140,
+    "combined_hash": "d73beb2f2f09b579ae72395567e0b49a2760db6dc8a8067953904dc03dcfbd99",
+    "result": "52",
+    "external_round_id": "34338042",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:11:24.000000Z",
+    "revealed_at": "2026-11-27T22:11:30.000000Z"
+}
