@@ -1,0 +1,22 @@
+{
+    "round_id": "68cf2b29-9bb2-4dd2-935b-c1edec49b1dc",
+    "draw_title": "Win Up To £500 Instantly! 💷✨£500 Main Prize!  Just 1p A Ticket!",
+    "competition_url": "https://lockoscompetitions.com/admin/products/win-up-to-ps500-instantly-ps500-main-prize-just-1p-a-ticket",
+    "operator": {
+        "name": "lockoscompetitions",
+        "website": "https://lockoscompetitions.com",
+        "company_number": "15596757"
+    },
+    "drand_server_seed": "a77fc694cd63caf025a77e09e608267fa78b5f0d8a970e58d2afaf70745489a6",
+    "drand_seed_hash": "849e2640fb26faa02cc4eb646325dae5f0a006ccf860c7d66e3858c4ffb949601968dc6faa959f0e8ea33bbf3610ee35",
+    "client_seed": "1795817629239",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 147668,
+    "max_tickets": 450000,
+    "combined_hash": "af50da9a46d6018e95595a8f69713d36dddcde16023cfdf6a108956cd8435079",
+    "result": "148768",
+    "external_round_id": "34338091",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:13:49.000000Z",
+    "revealed_at": "2026-11-27T22:13:57.000000Z"
+}
