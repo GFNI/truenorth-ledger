@@ -1,0 +1,22 @@
+{
+    "round_id": "fd735ed7-9827-4a3b-bccc-0065c737cc9a",
+    "draw_title": "JELLYCAT Chip, Salt & Vinegar",
+    "competition_url": "https://northern-competitions.co.uk/admin/products/jellycat-chip-salt-vinegar",
+    "operator": {
+        "name": "Northern Competitions",
+        "website": "https://northern-competitions.co.uk",
+        "company_number": "NO COMPANY"
+    },
+    "drand_server_seed": "cb56208caa1f18ed9341419847fccd5764f6f8b43c1b6ba63c0fd88612cc3b70",
+    "drand_seed_hash": "8881522a7732ce75d4e42ae02650b1c5eebc5e7be0589eb4c0759e6fb0dc9ff0dc97d67236e0b0b4bfdb19f0bf2374de",
+    "client_seed": "1795817646776",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 189,
+    "max_tickets": 189,
+    "combined_hash": "9accb406cf310af505f9bbfbab0a4ee8b2a403dd20bccaa28ef5c3de60a81ae8",
+    "result": "77",
+    "external_round_id": "34338096",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:14:06.000000Z",
+    "revealed_at": "2026-11-27T22:14:12.000000Z"
+}
