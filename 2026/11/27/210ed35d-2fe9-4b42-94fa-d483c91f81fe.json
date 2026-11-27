@@ -1,0 +1,22 @@
+{
+    "round_id": "210ed35d-2fe9-4b42-94fa-d483c91f81fe",
+    "draw_title": "21 whiskies to win instantly.  All 21 years old.",
+    "competition_url": "https://drawdrop.co.uk/admin/products/21-whiskies-instant",
+    "operator": {
+        "name": "Tyche Promotions",
+        "website": "https://drawdrop.co.uk",
+        "company_number": "SC845821"
+    },
+    "drand_server_seed": "558ef31bbfbf3aa89186f27796997df7b42ae4f9439fcedb0f5359fd0b1ddc51",
+    "drand_seed_hash": "99780c60c4f614e4cef0513cfece8ae51a672f435227f5af6a3eabe3915b40d3833a7e5bfd3134efd1c4ee15b5a27229",
+    "client_seed": "1795817598655",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 305,
+    "max_tickets": 2459,
+    "combined_hash": "7e74f4480ac995bf40bae094bda571b8a1066da5bf615dc6c3d78ba855162375",
+    "result": "614",
+    "external_round_id": "34338080",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:13:18.000000Z",
+    "revealed_at": "2026-11-27T22:13:24.000000Z"
+}
