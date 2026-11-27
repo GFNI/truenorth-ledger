@@ -1,0 +1,22 @@
+{
+    "round_id": "45a01d09-cdc4-4fa0-950b-a645f17a0031",
+    "draw_title": "Karaoke Machine 🎤",
+    "competition_url": "https://paramountprizes.co.uk/admin/products/karaoke-machine",
+    "operator": {
+        "name": "Paramount Prizes",
+        "website": "https://paramountprizes.co.uk",
+        "company_number": "Paramount Prizes"
+    },
+    "drand_server_seed": "0288b857a7f865368e026747fdbff0bc8322c10c31e8c583c77cde159ef338df",
+    "drand_seed_hash": "8938b4cf4ac84045855b147fd7d0915f3fc8212a3723b01454be5b443d96cad03f075cce6776b8ce171413f083e1a1c9",
+    "client_seed": "1795810239905",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 228,
+    "max_tickets": 300,
+    "combined_hash": "e4e99ed60fc80af5a5fcf2716146e985fed51892fc32d28a7cfdd8194421af20",
+    "result": "189",
+    "external_round_id": "34335627",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:10:39.000000Z",
+    "revealed_at": "2026-11-27T20:10:45.000000Z"
+}
