@@ -1,0 +1,22 @@
+{
+    "round_id": "310e9215-e403-469a-b636-e0176a778e4c",
+    "draw_title": "INSTANT WINS FREEBIE",
+    "competition_url": "https://rushcompetitions.co.uk/admin/products/instant-wins-freebie",
+    "operator": {
+        "name": "Rush Competitions Ltd",
+        "website": "https://rushcompetitions.co.uk",
+        "company_number": "13689949"
+    },
+    "drand_server_seed": "47f37c4ec276f5124f732b68537943d9f3f0683c289f9515ba753cab4036679e",
+    "drand_seed_hash": "89236719f4d91c96cd9e08346a7c43a4e5dfc65228e8fbd9dd602b2d5b53b2511e969b051b93e189221cf66ffe09555d",
+    "client_seed": "1795811716072",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 250,
+    "max_tickets": 250,
+    "combined_hash": "be6938f2e1dfcc934af1e8570822ff24c63da8aad2b8e53dcb0fea021aa41d4d",
+    "result": "109",
+    "external_round_id": "34336120",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:35:16.000000Z",
+    "revealed_at": "2026-11-27T20:35:24.000000Z"
+}
