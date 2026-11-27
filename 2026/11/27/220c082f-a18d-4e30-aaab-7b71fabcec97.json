@@ -1,0 +1,22 @@
+{
+    "round_id": "220c082f-a18d-4e30-aaab-7b71fabcec97",
+    "draw_title": "£3000 TAX FREE CASH💸",
+    "competition_url": "https://winbigcompetitions.co.uk/admin/products/ps3000-tax-free-cash",
+    "operator": {
+        "name": "Win Big Competitions Ltd",
+        "website": "https://winbigcompetitions.co.uk",
+        "company_number": "16085605"
+    },
+    "drand_server_seed": "69ed1512336f16ad46595f6af56ad9f56f2acf79f81b7a4e7ac66ea5ed419a74",
+    "drand_seed_hash": "85d5c43480d67d0f65b6b205369311397d16d59c9e534961d315c8747ed84f4e4a52002b3dcdc2b5bcaf062af85ca298",
+    "client_seed": "1795813906989",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 10000,
+    "max_tickets": 10000,
+    "combined_hash": "0ad6f3c69ccfff07376d0b863e8a8248fc0ae8254019b2a0dea52283aed40f5b",
+    "result": "8811",
+    "external_round_id": "34336850",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:11:47.000000Z",
+    "revealed_at": "2026-11-27T21:11:54.000000Z"
+}
