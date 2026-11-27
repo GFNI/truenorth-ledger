@@ -1,0 +1,22 @@
+{
+    "round_id": "cf4d0f1c-adb1-4437-bd1e-a1b0789f628d",
+    "draw_title": "£1500 cash",
+    "competition_url": "https://luxuriousgiveaways.com/admin/products/ps1500-cash-220",
+    "operator": {
+        "name": "Luxurious Giveaways Ltd",
+        "website": "https://luxuriousgiveaways.com",
+        "company_number": "12979755"
+    },
+    "drand_server_seed": "3374201904b9067b1b95a23b36c2a1ec519e85e7efcdb5db79561b7fae9511ae",
+    "drand_seed_hash": "aa8e38bdfd7797048908089fb330eb764ed8b79bf7895d1ecf16f6d28c88ee0adbc4fd950d3876feeccb63b89f119b2d",
+    "client_seed": "1795817883001",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 762,
+    "max_tickets": 1000,
+    "combined_hash": "951db85b11c9decb54580aa3bea1c31f17922aafbd20ce7563efbf0eb79c57db",
+    "result": "854",
+    "external_round_id": "34338175",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:18:03.000000Z",
+    "revealed_at": "2026-11-27T22:18:09.000000Z"
+}
