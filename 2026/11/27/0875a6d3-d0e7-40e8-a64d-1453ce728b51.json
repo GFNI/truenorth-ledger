@@ -1,0 +1,22 @@
+{
+    "round_id": "0875a6d3-d0e7-40e8-a64d-1453ce728b51",
+    "draw_title": "Xbox Series S 512GB + GTA VI",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/xbox-series-s-512gb-gta-vi",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "f8a2bd9936d7b9883b0ae76b8fd7f4acd1b8460c1c7adcf108b2222240a6879f",
+    "drand_seed_hash": "997d32713bd0bad0b293b27ec9108bb1d4739fdca70446aeccee0a8a2ea810544a5e68b3982ee3e66b96a89fd8096fc8",
+    "client_seed": "1795801684121",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 21780,
+    "max_tickets": 21780,
+    "combined_hash": "14bb5d2477a96c327dba34c3cfe325bf4d21302c81b8a77ad5f318dc0271ee8c",
+    "result": "21157",
+    "external_round_id": "34332776",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T17:48:04.000000Z",
+    "revealed_at": "2026-11-27T17:48:12.000000Z"
+}
