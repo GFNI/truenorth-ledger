@@ -1,0 +1,22 @@
+{
+    "round_id": "3eda9189-c46b-4eae-8f86-8aaff0c39e67",
+    "draw_title": "🔴ODDS BOOSTER - 500 ENTRIES INTO THE AUDI Q3 S-LINE BLACK EDITION QUATTRO #4",
+    "competition_url": "https://bountycompetitions.co.uk/admin/products/odds-booster-500-entries-into-the-audi-q3-s-line-black-edition-quattro-4",
+    "operator": {
+        "name": "Bounty Competitions",
+        "website": "https://bountycompetitions.co.uk",
+        "company_number": "SC659814"
+    },
+    "drand_server_seed": "d578ac56cda382b1be7802d567499008ea99ea80765572b0adbf7d8e0df97a38",
+    "drand_seed_hash": "b3fae07bd3120d2eab6947cfe98a3cd60133bfe9d7dab4303fa6126d039220390daeb97aacd5f3b7e54c4c05a916345f",
+    "client_seed": "1795813014500",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 650,
+    "max_tickets": 650,
+    "combined_hash": "fbec54a857391e1724730290de2c778d5ab4ffb2163e17068a2a9262a3105109",
+    "result": "430",
+    "external_round_id": "34336552",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:56:54.000000Z",
+    "revealed_at": "2026-11-27T20:57:00.000000Z"
+}
