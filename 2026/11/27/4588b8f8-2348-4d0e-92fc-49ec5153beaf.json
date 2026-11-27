@@ -1,0 +1,22 @@
+{
+    "round_id": "4588b8f8-2348-4d0e-92fc-49ec5153beaf",
+    "draw_title": "THE SUPERMARKET VOUCHER!!",
+    "competition_url": "https://prizocompetitions.co.uk/admin/products/the-supermarket-voucher",
+    "operator": {
+        "name": "Prizo Competitions Ltd",
+        "website": "https://prizocompetitions.co.uk",
+        "company_number": "16987350"
+    },
+    "drand_server_seed": "52f514b603b995dfbed9f2bbc2e2fdbebfcc9dbd933c68a53dc6f35b0fecb175",
+    "drand_seed_hash": "aa6e52ba6c6b5591ad286870e0adf8f34ac647498215a9cb2ae0b25e00e6725a036a29943fc49c8b738236e697ca8b3f",
+    "client_seed": "1795813879320",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 599,
+    "combined_hash": "00a256a84c2848a5ba71037e6f10fbab7541a1a5921d304c440ee5260b40b76a",
+    "result": "198",
+    "external_round_id": "34336841",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:11:19.000000Z",
+    "revealed_at": "2026-11-27T21:11:27.000000Z"
+}
