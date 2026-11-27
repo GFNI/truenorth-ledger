@@ -1,0 +1,22 @@
+{
+    "round_id": "e8f48f7c-7357-41c8-895f-51018f3a1cc1",
+    "draw_title": "£100 quickie cash",
+    "competition_url": "https://mrgiveaways.co.uk/admin/products/ps100-quickie-cash-3",
+    "operator": {
+        "name": "Mr giveaways ltd",
+        "website": "https://mrgiveaways.co.uk",
+        "company_number": "16553185"
+    },
+    "drand_server_seed": "ca40e062db7d0f816527f605e9bf3dc5a25c306985375d8d1ca7a72515da3356",
+    "drand_seed_hash": "ab83f2dd8e8a31c0db6261fa11efd3390e7fb949fd558556762fe14a402056aa81406caa38c3d847e959637b00bba84c",
+    "client_seed": "1795810231883",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1423,
+    "max_tickets": 2000,
+    "combined_hash": "bb9ce85b3ca87e78dd2f4d9513d3fb5ff1bc2ce28aa9fff6d6c63826da544c9e",
+    "result": "1132",
+    "external_round_id": "34335625",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:10:31.000000Z",
+    "revealed_at": "2026-11-27T20:10:39.000000Z"
+}
