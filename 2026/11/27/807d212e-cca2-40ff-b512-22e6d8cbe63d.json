@@ -1,0 +1,22 @@
+{
+    "round_id": "807d212e-cca2-40ff-b512-22e6d8cbe63d",
+    "draw_title": "WIN £300 MYSTERY BOX! *BLACK FRIDAY SPECIAL*",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/win-ps300-mystery-box-black-friday-special",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "6a4391648609aeeb34394d17241ad157455788731aba37507f46ecca572782b9",
+    "drand_seed_hash": "970710b5ba6c2bd416cc0f6374118ecd658462bf88af501f5b5f7741dac5a2b409eb09961537946538871fef8ec94644",
+    "client_seed": "1795811172588",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 73,
+    "max_tickets": 199,
+    "combined_hash": "d5ec15de0f458fa4ec443166a22e7e6790d1c2f2c64a05f8d8729d7660236ae3",
+    "result": "149",
+    "external_round_id": "34335938",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:26:12.000000Z",
+    "revealed_at": "2026-11-27T20:26:18.000000Z"
+}
