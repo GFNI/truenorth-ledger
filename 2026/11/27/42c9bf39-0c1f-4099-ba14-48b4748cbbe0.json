@@ -1,0 +1,22 @@
+{
+    "round_id": "42c9bf39-0c1f-4099-ba14-48b4748cbbe0",
+    "draw_title": "WIN - MVG TS-PRO WINMAU DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-mvg-ts-pro-winmau-darts-auto-draw-2",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "65f647e9a92cdfc2b34e5ca9419d400146709ec6ce7c6ed0924ab6ee92879263",
+    "drand_seed_hash": "8259ced5f9f7434f9a4f3daf69eac42666026f2d3b9bdd3664f41903761c65cda6fa8482d80ff3b70be7a0a3cf21bc2a",
+    "client_seed": "1795819269498",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 83,
+    "max_tickets": 150,
+    "combined_hash": "0c8df2e3f3305270d17e4b7c91f51e8df5a9315407af23769e8cc3c5cbc72593",
+    "result": "53",
+    "external_round_id": "34338637",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:41:09.000000Z",
+    "revealed_at": "2026-11-27T22:41:15.000000Z"
+}
