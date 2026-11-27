@@ -1,0 +1,22 @@
+{
+    "round_id": "b35086c1-6371-439c-95ee-e285f74502e3",
+    "draw_title": "🕷️ THE SPIDEY SMASH INSTANT WINS 🕷️",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/the-spidey-smash-instant-wins",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "dbc4b4b6a21209db558a17215dac40b2bcb0030d21d6fc2996ea38ecb24409b9",
+    "drand_seed_hash": "96471595df749a9cb0b6475611c9bae7013d96070f8afed56b30d4fb13ccc5349a83e6ac11ff76009aedfdb58c6f785e",
+    "client_seed": "1795776643132",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 8776,
+    "max_tickets": 8999,
+    "combined_hash": "06dda44b050548320788a7ef8d7a940d676ac635e29e028256edbf155bc38813",
+    "result": "2713",
+    "external_round_id": "34324429",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T10:50:43.000000Z",
+    "revealed_at": "2026-11-27T10:50:51.000000Z"
+}
