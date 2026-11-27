@@ -1,0 +1,22 @@
+{
+    "round_id": "ae54c22b-0718-4708-bb78-111cf938a68e",
+    "draw_title": "WIN - NORTHERN LIGHTS PRECISE 180 DARTS (AUTO DRAW)",
+    "competition_url": "https://checkoutcompetitions.co.uk/admin/products/win-northern-lights-precise-180-darts-auto-draw-5",
+    "operator": {
+        "name": "BULLSEYE COMPETITIONS LTD",
+        "website": "https://checkoutcompetitions.co.uk",
+        "company_number": "16496446"
+    },
+    "drand_server_seed": "11ec0d2f3a8d2f74b191669d6316c85f7f820b067d5c3b8d33c169516c44d832",
+    "drand_seed_hash": "8fe8f4b457a934fe42b035b086fe0ed9caaed9eb2f599b40670944339dd488665ce28edf1d8cb6502b573c94e1015d0e",
+    "client_seed": "1795819233521",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 65,
+    "max_tickets": 100,
+    "combined_hash": "1b5c4e472c92c65cea9a7eeb9e244499bcd3f0cbebd0b6f7d6fb9bfdd16a01ab",
+    "result": "24",
+    "external_round_id": "34338625",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:40:33.000000Z",
+    "revealed_at": "2026-11-27T22:40:39.000000Z"
+}
