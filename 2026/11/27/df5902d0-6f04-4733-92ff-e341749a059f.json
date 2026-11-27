@@ -1,0 +1,22 @@
+{
+    "round_id": "df5902d0-6f04-4733-92ff-e341749a059f",
+    "draw_title": "Black Friday £100 FREEBIE",
+    "competition_url": "https://starcompetition.co.uk/admin/products/black-friday-ps100-freebie",
+    "operator": {
+        "name": "Star Competitions LTD",
+        "website": "https://starcompetition.co.uk",
+        "company_number": "Star Competitions LTD"
+    },
+    "drand_server_seed": "9f81838af3f48c7d0ec774953e0e369a292e9e37a4d543f974e9b489717a2167",
+    "drand_seed_hash": "9211f09f8c93a6b31b18ee88a83567763b2f2b048ba19f557eced6246c247f05e843cabd6f2996817c7a0ac0c4bfe36f",
+    "client_seed": "1795817653765",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 361,
+    "max_tickets": 800,
+    "combined_hash": "2fecebc806e86d1eb3626cc5f5376d30f4c1708454531e38a48d9d6fb6ba9b66",
+    "result": "624",
+    "external_round_id": "34338099",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:14:13.000000Z",
+    "revealed_at": "2026-11-27T22:14:21.000000Z"
+}
