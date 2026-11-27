@@ -1,0 +1,22 @@
+{
+    "round_id": "88f4cee2-180f-483d-a419-29b648a4ee4b",
+    "draw_title": "2016 CANADIAN SNOW FALCON 1.5oz FINE SILVER COIN",
+    "competition_url": "https://goldbankcomps.co.uk/admin/products/2016-canadian-snow-falcon-15oz-fine-silver-coin-2",
+    "operator": {
+        "name": "JWE Competitions Limited",
+        "website": "https://www.goldbankcomps.co.uk",
+        "company_number": "16174576"
+    },
+    "drand_server_seed": "21ad17675acb5b1d9fc68cf8dcd43f85886d999a00a48474657338aeb6c966cd",
+    "drand_seed_hash": "87f11c03d5d0b3a54dccdfb005d6c44e5dddd7aaa9a665cb264267b569c34050eba3d2911c85989cf1cc9ba474431dc1",
+    "client_seed": "1795823748754",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 127,
+    "max_tickets": 200,
+    "combined_hash": "b6da4e396ee8ebd24306292cb6143b9ded5302b082a9b25b2ecb097152cd0100",
+    "result": "111",
+    "external_round_id": "34340130",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T23:55:48.000000Z",
+    "revealed_at": "2026-11-27T23:55:54.000000Z"
+}
