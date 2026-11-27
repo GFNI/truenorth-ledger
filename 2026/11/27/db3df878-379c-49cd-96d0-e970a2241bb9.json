@@ -1,0 +1,22 @@
+{
+    "round_id": "db3df878-379c-49cd-96d0-e970a2241bb9",
+    "draw_title": "THE MEGA ENDURO ACCESSORY COMP! INSTANT WIN!",
+    "competition_url": "https://sparkcompetitions.com/admin/products/the-mega-enduro-accessory-comp-instant-win-2",
+    "operator": {
+        "name": "Spark Competitions Ltd",
+        "website": "https://sparkcompetitions.com",
+        "company_number": "14887831"
+    },
+    "drand_server_seed": "3a37ccaca48b9a4bcf0032814e96b1d9c00109f0fef7ba488c367948c09141ec",
+    "drand_seed_hash": "9735b7726ceec1d6341577956044f367347b7119d4fc542a72b81a7de5ee1baa88d8103496df1b5a76bb624d4069c595",
+    "client_seed": "1795813888348",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 3933,
+    "max_tickets": 10999,
+    "combined_hash": "a822514d03792cb123da5b26a207fbab5c8625dc6b00ceca1684d08efd6a06f7",
+    "result": "6855",
+    "external_round_id": "34336844",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:11:28.000000Z",
+    "revealed_at": "2026-11-27T21:11:36.000000Z"
+}
