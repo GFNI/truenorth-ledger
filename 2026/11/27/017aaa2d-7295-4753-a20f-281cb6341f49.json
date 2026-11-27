@@ -1,0 +1,22 @@
+{
+    "round_id": "017aaa2d-7295-4753-a20f-281cb6341f49",
+    "draw_title": "*BRAND NEW* GIAN VAN VEEN TS-PRO",
+    "competition_url": "https://northwestdartcomps.co.uk/admin/products/brand-new-gian-van-veen-ts-pro",
+    "operator": {
+        "name": "THE NORTHERN DART GROUP LTD",
+        "website": "https://northwestdartcomps.co.uk",
+        "company_number": "16850312"
+    },
+    "drand_server_seed": "78d4559bea87ce23259ddaa5a7da583ebdb4953fb02eac10eaaa03f01326e9d8",
+    "drand_seed_hash": "a3f5819f0a379e18acc7a4b723fd170d39499a3de7acc38fa637651bc128307d2fd81aba15b7d6a9df055bfb7091838c",
+    "client_seed": "1795811152251",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 69,
+    "max_tickets": 200,
+    "combined_hash": "e7e2f7f65cea544b5fa0d636ad70f08d11d91bfe7e040d2fe675b155164db0d2",
+    "result": "16",
+    "external_round_id": "34335932",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:25:52.000000Z",
+    "revealed_at": "2026-11-27T20:26:00.000000Z"
+}
