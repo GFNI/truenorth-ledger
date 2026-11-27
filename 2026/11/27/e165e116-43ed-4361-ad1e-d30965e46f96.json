@@ -1,0 +1,22 @@
+{
+    "round_id": "e165e116-43ed-4361-ad1e-d30965e46f96",
+    "draw_title": "Kilted Lucky Dips - 10,000 Prizes to be won - Every Ticket Wins",
+    "competition_url": "https://kiltedcompetitions.co.uk/admin/products/kilted-lucky-dips-10000-prizes-to-be-won-every-ticket-wins",
+    "operator": {
+        "name": "Kilted Competitions Limited",
+        "website": "https://kilted.rafflex.uk",
+        "company_number": "Kilted Competitions Limited"
+    },
+    "drand_server_seed": "9f8f76370815036034683973826889a0a0e9e71ab3ef924800a3736b6f1db19f",
+    "drand_seed_hash": "8c0f638a53a24ea5559b75409748229a31b419b9620a2e2f0732e1a7b981f2d2eb2c651e45c08c162995e6f340138922",
+    "client_seed": "1795814098544",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2325,
+    "max_tickets": 10000,
+    "combined_hash": "9f311e5243264168e1f5cc52ff129112b77218571c7baba82bc559966eace55f",
+    "result": "496",
+    "external_round_id": "34336914",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:14:58.000000Z",
+    "revealed_at": "2026-11-27T21:15:06.000000Z"
+}
