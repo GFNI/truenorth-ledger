@@ -1,0 +1,22 @@
+{
+    "round_id": "c88d6dc9-2081-4818-ba76-66c2741d476c",
+    "draw_title": "BMW M135I X DRIVE AUTOMATIC",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/bmw-m135i-x-drive",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "5a51729466f3cb5dadb7bb6adc77c7318923b73d64791e41f84f309cd22ff41e",
+    "drand_seed_hash": "98fa5112968b46ca5ed528b89da8d25d7a35793769e1414346125543301aeda7c17c569a21c5019d0eb76cf41c7d3ca3",
+    "client_seed": "1795814491380",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14181,
+    "max_tickets": 30000,
+    "combined_hash": "20bfccedb7f41b5ecf49cbdf22b5264d30321b21d453338d27dd2885b0fe1ed1",
+    "result": "8465",
+    "external_round_id": "34337045",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:21:31.000000Z",
+    "revealed_at": "2026-11-27T21:21:39.000000Z"
+}
