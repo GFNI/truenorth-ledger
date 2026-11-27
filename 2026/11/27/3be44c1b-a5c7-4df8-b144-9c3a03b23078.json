@@ -1,0 +1,22 @@
+{
+    "round_id": "3be44c1b-a5c7-4df8-b144-9c3a03b23078",
+    "draw_title": "WIN CHRIS DOBEY Hollywood Action SP DARTS",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-chris-dobey-hollywood-action-sp-darts",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "7fbde367e38178d3a46509751916584bce631cf43d8e49d6baf3fcaecf5b7fce",
+    "drand_seed_hash": "aa3223642ff69a60295dd8656837c3862b0d8bb7ccd9cb9072399f2cb7d90b651189fe9ab1e2473bb869b4f221296f98",
+    "client_seed": "1795817592547",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 66,
+    "max_tickets": 130,
+    "combined_hash": "0a13bd9c337a5628aa554caac71b7ab907e66b2d6494a28ce9f2b48e0149b3cb",
+    "result": "125",
+    "external_round_id": "34338078",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:13:12.000000Z",
+    "revealed_at": "2026-11-27T22:13:18.000000Z"
+}
