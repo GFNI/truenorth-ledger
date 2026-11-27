@@ -1,0 +1,22 @@
+{
+    "round_id": "99662b20-a338-4c69-aede-96a54944420b",
+    "draw_title": "WHACK A WIN - UPTO £5,000",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/whack-a-win",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "3c24b8e55bd1055321f5cc55f6a996a90700d2aec0643f98d81ba52ce3ce478d",
+    "drand_seed_hash": "8278c97017494595ed47c5490f89bc6de72f22c1883f8844f22bff4fea053ac29ac3232d33e3e4ad9492fdb9f8fbfb42",
+    "client_seed": "1795813803778",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 15802,
+    "max_tickets": 320000,
+    "combined_hash": "6034bb6b971db0df7c15afc9bf1d1e71d686e1acfc7bd5522b1c045e64afc9f3",
+    "result": "70753",
+    "external_round_id": "34336815",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:10:03.000000Z",
+    "revealed_at": "2026-11-27T21:10:09.000000Z"
+}
