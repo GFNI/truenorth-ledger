@@ -1,0 +1,22 @@
+{
+    "round_id": "35ad8e4b-6061-4b72-b292-5f2e5624a034",
+    "draw_title": "WIN Gerwyn Price RD-ULTRA 90% Switch Point Darts",
+    "competition_url": "https://dartgearcompetitions.co.uk/admin/products/win-gerwyn-price-rd-ultra-90-switch-point-darts-3",
+    "operator": {
+        "name": "Dart Gear ltd",
+        "website": "https://dartgear.rafflex.uk",
+        "company_number": "16239672"
+    },
+    "drand_server_seed": "6e0b827d0a8d6bdead0a79a5e5f380bcdd6ce5ef60754c44255d3e7ffd1a9a32",
+    "drand_seed_hash": "8624cbce2c626e5ad1a55fe39234d7bb76db485335988e1d83fa86a7c24a57d1d94b20362cc2d4bce7ac312bedc72238",
+    "client_seed": "1795817526611",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 85,
+    "max_tickets": 110,
+    "combined_hash": "287b78b92ebb7b1b82da0a6920d1640846eee21f573a7b016e29e3c9106ea25f",
+    "result": "39",
+    "external_round_id": "34338056",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:12:06.000000Z",
+    "revealed_at": "2026-11-27T22:12:12.000000Z"
+}
