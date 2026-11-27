@@ -1,0 +1,22 @@
+{
+    "round_id": "933e8229-ad53-4730-9762-8213ac1a9407",
+    "draw_title": "30 Entries into A9 £100,000 Autumn Jackpot",
+    "competition_url": "https://a9competitions.co.uk/admin/products/30-entries-into-a9-ps100000-autumn-jackpot-3",
+    "operator": {
+        "name": "A9 Competitions Ltd",
+        "website": "https://a9competitions.co.uk",
+        "company_number": "SC729793"
+    },
+    "drand_server_seed": "7d0850aaf5dfbebaac2c631cf4387d7f8eb9aafb0526c7d3d0aebeb18b93023d",
+    "drand_seed_hash": "ab69dd4755f24b4f4eb804b9dad6d7fff5faa2c4463ed386969d1bc6767a94c743976de6d4198f85ee5ad6708a206f66",
+    "client_seed": "1795815178029",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 150,
+    "max_tickets": 150,
+    "combined_hash": "ef46ab88431938aaf28345c94983c4465f97d0f7c6f41556033dfdcb2e608f88",
+    "result": "92",
+    "external_round_id": "34337274",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T21:32:58.000000Z",
+    "revealed_at": "2026-11-27T21:33:06.000000Z"
+}
