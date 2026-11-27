@@ -1,0 +1,22 @@
+{
+    "round_id": "8658c86b-02bd-4779-8454-f6ba5a9da75f",
+    "draw_title": "£5000 CASH",
+    "competition_url": "https://wynnbigg.co.uk/admin/products/ps5000-cash",
+    "operator": {
+        "name": "Tool Vault Comps Limited",
+        "website": "https://wynnbigg.co.uk",
+        "company_number": "17222475"
+    },
+    "drand_server_seed": "6d71197d8aaf305dc57362e0af3d3b080a2398e60c144e6802a4a81410133b78",
+    "drand_seed_hash": "ad554c6a50d1a431db250b2b9323e73e5d7cb4eaa33de5b3604d927ecbd8538f4f7ab4a9d79ea2e6128559249bd8763e",
+    "client_seed": "1795804150996",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 22,
+    "max_tickets": 22,
+    "combined_hash": "e63db167e530579a7a42dce1d322ed8bab2de01849dac88bfab0252dc18be30d",
+    "result": "3",
+    "external_round_id": "34333598",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T18:29:11.000000Z",
+    "revealed_at": "2026-11-27T18:29:18.000000Z"
+}
