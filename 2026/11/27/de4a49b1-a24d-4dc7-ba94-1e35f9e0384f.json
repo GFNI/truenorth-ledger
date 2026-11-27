@@ -1,0 +1,22 @@
+{
+    "round_id": "de4a49b1-a24d-4dc7-ba94-1e35f9e0384f",
+    "draw_title": "CADBURY ULTIMATE CHRISTMAS CHOCOLATE HAMPER",
+    "competition_url": "https://geardowncompetitions.com/admin/products/cadbury-ultimate-christmas-chocolate-hamper",
+    "operator": {
+        "name": "Gear Down Competitions",
+        "website": "https://geardowncompetitions.com",
+        "company_number": "12753994"
+    },
+    "drand_server_seed": "c624afb6e7d71279439e08c864817f659ea036bc5d51ffff0786799d01debf19",
+    "drand_seed_hash": "830ab9c2c13a5c36bd23b30d52eb5572a44a994b17ddcfc07504081c8d270adb7f83cd25b4f8dcddde594b2e2d14dba6",
+    "client_seed": "1795817622594",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 1007,
+    "max_tickets": 1999,
+    "combined_hash": "7383f6a7c3b3172b9eee1adea5fd70115884c5fc0a39778f9e66b2a1e475a80d",
+    "result": "260",
+    "external_round_id": "34338088",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T22:13:42.000000Z",
+    "revealed_at": "2026-11-27T22:13:48.000000Z"
+}
