@@ -1,0 +1,22 @@
+{
+    "round_id": "6ae1bc6b-35e3-4072-80d4-3f896d418b4e",
+    "draw_title": "HOLLY’S BARREL SMASH! 💥 WIN UP TO £1,250 INSTANTLY!",
+    "competition_url": "https://carleycomps.co.uk/admin/products/hollys-barrel-smash-win-up-to-ps1250-instantly",
+    "operator": {
+        "name": "CarleyComps",
+        "website": "https://carleycomps.co.uk",
+        "company_number": "15848123"
+    },
+    "drand_server_seed": "64f52c4a067a980d3fa1bb1364e9ce93ad3daccd076efb5b5336fa3dfd9daf6f",
+    "drand_seed_hash": "b2ab0c2f6000d8fc58e8e2054ccd319a7b3684325ad3cfacd5276cb9641fc635ca4049f3a63e890c3cc7db84a9445e9c",
+    "client_seed": "1795802870758",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 108908,
+    "max_tickets": 899999,
+    "combined_hash": "6ff0a178d04308729f9affd090e5258c40c2447674c1f5b2d9744a1d21a10fba",
+    "result": "681016",
+    "external_round_id": "34333171",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T18:07:50.000000Z",
+    "revealed_at": "2026-11-27T18:07:57.000000Z"
+}
