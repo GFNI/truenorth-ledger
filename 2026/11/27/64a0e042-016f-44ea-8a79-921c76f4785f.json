@@ -1,0 +1,22 @@
+{
+    "round_id": "64a0e042-016f-44ea-8a79-921c76f4785f",
+    "draw_title": "INSTANT ODDS BOOSTERS",
+    "competition_url": "https://acecompetitions.co.uk/admin/products/instant-odds-boosters",
+    "operator": {
+        "name": "ACE COMPS GROUP LTD",
+        "website": "https://acecompetitions.co.uk",
+        "company_number": "SC686957"
+    },
+    "drand_server_seed": "f534a0b8407a14b13a6f4014dd6abd08789cab5351dbf0ee13317636d295c098",
+    "drand_seed_hash": "ad75b3a46c5368994b793b18cb3db3d8c5c17ade696c71cf22f0ddd5fdabda2bb56169cf59476ec7d4aef18a00017b6e",
+    "client_seed": "1795810221640",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 2580,
+    "max_tickets": 18500,
+    "combined_hash": "90edce01ef05737797b896ea32c4e3e8e4b9dbfb8bd3d3130d0ac81349d7f43f",
+    "result": "16949",
+    "external_round_id": "34335621",
+    "processing_status": "completed",
+    "created_at": "2026-11-27T20:10:21.000000Z",
+    "revealed_at": "2026-11-27T20:10:27.000000Z"
+}
