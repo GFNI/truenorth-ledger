@@ -1,0 +1,22 @@
+{
+    "round_id": "92f9e1ca-c972-4bc0-8dfe-cf0075dbaed3",
+    "draw_title": "Free £1,000 Cash - 5 x £200 Winners",
+    "competition_url": "https://allstarprizes.co.uk/admin/products/free-ps1000-cash-5-x-ps200-winners",
+    "operator": {
+        "name": "All Star Prizes Limited",
+        "website": "https://allstar.rafflex.uk",
+        "company_number": "13128010"
+    },
+    "drand_server_seed": "07a25ecccb70e9e5d680f3fba85d3abdab374d0ae8c42743a541db4f345428a1",
+    "drand_seed_hash": "85445b7bd1a37f0dbc92f55a61be128c7b708ac389aca226d5705a542d4d98a2d159007432c6022c249c06a37386f079",
+    "client_seed": "1795824588146",
+    "static_salt": "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t0u1v2w3x4y5z6a7b8c9d0e1f2",
+    "tickets_sold": 14628,
+    "max_tickets": 25000,
+    "combined_hash": "274f6c9d02ebaeae35f9a51359b4205db6f2cbda3dd8f807f5b634b1d88584fc",
+    "result": "21064",
+    "external_round_id": "34340410",
+    "processing_status": "completed",
+    "created_at": "2026-11-28T00:09:48.000000Z",
+    "revealed_at": "2026-11-28T00:09:54.000000Z"
+}
